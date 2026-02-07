@@ -1,45 +1,46 @@
 [
   {
     "date": "2026-02-07",
-    "generated_at": "2026-02-07T16:20:33.005117+00:00",
+    "generated_at": "2026-02-07T16:33:43.385500+00:00",
     "doom": {
-      "percentage": 18,
-      "driver": "General shot in Moscow conscious after surgery, Russian media say. Lt Gen Vladimir Alexeyev was shot several times inside his apartment block on Friday morning.",
-      "category": "Geopolitics",
-      "blurb": "Moscow's power struggles get literal",
-      "summary": "A Russian Lt General takes bullets to the torso and lives\u2014which in Moscow's recent history is either a sign of improving medical care or deteriorating internal security. The Kremlin's internal fractures are apparently now expressed through small arms fire, which is theater-adjacent to actual doom but mostly just sad.",
+      "percentage": 12.5,
+      "driver": "England vs Nepal: T20 World Cup \u2013 teams, start time, lineups. England open their 2026 T20 World Cup campaign against Nepal with points to prove on and off the field.",
+      "category": "Wild Card",
+      "blurb": "Cricket Proceeds As Scheduled",
+      "summary": "In a stunning turn of events, absolutely nothing concerning happened today. England will play Nepal at cricket, a sport where the worst-case scenario is a rain delay or someone's feelings getting hurt by a slow bowling analysis. This is what baseline human normalcy looks like\u2014enjoy it while it lasts.",
       "factors": [
         {
           "name": "Geopolitics",
-          "signal": "elevated",
-          "detail": "Russian military brass being shot in their homes suggests internal power struggles, though assassination attempts on senior officers are a known pattern rather than a new threshold."
+          "signal": "low",
+          "detail": "Two nations competing in a sporting event via established international rules\u2014textbook peaceful conflict resolution."
         },
         {
           "name": "Governance",
-          "signal": "medium",
-          "detail": "Russian state capacity to protect senior generals from violence within Moscow proper remains questionable."
+          "signal": "low",
+          "detail": "Tournament infrastructure intact, scheduling functioning, no institutional collapse detected."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "A documentary's audience score manipulation is trivial compared to actual bullets, though it does highlight information ecosystem decay."
+          "detail": "Cricket remains wonderfully, reassuringly predictable\u2014the apocalypse has not yet gamified the sport."
         },
         {
           "name": "AI Capability",
           "signal": "low",
-          "detail": "No AI-related threat signals in today's headlines."
+          "detail": "No algorithmic takeovers reported in sports commentary; human broadcasters still employed."
         },
         {
-          "name": "Alignment",
+          "name": "Climate",
           "signal": "low",
-          "detail": "No alignment-relevant developments reported."
+          "detail": "Match is happening as planned with no apocalyptic weather advisories mentioned."
         }
       ],
       "mood": [
-        "tense",
-        "murky",
-        "ominous",
-        "byzantine"
+        "peaceful",
+        "mundane",
+        "sporting",
+        "hopeful",
+        "normal"
       ],
       "tier": 2,
       "tier_name": "Low Hum",
@@ -47,44 +48,44 @@
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
     },
     "dawn": {
-      "percentage": 82.0,
-      "driver": "France's homegrown open source online office suite",
-      "category": "Technology",
-      "blurb": "DIGITAL SOVEREIGNTY RISES: OPEN SOURCE POWERS FORWARD",
-      "summary": "While geopolitical tensions dominate headlines, France's launch of a homegrown open-source office suite signals a powerful countertrend: nations and communities building technological independence together. This isn't isolation\u2014it's collaborative resilience. Open-source movements prove that innovation thrives when knowledge is shared, not gatekept, and that alternatives to surveillance-laden platforms are genuinely possible.",
+      "percentage": 87.5,
+      "driver": "England vs Nepal: T20 World Cup \u2013 teams, start time, lineups. England open their 2026 T20 World Cup campaign against Nepal with points to prove on and off the field.",
+      "category": "Human Spirit",
+      "blurb": "CRICKET UNITES NATIONS ON THE WORLD STAGE",
+      "summary": "While headlines often amplify division, the T20 World Cup reminds us that sport transcends borders and creates moments of shared humanity. Nepal's presence at this elite tournament represents cricket's beautiful democratization\u2014a nation rising through dedication and skill, competing alongside established powers. In a fragmented world, these competitions knit communities together across continents.",
       "factors": [
         {
-          "name": "Technology",
-          "signal": "bright",
-          "detail": "Open-source office suite demonstrates viable alternatives to corporate monopolies exist and attract significant developer attention (253+ points, 135+ comments on Hacker News)."
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Nepal's participation in the T20 World Cup represents grassroots cricket development succeeding globally, inspiring millions."
         },
         {
           "name": "Cooperation",
-          "signal": "glimmer",
-          "detail": "Global open-source communities collaborating across borders to build shared digital infrastructure, proving technology can unite rather than divide."
-        },
-        {
-          "name": "Human Spirit",
           "signal": "bright",
-          "detail": "Developers choosing to invest energy in public-good software reflects growing values alignment around privacy, sovereignty, and collective benefit."
+          "detail": "International sports governance enables fair competition between nations of vastly different resources and histories."
         },
         {
           "name": "Wild Card",
           "signal": "glimmer",
-          "detail": "Community enthusiasm (253 points indicates strong organic interest) shows grassroots demand for ethical tech alternatives is real and growing."
+          "detail": "Sports tournaments create rare neutral ground where geopolitical tensions pause and shared passion dominates."
         },
         {
-          "name": "Science",
-          "signal": "quiet",
-          "detail": "Transparent, peer-reviewed approach to software development mirrors scientific method\u2014reproducibility, auditability, and shared discovery."
+          "name": "Community",
+          "signal": "bright",
+          "detail": "Millions of fans across England and Nepal will unite in celebration, creating collective joy across cultures."
+        },
+        {
+          "name": "Discovery",
+          "signal": "glimmer",
+          "detail": "Emerging cricket nations proving that excellence can flourish anywhere with determination and investment in youth."
         }
       ],
       "mood": [
-        "hopeful",
-        "collaborative",
-        "empowering",
-        "resilient",
-        "innovative"
+        "Jubilant",
+        "Unifying",
+        "Inspiring",
+        "Spirited",
+        "Hopeful"
       ],
       "tier": 9,
       "tier_name": "Full Sunrise",
