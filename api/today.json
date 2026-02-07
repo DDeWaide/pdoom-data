@@ -1,93 +1,92 @@
 {
   "date": "2026-02-07",
-  "generated_at": "2026-02-07T16:03:10.082538+00:00",
+  "generated_at": "2026-02-07T16:08:50.005201+00:00",
   "doom": {
-    "percentage": 28,
-    "driver": "US wants Russia and Ukraine to end war by June, says Zelensky",
-    "category": "Geopolitics",
-    "blurb": "PEACE DEADLINE LOOMS AS ENERGY GRID CRUMBLES",
-    "summary": "The Trump administration is pushing for a Ukraine-Russia ceasefire by June, but the ground reality is grimmer: Russia keeps pummeling energy infrastructure while a Pakistani mosque bombing kills 30+ and demonstrates how regional instability metastasizes. Meanwhile, US-Iran nuclear talks in Oman offer a thin thread of diplomatic hope, but Trump's tariff threats suggest negotiation-by-coercion is the new playbook.",
+    "percentage": 12.5,
+    "driver": "WATCH: Big moments as Olympics begin. Team USA, with more than 200 athletes, is the largest U.S. Olympic team ever, representing 32 states and chasing gold in Milan.",
+    "category": "Wild Card",
+    "blurb": "Athletes compete, humanity briefly forgets everything else",
+    "summary": "The Olympics are happening, which is nice. No AI-generated athletes, no geopolitical incidents (yet), no bioweapon disclosures. Just humans running fast and throwing things far. This is actually the baseline\u2014the normal day we measure doom against.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Ukraine peace deadline, Iran nuclear talks, Pakistan mosque bombing, and Russian military assassinations suggest multipolar chaos accelerating."
-      },
-      {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "Trump administration pivoting rapidly on policy (Iran talks, Ukraine deadline, tariffs) with minimal institutional constraints visible."
+        "signal": "low",
+        "detail": "No major powers weaponizing the games as of publication."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Claude agents building compilers, Waymo simulating rare driving scenarios, and Moltbook exposing human data suggest AI systems operating with less friction."
+        "signal": "low",
+        "detail": "No reports of deepfake Olympics or algorithmic referee bias."
       },
       {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Trump shares racist video, State Department erasing pre-2025 posts, fox-news settles defamation suit: institutional erosion and historical revisionism accelerating."
+        "name": "Governance",
+        "signal": "low",
+        "detail": "International cooperation on sports remains weirdly functional."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Moltbook AI agents exposed human data; no major alignment failure, but governance lag widening between capability and control."
+        "detail": "No mention of AI systems replacing medal counts or athletes."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Large gatherings of humans are statistically where unexpected things happen."
       }
     ],
     "mood": [
-      "tense",
-      "precarious",
-      "accelerating",
-      "diplomatic-brinkmanship",
-      "twilight"
+      "wholesome",
+      "hopeful",
+      "mundane",
+      "celebratory"
     ],
-    "tier": 3,
-    "tier_name": "Unsettled",
+    "tier": 2,
+    "tier_name": "Low Hum",
     "card_image": "doom-card-2026-02-07.png",
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
   },
   "dawn": {
-    "percentage": 72.0,
-    "driver": "Milan-Cortina Games begin with vibrant opening ceremony. Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics.",
+    "percentage": 87.5,
+    "driver": "WATCH: Big moments as Olympics begin. Team USA, with more than 200 athletes, is the largest U.S. Olympic team ever, representing 32 states and chasing gold in Milan.",
     "category": "Human Spirit",
-    "blurb": "THE WORLD GATHERS IN UNITY AND JOY",
-    "summary": "Amid geopolitical tensions, violence in multiple regions, and economic uncertainty, humanity paused to celebrate together. The Milan-Cortina Winter Olympics opening ceremony brought athletes from around the globe\u2014competing nations, former adversaries, allies\u2014to share in spectacle, artistry, and the pure joy of sport. Andrea Bocelli and Mariah Carey's performances reminded us that beauty, music, and human connection transcend borders. This is what we're capable of when we choose unity over division.",
+    "blurb": "LARGEST TEAM EVER: UNITY IN PURSUIT OF EXCELLENCE",
+    "summary": "As global tensions simmer, the Olympics remind us that humanity's highest calling is to gather, compete fairly, and celebrate excellence together. Over 200 American athletes from 32 states converging in Milan embodies unity across geography and discipline\u2014a tangible proof that cooperation and shared aspiration still move the world. Even amid uncertainty, this moment captures human resilience at its most visible.",
     "factors": [
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "Global athletes from rival nations gathered in peace for opening ceremony, embodying shared humanity and competition without conflict."
+        "detail": "Record-breaking participation shows sustained investment in athletic excellence and youth development across the entire nation."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "US and Iran held 'positive' nuclear talks in Oman, signaling dialogue over escalation in high-stakes geopolitical standoff."
+        "detail": "32 states represented signals unprecedented coordination and resource-sharing toward a common national goal."
       },
       {
-        "name": "Science",
+        "name": "Community",
         "signal": "bright",
-        "detail": "Experimental surgery helping cancer survivors give birth; researchers discovering sugar-based antibiotics to fight superbugs; quantum computing breakthroughs advancing."
-      },
-      {
-        "name": "Technology",
-        "signal": "glimmer",
-        "detail": "16 Claude AI agents successfully collaborated to create a C compiler, demonstrating AI coordination potential despite challenges."
+        "detail": "Athletes from diverse backgrounds and regions uniting under one banner demonstrates inclusive, distributed achievement."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Gen Z and millennials choosing real-world connection\u2014lunch dates, vinyl records\u2014over social media, prioritizing mental health and presence."
+        "detail": "International Olympic gathering continues as a rare global commons where peaceful competition transcends political divides."
+      },
+      {
+        "name": "Science",
+        "signal": "glimmer",
+        "detail": "Modern sports science and training methods enabling peak human performance at scale, visible in athlete preparation."
       }
     ],
     "mood": [
-      "unified",
       "triumphant",
-      "hopeful",
-      "luminous",
-      "resilient"
+      "unified",
+      "inspired",
+      "energetic",
+      "hopeful"
     ],
-    "tier": 8,
-    "tier_name": "Brilliant",
+    "tier": 9,
+    "tier_name": "Full Sunrise",
     "card_image": "dawn-card-2026-02-07.png",
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-07.png"
   }
