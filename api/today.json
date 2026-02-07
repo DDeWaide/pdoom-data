@@ -1,45 +1,44 @@
 {
   "date": "2026-02-07",
-  "generated_at": "2026-02-07T16:33:43.385500+00:00",
+  "generated_at": "2026-02-07T17:10:34.253683+00:00",
   "doom": {
-    "percentage": 12.5,
-    "driver": "England vs Nepal: T20 World Cup \u2013 teams, start time, lineups. England open their 2026 T20 World Cup campaign against Nepal with points to prove on and off the field.",
-    "category": "Wild Card",
-    "blurb": "Cricket Proceeds As Scheduled",
-    "summary": "In a stunning turn of events, absolutely nothing concerning happened today. England will play Nepal at cricket, a sport where the worst-case scenario is a rain delay or someone's feelings getting hurt by a slow bowling analysis. This is what baseline human normalcy looks like\u2014enjoy it while it lasts.",
+    "percentage": 18,
+    "driver": "Italy says railways hit by 'serious sabotage' as Winter Olympics begin. Police say they are investigating three incidents targeting rail infrastructure that caused travel delays.",
+    "category": "Cyber",
+    "blurb": "OLYMPIC SABOTAGE: INFRASTRUCTURE UNDER FIRE",
+    "summary": "Italy's Winter Olympics kicked off with three coordinated rail sabotage incidents\u2014the kind of targeting that raises questions about who's behind it and what they want. Could be protest, could be state-level mischief, could be someone testing Olympic security. Either way, hitting infrastructure during a global event is the kind of escalation that gets security folks' hearts racing.",
     "factors": [
       {
+        "name": "Cyber",
+        "signal": "elevated",
+        "detail": "Coordinated infrastructure sabotage during high-profile event suggests either sophisticated actors or copycat disruption tactics."
+      },
+      {
         "name": "Geopolitics",
-        "signal": "low",
-        "detail": "Two nations competing in a sporting event via established international rules\u2014textbook peaceful conflict resolution."
+        "signal": "medium",
+        "detail": "Nuclear diplomacy signals from Trump-Iran talks show continued engagement, but unpredictability remains high."
       },
       {
         "name": "Governance",
         "signal": "low",
-        "detail": "Tournament infrastructure intact, scheduling functioning, no institutional collapse detected."
+        "detail": "Domestic US political theater (Christie's Trump commentary, Warnock on press freedom) is noise, not signal."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Cricket remains wonderfully, reassuringly predictable\u2014the apocalypse has not yet gamified the sport."
+        "detail": "Youth exodus from social media is net-positive for mental health; Spencer Pratt's childhood blackmail is entertainment."
       },
       {
-        "name": "AI Capability",
+        "name": "Alignment",
         "signal": "low",
-        "detail": "No algorithmic takeovers reported in sports commentary; human broadcasters still employed."
-      },
-      {
-        "name": "Climate",
-        "signal": "low",
-        "detail": "Match is happening as planned with no apocalyptic weather advisories mentioned."
+        "detail": "No AI capability, alignment, or biotech developments in today's headlines."
       }
     ],
     "mood": [
-      "peaceful",
-      "mundane",
-      "sporting",
-      "hopeful",
-      "normal"
+      "tense",
+      "investigative",
+      "unsettling",
+      "cautious"
     ],
     "tier": 2,
     "tier_name": "Low Hum",
@@ -47,44 +46,44 @@
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
   },
   "dawn": {
-    "percentage": 87.5,
-    "driver": "England vs Nepal: T20 World Cup \u2013 teams, start time, lineups. England open their 2026 T20 World Cup campaign against Nepal with points to prove on and off the field.",
+    "percentage": 82.0,
+    "driver": "A 'quiet revolution': Why young people are swapping social media for lunch dates, vinyl records and brick phones.",
     "category": "Human Spirit",
-    "blurb": "CRICKET UNITES NATIONS ON THE WORLD STAGE",
-    "summary": "While headlines often amplify division, the T20 World Cup reminds us that sport transcends borders and creates moments of shared humanity. Nepal's presence at this elite tournament represents cricket's beautiful democratization\u2014a nation rising through dedication and skill, competing alongside established powers. In a fragmented world, these competitions knit communities together across continents.",
+    "blurb": "GENERATION RECLAIMS JOY. REAL CONNECTION RISES.",
+    "summary": "Amid endless doom about technology's grip on youth mental health, Gen Z and millennials are authoring their own hopeful story\u2014deliberately choosing presence over performance, vinyl over algorithms, face-to-face over feeds. This quiet revolution shows young people aren't passive victims of digital culture; they're actively healing themselves by returning to timeless sources of joy: shared meals, tangible music, genuine conversation. It's a powerful signal that humans retain agency and wisdom, especially when it matters most.",
     "factors": [
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "Nepal's participation in the T20 World Cup represents grassroots cricket development succeeding globally, inspiring millions."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "International sports governance enables fair competition between nations of vastly different resources and histories."
+        "detail": "Young people actively choosing mental health and real connection over algorithmic pressure\u2014a conscious reclamation of agency."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Sports tournaments create rare neutral ground where geopolitical tensions pause and shared passion dominates."
-      },
-      {
-        "name": "Community",
         "signal": "bright",
-        "detail": "Millions of fans across England and Nepal will unite in celebration, creating collective joy across cultures."
+        "detail": "Olympic committee reaches first-ever global consensus on inclusive transgender sports policy, bridging a deeply polarized issue."
       },
       {
-        "name": "Discovery",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Emerging cricket nations proving that excellence can flourish anywhere with determination and investment in youth."
+        "detail": "Trump claims Iran 'wants a deal very badly' after indirect Oman-mediated nuclear talks show diplomatic progress."
+      },
+      {
+        "name": "Science",
+        "signal": "glimmer",
+        "detail": "Super Bowl generates $630m in local economic stimulus, demonstrating how human gathering and shared experience drive prosperity."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Shift away from screen addiction naturally reduces energy consumption and e-waste from constant device upgrades."
       }
     ],
     "mood": [
-      "Jubilant",
-      "Unifying",
-      "Inspiring",
-      "Spirited",
-      "Hopeful"
+      "hopeful",
+      "authentic",
+      "joyful",
+      "resilient",
+      "human"
     ],
     "tier": 9,
     "tier_name": "Full Sunrise",
