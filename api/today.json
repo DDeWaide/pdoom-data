@@ -1,44 +1,44 @@
 {
   "date": "2026-02-07",
-  "generated_at": "2026-02-07T16:08:50.005201+00:00",
+  "generated_at": "2026-02-07T16:20:33.005117+00:00",
   "doom": {
-    "percentage": 12.5,
-    "driver": "WATCH: Big moments as Olympics begin. Team USA, with more than 200 athletes, is the largest U.S. Olympic team ever, representing 32 states and chasing gold in Milan.",
-    "category": "Wild Card",
-    "blurb": "Athletes compete, humanity briefly forgets everything else",
-    "summary": "The Olympics are happening, which is nice. No AI-generated athletes, no geopolitical incidents (yet), no bioweapon disclosures. Just humans running fast and throwing things far. This is actually the baseline\u2014the normal day we measure doom against.",
+    "percentage": 18,
+    "driver": "General shot in Moscow conscious after surgery, Russian media say. Lt Gen Vladimir Alexeyev was shot several times inside his apartment block on Friday morning.",
+    "category": "Geopolitics",
+    "blurb": "Moscow's power struggles get literal",
+    "summary": "A Russian Lt General takes bullets to the torso and lives\u2014which in Moscow's recent history is either a sign of improving medical care or deteriorating internal security. The Kremlin's internal fractures are apparently now expressed through small arms fire, which is theater-adjacent to actual doom but mostly just sad.",
     "factors": [
       {
         "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Russian military brass being shot in their homes suggests internal power struggles, though assassination attempts on senior officers are a known pattern rather than a new threshold."
+      },
+      {
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "Russian state capacity to protect senior generals from violence within Moscow proper remains questionable."
+      },
+      {
+        "name": "Wild Card",
         "signal": "low",
-        "detail": "No major powers weaponizing the games as of publication."
+        "detail": "A documentary's audience score manipulation is trivial compared to actual bullets, though it does highlight information ecosystem decay."
       },
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "No reports of deepfake Olympics or algorithmic referee bias."
-      },
-      {
-        "name": "Governance",
-        "signal": "low",
-        "detail": "International cooperation on sports remains weirdly functional."
+        "detail": "No AI-related threat signals in today's headlines."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "No mention of AI systems replacing medal counts or athletes."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Large gatherings of humans are statistically where unexpected things happen."
+        "detail": "No alignment-relevant developments reported."
       }
     ],
     "mood": [
-      "wholesome",
-      "hopeful",
-      "mundane",
-      "celebratory"
+      "tense",
+      "murky",
+      "ominous",
+      "byzantine"
     ],
     "tier": 2,
     "tier_name": "Low Hum",
@@ -46,44 +46,44 @@
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
   },
   "dawn": {
-    "percentage": 87.5,
-    "driver": "WATCH: Big moments as Olympics begin. Team USA, with more than 200 athletes, is the largest U.S. Olympic team ever, representing 32 states and chasing gold in Milan.",
-    "category": "Human Spirit",
-    "blurb": "LARGEST TEAM EVER: UNITY IN PURSUIT OF EXCELLENCE",
-    "summary": "As global tensions simmer, the Olympics remind us that humanity's highest calling is to gather, compete fairly, and celebrate excellence together. Over 200 American athletes from 32 states converging in Milan embodies unity across geography and discipline\u2014a tangible proof that cooperation and shared aspiration still move the world. Even amid uncertainty, this moment captures human resilience at its most visible.",
+    "percentage": 82.0,
+    "driver": "France's homegrown open source online office suite",
+    "category": "Technology",
+    "blurb": "DIGITAL SOVEREIGNTY RISES: OPEN SOURCE POWERS FORWARD",
+    "summary": "While geopolitical tensions dominate headlines, France's launch of a homegrown open-source office suite signals a powerful countertrend: nations and communities building technological independence together. This isn't isolation\u2014it's collaborative resilience. Open-source movements prove that innovation thrives when knowledge is shared, not gatekept, and that alternatives to surveillance-laden platforms are genuinely possible.",
     "factors": [
       {
-        "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "Record-breaking participation shows sustained investment in athletic excellence and youth development across the entire nation."
+        "name": "Technology",
+        "signal": "bright",
+        "detail": "Open-source office suite demonstrates viable alternatives to corporate monopolies exist and attract significant developer attention (253+ points, 135+ comments on Hacker News)."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "32 states represented signals unprecedented coordination and resource-sharing toward a common national goal."
+        "signal": "glimmer",
+        "detail": "Global open-source communities collaborating across borders to build shared digital infrastructure, proving technology can unite rather than divide."
       },
       {
-        "name": "Community",
+        "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Athletes from diverse backgrounds and regions uniting under one banner demonstrates inclusive, distributed achievement."
+        "detail": "Developers choosing to invest energy in public-good software reflects growing values alignment around privacy, sovereignty, and collective benefit."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "International Olympic gathering continues as a rare global commons where peaceful competition transcends political divides."
+        "detail": "Community enthusiasm (253 points indicates strong organic interest) shows grassroots demand for ethical tech alternatives is real and growing."
       },
       {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "Modern sports science and training methods enabling peak human performance at scale, visible in athlete preparation."
+        "signal": "quiet",
+        "detail": "Transparent, peer-reviewed approach to software development mirrors scientific method\u2014reproducibility, auditability, and shared discovery."
       }
     ],
     "mood": [
-      "triumphant",
-      "unified",
-      "inspired",
-      "energetic",
-      "hopeful"
+      "hopeful",
+      "collaborative",
+      "empowering",
+      "resilient",
+      "innovative"
     ],
     "tier": 9,
     "tier_name": "Full Sunrise",
