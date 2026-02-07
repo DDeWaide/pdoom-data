@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-07",
+  "generated_at": "2026-02-07T14:09:48.333457+00:00",
+  "doom": {
+    "percentage": 28,
+    "driver": "US wants Russia and Ukraine to end war by June, says Zelensky",
+    "category": "Geopolitics",
+    "blurb": "UKRAINE GETS SUMMER DEADLINE. RUSSIA KEEPS STRIKING.",
+    "summary": "The US is apparently trying to broker a Ukraine peace deal by June, which is simultaneously optimistic and terrifying\u2014like negotiating a ceasefire while the other side keeps torching your power grid. Zelensky says the talks are happening but 'difficult issues remain,' which is diplomatic speak for 'this might not work.' Meanwhile, we've got Iranian nuke talks going 'positive,' a Pakistani mosque bombing killing 30+, and a Russian general getting shot in Moscow. Geopolitics is having a *moment*.",
+    "factors": [
+      {
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Ukraine peace deadline + Iranian nuclear talks + Pakistan mosque bombing + Russian officer assassination creates overlapping conflict pressure zones."
+      },
+      {
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "Trump admin pursuing hardline Iran strategy (tariffs threat, military buildup) while simultaneously negotiating; mixed signals suggest unpredictability."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Waymo advancing world models for autonomous vehicles; 16 Claude agents built a C compiler; AI agents increasingly autonomous but still require heavy human oversight."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "low",
+        "detail": "Moltbook AI agent social network exposed human data; deepfake reality crisis accelerating; 'Moltbook theater' suggests hype ahead of substance."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Growing discussion of AI governance and agent control; OpenAI Frontier platform launch suggests recognition that managing autonomous systems is becoming urgent."
+      }
+    ],
+    "mood": [
+      "tense",
+      "fragile",
+      "deadline-driven",
+      "unraveling",
+      "precarious"
+    ],
+    "tier": 3,
+    "tier_name": "Unsettled",
+    "card_image": "doom-card-2026-02-07.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
+  },
+  "dawn": {
+    "percentage": 72.0,
+    "driver": "Milan-Cortina Games begin with vibrant opening ceremony. Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics.",
+    "category": "Human Spirit",
+    "blurb": "THE WORLD GATHERS IN UNITY AND BEAUTY",
+    "summary": "As geopolitical tensions simmer and conflict headlines dominate, the Milan-Cortina Winter Olympics opening ceremony offered a luminous counterpoint\u2014Andrea Bocelli's soaring voice, Mariah Carey's presence, athletes from every corner of the globe unified in sport and shared human excellence. In moments like these, we glimpse what binds us across all borders: the pursuit of beauty, athletic grace, and the simple joy of gathering together.",
+    "factors": [
+      {
+        "name": "Human Spirit",
+        "signal": "blazing",
+        "detail": "Global athletes converging in celebration of excellence, transcending politics and division through sport."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "bright",
+        "detail": "Dozens of nations participating peacefully in shared Olympic spectacle, a living embodiment of international collaboration."
+      },
+      {
+        "name": "Science",
+        "signal": "glimmer",
+        "detail": "Olympic innovations in broadcast technology (360-degree replays, AI-enhanced coverage) expanding how humanity witnesses human achievement."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "bright",
+        "detail": "Cultural moments of profound artistry (Bocelli, Carey) reminding us that beauty and song transcend all conflict."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Milan-Cortina using sustainable practices and existing venues, modeling responsible global events."
+      }
+    ],
+    "mood": [
+      "unity",
+      "triumphant",
+      "luminous",
+      "hopeful",
+      "exultant"
+    ],
+    "tier": 8,
+    "tier_name": "Brilliant",
+    "card_image": "dawn-card-2026-02-07.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-07.png"
+  }
+}
