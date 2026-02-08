@@ -1,45 +1,45 @@
 {
   "date": "2026-02-08",
-  "generated_at": "2026-02-08T13:05:10.980746+00:00",
+  "generated_at": "2026-02-08T13:13:12.744562+00:00",
   "doom": {
     "percentage": 28,
     "driver": "Suicide bombing at Islamabad mosque kills 31 people.",
     "category": "Geopolitics",
-    "blurb": "MOSQUE MASSACRE: 31 DEAD IN ISLAMABAD",
-    "summary": "A suicide bombing at an Islamabad mosque killed 31 people, marking a sharp escalation in Pakistan's security crisis. Combined with ongoing tensions in the Middle East (U.S.-Iran nuclear talks, Hamas rejecting disarmament), the Gaza humanitarian catastrophe (unidentified mutilated bodies returned), and Red Sea instability threatening global trade, we're seeing a multi-front geopolitical deterioration. The baseline chaos is elevated, though not yet systemic.",
+    "blurb": "MOSQUE MASSACRE. PAKISTAN REELS.",
+    "summary": "A suicide bombing in Islamabad killed 31 people, marking a sharp escalation in violence within Pakistan. Combined with ICE arrest brutality headlines, rising geopolitical tensions (Iran nuclear talks, Trump-Greenland posturing), and the Islamabad attack suggests regional instability is accelerating faster than governance can contain it.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Islamabad mosque bombing, U.S.-Iran nuclear tensions, Hamas-Israel deadlock, and Somalia's role in Red Sea corridor security all signal regional instability."
+        "detail": "Islamabad mosque bombing kills 31; Pakistan's security apparatus visibly failing to prevent major attacks."
+      },
+      {
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "ICE agents documented breaking immigrant's skull in 8 places; US policy enforcement becoming physically brutal."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Japan, Thailand, and Portugal holding elections amid political turbulence; Haiti's transition government dissolving; Australia's coalition reuniting after political splits."
+        "detail": "Multiple governments dissolving or under strain (Haiti transition gov, Thai coalition collapses, Washington Post chaos)."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "U.S. jobs disappearing at fastest January pace since Great Recession; ICE mass arrests creating internal political friction; media consolidation (Washington Post layoffs)."
+        "signal": "medium",
+        "detail": "AI economy creating shortages everywhere else; labor displacement accelerating in plain sight."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "AI tooling advancing (LocalGPT, AI notetakers) but no major misalignment signals; Hacker News focused on technical optimization rather than existential risks."
-      },
-      {
-        "name": "Climate",
-        "signal": "low",
-        "detail": "Arctic blast hitting East Coast; ocean plankton climate role discovered; no imminent cascading events reported."
+        "detail": "Tech industry continues iterating on local AI assistants and coding agents without visible governance friction."
       }
     ],
     "mood": [
       "tense",
-      "fragmented",
+      "fractured",
       "volatile",
-      "precarious",
-      "darkening"
+      "darkening",
+      "precarious"
     ],
     "tier": 3,
     "tier_name": "Unsettled",
@@ -50,40 +50,40 @@
     "percentage": 72.0,
     "driver": "New drug resets the body clock and cuts jet lag recovery nearly in half",
     "category": "Medicine",
-    "blurb": "SCIENCE CUTS JET LAG IN HALF",
-    "summary": "While headlines today span conflict, tragedy, and institutional strain, a breakthrough in circadian biology offers genuine relief to millions. Scientists have identified Mic-628, a compound that reliably shifts the body's internal clock forward\u2014solving a problem that has plagued travelers and shift workers for generations. This isn't incremental; it's a fundamental unlock in how we understand and reset our biology.",
+    "blurb": "SCIENCE CONQUERS JET LAG",
+    "summary": "While headlines overflow with conflict and loss, a breakthrough emerges from the lab: scientists have identified Mic-628, a compound that can reliably shift the body's internal clock\u2014cutting jet lag recovery time nearly in half. This is precision medicine at work, solving a problem that has plagued travelers and shift workers for generations. Small victories in human health compound into massive quality-of-life improvements.",
     "factors": [
       {
         "name": "Medicine",
         "signal": "blazing",
-        "detail": "Mic-628 cuts jet lag recovery time nearly in half by targeting key clock-control proteins\u2014a decades-long scientific mystery finally solved."
+        "detail": "Mic-628 targets a key clock-control protein, offering a reliable solution to a problem neuroscience has struggled with for decades."
       },
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Multiple breakthroughs today: gut compounds protecting liver health, quantum physics mysteries resolved, lunar samples reshaping our understanding of planetary formation."
+        "detail": "Breezy Johnson's Olympic gold and multiple breakthroughs in lunar geology (Chang'e-6) and quantum physics demonstrate sustained human curiosity and discovery."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "An 11-year-old girl with rare cancer achieves her dream at Westminster Dog Show; athlete Breezy Johnson claims USA's first gold at Winter Olympics."
+        "signal": "bright",
+        "detail": "Athletes like Breezy Johnson and Dave Coulier (cancer survivor) show resilience and triumph; an 11-year-old with rare cancer lived her dream at Westminster Dog Show."
       },
       {
-        "name": "Technology",
-        "signal": "bright",
-        "detail": "Flying cars now commercially available for $190k; AI notetakers and open earbuds democratizing productivity and accessibility."
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Japan's election reinforces democratic participation; Australia's political coalition reunites, showing parties can bridge divides over shared values."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "A fire-juggling unicyclist brings unexpected joy to a Colorado intersection\u2014humanity's capacity for creative spontaneity persists."
+        "detail": "Technology continues advancing: flying cars are now for sale, open-source software thrives, and AI assistants empower creators\u2014human ingenuity persists."
       }
     ],
     "mood": [
-      "triumphant",
-      "healing",
-      "breakthrough",
       "hopeful",
+      "breakthrough",
+      "healing",
+      "triumphant",
       "resilient"
     ],
     "tier": 8,
