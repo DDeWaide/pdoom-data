@@ -1,93 +1,94 @@
 {
-  "date": "2026-02-07",
-  "generated_at": "2026-02-07T17:10:34.253683+00:00",
+  "date": "2026-02-08",
+  "generated_at": "2026-02-08T11:53:02.730845+00:00",
   "doom": {
-    "percentage": 18,
-    "driver": "Italy says railways hit by 'serious sabotage' as Winter Olympics begin. Police say they are investigating three incidents targeting rail infrastructure that caused travel delays.",
-    "category": "Cyber",
-    "blurb": "OLYMPIC SABOTAGE: INFRASTRUCTURE UNDER FIRE",
-    "summary": "Italy's Winter Olympics kicked off with three coordinated rail sabotage incidents\u2014the kind of targeting that raises questions about who's behind it and what they want. Could be protest, could be state-level mischief, could be someone testing Olympic security. Either way, hitting infrastructure during a global event is the kind of escalation that gets security folks' hearts racing.",
+    "percentage": 28,
+    "driver": "Suicide bombing at Islamabad mosque kills 31 people.",
+    "category": "Geopolitics",
+    "blurb": "FAITH UNDER FIRE: MOSQUE BOMBING KILLS 31",
+    "summary": "Pakistan's capital just suffered a devastating suicide bombing at a mosque that claimed 31 lives\u2014a stark reminder that religious spaces remain prime terror targets. This happens amid broader regional instability (Yemen's endless civil war, Sudan's chaos, Red Sea shipping corridor breakdown) and tense Iran-US nuclear talks that are apparently buying time rather than peace. When faith becomes a target, escalation feels inevitable.",
     "factors": [
       {
-        "name": "Cyber",
-        "signal": "elevated",
-        "detail": "Coordinated infrastructure sabotage during high-profile event suggests either sophisticated actors or copycat disruption tactics."
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "Islamabad mosque bombing kills 31; Pakistan's security apparatus failing at its core function of protecting civilian worship spaces."
       },
       {
         "name": "Geopolitics",
-        "signal": "medium",
-        "detail": "Nuclear diplomacy signals from Trump-Iran talks show continued engagement, but unpredictability remains high."
+        "signal": "elevated",
+        "detail": "Iran-US nuclear negotiations in Muscat stall; mistrust and military pressure suggest diplomacy is running out of runway."
       },
       {
-        "name": "Governance",
-        "signal": "low",
-        "detail": "Domestic US political theater (Christie's Trump commentary, Warnock on press freedom) is noise, not signal."
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Sudan fractured, Yemen collapsing, Somalia destabilized\u2014Red Sea/Gulf of Aden corridor integrity crumbling amid RSF attacks and foreign intervention."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "Youth exodus from social media is net-positive for mental health; Spencer Pratt's childhood blackmail is entertainment."
+        "signal": "medium",
+        "detail": "Russian general assassination plots proliferate (three suspects named, extraditions from UAE); intelligence agencies operating with visible impunity."
       },
       {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "No AI capability, alignment, or biotech developments in today's headlines."
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "South Africa police corruption probe unravels violently; witness found dead after claiming assassination attempt, signals state capacity collapse."
       }
     ],
     "mood": [
-      "tense",
-      "investigative",
-      "unsettling",
-      "cautious"
+      "dread",
+      "fragile",
+      "bloodied",
+      "collapsing",
+      "haunted"
     ],
-    "tier": 2,
-    "tier_name": "Low Hum",
-    "card_image": "doom-card-2026-02-07.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-07.png"
+    "tier": 3,
+    "tier_name": "Unsettled",
+    "card_image": "doom-card-2026-02-08.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-08.png"
   },
   "dawn": {
-    "percentage": 82.0,
-    "driver": "A 'quiet revolution': Why young people are swapping social media for lunch dates, vinyl records and brick phones.",
+    "percentage": 72.0,
+    "driver": "Girl with rare cancer lives her dream at Westminster Dog Show",
     "category": "Human Spirit",
-    "blurb": "GENERATION RECLAIMS JOY. REAL CONNECTION RISES.",
-    "summary": "Amid endless doom about technology's grip on youth mental health, Gen Z and millennials are authoring their own hopeful story\u2014deliberately choosing presence over performance, vinyl over algorithms, face-to-face over feeds. This quiet revolution shows young people aren't passive victims of digital culture; they're actively healing themselves by returning to timeless sources of joy: shared meals, tangible music, genuine conversation. It's a powerful signal that humans retain agency and wisdom, especially when it matters most.",
+    "blurb": "DREAMS TRIUMPH OVER ADVERSITY",
+    "summary": "While dark headlines dominate today's news cycle, one story cuts through: an 11-year-old girl battling rare cancer achieved her dream at Westminster Dog Show, a moment of pure joy and resilience. Against a backdrop of violence, corruption, and suffering worldwide, this testament to human spirit and childhood wonder reminds us that breakthroughs happen not just in laboratories but in the hearts of those who refuse to be defined by their struggles. Hope lives in these moments of dream-fulfillment and love.",
     "factors": [
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "Young people actively choosing mental health and real connection over algorithmic pressure\u2014a conscious reclamation of agency."
+        "detail": "A child facing rare cancer pursuing and achieving her dream represents the unbreakable resilience of the human spirit."
+      },
+      {
+        "name": "Community",
+        "signal": "bright",
+        "detail": "The Westminster Dog Show community came together to make a sick child's dream real, demonstrating collective compassion."
+      },
+      {
+        "name": "Hope",
+        "signal": "bright",
+        "detail": "In a week of tragedies and losses (Brad Arnold, Nancy Guthrie case, bombings), one child's joy serves as a counterweight to despair."
+      },
+      {
+        "name": "Joy",
+        "signal": "glimmer",
+        "detail": "Childhood wonder and the simple happiness of achieving a dream cut through the noise of global suffering."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Olympic committee reaches first-ever global consensus on inclusive transgender sports policy, bridging a deeply polarized issue."
-      },
-      {
-        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Trump claims Iran 'wants a deal very badly' after indirect Oman-mediated nuclear talks show diplomatic progress."
-      },
-      {
-        "name": "Science",
-        "signal": "glimmer",
-        "detail": "Super Bowl generates $630m in local economic stimulus, demonstrating how human gathering and shared experience drive prosperity."
-      },
-      {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "Shift away from screen addiction naturally reduces energy consumption and e-waste from constant device upgrades."
+        "detail": "Dogs, historically humanity's most loyal companions, provide comfort and meaning to those fighting their darkest battles."
       }
     ],
     "mood": [
-      "hopeful",
-      "authentic",
+      "triumphant",
       "joyful",
       "resilient",
-      "human"
+      "hopeful",
+      "celebratory"
     ],
-    "tier": 9,
-    "tier_name": "Full Sunrise",
-    "card_image": "dawn-card-2026-02-07.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-07.png"
+    "tier": 8,
+    "tier_name": "Brilliant",
+    "card_image": "dawn-card-2026-02-08.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-08.png"
   }
 }
