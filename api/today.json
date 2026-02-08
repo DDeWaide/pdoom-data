@@ -1,45 +1,45 @@
 {
   "date": "2026-02-08",
-  "generated_at": "2026-02-08T11:53:02.730845+00:00",
+  "generated_at": "2026-02-08T13:05:10.980746+00:00",
   "doom": {
     "percentage": 28,
     "driver": "Suicide bombing at Islamabad mosque kills 31 people.",
     "category": "Geopolitics",
-    "blurb": "FAITH UNDER FIRE: MOSQUE BOMBING KILLS 31",
-    "summary": "Pakistan's capital just suffered a devastating suicide bombing at a mosque that claimed 31 lives\u2014a stark reminder that religious spaces remain prime terror targets. This happens amid broader regional instability (Yemen's endless civil war, Sudan's chaos, Red Sea shipping corridor breakdown) and tense Iran-US nuclear talks that are apparently buying time rather than peace. When faith becomes a target, escalation feels inevitable.",
+    "blurb": "MOSQUE MASSACRE: 31 DEAD IN ISLAMABAD",
+    "summary": "A suicide bombing at an Islamabad mosque killed 31 people, marking a sharp escalation in Pakistan's security crisis. Combined with ongoing tensions in the Middle East (U.S.-Iran nuclear talks, Hamas rejecting disarmament), the Gaza humanitarian catastrophe (unidentified mutilated bodies returned), and Red Sea instability threatening global trade, we're seeing a multi-front geopolitical deterioration. The baseline chaos is elevated, though not yet systemic.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Islamabad mosque bombing kills 31; Pakistan's security apparatus failing at its core function of protecting civilian worship spaces."
-      },
-      {
-        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Iran-US nuclear negotiations in Muscat stall; mistrust and military pressure suggest diplomacy is running out of runway."
-      },
-      {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Sudan fractured, Yemen collapsing, Somalia destabilized\u2014Red Sea/Gulf of Aden corridor integrity crumbling amid RSF attacks and foreign intervention."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Russian general assassination plots proliferate (three suspects named, extraditions from UAE); intelligence agencies operating with visible impunity."
+        "detail": "Islamabad mosque bombing, U.S.-Iran nuclear tensions, Hamas-Israel deadlock, and Somalia's role in Red Sea corridor security all signal regional instability."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "South Africa police corruption probe unravels violently; witness found dead after claiming assassination attempt, signals state capacity collapse."
+        "detail": "Japan, Thailand, and Portugal holding elections amid political turbulence; Haiti's transition government dissolving; Australia's coalition reuniting after political splits."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "U.S. jobs disappearing at fastest January pace since Great Recession; ICE mass arrests creating internal political friction; media consolidation (Washington Post layoffs)."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "AI tooling advancing (LocalGPT, AI notetakers) but no major misalignment signals; Hacker News focused on technical optimization rather than existential risks."
+      },
+      {
+        "name": "Climate",
+        "signal": "low",
+        "detail": "Arctic blast hitting East Coast; ocean plankton climate role discovered; no imminent cascading events reported."
       }
     ],
     "mood": [
-      "dread",
-      "fragile",
-      "bloodied",
-      "collapsing",
-      "haunted"
+      "tense",
+      "fragmented",
+      "volatile",
+      "precarious",
+      "darkening"
     ],
     "tier": 3,
     "tier_name": "Unsettled",
@@ -48,43 +48,43 @@
   },
   "dawn": {
     "percentage": 72.0,
-    "driver": "Girl with rare cancer lives her dream at Westminster Dog Show",
-    "category": "Human Spirit",
-    "blurb": "DREAMS TRIUMPH OVER ADVERSITY",
-    "summary": "While dark headlines dominate today's news cycle, one story cuts through: an 11-year-old girl battling rare cancer achieved her dream at Westminster Dog Show, a moment of pure joy and resilience. Against a backdrop of violence, corruption, and suffering worldwide, this testament to human spirit and childhood wonder reminds us that breakthroughs happen not just in laboratories but in the hearts of those who refuse to be defined by their struggles. Hope lives in these moments of dream-fulfillment and love.",
+    "driver": "New drug resets the body clock and cuts jet lag recovery nearly in half",
+    "category": "Medicine",
+    "blurb": "SCIENCE CUTS JET LAG IN HALF",
+    "summary": "While headlines today span conflict, tragedy, and institutional strain, a breakthrough in circadian biology offers genuine relief to millions. Scientists have identified Mic-628, a compound that reliably shifts the body's internal clock forward\u2014solving a problem that has plagued travelers and shift workers for generations. This isn't incremental; it's a fundamental unlock in how we understand and reset our biology.",
     "factors": [
       {
-        "name": "Human Spirit",
+        "name": "Medicine",
         "signal": "blazing",
-        "detail": "A child facing rare cancer pursuing and achieving her dream represents the unbreakable resilience of the human spirit."
+        "detail": "Mic-628 cuts jet lag recovery time nearly in half by targeting key clock-control proteins\u2014a decades-long scientific mystery finally solved."
       },
       {
-        "name": "Community",
+        "name": "Science",
         "signal": "bright",
-        "detail": "The Westminster Dog Show community came together to make a sick child's dream real, demonstrating collective compassion."
+        "detail": "Multiple breakthroughs today: gut compounds protecting liver health, quantum physics mysteries resolved, lunar samples reshaping our understanding of planetary formation."
       },
       {
-        "name": "Hope",
-        "signal": "bright",
-        "detail": "In a week of tragedies and losses (Brad Arnold, Nancy Guthrie case, bombings), one child's joy serves as a counterweight to despair."
-      },
-      {
-        "name": "Joy",
+        "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Childhood wonder and the simple happiness of achieving a dream cut through the noise of global suffering."
+        "detail": "An 11-year-old girl with rare cancer achieves her dream at Westminster Dog Show; athlete Breezy Johnson claims USA's first gold at Winter Olympics."
+      },
+      {
+        "name": "Technology",
+        "signal": "bright",
+        "detail": "Flying cars now commercially available for $190k; AI notetakers and open earbuds democratizing productivity and accessibility."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Dogs, historically humanity's most loyal companions, provide comfort and meaning to those fighting their darkest battles."
+        "detail": "A fire-juggling unicyclist brings unexpected joy to a Colorado intersection\u2014humanity's capacity for creative spontaneity persists."
       }
     ],
     "mood": [
       "triumphant",
-      "joyful",
-      "resilient",
+      "healing",
+      "breakthrough",
       "hopeful",
-      "celebratory"
+      "resilient"
     ],
     "tier": 8,
     "tier_name": "Brilliant",
