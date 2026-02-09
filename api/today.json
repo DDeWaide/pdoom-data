@@ -1,94 +1,93 @@
 {
-  "date": "2026-02-08",
-  "generated_at": "2026-02-08T13:15:41.998887+00:00",
+  "date": "2026-02-09",
+  "generated_at": "2026-02-09T11:52:40.856730+00:00",
   "doom": {
     "percentage": 28,
-    "driver": "Suicide bombing at Islamabad mosque kills 31 people",
+    "driver": "Ukrainian president says US set June deadline for Russia and Ukraine to end war",
     "category": "Geopolitics",
-    "blurb": "MOSQUE MASSACRE ROCKS PAKISTAN'S CAPITAL",
-    "summary": "A suicide bombing in Islamabad killed 31 people, marking a resurgence of militant violence in Pakistan. While the headline screams urgency, this reflects ongoing regional instability rather than systemic escalation\u2014concerning for South Asia, but not yet a global inflection point. The timing amid U.S.-Iran nuclear talks adds ambient tension without direct causal links.",
+    "blurb": "PEACE DEADLINE LOOMS AS UKRAINE LEVERAGE SLIPS",
+    "summary": "Zelenskyy revealed Washington is pressuring Kyiv toward a June settlement\u2014awkward timing when the US is simultaneously discussing $12 trillion in economic deals that could benefit Russia. Translation: Ukraine's negotiating position just got worse, and the timeline is tightening fast. This isn't negotiation; it's an expiration date.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Pakistan suicide bombing, Russia pursuing general's assassins across borders, Haiti government dissolution\u2014regional instability clusters but lacks coordinated great-power confrontation."
+        "detail": "US-imposed June deadline for Ukraine-Russia peace deal compresses diplomatic window and raises concerns about forced concessions."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Japan and Thailand elections stabilizing domestically; Pentagon cutting Harvard ties signals internal U.S. political friction over defense-academia alignment."
-      },
-      {
-        "name": "Cyber",
-        "signal": "low",
-        "detail": "No major cyber incidents reported; tech layoffs (Washington Post) and AI labor displacement are structural, not acute threats."
+        "signal": "high",
+        "detail": "Hong Kong court sentences Jimmy Lai to 20 years under China's national security law, signaling intensified authoritarian crackdowns on dissent across multiple regimes."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "U.S. ICE arrests spiking (650 in two weeks in West Virginia), federal court upholding mass detention\u2014domestic policy hardens but stays within legal bounds."
+        "detail": "Iran's digital surveillance apparatus nears completion after 15+ years of draconian measures, creating infrastructure for mass control."
       },
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "Hacker News highlights agentic AI replacing frameworks; economically disruptive but alignment/safety mechanisms holding; no capability jailbreak signals."
+        "signal": "medium",
+        "detail": "Wired reports AI may replace nuclear arms treaties via satellite surveillance and automated monitoring\u2014untested tech replacing decades of human-negotiated stability."
+      },
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "US nuclear waste disposal failures threaten Trump's plan to quadruple nuclear capacity by 2050, exposing infrastructure vulnerabilities."
       }
     ],
     "mood": [
-      "tense",
-      "fractured",
-      "volatile",
-      "vigilant",
-      "unsettled"
+      "tightening",
+      "coerced",
+      "time-pressure",
+      "resignation"
     ],
     "tier": 3,
     "tier_name": "Unsettled",
-    "card_image": "doom-card-2026-02-08.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-08.png"
+    "card_image": "doom-card-2026-02-09.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-09.png"
   },
   "dawn": {
     "percentage": 72.0,
-    "driver": "New drug resets the body clock and cuts jet lag recovery nearly in half",
-    "category": "Medicine",
-    "blurb": "SCIENCE CONQUERS JET LAG",
-    "summary": "While headlines today lean heavy toward conflict and loss, a breakthrough emerges from the lab: scientists have identified Mic-628, a compound that can reliably shift the body's internal clock\u2014solving a problem that's plagued travelers and shift workers for decades. This is the kind of unglamorous, transformative medicine that quietly improves millions of lives. Small wins compound into human flourishing.",
+    "driver": "A legendary golden fabric lost for 2,000 years has been brought back. Korean scientists have successfully recreated ancient sea silk\u2014a rare, shimmering fiber prized since Roman times",
+    "category": "Discovery",
+    "blurb": "LOST TREASURE REBORN: ANCIENT SEA SILK RETURNS",
+    "summary": "In a breathtaking moment of human achievement, Korean scientists have successfully recreated sea silk\u2014a legendary golden fabric lost to history for two millennia. This isn't just fabric restoration; it's a bridge across centuries, proving that human ingenuity can recover what time took away. When pDoom whispers of decline, this triumph reminds us that knowledge, persistence, and wonder still drive humanity forward.",
     "factors": [
       {
-        "name": "Medicine",
+        "name": "Discovery",
         "signal": "blazing",
-        "detail": "Mic-628 targets clock-control proteins to reset circadian rhythms, cutting jet lag recovery time nearly in half\u2014a decades-long scientific mystery solved."
+        "detail": "Ancient sea silk, worn only by emperors and lost for 2,000 years, successfully recreated by Korean scientists\u2014a astonishing recovery of human cultural heritage."
       },
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Multiple breakthroughs across headlines: lunar samples revealing Moon's interior, quantum physics mysteries solved, liver-protection compounds identified through pregnancy research."
+        "detail": "International collaboration and breakthrough research in material science unlock secrets of a fiber prized since Roman times."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "Breezy Johnson's first Olympic gold medal, Dave Coulier's cancer remission inspiring early detection awareness, an 11-year-old living her Westminster Dog Show dream."
+        "signal": "bright",
+        "detail": "Scientists dedicate themselves to resurrecting lost beauty, proving that curiosity and craftsmanship transcend ages."
       },
       {
         "name": "Technology",
-        "signal": "bright",
-        "detail": "Flying cars now commercially available ($190k Helix eVTOL, no pilot license required), open-source AI tools spreading, Rust-based local AI assistants emerging."
+        "signal": "glimmer",
+        "detail": "Modern scientific methods enable the recreation of ancient techniques, merging past and present knowledge seamlessly."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Japan's democratic process affirms stability with Takaichi's coalition poised for majority; Thailand and Portugal hold elections\u2014democracy persists globally despite pressures."
+        "signal": "bright",
+        "detail": "This recovery symbolizes humanity's capacity to heal history and restore what was thought permanently lost\u2014a metaphor for hope itself."
       }
     ],
     "mood": [
-      "Hopeful",
-      "Triumphant",
-      "Healing",
-      "Resilient",
-      "Transformative"
+      "triumphant",
+      "reverent",
+      "wonder-struck",
+      "luminous",
+      "hopeful"
     ],
     "tier": 8,
     "tier_name": "Brilliant",
-    "card_image": "dawn-card-2026-02-08.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-08.png"
+    "card_image": "dawn-card-2026-02-09.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-09.png"
   }
 }

@@ -185,5 +185,98 @@
       "card_image": "dawn-card-2026-02-08.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-08.png"
     }
+  },
+  {
+    "date": "2026-02-09",
+    "generated_at": "2026-02-09T11:52:40.856730+00:00",
+    "doom": {
+      "percentage": 28,
+      "driver": "Ukrainian president says US set June deadline for Russia and Ukraine to end war",
+      "category": "Geopolitics",
+      "blurb": "PEACE DEADLINE LOOMS AS UKRAINE LEVERAGE SLIPS",
+      "summary": "Zelenskyy revealed Washington is pressuring Kyiv toward a June settlement\u2014awkward timing when the US is simultaneously discussing $12 trillion in economic deals that could benefit Russia. Translation: Ukraine's negotiating position just got worse, and the timeline is tightening fast. This isn't negotiation; it's an expiration date.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-imposed June deadline for Ukraine-Russia peace deal compresses diplomatic window and raises concerns about forced concessions."
+        },
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "Hong Kong court sentences Jimmy Lai to 20 years under China's national security law, signaling intensified authoritarian crackdowns on dissent across multiple regimes."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Iran's digital surveillance apparatus nears completion after 15+ years of draconian measures, creating infrastructure for mass control."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Wired reports AI may replace nuclear arms treaties via satellite surveillance and automated monitoring\u2014untested tech replacing decades of human-negotiated stability."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "US nuclear waste disposal failures threaten Trump's plan to quadruple nuclear capacity by 2050, exposing infrastructure vulnerabilities."
+        }
+      ],
+      "mood": [
+        "tightening",
+        "coerced",
+        "time-pressure",
+        "resignation"
+      ],
+      "tier": 3,
+      "tier_name": "Unsettled",
+      "card_image": "doom-card-2026-02-09.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-09.png"
+    },
+    "dawn": {
+      "percentage": 72.0,
+      "driver": "A legendary golden fabric lost for 2,000 years has been brought back. Korean scientists have successfully recreated ancient sea silk\u2014a rare, shimmering fiber prized since Roman times",
+      "category": "Discovery",
+      "blurb": "LOST TREASURE REBORN: ANCIENT SEA SILK RETURNS",
+      "summary": "In a breathtaking moment of human achievement, Korean scientists have successfully recreated sea silk\u2014a legendary golden fabric lost to history for two millennia. This isn't just fabric restoration; it's a bridge across centuries, proving that human ingenuity can recover what time took away. When pDoom whispers of decline, this triumph reminds us that knowledge, persistence, and wonder still drive humanity forward.",
+      "factors": [
+        {
+          "name": "Discovery",
+          "signal": "blazing",
+          "detail": "Ancient sea silk, worn only by emperors and lost for 2,000 years, successfully recreated by Korean scientists\u2014a astonishing recovery of human cultural heritage."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "International collaboration and breakthrough research in material science unlock secrets of a fiber prized since Roman times."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Scientists dedicate themselves to resurrecting lost beauty, proving that curiosity and craftsmanship transcend ages."
+        },
+        {
+          "name": "Technology",
+          "signal": "glimmer",
+          "detail": "Modern scientific methods enable the recreation of ancient techniques, merging past and present knowledge seamlessly."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "This recovery symbolizes humanity's capacity to heal history and restore what was thought permanently lost\u2014a metaphor for hope itself."
+        }
+      ],
+      "mood": [
+        "triumphant",
+        "reverent",
+        "wonder-struck",
+        "luminous",
+        "hopeful"
+      ],
+      "tier": 8,
+      "tier_name": "Brilliant",
+      "card_image": "dawn-card-2026-02-09.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-09.png"
+    }
   }
 ]
