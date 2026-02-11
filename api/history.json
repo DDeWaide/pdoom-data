@@ -372,5 +372,99 @@
       "card_image": "dawn-card-2026-02-10.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-10.png"
     }
+  },
+  {
+    "date": "2026-02-11",
+    "generated_at": "2026-02-11T11:41:00.624266+00:00",
+    "doom": {
+      "percentage": 38,
+      "driver": "The U.S. claims China is conducting secret nuclear tests. Here's what that means.",
+      "category": "Nuclear",
+      "blurb": "BEIJING'S BOMBS: NORMS UNRAVELING",
+      "summary": "The U.S. alleges China is conducting covert nuclear tests while arms control experts warn that verification norms are collapsing. Combined with Netanyahu-Trump talks on Iran's nuclear program reaching critical stage, and hawkish officials openly calling for strikes, we're watching the nuclear order quietly fray at multiple pressure points.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "U.S. alleges secret Chinese nuclear testing; arms control experts warn norms against testing are unraveling\u2014the regime's backstop is eroding."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Netanyahu-Trump White House meeting on Iran nuclear negotiations amid hawkish calls for military strikes and regional missile concerns."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "UK doubles troops in Norway to 2,000 over three years as explicit counter to Russian Arctic threat; NATO realignment accelerating."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "U.S. political dysfunction evident: excluded Democratic governors from White House events; grand jury rejects DOJ effort to indict lawmakers; Epstein scandal threatens UK government stability."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "RFK Jr.'s anti-vaccine agenda now embedded in federal health policy (FDA refusal, NIH funding questionable studies); institutional capture creating public health risks."
+        }
+      ],
+      "mood": [
+        "tense",
+        "precarious",
+        "accelerating",
+        "fragile",
+        "escalatory"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-02-11.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-11.png"
+    },
+    "dawn": {
+      "percentage": 62.0,
+      "driver": "Pilot praised after crash-landing faulty Somali passenger plane on seashore. All 55 people on board survived after the plane failed to land on the runway near the shoreline.",
+      "category": "Human Spirit",
+      "blurb": "HEROISM IN THE SKIES: ALL 55 SAVED",
+      "summary": "While headlines are dominated by conflict, tragedy, and institutional failures, one story cuts through: a pilot's split-second decisions and extraordinary skill saved every single person aboard a failing aircraft. In a world where we often hear only about what goes wrong, this is a reminder that human excellence, courage, and calm under pressure still matter profoundly\u2014and still save lives.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A pilot's skill and composure averted catastrophe, saving 55 lives through decisive action under extreme pressure."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Emergency responders and crew coordinated seamlessly to evacuate everyone safely from the beach landing site."
+        },
+        {
+          "name": "Community",
+          "signal": "glimmer",
+          "detail": "Families reunited with loved ones after a crisis that could have ended in tragedy, rebuilding trust in aviation safety."
+        },
+        {
+          "name": "Resilience",
+          "signal": "bright",
+          "detail": "A mechanical failure became a survival story\u2014proof that preparation and expertise can overcome catastrophic odds."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Mothers crowdfunding to help families in war-torn Gaza shows compassion transcends borders and politics."
+        }
+      ],
+      "mood": [
+        "heroic",
+        "triumphant",
+        "hopeful",
+        "resilient",
+        "inspiring"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-11.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-11.png"
+    }
   }
 ]
