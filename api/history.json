@@ -466,5 +466,99 @@
       "card_image": "dawn-card-2026-02-11.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-11.png"
     }
+  },
+  {
+    "date": "2026-02-12",
+    "generated_at": "2026-02-12T12:02:25.887683+00:00",
+    "doom": {
+      "percentage": 28,
+      "driver": "Russia orders block on WhatsApp in messaging app crackdown",
+      "category": "Geopolitics",
+      "blurb": "MOSCOW CUTS COMMS. AUTHORITARIAN PLAYBOOK TIGHTENS.",
+      "summary": "Russia is full-blocking WhatsApp's 100 million users, herding them toward state surveillance alternatives. It's the digital equivalent of burning bridges\u2014authoritarian efficiency meets information control. Combined with China's military purges, Kim's dynastic heir-picking, and ongoing Iran nuclear brinkmanship, we're watching rival powers simultaneously tighten internal control and raise external tensions.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Russia blocking WhatsApp, China's Xi purging military allies, Kim Jong Un securing succession, Iran nuclear talks intensifying\u2014multi-pole authoritarianism in sync."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Bangladesh election after 15-year authoritarianism, Trump admin intensifying ICE enforcement and tariff volatility, Pam Bondi embroiled in Epstein redaction scandal."
+        },
+        {
+          "name": "Cyber",
+          "signal": "medium",
+          "detail": "Lumma Stealer malware resurging at scale, Chrome extensions mass-spying, deepfake detection mandates in India creating platform stress."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "GPT-5 outperforming federal judges in legal reasoning; xAI founders departing post-merger; OpenAI adding ads amid researcher exodus warnings of 'Facebook trajectory.'"
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "H5N1 bird flu kills 50+ skuas in Antarctica; cyclone devastates Madagascar; Canada shooting kills 6\u2014ecological and domestic violence shocks, not systemic doom."
+        }
+      ],
+      "mood": [
+        "tightening",
+        "fragmentation",
+        "controlled",
+        "surveillance",
+        "escalating"
+      ],
+      "tier": 3,
+      "tier_name": "Unsettled",
+      "card_image": "doom-card-2026-02-12.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-12.png"
+    },
+    "dawn": {
+      "percentage": 72.0,
+      "driver": "Monks on a mission walk 2,300 miles from Texas to DC. A group of Buddhist monks bearing a message of peace walked into the heart of Washington, D.C., on Tuesday and were greeted by large, joyful crowds as they completed their 15-week trek from Texas.",
+      "category": "Human Spirit",
+      "blurb": "PEACE WALKS 2,300 MILES INTO HEARTS",
+      "summary": "Amid headlines of violence, division, and institutional breakdown, 19 Buddhist monks and their dog Aloka completed an extraordinary 15-week journey from Texas to Washington, D.C.\u2014braving extreme weather and injury to deliver a message of peace directly to the nation's heart. The fact that they were greeted by large, joyful crowds speaks to humanity's hunger for unity and transcendence. Even in a 28% pDoom landscape, this feat of sustained compassion and collective witness reminds us that moral courage still moves people.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "19 monks walked 2,300 miles over 15 weeks, enduring extreme weather and injuries, driven by a message of peace\u2014pure intentional human perseverance."
+        },
+        {
+          "name": "Community",
+          "signal": "bright",
+          "detail": "Large, joyful crowds greeted the monks at the Lincoln Memorial, proving that people still gather to witness and celebrate messages of peace and meaning."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A dog named Aloka walked alongside the monks for the entire journey\u2014cross-species solidarity in service of a shared vision."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Ireland launches pioneering basic income scheme for artists\u2014recognizing that human creativity and meaning-making deserve structural support."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Just 5 weeks of brain training may protect against dementia for 20 years\u2014simple, evidence-based hope for cognitive resilience in aging populations."
+        }
+      ],
+      "mood": [
+        "triumphant",
+        "hopeful",
+        "unified",
+        "inspired",
+        "peaceful"
+      ],
+      "tier": 8,
+      "tier_name": "Brilliant",
+      "card_image": "dawn-card-2026-02-12.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-12.png"
+    }
   }
 ]
