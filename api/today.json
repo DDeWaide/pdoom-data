@@ -1,93 +1,93 @@
 {
-  "date": "2026-02-13",
-  "generated_at": "2026-02-13T11:50:28.763033+00:00",
+  "date": "2026-02-14",
+  "generated_at": "2026-02-14T11:15:43.316276+00:00",
   "doom": {
     "percentage": 34,
-    "driver": "Trump revokes landmark ruling that greenhouse gases endanger public health. The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
-    "category": "Climate",
-    "blurb": "LARGEST CLIMATE ROLLBACK IN US HISTORY",
-    "summary": "Trump just torch-walked the EPA's foundational climate authority\u2014nuking the ruling that greenhouse gases endanger public health. It's the capstone on a decade of climate policy demolition, and it hands the keys back to industry while environmentalists warn of cascading costs. Meanwhile, Iran's fortifying nuclear sites, Europe's getting lectured by Rubio about a \"new era,\" and Russian casualties are mounting in Ukraine.",
+    "driver": "GPT-5.2 derives a new result in theoretical physics.",
+    "category": "AI Capability",
+    "blurb": "THE ALGORITHM DISCOVERS PHYSICS",
+    "summary": "OpenAI's GPT-5.2 just independently derived a novel result in theoretical physics\u2014a capability milestone that sits uncomfortably between 'impressive tool' and 'we're losing the plot.' Meanwhile, the company quietly deleted 'safely' from its mission statement. Coincidence? The hedgehog asks.",
     "factors": [
       {
-        "name": "Climate",
-        "signal": "high",
-        "detail": "EPA gutting greenhouse gas endangerment finding removes legal foundation for all future climate regulation; largest deregulation in modern US history."
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "GPT-5.2 deriving novel theoretical physics results suggests AI reasoning is crossing into autonomous discovery territory."
       },
       {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Iran fortifying underground nuclear complex amid US tensions; Trump threatening Greenland annexation; Russia facing heavy Ukraine casualties; China-US proxy battles over Panama Canal intensifying."
+        "name": "Alignment",
+        "signal": "medium",
+        "detail": "OpenAI removing 'safely' from mission statement paired with expanded AI capabilities creates narrative tension around intent."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump administration overruling FDA scientists on vaccine approvals; politicization of health agencies accelerating; judicial blocks on grant rescissions suggest fragmented policy execution."
+        "signal": "medium",
+        "detail": "CBP-Clearview face recognition deal and Meta's stealth facial recognition in smart glasses show surveillance governance lagging capability deployment."
       },
       {
-        "name": "Cyber",
+        "name": "Geopolitics",
         "signal": "medium",
-        "detail": "Wave of unexplained bot traffic from Lanzhou, China hitting US federal agencies; Gemini attacked 100,000+ times via distillation; AI-enhanced cybercrime accelerating."
+        "detail": "China's new AI models keeping pace with US, Bangladesh election shift, Venezuela instability, and transatlantic alliance stress tests heating up."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "RFK Jr. breaking vaccine promises; Geoffrey Epstein shadow network expanding to finance/tech elite; German far-right AfD gate-crashing Munich Security Conference."
+        "signal": "low",
+        "detail": "DHS shutdown, Epstein revelations, Nancy Guthrie abduction, and hospital dumping scandal dominate cycle but don't move systemic needles."
       }
     ],
     "mood": [
-      "resigned",
-      "smoldering",
-      "unraveling",
-      "reckoning"
+      "unsettling",
+      "accelerating",
+      "murky",
+      "inevitable"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-13.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-13.png"
+    "card_image": "doom-card-2026-02-14.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-14.png"
   },
   "dawn": {
     "percentage": 66.0,
-    "driver": "On their way! 4 people on NASA Crew-12 mission launch to International Space Station.",
-    "category": "Science",
-    "blurb": "HUMANITY REACHES FOR THE STARS TOGETHER",
-    "summary": "As geopolitical tensions simmer and environmental rollbacks dominate headlines, NASA's Crew-12 mission reminds us that humans can still unite in the pursuit of discovery and knowledge. Four astronauts launched successfully toward the ISS, restoring the orbital lab to full capacity after a crew member's early departure. This milestone reflects decades of international cooperation and the enduring human drive to explore beyond our atmosphere.",
+    "driver": "ALS stole this musician's voice. AI let him sing again.",
+    "category": "Medicine",
+    "blurb": "TECHNOLOGY RESTORES WHAT DISEASE TOOK",
+    "summary": "Patrick Darling, a musician with ALS, has regained his voice through AI\u2014performing an emotional song for his great-grandfather he never met. Even as headlines overflow with conflict and crisis, this moment captures technology's profound human potential: restoring dignity, connection, and voice to those facing devastating illness. It's a clear signal that innovation, when guided by compassion, can heal what seemed irreversibly broken.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Medicine",
         "signal": "blazing",
-        "detail": "NASA Crew-12 successfully launches four astronauts to restore the International Space Station to full operational capacity, advancing human spaceflight and orbital research."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The ISS itself represents unprecedented international partnership, with astronauts from multiple nations working together in orbit despite terrestrial tensions."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "The continued pursuit of space exploration demonstrates humanity's resilience and optimism, even amid economic and political uncertainty."
-      },
-      {
-        "name": "Discovery",
-        "signal": "glimmer",
-        "detail": "Each ISS mission expands scientific knowledge in microgravity research, materials science, and biology with benefits returning to Earth."
+        "detail": "AI voice restoration allows ALS patients to reclaim their ability to communicate and express emotion\u2014a breakthrough in neurodegenerative disease care."
       },
       {
         "name": "Technology",
         "signal": "bright",
-        "detail": "Reliable spaceflight demonstrates human engineering excellence and the technological prowess that solves complex challenges across industries."
+        "detail": "Machine learning systems are being deployed not for surveillance or profit, but to restore human capability and preserve identity for the seriously ill."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "blazing",
+        "detail": "A musician moved to tears, able to sing again\u2014testifying to resilience, hope, and the power of human connection across generations."
+      },
+      {
+        "name": "Science",
+        "signal": "glimmer",
+        "detail": "Multiple breakthroughs in neuroscience and AI (brain stimulation increasing generosity, hidden spinal cord repair cells, CAR T-cell therapy for ALS) show momentum in treating neurological conditions."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Rubio at Munich Security Conference emphasizes transatlantic unity and shared purpose\u2014a quieter signal that diplomatic bridges are being rebuilt despite tensions."
       }
     ],
     "mood": [
-      "aspiring",
-      "united",
-      "triumphant",
       "hopeful",
-      "pioneering"
+      "healing",
+      "triumphant",
+      "compassionate",
+      "uplifting"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-13.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-13.png"
+    "card_image": "dawn-card-2026-02-14.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-14.png"
   }
 }

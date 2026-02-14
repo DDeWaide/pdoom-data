@@ -653,5 +653,98 @@
       "card_image": "dawn-card-2026-02-13.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-13.png"
     }
+  },
+  {
+    "date": "2026-02-14",
+    "generated_at": "2026-02-14T11:15:43.316276+00:00",
+    "doom": {
+      "percentage": 34,
+      "driver": "GPT-5.2 derives a new result in theoretical physics.",
+      "category": "AI Capability",
+      "blurb": "THE ALGORITHM DISCOVERS PHYSICS",
+      "summary": "OpenAI's GPT-5.2 just independently derived a novel result in theoretical physics\u2014a capability milestone that sits uncomfortably between 'impressive tool' and 'we're losing the plot.' Meanwhile, the company quietly deleted 'safely' from its mission statement. Coincidence? The hedgehog asks.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GPT-5.2 deriving novel theoretical physics results suggests AI reasoning is crossing into autonomous discovery territory."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "OpenAI removing 'safely' from mission statement paired with expanded AI capabilities creates narrative tension around intent."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "CBP-Clearview face recognition deal and Meta's stealth facial recognition in smart glasses show surveillance governance lagging capability deployment."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "China's new AI models keeping pace with US, Bangladesh election shift, Venezuela instability, and transatlantic alliance stress tests heating up."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "DHS shutdown, Epstein revelations, Nancy Guthrie abduction, and hospital dumping scandal dominate cycle but don't move systemic needles."
+        }
+      ],
+      "mood": [
+        "unsettling",
+        "accelerating",
+        "murky",
+        "inevitable"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-02-14.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-14.png"
+    },
+    "dawn": {
+      "percentage": 66.0,
+      "driver": "ALS stole this musician's voice. AI let him sing again.",
+      "category": "Medicine",
+      "blurb": "TECHNOLOGY RESTORES WHAT DISEASE TOOK",
+      "summary": "Patrick Darling, a musician with ALS, has regained his voice through AI\u2014performing an emotional song for his great-grandfather he never met. Even as headlines overflow with conflict and crisis, this moment captures technology's profound human potential: restoring dignity, connection, and voice to those facing devastating illness. It's a clear signal that innovation, when guided by compassion, can heal what seemed irreversibly broken.",
+      "factors": [
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "AI voice restoration allows ALS patients to reclaim their ability to communicate and express emotion\u2014a breakthrough in neurodegenerative disease care."
+        },
+        {
+          "name": "Technology",
+          "signal": "bright",
+          "detail": "Machine learning systems are being deployed not for surveillance or profit, but to restore human capability and preserve identity for the seriously ill."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A musician moved to tears, able to sing again\u2014testifying to resilience, hope, and the power of human connection across generations."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Multiple breakthroughs in neuroscience and AI (brain stimulation increasing generosity, hidden spinal cord repair cells, CAR T-cell therapy for ALS) show momentum in treating neurological conditions."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Rubio at Munich Security Conference emphasizes transatlantic unity and shared purpose\u2014a quieter signal that diplomatic bridges are being rebuilt despite tensions."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "healing",
+        "triumphant",
+        "compassionate",
+        "uplifting"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-14.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-14.png"
+    }
   }
 ]
