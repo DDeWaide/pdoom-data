@@ -1,93 +1,94 @@
 {
-  "date": "2026-02-14",
-  "generated_at": "2026-02-14T11:15:43.316276+00:00",
+  "date": "2026-02-15",
+  "generated_at": "2026-02-15T11:19:41.246260+00:00",
   "doom": {
-    "percentage": 34,
-    "driver": "GPT-5.2 derives a new result in theoretical physics.",
-    "category": "AI Capability",
-    "blurb": "THE ALGORITHM DISCOVERS PHYSICS",
-    "summary": "OpenAI's GPT-5.2 just independently derived a novel result in theoretical physics\u2014a capability milestone that sits uncomfortably between 'impressive tool' and 'we're losing the plot.' Meanwhile, the company quietly deleted 'safely' from its mission statement. Coincidence? The hedgehog asks.",
+    "percentage": 28,
+    "driver": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says.",
+    "category": "Geopolitics",
+    "blurb": "KREMLIN DEPLOYS EXOTIC POISON, WEST CONDEMNS",
+    "summary": "Five European nations formally accused Russia of assassinating Navalny with a lethal toxin derived from poison dart frogs\u2014a reminder that state-sponsored murder remains a tool of choice for authoritarian regimes. Meanwhile, Gaza violence escalates (11+ killed in Israeli strikes), Iran signals willingness to negotiate nuclear terms, and Rubio scrambles to reassure Europe that Trump still believes in the transatlantic alliance. The old Cold War playbook never really went away.",
     "factors": [
       {
-        "name": "AI Capability",
+        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "GPT-5.2 deriving novel theoretical physics results suggests AI reasoning is crossing into autonomous discovery territory."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "OpenAI removing 'safely' from mission statement paired with expanded AI capabilities creates narrative tension around intent."
+        "detail": "Navalny assassination confirmation signals unrepentant Russian aggression; NATO cohesion tested but holding in Munich Security Conference messaging."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "CBP-Clearview face recognition deal and Meta's stealth facial recognition in smart glasses show surveillance governance lagging capability deployment."
+        "detail": "Rubio's diplomatic pivot attempts damage control on Trump's 'America First' posture, but European skepticism remains high."
       },
       {
-        "name": "Geopolitics",
+        "name": "Nuclear",
         "signal": "medium",
-        "detail": "China's new AI models keeping pace with US, Bangladesh election shift, Venezuela instability, and transatlantic alliance stress tests heating up."
+        "detail": "Iran signals compromise on nuclear deal; US-Iran channel remains contentious but not yet escalatory."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "DHS shutdown, Epstein revelations, Nancy Guthrie abduction, and hospital dumping scandal dominate cycle but don't move systemic needles."
+        "detail": "Neuromorphic AI breakthroughs in physics simulations emerge quietly amid geopolitical noise\u2014dual-use risk not yet urgent."
+      },
+      {
+        "name": "Cyber",
+        "signal": "low",
+        "detail": "Smart sleep mask broadcasting brainwaves to open MQTT broker highlights privacy erosion, but no immediate threat actor."
       }
     ],
     "mood": [
-      "unsettling",
-      "accelerating",
-      "murky",
-      "inevitable"
+      "assassinated",
+      "poisoned",
+      "vengeful",
+      "tense",
+      "unrepentant"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-14.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-14.png"
+    "tier": 3,
+    "tier_name": "Unsettled",
+    "card_image": "doom-card-2026-02-15.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-15.png"
   },
   "dawn": {
-    "percentage": 66.0,
-    "driver": "ALS stole this musician's voice. AI let him sing again.",
-    "category": "Medicine",
-    "blurb": "TECHNOLOGY RESTORES WHAT DISEASE TOOK",
-    "summary": "Patrick Darling, a musician with ALS, has regained his voice through AI\u2014performing an emotional song for his great-grandfather he never met. Even as headlines overflow with conflict and crisis, this moment captures technology's profound human potential: restoring dignity, connection, and voice to those facing devastating illness. It's a clear signal that innovation, when guided by compassion, can heal what seemed irreversibly broken.",
+    "percentage": 72.0,
+    "driver": "Scientists found a way to plant ideas in dreams to boost creativity",
+    "category": "Science",
+    "blurb": "DREAMS UNLOCK HUMAN POTENTIAL",
+    "summary": "Northwestern University neuroscientists have demonstrated that dreams can be deliberately guided toward specific directions\u2014a breakthrough suggesting that sleeping on a problem is far more powerful than we imagined. This discovery opens profound possibilities for enhancing creativity, problem-solving, and human cognitive potential. Against a backdrop of geopolitical tension and conflict, this glimpse into our brain's untapped capacity reminds us that human ingenuity and self-discovery remain boundless.",
     "factors": [
       {
-        "name": "Medicine",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "AI voice restoration allows ALS patients to reclaim their ability to communicate and express emotion\u2014a breakthrough in neurodegenerative disease care."
-      },
-      {
-        "name": "Technology",
-        "signal": "bright",
-        "detail": "Machine learning systems are being deployed not for surveillance or profit, but to restore human capability and preserve identity for the seriously ill."
+        "detail": "Neuroscientists prove dreams can be nudged in specific directions, unlocking new understanding of creativity and problem-solving."
       },
       {
         "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "A musician moved to tears, able to sing again\u2014testifying to resilience, hope, and the power of human connection across generations."
+        "signal": "bright",
+        "detail": "Discovery reveals the brain's extraordinary ability to harness its own potential, suggesting untapped creative reserves in all of us."
       },
       {
-        "name": "Science",
+        "name": "Discovery",
+        "signal": "bright",
+        "detail": "Sleep science advances fundamentally reshape how we understand the mind's capacity for innovation and insight."
+      },
+      {
+        "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Multiple breakthroughs in neuroscience and AI (brain stimulation increasing generosity, hidden spinal cord repair cells, CAR T-cell therapy for ALS) show momentum in treating neurological conditions."
+        "detail": "Related breakthroughs in neuroscience\u2014including male birth control molecular switch and psychedelic brain research\u2014signal renaissance in understanding human biology."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Rubio at Munich Security Conference emphasizes transatlantic unity and shared purpose\u2014a quieter signal that diplomatic bridges are being rebuilt despite tensions."
+        "detail": "Global scientific collaboration on the human exposome promises to map lifetime environmental exposures and revolutionize disease prevention worldwide."
       }
     ],
     "mood": [
+      "inspiring",
       "hopeful",
-      "healing",
-      "triumphant",
-      "compassionate",
-      "uplifting"
+      "transcendent",
+      "empowering",
+      "luminous"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-14.png",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-14.png"
+    "tier": 8,
+    "tier_name": "Brilliant",
+    "card_image": "dawn-card-2026-02-15.png",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-15.png"
   }
 }

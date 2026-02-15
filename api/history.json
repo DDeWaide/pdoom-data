@@ -746,5 +746,99 @@
       "card_image": "dawn-card-2026-02-14.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-14.png"
     }
+  },
+  {
+    "date": "2026-02-15",
+    "generated_at": "2026-02-15T11:19:41.246260+00:00",
+    "doom": {
+      "percentage": 28,
+      "driver": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says.",
+      "category": "Geopolitics",
+      "blurb": "KREMLIN DEPLOYS EXOTIC POISON, WEST CONDEMNS",
+      "summary": "Five European nations formally accused Russia of assassinating Navalny with a lethal toxin derived from poison dart frogs\u2014a reminder that state-sponsored murder remains a tool of choice for authoritarian regimes. Meanwhile, Gaza violence escalates (11+ killed in Israeli strikes), Iran signals willingness to negotiate nuclear terms, and Rubio scrambles to reassure Europe that Trump still believes in the transatlantic alliance. The old Cold War playbook never really went away.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Navalny assassination confirmation signals unrepentant Russian aggression; NATO cohesion tested but holding in Munich Security Conference messaging."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Rubio's diplomatic pivot attempts damage control on Trump's 'America First' posture, but European skepticism remains high."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "medium",
+          "detail": "Iran signals compromise on nuclear deal; US-Iran channel remains contentious but not yet escalatory."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Neuromorphic AI breakthroughs in physics simulations emerge quietly amid geopolitical noise\u2014dual-use risk not yet urgent."
+        },
+        {
+          "name": "Cyber",
+          "signal": "low",
+          "detail": "Smart sleep mask broadcasting brainwaves to open MQTT broker highlights privacy erosion, but no immediate threat actor."
+        }
+      ],
+      "mood": [
+        "assassinated",
+        "poisoned",
+        "vengeful",
+        "tense",
+        "unrepentant"
+      ],
+      "tier": 3,
+      "tier_name": "Unsettled",
+      "card_image": "doom-card-2026-02-15.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-15.png"
+    },
+    "dawn": {
+      "percentage": 72.0,
+      "driver": "Scientists found a way to plant ideas in dreams to boost creativity",
+      "category": "Science",
+      "blurb": "DREAMS UNLOCK HUMAN POTENTIAL",
+      "summary": "Northwestern University neuroscientists have demonstrated that dreams can be deliberately guided toward specific directions\u2014a breakthrough suggesting that sleeping on a problem is far more powerful than we imagined. This discovery opens profound possibilities for enhancing creativity, problem-solving, and human cognitive potential. Against a backdrop of geopolitical tension and conflict, this glimpse into our brain's untapped capacity reminds us that human ingenuity and self-discovery remain boundless.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Neuroscientists prove dreams can be nudged in specific directions, unlocking new understanding of creativity and problem-solving."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Discovery reveals the brain's extraordinary ability to harness its own potential, suggesting untapped creative reserves in all of us."
+        },
+        {
+          "name": "Discovery",
+          "signal": "bright",
+          "detail": "Sleep science advances fundamentally reshape how we understand the mind's capacity for innovation and insight."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Related breakthroughs in neuroscience\u2014including male birth control molecular switch and psychedelic brain research\u2014signal renaissance in understanding human biology."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Global scientific collaboration on the human exposome promises to map lifetime environmental exposures and revolutionize disease prevention worldwide."
+        }
+      ],
+      "mood": [
+        "inspiring",
+        "hopeful",
+        "transcendent",
+        "empowering",
+        "luminous"
+      ],
+      "tier": 8,
+      "tier_name": "Brilliant",
+      "card_image": "dawn-card-2026-02-15.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-15.png"
+    }
   }
 ]
