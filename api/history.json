@@ -840,5 +840,99 @@
       "card_image": "dawn-card-2026-02-15.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-15.png"
     }
+  },
+  {
+    "date": "2026-02-16",
+    "generated_at": "2026-02-16T11:40:31.725928+00:00",
+    "doom": {
+      "percentage": 28,
+      "driver": "Iran must abandon enriched uranium and not produce more, Netanyahu says. The Israeli PM's comments come ahead of Iran-US talks in Geneva on Tuesday to discuss a nuclear deal.",
+      "category": "Nuclear",
+      "blurb": "NETANYAHU SETS IMPOSSIBLE TERMS AS IRAN TALKS LOOM",
+      "summary": "Netanyahu is essentially pre-rejecting any compromise before Geneva talks even start, demanding Iran dismantle its nuclear program entirely\u2014a maximalist position that makes productive negotiation nearly impossible. Meanwhile, North Korea is openly housing families of soldiers killed fighting *with Russia in Ukraine*, signaling a chaotic multipolar realignment where nuclear powers are sidling up in ways that destabilize traditional deterrence frameworks.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Netanyahu's hardline demands before Geneva talks, combined with Iran's continued enrichment, create negotiation theater masking deeper mistrust."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "North Korea openly supporting Russian war effort and housing soldiers' families signals erosion of post-Cold War norms and emerging authoritarian bloc."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "US-Europe alliance strain evident at Munich conference as Trump administration rhetoric on 'civilizational erasure' alienates traditional partners."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "West Bank land registration process by Israel could trigger new regional escalation, though immediate flashpoint remains Gaza explosives clearing deadlock."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Navalny toxin analysis and cross-border abductions suggest intelligence operations remain volatile but localized."
+        }
+      ],
+      "mood": [
+        "tense",
+        "escalatory",
+        "fragmented",
+        "unraveling",
+        "brinkmanship"
+      ],
+      "tier": 3,
+      "tier_name": "Unsettled",
+      "card_image": "doom-card-2026-02-16.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-16.png"
+    },
+    "dawn": {
+      "percentage": 72.0,
+      "driver": "India hosts AI Impact Summit, drawing world leaders, tech giants",
+      "category": "Technology",
+      "blurb": "GLOBAL AI COOPERATION FOR INCLUSIVE GROWTH",
+      "summary": "While pDoom fixates on AI risks and job displacement, India is convening world leaders and tech titans for collaborative governance on artificial intelligence. This summit signals a pivot toward shared responsibility and equitable development\u2014tech as a bridge rather than a weapon. The focus on sustainability and inclusive growth shows the global community recognizing AI's potential to solve problems, not just create them.",
+      "factors": [
+        {
+          "name": "Technology",
+          "signal": "blazing",
+          "detail": "India hosting AI Impact Summit with Altman, Pichai, and global leaders demonstrates consensus-building on beneficial AI deployment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "World powers converging on shared AI governance framework signals collective responsibility over competitive chaos."
+        },
+        {
+          "name": "Discovery",
+          "signal": "bright",
+          "detail": "Large study confirms no link between mRNA COVID vaccines in pregnancy and autism, reaffirming vaccine safety after years of misinformation."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "EU bans destruction of unsold clothing, forcing fashion industry toward circular economy and waste reduction."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Athletes push Nordic combined toward gender inclusion; women's Olympic participation expanding despite institutional barriers."
+        }
+      ],
+      "mood": [
+        "collaborative",
+        "hopeful",
+        "unified",
+        "progress",
+        "inclusive"
+      ],
+      "tier": 8,
+      "tier_name": "Brilliant",
+      "card_image": "dawn-card-2026-02-16.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-16.png"
+    }
   }
 ]
