@@ -934,5 +934,99 @@
       "card_image": "dawn-card-2026-02-16.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-16.png"
     }
+  },
+  {
+    "date": "2026-02-17",
+    "generated_at": "2026-02-17T11:25:44.841603+00:00",
+    "doom": {
+      "percentage": 34,
+      "driver": "US build-up of warships and fighter jets tracked near Iran. BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries",
+      "category": "Geopolitics",
+      "blurb": "CARRIER DIPLOMACY: TALKING SOFTLY, CARRYING BIG SHIPS",
+      "summary": "While US and Iran hold nuclear talks in Geneva for round two, the USS Abraham Lincoln is performing the classic diplomatic gesture of showing up with enough firepower to level a city. Nothing says \"let's negotiate\" like a carrier group. Meanwhile, Trump is apparently calling the shots from Washington and the Europeans are skeptical everything\u2014a recipe for either a breakthrough or a very expensive accident.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US military buildup near Iran while simultaneous nuclear negotiations create classic escalation risk; mixed signals between diplomacy and military posturing."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "DHS partial shutdown entering day 4 amid Democrat-Republican standoff over ICE reforms, complicating crisis response capacity."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "AI platforms like Grok facing UK child safety crackdowns; Anthropic hiding Claude's autonomous actions drawing developer backlash."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Qwen3.5 and Alibaba advancing agentic AI capabilities; China's AI race accelerating with reports of potential dominance in 5-10 years."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Hard drive shortage due to AI data center demand; Adani investing $100B in AI infrastructure creating supply chain friction."
+        }
+      ],
+      "mood": [
+        "tense",
+        "brinkmanship",
+        "precarious",
+        "escalatory",
+        "uncertain"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-02-17.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-17.png"
+    },
+    "dawn": {
+      "percentage": 66.0,
+      "driver": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "category": "Human Spirit",
+      "blurb": "DETECTIVE INGENUITY RESCUES CHILD FROM YEARS OF HARM",
+      "summary": "In a stunning display of human determination and creative problem-solving, dark web investigators pieced together a breakthrough clue\u2014a bedroom wall visible in abuse footage\u2014that led to the rescue of a 12-year-old child from years of exploitation. While headlines overflow with political gridlock and military tensions, this story reminds us that ordinary people performing extraordinary work can pierce through darkness and bring real children to safety. It's detective work at its finest, driven by compassion and relentless focus.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Investigators' creative detective work and unwavering commitment to protecting a vulnerable child demonstrates humanity's capacity for courage and sacrifice."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Multi-agency collaboration and law enforcement cooperation across jurisdictions enabled the rescue and investigation."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Digital forensics and investigative techniques turned tiny visual clues into actionable intelligence that saved a life."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "14-year-old Miles Wu's origami breakthrough\u2014folding patterns that hold 10,000 times their own weight for emergency shelters\u2014shows youth innovation solving real-world problems."
+        },
+        {
+          "name": "Community",
+          "signal": "glimmer",
+          "detail": "Millions celebrating Lunar New Year across continents\u2014from Hong Kong to Buenos Aires\u2014embodies global human connection and shared joy."
+        }
+      ],
+      "mood": [
+        "heroic",
+        "protective",
+        "determined",
+        "hopeful",
+        "triumphant"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-17.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-17.png"
+    }
   }
 ]
