@@ -1125,47 +1125,47 @@
   },
   {
     "date": "2026-02-19",
-    "generated_at": "2026-02-19T12:44:25.411190+00:00",
+    "generated_at": "2026-02-19T13:00:18.959641+00:00",
     "doom": {
       "percentage": 36.3,
       "raw_percentage": 37.6,
-      "driver": "Iran and the U.S. lean into gunboat diplomacy as nuclear talks hang in balance.",
+      "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
       "category": "Geopolitics",
-      "blurb": "TWO CARRIERS, ZERO DEALS, ONE DRILL WITH RUSSIA",
-      "summary": "The Iran situation is doing that thing where it refuses to resolve itself \u2014 Tehran is now running naval drills with Russia while the US parks a second carrier nearby and Trump reportedly discusses strike options for as early as Saturday. Meanwhile the Ukraine peace talks lasted a brisk two hours before collapsing, and Sudan has officially earned the word 'genocide' from a UN fact-finding mission. It's not a single catastrophe \u2014 it's a stress test of every guardrail simultaneously.",
+      "blurb": "STRIKE COULD HAPPEN BY SATURDAY",
+      "summary": "The Iran pressure cooker just got turned up another notch: we've gone from carrier diplomacy to 'attack options discussed, possible strike this weekend' in the span of 48 hours. Meanwhile Tehran and Moscow are playing naval footsie in joint drills, Sudan is notching 'hallmarks of genocide,' and Russia-Ukraine talks collapsed after two hours \u2014 apparently even the negotiators couldn't be bothered. The two-carrier standoff from yesterday now has a specific timeline attached, which is exactly the kind of escalation that moves the needle.",
       "factors": [
         {
           "name": "Geopolitics",
           "signal": "high",
-          "detail": "Iran-US standoff escalates with Russia-Iran naval drills, second US carrier deployed, and reported strike timeline of days \u2014 a meaningful escalation from prior posturing."
+          "detail": "Iran strike reportedly discussed at advisor level with a Saturday window floated \u2014 a concrete escalation beyond the carrier posturing of prior days."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "ICC judges describe life under Trump sanctions, South Korea's Yoon gets life for martial law, and Peru burns through its eighth president in a decade \u2014 democratic institutions globally under stress."
+          "detail": "ICC judges under Trump sanctions, Peru on its eighth president in a decade, and South Korea's ex-president sentenced to life \u2014 democratic institutions under strain on multiple continents."
         },
         {
           "name": "AI Capability",
           "signal": "medium",
-          "detail": "Osborne warns nations without AI will be 'weaker and poorer,' Meta locks in millions of Nvidia chips, and AI spending hits $2.5 trillion \u2014 the acceleration narrative is loud but not yet alarming."
-        },
-        {
-          "name": "Alignment",
-          "signal": "low",
-          "detail": "Google DeepMind calls for scrutiny of LLM moral behavior, and a defense company demos AI agents that 'blow things up' \u2014 concerning but contained to research and demonstration stages."
+          "detail": "Osborne's 'embrace AI or become a weaker nation' framing signals AI as geopolitical leverage, while $2.5 trillion in projected 2026 AI spend confirms the arms race is very much on."
         },
         {
           "name": "Wild Card",
           "signal": "medium",
-          "detail": "Former Prince Andrew arrested, Sudan genocide confirmed, and 1,000+ Kenyans allegedly trafficked to fight in Ukraine \u2014 the ambient chaos index is running hot."
+          "detail": "UN mission confirms RSF atrocities in Sudan bear 'hallmarks of genocide' \u2014 another slow-burn catastrophe the international community is watching rather than stopping."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Google DeepMind calling for scrutiny of LLM moral behavior is the right instinct, but feels academic against a backdrop of AI agents literally being designed to 'blow things up.'"
         }
       ],
       "mood": [
-        "escalatory",
-        "precarious",
-        "sardonic",
-        "tense",
-        "fraying"
+        "volatile",
+        "escalating",
+        "fractured",
+        "nervous",
+        "deadline"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
@@ -1176,33 +1176,33 @@
       "percentage": 63.7,
       "driver": "Viagra and shingles vaccine show surprising promise against Alzheimer's. A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer's disease \u2014 with a shingles vaccine emerging as the front-runner.",
       "category": "Medicine",
-      "blurb": "FAMILIAR MEDICINES MAY CRACK ALZHEIMER'S CODE",
-      "summary": "On a day heavy with geopolitical turbulence and humanitarian crisis, science quietly delivered what may be one of the most significant medical signals in years: medicines already trusted by millions could help defeat Alzheimer's disease, the condition that robs people of themselves. The shingles vaccine \u2014 already widely available and proven safe \u2014 emerging as a front-runner is extraordinary, because it means protection could scale globally without waiting for novel drug pipelines. Alongside DMT showing genuine antidepressant results in clinical trials and a sodium-ion battery that simultaneously stores energy and desalinates seawater, today's science headlines remind us that human ingenuity keeps compounding even when the news cycle doesn't.",
+      "blurb": "FAMILIAR MEDICINES, UNEXPECTED WEAPON AGAINST ALZHEIMER'S",
+      "summary": "On a day heavy with conflict, surveillance, and human tragedy, science quietly delivered something remarkable: existing, widely-available medicines may hold new power against Alzheimer's disease, one of the most devastating conditions humanity faces. The shingles vaccine \u2014 already in medicine cabinets worldwide \u2014 is emerging as a front-runner in this fight, meaning protection could be closer and cheaper than anyone dared hope. Paired with breakthroughs in sodium-ion batteries, AI-accelerated materials science, and a psychedelic successfully reducing depression in clinical trials, today's science headlines remind us that the lab bench is holding steady even when the headlines are not.",
       "factors": [
         {
           "name": "Science",
           "signal": "blazing",
-          "detail": "Existing, accessible medicines showing promise against Alzheimer's represents a potential step-change in how quickly treatment could reach the hundreds of millions affected worldwide."
+          "detail": "Shingles vaccines and existing drugs showing genuine promise against Alzheimer's represents a potential paradigm shift in one of medicine's most stubborn problems."
         },
         {
-          "name": "Human Spirit",
+          "name": "Medicine",
           "signal": "bright",
-          "detail": "South Korea's courts sentenced a former president to life for insurrection \u2014 democratic institutions holding the line under pressure, exactly as designed."
+          "detail": "DMT reduced depression symptoms more than placebo in a clinical trial, adding psychedelic therapy to a growing arsenal of mental health treatments."
         },
         {
           "name": "Environment",
           "signal": "glimmer",
-          "detail": "A new sodium-ion battery that stores twice the energy and desalinates seawater simultaneously points toward solving two existential resource challenges with one elegant technology."
+          "detail": "A new sodium-ion battery stores twice the energy and can desalinate seawater, offering a dual breakthrough for clean energy and fresh water access."
         },
         {
-          "name": "Cooperation",
-          "signal": "glimmer",
-          "detail": "Vietnam Airlines and carriers signed deals for nearly 100 Boeing jets during diplomatic visits, showing trade and relationship-building continuing through geopolitical headwinds."
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Thai police donned a lion costume during Lunar New Year festivities to catch a thief \u2014 a moment of ingenuity, festivity, and community that cut through the grimness."
         },
         {
           "name": "Wild Card",
-          "signal": "bright",
-          "detail": "AI is accelerating the hunt for next-generation magnetic materials that could eliminate rare earth magnets in electric vehicles \u2014 a quiet revolution in clean transport supply chains."
+          "signal": "glimmer",
+          "detail": "AI is dramatically accelerating the hunt for next-generation magnetic materials that could replace rare earth elements in electric vehicles, potentially untangling a critical supply chain bottleneck."
         }
       ],
       "mood": [
@@ -1210,7 +1210,7 @@
         "resilience",
         "discovery",
         "possibility",
-        "momentum"
+        "ingenuity"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
