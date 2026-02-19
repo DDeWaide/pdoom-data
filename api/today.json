@@ -1,45 +1,45 @@
 {
   "date": "2026-02-19",
-  "generated_at": "2026-02-19T11:44:17.194746+00:00",
+  "generated_at": "2026-02-19T11:53:26.309670+00:00",
   "doom": {
-    "percentage": 35.4,
-    "raw_percentage": 36.2,
-    "driver": "OpenAI and Anthropic's rivalry on display as CEOs don't hold hands at India AI summit. OpenAI's Sam Altman and Anthropic's Dario Amodei had an awkward moment at a major AI summit, with the two CEOs of competing AI giants opting not to link hands.",
-    "category": "AI Capability",
-    "blurb": "AI RACE FRACTURES: NO KUMBAYA MOMENT",
-    "summary": "The Iran military buildup continues to simmer at roughly the same temperature as yesterday, maintaining that carrier-group-in-the-Gulf vibe. Meanwhile, the leading AI safety company and the leading AI capabilities company can't even fake unity at a photo op, which is the kind of coordination failure that keeps alignment researchers up at night. When your best hope for responsible AI development involves two feuding billionaires, maybe recalibrate your expectations.",
+    "percentage": 34.9,
+    "raw_percentage": 35.7,
+    "driver": "Russia's Putin slams U.S. oil blockade on Cuba: 'We do not accept anything like this'. His comments come as the Caribbean island nation grapples with a worsening economic crisis.",
+    "category": "Geopolitics",
+    "blurb": "COLD WAR ECHOES: PUTIN DRAWS CUBA LINE",
+    "summary": "Putin's picking a fight over Cuba\u2014a delightfully retro crisis location that last threatened civilization in 1962. With Iran tensions simmering and now Moscow rattling sabers over Caribbean oil policy, we're collecting geopolitical flashpoints like they're Pok\u00e9mon cards. The multi-front posturing continues its upward creep.",
     "factors": [
       {
-        "name": "AI Capability",
+        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "OpenAI and Anthropic's public rivalry signals the competitive race dynamics that historically precede safety shortcuts."
+        "detail": "Putin directly challenging U.S. policy in Cuba adds Cold War-era friction point to existing Iran standoff."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "OpenAI-Anthropic rivalry from yesterday continues but no new capability jumps reported."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "ICE enforcement creating campus disruptions demonstrates continued institutional strain, but remains domestic policy churn."
+        "detail": "U.S. pursuing aggressive embargo policy that's drawing direct Russian opposition and escalatory rhetoric."
       },
       {
-        "name": "Geopolitics",
+        "name": "Nuclear",
         "signal": "elevated",
-        "detail": "Iran standoff persists with carrier groups deployed and strike windows open, though no new escalation today."
-      },
-      {
-        "name": "Alignment",
-        "signal": "elevated",
-        "detail": "Lack of coordination between major AI labs undermines any pretense of unified approach to existential risk management."
+        "detail": "Cuba invocation carries nuclear-crisis historical weight; Putin's confrontational stance raises stakes."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "No unexpected developments disrupting baseline threat calculations today."
+        "detail": "Cuban economic crisis could destabilize regional migration patterns but remains secondary concern."
       }
     ],
     "mood": [
-      "fractured",
-      "competitive",
-      "simmering",
-      "uncoordinated"
+      "escalatory",
+      "retro-menacing",
+      "multi-front",
+      "Cold-War-adjacent"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
@@ -47,44 +47,44 @@
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
   },
   "dawn": {
-    "percentage": 64.6,
-    "driver": "OpenAI and Anthropic's rivalry on display as CEOs don't hold hands at India AI summit.",
-    "category": "Cooperation",
-    "blurb": "AI LEADERS UNITE AT GLOBAL SUMMIT",
-    "summary": "Despite competitive tensions, the world's leading AI companies gathered together at India's major AI summit\u2014a powerful signal of global cooperation on humanity's most transformative technology. Even rivals showing up to the same table represents progress when the stakes are this high. The fact that not holding hands is newsworthy shows how much we expect unity in this crucial moment.",
+    "percentage": 65.1,
+    "driver": "Russia's Putin slams U.S. oil blockade on Cuba: 'We do not accept anything like this'. His comments come as the Caribbean island nation grapples with a worsening economic crisis.",
+    "category": "Human Spirit",
+    "blurb": "VOICES RISE FOR CUBA'S STRUGGLING PEOPLE",
+    "summary": "Even amid geopolitical tensions, international attention focuses on the humanitarian needs of Cuban citizens facing economic hardship. When voices from different corners of the world speak up about blockades affecting ordinary people, it signals growing global consciousness about civilian welfare transcending politics. The spotlight on Cuba's crisis could catalyze broader dialogue about humanitarian access and relief.",
     "factors": [
-      {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "Major AI summit brings together cutting-edge research leaders to shape technology's future."
-      },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Competing AI giants attending same international forum demonstrates commitment to dialogue."
+        "detail": "International discourse emerging around humanitarian impacts of economic policies on vulnerable populations."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "University community prioritizes student safety and wellbeing in immediate response to concerns."
+        "detail": "Cuban people continue demonstrating remarkable resilience amid prolonged economic challenges."
       },
       {
-        "name": "Environment",
+        "name": "Community",
+        "signal": "glimmer",
+        "detail": "Global attention on civilian hardship may pressure policymakers toward humanitarian solutions."
+      },
+      {
+        "name": "Peace",
         "signal": "quiet",
-        "detail": "International summits continue building frameworks for responsible technology development."
+        "detail": "Diplomatic channels remain open for dialogue about easing restrictions affecting ordinary citizens."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "India emerging as crucial convening power for global AI governance and collaboration."
+        "detail": "Crisis moments often precede breakthrough negotiations and innovative humanitarian partnerships."
       }
     ],
     "mood": [
-      "collaborative",
-      "united",
-      "progressive",
-      "engaged",
-      "hopeful"
+      "resilient",
+      "solidarity",
+      "hopeful",
+      "compassionate",
+      "aware"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
