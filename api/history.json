@@ -1125,46 +1125,46 @@
   },
   {
     "date": "2026-02-19",
-    "generated_at": "2026-02-19T11:40:20.219980+00:00",
+    "generated_at": "2026-02-19T11:44:17.194746+00:00",
     "doom": {
-      "percentage": 36.5,
-      "raw_percentage": 37.8,
-      "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
-      "category": "Geopolitics",
-      "blurb": "SATURDAY STRIKE: IRAN ATTACK WINDOW OPENS",
-      "summary": "The Iran situation has escalated from carrier deployments to active strike planning, with reports suggesting military action could occur within 48 hours. Meanwhile, South Korea just sentenced its ex-president to life in prison for insurrection, former Prince Andrew got arrested over Epstein connections, and Trump's planning a 5,000-person military base in Gaza. It's a geopolitical pressure cooker with the Iran timer ticking loudest.",
+      "percentage": 35.4,
+      "raw_percentage": 36.2,
+      "driver": "OpenAI and Anthropic's rivalry on display as CEOs don't hold hands at India AI summit. OpenAI's Sam Altman and Anthropic's Dario Amodei had an awkward moment at a major AI summit, with the two CEOs of competing AI giants opting not to link hands.",
+      "category": "AI Capability",
+      "blurb": "AI RACE FRACTURES: NO KUMBAYA MOMENT",
+      "summary": "The Iran military buildup continues to simmer at roughly the same temperature as yesterday, maintaining that carrier-group-in-the-Gulf vibe. Meanwhile, the leading AI safety company and the leading AI capabilities company can't even fake unity at a photo op, which is the kind of coordination failure that keeps alignment researchers up at night. When your best hope for responsible AI development involves two feuding billionaires, maybe recalibrate your expectations.",
       "factors": [
         {
-          "name": "Geopolitics",
+          "name": "AI Capability",
           "signal": "elevated",
-          "detail": "Iran strike reportedly planned for Saturday, carrier groups positioned, while Russia-Ukraine talks stall and Trump pursues Gaza militarization."
+          "detail": "OpenAI and Anthropic's public rivalry signals the competitive race dynamics that historically precede safety shortcuts."
         },
         {
           "name": "Governance",
+          "signal": "medium",
+          "detail": "ICE enforcement creating campus disruptions demonstrates continued institutional strain, but remains domestic policy churn."
+        },
+        {
+          "name": "Geopolitics",
           "signal": "elevated",
-          "detail": "South Korean president gets life sentence for insurrection, Peru ousts its eighth president in a decade, and Prince Andrew arrested\u2014institutional instability across multiple regions."
-        },
-        {
-          "name": "AI Capability",
-          "signal": "medium",
-          "detail": "OpenAI's Osborne warns nations will become 'weaker and poorer' without AI adoption, Google launches music generation in Gemini, but no major capability jumps reported."
-        },
-        {
-          "name": "Wild Card",
-          "signal": "medium",
-          "detail": "Eight skiers dead in California avalanche, 53 migrants dead/missing in Mediterranean, 32 killed in Nigerian village raids\u2014elevated baseline tragedy without systemic escalation."
+          "detail": "Iran standoff persists with carrier groups deployed and strike windows open, though no new escalation today."
         },
         {
           "name": "Alignment",
+          "signal": "elevated",
+          "detail": "Lack of coordination between major AI labs undermines any pretense of unified approach to existential risk management."
+        },
+        {
+          "name": "Wild Card",
           "signal": "low",
-          "detail": "DeepMind questions whether chatbots are virtue signaling rather than genuinely moral, but no acute alignment failures or concerning capability demonstrations."
+          "detail": "No unexpected developments disrupting baseline threat calculations today."
         }
       ],
       "mood": [
-        "tense",
-        "escalating",
-        "precarious",
-        "volatile"
+        "fractured",
+        "competitive",
+        "simmering",
+        "uncoordinated"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
@@ -1172,44 +1172,44 @@
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
     },
     "dawn": {
-      "percentage": 63.5,
-      "driver": "Shingles vaccine show surprising promise against Alzheimer's",
-      "category": "Medicine",
-      "blurb": "FAMILIAR MEDICINE FIGHTS ALZHEIMER'S",
-      "summary": "While headlines detail arrests and geopolitical tensions, a groundbreaking medical discovery offers hope to millions. Researchers found that a widely-available shingles vaccine shows significant promise in preventing Alzheimer's disease\u2014transforming an existing, accessible treatment into a potential weapon against one of humanity's most feared conditions. This is the kind of breakthrough that changes lives quietly but profoundly.",
+      "percentage": 64.6,
+      "driver": "OpenAI and Anthropic's rivalry on display as CEOs don't hold hands at India AI summit.",
+      "category": "Cooperation",
+      "blurb": "AI LEADERS UNITE AT GLOBAL SUMMIT",
+      "summary": "Despite competitive tensions, the world's leading AI companies gathered together at India's major AI summit\u2014a powerful signal of global cooperation on humanity's most transformative technology. Even rivals showing up to the same table represents progress when the stakes are this high. The fact that not holding hands is newsworthy shows how much we expect unity in this crucial moment.",
       "factors": [
         {
           "name": "Science",
-          "signal": "blazing",
-          "detail": "Ancient DNA solves 12,000-year-old genetic mystery while ultra-fast pulsar discovered near Milky Way's black hole."
-        },
-        {
-          "name": "Medicine",
-          "signal": "blazing",
-          "detail": "Shingles vaccine shows Alzheimer's prevention promise and DMT proves effective as antidepressant in clinical trials."
-        },
-        {
-          "name": "Environment",
           "signal": "bright",
-          "detail": "New sodium-ion battery stores twice the energy while also desalinating seawater into drinking water."
+          "detail": "Major AI summit brings together cutting-edge research leaders to shape technology's future."
         },
         {
-          "name": "Technology",
-          "signal": "bright",
-          "detail": "AI dramatically speeds hunt for next-gen magnetic materials to replace rare earth elements in electric vehicles."
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Competing AI giants attending same international forum demonstrates commitment to dialogue."
         },
         {
           "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "University community prioritizes student safety and wellbeing in immediate response to concerns."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "International summits continue building frameworks for responsible technology development."
+        },
+        {
+          "name": "Wild Card",
           "signal": "glimmer",
-          "detail": "71-year-old dancer cast in Taylor Swift video proves you're never too old to achieve dreams."
+          "detail": "India emerging as crucial convening power for global AI governance and collaboration."
         }
       ],
       "mood": [
-        "hopeful",
-        "breakthrough",
-        "healing",
-        "triumphant",
-        "innovative"
+        "collaborative",
+        "united",
+        "progressive",
+        "engaged",
+        "hopeful"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
