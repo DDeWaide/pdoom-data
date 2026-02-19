@@ -1031,96 +1031,191 @@
   },
   {
     "date": "2026-02-18",
-    "generated_at": "2026-02-18T12:17:34.424243+00:00",
+    "generated_at": "2026-02-19T01:30:12.083799+00:00",
     "doom": {
-      "percentage": 28,
-      "driver": "US and Iran say they'll continue nuclear talks as both build up their military forces.",
-      "category": "Nuclear",
-      "blurb": "TALKING LOUD, BUILDING BIGGER GUNS",
-      "summary": "The US and Iran are engaged in a peculiar diplomatic dance: polite negotiation in Geneva while simultaneously ramping up military deployments in the region. It's the geopolitical equivalent of saying 'let's grab coffee' while both parties load their weapons. The second round of talks ended with promises to continue\u2014but experts note the gap between words and actions is widening.",
+      "percentage": 35.3,
+      "raw_percentage": 36.7,
+      "driver": "US to withdraw troops from Syria as tensions mount with Iran.",
+      "category": "Geopolitics",
+      "blurb": "SYRIA PULLOUT AS IRAN DRUMS BEAT LOUDER",
+      "summary": "The US is withdrawing all 1,000 troops from Syria within two months while simultaneously building up military forces near Iran and warning Tehran to take a deal. Multiple headlines scream carrier groups, strike threats, and \"military action on the table.\" It's the geopolitical equivalent of backing slowly toward the exit while keeping your gun drawn.",
       "factors": [
         {
-          "name": "Geopolitics",
-          "signal": "high",
-          "detail": "US-Iran nuclear negotiations ongoing but shadowed by simultaneous military buildup in the region, creating negotiating theater with military backing."
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "OpenAI's Osborne warns nations will be 'weaker and poorer' without AI adoption, while Google DeepMind questions chatbot moral behavior and Meta strikes massive Nvidia chip deals\u2014capability acceleration continues but no major breach."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "Media censorship concerns emerge as CBS reportedly blocks political interview over FCC fears, signaling institutional self-censorship pressure."
+          "detail": "Trump administration sanctions ICC judges whose credit cards are being cancelled, Peru's president impeached after four months, and Mexican disappearances surge 200% over a decade\u2014institutional instability spreading."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US withdrawing from Syria as Iran tensions escalate dramatically, 'difficult' Russia-Ukraine talks end without breakthrough, and White House says military strikes against Iran remain 'on the table'\u2014multiple fronts deteriorating."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Anthropic clashing with Pentagon over AI military use and Google DeepMind calling for scrutiny of chatbot moral behavior suggest growing awareness, but no acute crisis."
         },
         {
           "name": "Wild Card",
-          "signal": "elevated",
-          "detail": "China allegedly conducted secret nuclear test in 2020 (revealed today), adding unpredictability to arms control landscape."
-        },
-        {
-          "name": "AI Capability",
           "signal": "medium",
-          "detail": "Meta's massive GPU purchases and Claude 4.6 release show continued scaling, but no immediate capability shock reported."
-        },
-        {
-          "name": "Biotech",
-          "signal": "low",
-          "detail": "CRISPR breakthrough for antibiotic resistance offers hope; no imminent bioweapon signals in today's headlines."
+          "detail": "Eight skiers killed in California avalanche, 53 dead/missing in Mediterranean migrant boat capsize, 32 killed in Nigerian village raids, and Gaza death toll exceeds 75,000\u2014ongoing humanitarian crises but not escalating."
         }
       ],
       "mood": [
         "tense",
-        "performative",
         "militaristic",
-        "brink-adjacent",
-        "unresolved"
+        "escalating",
+        "precarious"
       ],
-      "tier": 3,
-      "tier_name": "Unsettled",
+      "tier": 4,
+      "tier_name": "Storm Brewing",
       "card_image": "doom-card-2026-02-18.png",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-18.png"
     },
     "dawn": {
-      "percentage": 72.0,
-      "driver": "Thank HN: You helped save 33k lives. 13 years ago, we launched Watsi.org with a Show HN [1].For nearly a year, this community drove so much traffic that we couldn't list patients fast enough. Then pg saw us on HN, wrote us our first big",
-      "category": "Human Spirit",
-      "blurb": "THIRTY-THREE THOUSAND LIVES SAVED BY COMMUNITY KINDNESS",
-      "summary": "On a day heavy with conflict and loss, Watsi.org's milestone shines brightest: 33,000 lives transformed through crowdfunded medical care. What began as a Show HN post grew into a global movement where strangers funded healthcare for those who couldn't afford it. In thirteen years, this small idea proved that humans connecting across borders to help each other can move mountains\u2014a powerful counter to the doom of fractured geopolitics and institutional failure.",
+      "percentage": 64.7,
+      "driver": "The scientist using AI to hunt for antibiotics just about everywhere.",
+      "category": "Medicine",
+      "blurb": "AI DISCOVERS ANTIBIOTICS IN REVOLUTIONARY HUNT",
+      "summary": "While headlines spotlight conflict and loss, C\u00e9sar de la Fuente's breakthrough represents genuine hope\u2014using AI to hunt for antibiotics everywhere, from microbiomes to the natural world. This tackles one of humanity's biggest threats: antimicrobial resistance projected to kill 10 million annually by 2050. Innovation like this reminds us that human ingenuity, amplified by technology, can solve existential challenges.",
       "factors": [
         {
-          "name": "Human Spirit",
+          "name": "Science",
           "signal": "blazing",
-          "detail": "Watsi.org's 33,000 lives saved represents crowdfunded compassion at scale, showing ordinary people's extraordinary generosity."
+          "detail": "AI-powered antibiotic discovery addresses the looming antimicrobial resistance crisis threatening 10 million lives annually by 2050."
         },
         {
-          "name": "Community",
+          "name": "Cooperation",
           "signal": "bright",
-          "detail": "Hacker News community drove so much traffic early on that Watsi couldn't list patients fast enough\u2014grassroots momentum for good."
+          "detail": "US-Japan unveil $36 billion in joint oil, gas, and critical mineral projects, strengthening economic security and alliance ties."
         },
         {
-          "name": "Discovery",
+          "name": "Human Spirit",
           "signal": "bright",
-          "detail": "Paul Graham's personal endorsement early on helped transform a small idea into a global healthcare movement."
+          "detail": "Ali Akbar, 73-year-old Paris newspaper hawker for 50 years, receives knighthood from President Macron for dedication and service."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Microsoft develops 10,000-year glass data storage using femtosecond lasers, offering ultra-stable archival with minimal environmental impact."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "FDA reverses course and agrees to review Moderna's mRNA flu vaccine after initial rejection, potentially revolutionizing influenza prevention."
+        }
+      ],
+      "mood": [
+        "innovative",
+        "life-saving",
+        "breakthrough",
+        "hopeful",
+        "revolutionary"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-18.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-18.png"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "generated_at": "2026-02-19T10:52:16.646230+00:00",
+    "doom": {
+      "percentage": 36.0,
+      "raw_percentage": 37.6,
+      "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
+      "category": "Geopolitics",
+      "blurb": "SATURDAY STRIKE: IRAN IN THE CROSSHAIRS",
+      "summary": "Trump reportedly eyeing Iran military strikes as early as Saturday while carrier groups mass in the Gulf. Meanwhile, South Korea just sentenced its former president to life in prison for insurrection, Russia and Iran are holding joint naval drills, and the US is building a 5,000-person military base in Gaza. It's a geopolitical pressure cooker with multiple lids rattling.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US discussing potential Iran strikes as early as Saturday with massive naval buildup, while Russia-Iran conduct joint drills and Syria pullout proceeds."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "South Korean ex-president sentenced to life for insurrection; Peru's eighth president in a decade takes office; Trump sanctions ICC judges."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI executive warns nations risk becoming 'weaker and poorer' without AI adoption, while India hosts global AI summit with mixed industry signals."
+        },
+        {
+          "name": "Cyber",
+          "signal": "medium",
+          "detail": "Kenyan activist's phone cracked with Israeli tech; Chrome zero-day vulnerability actively exploited in the wild; password manager vulnerabilities exposed."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Mass casualties continue globally: 32 killed in Nigeria village raids, 53 dead/missing in Mediterranean migrant boat capsizing, 30 miners dead from carbon monoxide in Nigeria."
+        }
+      ],
+      "mood": [
+        "tense",
+        "militaristic",
+        "escalating",
+        "volatile",
+        "precarious"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-02-19.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
+    },
+    "dawn": {
+      "percentage": 64.0,
+      "driver": "Scientists at the University of New Hampshire have unleashed artificial intelligence to dramatically speed up the hunt for next-generation magnetic materials.",
+      "category": "Science",
+      "blurb": "AI BREAKTHROUGH COULD FREE EVs FROM RARE EARTHS",
+      "summary": "While headlines focus on geopolitical tensions and algorithmic surveillance, a University of New Hampshire team has deployed AI to accelerate the discovery of next-generation magnets that could replace rare earth materials in electric vehicles. This breakthrough addresses one of clean energy's most persistent supply chain vulnerabilities. Science continues solving tomorrow's problems while the world argues about today's.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "AI-powered materials discovery could eliminate rare earth dependency in EVs, solving a critical supply chain bottleneck."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Global AI summit in India brings together tech leaders despite geopolitical tensions, focusing on open access and collaboration."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Florida man rescues family from submerged SUV, reunites with them one week later to celebrate heroic act."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "New sodium-ion battery stores twice the energy while potentially desalinating seawater, offering dual environmental benefits."
         },
         {
           "name": "Wild Card",
           "signal": "glimmer",
-          "detail": "AsteroidOS 2.0 shipped after 8 years of underground work\u2014persistence and passion for niche open-source projects thriving quietly."
-        },
-        {
-          "name": "Science",
-          "signal": "glimmer",
-          "detail": "Breakthrough CRISPR system could reverse antibiotic resistance crisis\u2014biology fighting back against superbugs."
+          "detail": "Psychedelic DMT shows promise reducing depression symptoms after single dose in clinical trial, offering new mental health pathway."
         }
       ],
       "mood": [
-        "grateful",
-        "inspired",
-        "hopeful",
-        "connected",
-        "triumphant"
+        "innovative",
+        "breakthrough",
+        "triumphant",
+        "sustainable",
+        "hopeful"
       ],
-      "tier": 8,
-      "tier_name": "Brilliant",
-      "card_image": "dawn-card-2026-02-18.png",
-      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-18.png"
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-19.png",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-19.png"
     }
   }
 ]
