@@ -1125,47 +1125,46 @@
   },
   {
     "date": "2026-02-19",
-    "generated_at": "2026-02-19T10:52:16.646230+00:00",
+    "generated_at": "2026-02-19T11:40:20.219980+00:00",
     "doom": {
-      "percentage": 36.0,
-      "raw_percentage": 37.6,
+      "percentage": 36.5,
+      "raw_percentage": 37.8,
       "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
       "category": "Geopolitics",
-      "blurb": "SATURDAY STRIKE: IRAN IN THE CROSSHAIRS",
-      "summary": "Trump reportedly eyeing Iran military strikes as early as Saturday while carrier groups mass in the Gulf. Meanwhile, South Korea just sentenced its former president to life in prison for insurrection, Russia and Iran are holding joint naval drills, and the US is building a 5,000-person military base in Gaza. It's a geopolitical pressure cooker with multiple lids rattling.",
+      "blurb": "SATURDAY STRIKE: IRAN ATTACK WINDOW OPENS",
+      "summary": "The Iran situation has escalated from carrier deployments to active strike planning, with reports suggesting military action could occur within 48 hours. Meanwhile, South Korea just sentenced its ex-president to life in prison for insurrection, former Prince Andrew got arrested over Epstein connections, and Trump's planning a 5,000-person military base in Gaza. It's a geopolitical pressure cooker with the Iran timer ticking loudest.",
       "factors": [
         {
           "name": "Geopolitics",
           "signal": "elevated",
-          "detail": "US discussing potential Iran strikes as early as Saturday with massive naval buildup, while Russia-Iran conduct joint drills and Syria pullout proceeds."
+          "detail": "Iran strike reportedly planned for Saturday, carrier groups positioned, while Russia-Ukraine talks stall and Trump pursues Gaza militarization."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "South Korean ex-president sentenced to life for insurrection; Peru's eighth president in a decade takes office; Trump sanctions ICC judges."
+          "detail": "South Korean president gets life sentence for insurrection, Peru ousts its eighth president in a decade, and Prince Andrew arrested\u2014institutional instability across multiple regions."
         },
         {
           "name": "AI Capability",
           "signal": "medium",
-          "detail": "OpenAI executive warns nations risk becoming 'weaker and poorer' without AI adoption, while India hosts global AI summit with mixed industry signals."
-        },
-        {
-          "name": "Cyber",
-          "signal": "medium",
-          "detail": "Kenyan activist's phone cracked with Israeli tech; Chrome zero-day vulnerability actively exploited in the wild; password manager vulnerabilities exposed."
+          "detail": "OpenAI's Osborne warns nations will become 'weaker and poorer' without AI adoption, Google launches music generation in Gemini, but no major capability jumps reported."
         },
         {
           "name": "Wild Card",
           "signal": "medium",
-          "detail": "Mass casualties continue globally: 32 killed in Nigeria village raids, 53 dead/missing in Mediterranean migrant boat capsizing, 30 miners dead from carbon monoxide in Nigeria."
+          "detail": "Eight skiers dead in California avalanche, 53 migrants dead/missing in Mediterranean, 32 killed in Nigerian village raids\u2014elevated baseline tragedy without systemic escalation."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "DeepMind questions whether chatbots are virtue signaling rather than genuinely moral, but no acute alignment failures or concerning capability demonstrations."
         }
       ],
       "mood": [
         "tense",
-        "militaristic",
         "escalating",
-        "volatile",
-        "precarious"
+        "precarious",
+        "volatile"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
@@ -1173,44 +1172,44 @@
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
     },
     "dawn": {
-      "percentage": 64.0,
-      "driver": "Scientists at the University of New Hampshire have unleashed artificial intelligence to dramatically speed up the hunt for next-generation magnetic materials.",
-      "category": "Science",
-      "blurb": "AI BREAKTHROUGH COULD FREE EVs FROM RARE EARTHS",
-      "summary": "While headlines focus on geopolitical tensions and algorithmic surveillance, a University of New Hampshire team has deployed AI to accelerate the discovery of next-generation magnets that could replace rare earth materials in electric vehicles. This breakthrough addresses one of clean energy's most persistent supply chain vulnerabilities. Science continues solving tomorrow's problems while the world argues about today's.",
+      "percentage": 63.5,
+      "driver": "Shingles vaccine show surprising promise against Alzheimer's",
+      "category": "Medicine",
+      "blurb": "FAMILIAR MEDICINE FIGHTS ALZHEIMER'S",
+      "summary": "While headlines detail arrests and geopolitical tensions, a groundbreaking medical discovery offers hope to millions. Researchers found that a widely-available shingles vaccine shows significant promise in preventing Alzheimer's disease\u2014transforming an existing, accessible treatment into a potential weapon against one of humanity's most feared conditions. This is the kind of breakthrough that changes lives quietly but profoundly.",
       "factors": [
         {
           "name": "Science",
           "signal": "blazing",
-          "detail": "AI-powered materials discovery could eliminate rare earth dependency in EVs, solving a critical supply chain bottleneck."
+          "detail": "Ancient DNA solves 12,000-year-old genetic mystery while ultra-fast pulsar discovered near Milky Way's black hole."
         },
         {
-          "name": "Cooperation",
-          "signal": "glimmer",
-          "detail": "Global AI summit in India brings together tech leaders despite geopolitical tensions, focusing on open access and collaboration."
-        },
-        {
-          "name": "Human Spirit",
-          "signal": "bright",
-          "detail": "Florida man rescues family from submerged SUV, reunites with them one week later to celebrate heroic act."
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "Shingles vaccine shows Alzheimer's prevention promise and DMT proves effective as antidepressant in clinical trials."
         },
         {
           "name": "Environment",
           "signal": "bright",
-          "detail": "New sodium-ion battery stores twice the energy while potentially desalinating seawater, offering dual environmental benefits."
+          "detail": "New sodium-ion battery stores twice the energy while also desalinating seawater into drinking water."
         },
         {
-          "name": "Wild Card",
+          "name": "Technology",
+          "signal": "bright",
+          "detail": "AI dramatically speeds hunt for next-gen magnetic materials to replace rare earth elements in electric vehicles."
+        },
+        {
+          "name": "Human Spirit",
           "signal": "glimmer",
-          "detail": "Psychedelic DMT shows promise reducing depression symptoms after single dose in clinical trial, offering new mental health pathway."
+          "detail": "71-year-old dancer cast in Taylor Swift video proves you're never too old to achieve dreams."
         }
       ],
       "mood": [
-        "innovative",
+        "hopeful",
         "breakthrough",
+        "healing",
         "triumphant",
-        "sustainable",
-        "hopeful"
+        "innovative"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
