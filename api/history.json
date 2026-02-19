@@ -1125,47 +1125,47 @@
   },
   {
     "date": "2026-02-19",
-    "generated_at": "2026-02-19T12:32:18.409516+00:00",
+    "generated_at": "2026-02-19T12:44:25.411190+00:00",
     "doom": {
       "percentage": 36.3,
       "raw_percentage": 37.6,
-      "driver": "White House presses Iran to make deal, while ramping up military presence.",
+      "driver": "Iran and the U.S. lean into gunboat diplomacy as nuclear talks hang in balance.",
       "category": "Geopolitics",
-      "blurb": "TWO CARRIERS, ONE DEADLINE, ZERO DEALS",
-      "summary": "The Iran situation grinds upward for the fifth consecutive day: drills with Russia, concrete shields going up at Parchin, and US carriers closing in while the White House mutters 'very wise' like a mob boss suggesting you reconsider your life choices. Ukraine talks collapsed after two hours \u2014 presumably someone remembered they hate each other \u2014 and Sudan officially earned the word 'genocide' from a UN mission that usually avoids it. The only good news is Prince Andrew's arrest, which is doom for exactly one person.",
+      "blurb": "TWO CARRIERS, ZERO DEALS, ONE DRILL WITH RUSSIA",
+      "summary": "The Iran situation is doing that thing where it refuses to resolve itself \u2014 Tehran is now running naval drills with Russia while the US parks a second carrier nearby and Trump reportedly discusses strike options for as early as Saturday. Meanwhile the Ukraine peace talks lasted a brisk two hours before collapsing, and Sudan has officially earned the word 'genocide' from a UN fact-finding mission. It's not a single catastrophe \u2014 it's a stress test of every guardrail simultaneously.",
       "factors": [
         {
           "name": "Geopolitics",
           "signal": "high",
-          "detail": "Iran-US standoff escalates with Russian naval drills, Iranian fortification of Parchin, a second US carrier deployment, and a Saturday strike window still on the table \u2014 all while Ukraine peace talks end in two hours flat."
+          "detail": "Iran-US standoff escalates with Russia-Iran naval drills, second US carrier deployed, and reported strike timeline of days \u2014 a meaningful escalation from prior posturing."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "Sudan's RSF atrocities formally labeled genocide by UN; ICC judges operating under US sanctions; Peru on its eighth president in a decade; and South Korea's former president gets life in prison for martial law \u2014 institutional fragility on multiple continents."
+          "detail": "ICC judges describe life under Trump sanctions, South Korea's Yoon gets life for martial law, and Peru burns through its eighth president in a decade \u2014 democratic institutions globally under stress."
         },
         {
           "name": "AI Capability",
           "signal": "medium",
-          "detail": "George Osborne warns nations not embracing AI will be 'weaker and poorer,' AI spending projected at $2.5 trillion in 2026, and defense firm Scout AI is deploying lethal autonomous weapons \u2014 capability race accelerating quietly."
+          "detail": "Osborne warns nations without AI will be 'weaker and poorer,' Meta locks in millions of Nvidia chips, and AI spending hits $2.5 trillion \u2014 the acceleration narrative is loud but not yet alarming."
         },
         {
           "name": "Alignment",
           "signal": "low",
-          "detail": "Google DeepMind calls for scrutiny of LLM moral behavior \u2014 which is nice, but asking an AI to scrutinize AI ethics is the homework-eating-dog problem at civilizational scale."
+          "detail": "Google DeepMind calls for scrutiny of LLM moral behavior, and a defense company demos AI agents that 'blow things up' \u2014 concerning but contained to research and demonstration stages."
         },
         {
           "name": "Wild Card",
           "signal": "medium",
-          "detail": "A zero-day CSS vulnerability (CVE-2026-2441) is being exploited in the wild, Iran is building concrete shields at military sites, and Kenyan authorities used Israeli phone-cracking tech on a pro-democracy activist \u2014 the surveillance-authoritarianism toolkit is spreading fast."
+          "detail": "Former Prince Andrew arrested, Sudan genocide confirmed, and 1,000+ Kenyans allegedly trafficked to fight in Ukraine \u2014 the ambient chaos index is running hot."
         }
       ],
       "mood": [
         "escalatory",
+        "precarious",
+        "sardonic",
         "tense",
-        "grinding",
-        "ominous",
-        "sardonic"
+        "fraying"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
@@ -1176,41 +1176,41 @@
       "percentage": 63.7,
       "driver": "Viagra and shingles vaccine show surprising promise against Alzheimer's. A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer's disease \u2014 with a shingles vaccine emerging as the front-runner.",
       "category": "Medicine",
-      "blurb": "FAMILIAR MEDICINES, UNEXPECTED ALZHEIMER'S HOPE",
-      "summary": "On a day saturated with geopolitical turbulence and human suffering, science quietly delivered something remarkable: medicines already in millions of medicine cabinets may hold genuine promise against one of humanity's most devastating diseases. The Alzheimer's finding joins a cluster of medical signals today \u2014 DMT reducing depression after a single dose, RSV antibodies harvested from pediatricians' blood proving 25 times more effective than existing therapies \u2014 suggesting biomedical research is advancing on multiple fronts simultaneously. Yes, the doom pressure is real at 36.3%, but the pace of therapeutic discovery is accelerating faster than most headlines acknowledge.",
+      "blurb": "FAMILIAR MEDICINES MAY CRACK ALZHEIMER'S CODE",
+      "summary": "On a day heavy with geopolitical turbulence and humanitarian crisis, science quietly delivered what may be one of the most significant medical signals in years: medicines already trusted by millions could help defeat Alzheimer's disease, the condition that robs people of themselves. The shingles vaccine \u2014 already widely available and proven safe \u2014 emerging as a front-runner is extraordinary, because it means protection could scale globally without waiting for novel drug pipelines. Alongside DMT showing genuine antidepressant results in clinical trials and a sodium-ion battery that simultaneously stores energy and desalinates seawater, today's science headlines remind us that human ingenuity keeps compounding even when the news cycle doesn't.",
       "factors": [
         {
           "name": "Science",
           "signal": "blazing",
-          "detail": "Multiple simultaneous medical breakthroughs today \u2014 Alzheimer's drug repurposing, DMT antidepressant efficacy, and next-gen RSV antibodies \u2014 signal a remarkably productive moment in biomedical research."
-        },
-        {
-          "name": "Cooperation",
-          "signal": "glimmer",
-          "detail": "Vietnam airlines signing deals for nearly 100 Boeing jets during a diplomatic visit reflects economic cooperation and trade relationships quietly continuing despite geopolitical noise."
+          "detail": "Existing, accessible medicines showing promise against Alzheimer's represents a potential step-change in how quickly treatment could reach the hundreds of millions affected worldwide."
         },
         {
           "name": "Human Spirit",
           "signal": "bright",
-          "detail": "A Florida man who pulled a mother and three children from a submerged SUV was reunited with the family a week later, a small but luminous story of spontaneous human courage and gratitude."
+          "detail": "South Korea's courts sentenced a former president to life for insurrection \u2014 democratic institutions holding the line under pressure, exactly as designed."
         },
         {
           "name": "Environment",
           "signal": "glimmer",
-          "detail": "A new sodium-ion battery that stores twice the energy and can desalinate seawater represents a potential dual solution to energy storage and clean water scarcity."
+          "detail": "A new sodium-ion battery that stores twice the energy and desalinates seawater simultaneously points toward solving two existential resource challenges with one elegant technology."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Vietnam Airlines and carriers signed deals for nearly 100 Boeing jets during diplomatic visits, showing trade and relationship-building continuing through geopolitical headwinds."
         },
         {
           "name": "Wild Card",
           "signal": "bright",
-          "detail": "AI is being unleashed to find rare-earth-free magnetic materials for electric vehicles, potentially breaking one of the most stubborn resource bottlenecks in the green energy transition."
+          "detail": "AI is accelerating the hunt for next-generation magnetic materials that could eliminate rare earth magnets in electric vehicles \u2014 a quiet revolution in clean transport supply chains."
         }
       ],
       "mood": [
-        "hopeful",
-        "resilient",
-        "discovering",
-        "advancing",
-        "luminous"
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "possibility",
+        "momentum"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
