@@ -1,45 +1,45 @@
 {
   "date": "2026-02-19",
-  "generated_at": "2026-02-19T11:53:26.309670+00:00",
+  "generated_at": "2026-02-19T11:55:00.532197+00:00",
   "doom": {
-    "percentage": 34.9,
-    "raw_percentage": 35.7,
-    "driver": "Russia's Putin slams U.S. oil blockade on Cuba: 'We do not accept anything like this'. His comments come as the Caribbean island nation grapples with a worsening economic crisis.",
+    "percentage": 36.0,
+    "raw_percentage": 37.3,
+    "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
     "category": "Geopolitics",
-    "blurb": "COLD WAR ECHOES: PUTIN DRAWS CUBA LINE",
-    "summary": "Putin's picking a fight over Cuba\u2014a delightfully retro crisis location that last threatened civilization in 1962. With Iran tensions simmering and now Moscow rattling sabers over Caribbean oil policy, we're collecting geopolitical flashpoints like they're Pok\u00e9mon cards. The multi-front posturing continues its upward creep.",
+    "blurb": "IRAN STRIKE WINDOW: THIS WEEKEND",
+    "summary": "Trump has reportedly discussed Iran strike options with advisers, with action possible as early as Saturday\u2014while simultaneously moving more carriers into position and insisting Tehran make a deal. Meanwhile, South Korea just sentenced its former president to life in prison for martial law, Prince Andrew got arrested over Epstein connections, and OpenAI's former chancellor is warning nations they'll be \"weaker and poorer\" without AI. The Iran drumbeat gets louder by the day.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Putin directly challenging U.S. policy in Cuba adds Cold War-era friction point to existing Iran standoff."
+        "detail": "US reportedly discussing Iran strikes as early as Saturday while deploying additional carrier groups and conducting gunboat diplomacy."
+      },
+      {
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "South Korea sentences former president to life for insurrection; Prince Andrew arrested; Peru's eighth president in a decade installed."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "OpenAI-Anthropic rivalry from yesterday continues but no new capability jumps reported."
-      },
-      {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "U.S. pursuing aggressive embargo policy that's drawing direct Russian opposition and escalatory rhetoric."
-      },
-      {
-        "name": "Nuclear",
-        "signal": "elevated",
-        "detail": "Cuba invocation carries nuclear-crisis historical weight; Putin's confrontational stance raises stakes."
+        "detail": "OpenAI executive warns countries will be 'weaker and poorer' without AI adoption, framing technology as geopolitical necessity."
       },
       {
         "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Trump planning 5,000-person military base in Gaza; Russia-Ukraine talks end without breakthrough after just two hours."
+      },
+      {
+        "name": "Alignment",
         "signal": "low",
-        "detail": "Cuban economic crisis could destabilize regional migration patterns but remains secondary concern."
+        "detail": "Google DeepMind questions whether chatbots are virtue signaling; OpenAI and Anthropic CEOs refuse to hold hands at summit."
       }
     ],
     "mood": [
-      "escalatory",
-      "retro-menacing",
-      "multi-front",
-      "Cold-War-adjacent"
+      "escalating",
+      "volatile",
+      "precarious",
+      "ominous"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
@@ -47,44 +47,44 @@
     "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
   },
   "dawn": {
-    "percentage": 65.1,
-    "driver": "Russia's Putin slams U.S. oil blockade on Cuba: 'We do not accept anything like this'. His comments come as the Caribbean island nation grapples with a worsening economic crisis.",
-    "category": "Human Spirit",
-    "blurb": "VOICES RISE FOR CUBA'S STRUGGLING PEOPLE",
-    "summary": "Even amid geopolitical tensions, international attention focuses on the humanitarian needs of Cuban citizens facing economic hardship. When voices from different corners of the world speak up about blockades affecting ordinary people, it signals growing global consciousness about civilian welfare transcending politics. The spotlight on Cuba's crisis could catalyze broader dialogue about humanitarian access and relief.",
+    "percentage": 64.0,
+    "driver": "New sodium ion battery stores twice the energy and desalinates seawater.",
+    "category": "Technology",
+    "blurb": "BREAKTHROUGH BATTERY POWERS CLEAN WATER FUTURE",
+    "summary": "While tensions simmer and trials unfold, a remarkable scientific breakthrough offers tangible hope: researchers have developed a sodium-ion battery that doubles energy storage while simultaneously purifying seawater into drinking water. This dual-purpose innovation addresses two of humanity's most pressing challenges\u2014renewable energy storage and water scarcity\u2014with a single elegant solution that keeps water inside the battery material instead of removing it.",
     "factors": [
       {
+        "name": "Science",
+        "signal": "blazing",
+        "detail": "Sodium battery breakthrough doubles energy capacity and desalinates water, solving two global challenges at once."
+      },
+      {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "International discourse emerging around humanitarian impacts of economic policies on vulnerable populations."
+        "signal": "bright",
+        "detail": "US concludes Ukraine peace talks while exploring diplomatic paths, and Nigeria transforms Trump threats into military partnership."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Cuban people continue demonstrating remarkable resilience amid prolonged economic challenges."
+        "detail": "71-year-old dancer cast in Taylor Swift video proves creativity and opportunity transcend age."
       },
       {
-        "name": "Community",
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "Global attention on civilian hardship may pressure policymakers toward humanitarian solutions."
-      },
-      {
-        "name": "Peace",
-        "signal": "quiet",
-        "detail": "Diplomatic channels remain open for dialogue about easing restrictions affecting ordinary citizens."
+        "detail": "AI breakthrough could replace rare earth magnets in electric vehicles, reducing environmental mining impact."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Crisis moments often precede breakthrough negotiations and innovative humanitarian partnerships."
+        "signal": "bright",
+        "detail": "Thai police use creative lion dancer disguise to catch thief during lunar new year celebrations."
       }
     ],
     "mood": [
-      "resilient",
-      "solidarity",
+      "innovative",
+      "breakthrough",
       "hopeful",
-      "compassionate",
-      "aware"
+      "transformative",
+      "triumphant"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
