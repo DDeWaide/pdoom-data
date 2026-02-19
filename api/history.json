@@ -1125,46 +1125,47 @@
   },
   {
     "date": "2026-02-19",
-    "generated_at": "2026-02-19T11:55:00.532197+00:00",
+    "generated_at": "2026-02-19T12:32:18.409516+00:00",
     "doom": {
-      "percentage": 36.0,
-      "raw_percentage": 37.3,
-      "driver": "White House presses Iran to make deal, while ramping up military presence. US media reports that Trump has discussed attack options with advisers, and a strike could happen as early as Saturday.",
+      "percentage": 36.3,
+      "raw_percentage": 37.6,
+      "driver": "White House presses Iran to make deal, while ramping up military presence.",
       "category": "Geopolitics",
-      "blurb": "IRAN STRIKE WINDOW: THIS WEEKEND",
-      "summary": "Trump has reportedly discussed Iran strike options with advisers, with action possible as early as Saturday\u2014while simultaneously moving more carriers into position and insisting Tehran make a deal. Meanwhile, South Korea just sentenced its former president to life in prison for martial law, Prince Andrew got arrested over Epstein connections, and OpenAI's former chancellor is warning nations they'll be \"weaker and poorer\" without AI. The Iran drumbeat gets louder by the day.",
+      "blurb": "TWO CARRIERS, ONE DEADLINE, ZERO DEALS",
+      "summary": "The Iran situation grinds upward for the fifth consecutive day: drills with Russia, concrete shields going up at Parchin, and US carriers closing in while the White House mutters 'very wise' like a mob boss suggesting you reconsider your life choices. Ukraine talks collapsed after two hours \u2014 presumably someone remembered they hate each other \u2014 and Sudan officially earned the word 'genocide' from a UN mission that usually avoids it. The only good news is Prince Andrew's arrest, which is doom for exactly one person.",
       "factors": [
         {
           "name": "Geopolitics",
-          "signal": "elevated",
-          "detail": "US reportedly discussing Iran strikes as early as Saturday while deploying additional carrier groups and conducting gunboat diplomacy."
+          "signal": "high",
+          "detail": "Iran-US standoff escalates with Russian naval drills, Iranian fortification of Parchin, a second US carrier deployment, and a Saturday strike window still on the table \u2014 all while Ukraine peace talks end in two hours flat."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "South Korea sentences former president to life for insurrection; Prince Andrew arrested; Peru's eighth president in a decade installed."
+          "detail": "Sudan's RSF atrocities formally labeled genocide by UN; ICC judges operating under US sanctions; Peru on its eighth president in a decade; and South Korea's former president gets life in prison for martial law \u2014 institutional fragility on multiple continents."
         },
         {
           "name": "AI Capability",
           "signal": "medium",
-          "detail": "OpenAI executive warns countries will be 'weaker and poorer' without AI adoption, framing technology as geopolitical necessity."
-        },
-        {
-          "name": "Wild Card",
-          "signal": "medium",
-          "detail": "Trump planning 5,000-person military base in Gaza; Russia-Ukraine talks end without breakthrough after just two hours."
+          "detail": "George Osborne warns nations not embracing AI will be 'weaker and poorer,' AI spending projected at $2.5 trillion in 2026, and defense firm Scout AI is deploying lethal autonomous weapons \u2014 capability race accelerating quietly."
         },
         {
           "name": "Alignment",
           "signal": "low",
-          "detail": "Google DeepMind questions whether chatbots are virtue signaling; OpenAI and Anthropic CEOs refuse to hold hands at summit."
+          "detail": "Google DeepMind calls for scrutiny of LLM moral behavior \u2014 which is nice, but asking an AI to scrutinize AI ethics is the homework-eating-dog problem at civilizational scale."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A zero-day CSS vulnerability (CVE-2026-2441) is being exploited in the wild, Iran is building concrete shields at military sites, and Kenyan authorities used Israeli phone-cracking tech on a pro-democracy activist \u2014 the surveillance-authoritarianism toolkit is spreading fast."
         }
       ],
       "mood": [
-        "escalating",
-        "volatile",
-        "precarious",
-        "ominous"
+        "escalatory",
+        "tense",
+        "grinding",
+        "ominous",
+        "sardonic"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
@@ -1172,44 +1173,44 @@
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-19.png"
     },
     "dawn": {
-      "percentage": 64.0,
-      "driver": "New sodium ion battery stores twice the energy and desalinates seawater.",
-      "category": "Technology",
-      "blurb": "BREAKTHROUGH BATTERY POWERS CLEAN WATER FUTURE",
-      "summary": "While tensions simmer and trials unfold, a remarkable scientific breakthrough offers tangible hope: researchers have developed a sodium-ion battery that doubles energy storage while simultaneously purifying seawater into drinking water. This dual-purpose innovation addresses two of humanity's most pressing challenges\u2014renewable energy storage and water scarcity\u2014with a single elegant solution that keeps water inside the battery material instead of removing it.",
+      "percentage": 63.7,
+      "driver": "Viagra and shingles vaccine show surprising promise against Alzheimer's. A major new study has spotlighted three familiar medicines that could take on an unexpected new role in the fight against Alzheimer's disease \u2014 with a shingles vaccine emerging as the front-runner.",
+      "category": "Medicine",
+      "blurb": "FAMILIAR MEDICINES, UNEXPECTED ALZHEIMER'S HOPE",
+      "summary": "On a day saturated with geopolitical turbulence and human suffering, science quietly delivered something remarkable: medicines already in millions of medicine cabinets may hold genuine promise against one of humanity's most devastating diseases. The Alzheimer's finding joins a cluster of medical signals today \u2014 DMT reducing depression after a single dose, RSV antibodies harvested from pediatricians' blood proving 25 times more effective than existing therapies \u2014 suggesting biomedical research is advancing on multiple fronts simultaneously. Yes, the doom pressure is real at 36.3%, but the pace of therapeutic discovery is accelerating faster than most headlines acknowledge.",
       "factors": [
         {
           "name": "Science",
           "signal": "blazing",
-          "detail": "Sodium battery breakthrough doubles energy capacity and desalinates water, solving two global challenges at once."
+          "detail": "Multiple simultaneous medical breakthroughs today \u2014 Alzheimer's drug repurposing, DMT antidepressant efficacy, and next-gen RSV antibodies \u2014 signal a remarkably productive moment in biomedical research."
         },
         {
           "name": "Cooperation",
-          "signal": "bright",
-          "detail": "US concludes Ukraine peace talks while exploring diplomatic paths, and Nigeria transforms Trump threats into military partnership."
+          "signal": "glimmer",
+          "detail": "Vietnam airlines signing deals for nearly 100 Boeing jets during a diplomatic visit reflects economic cooperation and trade relationships quietly continuing despite geopolitical noise."
         },
         {
           "name": "Human Spirit",
           "signal": "bright",
-          "detail": "71-year-old dancer cast in Taylor Swift video proves creativity and opportunity transcend age."
+          "detail": "A Florida man who pulled a mother and three children from a submerged SUV was reunited with the family a week later, a small but luminous story of spontaneous human courage and gratitude."
         },
         {
           "name": "Environment",
           "signal": "glimmer",
-          "detail": "AI breakthrough could replace rare earth magnets in electric vehicles, reducing environmental mining impact."
+          "detail": "A new sodium-ion battery that stores twice the energy and can desalinate seawater represents a potential dual solution to energy storage and clean water scarcity."
         },
         {
           "name": "Wild Card",
           "signal": "bright",
-          "detail": "Thai police use creative lion dancer disguise to catch thief during lunar new year celebrations."
+          "detail": "AI is being unleashed to find rare-earth-free magnetic materials for electric vehicles, potentially breaking one of the most stubborn resource bottlenecks in the green energy transition."
         }
       ],
       "mood": [
-        "innovative",
-        "breakthrough",
         "hopeful",
-        "transformative",
-        "triumphant"
+        "resilient",
+        "discovering",
+        "advancing",
+        "luminous"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
