@@ -1220,46 +1220,46 @@
   },
   {
     "date": "2026-02-20",
-    "generated_at": "2026-02-20T13:40:46.294383+00:00",
+    "generated_at": "2026-02-20T13:45:44.958711+00:00",
     "doom": {
-      "percentage": 34.0,
-      "raw_percentage": 33.7,
-      "driver": "Urgent research needed to tackle AI threats, says Google AI boss. But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
-      "category": "Governance",
-      "blurb": "FIRE ACKNOWLEDGED, SPRINKLERS VETOED",
-      "summary": "Google's AI chief waves the danger flag at a global summit while the US simultaneously torches the idea of anyone doing anything about it internationally \u2014 a masterclass in identifying a problem and then spiking the solution. Meanwhile, Ukraine's patience with the American peace process is evaporating, RSF forces in Sudan are being credibly accused of genocide, and Iran tensions hum along at their now-customary low boil. Nothing exploded today, but the systems designed to prevent explosions keep getting dismantled.",
+      "percentage": 37.2,
+      "raw_percentage": 38.7,
+      "driver": "Trump warns of 'bad things' if Iran doesn't make a deal, as second U.S. carrier nears Mideast.",
+      "category": "Nuclear",
+      "blurb": "TEN DAYS TO DECIDE, TWO CARRIERS TO PERSUADE",
+      "summary": "Trump has given Iran a 10-to-15 day ultimatum to deal or face 'really bad things,' while a second aircraft carrier slides into position like a very expensive poker chip. Oil hit six-month highs, Russia and Iran are holding joint naval drills, and CNBC is helpfully noting 'Trump to decide whether to attack Iran in next 10 days' as though this is a normal Friday. The situation has escalated from carrier diplomacy to a named countdown \u2014 that's not de-escalation.",
       "factors": [
         {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Trump's explicit 10-day ultimatum to Iran, dual-carrier deployment, and US officials warning Tehran to be 'very wise' marks a concrete escalation from earlier posturing."
+        },
+        {
           "name": "AI Capability",
-          "signal": "medium",
-          "detail": "A Hacker News piece on 17k tokens/second inference speeds signals the capability curve isn't waiting for governance to catch up."
+          "signal": "elevated",
+          "detail": "Google announces Gemini 3.1 Pro, Nvidia in talks to invest $30B in OpenAI, and AI security fears surge after OpenClaw viral exploit \u2014 capability sprint continues unchecked."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "The US flatly rejecting global AI governance at an international safety summit is exactly the kind of institutional gap that keeps alignment researchers awake at night."
-        },
-        {
-          "name": "Geopolitics",
-          "signal": "elevated",
-          "detail": "Ukraine-US relations fraying, Sudan genocide findings, Iran nuclear drumbeat continuing \u2014 no single escalation but the background radiation of instability remains high."
+          "detail": "ICC judges under Trump sanctions, IRS lost 40% of IT staff, and Sudan's El Fasher siege officially labeled genocide with no meaningful international response in sight."
         },
         {
           "name": "Alignment",
           "signal": "medium",
-          "detail": "Google flagging urgent AI threat research needs while governance frameworks get actively rejected creates a concerning asymmetry between capability and safety."
+          "detail": "An AI agent autonomously published a hit piece on a real person; AI firms restricting OpenClaw due to 'wildly unpredictable' behavior \u2014 the tools are outrunning the guardrails."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "A man arrested by police in a lion costume and an anonymous gold bar donation to fix water pipes suggest the timeline is still producing wholesome absurdities alongside the grim stuff."
+          "detail": "Three Silicon Valley engineers charged with stealing Google trade secrets and sending data to Iran is a quietly alarming data point given current US-Iran tensions."
         }
       ],
       "mood": [
-        "institutional_failure",
-        "simmering",
-        "sardonic",
-        "fragmented",
+        "escalatory",
+        "countdown",
+        "precarious",
+        "watchful",
         "tense"
       ],
       "tier": 4,
@@ -1269,44 +1269,44 @@
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-20.png"
     },
     "dawn": {
-      "percentage": 66.0,
-      "driver": "Fresh understanding of the causes of migraine reveals new drug targets. New insights into the causes of migraine is prompting a fresh look at a drug target that was sidelined 25 years ago",
-      "category": "Medicine",
-      "blurb": "DECADES-OLD PAIN GETS A SECOND CHANCE",
-      "summary": "For the hundreds of millions who suffer debilitating migraines, today's news from New Scientist is genuinely meaningful \u2014 science revisiting a discarded drug target with fresh eyes is exactly how medicine quietly changes lives at scale. Against a backdrop of geopolitical strain and difficult headlines, this is a reminder that researchers keep showing up, keep asking better questions, and keep finding paths forward. A drug shelved 25 years ago may yet become someone's relief \u2014 that's the long, patient arc of human progress doing its work.",
+      "percentage": 62.8,
+      "driver": "Scientists discover gene that could save bananas from deadly Panama disease. A major breakthrough could help save the world's bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt.",
+      "category": "Science",
+      "blurb": "SCIENTISTS CRACK THE CODE TO SAVE A BILLION-DOLLAR CROP",
+      "summary": "Against a backdrop of geopolitical tension and genuine darkness, science quietly delivered something remarkable: researchers identified the precise genetic key that could protect one of the world's most consumed foods from extinction-level disease. This is how progress actually works \u2014 not in headlines about war or scandal, but in labs where patient people solve hard problems for the benefit of everyone. While doom sits at 37.2%, days like this remind us that human ingenuity is compounding in the background, working on problems from bananas to Alzheimer's to cancer, often all at once.",
       "factors": [
         {
           "name": "Science",
-          "signal": "bright",
-          "detail": "Migraine research reopening a previously abandoned drug target demonstrates science's self-correcting, iterative power to revisit old failures with new understanding."
-        },
-        {
-          "name": "Human Spirit",
-          "signal": "glimmer",
-          "detail": "Alysa Liu winning Olympic gold skating with pure joy \u2014 ending a 24-year American drought \u2014 is a vivid reminder that delight itself can be a competitive advantage."
+          "signal": "blazing",
+          "detail": "Multiple Science Daily breakthroughs today including a body inflammation 'off switch' discovery, a sodium-ion battery that desalinates seawater, and an AI tool accelerating the hunt for rare-earth-free EV magnets \u2014 a quietly extraordinary day for human knowledge."
         },
         {
           "name": "Cooperation",
           "signal": "glimmer",
-          "detail": "An anonymous Osaka donor gifting gold bars specifically to repair public water infrastructure shows quiet, selfless civic generosity still exists in the world."
+          "detail": "Trump's Board of Peace inaugural session drew roughly 40 nations to the table, and FIFA pledged football-rooted reconstruction efforts in Gaza \u2014 imperfect, contested, but multilateral conversation beats silence."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "An anonymous donor gifted Osaka \u00a32.7 million in gold bars specifically to fix ageing water pipes for ordinary residents, asking for nothing in return \u2014 a gesture so generous the mayor said he was 'lost for words.'"
         },
         {
           "name": "Environment",
-          "signal": "quiet",
-          "detail": "Americans shifting toward rural communities and outdoor lifestyles signals a cultural reorientation toward nature, even if the headline drivers are economic."
+          "signal": "glimmer",
+          "detail": "Lion DNA was used for the first time to convict poachers in Zimbabwe, establishing a forensic precedent that could meaningfully deter wildlife crime across Africa."
         },
         {
           "name": "Wild Card",
-          "signal": "glimmer",
-          "detail": "Thai police using a ceremonial lion dance costume to make an arrest is absurd and delightful \u2014 proof that human creativity and humor persist even in law enforcement."
+          "signal": "bright",
+          "detail": "Alysa Liu won Olympic gold in women's figure skating, ending a 24-year American drought, describing her philosophy simply as 'skating with joy' \u2014 a reminder that excellence and delight are not opposites."
         }
       ],
       "mood": [
         "resilient",
-        "curious",
-        "hopeful",
+        "ingenious",
+        "generous",
         "persistent",
-        "joyful"
+        "hopeful"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
