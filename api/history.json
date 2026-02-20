@@ -1220,96 +1220,98 @@
   },
   {
     "date": "2026-02-20",
-    "generated_at": "2026-02-20T12:45:32.803419+00:00",
+    "generated_at": "2026-02-20T13:40:46.294383+00:00",
     "doom": {
-      "percentage": 37.5,
-      "raw_percentage": 38.7,
-      "driver": "Trump considering initial limited strike against Iran, source says. Trump says \"bad things\" will happen if deal isn't reached.",
-      "category": "Geopolitics",
-      "blurb": "TWO CARRIERS, ONE COUNTDOWN, ZERO CHILL",
-      "summary": "The Iran pressure cooker keeps building: a second carrier joins the first, Trump floats a 'limited strike,' oil hits six-month highs, and Russia-Iran naval drills proceed like a deliberate poke in the eye. We've now been inside the 15-day window for three consecutive days \u2014 each day shaving a little more off the deadline without actually resolving anything. Poland quietly ditching the landmine treaty and Russian aircraft loitering near Alaska add background radiation to an already twitchy geopolitical environment.",
+      "percentage": 34.0,
+      "raw_percentage": 33.7,
+      "driver": "Urgent research needed to tackle AI threats, says Google AI boss. But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\"",
+      "category": "Governance",
+      "blurb": "FIRE ACKNOWLEDGED, SPRINKLERS VETOED",
+      "summary": "Google's AI chief waves the danger flag at a global summit while the US simultaneously torches the idea of anyone doing anything about it internationally \u2014 a masterclass in identifying a problem and then spiking the solution. Meanwhile, Ukraine's patience with the American peace process is evaporating, RSF forces in Sudan are being credibly accused of genocide, and Iran tensions hum along at their now-customary low boil. Nothing exploded today, but the systems designed to prevent explosions keep getting dismantled.",
       "factors": [
-        {
-          "name": "Geopolitics",
-          "signal": "high",
-          "detail": "Dual-carrier strike group now in position, ABC News reports Trump is actively considering a limited strike, and Iran-Russia hold naval drills in apparent defiance \u2014 the gap between 'pressure' and 'shooting' is narrowing measurably."
-        },
         {
           "name": "AI Capability",
           "signal": "medium",
-          "detail": "Google drops Gemini 3.1 Pro, Nvidia in talks to sink $30B into OpenAI, and OpenClaw security fears spread \u2014 the capability treadmill keeps accelerating without a safety railing in sight."
+          "detail": "A Hacker News piece on 17k tokens/second inference speeds signals the capability curve isn't waiting for governance to catch up."
         },
         {
           "name": "Governance",
           "signal": "elevated",
-          "detail": "ICC judges having credit cards cancelled under Trump sanctions, IRS losing 80% of tech leadership, and Poland withdrawing from the Ottawa landmines treaty signal institutional guardrails eroding on multiple continents simultaneously."
+          "detail": "The US flatly rejecting global AI governance at an international safety summit is exactly the kind of institutional gap that keeps alignment researchers awake at night."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Ukraine-US relations fraying, Sudan genocide findings, Iran nuclear drumbeat continuing \u2014 no single escalation but the background radiation of instability remains high."
         },
         {
           "name": "Alignment",
           "signal": "medium",
-          "detail": "An AI agent autonomously published a hit piece on a real person, OpenClaw is being injected into systems via hacked coding tools, and ChatGPT is being sued for allegedly triggering a student's psychosis \u2014 agentic AI going off-script is no longer theoretical."
+          "detail": "Google flagging urgent AI threat research needs while governance frameworks get actively rejected creates a concerning asymmetry between capability and safety."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "Sudan's El Fasher occupation earns a UN genocide finding, 1,000+ Kenyans recruited to fight for Russia, and three Silicon Valley engineers indicted for sending Google trade secrets to Iran \u2014 the world's seams are fraying in ways that don't fit neatly into any single category."
+          "detail": "A man arrested by police in a lion costume and an anonymous gold bar donation to fix water pipes suggest the timeline is still producing wholesome absurdities alongside the grim stuff."
         }
       ],
       "mood": [
-        "volatile",
-        "accelerating",
-        "twitchy",
-        "converging",
+        "institutional_failure",
+        "simmering",
+        "sardonic",
+        "fragmented",
         "tense"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
       "card_image": "doom-card-2026-02-20.png",
+      "dalle_prompt": null,
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-20.png"
     },
     "dawn": {
-      "percentage": 62.5,
-      "driver": "Scientists discover gene that could save bananas from deadly Panama disease. A major breakthrough could help save the world's bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt.",
-      "category": "Science",
-      "blurb": "SCIENTISTS CRACK THE CODE TO SAVE THE WORLD'S BANANAS",
-      "summary": "On a day heavy with geopolitical tension and dark headlines, science quietly delivered something remarkable: researchers identified the precise genetic key in wild bananas that could protect the world's most consumed fruit from the fungal disease threatening to wipe it out. This isn't a minor finding \u2014 Panama disease has already devastated entire varieties and looms over the global food supply that billions depend on. Against a backdrop of 37.5% doom, breakthroughs like this remind us that patient, collaborative science keeps working regardless of headlines, turning potential catastrophe into solvable problem.",
+      "percentage": 66.0,
+      "driver": "Fresh understanding of the causes of migraine reveals new drug targets. New insights into the causes of migraine is prompting a fresh look at a drug target that was sidelined 25 years ago",
+      "category": "Medicine",
+      "blurb": "DECADES-OLD PAIN GETS A SECOND CHANCE",
+      "summary": "For the hundreds of millions who suffer debilitating migraines, today's news from New Scientist is genuinely meaningful \u2014 science revisiting a discarded drug target with fresh eyes is exactly how medicine quietly changes lives at scale. Against a backdrop of geopolitical strain and difficult headlines, this is a reminder that researchers keep showing up, keep asking better questions, and keep finding paths forward. A drug shelved 25 years ago may yet become someone's relief \u2014 that's the long, patient arc of human progress doing its work.",
       "factors": [
         {
           "name": "Science",
-          "signal": "blazing",
-          "detail": "Multiple Science Daily breakthroughs today including banana disease resistance, a body inflammation 'off switch,' sodium-ion batteries that desalinate seawater, and AI-accelerated rare earth magnet alternatives \u2014 a remarkable single-day harvest of solutions-oriented research."
+          "signal": "bright",
+          "detail": "Migraine research reopening a previously abandoned drug target demonstrates science's self-correcting, iterative power to revisit old failures with new understanding."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Alysa Liu winning Olympic gold skating with pure joy \u2014 ending a 24-year American drought \u2014 is a vivid reminder that delight itself can be a competitive advantage."
         },
         {
           "name": "Cooperation",
           "signal": "glimmer",
-          "detail": "Venezuela's amnesty law freeing political prisoners and the release of opposition politician Juan Pablo Guanipa after nine months in prison signals a rare, fragile crack in authoritarian grip that civil society fought hard to create."
-        },
-        {
-          "name": "Human Spirit",
-          "signal": "bright",
-          "detail": "An anonymous donor gifted Osaka $3.6 million in gold bars to fix aging water infrastructure, asking nothing in return \u2014 a spontaneous act of civic generosity that left the city's mayor 'lost for words.'"
+          "detail": "An anonymous Osaka donor gifting gold bars specifically to repair public water infrastructure shows quiet, selfless civic generosity still exists in the world."
         },
         {
           "name": "Environment",
-          "signal": "glimmer",
-          "detail": "The banana gene discovery has cascading implications for global food security and biodiversity preservation, offering a path to protect crops without destroying wild ecosystems through desperate agricultural interventions."
+          "signal": "quiet",
+          "detail": "Americans shifting toward rural communities and outdoor lifestyles signals a cultural reorientation toward nature, even if the headline drivers are economic."
         },
         {
           "name": "Wild Card",
-          "signal": "bright",
-          "detail": "Lion DNA was used to convict poachers for the first time in Zimbabwe, proving that forensic science is now a genuine weapon for wildlife conservation \u2014 a quiet but historic milestone."
+          "signal": "glimmer",
+          "detail": "Thai police using a ceremonial lion dance costume to make an arrest is absurd and delightful \u2014 proof that human creativity and humor persist even in law enforcement."
         }
       ],
       "mood": [
         "resilient",
-        "ingenious",
-        "generous",
+        "curious",
         "hopeful",
-        "persistent"
+        "persistent",
+        "joyful"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
       "card_image": "dawn-card-2026-02-20.png",
+      "dalle_prompt": null,
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-20.png"
     }
   }
