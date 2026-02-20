@@ -1220,98 +1220,97 @@
   },
   {
     "date": "2026-02-20",
-    "generated_at": "2026-02-20T13:45:44.958711+00:00",
+    "generated_at": "2026-02-20T13:55:45.552656+00:00",
     "doom": {
-      "percentage": 37.2,
-      "raw_percentage": 38.7,
-      "driver": "Trump warns of 'bad things' if Iran doesn't make a deal, as second U.S. carrier nears Mideast.",
-      "category": "Nuclear",
-      "blurb": "TEN DAYS TO DECIDE, TWO CARRIERS TO PERSUADE",
-      "summary": "Trump has given Iran a 10-to-15 day ultimatum to deal or face 'really bad things,' while a second aircraft carrier slides into position like a very expensive poker chip. Oil hit six-month highs, Russia and Iran are holding joint naval drills, and CNBC is helpfully noting 'Trump to decide whether to attack Iran in next 10 days' as though this is a normal Friday. The situation has escalated from carrier diplomacy to a named countdown \u2014 that's not de-escalation.",
+      "percentage": 34.2,
+      "raw_percentage": 34.1,
+      "driver": "The economy slowed in the last 3 months of the year -- but was still solid in 2025.",
+      "category": "Governance",
+      "blurb": "DOOM TAKES A PERSONAL DAY",
+      "summary": "Today's headlines are a newspaper's version of a spa day \u2014 a knighted newsstand vendor, coffee grinder rankings, and a GDP report that amounts to 'fine, actually.' The Iran situation hasn't visibly escalated since yesterday's carrier diplomacy headlines, so we're holding roughly steady in the mid-30s. The economy slowing to 2.2% is mildly ominous background noise, but 'solid consumer spending' is not exactly the Four Horsemen.",
       "factors": [
         {
           "name": "Geopolitics",
-          "signal": "high",
-          "detail": "Trump's explicit 10-day ultimatum to Iran, dual-carrier deployment, and US officials warning Tehran to be 'very wise' marks a concrete escalation from earlier posturing."
-        },
-        {
-          "name": "AI Capability",
           "signal": "elevated",
-          "detail": "Google announces Gemini 3.1 Pro, Nvidia in talks to invest $30B in OpenAI, and AI security fears surge after OpenClaw viral exploit \u2014 capability sprint continues unchecked."
+          "detail": "Iran tensions from prior days persist but today produced no new escalation signals \u2014 holding pattern, not resolution."
         },
         {
           "name": "Governance",
-          "signal": "elevated",
-          "detail": "ICC judges under Trump sanctions, IRS lost 40% of IT staff, and Sudan's El Fasher siege officially labeled genocide with no meaningful international response in sight."
+          "signal": "medium",
+          "detail": "U.S. GDP growth slowing to 2.2% is a yellow flag for economic resilience under stress, but not a crisis indicator."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "No AI-related headlines today; the machines are apparently also reading about coffee grinders."
         },
         {
           "name": "Alignment",
-          "signal": "medium",
-          "detail": "An AI agent autonomously published a hit piece on a real person; AI firms restricting OpenClaw due to 'wildly unpredictable' behavior \u2014 the tools are outrunning the guardrails."
+          "signal": "low",
+          "detail": "Nothing to report \u2014 a blessed silence from the alignment front."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "Three Silicon Valley engineers charged with stealing Google trade secrets and sending data to Iran is a quietly alarming data point given current US-Iran tensions."
+          "detail": "A 73-year-old Pakistani immigrant being knighted by France is, if anything, a small net positive for civilization."
         }
       ],
       "mood": [
-        "escalatory",
-        "countdown",
-        "precarious",
+        "subdued",
         "watchful",
-        "tense"
+        "anticlimactic",
+        "restless"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
       "card_image": "doom-card-2026-02-20.png",
-      "dalle_prompt": null,
+      "dalle_prompt": "Pixel art night scene, 16-bit SNES style, deep navy sky pressing down on a frost-hardened American main street at dusk bleeding into full dark, bare black branches of winter trees strung with desperate holiday lights that cast smoldering orange halos across cold pavement, storefronts glowing amber-warm from within against a blue-grey void of sky, heavy shadows dominating every corner and doorway \u2014 a mid-sized city commercial corridor rendered in deep navy, burnt orange, and charcoal \u2014 in the foreground a worn credit card fanned against a point-of-sale terminal screen, its receipt curling into cold air, the transaction total glowing orange on the display, a middle-aged figure in a puffy coat clutching shopping bags standing beneath a streetlight that barely cuts the dark, her face neutral in the artificial glow \u2014 across the street a weathered FOR SALE sign tilts in a frost-hardened lawn in front of a house with every window dark, no foot traffic, no life \u2014 beyond it a government building with half its windows black, silhouetted figures standing outside hands in pockets, the shutdown made human \u2014 in the far background a stack of shipping containers at a distant port half-unloaded and abandoned under cold floodlights, one tower of blinking blue server rack lights visible through a warehouse window \u2014 all light sourced from screens, streetlamps, and storefront interiors, warmth feeling threatening, no text, no antialiasing, no real named figures.",
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-20.png"
     },
     "dawn": {
-      "percentage": 62.8,
-      "driver": "Scientists discover gene that could save bananas from deadly Panama disease. A major breakthrough could help save the world's bananas from a devastating disease. Scientists have discovered the exact genetic region in a wild banana that provides resistance to Fusarium wilt.",
-      "category": "Science",
-      "blurb": "SCIENTISTS CRACK THE CODE TO SAVE A BILLION-DOLLAR CROP",
-      "summary": "Against a backdrop of geopolitical tension and genuine darkness, science quietly delivered something remarkable: researchers identified the precise genetic key that could protect one of the world's most consumed foods from extinction-level disease. This is how progress actually works \u2014 not in headlines about war or scandal, but in labs where patient people solve hard problems for the benefit of everyone. While doom sits at 37.2%, days like this remind us that human ingenuity is compounding in the background, working on problems from bananas to Alzheimer's to cancer, often all at once.",
+      "percentage": 65.8,
+      "driver": "Ali Akbar, who's sold newspapers on the streets of Paris for 50 years, is now a knight. For decades, Ali Akbar has sold papers on the Left Bank of Paris. Last month, France gave the beloved 73-year-old immigrant from Pakistan one of its highest honors \u2014 and his neighborhood is cheering.",
+      "category": "Human Spirit",
+      "blurb": "FIFTY YEARS OF SERVICE, A NATION SAYS THANK YOU",
+      "summary": "On a day where existential risk looms at 34.2%, Paris reminded us that quiet, consistent human dignity still gets noticed. Ali Akbar \u2014 a Pakistani immigrant who showed up every single day for half a century \u2014 was knighted by France, and his entire neighborhood celebrated alongside him. This is not a grand geopolitical breakthrough, but it may be something more durable: proof that ordinary devotion, across borders and decades, is still recognized and honored.",
       "factors": [
         {
-          "name": "Science",
+          "name": "Human Spirit",
           "signal": "blazing",
-          "detail": "Multiple Science Daily breakthroughs today including a body inflammation 'off switch' discovery, a sodium-ion battery that desalinates seawater, and an AI tool accelerating the hunt for rare-earth-free EV magnets \u2014 a quietly extraordinary day for human knowledge."
+          "detail": "A 73-year-old immigrant spending 50 years in service to his community and receiving his nation's highest honor is a testament to what sustained, humble contribution can achieve."
         },
         {
           "name": "Cooperation",
-          "signal": "glimmer",
-          "detail": "Trump's Board of Peace inaugural session drew roughly 40 nations to the table, and FIFA pledged football-rooted reconstruction efforts in Gaza \u2014 imperfect, contested, but multilateral conversation beats silence."
+          "signal": "bright",
+          "detail": "France's decision to honor an immigrant from Pakistan with a knighthood signals that cross-cultural belonging and civic identity remain alive and celebrated."
         },
         {
-          "name": "Human Spirit",
-          "signal": "bright",
-          "detail": "An anonymous donor gifted Osaka \u00a32.7 million in gold bars specifically to fix ageing water pipes for ordinary residents, asking for nothing in return \u2014 a gesture so generous the mayor said he was 'lost for words.'"
+          "name": "Science",
+          "signal": "quiet",
+          "detail": "No major scientific breakthroughs in today's headlines, though solid economic investment suggests continued funding for innovation."
         },
         {
           "name": "Environment",
-          "signal": "glimmer",
-          "detail": "Lion DNA was used for the first time to convict poachers in Zimbabwe, establishing a forensic precedent that could meaningfully deter wildlife crime across Africa."
+          "signal": "quiet",
+          "detail": "No environmental signals today, but stable economic growth at 2.2% provides the foundation for continued green investment."
         },
         {
           "name": "Wild Card",
-          "signal": "bright",
-          "detail": "Alysa Liu won Olympic gold in women's figure skating, ending a 24-year American drought, describing her philosophy simply as 'skating with joy' \u2014 a reminder that excellence and delight are not opposites."
+          "signal": "glimmer",
+          "detail": "A neighborhood cheering for their newspaper vendor is a small but real data point that community cohesion and human warmth persist even in fractured times."
         }
       ],
       "mood": [
-        "resilient",
-        "ingenious",
-        "generous",
-        "persistent",
-        "hopeful"
+        "dignity",
+        "belonging",
+        "perseverance",
+        "gratitude",
+        "community"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
       "card_image": "dawn-card-2026-02-20.png",
-      "dalle_prompt": null,
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from cobblestone level on a Left Bank Parisian boulevard, looking up dramatically past a weathered newspaper kiosk stacked with Le Monde and L'\u00c9quipe pink sports pages fanning outward, towering Haussmann limestone facades rising amber-gold into a warm deep-teal sky, plane trees arching overhead with dappled golden light filtering through leaves, the underside of a tricolor French flag fluttering above catching the late sun \u2014 at the center rising above the low camera angle stands Ali Akbar, a dignified 73-year-old Pakistani man in a padded wool jacket, a starburst L\u00e9gion d'honneur medallion on a red ribbon gleaming on his chest catching the heure dor\u00e9e sidelight, one weathered hand holding a folded newspaper, his face radiating quiet earned pride \u2014 surrounding him a crowd of Parisian neighbors seen from below, faces upturned and joyful, hands clapping, a caf\u00e9 waiter in a white apron leaning from a deep-green brasserie awning above, a child on shoulders silhouetted against the golden sky, long dramatic shadows stretching across the stone pavement below, entire scene bathed in deep golden amber and warm teal with radiant side-lighting, no text, no antialiasing, 16-bit SNES pixel art style",
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-20.png"
     }
   }
