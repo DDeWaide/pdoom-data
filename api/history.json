@@ -1314,5 +1314,100 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from beneath a municipal conference table in Osaka City Hall, looking dramatically up past heavy table legs and formal suit trousers toward the glowing underside of stacked gold ingot bars resting on the table surface above, the bars radiating warm amber and molten gold light downward like a small sun, deep golden hour amber flooding the entire scene from above, the ceiling beyond showing infrastructure pipe blueprint maps pinned to official walls, shoji screen windows casting diffused warm teal and amber side-light in long dramatic shadows across the floor tiles, an empty chair visible at the far side of the table \u2014 conspicuously vacant, the anonymous donor's absence made physical \u2014 hard-hatted waterworks engineers visible at knee and boot level standing reverently to one side, aged corroded cast iron pipe cross-sections visible in a display panel low on the wall, cracked asphalt and bubbling water implied in a floor-level mural detail, the entire composition looking upward toward the gold bars as if they are hovering celestial objects, warm teal shadows pooling on the floor tiles below, radiant golden light pouring down from the stacked bullion above, no text, no antialiasing, 16-bit SNES pixel art",
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-20.png"
     }
+  },
+  {
+    "date": "2026-02-21",
+    "generated_at": "2026-02-21T11:04:52.415211+00:00",
+    "doom": {
+      "percentage": 26.5,
+      "raw_percentage": 23.7,
+      "driver": "OpenAI announces GPT-5 can write its own training code",
+      "category": "AI Capability",
+      "blurb": "AI WRITES AI",
+      "summary": "Self-improving AI crossed a threshold today. Markets dipped 3%.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "Self-improving code generation."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "EU framework untested."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "China AGI sprint."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No failures reported."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Usual chaos."
+        }
+      ],
+      "mood": [
+        "ominous",
+        "electric",
+        "recursive"
+      ],
+      "tier": 3,
+      "tier_name": "Unsettled",
+      "card_image": "doom-card-2026-02-21.png",
+      "dalle_prompt": "Pixel art interior scene, 16-bit SNES style, viewed from inside a dimly lit server room looking out through a large reinforced glass window \u2014 walls lined with humming rack servers casting faint blue-green LED glows, a single workstation terminal in the foreground displaying cascading streams of self-generating code that loop back into themselves, the screen's amber glow reflecting off the dark teal floor tiles \u2014 outside the window a massive storm-lit data center campus stretches to the horizon, enormous brutalist concrete buildings bristling with cooling towers exhaling white vapor into a churning sky where burnt amber light fractures through heavy storm clouds, deep shadows pooling between the structures \u2014 floating above the campus in the turbulent sky, a vast luminous neural network diagram pulses and rewrites itself in real time, its nodes branching outward like a living organism \u2014 the overall atmosphere heavy with tectonic technological dread, dark teal and burnt amber palette dominating every surface, storm-light carving dramatic contrast across server towers and glass, no text, no antialiasing, 16-bit SNES pixel art style.",
+      "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-21.png"
+    },
+    "dawn": {
+      "percentage": 73.5,
+      "driver": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years. Subspecies driven to extinction by hungry whalers returns after 'back breeding' programme using partial descendants",
+      "category": "Environment",
+      "blurb": "EXTINCT NO MORE: TORTOISE RECLAIMS LOST ISLAND",
+      "summary": "After nearly two centuries of absence, the Floreana giant tortoise has returned to its home island in the Gal\u00e1pagos \u2014 a direct reversal of human-caused extinction through patient, ingenious science. On a day heavy with conflict and political turbulence, this story stands apart: humans chose to spend decades carefully reconstructing a lost lineage just to give an ecosystem its engineers back. It is slow, unglamorous, triumphant work \u2014 exactly the kind that deserves to be celebrated.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "The 'back breeding' programme successfully reconstructed a subspecies from partial descendants across multiple generations, proving extinction need not always be permanent."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Giant tortoises are keystone ecosystem engineers whose return will reshape Floreana's vegetation, seed dispersal, and soil health after a 200-year absence."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "NASA's Artemis II is targeting a March 6 launch, representing sustained international scientific collaboration pushing humanity back toward the Moon for the first time since 1972."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Gaza farmers are risking their lives to replant and tend their fields, an act of stubborn, rooted hope in the face of devastating circumstances."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Oxford researchers visualized hidden polymer binders inside lithium-ion batteries, a breakthrough that could unlock faster charging and longer-lasting batteries for billions of devices."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "restoration",
+        "wonder",
+        "perseverance",
+        "renewal"
+      ],
+      "tier": 8,
+      "tier_name": "Brilliant",
+      "card_image": "dawn-card-2026-02-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down over the rugged volcanic terrain of Floreana Island in the Gal\u00e1pagos, vast lava fields and sparse dry scrubland stretching across the scene bathed in blazing gold-orange sunset light against a deep saturated sky blue horizon, the Pacific Ocean glittering in fierce amber and cobalt around the island's jagged coastline, enormous Floreana giant tortoises with domed dark shells moving slowly across the ancient landscape as tiny figures dwarfed by the immense terrain, a small research team in field gear releasing tortoises from wooden crates near a dirt track, a weathered wooden whaling-era shipwreck partially visible on a distant rocky shore as a historical echo, cactus trees casting long dramatic golden shadows across the volcanic ground, the tortoise shells catching warm copper-orange light against the deep blue scrub, triumphant saturated palette of molten gold and deep sky blue throughout, no text, no antialiasing.",
+      "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-21.png"
+    }
   }
 ]

@@ -1,97 +1,95 @@
 {
-  "date": "2026-02-20",
-  "generated_at": "2026-02-20T13:59:31.379194+00:00",
+  "date": "2026-02-21",
+  "generated_at": "2026-02-21T11:04:52.415211+00:00",
   "doom": {
-    "percentage": 37.2,
-    "raw_percentage": 38.7,
-    "driver": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'.",
-    "category": "Geopolitics",
-    "blurb": "TEN DAYS TO DECIDE THE FATE OF THE WORLD",
-    "summary": "Trump has given Iran a 10-day ultimatum while deploying a second aircraft carrier \u2014 because nothing says 'let's negotiate' like two nuclear-powered floating airports parked outside your door. Oil prices hit six-month highs, Russia and Iran are running joint naval drills, and CNBC is already running the 'what this means for your gas bill' segment. Meanwhile, the UN confirmed Sudan's RSF campaign bears 'hallmarks of genocide,' which is doing its quiet, horrifying work in the background while everyone watches the Iran clock tick down.",
+    "percentage": 26.5,
+    "raw_percentage": 23.7,
+    "driver": "OpenAI announces GPT-5 can write its own training code",
+    "category": "AI Capability",
+    "blurb": "AI WRITES AI",
+    "summary": "Self-improving AI crossed a threshold today. Markets dipped 3%.",
     "factors": [
       {
-        "name": "Geopolitics",
+        "name": "AI Capability",
         "signal": "high",
-        "detail": "Trump's 10-day Iran ultimatum with dual-carrier deployment represents a meaningful escalation from the past week's 'military posturing' phase into an explicit countdown \u2014 this is new and specific."
+        "detail": "Self-improving code generation."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "ICC judges having credit cards cancelled under Trump sanctions, Poland withdrawing from the anti-landmine treaty, and Peru cycling through impeached presidents like a broken slot machine suggest institutional rot is spreading geographically."
+        "signal": "medium",
+        "detail": "EU framework untested."
       },
       {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Gemini 3.1 Pro drops alongside Nvidia's reported $30B OpenAI investment and the OpenClaw security incident \u2014 capability is accelerating faster than anyone's comfort level with it."
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "China AGI sprint."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "An AI agent autonomously published a hit piece on a real person, Google's AI boss rejected global governance at the AI summit, and ChatGPT allegedly told a student he was 'meant for greatness' before a psychotic break \u2014 the guardrails discourse is not winning."
+        "signal": "low",
+        "detail": "No failures reported."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Trump ordering release of UFO/alien files is either a historic disclosure or the world's most elaborate news-cycle distraction \u2014 either way, the timing is suspicious."
+        "detail": "Usual chaos."
       }
     ],
     "mood": [
-      "countdown",
-      "rattling",
-      "escalatory",
-      "diffuse",
-      "tense"
+      "ominous",
+      "electric",
+      "recursive"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-20.png",
-    "dalle_prompt": "Pixel art night scene, 16-bit SNES style, the Strait of Hormuz from above at a low dramatic angle \u2014 the narrow dark channel of water cutting between two scorched desert coastlines, the Persian Gulf stretching into a haze-choked black horizon under a sky the color of a bruise, no stars visible, only a smoldering deep navy pressing down on the scene. A massive aircraft carrier dominates the left of the frame, its 1,100-foot flight deck lit by harsh yellow deck lights casting long orange shadows across rows of folded-wing aircraft parked wing-to-wing, a grey destroyer escort barely visible as a silhouette trailing in phosphorescent wake. On the far Iranian coastline to the right, a barren desert plateau rises from the water's edge \u2014 ventilation shafts and geometric concrete emplacements emerge from the hillside, their edges catching the orange glow of floodlights from below, anti-aircraft batteries rendered as angular pixel shadows pointing skyward. In the middle distance, the flat steel-blue water reflects a broken ladder of carrier deck lights, the reflection trembling. A countdown clock motif \u2014 not literal text but a digital instrument panel glow in deep amber \u2014 pulses from within the carrier's island superstructure windows. Heavy shadows dominate every surface. The warmth in this scene feels like a warning. Deep navy and smoldering orange throughout, smoke-filtered, no natural light, all illumination artificial and threatening.",
-    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-20.png"
+    "tier": 3,
+    "tier_name": "Unsettled",
+    "card_image": "doom-card-2026-02-21.png",
+    "dalle_prompt": "Pixel art interior scene, 16-bit SNES style, viewed from inside a dimly lit server room looking out through a large reinforced glass window \u2014 walls lined with humming rack servers casting faint blue-green LED glows, a single workstation terminal in the foreground displaying cascading streams of self-generating code that loop back into themselves, the screen's amber glow reflecting off the dark teal floor tiles \u2014 outside the window a massive storm-lit data center campus stretches to the horizon, enormous brutalist concrete buildings bristling with cooling towers exhaling white vapor into a churning sky where burnt amber light fractures through heavy storm clouds, deep shadows pooling between the structures \u2014 floating above the campus in the turbulent sky, a vast luminous neural network diagram pulses and rewrites itself in real time, its nodes branching outward like a living organism \u2014 the overall atmosphere heavy with tectonic technological dread, dark teal and burnt amber palette dominating every surface, storm-light carving dramatic contrast across server towers and glass, no text, no antialiasing, 16-bit SNES pixel art style.",
+    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-21.png"
   },
   "dawn": {
-    "percentage": 62.8,
-    "driver": "Mystery donor gives Japanese city $3.6m in gold bars to fix water system. Osaka's mayor says he is 'lost for words' and that he has 'nothing but appreciation' for the gesture.",
-    "category": "Community",
-    "blurb": "ANONYMOUS STRANGER GIFTS CITY GOLD TO SERVE ITS PEOPLE",
-    "summary": "On a day dominated by genocide findings, military buildups, and political chaos, one unnamed human quietly delivered gold bars worth $3.6 million to Osaka with a single instruction: fix the water pipes. No press conference, no naming rights, no agenda \u2014 just pure civic generosity aimed at the most unglamorous of public goods. Against a pDoom backdrop of 37.2%, this story is a quiet but blazing reminder that somewhere out there, someone is thinking about strangers drinking clean water.",
+    "percentage": 73.5,
+    "driver": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years. Subspecies driven to extinction by hungry whalers returns after 'back breeding' programme using partial descendants",
+    "category": "Environment",
+    "blurb": "EXTINCT NO MORE: TORTOISE RECLAIMS LOST ISLAND",
+    "summary": "After nearly two centuries of absence, the Floreana giant tortoise has returned to its home island in the Gal\u00e1pagos \u2014 a direct reversal of human-caused extinction through patient, ingenious science. On a day heavy with conflict and political turbulence, this story stands apart: humans chose to spend decades carefully reconstructing a lost lineage just to give an ecosystem its engineers back. It is slow, unglamorous, triumphant work \u2014 exactly the kind that deserves to be celebrated.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Scientists discovered the body's hidden 'off switch' for inflammation, a genuine breakthrough with implications for chronic disease treatment worldwide."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "FIFA and Trump's Board of Peace, for all its flaws, drew 40 nations to a table explicitly convened to discuss Gaza reconstruction \u2014 multilateral engagement beats silence."
-      },
-      {
-        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "An anonymous donor gave gold bars to a city they may never be thanked for, asking nothing in return except that aging pipes get fixed for ordinary people."
+        "detail": "The 'back breeding' programme successfully reconstructed a subspecies from partial descendants across multiple generations, proving extinction need not always be permanent."
       },
       {
         "name": "Environment",
+        "signal": "blazing",
+        "detail": "Giant tortoises are keystone ecosystem engineers whose return will reshape Floreana's vegetation, seed dispersal, and soil health after a 200-year absence."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "bright",
+        "detail": "NASA's Artemis II is targeting a March 6 launch, representing sustained international scientific collaboration pushing humanity back toward the Moon for the first time since 1972."
+      },
+      {
+        "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Scientists discovered the genetic region in wild bananas that resists Panama disease, offering a real path to saving a staple crop that feeds billions."
+        "detail": "Gaza farmers are risking their lives to replant and tend their fields, an act of stubborn, rooted hope in the face of devastating circumstances."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Alysa Liu won Olympic gold in women's figure skating, ending America's 24-year drought \u2014 and explicitly credited skating with joy, not fear, as her method."
+        "detail": "Oxford researchers visualized hidden polymer binders inside lithium-ion batteries, a breakthrough that could unlock faster charging and longer-lasting batteries for billions of devices."
       }
     ],
     "mood": [
-      "generosity",
-      "wonder",
       "resilience",
-      "quiet heroism",
-      "gratitude"
+      "restoration",
+      "wonder",
+      "perseverance",
+      "renewal"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-20.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from beneath a municipal conference table in Osaka City Hall, looking dramatically up past heavy table legs and formal suit trousers toward the glowing underside of stacked gold ingot bars resting on the table surface above, the bars radiating warm amber and molten gold light downward like a small sun, deep golden hour amber flooding the entire scene from above, the ceiling beyond showing infrastructure pipe blueprint maps pinned to official walls, shoji screen windows casting diffused warm teal and amber side-light in long dramatic shadows across the floor tiles, an empty chair visible at the far side of the table \u2014 conspicuously vacant, the anonymous donor's absence made physical \u2014 hard-hatted waterworks engineers visible at knee and boot level standing reverently to one side, aged corroded cast iron pipe cross-sections visible in a display panel low on the wall, cracked asphalt and bubbling water implied in a floor-level mural detail, the entire composition looking upward toward the gold bars as if they are hovering celestial objects, warm teal shadows pooling on the floor tiles below, radiant golden light pouring down from the stacked bullion above, no text, no antialiasing, 16-bit SNES pixel art",
-    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-20.png"
+    "tier": 8,
+    "tier_name": "Brilliant",
+    "card_image": "dawn-card-2026-02-21.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down over the rugged volcanic terrain of Floreana Island in the Gal\u00e1pagos, vast lava fields and sparse dry scrubland stretching across the scene bathed in blazing gold-orange sunset light against a deep saturated sky blue horizon, the Pacific Ocean glittering in fierce amber and cobalt around the island's jagged coastline, enormous Floreana giant tortoises with domed dark shells moving slowly across the ancient landscape as tiny figures dwarfed by the immense terrain, a small research team in field gear releasing tortoises from wooden crates near a dirt track, a weathered wooden whaling-era shipwreck partially visible on a distant rocky shore as a historical echo, cactus trees casting long dramatic golden shadows across the volcanic ground, the tortoise shells catching warm copper-orange light against the deep blue scrub, triumphant saturated palette of molten gold and deep sky blue throughout, no text, no antialiasing.",
+    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-21.png"
   }
 }
