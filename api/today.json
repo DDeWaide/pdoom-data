@@ -1,97 +1,96 @@
 {
   "date": "2026-02-22",
-  "generated_at": "2026-02-22T14:13:24.963009+00:00",
+  "generated_at": "2026-02-22T14:32:27.025854+00:00",
   "doom": {
-    "percentage": 32.4,
-    "raw_percentage": 31.4,
-    "driver": "Second U.S. carrier nears Middle East, as Trump pressures Iran to make a deal.",
+    "percentage": 34.3,
+    "raw_percentage": 34.7,
+    "driver": "Pakistan launches deadly strikes on Afghanistan.",
     "category": "Geopolitics",
-    "blurb": "TWO CARRIERS, ONE DEADLINE, ZERO CHILL",
-    "summary": "The Iran situation continues its slow boil: a second carrier in the Gulf, Trump still dangling military strikes, and the Strait of Hormuz conversation now mainstream enough to appear in Al Jazeera explainers. Meanwhile Pakistan just bombed Afghanistan again, the Sudan genocide findings landed with a thud, and Israeli strikes in Lebanon are the deadliest since the ceasefire. It's a day of multiple simmering fronts rather than one dramatic escalation \u2014 the geopolitical equivalent of everything being slightly on fire.",
+    "blurb": "SOUTH ASIA OPENS A NEW FRONT",
+    "summary": "Pakistan has launched strikes inside Afghanistan, adding a fresh kinetic conflict to an already crowded global chaos board. Meanwhile Trump's Iran pressure campaign grinds on \u2014 he's now openly 'considering limited military strikes' \u2014 and Germany's top trading partner is officially China now, which tells you something about where the post-American order is heading. Today's doom is diffuse but real: multiple active flashpoints, none quite boiling over, all simmering uncomfortably.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Iran standoff continues with second carrier deployed; Pakistan-Afghanistan strikes ongoing; Israeli Lebanon strikes post-ceasefire are among the deadliest yet \u2014 three separate military flashpoints active simultaneously."
+        "detail": "Pakistan striking Afghanistan, Israel hitting Lebanon post-ceasefire, Iran tensions unresolved, and Hungary threatening to blow up EU-Ukraine financing \u2014 it's a busy map."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "SCOTUS struck down Trump's tariffs (a de-escalation on trade chaos), but Trump immediately announced a new 15% global levy 'effective immediately,' suggesting the chaos simply relocated rather than resolved."
+        "signal": "elevated",
+        "detail": "Trump hiking tariffs to 15% immediately after SCOTUS struck down his last tariff regime suggests the executive branch is playing regulatory whack-a-mole with global trade law."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "ChatGPT flagged a school shooter months before the attack yet nothing was done; AI coding agent caused a 13-hour AWS outage \u2014 capability advancing faster than safety infrastructure around it."
+        "detail": "AI headlines today are mostly process and tooling discourse \u2014 interesting but not alarming; the existential needle stays still."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "The Tumbler Ridge school shooting suspect was raising red flags in ChatGPT conversations before the attack, a sobering real-world failure of AI safety monitoring and reporting chains."
+        "detail": "A school shooter was flagged by OpenAI employees months before the attack, raising uncomfortable questions about what AI platforms do with their own safety signals."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "72 captive tigers dying from a highly contagious virus in Thailand is the kind of headline that deserves more attention than it's getting \u2014 novel outbreak in a densely populated region, species jump risk non-zero."
+        "detail": "A Mississippi hospital system shuttered 35 clinics after ransomware \u2014 a reminder that critical infrastructure attacks are now routine background noise, not emergency alerts."
       }
     ],
     "mood": [
-      "simmering",
-      "multi-front",
-      "unresolved",
-      "weary",
-      "volatile"
+      "fragmented",
+      "escalatory",
+      "volatile",
+      "fraying"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
     "card_image": "doom-card-2026-02-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a vast shamal dust storm rolling across the Arabian Sea, the sky a suffocating wall of ochre and copper haze swallowing the horizon, visibility strangled to near zero, the water below turned from turquoise to a sick muddy bronze under the filtered light. Through the churning particulate murk, the enormous silhouette of a Nimitz-class supercarrier emerges from the right \u2014 1,092 feet of gray steel hull barely resolved through the dust, its rectangular island superstructure bristling with radar arrays, the large white hull number just barely legible, Phalanx CIWS turrets visible as small white domes at the deck edge, folded-wing F/A-18 Super Hornets spotted densely across the flight deck. A second carrier shape looms further left, deeper in the haze, more ghost than ship \u2014 implied mass, threatening scale. Arleigh Burke destroyer silhouettes cut lower wakes in the foreground water. The narrow Strait of Hormuz coastline is a dark ochre smear along the upper third \u2014 rocky Iranian cliffs dissolving into dust. Deep navy shadows dominate the water, smoldering orange bleeds through the storm ceiling above. No clouds, only choking haze. Oppressive stillness. No text, no antialiasing, 16-bit SNES pixel art style.",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a bitter pre-dawn mountain night along the Durand Line, the rugged high-altitude ridgelines of eastern Afghanistan swallowed by a dense cold haze, freezing fog rolling through the deep valleys between Nangarhar's brown rocky outcroppings, visibility collapsing into layers of obscured shadow, the atmosphere itself heavy and suffocating \u2014 deep navy sky pressing down on frost-dusted hillsides, a thin crescent moon barely visible through the haze above, its pale light filtered to near nothing by the cold mountain murk \u2014 below, traditional mud-brick qala compounds cluster against a dark hillside, their flat roofs and earthen walls glowing with a sudden terrible orange warmth from below, light sourced not from the moon but from fires burning within the valley, casting long harsh shadows up the rocky slopes \u2014 columns of smoke rise and dissolve into the fog above, smoldering orange fading to grey as it climbs, the haze thickening with particulate and dust \u2014 scattered children's sandals rest at the threshold of a low rectangular building with an arched doorway, untouched by the chaos, eerily still \u2014 deep navy and smoldering orange dominate every surface, warmth feels threatening, shadows are vast, no sky is visible above the ridgeline \u2014 16-bit SNES pixel art, no text, no antialiasing, no figures.",
     "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-22.png"
   },
   "dawn": {
-    "percentage": 67.6,
-    "driver": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years. Subspecies driven to extinction by hungry whalers returns after 'back breeding' programme using partial descendants",
-    "category": "Environment",
-    "blurb": "EXTINCT NO MORE: 200 YEARS AND THEY'RE BACK",
-    "summary": "In a world of genuine darkness \u2014 Sudan, Ukraine, Sudan again \u2014 scientists quietly pulled off something that should stop us cold: they brought back a species. The Floreana giant tortoise, wiped out by 19th-century whalers, has returned to its island after a painstaking 'back breeding' program reconstructed the subspecies from partial descendants. This isn't metaphor or spin \u2014 158 juveniles are now walking the soil their ancestors were erased from. It's a reminder that extinction isn't always forever, and that patient, determined human effort can reverse even generational-scale damage.",
+    "percentage": 65.7,
+    "driver": "New oxygen gel could prevent amputation in diabetic wound patients. Chronic wounds often spiral out of control because oxygen can't reach the deepest layers of injured tissue. A new gel developed at UC Riverside delivers a continuous flow of oxygen right where it's needed.",
+    "category": "Medicine",
+    "blurb": "SCIENTISTS MAY HAVE FOUND A WAY TO SAVE LIMBS",
+    "summary": "While headlines churn with tariff chaos and military brinkmanship, a UC Riverside lab quietly announced something profound: a gel that delivers sustained oxygen to diabetic wounds, potentially stopping the cascade that leads to amputation. Diabetic limb loss affects hundreds of thousands of people annually worldwide, making this a genuinely life-changing breakthrough for some of the most vulnerable patients. On a day when doom feels loud, medicine is working steady and hard in the background \u2014 and that matters enormously.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "The back-breeding program that resurrected the Floreana tortoise represents decades of rigorous genomic and conservation science finally bearing living, breathing fruit."
+        "detail": "The UC Riverside oxygen gel represents a targeted, elegant solution to a problem that has resisted treatment for decades, with direct patient benefit on the horizon."
       },
       {
-        "name": "Environment",
+        "name": "Medicine",
         "signal": "bright",
-        "detail": "Giant tortoises are described as 'life-giving engineers' of island ecosystems, meaning their return cascades benefits across the entire Gal\u00e1pagos food web."
+        "detail": "Multiple Science Daily breakthroughs today \u2014 from quantum computing advances to battery improvements to Alzheimer's research \u2014 signal a remarkably productive moment in applied science."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "The Lahore kite festival returning after a 19-year ban signals communities reclaiming cultural joy and local governments choosing celebration over restriction."
+        "detail": "Tech giants committing billions to India's AI infrastructure reflects cross-border investment in shared technological futures despite fractured trade relationships."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "An anonymous donor gifted Osaka 560 million yen in gold bars specifically to fix aging water pipes \u2014 pure, unflashy civic generosity with no strings attached."
+        "detail": "Lahore's jubilant revival of its 19-year-banned Basant kite festival shows communities reclaiming joy and cultural identity against the odds."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Scientists may have found the long-sought triplet superconductor, a potential 'holy grail' of quantum computing that could dramatically stabilize the technology."
+        "detail": "Oxford's lithium-ion battery breakthrough \u2014 visualizing hidden polymer binders to make batteries charge faster and last longer \u2014 edges the clean energy transition quietly forward."
       }
     ],
     "mood": [
-      "resilience",
-      "renewal",
-      "wonder",
-      "persistence",
-      "hope"
+      "breakthrough",
+      "resilient",
+      "hopeful",
+      "inventive",
+      "healing"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
     "card_image": "dawn-card-2026-02-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single juvenile Floreana giant tortoise shell viewed from directly above and slightly angled, the distinctive saddleback carapace arch rising dramatically at the neck opening like a gothic vault, the shell rendered in deep near-black brown with deeply segmented scutes catching warm amber golden hour light that rakes across every ridge and groove making the surface glow bronze and copper, the textured volcanic basalt beneath visible only at the very edges of the frame where tiny fragments of dark porous rock and a sliver of returning green scrub vegetation peek in, one clawed tortoise foot just visible pressing into black volcanic soil at the lower corner, a single golden-spined prickly pear cactus paddle reflected faintly in the glossy surface of the highest shell dome, the entire image bathed in deep warm teal shadow in the recesses between scutes contrasting with radiant amber highlights on every raised ridge, long dramatic side-lighting casting micro-shadows across the shell architecture, the saddleback arch silhouette unmistakable and monumental even at this intimate scale, no text, no antialiasing, 16-bit SNES pixel art style",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single translucent oxygen gel patch viewed from directly above and slightly angled, resting on a white lab bench surface at UC Riverside, the gel rendered in pale golden-amber semi-transparency with faint interior shimmer, tiny pearl-like micro-bubbles suspended and dispersing through its luminous body suggesting breath returning to still tissue, the gel conforming and pooling at its irregular edges like water finding cracks in stone, a small silver hearing aid battery disc tucked at the lower corner of the frame casting a long warm shadow across the bench surface, late afternoon California golden hour light raking in from the left edge creating amber and warm teal reflections caught inside the gel's translucent layers, the faintest suggestion of a researcher's gloved fingertip at the extreme upper frame edge implying human hands at work, deep golden shadows pooling around the battery's impossibly small form, the gel radiating soft inner luminosity as if oxygenating from within, warm amber and teal color grading throughout, radiant side-lighting, no text, no antialiasing, 16-bit SNES pixel art style",
     "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-22.png"
   }
 }
