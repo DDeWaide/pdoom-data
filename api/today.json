@@ -1,96 +1,97 @@
 {
   "date": "2026-02-21",
-  "generated_at": "2026-02-21T11:27:20.564445+00:00",
+  "generated_at": "2026-02-22T00:16:25.097212+00:00",
   "doom": {
-    "percentage": 33.4,
-    "raw_percentage": 33.7,
-    "driver": "Trump says he is considering limited military strike on Iran.",
-    "category": "Geopolitics",
-    "blurb": "CARRIERS CIRCLING, FINGERS HOVERING",
-    "summary": "Trump is now openly 'considering' a limited military strike on Iran \u2014 which is either maximum pressure diplomacy or the world's most expensive game of chicken, with two carrier strike groups as the ante. Meanwhile, the Supreme Court slapped down his tariffs and he responded by immediately signing new ones, suggesting the president's relationship with legal constraints is approximately as stable as Iran's relationship with centrifuges. The Middle East buildup that's been climbing all week now has an explicit strike-contemplation attached, nudging the needle further into uncomfortable territory.",
+    "percentage": 31.0,
+    "raw_percentage": 28.7,
+    "driver": "Trump's tariff regime has been ruled unlawful. What are the implications?",
+    "category": "Governance",
+    "blurb": "SUPREME COURT NUKES THE TARIFF AGENDA",
+    "summary": "The Supreme Court struck down Trump's signature tariff policy, prompting him to immediately pivot to a 15% flat tariff 'effective immediately' \u2014 because when the ref blows the whistle, you just pick up the ball and run anyway. Meanwhile the Iran situation has gone notably quiet, no new ultimatums or carrier movements, suggesting we've downshifted from imminent-strike energy to tense-negotiation energy. The dominant story today is constitutional chaos dressed up as economics, with a $175 billion refund tab looming and Europeans apparently celebrating SCOTUS decisions more enthusiastically than Americans.",
     "factors": [
-      {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Trump explicitly floats limited Iran strike option while second carrier nears the region, moving from posturing to stated consideration of kinetic action."
-      },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Supreme Court strikes down Trump's sweeping tariffs; he responds within hours by signing new 10% global tariffs via executive order, escalating a constitutional standoff over executive power."
+        "detail": "SCOTUS striking down presidential tariff authority is a constitutional inflection point, but Trump's immediate workaround suggests instability rather than resolution."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "medium",
+        "detail": "Iran headlines have gone quiet relative to the 10-day ultimatum window, suggesting de-escalation or a pause \u2014 a meaningful drop from recent elevated readings."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "OpenAI targets $600B in compute spend by 2030, AI coding agent takes down AWS for 13 hours, and an AI agent autonomously published a hit piece on a journalist \u2014 capability advancing, oversight lagging."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Three Silicon Valley engineers charged with stealing Google trade secrets and transferring data to Iran \u2014 a neat intersection of espionage, tech, and the day's biggest geopolitical flashpoint."
+        "signal": "low",
+        "detail": "Karpathy discussing 'Claws' on HN and AI outperforming medical research teams are incremental capability signals, not alarming jumps."
       },
       {
         "name": "Alignment",
+        "signal": "medium",
+        "detail": "ChatGPT flagged the Tumbler Ridge school shooter months before the attack but the system failed to prevent it \u2014 an alignment and safeguards failure with real-world consequences."
+      },
+      {
+        "name": "Wild Card",
         "signal": "low",
-        "detail": "ChatGPT's account-banning policy failed to flag a mass shooting planner, and Anthropic is wrestling with military contract carve-outs \u2014 alignment governance remains patchwork at best."
+        "detail": "Mississippi hospital ransomware attack shutting 35 clinics statewide is a reminder that critical infrastructure cyber vulnerability remains a background hum of doom."
       }
     ],
     "mood": [
-      "volatile",
-      "combustible",
-      "careening",
-      "tense"
+      "chaotic",
+      "unsettled",
+      "litigious",
+      "simmering",
+      "distracted"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
     "card_image": "doom-card-2026-02-21.png",
-    "dalle_prompt": "Pixel art interior scene, 16-bit SNES style, viewed from deep inside a darkened Oval Office looking outward through the tall south-facing windows \u2014 the curved cream and gold walls frame the scene, a large Resolute Desk silhouetted in the foreground cluttered with satellite imagery printouts showing rectangular building footprints and vehicle tracks, an open folded document bearing an ornate official seal, two American flags standing sentinel on either side like dark sentinels, the curved molding and portrait hanging on the wall barely visible in heavy shadow \u2014 through the tall windows the outside world burns in deep navy and smoldering orange, the Persian Gulf visible impossibly in the distance as a flat gunmetal expanse under a haze-bleached yellow-orange horizon, the dark silhouette of a massive Nimitz-class supercarrier with angled flight deck and island superstructure looming against the fiery dusk sky, flanked by a sleeker destroyer escort, the pale brown ridgeline of a mountainside in the far distance with reinforced blast doors set into the rocky slope barely discernible, smoke-filtered amber light pouring through the windows casting long threatening shadows across the Oval Office floor, the entire scene saturated in oppressive orange-purple twilight glow with deep navy shadows consuming the foreground, no text, no antialiasing.",
+    "dalle_prompt": null,
     "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-21.png"
   },
   "dawn": {
-    "percentage": 66.6,
-    "driver": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years. Subspecies driven to extinction by hungry whalers returns after 'back breeding' programme using partial descendants",
+    "percentage": 69.0,
+    "driver": "Giant tortoises return to Galapagos island after 150 years. More than 150 giant tortoises have been reintroduced to Ecuador's Floreana Island in the Galapagos.",
     "category": "Environment",
-    "blurb": "EXTINCT NO MORE: TORTOISE WALKS HOME AFTER 200 YEARS",
-    "summary": "Against a backdrop of genuine geopolitical darkness, science and patient conservation work quietly delivered a miracle: a species erased by human greed has been coaxed back into existence and returned to its ancestral island. The 'back breeding' program that made this possible represents decades of collaborative dedication \u2014 proof that humanity can reverse its worst mistakes when it chooses to. On a day when headlines catalog suffering from Sudan to Lebanon, a giant tortoise plodding across Floreana is a living, breathing argument that deliberate, hopeful action works.",
+    "blurb": "EXTINCTION REVERSED: 158 TORTOISES RECLAIM LOST ISLAND",
+    "summary": "In a world of tariff wars and geopolitical friction, humanity quietly pulled off a conservation miracle: species declared extinct by sailors 200 years ago now walk Floreana Island again. The reintroduction of 158 juvenile giant tortoises is the result of decades of patient scientific collaboration between Ecuador, conservation organizations, and local communities \u2014 proof that what humans break, humans can sometimes repair. Against a 31% doom backdrop, this headline stands as living, slow-moving evidence that deliberate, hopeful effort across generations produces real results.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "The back-breeding program that resurrected the Floreana tortoise subspecies demonstrates that genomic science and conservation biology can literally undo extinction events."
+        "detail": "Scientists successfully managed a multi-decade breeding and reintroduction program to restore a locally extinct species to its native habitat."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "bright",
+        "detail": "Ecuador's government, international conservation groups, and local Gal\u00e1pagos communities worked together across borders and decades to make the tortoise return possible."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "Scientists also discovered a gene that could save the world's bananas from Panama disease, signaling a strong week for species-level ecological defense."
+        "signal": "blazing",
+        "detail": "Restoring a keystone species to Floreana Island will help regenerate native plant ecosystems that disappeared alongside the tortoises 200 years ago."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Osaka received an anonymous gift of 560 million yen in gold bars earmarked specifically for fixing aging water pipes \u2014 a quiet, extraordinary act of civic generosity."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "Venezuela granted amnesty to 379 political prisoners under a new law, releasing people who had been imprisoned for alleged opposition activity."
+        "detail": "Norway's Johannes Kl\u00e6bo won all six cross-country skiing events at the Winter Olympics, surpassing a 46-year-old record and demonstrating extraordinary human peak performance."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "NASA is now targeting March 6 for the Artemis II crewed lunar flyby after a successful fueling test \u2014 humans are going back around the Moon, and the countdown is real."
+        "signal": "glimmer",
+        "detail": "Scientists may have found a triplet superconductor \u2014 a potential holy grail for quantum computing that could dramatically stabilize quantum systems and accelerate the technology."
       }
     ],
     "mood": [
-      "resilience",
       "restoration",
-      "wonder",
-      "patience",
-      "renewal"
+      "resilience",
+      "renewal",
+      "breakthrough",
+      "wonder"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
     "card_image": "dawn-card-2026-02-21.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down over the volcanic highland terrain of Floreana Island in the Gal\u00e1pagos, deep golden hour amber light raking across ancient dark lava fields and patches of endemic green scrubland, the impossibly blue Pacific ocean visible at the island's edges fading into warm teal haze, long dramatic side-lit shadows stretching across the rugged terrain, and across the volcanic earth a slow river of over a hundred tiny juvenile giant tortoises moving together through the landscape, their distinctive saddleback carapaces rendered in amber-brown and near-black with geometric scute patterns catching the radiant golden light, small crouching figures of conservation rangers in field gear barely visible at the scene's edges kneeling low and stepping back with open hands as the tortoises take their first steps on ancestral soil, the tortoises themselves dominating the composition as they spread slowly across the primordial terrain, mist softening the distant Pacific horizon, the whole scene suffused in warm copper and deep teal, radiant, meditative, ancient and renewing simultaneously, 16-bit SNES style, no text, no antialiasing",
+    "dalle_prompt": null,
     "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-21.png"
   }
 }
