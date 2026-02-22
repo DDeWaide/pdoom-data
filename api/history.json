@@ -1414,97 +1414,98 @@
   },
   {
     "date": "2026-02-22",
-    "generated_at": "2026-02-22T12:53:42.419215+00:00",
+    "generated_at": "2026-02-22T14:13:24.963009+00:00",
     "doom": {
-      "percentage": 33.8,
-      "raw_percentage": 33.7,
-      "driver": "Pakistan 'kills dozens' in air strikes on Afghanistan. Pakistan's military has carried out air strikes in Afghanistan, targeting what it called 'camps and hideouts'.",
+      "percentage": 32.4,
+      "raw_percentage": 31.4,
+      "driver": "Second U.S. carrier nears Middle East, as Trump pressures Iran to make a deal.",
       "category": "Geopolitics",
-      "blurb": "NUCLEAR NEIGHBORS SWAP BOMBS FOR REAL",
-      "summary": "Pakistan launched actual air strikes into Afghanistan \u2014 two nuclear-armed or nuclear-adjacent states in active kinetic conflict is not a drill. Meanwhile the US ambassador suggested Israel has Biblical dibs on 'much of the Middle East,' which is either diplomacy or a Book of Revelation speedrun. Iran tension has slightly cooled from last week's 10-day ultimatum theatre, but a new front just opened up in South Asia to fill the void.",
+      "blurb": "TWO CARRIERS, ONE DEADLINE, ZERO CHILL",
+      "summary": "The Iran situation continues its slow boil: a second carrier in the Gulf, Trump still dangling military strikes, and the Strait of Hormuz conversation now mainstream enough to appear in Al Jazeera explainers. Meanwhile Pakistan just bombed Afghanistan again, the Sudan genocide findings landed with a thud, and Israeli strikes in Lebanon are the deadliest since the ceasefire. It's a day of multiple simmering fronts rather than one dramatic escalation \u2014 the geopolitical equivalent of everything being slightly on fire.",
       "factors": [
         {
           "name": "Geopolitics",
           "signal": "elevated",
-          "detail": "Pakistan strikes Afghanistan killing dozens; US ambassador Huckabee's Biblical Greater Israel comments draw regional condemnation; India-US trade talks stall as tariff chaos continues."
+          "detail": "Iran standoff continues with second carrier deployed; Pakistan-Afghanistan strikes ongoing; Israeli Lebanon strikes post-ceasefire are among the deadliest yet \u2014 three separate military flashpoints active simultaneously."
         },
         {
           "name": "Governance",
           "signal": "medium",
-          "detail": "US partial government shutdown suspends TSA PreCheck and Global Entry; FCC demands 'patriotic pro-America' programming; Supreme Court tariff ruling reshapes trade landscape."
+          "detail": "SCOTUS struck down Trump's tariffs (a de-escalation on trade chaos), but Trump immediately announced a new 15% global levy 'effective immediately,' suggesting the chaos simply relocated rather than resolved."
         },
         {
           "name": "AI Capability",
-          "signal": "low",
-          "detail": "Karpathy's 'claws' framing for LLM agents is conceptually interesting but represents incremental narrative rather than a dangerous capability leap."
+          "signal": "medium",
+          "detail": "ChatGPT flagged a school shooter months before the attack yet nothing was done; AI coding agent caused a 13-hour AWS outage \u2014 capability advancing faster than safety infrastructure around it."
         },
         {
-          "name": "Nuclear",
+          "name": "Alignment",
           "signal": "medium",
-          "detail": "IAEA chief Grossi publicly discussing rising nuclear tensions and UN reform signals background-level concern is ticking upward; Pakistan-Afghanistan conflict involves a nuclear-armed state."
+          "detail": "The Tumbler Ridge school shooting suspect was raising red flags in ChatGPT conversations before the attack, a sobering real-world failure of AI safety monitoring and reporting chains."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "Iran ultimatum window has quietly passed without the promised fireworks, suggesting slight de-escalation on that front \u2014 a rare piece of good news."
+          "detail": "72 captive tigers dying from a highly contagious virus in Thailand is the kind of headline that deserves more attention than it's getting \u2014 novel outbreak in a densely populated region, species jump risk non-zero."
         }
       ],
       "mood": [
-        "combustible",
-        "scattered",
         "simmering",
-        "uneasy"
+        "multi-front",
+        "unresolved",
+        "weary",
+        "volatile"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
       "card_image": "doom-card-2026-02-22.png",
-      "dalle_prompt": null,
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a vast shamal dust storm rolling across the Arabian Sea, the sky a suffocating wall of ochre and copper haze swallowing the horizon, visibility strangled to near zero, the water below turned from turquoise to a sick muddy bronze under the filtered light. Through the churning particulate murk, the enormous silhouette of a Nimitz-class supercarrier emerges from the right \u2014 1,092 feet of gray steel hull barely resolved through the dust, its rectangular island superstructure bristling with radar arrays, the large white hull number just barely legible, Phalanx CIWS turrets visible as small white domes at the deck edge, folded-wing F/A-18 Super Hornets spotted densely across the flight deck. A second carrier shape looms further left, deeper in the haze, more ghost than ship \u2014 implied mass, threatening scale. Arleigh Burke destroyer silhouettes cut lower wakes in the foreground water. The narrow Strait of Hormuz coastline is a dark ochre smear along the upper third \u2014 rocky Iranian cliffs dissolving into dust. Deep navy shadows dominate the water, smoldering orange bleeds through the storm ceiling above. No clouds, only choking haze. Oppressive stillness. No text, no antialiasing, 16-bit SNES pixel art style.",
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-22.png"
     },
     "dawn": {
-      "percentage": 66.2,
-      "driver": "WATCH: New dinosaur species discovered deep in the Sahara Desert. Spinosaurus Mirabilis is believed to be roughly the size of a Tyrannosaurus Rex and about 95 million years old, researchers said",
-      "category": "Discovery",
-      "blurb": "ANCIENT GIANT EMERGES FROM THE SAHARA",
-      "summary": "Even on a day marked by conflict between Pakistan and Afghanistan, ongoing war in Ukraine, and political turbulence, humanity's curiosity refuses to sleep. Researchers have unearthed an entirely new dinosaur species \u2014 Spinosaurus Mirabilis \u2014 buried in the Sahara for 95 million years, reminding us that the Earth still holds profound secrets waiting for patient, dedicated science to surface. This kind of discovery represents the best of us: international researchers collaborating across borders to expand the story of life itself, a quiet counterweight to the noise of today's darker headlines.",
+      "percentage": 67.6,
+      "driver": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years. Subspecies driven to extinction by hungry whalers returns after 'back breeding' programme using partial descendants",
+      "category": "Environment",
+      "blurb": "EXTINCT NO MORE: 200 YEARS AND THEY'RE BACK",
+      "summary": "In a world of genuine darkness \u2014 Sudan, Ukraine, Sudan again \u2014 scientists quietly pulled off something that should stop us cold: they brought back a species. The Floreana giant tortoise, wiped out by 19th-century whalers, has returned to its island after a painstaking 'back breeding' program reconstructed the subspecies from partial descendants. This isn't metaphor or spin \u2014 158 juveniles are now walking the soil their ancestors were erased from. It's a reminder that extinction isn't always forever, and that patient, determined human effort can reverse even generational-scale damage.",
       "factors": [
         {
           "name": "Science",
           "signal": "blazing",
-          "detail": "A brand-new dinosaur species the size of a T-Rex has been identified from the Sahara Desert, expanding our understanding of prehistoric life on Earth."
+          "detail": "The back-breeding program that resurrected the Floreana tortoise represents decades of rigorous genomic and conservation science finally bearing living, breathing fruit."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Giant tortoises are described as 'life-giving engineers' of island ecosystems, meaning their return cascades benefits across the entire Gal\u00e1pagos food web."
         },
         {
           "name": "Cooperation",
           "signal": "glimmer",
-          "detail": "Denmark's arctic military forces evacuated a U.S. submariner in need of urgent care off Greenland, demonstrating allied nations quietly saving lives together."
+          "detail": "The Lahore kite festival returning after a 19-year ban signals communities reclaiming cultural joy and local governments choosing celebration over restriction."
         },
         {
           "name": "Human Spirit",
           "signal": "bright",
-          "detail": "Team USA's Kaillie Humphries, a five-time Olympian, secured a bronze medal in two-woman bobsled, embodying decades of perseverance and athletic excellence."
-        },
-        {
-          "name": "Environment",
-          "signal": "glimmer",
-          "detail": "Thailand's major drink chains have agreed to halve default sugar content, a meaningful public health and environmental shift toward conscious consumption."
+          "detail": "An anonymous donor gifted Osaka 560 million yen in gold bars specifically to fix aging water pipes \u2014 pure, unflashy civic generosity with no strings attached."
         },
         {
           "name": "Wild Card",
-          "signal": "bright",
-          "detail": "A hobbyist engineer demonstrated running a 70-billion-parameter AI model on a single consumer GPU by bypassing conventional hardware limits \u2014 grassroots ingenuity pushing technology's frontier."
+          "signal": "glimmer",
+          "detail": "Scientists may have found the long-sought triplet superconductor, a potential 'holy grail' of quantum computing that could dramatically stabilize the technology."
         }
       ],
       "mood": [
-        "wonder",
-        "curiosity",
         "resilience",
-        "discovery",
-        "cooperation"
+        "renewal",
+        "wonder",
+        "persistence",
+        "hope"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
       "card_image": "dawn-card-2026-02-22.png",
-      "dalle_prompt": null,
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single juvenile Floreana giant tortoise shell viewed from directly above and slightly angled, the distinctive saddleback carapace arch rising dramatically at the neck opening like a gothic vault, the shell rendered in deep near-black brown with deeply segmented scutes catching warm amber golden hour light that rakes across every ridge and groove making the surface glow bronze and copper, the textured volcanic basalt beneath visible only at the very edges of the frame where tiny fragments of dark porous rock and a sliver of returning green scrub vegetation peek in, one clawed tortoise foot just visible pressing into black volcanic soil at the lower corner, a single golden-spined prickly pear cactus paddle reflected faintly in the glossy surface of the highest shell dome, the entire image bathed in deep warm teal shadow in the recesses between scutes contrasting with radiant amber highlights on every raised ridge, long dramatic side-lighting casting micro-shadows across the shell architecture, the saddleback arch silhouette unmistakable and monumental even at this intimate scale, no text, no antialiasing, 16-bit SNES pixel art style",
       "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-22.png"
     }
   }
