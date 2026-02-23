@@ -1,96 +1,96 @@
 {
-  "date": "2026-02-22",
-  "generated_at": "2026-02-22T14:32:27.025854+00:00",
+  "date": "2026-02-23",
+  "generated_at": "2026-02-23T11:30:56.863981+00:00",
   "doom": {
-    "percentage": 34.3,
-    "raw_percentage": 34.7,
-    "driver": "Pakistan launches deadly strikes on Afghanistan.",
+    "percentage": 36.9,
+    "raw_percentage": 38.7,
+    "driver": "Zelensky tells BBC Putin has started WW3 and must be stopped.",
     "category": "Geopolitics",
-    "blurb": "SOUTH ASIA OPENS A NEW FRONT",
-    "summary": "Pakistan has launched strikes inside Afghanistan, adding a fresh kinetic conflict to an already crowded global chaos board. Meanwhile Trump's Iran pressure campaign grinds on \u2014 he's now openly 'considering limited military strikes' \u2014 and Germany's top trading partner is officially China now, which tells you something about where the post-American order is heading. Today's doom is diffuse but real: multiple active flashpoints, none quite boiling over, all simmering uncomfortably.",
+    "blurb": "ZELENSKY DROPS THE WW3 WORD",
+    "summary": "On the four-year anniversary of Russia's full-scale invasion, Zelensky told the BBC that Putin has already started World War Three \u2014 which is either a desperate plea for Western attention or a sober assessment from the man watching it happen from the front row. Meanwhile, US assets are reportedly positioned for a 'highly kinetic' war with Iran, El Mencho's cartel is burning Mexico to the ground in his memory, and China's leverage just got a quiet boost from the Supreme Court. It's the kind of day where every crisis is loudly competing for the title of Most Likely To Spiral.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Pakistan striking Afghanistan, Israel hitting Lebanon post-ceasefire, Iran tensions unresolved, and Hungary threatening to blow up EU-Ukraine financing \u2014 it's a busy map."
+        "signal": "high",
+        "detail": "Zelensky invokes WW3 framing on the war's four-year mark while US forces mass in the Middle East for potential 'highly kinetic' conflict with Iran \u2014 two simultaneous escalation tracks."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump hiking tariffs to 15% immediately after SCOTUS struck down his last tariff regime suggests the executive branch is playing regulatory whack-a-mole with global trade law."
+        "detail": "China's leverage rises ahead of a leaders summit as the Supreme Court's tariff ruling hands Beijing a diplomatic gift and complicates US negotiating posture on Taiwan."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "AI headlines today are mostly process and tooling discourse \u2014 interesting but not alarming; the existential needle stays still."
+        "detail": "Sam Altman dismisses AI resource concerns and Trump unveils a 'Tech Corps' to spread American AI globally \u2014 the arms race in influence accelerates with minimal guardrails."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "El Mencho's death has unleashed cartel retaliatory violence across a dozen Mexican states, shutting down cities and trapping American tourists \u2014 state-level chaos with no clear end point."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "A school shooter was flagged by OpenAI employees months before the attack, raising uncomfortable questions about what AI platforms do with their own safety signals."
-      },
-      {
-        "name": "Wild Card",
         "signal": "low",
-        "detail": "A Mississippi hospital system shuttered 35 clinics after ransomware \u2014 a reminder that critical infrastructure attacks are now routine background noise, not emergency alerts."
+        "detail": "Researchers successfully hid backdoors in 40MB binaries and tested whether AI could find them \u2014 a quiet reminder that AI security evaluation remains deeply unsolved."
       }
     ],
     "mood": [
-      "fragmented",
-      "escalatory",
-      "volatile",
-      "fraying"
+      "combustible",
+      "cascading",
+      "grimly historic",
+      "exhausted"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a bitter pre-dawn mountain night along the Durand Line, the rugged high-altitude ridgelines of eastern Afghanistan swallowed by a dense cold haze, freezing fog rolling through the deep valleys between Nangarhar's brown rocky outcroppings, visibility collapsing into layers of obscured shadow, the atmosphere itself heavy and suffocating \u2014 deep navy sky pressing down on frost-dusted hillsides, a thin crescent moon barely visible through the haze above, its pale light filtered to near nothing by the cold mountain murk \u2014 below, traditional mud-brick qala compounds cluster against a dark hillside, their flat roofs and earthen walls glowing with a sudden terrible orange warmth from below, light sourced not from the moon but from fires burning within the valley, casting long harsh shadows up the rocky slopes \u2014 columns of smoke rise and dissolve into the fog above, smoldering orange fading to grey as it climbs, the haze thickening with particulate and dust \u2014 scattered children's sandals rest at the threshold of a low rectangular building with an arched doorway, untouched by the chaos, eerily still \u2014 deep navy and smoldering orange dominate every surface, warmth feels threatening, shadows are vast, no sky is visible above the ridgeline \u2014 16-bit SNES pixel art, no text, no antialiasing, no figures.",
-    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/doom-card-2026-02-22.png"
+    "card_image": "doom-card-2026-02-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, Kyiv government quarter at dusk in late winter \u2014 the neoclassical cream and ochre facade of a formal government building looms in deep background, its columned portico and wrought-iron fencing dissolved into dark navy shadow, bare chestnut and linden trees lining the boulevard reduced to skeletal black claws against a smoldering orange sky. Heavy concrete blast barriers and sandbag checkpoints form a jagged silhouette line across the foreground, their blocky shapes cutting hard against the threatening amber glow behind. Inside a tall arched window \u2014 backlit by the warm island of broadcast soft-box lighting \u2014 two seated figures face each other across a long dark conference table, rendered as pure black silhouettes: one leaning forward with clasped hands and intense compact posture, the other slightly reclined with the stillness of a veteran journalist, BBC camera rig and boom microphone silhouetted beside them. Standing silhouettes of security personnel flank the doorway, earpiece cables catching the faintest orange edge-light. Dirty residual snow on cobblestones reflects smoldering orange from the sky. A Ukrainian flag pole silhouette rises in the corner of the room. Dominant palette of deep navy, charcoal, and threatening smoldering orange, heavy shadows consuming the scene, warm light feeling dangerous rather than safe, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-23.png"
   },
   "dawn": {
-    "percentage": 65.7,
-    "driver": "New oxygen gel could prevent amputation in diabetic wound patients. Chronic wounds often spiral out of control because oxygen can't reach the deepest layers of injured tissue. A new gel developed at UC Riverside delivers a continuous flow of oxygen right where it's needed.",
-    "category": "Medicine",
-    "blurb": "SCIENTISTS MAY HAVE FOUND A WAY TO SAVE LIMBS",
-    "summary": "While headlines churn with tariff chaos and military brinkmanship, a UC Riverside lab quietly announced something profound: a gel that delivers sustained oxygen to diabetic wounds, potentially stopping the cascade that leads to amputation. Diabetic limb loss affects hundreds of thousands of people annually worldwide, making this a genuinely life-changing breakthrough for some of the most vulnerable patients. On a day when doom feels loud, medicine is working steady and hard in the background \u2014 and that matters enormously.",
+    "percentage": 63.1,
+    "driver": "Winter Olympics 2026 closes after setting 'a new standard for future'. Italy's record medal haul crowns Milano Cortina Winter Olympics as Verona hosts a music-filled farewell.",
+    "category": "Human Spirit",
+    "blurb": "THE WORLD CAME TOGETHER AND MADE IT BEAUTIFUL",
+    "summary": "Against a backdrop of war, geopolitical tension, and cartel violence, the Milano Cortina Winter Olympics closed in Verona with a music-filled celebration that officials say set 'a new standard for future' Games. Italy's record medal haul reminded the world that human excellence \u2014 athletic, cultural, organizational \u2014 still thrives when nations choose cooperation over conflict. The U.S. also finished second in the gold medal tally, with athletes from Alaska to Vermont proving that quiet, unglamorous dedication still produces extraordinary things.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "The UC Riverside oxygen gel represents a targeted, elegant solution to a problem that has resisted treatment for decades, with direct patient benefit on the horizon."
-      },
-      {
-        "name": "Medicine",
-        "signal": "bright",
-        "detail": "Multiple Science Daily breakthroughs today \u2014 from quantum computing advances to battery improvements to Alzheimer's research \u2014 signal a remarkably productive moment in applied science."
+        "detail": "The Milano Cortina Games closed with a music-filled ceremony in Verona, declared a new standard for Olympic hosting, as athletes from dozens of nations competed without incident."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "Tech giants committing billions to India's AI infrastructure reflects cross-border investment in shared technological futures despite fractured trade relationships."
+        "signal": "bright",
+        "detail": "An international team of scientists working across borders in Niger discovered an entirely new dinosaur species, Spinosaurus mirabilis, reminding us that collaborative curiosity still drives discovery."
       },
       {
-        "name": "Human Spirit",
+        "name": "Science",
         "signal": "bright",
-        "detail": "Lahore's jubilant revival of its 19-year-banned Basant kite festival shows communities reclaiming joy and cultural identity against the odds."
+        "detail": "A newly discovered giant blade-crested spinosaurus unveiled in the Sahara shows that Earth still holds wonders \u2014 and that science funded and pursued across nations keeps revealing them."
+      },
+      {
+        "name": "Environment",
+        "signal": "glimmer",
+        "detail": "Two Colorado utilities are actively pushing back against the Trump administration's order to keep coal plants running, signaling that the clean energy transition has momentum even under political headwinds."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Oxford's lithium-ion battery breakthrough \u2014 visualizing hidden polymer binders to make batteries charge faster and last longer \u2014 edges the clean energy transition quietly forward."
+        "signal": "quiet",
+        "detail": "The bones of St. Francis of Assisi went on rare public display in Italy, drawing pilgrims and tourists alike in a moment of shared reverence that transcended politics and division."
       }
     ],
     "mood": [
-      "breakthrough",
+      "triumphant",
+      "unifying",
       "resilient",
-      "hopeful",
-      "inventive",
-      "healing"
+      "wondrous",
+      "celebratory"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single translucent oxygen gel patch viewed from directly above and slightly angled, resting on a white lab bench surface at UC Riverside, the gel rendered in pale golden-amber semi-transparency with faint interior shimmer, tiny pearl-like micro-bubbles suspended and dispersing through its luminous body suggesting breath returning to still tissue, the gel conforming and pooling at its irregular edges like water finding cracks in stone, a small silver hearing aid battery disc tucked at the lower corner of the frame casting a long warm shadow across the bench surface, late afternoon California golden hour light raking in from the left edge creating amber and warm teal reflections caught inside the gel's translucent layers, the faintest suggestion of a researcher's gloved fingertip at the extreme upper frame edge implying human hands at work, deep golden shadows pooling around the battery's impossibly small form, the gel radiating soft inner luminosity as if oxygenating from within, warm amber and teal color grading throughout, radiant side-lighting, no text, no antialiasing, 16-bit SNES pixel art style",
-    "card_url": "https://raw.githubusercontent.com/DDeWaide/pdoom-data/main/cards/dawn-card-2026-02-22.png"
+    "card_image": "dawn-card-2026-02-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, no text, no antialiasing. The ancient Verona Arena fills the frame \u2014 two-thousand-year-old tiered semicircular walls of weathered amber and ochre stone rising dramatically into a deep navy night sky, every surface washed in sweeping beams of warm golden and teal stage lighting that paint the Roman stonework in radiant theatrical color. Massive glowing video screens embedded against the ancient stone blaze with the final moments of twin Olympic cauldron flames being extinguished simultaneously \u2014 one against a city skyline, one against snow-capped Dolomite peaks \u2014 casting fading warm orange light across the arena bowl. On the arena floor far below, 1,500 athletes in a mosaic of colorful national team jackets are packed together, arms raised, jumping, confetti explosions in red, blue, green and white cascading down over their heads from above. At center stage a figure in white holds aloft the Olympic flag before outstretched French officials' hands receive it in formal handover. Sweeping color beams \u2014 no fireworks, only soft ethereal washes of deep amber and warm teal \u2014 arc across the open night sky above the ancient elliptical walls. Deep shadows dominate the stone tiers, interrupted only by the radiant glow of screens, stage rigs, and cascading confetti light.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-23.png"
   }
 }
