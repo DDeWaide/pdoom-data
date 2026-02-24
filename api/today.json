@@ -1,96 +1,97 @@
 {
-  "date": "2026-02-23",
-  "generated_at": "2026-02-23T11:30:56.863981+00:00",
+  "date": "2026-02-24",
+  "generated_at": "2026-02-24T11:18:41.842634+00:00",
   "doom": {
-    "percentage": 36.9,
+    "percentage": 37.2,
     "raw_percentage": 38.7,
-    "driver": "Zelensky tells BBC Putin has started WW3 and must be stopped.",
-    "category": "Geopolitics",
-    "blurb": "ZELENSKY DROPS THE WW3 WORD",
-    "summary": "On the four-year anniversary of Russia's full-scale invasion, Zelensky told the BBC that Putin has already started World War Three \u2014 which is either a desperate plea for Western attention or a sober assessment from the man watching it happen from the front row. Meanwhile, US assets are reportedly positioned for a 'highly kinetic' war with Iran, El Mencho's cartel is burning Mexico to the ground in his memory, and China's leverage just got a quiet boost from the Supreme Court. It's the kind of day where every crisis is loudly competing for the title of Most Likely To Spiral.",
+    "driver": "US accuses China of 'massively' expanding nuclear arsenal amid fears of new arms race.",
+    "category": "Nuclear",
+    "blurb": "EVERYONE'S BUILDING BIGGER BUTTONS",
+    "summary": "The US is accusing China of a massive nuclear buildup while simultaneously evacuating its Beirut embassy over Iran tensions and watching Russia fire suicide bombers at Moscow train stations on the Ukraine war's fourth anniversary. That's three nuclear-adjacent crises running in parallel, which is precisely the kind of overcrowded threat landscape that makes analysts reach for antacids. Beijing's response \u2014 essentially 'we're not racing, you are' \u2014 is the geopolitical equivalent of whistling past a missile silo.",
     "factors": [
       {
-        "name": "Geopolitics",
+        "name": "Nuclear",
         "signal": "high",
-        "detail": "Zelensky invokes WW3 framing on the war's four-year mark while US forces mass in the Middle East for potential 'highly kinetic' conflict with Iran \u2014 two simultaneous escalation tracks."
+        "detail": "US formally accuses China of massively expanding its nuclear arsenal while Iran tensions keep the Middle East nuclear calculus volatile and Russia celebrates its Ukraine anniversary with a suicide bombing."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "US partially evacuates Beirut embassy, France bars US ambassador Kushner from government access, and Russia's war enters year five with no resolution \u2014 the diplomatic scaffolding is visibly creaking."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "China's leverage rises ahead of a leaders summit as the Supreme Court's tariff ruling hands Beijing a diplomatic gift and complicates US negotiating posture on Taiwan."
+        "signal": "medium",
+        "detail": "Anthropic accuses Chinese firms of using Claude to train rival AI, while Canada summons OpenAI over its handling of a school shooter's account \u2014 AI governance gaps are becoming law enforcement gaps."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Sam Altman dismisses AI resource concerns and Trump unveils a 'Tech Corps' to spread American AI globally \u2014 the arms race in influence accelerates with minimal guardrails."
+        "detail": "Anthropic's existential negotiations with the Pentagon over military AI use signal that frontier labs and defense establishments are still deeply at odds on deployment ethics."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "El Mencho's death has unleashed cartel retaliatory violence across a dozen Mexican states, shutting down cities and trapping American tourists \u2014 state-level chaos with no clear end point."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Researchers successfully hid backdoors in 40MB binaries and tested whether AI could find them \u2014 a quiet reminder that AI security evaluation remains deeply unsolved."
+        "detail": "Mexico deploys 10,000 troops after El Mencho's killing triggers nationwide cartel violence \u2014 a power vacuum in the world's most powerful drug trafficking organization is never a quiet event."
       }
     ],
     "mood": [
-      "combustible",
-      "cascading",
-      "grimly historic",
-      "exhausted"
+      "bristling",
+      "overcrowded",
+      "escalatory",
+      "fragile",
+      "combustible"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, Kyiv government quarter at dusk in late winter \u2014 the neoclassical cream and ochre facade of a formal government building looms in deep background, its columned portico and wrought-iron fencing dissolved into dark navy shadow, bare chestnut and linden trees lining the boulevard reduced to skeletal black claws against a smoldering orange sky. Heavy concrete blast barriers and sandbag checkpoints form a jagged silhouette line across the foreground, their blocky shapes cutting hard against the threatening amber glow behind. Inside a tall arched window \u2014 backlit by the warm island of broadcast soft-box lighting \u2014 two seated figures face each other across a long dark conference table, rendered as pure black silhouettes: one leaning forward with clasped hands and intense compact posture, the other slightly reclined with the stillness of a veteran journalist, BBC camera rig and boom microphone silhouetted beside them. Standing silhouettes of security personnel flank the doorway, earpiece cables catching the faintest orange edge-light. Dirty residual snow on cobblestones reflects smoldering orange from the sky. A Ukrainian flag pole silhouette rises in the corner of the room. Dominant palette of deep navy, charcoal, and threatening smoldering orange, heavy shadows consuming the scene, warm light feeling dangerous rather than safe, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-23.png"
+    "card_image": "doom-card-2026-02-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the cracked salt-flat floor of the Taklamakan Desert, the ancient porcelain-fractured terrain of Lop Nor filling the extreme foreground in rust-brown and ash-grey tiles, a massive cylindrical white ICBM silo blast door yawning open overhead and dominating the upward perspective, its circular steel mouth framing a smoldering deep-navy sky bleeding into threatening orange at the horizon edges, heat shimmer rendered in wavering pixel bands rising from the bleached earth, the underside of the blast door's reinforced concrete rim casting heavy shadow down the silo shaft, distant brown mountain ridges of the Taklamakan basin rendered as low pixel silhouettes ringing the flat desert floor, a satellite imagery printout pinned to cracked rock in the foreground corner showing black-and-white overhead shapes of tunnel portals and ventilation shafts, a single seismograph waveform spike glowing amber on a low concrete monitoring station to one side, smoke-filtered light pressing down from the orange-navy sky making all warmth feel dangerous, deep shadows pooling in every crevice of the fractured salt flat, hyper-arid desolation stretching to the pixel horizon, no text, no antialiasing, 16-bit SNES color palette.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-24.png"
   },
   "dawn": {
-    "percentage": 63.1,
-    "driver": "Winter Olympics 2026 closes after setting 'a new standard for future'. Italy's record medal haul crowns Milano Cortina Winter Olympics as Verona hosts a music-filled farewell.",
-    "category": "Human Spirit",
-    "blurb": "THE WORLD CAME TOGETHER AND MADE IT BEAUTIFUL",
-    "summary": "Against a backdrop of war, geopolitical tension, and cartel violence, the Milano Cortina Winter Olympics closed in Verona with a music-filled celebration that officials say set 'a new standard for future' Games. Italy's record medal haul reminded the world that human excellence \u2014 athletic, cultural, organizational \u2014 still thrives when nations choose cooperation over conflict. The U.S. also finished second in the gold medal tally, with athletes from Alaska to Vermont proving that quiet, unglamorous dedication still produces extraordinary things.",
+    "percentage": 62.8,
+    "driver": "Scientists create universal nasal spray vaccine that protects against COVID, flu, and pneumonia. Scientists at Stanford Medicine have unveiled a bold new kind of \"universal\" vaccine that could one day protect against everything from COVID-19 and the flu to bacterial pneumonia and even common alle",
+    "category": "Medicine",
+    "blurb": "ONE SPRAY TO DEFEAT THEM ALL",
+    "summary": "Against a backdrop of war anniversaries, cartel violence, and geopolitical brinkmanship, Stanford Medicine has quietly delivered something extraordinary: a universal nasal spray vaccine designed to fight COVID-19, influenza, and bacterial pneumonia simultaneously. If it holds up in trials, this is the kind of platform technology that could rewrite how humanity defends itself against respiratory pandemics \u2014 the category of threat that has historically killed more people than most wars combined. While doom accumulates in the headlines, science keeps compounding interest on the side of life.",
     "factors": [
       {
-        "name": "Human Spirit",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "The Milano Cortina Games closed with a music-filled ceremony in Verona, declared a new standard for Olympic hosting, as athletes from dozens of nations competed without incident."
+        "detail": "Stanford's universal nasal spray vaccine represents a potential paradigm shift in how humanity defends against respiratory disease at scale."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "An international team of scientists working across borders in Niger discovered an entirely new dinosaur species, Spinosaurus mirabilis, reminding us that collaborative curiosity still drives discovery."
+        "signal": "glimmer",
+        "detail": "Ukraine negotiators are still showing up at the table with Russia, keeping fragile diplomatic channels open despite four brutal years of war."
       },
       {
-        "name": "Science",
+        "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A newly discovered giant blade-crested spinosaurus unveiled in the Sahara shows that Earth still holds wonders \u2014 and that science funded and pursued across nations keeps revealing them."
+        "detail": "A blood test achieving 94.5% accuracy in Alzheimer's diagnosis brings millions of families closer to answers they have waited decades to receive."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Two Colorado utilities are actively pushing back against the Trump administration's order to keep coal plants running, signaling that the clean energy transition has momentum even under political headwinds."
+        "detail": "MIT Technology Review highlights conservationists deploying radioactive isotope tracking in rhino horns \u2014 a creative, determined pushback against poaching networks."
       },
       {
         "name": "Wild Card",
-        "signal": "quiet",
-        "detail": "The bones of St. Francis of Assisi went on rare public display in Italy, drawing pilgrims and tourists alike in a moment of shared reverence that transcended politics and division."
+        "signal": "bright",
+        "detail": "ASML's EUV chip manufacturing breakthrough could yield 50% more semiconductors by 2030, quietly expanding the material foundation for every future technology humanity needs."
       }
     ],
     "mood": [
-      "triumphant",
-      "unifying",
+      "breakthrough",
       "resilient",
-      "wondrous",
-      "celebratory"
+      "hopeful",
+      "ingenious",
+      "forward"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, no text, no antialiasing. The ancient Verona Arena fills the frame \u2014 two-thousand-year-old tiered semicircular walls of weathered amber and ochre stone rising dramatically into a deep navy night sky, every surface washed in sweeping beams of warm golden and teal stage lighting that paint the Roman stonework in radiant theatrical color. Massive glowing video screens embedded against the ancient stone blaze with the final moments of twin Olympic cauldron flames being extinguished simultaneously \u2014 one against a city skyline, one against snow-capped Dolomite peaks \u2014 casting fading warm orange light across the arena bowl. On the arena floor far below, 1,500 athletes in a mosaic of colorful national team jackets are packed together, arms raised, jumping, confetti explosions in red, blue, green and white cascading down over their heads from above. At center stage a figure in white holds aloft the Olympic flag before outstretched French officials' hands receive it in formal handover. Sweeping color beams \u2014 no fireworks, only soft ethereal washes of deep amber and warm teal \u2014 arc across the open night sky above the ancient elliptical walls. Deep shadows dominate the stone tiers, interrupted only by the radiant glow of screens, stage rigs, and cascading confetti light.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-23.png"
+    "card_image": "dawn-card-2026-02-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a Stanford Medicine research laboratory viewed from inside looking outward through a wide doorway, the doorway frame cutting the composition into warm interior and cool corridor beyond. Deep golden amber desk lamp pools saturate the lab benches in radiant side-light, casting long warm shadows across white surfaces while cool teal-blue glow radiates from a computer monitor displaying branching fluorescent microscopy imagery in purples and greens. The lab environment fills the frame \u2014 gleaming white bench surfaces, neat rows of small vials and petri dishes, a whiteboard covered in branching immune system diagrams connecting two convergent rivers of annotation. A slender translucent nasal spray bottle sits upright at the center of the nearest bench, illuminated by a golden desk lamp so it glows like a tiny lantern, embarrassingly small, radiating warm amber light. A younger researcher leans over the bench holding the spray vial up toward the lamp light, face washed in warm gold and cool teal simultaneously. Behind him a second figure gestures expressively with open hands. A transparent mouse enclosure on a side shelf shows tiny healthy silhouettes moving freely. Through the doorway the corridor glows in cool hospital teal. Side-lighting with long warm shadows, radiant golden hour amber and deep teal contrast throughout.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-24.png"
   }
 }
