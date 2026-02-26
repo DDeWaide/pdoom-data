@@ -1759,5 +1759,100 @@
       "card_image": "dawn-card-2026-02-25.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A vast American Southwest desert landscape dominated by golden-hour haze and warm atmospheric dust, the entire scene filtered through a radiant amber-teal atmosphere as late afternoon sun rakes low across the high desert, long shadows stretching across red-ochre earth while heat shimmer and fine particulate haze blur the horizon into layers of peach and deep teal blue. Hundreds of utility-scale solar panels stretch in perfect geometric rows vanishing into the hazy distance, their dark blue-black surfaces catching the raking light and flashing copper and amber through the golden dust. White rectangular battery storage containers sit flush against the near solar arrays, thick cable conduits running along the ground connecting them. In the middle distance, barely visible through the warm haze, a river dam and concrete spillway recede into soft atmospheric blur \u2014 older, earthen, being stepped past. Tall steel lattice transmission towers carry silver power lines away toward an unseen city, the lines themselves catching light through the dust. A single small figure in a high-visibility orange vest stands on a slight ridge at the edge of the panel field, hand raised to shield eyes, tiny against the monumental panorama, the enormous layered sky above glowing deep teal at the zenith fading through warm amber haze to a radiant peach horizon. Quietly triumphant, unstoppable momentum rendered in 16-bit SNES palette."
     }
+  },
+  {
+    "date": "2026-02-26",
+    "generated_at": "2026-02-26T11:40:42.343563+00:00",
+    "doom": {
+      "percentage": 37.7,
+      "raw_percentage": 38.7,
+      "driver": "Trump's Iran ultimatum enters decisive stretch after State of the Union. Trump sets 10 day to 15 day deadline for Iran nuclear deal, backed by massive U.S. military buildup in Middle East. Negotiations continue as tensions escalate.",
+      "category": "Nuclear",
+      "blurb": "COUNTDOWN CLOCK ON IRAN DEAL, WARSHIPS CLOSING IN",
+      "summary": "The US and Iran are holding a third round of nuclear talks in Geneva while Trump has slapped a 10-15 day deadline on the whole affair and parked a fleet of warships nearby as a gentle reminder. Rubio meanwhile is calling Iran's missile reluctance a 'big, big problem,' which in diplomatic language translates roughly to 'we are very close to something bad.' Throw in Kim Jong Un threatening to 'completely destroy' South Korea in the same news cycle, and the nuclear category is doing a lot of heavy lifting today.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Gemini booking Ubers and Hegseth summoning Anthropic to DC to 'fall in line' with military desires are both quietly consequential, but no capability cliff today."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Hegseth telling Anthropic to comply with DoD wishes 'or else' signals aggressive government pressure on AI companies to enable military applications."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran nuclear deadline ticking, warships deployed, Kim Jong Un threatening to destroy South Korea, Cuba-US speedboat shootout, and Hungary deploying troops to energy facilities \u2014 it's a busy map."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Anthropic executives publicly musing about whether Claude might be 'alive' is philosophically spicy but not an immediate risk signal."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "New Scientist reports quantum computers can now crack RSA encryption with 100,000 qubits \u2014 still a hard engineering problem, but the threshold just dropped tenfold."
+        }
+      ],
+      "mood": [
+        "tense",
+        "ticking",
+        "volatile",
+        "crowded",
+        "brinkmanship"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-02-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the nose cone and forward fuselage of a massive GBU-57 Massive Ordnance Penetrator bunker buster bomb, olive drab casing dominating the composition, the enormous cylindrical surface etched with stenciled yellow technical markings and serial codes rendered in chunky pixel fonts, the metal skin reflecting a deep smoldering orange glow from an unseen source below, heavy navy shadow consuming the upper third of the frame, the curved steel surface showing faint scratched texture and riveted seams in careful 16-bit dithering, at the extreme left edge a sliver of matte black B-2 flying wing undercarriage is visible, barely implied, angular and batlike, at the right edge the ghostly reflection in the polished nose cone distorts a miniaturized mirror image of open blue-green water and a distant carrier strike group silhouette with island superstructure, the reflection rendered in cold teal and grey pixels crushed under the dominant warmth of the orange-smoked ambient light, deep navy darkness bleeds in from all corners vignetting the frame, the overall palette is smoldering orange against crushing navy, smoke-filtered warmth, the single object communicates immense weight and latent devastation through scale and stillness alone, no text, no antialiasing, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 62.3,
+      "driver": "UN approves first carbon credits under Paris Agreement market mechanism. Paris Agreement's carbon credits enable cross-border trade to support emissions reduction and climate goals worldwide.",
+      "category": "Cooperation",
+      "blurb": "THE WORLD JUST AGREED ON A PRICE FOR THE PLANET",
+      "summary": "In a week shadowed by nuclear brinkmanship and AI war-gaming, 190+ nations quietly did something remarkable: they agreed on the first functioning carbon credit system under the Paris Agreement, creating a real cross-border market for emissions reductions. This is years of painstaking multilateral diplomacy finally bearing fruit \u2014 proof that cooperative global governance isn't dead, just slow. When the doom signals are loudest, the quiet infrastructure of a livable future keeps getting built.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "The Paris Agreement carbon credit mechanism finally has teeth \u2014 a functioning international market that puts a tradeable price on emissions reductions across borders."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "blazing",
+          "detail": "US-Iran nuclear talks entered a third round in Geneva today, showing that even deeply adversarial nations keep choosing negotiation over escalation."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "A shingles vaccine was found to slow biological aging and reduce inflammation in a large study of 3,800 Americans \u2014 a drug already in millions of medicine cabinets doing double duty."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A singing Chicago mailman went viral after delivering a song \u2014 and comfort \u2014 to a widow who had just lost her husband of 50 years."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Brazil convicted the politician brothers who ordered the murder of Marielle Franco, delivering justice eight years on for a gay Black woman whose killing once seemed destined to go unpunished."
+        }
+      ],
+      "mood": [
+        "momentum",
+        "resilient",
+        "collaborative",
+        "hopeful",
+        "persistent"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-02-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A rural Myanmar village kitchen interior viewed from inside, the far wall open to a blazing golden-amber dawn sky beyond the forest treeline, dense tropical canopy standing tall and intact against the radiant horizon, warm teal light bleeding upward into deep amber at the threshold between forest and sky. The entire room is backlit by this dual glow \u2014 the magnificent dawn outside and the small controlled orange ember-heart of an efficient cookstove burning in the foreground. Two silhouetted figures dominate the composition: a woman in a traditional longyi crouching beside the compact stove, her silhouette clean and upright, and a small girl beside her, both rendered as pure dark shapes against the luminous backdrop. The cookstove firebox glows vivid orange-gold at its narrow combustion chamber, a second small sun casting warm light forward onto earthen floor. Above the figures, where smoke would have been, the air is clear \u2014 haze dissolving upward into open light. A modest pile of unburned firewood sits to one side, untouched. Through the open wall, the intact forest edge glows teal-green against amber sky. An arc of gold light curves faintly across the sky like a trade route, connecting two distant illuminated points. Long dramatic side-shadows stretch across the floor. Deep golden hour amber and warm teal. Radiant, intimate, triumphant."
+    }
   }
 ]
