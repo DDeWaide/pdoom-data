@@ -1,97 +1,97 @@
 {
-  "date": "2026-02-26",
-  "generated_at": "2026-02-26T11:40:42.343563+00:00",
+  "date": "2026-02-27",
+  "generated_at": "2026-02-27T11:32:25.802220+00:00",
   "doom": {
-    "percentage": 37.7,
-    "raw_percentage": 38.7,
-    "driver": "Trump's Iran ultimatum enters decisive stretch after State of the Union. Trump sets 10 day to 15 day deadline for Iran nuclear deal, backed by massive U.S. military buildup in Middle East. Negotiations continue as tensions escalate.",
-    "category": "Nuclear",
-    "blurb": "COUNTDOWN CLOCK ON IRAN DEAL, WARSHIPS CLOSING IN",
-    "summary": "The US and Iran are holding a third round of nuclear talks in Geneva while Trump has slapped a 10-15 day deadline on the whole affair and parked a fleet of warships nearby as a gentle reminder. Rubio meanwhile is calling Iran's missile reluctance a 'big, big problem,' which in diplomatic language translates roughly to 'we are very close to something bad.' Throw in Kim Jong Un threatening to 'completely destroy' South Korea in the same news cycle, and the nuclear category is doing a lot of heavy lifting today.",
+    "percentage": 39.4,
+    "raw_percentage": 41.3,
+    "driver": "Anthropic refuses Pentagon's new terms, standing firm on lethal autonomous weapons and mass surveillance.",
+    "category": "Alignment",
+    "blurb": "AI COMPANY TELLS WAR DEPARTMENT TO GO POUND SAND",
+    "summary": "Anthropic just told the Pentagon it won't remove safeguards against lethal autonomous weapons \u2014 a move that is either heroic or catastrophic depending on whether you trust corporations or governments more, which in 2026 is a genuinely difficult question. Meanwhile, Pakistan has declared 'open war' on Afghanistan, US-Iran nuclear talks ended with 'significant progress' and no deal, and a US military laser shot down one of its own drones near the border. The vibe is: every crisis is escalating just enough to not quite resolve.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Gemini booking Ubers and Hegseth summoning Anthropic to DC to 'fall in line' with military desires are both quietly consequential, but no capability cliff today."
+        "signal": "high",
+        "detail": "Anthropic vs. Pentagon standoff reveals the AI safety guardrail debate is now a live geopolitical conflict, not a thought experiment \u2014 and Google workers are demanding their own 'red lines' on military AI."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Hegseth telling Anthropic to comply with DoD wishes 'or else' signals aggressive government pressure on AI companies to enable military applications."
+        "detail": "The Pentagon issuing ultimatums to private AI companies over weapons access is a genuinely new and alarming precedent for who controls frontier AI in warfare."
       },
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "US-Iran nuclear deadline ticking, warships deployed, Kim Jong Un threatening to destroy South Korea, Cuba-US speedboat shootout, and Hungary deploying troops to energy facilities \u2014 it's a busy map."
+        "signal": "elevated",
+        "detail": "Pakistan has declared 'open war' with Afghanistan after bombing Kabul, US-Iran nuclear talks concluded with no deal but 'more talks ahead,' and the US military is briefing Trump on Iran strike options."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "Anthropic executives publicly musing about whether Claude might be 'alive' is philosophically spicy but not an immediate risk signal."
+        "signal": "high",
+        "detail": "Hacker News top post notes Anthropic 'ditched its core safety promise' even as it publicly resists Pentagon demands \u2014 suggesting safety commitments are under pressure from multiple directions simultaneously."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "New Scientist reports quantum computers can now crack RSA encryption with 100,000 qubits \u2014 still a hard engineering problem, but the threshold just dropped tenfold."
+        "detail": "Antarctica's Hektoria Glacier retreated 8 kilometers in two months in the fastest glacier collapse ever recorded, a climate data point alarming enough to note even on a geopolitically noisy day."
       }
     ],
     "mood": [
-      "tense",
-      "ticking",
-      "volatile",
-      "crowded",
-      "brinkmanship"
+      "fractious",
+      "escalatory",
+      "principled-or-foolish",
+      "unresolved",
+      "pressurized"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-02-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the nose cone and forward fuselage of a massive GBU-57 Massive Ordnance Penetrator bunker buster bomb, olive drab casing dominating the composition, the enormous cylindrical surface etched with stenciled yellow technical markings and serial codes rendered in chunky pixel fonts, the metal skin reflecting a deep smoldering orange glow from an unseen source below, heavy navy shadow consuming the upper third of the frame, the curved steel surface showing faint scratched texture and riveted seams in careful 16-bit dithering, at the extreme left edge a sliver of matte black B-2 flying wing undercarriage is visible, barely implied, angular and batlike, at the right edge the ghostly reflection in the polished nose cone distorts a miniaturized mirror image of open blue-green water and a distant carrier strike group silhouette with island superstructure, the reflection rendered in cold teal and grey pixels crushed under the dominant warmth of the orange-smoked ambient light, deep navy darkness bleeds in from all corners vignetting the frame, the overall palette is smoldering orange against crushing navy, smoke-filtered warmth, the single object communicates immense weight and latent devastation through scale and stillness alone, no text, no antialiasing, 16-bit SNES pixel art.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-26.png"
+    "card_image": "doom-card-2026-02-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, wide establishing shot looking through floor-to-ceiling glass windows of a darkened San Francisco high-rise office, the city skyline pressing against the fog-heavy darkness outside, the Bay Bridge a faint amber smear in the far distance, deep navy shadows dominating the interior, a lone figure in a plain collared shirt seated at a desk strewn with thick document stacks bearing official government seals and unsigned contract pages, the amber-orange glow of a laptop displaying a distinctive AI interface logo casting warm threatening light upward across the scene, on one monitor a matte gray angular drone silhouette rendered as a schematic diagram, on another screen a cascade of facial recognition overlays scrolling over blurred civilian portraits, a wall clock mounted in deep shadow showing hands approaching five, an institutional document with a pentagonal seal and bold stamped text sits prominently at the desk's edge with a stark red line drawn diagonally across its face, outside the window the city fog swallows the skyline whole, smoldering orange bleeds through navy darkness, every shadow feels compressed and airless, the weight of a deadline filling the empty room, no antialiasing, no text rendered legibly, SNES 16-bit pixel palette, cinematic stillness charged with bureaucratic dread.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-27.png"
   },
   "dawn": {
-    "percentage": 62.3,
-    "driver": "UN approves first carbon credits under Paris Agreement market mechanism. Paris Agreement's carbon credits enable cross-border trade to support emissions reduction and climate goals worldwide.",
-    "category": "Cooperation",
-    "blurb": "THE WORLD JUST AGREED ON A PRICE FOR THE PLANET",
-    "summary": "In a week shadowed by nuclear brinkmanship and AI war-gaming, 190+ nations quietly did something remarkable: they agreed on the first functioning carbon credit system under the Paris Agreement, creating a real cross-border market for emissions reductions. This is years of painstaking multilateral diplomacy finally bearing fruit \u2014 proof that cooperative global governance isn't dead, just slow. When the doom signals are loudest, the quiet infrastructure of a livable future keeps getting built.",
+    "percentage": 60.6,
+    "driver": "Stem cell patch reverses brain damage in fetuses with spina bifida.",
+    "category": "Medicine",
+    "blurb": "HEALING BEGINS BEFORE BIRTH",
+    "summary": "In a week dominated by war drums and nuclear brinkmanship, science quietly delivered something extraordinary: a stem cell patch derived from donated placental tissue that reverses brain damage in unborn children with spina bifida. This isn't incremental progress \u2014 it's regenerative medicine working at the most fundamental moment of human development. While headlines track missiles and ultimatums, researchers are engineering second chances for children who haven't yet drawn their first breath.",
     "factors": [
       {
-        "name": "Environment",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "The Paris Agreement carbon credit mechanism finally has teeth \u2014 a functioning international market that puts a tradeable price on emissions reductions across borders."
+        "detail": "Stem cell patches successfully reversing fetal brain damage represent a genuine paradigm shift in prenatal medicine, moving from damage management to active repair."
       },
       {
         "name": "Cooperation",
-        "signal": "blazing",
-        "detail": "US-Iran nuclear talks entered a third round in Geneva today, showing that even deeply adversarial nations keep choosing negotiation over escalation."
-      },
-      {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "A shingles vaccine was found to slow biological aging and reduce inflammation in a large study of 3,800 Americans \u2014 a drug already in millions of medicine cabinets doing double duty."
+        "signal": "glimmer",
+        "detail": "US-Iran nuclear talks in Geneva wrapped with 'significant progress' reported by mediators, keeping diplomatic channels open despite escalating rhetoric."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "A singing Chicago mailman went viral after delivering a song \u2014 and comfort \u2014 to a widow who had just lost her husband of 50 years."
+        "signal": "bright",
+        "detail": "Ukrainian women in their 50s and 60s have formed a cheerleading squad to cope with four years of war, choosing joy and community as deliberate acts of resistance."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "Scientists have made a breakthrough on green hydrogen's core cost and chemical problems, with an EU-backed project eliminating reliance on harmful forever chemicals in production."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Brazil convicted the politician brothers who ordered the murder of Marielle Franco, delivering justice eight years on for a gay Black woman whose killing once seemed destined to go unpunished."
+        "signal": "glimmer",
+        "detail": "Anthropic publicly refused Pentagon demands to remove AI safeguards for lethal autonomous weapons, with Google workers simultaneously organizing their own red lines \u2014 a rare moment of the tech industry asserting ethical limits under intense pressure."
       }
     ],
     "mood": [
-      "momentum",
+      "breakthrough",
+      "regenerative",
       "resilient",
-      "collaborative",
       "hopeful",
-      "persistent"
+      "pioneering"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-02-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A rural Myanmar village kitchen interior viewed from inside, the far wall open to a blazing golden-amber dawn sky beyond the forest treeline, dense tropical canopy standing tall and intact against the radiant horizon, warm teal light bleeding upward into deep amber at the threshold between forest and sky. The entire room is backlit by this dual glow \u2014 the magnificent dawn outside and the small controlled orange ember-heart of an efficient cookstove burning in the foreground. Two silhouetted figures dominate the composition: a woman in a traditional longyi crouching beside the compact stove, her silhouette clean and upright, and a small girl beside her, both rendered as pure dark shapes against the luminous backdrop. The cookstove firebox glows vivid orange-gold at its narrow combustion chamber, a second small sun casting warm light forward onto earthen floor. Above the figures, where smoke would have been, the air is clear \u2014 haze dissolving upward into open light. A modest pile of unburned firewood sits to one side, untouched. Through the open wall, the intact forest edge glows teal-green against amber sky. An arc of gold light curves faintly across the sky like a trade route, connecting two distant illuminated points. Long dramatic side-shadows stretch across the floor. Deep golden hour amber and warm teal. Radiant, intimate, triumphant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-26.png"
+    "card_image": "dawn-card-2026-02-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking dramatically upward from the grass of a sun-drenched backyard, the entire scene bathed in deep golden hour amber, long shadows stretching across blades of grass rendered in warm teal and olive pixel clusters. The sky above is a radiant gradient of amber to deep cyan, side-lit with volumetric golden rays filtering through the silhouetted leaves of a backyard tree overhead. Dominating the upper frame, seen from directly below, a small boy with sneakers is caught mid-leap against the glowing sky, both feet off the ground, arms flung wide, his silhouette a triumphant arch against the amber light \u2014 the underside of pure joy viewed from the earth. To one side, partially visible from this low angle, a woman stands frozen with one hand pressed to her chest, her figure backlit in molten gold. Embedded in the lower corner of the frame, small and luminous against the warm teal shadows of the grass, a ghostly pixel-rendered fetal MRI scan glows \u2014 tiny brain cross-sections in teal and white, cerebellum sitting correctly in the skull. Beside it, nearly invisible in the grass, a translucent pale cream patch the size of a fingertip catches the golden light, glistening. Warm teal and deep amber dominate every pixel. Radiant. Side-lit. Quiet triumph.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-27.png"
   }
 }
