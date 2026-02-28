@@ -1991,5 +1991,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking dramatically upward from the grass of a sun-drenched backyard, the entire scene bathed in deep golden hour amber, long shadows stretching across blades of grass rendered in warm teal and olive pixel clusters. The sky above is a radiant gradient of amber to deep cyan, side-lit with volumetric golden rays filtering through the silhouetted leaves of a backyard tree overhead. Dominating the upper frame, seen from directly below, a small boy with sneakers is caught mid-leap against the glowing sky, both feet off the ground, arms flung wide, his silhouette a triumphant arch against the amber light \u2014 the underside of pure joy viewed from the earth. To one side, partially visible from this low angle, a woman stands frozen with one hand pressed to her chest, her figure backlit in molten gold. Embedded in the lower corner of the frame, small and luminous against the warm teal shadows of the grass, a ghostly pixel-rendered fetal MRI scan glows \u2014 tiny brain cross-sections in teal and white, cerebellum sitting correctly in the skull. Beside it, nearly invisible in the grass, a translucent pale cream patch the size of a fingertip catches the golden light, glistening. Warm teal and deep amber dominate every pixel. Radiant. Side-lit. Quiet triumph.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-27.png"
     }
+  },
+  {
+    "date": "2026-02-28",
+    "generated_at": "2026-02-28T11:19:09.753993+00:00",
+    "doom": {
+      "percentage": 70.0,
+      "raw_percentage": 71.4,
+      "driver": "Trump announces 'major combat operations' in Iran. Israel and the U.S. have launched strikes against Iran, with explosions reported in Tehran and air raid sirens sounding across Israel.",
+      "category": "Geopolitics",
+      "blurb": "OPERATION EPIC FURY IS VERY MUCH HAPPENING",
+      "summary": "The United States and Israel have launched joint strikes on Iran \u2014 dubbed 'Operation Epic Fury,' which sounds like a energy drink but is in fact a shooting war \u2014 with Trump confirming 'major combat operations' are underway and Iran already retaliating with missiles toward Israel and strikes on US bases in Bahrain. Explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE, meaning the entire Gulf is now a participant whether it wanted to be or not. This is not a continuation of existing tensions; this is the tensions arriving at their destination.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active US-Israel war with Iran underway, Iranian retaliatory strikes hitting US bases in Bahrain and missiles targeting Israel \u2014 a multi-front shooting war in the world's most oil-critical region."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "OpenAI immediately signed a Pentagon classified-network deal hours after Anthropic was blacklisted, meaning the AI-military marriage is proceeding \u2014 just with a different AI at the altar."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump banning Anthropic from government and Hegseth designating it a 'supply chain risk' signals the executive branch is now actively weaponizing procurement policy to punish AI safety holdouts."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "high",
+          "detail": "Iran's nuclear program was the stated casus belli for the strikes; if Iranian leadership feels existential, the calculus around its nuclear ambitions \u2014 and those of regional observers like Saudi Arabia \u2014 shifts dramatically."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Pakistan's defense minister declared 'open war' with Afghanistan the same day the US attacked Iran, meaning two separate active wars involving nuclear-adjacent states ignited on the same 24-hour news cycle."
+        }
+      ],
+      "mood": [
+        "escalation",
+        "combustion",
+        "vertigo",
+        "historic",
+        "dread"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-02-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened Tehran apartment looking outward through a cracked concrete window frame, the room behind swallowed in near-black shadow with only hellish crimson light bleeding in from outside, the window revealing Tehran's sprawling skyline bathed in deep red and amber hellglow, the slender needle silhouette of the Milad Tower rising against a sky choked with massive billowing smoke columns of black and deep orange mushrooming upward from multiple points across the city, the snow-capped Alborz mountain peaks barely visible as a ghostly dark violet ridge behind the haze, the apartment interior details caught in reflected crimson \u2014 a cracked plaster wall, the edge of a wooden chair, shattered glass on the floor catching the hellish light like scattered embers, the sky above the skyline streaked with thin white contrail arcs frozen mid-air curving upward at steep angles, the clouds of smoke dominating two-thirds of the frame pressing down with suffocating weight, extreme contrast between the pitch-black room interior and the apocalyptic red-orange-black inferno visible through the window, deep red and near-black color grading throughout, no antialiasing, no text.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-02-28.png"
+    },
+    "dawn": {
+      "percentage": 30.0,
+      "driver": "Croatia declared free of landmines after 31 years.",
+      "category": "Peace",
+      "blurb": "31 YEARS OF CLEARANCE. ONE NATION, FINALLY FREE.",
+      "summary": "On a day when the U.S. and Israel launched major combat operations against Iran and new wars are breaking out across multiple fronts, Croatia's declaration of being landmine-free stands as quiet, stubborn proof that peace is achievable \u2014 it just takes patience and relentless human effort. For 31 years, deminers walked fields inch by inch, reclaiming land that war had poisoned, so children could run where soldiers once bled. It is not a flashy breakthrough, but it is the kind of win that endures: a country that survived the 1990s Balkan wars has methodically, completely healed one of its deepest wounds.",
+      "factors": [
+        {
+          "name": "Peace",
+          "signal": "blazing",
+          "detail": "Croatia's full landmine clearance after three decades of painstaking demining is a landmark achievement in post-war recovery, showing that even the most persistent legacies of conflict can be fully overcome."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Thousands of deminers dedicated careers \u2014 and risked lives \u2014 to this goal, representing sustained collective commitment to a safer world rarely celebrated in headlines."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Russia and Ukraine agreed to a local truce to allow repairs at the Zaporizhzhia nuclear plant, a small but meaningful signal that even active combatants can find narrow agreements when the stakes are high enough."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New Scientist reports that frailty in older people can be meaningfully eased through stem cell infusions from young donors, targeting underlying causes rather than just symptoms."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Canada and India are actively repairing a strained diplomatic relationship, with PM Carney visiting Modi in a move both sides describe as a win-win \u2014 small proof that bilateral trust, once broken, can be rebuilt."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "healing",
+        "perseverance",
+        "liberation",
+        "renewal"
+      ],
+      "tier": 3,
+      "tier_name": "Warming Up",
+      "card_image": "dawn-card-2026-02-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view angled downward at 45 degrees, vast Croatian countryside landscape stretching across the entire frame \u2014 rolling sage-green meadows, patchwork agricultural fields, and dense forested hillsides bathed in pale golden morning light filtering through thin mist. The enormous landscape dominates completely, crisscrossed with the faint ghost-lines of old perimeter fencing now being dismantled. Scattered across the meadow below, tiny deminer figures in reinforced gear work methodically, pulling red skull-and-crossbones warning stakes from the sun-warmed earth, the removed signs lying flat in the grass like fallen soldiers. A loose cluster of wildflowers \u2014 yellows and whites \u2014 blooms in wild profusion exactly where a fence line once stood, vivid against the sage and gold. A tiny Croatian flag is raised on open ground near a cluster of minuscule officials. Boot prints trace fresh paths through soft soil where no foot stepped for thirty years. The entire scene glows with pale gold and sage green emerging through dissolving morning mist, gentle warmth building from the east, the endless liberated countryside stretching to a hazy horizon of limestone hills.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-02-28.png"
+    }
   }
 ]
