@@ -2044,5 +2044,100 @@
       "card_image": "dawn-card-2026-02-28.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view angled downward at 45 degrees, vast Croatian countryside landscape stretching across the entire frame \u2014 rolling sage-green meadows, patchwork agricultural fields, and dense forested hillsides bathed in pale golden morning light filtering through thin mist. The enormous landscape dominates completely, crisscrossed with the faint ghost-lines of old perimeter fencing now being dismantled. Scattered across the meadow below, tiny deminer figures in reinforced gear work methodically, pulling red skull-and-crossbones warning stakes from the sun-warmed earth, the removed signs lying flat in the grass like fallen soldiers. A loose cluster of wildflowers \u2014 yellows and whites \u2014 blooms in wild profusion exactly where a fence line once stood, vivid against the sage and gold. A tiny Croatian flag is raised on open ground near a cluster of minuscule officials. Boot prints trace fresh paths through soft soil where no foot stepped for thirty years. The entire scene glows with pale gold and sage green emerging through dissolving morning mist, gentle warmth building from the east, the endless liberated countryside stretching to a hazy horizon of limestone hills."
     }
+  },
+  {
+    "date": "2026-03-01",
+    "generated_at": "2026-03-01T11:21:23.507154+00:00",
+    "doom": {
+      "percentage": 77.1,
+      "raw_percentage": 78.4,
+      "driver": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next. Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support.",
+      "category": "Geopolitics",
+      "blurb": "DAY TWO: MISSILES IN DUBAI, MARKETS IN FREEFALL",
+      "summary": "Yesterday's 'major combat operations' have become today's full regional conflagration \u2014 Iran is firing at Dubai hotels, Doha, Manama, and Jerusalem simultaneously, while the IRGC vows 'fierce retaliation' for a supreme leader who's been in power since before most millennials were born. The Strait of Hormuz sits ominously over the global economy like a cork over a very expensive bottle, and OpenAI just signed a deal with the 'Department of War' while everyone was distracted by the actual war. Russia and China are diplomatically furious but militarily sidelined \u2014 which is arguably the only thing keeping this from a clean 90%.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active multi-front war: US-Israel vs Iran, with Iranian missiles hitting Gulf states, Dubai's port in flames, and no ceasefire in sight."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "OpenAI signed a deal with the Department of War while Anthropic faces a government ban \u2014 the AI-military complex is consolidating fast, mid-crisis."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Strikes launched without Congressional approval, Iran's government entering emergency transition, and X is drowning in disinformation about strike locations."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Hacked Iranian prayer app sending 'surrender' messages is a preview of AI-adjacent psyops deployed in real wartime conditions."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "high",
+          "detail": "Hormuz closure risk plus $100 oil projections could trigger a 1970s-style energy shock layered on top of an already active shooting war."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "precarious",
+        "historic",
+        "volatile",
+        "combustible"
+      ],
+      "tier": 8,
+      "tier_name": "Critical",
+      "card_image": "doom-card-2026-03-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a massive sandstorm and rain hybrid churns across the Persian Gulf at night, the atmosphere itself becoming the dominant subject, visibility collapsing into walls of ochre dust and black rain cutting horizontally across the frame, the Strait of Hormuz barely visible as a thin dark corridor dissolving into haze at the horizon. Through the obscuring storm, barely resolved shapes emerge: the vast dark silhouette of a Nimitz-class supercarrier sits heavy in the churning Gulf chop, its flight deck a smear of ember-orange exhaust glow bleeding into the surrounding murk, F/A-18 silhouettes crouched on catapults like coiled threats, indistinct through rain curtains. Closer to the Iranian coastline \u2014 a low jagged silhouette of desert bluffs and radar dish arrays rendered in deep ash grey \u2014 mobile TEL launchers sit on hardpan desert, their ballistic missiles canted upward at 45 degrees, half-swallowed by blowing dust, ominous in stillness. In the far distance, a walled compound in northern Tehran shows one corner crumbled, smoke rising into the storm and immediately torn horizontal by wind. Arleigh Burke destroyers cut through Gulf chop as dark wedge shapes, vertical launch cells glowing faint crimson from below. Oil tankers on the horizon are ghost shapes in the haze. The entire palette is crimson, ember-orange, and ash grey \u2014 no clean light source exists, only fire-glow filtered through atmospheric violence, crushing shadow density between every element, rain streaks rendered as white diagonal pixel lines across the whole frame."
+    },
+    "dawn": {
+      "percentage": 22.9,
+      "driver": "Scientists discover a bacterial kill switch and it could change the fight against superbugs. Researchers have now discovered that several unrelated viruses disable a key bacterial protein.",
+      "category": "Science",
+      "blurb": "NATURE'S OWN KILL SWITCH CRACKS THE SUPERBUG CODE",
+      "summary": "On a day when the headlines are dominated by war and regional catastrophe, scientists quietly handed humanity a potential weapon against one of its most persistent slow-motion killers: antibiotic-resistant bacteria. Researchers have identified a shared vulnerability across multiple bacterial strains \u2014 a protein that unrelated viruses have independently learned to disable, pointing toward an entirely new class of antibiotics. Drug-resistant superbugs kill hundreds of thousands annually and were projected to overtake cancer as a leading cause of death this century; this discovery, if it holds up, could reshape that trajectory entirely.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Discovering a conserved bacterial kill switch exploited by multiple independent viruses suggests a robust, evolutionarily validated antibiotic target that drug-resistant strains may struggle to escape."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Democratic lawmakers are demanding war powers legislation and congressional oversight, showing institutional checks on executive military action are still alive and contested."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "New Yorkers took to the streets to protest the Iran strikes within hours, demonstrating that civic conscience and the will to speak against war remain immediate and vigorous."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "The biodegradable milk-protein plastic developed at Flinders University \u2014 vanishing in 13 weeks \u2014 continues to circulate as a genuine materials science breakthrough amid the noise of war coverage."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Google's quantum-proofing of HTTPS by compressing post-quantum certificates from 15kB to 700 bytes means the internet's encryption backbone is quietly being hardened against future threats most people haven't even imagined yet."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "determined",
+        "hopeful",
+        "innovative"
+      ],
+      "tier": 3,
+      "tier_name": "Warming Up",
+      "card_image": "dawn-card-2026-03-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glowing molecular groove \u2014 the notch in the MurJ protein \u2014 rendered in ribbon-like curves of pale gold and sage green, luminous and warm as morning light pressing through laboratory glass. The groove dominates the frame, a small indentation shaped like a keyhole, its inner walls catching pale amber light that radiates outward into soft mist. Pressed into the groove from the left edge of the frame, a golden key-shaped Sgl protein molecule, geometric and precise, its tip just making contact with the lock \u2014 the moment of discovery frozen. The surrounding protein structure fans outward in layered ribbons of sage green and dusty blue, curling off into soft focus at the frame edges. Reflected faintly in the glossy surface of the molecular structure, barely visible as edge detail: the warm blur of a California laboratory window, a glowing monitor, two small silhouetted figures leaning forward together. In the deep background implied through color bleed alone, warm gold chainmail texture suggests the bacterial cell wall waiting to be breached. The entire palette is pale gold and sage green emerging through morning mist, gentle warmth building from the center of the groove outward, the kill switch on the edge of being thrown."
+    }
   }
 ]
