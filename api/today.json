@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-01",
-  "generated_at": "2026-03-01T11:21:23.507154+00:00",
+  "date": "2026-03-02",
+  "generated_at": "2026-03-02T11:33:32.533977+00:00",
   "doom": {
-    "percentage": 77.1,
-    "raw_percentage": 78.4,
-    "driver": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next. Iran's strategic allies Russia and China have made strong diplomatic protests, but analysts say neither is in a position to offer meaningful support.",
+    "percentage": 67.8,
+    "raw_percentage": 71.6,
+    "driver": "British military base in Cyprus targeted in suspected drone attack. The attack marks the first strike on a British military base in Cyprus since 1986, escalating regional tensions.",
     "category": "Geopolitics",
-    "blurb": "DAY TWO: MISSILES IN DUBAI, MARKETS IN FREEFALL",
-    "summary": "Yesterday's 'major combat operations' have become today's full regional conflagration \u2014 Iran is firing at Dubai hotels, Doha, Manama, and Jerusalem simultaneously, while the IRGC vows 'fierce retaliation' for a supreme leader who's been in power since before most millennials were born. The Strait of Hormuz sits ominously over the global economy like a cork over a very expensive bottle, and OpenAI just signed a deal with the 'Department of War' while everyone was distracted by the actual war. Russia and China are diplomatically furious but militarily sidelined \u2014 which is arguably the only thing keeping this from a clean 90%.",
+    "blurb": "THE WAR JUST HIT A NATO ALLY'S DOORSTEP",
+    "summary": "Iran's retaliatory strikes have now reached a British military installation in Cyprus \u2014 the first such attack since 1986 \u2014 while explosions light up Qatar, UAE, and Kuwait simultaneously. With three U.S. F-15s down to friendly fire, oil approaching $80 a barrel, and the Strait of Hormuz looking increasingly theoretical as a shipping lane, this conflict has graduated from 'Middle East crisis' to 'everyone's problem.' The DHS is now warning of lone-wolf attacks on U.S. soil, which is a sentence no one wanted to read on a Monday.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Active multi-front war: US-Israel vs Iran, with Iranian missiles hitting Gulf states, Dubai's port in flames, and no ceasefire in sight."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "OpenAI signed a deal with the Department of War while Anthropic faces a government ban \u2014 the AI-military complex is consolidating fast, mid-crisis."
+        "detail": "Iran's retaliatory strikes now span Cyprus, Kuwait, Qatar, UAE, and Israel simultaneously \u2014 the conflict is actively regionalizing into a multi-front war."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Strikes launched without Congressional approval, Iran's government entering emergency transition, and X is drowning in disinformation about strike locations."
+        "detail": "Congress is moving to challenge Trump's war powers, the UK has authorized U.S. use of British bases, and Iran's leadership succession remains dangerously unclear."
       },
       {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Hacked Iranian prayer app sending 'surrender' messages is a preview of AI-adjacent psyops deployed in real wartime conditions."
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "Claude hit #1 on the U.S. App Store \u2014 notable growth, but firmly background noise against an active shooting war."
       },
       {
         "name": "Wild Card",
-        "signal": "high",
-        "detail": "Hormuz closure risk plus $100 oil projections could trigger a 1970s-style energy shock layered on top of an already active shooting war."
+        "signal": "elevated",
+        "detail": "An Austin shooter was found with Iranian flag imagery, a prediction market trader made $553K on Khamenei's death, and the Strait of Hormuz closure could crater the global economy within days."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "No major AI alignment developments today \u2014 the humans are generating enough existential risk on their own."
       }
     ],
     "mood": [
       "escalating",
-      "precarious",
+      "sprawling",
+      "combustible",
       "historic",
-      "volatile",
-      "combustible"
+      "vertiginous"
     ],
-    "tier": 8,
-    "tier_name": "Critical",
-    "card_image": "doom-card-2026-03-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a massive sandstorm and rain hybrid churns across the Persian Gulf at night, the atmosphere itself becoming the dominant subject, visibility collapsing into walls of ochre dust and black rain cutting horizontally across the frame, the Strait of Hormuz barely visible as a thin dark corridor dissolving into haze at the horizon. Through the obscuring storm, barely resolved shapes emerge: the vast dark silhouette of a Nimitz-class supercarrier sits heavy in the churning Gulf chop, its flight deck a smear of ember-orange exhaust glow bleeding into the surrounding murk, F/A-18 silhouettes crouched on catapults like coiled threats, indistinct through rain curtains. Closer to the Iranian coastline \u2014 a low jagged silhouette of desert bluffs and radar dish arrays rendered in deep ash grey \u2014 mobile TEL launchers sit on hardpan desert, their ballistic missiles canted upward at 45 degrees, half-swallowed by blowing dust, ominous in stillness. In the far distance, a walled compound in northern Tehran shows one corner crumbled, smoke rising into the storm and immediately torn horizontal by wind. Arleigh Burke destroyers cut through Gulf chop as dark wedge shapes, vertical launch cells glowing faint crimson from below. Oil tankers on the horizon are ghost shapes in the haze. The entire palette is crimson, ember-orange, and ash grey \u2014 no clean light source exists, only fire-glow filtered through atmospheric violence, crushing shadow density between every element, rain streaks rendered as white diagonal pixel lines across the whole frame.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-01.png"
+    "tier": 7,
+    "tier_name": "Red Alert",
+    "card_image": "doom-card-2026-03-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, deep night over RAF Akrotiri's distinctive peninsula thumb of land jutting into the black Mediterranean Sea, viewed from ground level looking outward toward the water \u2014 the horizon is a hellish deep crimson and orange bloom from a fresh impact glow reflecting off the tarmac and limestone rock, backlighting everything into hard black silhouettes of extreme contrast, a white spherical radome dome rising massive against the burning sky at center-left, the jagged shredded outline of bent perimeter fencing with concertina wire tearing across the foreground as pure black lace against the red glow, scattered angular debris fragments of a delta-wing silhouette strewn across scarred blackened tarmac, a Sky Sabre missile launcher vehicle parked on the perimeter with vertical tubes angled skyward silhouetted sharp against the crimson horizon, RAF Land Rover racing across mid-ground trailing blue emergency light pulses, in the far distance the faint amber ghost-glow of Limassol across black water to the northeast, hardened aircraft shelter bunkers hulking as dark geometric masses along the right edge, stars visible in the upper sky where it fades from deep blood red to near-black void, no people visible only the machinery and scarred earth, suffocating darkness above crushing hellish ember glow below, 16-bit SNES pixel art, no text, no antialiasing",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-02.png"
   },
   "dawn": {
-    "percentage": 22.9,
-    "driver": "Scientists discover a bacterial kill switch and it could change the fight against superbugs. Researchers have now discovered that several unrelated viruses disable a key bacterial protein.",
-    "category": "Science",
-    "blurb": "NATURE'S OWN KILL SWITCH CRACKS THE SUPERBUG CODE",
-    "summary": "On a day when the headlines are dominated by war and regional catastrophe, scientists quietly handed humanity a potential weapon against one of its most persistent slow-motion killers: antibiotic-resistant bacteria. Researchers have identified a shared vulnerability across multiple bacterial strains \u2014 a protein that unrelated viruses have independently learned to disable, pointing toward an entirely new class of antibiotics. Drug-resistant superbugs kill hundreds of thousands annually and were projected to overtake cancer as a leading cause of death this century; this discovery, if it holds up, could reshape that trajectory entirely.",
+    "percentage": 32.2,
+    "driver": "New iron nanomaterial wipes out cancer cells without harming healthy tissue. Scientists at Oregon State University have engineered a powerful new nanomaterial that zeroes in on cancer cells and destroys them from the inside out. Designed to exploit cancer's unique chemistry\u2014it",
+    "category": "Medicine",
+    "blurb": "CANCER KILLER SPARES THE INNOCENT",
+    "summary": "Even as the world burns with war headlines, Oregon State scientists have achieved something quietly extraordinary: a nanomaterial that hunts cancer cells by exploiting their own chemistry, destroying them from within while leaving healthy tissue untouched. This is the kind of precision medicine breakthrough that decades of research has been building toward \u2014 targeted, elegant, humane. On a day when so much destruction feels indiscriminate, science offers the opposite: a weapon that knows exactly what it's fighting.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Discovering a conserved bacterial kill switch exploited by multiple independent viruses suggests a robust, evolutionarily validated antibiotic target that drug-resistant strains may struggle to escape."
+        "detail": "Oregon State's iron nanomaterial exploits cancer's unique biochemistry to selectively destroy malignant cells, a significant leap toward treatments with far fewer devastating side effects."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Democratic lawmakers are demanding war powers legislation and congressional oversight, showing institutional checks on executive military action are still alive and contested."
+        "detail": "India and Canada struck a uranium deal and set a $50bn bilateral trade target, showing two democracies deepening economic ties despite a turbulent geopolitical backdrop."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "New Yorkers took to the streets to protest the Iran strikes within hours, demonstrating that civic conscience and the will to speak against war remain immediate and vigorous."
+        "detail": "A 6-year-old boy coaching alongside his father on a high school basketball team became a viral moment of pure, uncomplicated joy amid a relentlessly grim news cycle."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "The biodegradable milk-protein plastic developed at Flinders University \u2014 vanishing in 13 weeks \u2014 continues to circulate as a genuine materials science breakthrough amid the noise of war coverage."
+        "signal": "glimmer",
+        "detail": "New crystal seeding methods have pushed perovskite solar cell efficiency to 23%, nudging low-cost solar power closer to mainstream grid viability."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Google's quantum-proofing of HTTPS by compressing post-quantum certificates from 15kB to 700 bytes means the internet's encryption backbone is quietly being hardened against future threats most people haven't even imagined yet."
+        "signal": "bright",
+        "detail": "EV battery lifespans are significantly exceeding early expectations, quietly undermining one of the last major consumer anxieties holding back the electric vehicle transition."
       }
     ],
     "mood": [
+      "precision",
+      "resilience",
+      "ingenuity",
       "breakthrough",
-      "resilient",
-      "determined",
-      "hopeful",
-      "innovative"
+      "hope"
     ],
-    "tier": 3,
-    "tier_name": "Warming Up",
-    "card_image": "dawn-card-2026-03-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glowing molecular groove \u2014 the notch in the MurJ protein \u2014 rendered in ribbon-like curves of pale gold and sage green, luminous and warm as morning light pressing through laboratory glass. The groove dominates the frame, a small indentation shaped like a keyhole, its inner walls catching pale amber light that radiates outward into soft mist. Pressed into the groove from the left edge of the frame, a golden key-shaped Sgl protein molecule, geometric and precise, its tip just making contact with the lock \u2014 the moment of discovery frozen. The surrounding protein structure fans outward in layered ribbons of sage green and dusty blue, curling off into soft focus at the frame edges. Reflected faintly in the glossy surface of the molecular structure, barely visible as edge detail: the warm blur of a California laboratory window, a glowing monitor, two small silhouetted figures leaning forward together. In the deep background implied through color bleed alone, warm gold chainmail texture suggests the bacterial cell wall waiting to be breached. The entire palette is pale gold and sage green emerging through morning mist, gentle warmth building from the center of the groove outward, the kill switch on the edge of being thrown.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-01.png"
+    "tier": 4,
+    "tier_name": "Rays Breaking",
+    "card_image": "dawn-card-2026-03-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened university research laboratory, deep shadows consuming the edges of the room, every light source artificial and deliberate \u2014 cool blue-white fluorescent strips overhead casting long clinical shadows across black benchtops, but the dominant glow is warm amber and rust-orange radiating from a central glass vial held aloft by a woman in a white lab coat, her face illuminated from below by the nanoagent's ember-like light, expression calm and certain. The vial glows like a lantern in the dark room, its amber light spilling across nearby centrifuge machines and microscopy equipment. On a large monitor screen behind her, false-color cellular imagery pulses in deep purple-black \u2014 tumor cells visibly collapsing inward, losing their borders, dissolving \u2014 while clusters of healthy cells nearby glow soft peach-rose, untouched and luminous. Floating in the microscopic visualization on screen, tiny geometric crystalline lattice structures in rust-orange and amber \u2014 iron nanoparticles shaped like glowing geodesic cages \u2014 crackle with electric-blue sparks and soft gold-green orbs erupting inside dark tumor mass. Two colleagues lean toward a second glowing screen at the far bench, their silhouettes backlit, pointing at regression data. The outside window behind them is pure night black. Warm amber and soft green dominate, shadows lifting only where the glowing science burns through the dark.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-02.png"
   }
 }

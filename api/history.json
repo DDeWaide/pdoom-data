@@ -2185,5 +2185,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glowing molecular groove \u2014 the notch in the MurJ protein \u2014 rendered in ribbon-like curves of pale gold and sage green, luminous and warm as morning light pressing through laboratory glass. The groove dominates the frame, a small indentation shaped like a keyhole, its inner walls catching pale amber light that radiates outward into soft mist. Pressed into the groove from the left edge of the frame, a golden key-shaped Sgl protein molecule, geometric and precise, its tip just making contact with the lock \u2014 the moment of discovery frozen. The surrounding protein structure fans outward in layered ribbons of sage green and dusty blue, curling off into soft focus at the frame edges. Reflected faintly in the glossy surface of the molecular structure, barely visible as edge detail: the warm blur of a California laboratory window, a glowing monitor, two small silhouetted figures leaning forward together. In the deep background implied through color bleed alone, warm gold chainmail texture suggests the bacterial cell wall waiting to be breached. The entire palette is pale gold and sage green emerging through morning mist, gentle warmth building from the center of the groove outward, the kill switch on the edge of being thrown.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-01.png"
     }
+  },
+  {
+    "date": "2026-03-02",
+    "generated_at": "2026-03-02T11:33:32.533977+00:00",
+    "doom": {
+      "percentage": 67.8,
+      "raw_percentage": 71.6,
+      "driver": "British military base in Cyprus targeted in suspected drone attack. The attack marks the first strike on a British military base in Cyprus since 1986, escalating regional tensions.",
+      "category": "Geopolitics",
+      "blurb": "THE WAR JUST HIT A NATO ALLY'S DOORSTEP",
+      "summary": "Iran's retaliatory strikes have now reached a British military installation in Cyprus \u2014 the first such attack since 1986 \u2014 while explosions light up Qatar, UAE, and Kuwait simultaneously. With three U.S. F-15s down to friendly fire, oil approaching $80 a barrel, and the Strait of Hormuz looking increasingly theoretical as a shipping lane, this conflict has graduated from 'Middle East crisis' to 'everyone's problem.' The DHS is now warning of lone-wolf attacks on U.S. soil, which is a sentence no one wanted to read on a Monday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran's retaliatory strikes now span Cyprus, Kuwait, Qatar, UAE, and Israel simultaneously \u2014 the conflict is actively regionalizing into a multi-front war."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Congress is moving to challenge Trump's war powers, the UK has authorized U.S. use of British bases, and Iran's leadership succession remains dangerously unclear."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Claude hit #1 on the U.S. App Store \u2014 notable growth, but firmly background noise against an active shooting war."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "An Austin shooter was found with Iranian flag imagery, a prediction market trader made $553K on Khamenei's death, and the Strait of Hormuz closure could crater the global economy within days."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major AI alignment developments today \u2014 the humans are generating enough existential risk on their own."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "sprawling",
+        "combustible",
+        "historic",
+        "vertiginous"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-03-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, deep night over RAF Akrotiri's distinctive peninsula thumb of land jutting into the black Mediterranean Sea, viewed from ground level looking outward toward the water \u2014 the horizon is a hellish deep crimson and orange bloom from a fresh impact glow reflecting off the tarmac and limestone rock, backlighting everything into hard black silhouettes of extreme contrast, a white spherical radome dome rising massive against the burning sky at center-left, the jagged shredded outline of bent perimeter fencing with concertina wire tearing across the foreground as pure black lace against the red glow, scattered angular debris fragments of a delta-wing silhouette strewn across scarred blackened tarmac, a Sky Sabre missile launcher vehicle parked on the perimeter with vertical tubes angled skyward silhouetted sharp against the crimson horizon, RAF Land Rover racing across mid-ground trailing blue emergency light pulses, in the far distance the faint amber ghost-glow of Limassol across black water to the northeast, hardened aircraft shelter bunkers hulking as dark geometric masses along the right edge, stars visible in the upper sky where it fades from deep blood red to near-black void, no people visible only the machinery and scarred earth, suffocating darkness above crushing hellish ember glow below, 16-bit SNES pixel art, no text, no antialiasing",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-02.png"
+    },
+    "dawn": {
+      "percentage": 32.2,
+      "driver": "New iron nanomaterial wipes out cancer cells without harming healthy tissue. Scientists at Oregon State University have engineered a powerful new nanomaterial that zeroes in on cancer cells and destroys them from the inside out. Designed to exploit cancer's unique chemistry\u2014it",
+      "category": "Medicine",
+      "blurb": "CANCER KILLER SPARES THE INNOCENT",
+      "summary": "Even as the world burns with war headlines, Oregon State scientists have achieved something quietly extraordinary: a nanomaterial that hunts cancer cells by exploiting their own chemistry, destroying them from within while leaving healthy tissue untouched. This is the kind of precision medicine breakthrough that decades of research has been building toward \u2014 targeted, elegant, humane. On a day when so much destruction feels indiscriminate, science offers the opposite: a weapon that knows exactly what it's fighting.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Oregon State's iron nanomaterial exploits cancer's unique biochemistry to selectively destroy malignant cells, a significant leap toward treatments with far fewer devastating side effects."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "India and Canada struck a uranium deal and set a $50bn bilateral trade target, showing two democracies deepening economic ties despite a turbulent geopolitical backdrop."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A 6-year-old boy coaching alongside his father on a high school basketball team became a viral moment of pure, uncomplicated joy amid a relentlessly grim news cycle."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New crystal seeding methods have pushed perovskite solar cell efficiency to 23%, nudging low-cost solar power closer to mainstream grid viability."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "EV battery lifespans are significantly exceeding early expectations, quietly undermining one of the last major consumer anxieties holding back the electric vehicle transition."
+        }
+      ],
+      "mood": [
+        "precision",
+        "resilience",
+        "ingenuity",
+        "breakthrough",
+        "hope"
+      ],
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-03-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened university research laboratory, deep shadows consuming the edges of the room, every light source artificial and deliberate \u2014 cool blue-white fluorescent strips overhead casting long clinical shadows across black benchtops, but the dominant glow is warm amber and rust-orange radiating from a central glass vial held aloft by a woman in a white lab coat, her face illuminated from below by the nanoagent's ember-like light, expression calm and certain. The vial glows like a lantern in the dark room, its amber light spilling across nearby centrifuge machines and microscopy equipment. On a large monitor screen behind her, false-color cellular imagery pulses in deep purple-black \u2014 tumor cells visibly collapsing inward, losing their borders, dissolving \u2014 while clusters of healthy cells nearby glow soft peach-rose, untouched and luminous. Floating in the microscopic visualization on screen, tiny geometric crystalline lattice structures in rust-orange and amber \u2014 iron nanoparticles shaped like glowing geodesic cages \u2014 crackle with electric-blue sparks and soft gold-green orbs erupting inside dark tumor mass. Two colleagues lean toward a second glowing screen at the far bench, their silhouettes backlit, pointing at regression data. The outside window behind them is pure night black. Warm amber and soft green dominate, shadows lifting only where the glowing science burns through the dark.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-02.png"
+    }
   }
 ]
