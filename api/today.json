@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-02",
-  "generated_at": "2026-03-02T11:33:32.533977+00:00",
+  "date": "2026-03-03",
+  "generated_at": "2026-03-03T11:33:05.110425+00:00",
   "doom": {
-    "percentage": 67.8,
-    "raw_percentage": 71.6,
-    "driver": "British military base in Cyprus targeted in suspected drone attack. The attack marks the first strike on a British military base in Cyprus since 1986, escalating regional tensions.",
+    "percentage": 67.6,
+    "raw_percentage": 71.4,
+    "driver": "Six US soldiers killed in Iranian strike on Kuwait base. The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
     "category": "Geopolitics",
-    "blurb": "THE WAR JUST HIT A NATO ALLY'S DOORSTEP",
-    "summary": "Iran's retaliatory strikes have now reached a British military installation in Cyprus \u2014 the first such attack since 1986 \u2014 while explosions light up Qatar, UAE, and Kuwait simultaneously. With three U.S. F-15s down to friendly fire, oil approaching $80 a barrel, and the Strait of Hormuz looking increasingly theoretical as a shipping lane, this conflict has graduated from 'Middle East crisis' to 'everyone's problem.' The DHS is now warning of lone-wolf attacks on U.S. soil, which is a sentence no one wanted to read on a Monday.",
+    "blurb": "AMERICANS DEAD. HORMUZ CLOSED. MARKETS SCREAMING.",
+    "summary": "Day four of Operation Epic Fury and the bill is coming due: six US soldiers dead in Kuwait, Iran's Revolutionary Guard has closed the Strait of Hormuz, oil supertanker rates hit all-time highs, and France just announced it's expanding its nuclear arsenal. The war has now officially produced American military casualties, a global energy crisis, and a nuclear deterrence reshuffling \u2014 all before Tuesday lunch. Trump is promising 'virtually unlimited' munitions while analysts quietly note the US could run low on interceptor missiles within weeks, which is a fun kind of math problem.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran's retaliatory strikes now span Cyprus, Kuwait, Qatar, UAE, and Israel simultaneously \u2014 the conflict is actively regionalizing into a multi-front war."
+        "detail": "Six US soldiers killed by Iranian strike on Kuwait base; Strait of Hormuz closed; Israeli strikes expanding to Beirut as Hezbollah opens a second front \u2014 the conflict is metastasizing rapidly."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "Reports confirm Anthropic's Claude AI was used for targeting in Operation Epic Fury, while OpenAI's Altman admits the Pentagon deal was 'opportunistic and sloppy' \u2014 AI is already inside the kill chain."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Congress is moving to challenge Trump's war powers, the UK has authorized U.S. use of British bases, and Iran's leadership succession remains dangerously unclear."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "Claude hit #1 on the U.S. App Store \u2014 notable growth, but firmly background noise against an active shooting war."
+        "detail": "France announcing nuclear arsenal expansion and extended deterrence to eight European allies is a significant reshaping of the nuclear posture landscape mid-active-war."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "An Austin shooter was found with Iranian flag imagery, a prediction market trader made $553K on Khamenei's death, and the Strait of Hormuz closure could crater the global economy within days."
+        "signal": "high",
+        "detail": "Iranian drone strikes on Qatar's LNG facilities and Saudi Arabia's Ras Tanura refinery have triggered a global energy shock, with India and Europe facing acute fuel crunches and markets in freefall."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "No major AI alignment developments today \u2014 the humans are generating enough existential risk on their own."
+        "signal": "medium",
+        "detail": "Claude's confirmed battlefield targeting role \u2014 reported amid Anthropic's stated opposition to lethal autonomous systems \u2014 raises serious questions about where ethical red lines actually hold under wartime pressure."
       }
     ],
     "mood": [
       "escalating",
-      "sprawling",
       "combustible",
-      "historic",
-      "vertiginous"
+      "cascading",
+      "uncontained",
+      "historic"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, deep night over RAF Akrotiri's distinctive peninsula thumb of land jutting into the black Mediterranean Sea, viewed from ground level looking outward toward the water \u2014 the horizon is a hellish deep crimson and orange bloom from a fresh impact glow reflecting off the tarmac and limestone rock, backlighting everything into hard black silhouettes of extreme contrast, a white spherical radome dome rising massive against the burning sky at center-left, the jagged shredded outline of bent perimeter fencing with concertina wire tearing across the foreground as pure black lace against the red glow, scattered angular debris fragments of a delta-wing silhouette strewn across scarred blackened tarmac, a Sky Sabre missile launcher vehicle parked on the perimeter with vertical tubes angled skyward silhouetted sharp against the crimson horizon, RAF Land Rover racing across mid-ground trailing blue emergency light pulses, in the far distance the faint amber ghost-glow of Limassol across black water to the northeast, hardened aircraft shelter bunkers hulking as dark geometric masses along the right edge, stars visible in the upper sky where it fades from deep blood red to near-black void, no people visible only the machinery and scarred earth, suffocating darkness above crushing hellish ember glow below, 16-bit SNES pixel art, no text, no antialiasing",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-02.png"
+    "card_image": "doom-card-2026-03-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the floor of a partially collapsed military bunker in Kuwait, the concrete ceiling above cracked open like a split skull, massive slabs of rebar-threaded debris hanging suspended mid-fall, the wound in the roof framing a narrow vertical slice of pre-dawn Kuwaiti sky \u2014 deep blood-red and near-black, hellish amber glow pulsing from somewhere beyond the frame, a long tapered ballistic missile silhouette descending through that torn sky aperture trailing a cone of white-hot plasma against the darkness above, the underside of collapsed ceiling tiles and twisted fluorescent tube fixtures dangling like broken ribs, a shattered field laptop and overturned tactical radio visible at the edges of the frame, a folded MultiCam jacket with an American flag patch caught beneath fallen concrete in the foreground, extreme upward forced perspective making the destruction feel infinite and crushing, fine concrete dust cascading downward like slow pale snow through the hellish glow, oil flare stacks burning orange visible as tiny distant flames through the breach in the ceiling, the entire scene bathed in deep crimson and near-black shadows with suffocating contrast, no ambient light except fire-source illumination from above and below, 16-bit SNES pixel art, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-03.png"
   },
   "dawn": {
-    "percentage": 32.2,
-    "driver": "New iron nanomaterial wipes out cancer cells without harming healthy tissue. Scientists at Oregon State University have engineered a powerful new nanomaterial that zeroes in on cancer cells and destroys them from the inside out. Designed to exploit cancer's unique chemistry\u2014it",
-    "category": "Medicine",
-    "blurb": "CANCER KILLER SPARES THE INNOCENT",
-    "summary": "Even as the world burns with war headlines, Oregon State scientists have achieved something quietly extraordinary: a nanomaterial that hunts cancer cells by exploiting their own chemistry, destroying them from within while leaving healthy tissue untouched. This is the kind of precision medicine breakthrough that decades of research has been building toward \u2014 targeted, elegant, humane. On a day when so much destruction feels indiscriminate, science offers the opposite: a weapon that knows exactly what it's fighting.",
+    "percentage": 32.4,
+    "driver": "India and Canada reset ties with 'landmark' nuclear energy deal. A host of deals, including one to supply India with uranium, is unveiled as Mark Carney meets Narendra Modi in Delhi.",
+    "category": "Cooperation",
+    "blurb": "TWO DEMOCRACIES CHOOSE PARTNERSHIP OVER ISOLATION",
+    "summary": "While the headlines are dominated by war and fracturing alliances, India and Canada quietly chose a different path \u2014 resetting a relationship that had been badly strained and signing a landmark nuclear energy deal that will supply clean power to over a billion people. In a week when diplomacy seems to be dying, Carney and Modi demonstrated that patient statecraft still works. It's a reminder that cooperation between major democracies didn't disappear \u2014 it just had to fight harder to make the front page.",
     "factors": [
       {
-        "name": "Science",
-        "signal": "blazing",
-        "detail": "Oregon State's iron nanomaterial exploits cancer's unique biochemistry to selectively destroy malignant cells, a significant leap toward treatments with far fewer devastating side effects."
-      },
-      {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "India and Canada struck a uranium deal and set a $50bn bilateral trade target, showing two democracies deepening economic ties despite a turbulent geopolitical backdrop."
+        "signal": "blazing",
+        "detail": "India and Canada's landmark nuclear energy deal represents a full diplomatic reset between two democracies that had been publicly feuding, signaling that bilateral repair is possible even in a fractured world."
       },
       {
-        "name": "Human Spirit",
+        "name": "Science",
         "signal": "bright",
-        "detail": "A 6-year-old boy coaching alongside his father on a high school basketball team became a viral moment of pure, uncomplicated joy amid a relentlessly grim news cycle."
+        "detail": "A bold new two-part therapy combining lab-grown insulin-producing cells with engineered immune protection could finally deliver a functional cure for type 1 diabetes."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "New crystal seeding methods have pushed perovskite solar cell efficiency to 23%, nudging low-cost solar power closer to mainstream grid viability."
+        "detail": "New research shows spreading crushed silicate rock from mine waste on farmland could absorb up to 1 billion tonnes of CO2 while also improving crop yields."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Iran's women's soccer team silently refused to sing the national anthem at the Asian Cup \u2014 a quiet, courageous act of protest broadcast to the world during a week of overwhelming darkness."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "EV battery lifespans are significantly exceeding early expectations, quietly undermining one of the last major consumer anxieties holding back the electric vehicle transition."
+        "signal": "glimmer",
+        "detail": "A wireless retinal implant restored meaningful vision to over 80% of participants blinded by age-related macular degeneration in a major international clinical trial."
       }
     ],
     "mood": [
-      "precision",
-      "resilience",
-      "ingenuity",
-      "breakthrough",
-      "hope"
+      "resilient",
+      "cooperative",
+      "hopeful",
+      "steadfast",
+      "constructive"
     ],
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened university research laboratory, deep shadows consuming the edges of the room, every light source artificial and deliberate \u2014 cool blue-white fluorescent strips overhead casting long clinical shadows across black benchtops, but the dominant glow is warm amber and rust-orange radiating from a central glass vial held aloft by a woman in a white lab coat, her face illuminated from below by the nanoagent's ember-like light, expression calm and certain. The vial glows like a lantern in the dark room, its amber light spilling across nearby centrifuge machines and microscopy equipment. On a large monitor screen behind her, false-color cellular imagery pulses in deep purple-black \u2014 tumor cells visibly collapsing inward, losing their borders, dissolving \u2014 while clusters of healthy cells nearby glow soft peach-rose, untouched and luminous. Floating in the microscopic visualization on screen, tiny geometric crystalline lattice structures in rust-orange and amber \u2014 iron nanoparticles shaped like glowing geodesic cages \u2014 crackle with electric-blue sparks and soft gold-green orbs erupting inside dark tumor mass. Two colleagues lean toward a second glowing screen at the far bench, their silhouettes backlit, pointing at regression data. The outside window behind them is pure night black. Warm amber and soft green dominate, shadows lifting only where the glowing science burns through the dark.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-02.png"
+    "card_image": "dawn-card-2026-03-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside the grand ceremonial hall of Hyderabad House, New Delhi \u2014 viewed from within the room looking outward through tall arched windows toward manicured lawns and mature shade trees bathed in warm amber afternoon light. High ceilings with ornate molding catch golden rays streaming through the windows, marble floors reflecting soft saffron and ivory tones, the outside world framed by the colonnade's elegant arches like a promise opening up. In the foreground, a wide polished mahogany table holds open formal agreement portfolios bearing official seals, small dark ceramic uranium fuel pellets arranged beside a circular cross-section diagram of a compact small modular reactor \u2014 its concentric rings visually echoing the Ashoka Chakra's 24-spoked wheel. Canadian maple-red and Indian tricolor flags flank the table on tall ceremonial poles. Two figures stand at the table in the midground \u2014 one in an ivory Nehru jacket with silver hair, one taller in a dark navy suit \u2014 hands extended toward each other across the documents in a gesture of resolution. Soft green from the garden outside bleeds through the windows, merging with warm amber interior light. Shadows lift toward the edges of the room, clarity and morning-clean brightness flooding the center of the frame.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-03.png"
   }
 }
