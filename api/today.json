@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-03",
-  "generated_at": "2026-03-03T11:33:05.110425+00:00",
+  "date": "2026-03-04",
+  "generated_at": "2026-03-04T11:30:32.028151+00:00",
   "doom": {
-    "percentage": 67.6,
-    "raw_percentage": 71.4,
-    "driver": "Six US soldiers killed in Iranian strike on Kuwait base. The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
+    "percentage": 62.4,
+    "raw_percentage": 61.7,
+    "driver": "Hundreds of drones target Kuwait, Iraq, Saudi Arabia, UAE amid Iran war. IRGC says the attacks are among its 'first powerful steps' as it continues strikes on US assets in Gulf countries.",
     "category": "Geopolitics",
-    "blurb": "AMERICANS DEAD. HORMUZ CLOSED. MARKETS SCREAMING.",
-    "summary": "Day four of Operation Epic Fury and the bill is coming due: six US soldiers dead in Kuwait, Iran's Revolutionary Guard has closed the Strait of Hormuz, oil supertanker rates hit all-time highs, and France just announced it's expanding its nuclear arsenal. The war has now officially produced American military casualties, a global energy crisis, and a nuclear deterrence reshuffling \u2014 all before Tuesday lunch. Trump is promising 'virtually unlimited' munitions while analysts quietly note the US could run low on interceptor missiles within weeks, which is a fun kind of math problem.",
+    "blurb": "IRAN CALLS THIS THE OPENING MOVE",
+    "summary": "The IRGC is explicitly framing hundreds of drones raining across Kuwait, Iraq, Saudi Arabia, and the UAE as merely their 'first powerful steps' \u2014 which is the kind of villain monologue that should concern everyone. Meanwhile South Korea's stock market circuit-breakered at -12%, an Iranian missile hit a US base in Qatar, Israel is threatening to assassinate whoever replaces Khamenei, and the US is evacuating diplomats. Day five of this war is somehow escalating from days one through four, which were themselves apocalyptically bad.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Six US soldiers killed by Iranian strike on Kuwait base; Strait of Hormuz closed; Israeli strikes expanding to Beirut as Hezbollah opens a second front \u2014 the conflict is metastasizing rapidly."
+        "detail": "Iran's IRGC explicitly calls mass drone strikes on four Gulf nations its 'first powerful steps,' signaling a deliberate, phased escalation strategy with no ceiling yet visible."
       },
       {
         "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Reports confirm Anthropic's Claude AI was used for targeting in Operation Epic Fury, while OpenAI's Altman admits the Pentagon deal was 'opportunistic and sloppy' \u2014 AI is already inside the kill chain."
+        "signal": "medium",
+        "detail": "GPT-5.3 Instant dropped quietly on Hacker News while the world was watching missiles \u2014 AI capability marches on regardless of what else is burning."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "France announcing nuclear arsenal expansion and extended deterrence to eight European allies is a significant reshaping of the nuclear posture landscape mid-active-war."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "high",
-        "detail": "Iranian drone strikes on Qatar's LNG facilities and Saudi Arabia's Ras Tanura refinery have triggered a global energy shock, with India and Europe facing acute fuel crunches and markets in freefall."
+        "detail": "Europe is failing to unite on the war, the US is evacuating diplomats, and Spain is openly defying Trump's trade threats \u2014 the western alliance is visibly fracturing under pressure."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "Claude's confirmed battlefield targeting role \u2014 reported amid Anthropic's stated opposition to lethal autonomous systems \u2014 raises serious questions about where ethical red lines actually hold under wartime pressure."
+        "signal": "low",
+        "detail": "The Iran war deepfake problem is already acute per The Verge, with floods of AI-generated war imagery flooding social media on day five of the conflict."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "Israel threatening to assassinate Iran's next Supreme Leader before one is even chosen introduces a destabilizing succession crisis into an already nuclear-adjacent conflict."
       }
     ],
     "mood": [
-      "escalating",
-      "combustible",
       "cascading",
-      "uncontained",
-      "historic"
+      "relentless",
+      "volatile",
+      "exhausted",
+      "precipice"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the floor of a partially collapsed military bunker in Kuwait, the concrete ceiling above cracked open like a split skull, massive slabs of rebar-threaded debris hanging suspended mid-fall, the wound in the roof framing a narrow vertical slice of pre-dawn Kuwaiti sky \u2014 deep blood-red and near-black, hellish amber glow pulsing from somewhere beyond the frame, a long tapered ballistic missile silhouette descending through that torn sky aperture trailing a cone of white-hot plasma against the darkness above, the underside of collapsed ceiling tiles and twisted fluorescent tube fixtures dangling like broken ribs, a shattered field laptop and overturned tactical radio visible at the edges of the frame, a folded MultiCam jacket with an American flag patch caught beneath fallen concrete in the foreground, extreme upward forced perspective making the destruction feel infinite and crushing, fine concrete dust cascading downward like slow pale snow through the hellish glow, oil flare stacks burning orange visible as tiny distant flames through the breach in the ceiling, the entire scene bathed in deep crimson and near-black shadows with suffocating contrast, no ambient light except fire-source illumination from above and below, 16-bit SNES pixel art, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-03.png"
+    "card_image": "doom-card-2026-03-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at 45-degree angle looking down across the Arabian Peninsula at night bleeding into pre-dawn, the vast flat desert geography stretching from the Persian Gulf coastline inland across Kuwait and Iraq, the Ras Tanura refinery complex visible as a cluster of silver-grey towers and spherical tanks along the turquoise-black Gulf water with orange flare stacks burning hellish columns upward, oil tankers anchored offshore rendered as tiny dark rectangles, the flat Kuwaiti desert scrubland spreading north showing the grid-pattern of a sprawling logistics base surrounded by perimeter wire, Baghdad's Tigris River floodplain glinting like a black serpent beyond date palm silhouettes, and above all of this a sky consumed by an overwhelming swarm of 230 delta-winged loitering munitions in mottled grey-brown, their formations covering the entire upper canvas like a plague of angular shadows, each drone tiny at this scale but collectively blotting out the stars, the color palette locked to deep crimson and near-black with hellish orange-red glow emanating from the refinery flares below casting upward light onto the drone undersides, extreme contrast between suffocating darkness and the molten industrial light sources, tiny human figures at base perimeters invisible against the vast geography, the scale of landscape crushing any individual presence, no text, no antialiasing",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-04.png"
   },
   "dawn": {
-    "percentage": 32.4,
-    "driver": "India and Canada reset ties with 'landmark' nuclear energy deal. A host of deals, including one to supply India with uranium, is unveiled as Mark Carney meets Narendra Modi in Delhi.",
-    "category": "Cooperation",
-    "blurb": "TWO DEMOCRACIES CHOOSE PARTNERSHIP OVER ISOLATION",
-    "summary": "While the headlines are dominated by war and fracturing alliances, India and Canada quietly chose a different path \u2014 resetting a relationship that had been badly strained and signing a landmark nuclear energy deal that will supply clean power to over a billion people. In a week when diplomacy seems to be dying, Carney and Modi demonstrated that patient statecraft still works. It's a reminder that cooperation between major democracies didn't disappear \u2014 it just had to fight harder to make the front page.",
+    "percentage": 37.6,
+    "driver": "Scientists just found the brain's hidden defense against Alzheimer's. A new study has uncovered why some brain cells are more resistant to Alzheimer's damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form harmful tangles.",
+    "category": "Medicine",
+    "blurb": "YOUR BRAIN HAS A SECRET WEAPON AGAINST ALZHEIMER'S",
+    "summary": "Even as war dominates every headline and markets spiral, science quietly delivered something extraordinary: researchers have identified a natural cellular cleanup system that strips out toxic tau protein before it can form the tangles that destroy Alzheimer's patients' minds. This isn't a drug \u2014 it's a defense mechanism our brains already possess, which means scientists now have a biological roadmap to amplify what nature built. On a week where humanity seems bent on tearing itself apart, the brain itself is showing us how to fight back against one of our oldest and cruelest enemies.",
     "factors": [
       {
-        "name": "Cooperation",
-        "signal": "blazing",
-        "detail": "India and Canada's landmark nuclear energy deal represents a full diplomatic reset between two democracies that had been publicly feuding, signaling that bilateral repair is possible even in a fractured world."
-      },
-      {
         "name": "Science",
-        "signal": "bright",
-        "detail": "A bold new two-part therapy combining lab-grown insulin-producing cells with engineered immune protection could finally deliver a functional cure for type 1 diabetes."
+        "signal": "blazing",
+        "detail": "Discovering a natural tau-clearance mechanism in the brain reframes Alzheimer's research from fighting damage to amplifying the body's own defenses."
       },
       {
-        "name": "Environment",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "New research shows spreading crushed silicate rock from mine waste on farmland could absorb up to 1 billion tonnes of CO2 while also improving crop yields."
+        "detail": "China called for protection of vessels in the Strait of Hormuz, a rare diplomatic signal urging de-escalation amid the widening Iran conflict."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Iran's women's soccer team silently refused to sing the national anthem at the Asian Cup \u2014 a quiet, courageous act of protest broadcast to the world during a week of overwhelming darkness."
+        "detail": "Iranian women's football players are competing in the Women's Asian Cup in Australia, representing their country with courage while fearing for families back home."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "NASA has locked in an April 1 target for Artemis II, keeping humanity's return to lunar orbit on track despite a world in turmoil."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "A wireless retinal implant restored meaningful vision to over 80% of participants blinded by age-related macular degeneration in a major international clinical trial."
+        "detail": "Lenovo's new ThinkPads scored a perfect 10/10 for repairability from iFixit, a small but meaningful win for the right-to-repair movement and longer-lasting electronics."
       }
     ],
     "mood": [
-      "resilient",
-      "cooperative",
-      "hopeful",
-      "steadfast",
-      "constructive"
+      "discovery",
+      "resilience",
+      "hope",
+      "breakthrough",
+      "perseverance"
     ],
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside the grand ceremonial hall of Hyderabad House, New Delhi \u2014 viewed from within the room looking outward through tall arched windows toward manicured lawns and mature shade trees bathed in warm amber afternoon light. High ceilings with ornate molding catch golden rays streaming through the windows, marble floors reflecting soft saffron and ivory tones, the outside world framed by the colonnade's elegant arches like a promise opening up. In the foreground, a wide polished mahogany table holds open formal agreement portfolios bearing official seals, small dark ceramic uranium fuel pellets arranged beside a circular cross-section diagram of a compact small modular reactor \u2014 its concentric rings visually echoing the Ashoka Chakra's 24-spoked wheel. Canadian maple-red and Indian tricolor flags flank the table on tall ceremonial poles. Two figures stand at the table in the midground \u2014 one in an ivory Nehru jacket with silver hair, one taller in a dark navy suit \u2014 hands extended toward each other across the documents in a gesture of resolution. Soft green from the garden outside bleeds through the windows, merging with warm amber interior light. Shadows lift toward the edges of the room, clarity and morning-clean brightness flooding the center of the frame.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-03.png"
+    "card_image": "dawn-card-2026-03-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A neuroscience laboratory interior seen through a rain-lashed floor-to-ceiling window, soft amber streetlight refracting through rivulets of water on the glass, fog pressing against the outside world and dissolving the city beyond into warm golden halos \u2014 the storm is the frame through which everything inside is perceived. Within this rain-filtered atmosphere, a clean white lab bench glows with quiet life: small transparent culture dishes filled with pale golden nutrient liquid cradle branching neuron networks that pulse with soft bioluminescent amber-green light, their delicate root-like filaments spreading like frost or lightning captured in miniature. Beside them, a large monitor displays a glowing genetic screening grid of hundreds of tested genes, one row blazing brilliant green \u2014 isolated, confirmed, victorious. A young researcher leans close to a microscope eyepiece, face lit from below by warm amber scope-light, one hand still resting on the instrument, the other frozen mid-gesture toward the glowing screen \u2014 the precise pixel of a discovery moment. Behind them, rain streams down the window in dark blue-grey curtains while inside the lab the contrast deepens: a molecular visualization floats as a glowing diagram on a secondary screen showing a barrel-shaped proteasome shredder surrounded by tagged tau proteins marked in bright amber, dark knotted tangle-clusters dissolving at its edges. Warm amber and soft green dominate, shadows lifting at every edge, morning clarity bleeding through storm.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-04.png"
   }
 }
