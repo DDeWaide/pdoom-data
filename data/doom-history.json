@@ -2424,5 +2424,100 @@
       "card_image": "dawn-card-2026-03-04.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A neuroscience laboratory interior seen through a rain-lashed floor-to-ceiling window, soft amber streetlight refracting through rivulets of water on the glass, fog pressing against the outside world and dissolving the city beyond into warm golden halos \u2014 the storm is the frame through which everything inside is perceived. Within this rain-filtered atmosphere, a clean white lab bench glows with quiet life: small transparent culture dishes filled with pale golden nutrient liquid cradle branching neuron networks that pulse with soft bioluminescent amber-green light, their delicate root-like filaments spreading like frost or lightning captured in miniature. Beside them, a large monitor displays a glowing genetic screening grid of hundreds of tested genes, one row blazing brilliant green \u2014 isolated, confirmed, victorious. A young researcher leans close to a microscope eyepiece, face lit from below by warm amber scope-light, one hand still resting on the instrument, the other frozen mid-gesture toward the glowing screen \u2014 the precise pixel of a discovery moment. Behind them, rain streams down the window in dark blue-grey curtains while inside the lab the contrast deepens: a molecular visualization floats as a glowing diagram on a secondary screen showing a barrel-shaped proteasome shredder surrounded by tagged tau proteins marked in bright amber, dark knotted tangle-clusters dissolving at its edges. Warm amber and soft green dominate, shadows lifting at every edge, morning clarity bleeding through storm."
     }
+  },
+  {
+    "date": "2026-03-05",
+    "generated_at": "2026-03-05T11:34:24.602940+00:00",
+    "doom": {
+      "percentage": 61.1,
+      "raw_percentage": 58.7,
+      "driver": "U.S. submarine sinks Iranian warship in Indian Ocean as conflict widens.",
+      "category": "Geopolitics",
+      "blurb": "FIRST TORPEDO IN EIGHTY YEARS",
+      "summary": "A U.S. submarine just torpedoed an Iranian warship in the Indian Ocean \u2014 the first such attack since World War II \u2014 while Iranian drones are hitting airports in Azerbaijan, explosions are reported in Qatar, and Canada is refusing to rule out joining the war. Day six of this conflict is doing exactly what day six of conflicts tends to do: expand. The US Senate tried to invoke war powers to rein Trump in and failed, which means the legal guardrails are off and the only speed is forward.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The conflict has jumped to the Indian Ocean with a torpedo attack, spread to Azerbaijan via Iranian drones, and drawn Canada closer to military involvement \u2014 classic multi-front escalation."
+        },
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "The US Senate failed to pass a war powers resolution to constrain Trump's Iran operation, removing a key institutional check on further escalation."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Wired and MIT Tech Review both report AI is being used for operational strike planning in the Iran war, and Anthropic is back negotiating a Pentagon deal after a public breakdown."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "France quietly updated its nuclear deterrence doctrine to 'forward deterrence' for the first time in 30 years \u2014 a significant strategic signal buried beneath the war headlines."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Dario Amodei publicly accused OpenAI of lying about a military AI deal, while Gemini faces a wrongful death lawsuit \u2014 AI governance is fracturing exactly when it matters most."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "sprawling",
+        "unchecked",
+        "historic",
+        "vertigo"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-03-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the tip of a Virginia-class submarine photonics mast barely piercing the black Indian Ocean surface at 0400 hours, the thin dark needle of anechoic-tiled metal occupying the vertical center of the frame, surrounded by an explosion of bioluminescent blue-green disturbance radiating outward from where steel meets water, the feather wake catching deep crimson hellfire reflections from somewhere beyond the frame's edge, the water itself rendered in near-black pixels with deep red undertones rising from below as if the ocean floor is burning, the mast's rubber-textured surface shown in extreme pixel detail \u2014 matte pebbled black tiles against the churning surface, a faint orange-white contrail glow reflected in the disturbed water suggesting something has already departed into the sky above frame, the horizon implied only through a sliver at the top edge where black water meets absolute darkness, tropical haze reducing the crescent moon to a smeared pale suggestion, the crushing depth below implied by the gradient of the water darkening to pure void black at the bottom of the frame, deep red and near-black palette throughout, hellish underlighting, maximum contrast, no text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 38.9,
+      "driver": "New drug cuts seizures by up to 91% in children with rare epilepsy. A new experimental drug is showing remarkable promise for children with Dravet syndrome, a severe genetic form of epilepsy. In clinical trials, the treatment zorevunersen cut seizures by as much as 91%",
+      "category": "Medicine",
+      "blurb": "91% FEWER SEIZURES FOR KIDS WITH DRAVET SYNDROME",
+      "summary": "While the world watches missiles and warships, a clinical trial quietly delivered news that will change the lives of families who've spent years watching their children suffer through relentless seizures. Zorevunersen reduced seizures in Dravet syndrome patients by up to 91% \u2014 a condition so severe it has long defeated most treatments. On a day when pDoom sits at 61.1%, this is the kind of human achievement that reminds us: the labs never stop, the researchers never quit, and the children who couldn't be protected before may now have a real chance.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 91% seizure reduction in Dravet syndrome clinical trials represents a generational leap for one of childhood epilepsy's most devastating diagnoses."
+        },
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "GLP-1 drugs like Ozempic are also showing new evidence of protecting the heart after heart attacks, expanding their therapeutic promise well beyond weight loss."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "China announced it will send a special envoy to mediate the US-Israel-Iran war, representing one of the few diplomatic off-ramps visible in an otherwise escalating conflict."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Papua New Guinea launched a weapons buyback and amnesty program, a community-level signal that people are choosing peace over violence even amid escalating regional instability."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists analyzed Darwin's 200-year-old Gal\u00e1pagos specimens using lasers without opening the jars \u2014 a feat of non-destructive discovery that feels like history and future science shaking hands."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "hope",
+        "healing",
+        "tenacious"
+      ],
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-03-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A pediatric hospital room at Great Ormond Street Hospital, London, flooded with warm amber morning light blazing through a vast floor-to-ceiling window, the light so intense it reduces everything in the foreground to rich dark silhouettes. The room interior is recognizable in silhouette only \u2014 child-height furniture, a mural visible on the far wall caught in peripheral light, a stuffed animal perched on a bed rail. Against the blazing amber and soft green-gold window glow, three dark silhouettes: a small child aged around six sitting upright in a hospital bed, alert and calm, holding what appears to be a toy, body language bright and awake; beside the child a parent seated in a pulled-close chair, one hand resting on the child's knee, head slightly bowed in quiet exhaled relief; and standing near the window a woman in a white coat \u2014 the researcher \u2014 holding a tablet showing a dramatic downward-curving seizure frequency chart, its screen emitting a faint blue-white glow within the silhouette. On a clinical tray in the foreground silhouette, a slender spinal needle and small pharmaceutical vial are faintly discernible. Warm amber and soft green morning light. Shadows lifting. Clarity arriving."
+    }
   }
 ]

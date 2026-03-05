@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-04",
-  "generated_at": "2026-03-04T11:30:32.028151+00:00",
+  "date": "2026-03-05",
+  "generated_at": "2026-03-05T11:34:24.602940+00:00",
   "doom": {
-    "percentage": 62.4,
-    "raw_percentage": 61.7,
-    "driver": "Hundreds of drones target Kuwait, Iraq, Saudi Arabia, UAE amid Iran war. IRGC says the attacks are among its 'first powerful steps' as it continues strikes on US assets in Gulf countries.",
+    "percentage": 61.1,
+    "raw_percentage": 58.7,
+    "driver": "U.S. submarine sinks Iranian warship in Indian Ocean as conflict widens.",
     "category": "Geopolitics",
-    "blurb": "IRAN CALLS THIS THE OPENING MOVE",
-    "summary": "The IRGC is explicitly framing hundreds of drones raining across Kuwait, Iraq, Saudi Arabia, and the UAE as merely their 'first powerful steps' \u2014 which is the kind of villain monologue that should concern everyone. Meanwhile South Korea's stock market circuit-breakered at -12%, an Iranian missile hit a US base in Qatar, Israel is threatening to assassinate whoever replaces Khamenei, and the US is evacuating diplomats. Day five of this war is somehow escalating from days one through four, which were themselves apocalyptically bad.",
+    "blurb": "FIRST TORPEDO IN EIGHTY YEARS",
+    "summary": "A U.S. submarine just torpedoed an Iranian warship in the Indian Ocean \u2014 the first such attack since World War II \u2014 while Iranian drones are hitting airports in Azerbaijan, explosions are reported in Qatar, and Canada is refusing to rule out joining the war. Day six of this conflict is doing exactly what day six of conflicts tends to do: expand. The US Senate tried to invoke war powers to rein Trump in and failed, which means the legal guardrails are off and the only speed is forward.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran's IRGC explicitly calls mass drone strikes on four Gulf nations its 'first powerful steps,' signaling a deliberate, phased escalation strategy with no ceiling yet visible."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "GPT-5.3 Instant dropped quietly on Hacker News while the world was watching missiles \u2014 AI capability marches on regardless of what else is burning."
+        "detail": "The conflict has jumped to the Indian Ocean with a torpedo attack, spread to Azerbaijan via Iranian drones, and drawn Canada closer to military involvement \u2014 classic multi-front escalation."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "Europe is failing to unite on the war, the US is evacuating diplomats, and Spain is openly defying Trump's trade threats \u2014 the western alliance is visibly fracturing under pressure."
+        "signal": "high",
+        "detail": "The US Senate failed to pass a war powers resolution to constrain Trump's Iran operation, removing a key institutional check on further escalation."
       },
       {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "The Iran war deepfake problem is already acute per The Verge, with floods of AI-generated war imagery flooding social media on day five of the conflict."
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "Wired and MIT Tech Review both report AI is being used for operational strike planning in the Iran war, and Anthropic is back negotiating a Pentagon deal after a public breakdown."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Israel threatening to assassinate Iran's next Supreme Leader before one is even chosen introduces a destabilizing succession crisis into an already nuclear-adjacent conflict."
+        "detail": "France quietly updated its nuclear deterrence doctrine to 'forward deterrence' for the first time in 30 years \u2014 a significant strategic signal buried beneath the war headlines."
+      },
+      {
+        "name": "Alignment",
+        "signal": "medium",
+        "detail": "Dario Amodei publicly accused OpenAI of lying about a military AI deal, while Gemini faces a wrongful death lawsuit \u2014 AI governance is fracturing exactly when it matters most."
       }
     ],
     "mood": [
-      "cascading",
-      "relentless",
-      "volatile",
-      "exhausted",
-      "precipice"
+      "escalating",
+      "sprawling",
+      "unchecked",
+      "historic",
+      "vertigo"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at 45-degree angle looking down across the Arabian Peninsula at night bleeding into pre-dawn, the vast flat desert geography stretching from the Persian Gulf coastline inland across Kuwait and Iraq, the Ras Tanura refinery complex visible as a cluster of silver-grey towers and spherical tanks along the turquoise-black Gulf water with orange flare stacks burning hellish columns upward, oil tankers anchored offshore rendered as tiny dark rectangles, the flat Kuwaiti desert scrubland spreading north showing the grid-pattern of a sprawling logistics base surrounded by perimeter wire, Baghdad's Tigris River floodplain glinting like a black serpent beyond date palm silhouettes, and above all of this a sky consumed by an overwhelming swarm of 230 delta-winged loitering munitions in mottled grey-brown, their formations covering the entire upper canvas like a plague of angular shadows, each drone tiny at this scale but collectively blotting out the stars, the color palette locked to deep crimson and near-black with hellish orange-red glow emanating from the refinery flares below casting upward light onto the drone undersides, extreme contrast between suffocating darkness and the molten industrial light sources, tiny human figures at base perimeters invisible against the vast geography, the scale of landscape crushing any individual presence, no text, no antialiasing",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-04.png"
+    "card_image": "doom-card-2026-03-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the tip of a Virginia-class submarine photonics mast barely piercing the black Indian Ocean surface at 0400 hours, the thin dark needle of anechoic-tiled metal occupying the vertical center of the frame, surrounded by an explosion of bioluminescent blue-green disturbance radiating outward from where steel meets water, the feather wake catching deep crimson hellfire reflections from somewhere beyond the frame's edge, the water itself rendered in near-black pixels with deep red undertones rising from below as if the ocean floor is burning, the mast's rubber-textured surface shown in extreme pixel detail \u2014 matte pebbled black tiles against the churning surface, a faint orange-white contrail glow reflected in the disturbed water suggesting something has already departed into the sky above frame, the horizon implied only through a sliver at the top edge where black water meets absolute darkness, tropical haze reducing the crescent moon to a smeared pale suggestion, the crushing depth below implied by the gradient of the water darkening to pure void black at the bottom of the frame, deep red and near-black palette throughout, hellish underlighting, maximum contrast, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-05.png"
   },
   "dawn": {
-    "percentage": 37.6,
-    "driver": "Scientists just found the brain's hidden defense against Alzheimer's. A new study has uncovered why some brain cells are more resistant to Alzheimer's damage than others. Researchers found a natural cleanup system that helps remove toxic tau protein before it can form harmful tangles.",
+    "percentage": 38.9,
+    "driver": "New drug cuts seizures by up to 91% in children with rare epilepsy. A new experimental drug is showing remarkable promise for children with Dravet syndrome, a severe genetic form of epilepsy. In clinical trials, the treatment zorevunersen cut seizures by as much as 91%",
     "category": "Medicine",
-    "blurb": "YOUR BRAIN HAS A SECRET WEAPON AGAINST ALZHEIMER'S",
-    "summary": "Even as war dominates every headline and markets spiral, science quietly delivered something extraordinary: researchers have identified a natural cellular cleanup system that strips out toxic tau protein before it can form the tangles that destroy Alzheimer's patients' minds. This isn't a drug \u2014 it's a defense mechanism our brains already possess, which means scientists now have a biological roadmap to amplify what nature built. On a week where humanity seems bent on tearing itself apart, the brain itself is showing us how to fight back against one of our oldest and cruelest enemies.",
+    "blurb": "91% FEWER SEIZURES FOR KIDS WITH DRAVET SYNDROME",
+    "summary": "While the world watches missiles and warships, a clinical trial quietly delivered news that will change the lives of families who've spent years watching their children suffer through relentless seizures. Zorevunersen reduced seizures in Dravet syndrome patients by up to 91% \u2014 a condition so severe it has long defeated most treatments. On a day when pDoom sits at 61.1%, this is the kind of human achievement that reminds us: the labs never stop, the researchers never quit, and the children who couldn't be protected before may now have a real chance.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Discovering a natural tau-clearance mechanism in the brain reframes Alzheimer's research from fighting damage to amplifying the body's own defenses."
+        "detail": "A 91% seizure reduction in Dravet syndrome clinical trials represents a generational leap for one of childhood epilepsy's most devastating diagnoses."
+      },
+      {
+        "name": "Medicine",
+        "signal": "blazing",
+        "detail": "GLP-1 drugs like Ozempic are also showing new evidence of protecting the heart after heart attacks, expanding their therapeutic promise well beyond weight loss."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "China called for protection of vessels in the Strait of Hormuz, a rare diplomatic signal urging de-escalation amid the widening Iran conflict."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Iranian women's football players are competing in the Women's Asian Cup in Australia, representing their country with courage while fearing for families back home."
+        "detail": "China announced it will send a special envoy to mediate the US-Israel-Iran war, representing one of the few diplomatic off-ramps visible in an otherwise escalating conflict."
       },
       {
         "name": "Environment",
         "signal": "quiet",
-        "detail": "NASA has locked in an April 1 target for Artemis II, keeping humanity's return to lunar orbit on track despite a world in turmoil."
+        "detail": "Papua New Guinea launched a weapons buyback and amnesty program, a community-level signal that people are choosing peace over violence even amid escalating regional instability."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Lenovo's new ThinkPads scored a perfect 10/10 for repairability from iFixit, a small but meaningful win for the right-to-repair movement and longer-lasting electronics."
+        "signal": "bright",
+        "detail": "Scientists analyzed Darwin's 200-year-old Gal\u00e1pagos specimens using lasers without opening the jars \u2014 a feat of non-destructive discovery that feels like history and future science shaking hands."
       }
     ],
     "mood": [
-      "discovery",
+      "breakthrough",
       "resilience",
       "hope",
-      "breakthrough",
-      "perseverance"
+      "healing",
+      "tenacious"
     ],
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A neuroscience laboratory interior seen through a rain-lashed floor-to-ceiling window, soft amber streetlight refracting through rivulets of water on the glass, fog pressing against the outside world and dissolving the city beyond into warm golden halos \u2014 the storm is the frame through which everything inside is perceived. Within this rain-filtered atmosphere, a clean white lab bench glows with quiet life: small transparent culture dishes filled with pale golden nutrient liquid cradle branching neuron networks that pulse with soft bioluminescent amber-green light, their delicate root-like filaments spreading like frost or lightning captured in miniature. Beside them, a large monitor displays a glowing genetic screening grid of hundreds of tested genes, one row blazing brilliant green \u2014 isolated, confirmed, victorious. A young researcher leans close to a microscope eyepiece, face lit from below by warm amber scope-light, one hand still resting on the instrument, the other frozen mid-gesture toward the glowing screen \u2014 the precise pixel of a discovery moment. Behind them, rain streams down the window in dark blue-grey curtains while inside the lab the contrast deepens: a molecular visualization floats as a glowing diagram on a secondary screen showing a barrel-shaped proteasome shredder surrounded by tagged tau proteins marked in bright amber, dark knotted tangle-clusters dissolving at its edges. Warm amber and soft green dominate, shadows lifting at every edge, morning clarity bleeding through storm.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-04.png"
+    "card_image": "dawn-card-2026-03-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A pediatric hospital room at Great Ormond Street Hospital, London, flooded with warm amber morning light blazing through a vast floor-to-ceiling window, the light so intense it reduces everything in the foreground to rich dark silhouettes. The room interior is recognizable in silhouette only \u2014 child-height furniture, a mural visible on the far wall caught in peripheral light, a stuffed animal perched on a bed rail. Against the blazing amber and soft green-gold window glow, three dark silhouettes: a small child aged around six sitting upright in a hospital bed, alert and calm, holding what appears to be a toy, body language bright and awake; beside the child a parent seated in a pulled-close chair, one hand resting on the child's knee, head slightly bowed in quiet exhaled relief; and standing near the window a woman in a white coat \u2014 the researcher \u2014 holding a tablet showing a dramatic downward-curving seizure frequency chart, its screen emitting a faint blue-white glow within the silhouette. On a clinical tray in the foreground silhouette, a slender spinal needle and small pharmaceutical vial are faintly discernible. Warm amber and soft green morning light. Shadows lifting. Clarity arriving.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-05.png"
   }
 }
