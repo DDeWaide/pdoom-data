@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-05",
-  "generated_at": "2026-03-05T11:34:24.602940+00:00",
+  "date": "2026-03-06",
+  "generated_at": "2026-03-06T11:29:06.523321+00:00",
   "doom": {
-    "percentage": 61.1,
-    "raw_percentage": 58.7,
-    "driver": "U.S. submarine sinks Iranian warship in Indian Ocean as conflict widens.",
+    "percentage": 64.0,
+    "raw_percentage": 63.7,
+    "driver": "The War on Iran Puts Global Chip Supplies and AI Expansion at Risk. From helium extraction in Qatar to shipping lanes in the Strait of Hormuz, the semiconductor industry depends on fragile links across the Gulf. Escalation could ripple through global chip production.",
     "category": "Geopolitics",
-    "blurb": "FIRST TORPEDO IN EIGHTY YEARS",
-    "summary": "A U.S. submarine just torpedoed an Iranian warship in the Indian Ocean \u2014 the first such attack since World War II \u2014 while Iranian drones are hitting airports in Azerbaijan, explosions are reported in Qatar, and Canada is refusing to rule out joining the war. Day six of this conflict is doing exactly what day six of conflicts tends to do: expand. The US Senate tried to invoke war powers to rein Trump in and failed, which means the legal guardrails are off and the only speed is forward.",
+    "blurb": "WAR REACHES THE SILICON SUPPLY CHAIN",
+    "summary": "Day seven of the Iran war and the blast radius keeps expanding: Israel is hitting Beirut and Tehran simultaneously, Iran is firing back, Spain is refusing US basing rights, and now analysts are flagging that the Gulf's chokepoints supply the helium and shipping lanes that keep the global chip industry alive. Meanwhile, the Pentagon has formally labeled Anthropic a 'supply chain risk' \u2014 which is either darkly ironic or perfectly on-brand for a week where every supply chain is a risk. Finland wants nukes, Maersk is suspending shipping services, and oil is climbing past $87. The world is not having a chill Friday.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "The conflict has jumped to the Indian Ocean with a torpedo attack, spread to Azerbaijan via Iranian drones, and drawn Canada closer to military involvement \u2014 classic multi-front escalation."
-      },
-      {
-        "name": "Governance",
-        "signal": "high",
-        "detail": "The US Senate failed to pass a war powers resolution to constrain Trump's Iran operation, removing a key institutional check on further escalation."
+        "detail": "Israel striking both Tehran and Beirut simultaneously while Iran retaliates, Spain refuses US basing rights, and Maersk suspends shipping routes \u2014 the conflict is actively metastasizing into a regional war with global economic tentacles."
       },
       {
         "name": "AI Capability",
         "signal": "elevated",
-        "detail": "Wired and MIT Tech Review both report AI is being used for operational strike planning in the Iran war, and Anthropic is back negotiating a Pentagon deal after a public breakdown."
+        "detail": "GPT-5.4 launches with expanded autonomous-agent capabilities the same week the Pentagon brands Anthropic a supply-chain risk, crystallizing a fault line between AI labs and the US military that nobody has a clean answer to."
+      },
+      {
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "The Anthropic-Pentagon standoff \u2014 formal supply-chain risk designation, lawsuit threats, and last-ditch CEO negotiations \u2014 signals that the US government's relationship with frontier AI developers is genuinely breaking down."
+      },
+      {
+        "name": "Nuclear",
+        "signal": "medium",
+        "detail": "Finland announcing plans to lift its decades-old ban on hosting nuclear weapons is a notable normalization of nuclear posture in Europe, driven by the changed security environment since Ukraine."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "France quietly updated its nuclear deterrence doctrine to 'forward deterrence' for the first time in 30 years \u2014 a significant strategic signal buried beneath the war headlines."
-      },
-      {
-        "name": "Alignment",
         "signal": "medium",
-        "detail": "Dario Amodei publicly accused OpenAI of lying about a military AI deal, while Gemini faces a wrongful death lawsuit \u2014 AI governance is fracturing exactly when it matters most."
+        "detail": "Kurdish opposition groups massing on Iran's border, Houthis weighing whether to enter the war, and Trump openly citing Venezuela as a 'regime change model' for Iran suggests the conflict's second-order effects are still accelerating."
       }
     ],
     "mood": [
       "escalating",
-      "sprawling",
-      "unchecked",
-      "historic",
-      "vertigo"
+      "cascading",
+      "brittle",
+      "combustible",
+      "uncontained"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-05.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the tip of a Virginia-class submarine photonics mast barely piercing the black Indian Ocean surface at 0400 hours, the thin dark needle of anechoic-tiled metal occupying the vertical center of the frame, surrounded by an explosion of bioluminescent blue-green disturbance radiating outward from where steel meets water, the feather wake catching deep crimson hellfire reflections from somewhere beyond the frame's edge, the water itself rendered in near-black pixels with deep red undertones rising from below as if the ocean floor is burning, the mast's rubber-textured surface shown in extreme pixel detail \u2014 matte pebbled black tiles against the churning surface, a faint orange-white contrail glow reflected in the disturbed water suggesting something has already departed into the sky above frame, the horizon implied only through a sliver at the top edge where black water meets absolute darkness, tropical haze reducing the crescent moon to a smeared pale suggestion, the crushing depth below implied by the gradient of the water darkening to pure void black at the bottom of the frame, deep red and near-black palette throughout, hellish underlighting, maximum contrast, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-05.png"
+    "card_image": "doom-card-2026-03-06.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, ground-level view standing on the deck of a loaded VLCC supertanker mid-transit through the Strait of Hormuz, the ship's massive dark gray hull stretching away into suffocating blackness, the water below a deep blood-red black reflecting hellish orange light from a distant gas flare stack burning on the Iranian coastline to the north, the strait's rocky brown coastal silhouette barely visible as a jagged dark edge against the near-black sky, a cluster of small low-profile fast attack craft \u2014 gray fiberglass hulls, razor-thin wakes \u2014 circling in tight formation in the middle distance, their presence implied by the white churn of phosphorescent bow waves catching the flare-glow, the long gray angular silhouette of an Arleigh Burke-class destroyer visible far starboard, its flat octagonal SPY-1 radar panel catching orange light against a sky with zero stars, all illumination from below \u2014 the burning flare stack, the destroyer's instrument glow, the ghostly iridescent oil slick patches shimmering blood-orange and deep crimson on the water's surface, in the extreme foreground a cryogenic stainless steel helium transport cylinder strapped to the supertanker deck catches the flare light, frost-rimmed and silver against the suffocating dark, extreme contrast, near-black shadows dominating ninety percent of the frame, hellish upwelling red-orange glow, no text, no antialiasing",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-06.png"
   },
   "dawn": {
-    "percentage": 38.9,
-    "driver": "New drug cuts seizures by up to 91% in children with rare epilepsy. A new experimental drug is showing remarkable promise for children with Dravet syndrome, a severe genetic form of epilepsy. In clinical trials, the treatment zorevunersen cut seizures by as much as 91%",
+    "percentage": 36.0,
+    "driver": "Just one dose of psilocybin relieves symptoms of OCD for months. Taking psilocybin \u2013 the psychedelic component of magic mushrooms \u2013 eased symptoms of obsessive compulsive disorder among people who did not respond to conventional treatments, and the effects lasted a",
     "category": "Medicine",
-    "blurb": "91% FEWER SEIZURES FOR KIDS WITH DRAVET SYNDROME",
-    "summary": "While the world watches missiles and warships, a clinical trial quietly delivered news that will change the lives of families who've spent years watching their children suffer through relentless seizures. Zorevunersen reduced seizures in Dravet syndrome patients by up to 91% \u2014 a condition so severe it has long defeated most treatments. On a day when pDoom sits at 61.1%, this is the kind of human achievement that reminds us: the labs never stop, the researchers never quit, and the children who couldn't be protected before may now have a real chance.",
+    "blurb": "ONE DOSE. MONTHS OF RELIEF. OCD MAY HAVE MET ITS MATCH.",
+    "summary": "In a week dominated by missiles and warships, a quiet revolution in mental health treatment is unfolding: a single dose of psilocybin delivered lasting OCD relief to patients who had exhausted conventional options. This matters enormously \u2014 OCD affects tens of millions worldwide, and treatment-resistant cases represent some of psychiatry's most stubborn frontiers. The psychedelic medicine renaissance, once dismissed as fringe science, is delivering real results for real suffering people, and no war can dim that light.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A 91% seizure reduction in Dravet syndrome clinical trials represents a generational leap for one of childhood epilepsy's most devastating diagnoses."
+        "detail": "Psilocybin's single-dose efficacy against treatment-resistant OCD represents a genuine paradigm shift in how psychiatry approaches stubborn neurological conditions."
       },
       {
-        "name": "Medicine",
-        "signal": "blazing",
-        "detail": "GLP-1 drugs like Ozempic are also showing new evidence of protecting the heart after heart attacks, expanding their therapeutic promise well beyond weight loss."
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Patients who had tried everything and found no relief are now experiencing months of freedom from debilitating symptoms \u2014 a profound human victory."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "China announced it will send a special envoy to mediate the US-Israel-Iran war, representing one of the few diplomatic off-ramps visible in an otherwise escalating conflict."
+        "detail": "The US and Venezuela restoring diplomatic ties, however transactionally motivated, reopens a channel that was completely closed \u2014 diplomacy still exists as a tool."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Papua New Guinea launched a weapons buyback and amnesty program, a community-level signal that people are choosing peace over violence even amid escalating regional instability."
+        "signal": "glimmer",
+        "detail": "Vanuatu pushed forward its UN climate resolution despite Trump opposition, demonstrating that small nations can hold major polluters accountable on the world stage."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Scientists analyzed Darwin's 200-year-old Gal\u00e1pagos specimens using lasers without opening the jars \u2014 a feat of non-destructive discovery that feels like history and future science shaking hands."
+        "detail": "An AI blood test detecting silent liver disease years before symptoms emerge could prevent millions of deaths from conditions that are currently invisible until it's too late."
       }
     ],
     "mood": [
       "breakthrough",
       "resilience",
-      "hope",
       "healing",
-      "tenacious"
+      "possibility",
+      "persistence"
     ],
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-05.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A pediatric hospital room at Great Ormond Street Hospital, London, flooded with warm amber morning light blazing through a vast floor-to-ceiling window, the light so intense it reduces everything in the foreground to rich dark silhouettes. The room interior is recognizable in silhouette only \u2014 child-height furniture, a mural visible on the far wall caught in peripheral light, a stuffed animal perched on a bed rail. Against the blazing amber and soft green-gold window glow, three dark silhouettes: a small child aged around six sitting upright in a hospital bed, alert and calm, holding what appears to be a toy, body language bright and awake; beside the child a parent seated in a pulled-close chair, one hand resting on the child's knee, head slightly bowed in quiet exhaled relief; and standing near the window a woman in a white coat \u2014 the researcher \u2014 holding a tablet showing a dramatic downward-curving seizure frequency chart, its screen emitting a faint blue-white glow within the silhouette. On a clinical tray in the foreground silhouette, a slender spinal needle and small pharmaceutical vial are faintly discernible. Warm amber and soft green morning light. Shadows lifting. Clarity arriving.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-05.png"
+    "card_image": "dawn-card-2026-03-06.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the floor of a Yale School of Medicine guided psychedelic session room, warm amber and gold light pouring through linen curtains overhead, the ceiling receding high above in soft earth tones. From this worm's-eye perspective the reclining chair looms dramatically above, its armrests stretching wide against the warm glow, a soft eye mask draped over one arm catching the amber light. A single small capsule rests on a wooden side table at the edge of frame, impossibly small against the towering intimacy of the room. Looking up past the relaxed open hands of a middle-aged participant in the chair, their jaw unclenched, a faint luminous green and amber glow emanates from their chest and upward toward the ceiling like warmth rising. Two calm therapist silhouettes flank the chair at the edges of the frame, leaning slightly forward, their figures tall and steady against the warm light. On the far wall above, a neuroscience brain diagram glows in amber and soft green with the default mode network lit like a lantern, new blue-green connection lines threading outward. Caramel-brown magic mushrooms with slender pale stems rest on a low shelf at the base of frame, their caps enormous from below. Warm amber and soft green palette throughout, morning clarity, shadows lifting, inner luminescence drifting upward toward a softly glowing ceiling.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-06.png"
   }
 }

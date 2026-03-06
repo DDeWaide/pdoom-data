@@ -2573,5 +2573,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. A pediatric hospital room at Great Ormond Street Hospital, London, flooded with warm amber morning light blazing through a vast floor-to-ceiling window, the light so intense it reduces everything in the foreground to rich dark silhouettes. The room interior is recognizable in silhouette only \u2014 child-height furniture, a mural visible on the far wall caught in peripheral light, a stuffed animal perched on a bed rail. Against the blazing amber and soft green-gold window glow, three dark silhouettes: a small child aged around six sitting upright in a hospital bed, alert and calm, holding what appears to be a toy, body language bright and awake; beside the child a parent seated in a pulled-close chair, one hand resting on the child's knee, head slightly bowed in quiet exhaled relief; and standing near the window a woman in a white coat \u2014 the researcher \u2014 holding a tablet showing a dramatic downward-curving seizure frequency chart, its screen emitting a faint blue-white glow within the silhouette. On a clinical tray in the foreground silhouette, a slender spinal needle and small pharmaceutical vial are faintly discernible. Warm amber and soft green morning light. Shadows lifting. Clarity arriving.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-05.png"
     }
+  },
+  {
+    "date": "2026-03-06",
+    "generated_at": "2026-03-06T11:29:06.523321+00:00",
+    "doom": {
+      "percentage": 64.0,
+      "raw_percentage": 63.7,
+      "driver": "The War on Iran Puts Global Chip Supplies and AI Expansion at Risk. From helium extraction in Qatar to shipping lanes in the Strait of Hormuz, the semiconductor industry depends on fragile links across the Gulf. Escalation could ripple through global chip production.",
+      "category": "Geopolitics",
+      "blurb": "WAR REACHES THE SILICON SUPPLY CHAIN",
+      "summary": "Day seven of the Iran war and the blast radius keeps expanding: Israel is hitting Beirut and Tehran simultaneously, Iran is firing back, Spain is refusing US basing rights, and now analysts are flagging that the Gulf's chokepoints supply the helium and shipping lanes that keep the global chip industry alive. Meanwhile, the Pentagon has formally labeled Anthropic a 'supply chain risk' \u2014 which is either darkly ironic or perfectly on-brand for a week where every supply chain is a risk. Finland wants nukes, Maersk is suspending shipping services, and oil is climbing past $87. The world is not having a chill Friday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Israel striking both Tehran and Beirut simultaneously while Iran retaliates, Spain refuses US basing rights, and Maersk suspends shipping routes \u2014 the conflict is actively metastasizing into a regional war with global economic tentacles."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GPT-5.4 launches with expanded autonomous-agent capabilities the same week the Pentagon brands Anthropic a supply-chain risk, crystallizing a fault line between AI labs and the US military that nobody has a clean answer to."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The Anthropic-Pentagon standoff \u2014 formal supply-chain risk designation, lawsuit threats, and last-ditch CEO negotiations \u2014 signals that the US government's relationship with frontier AI developers is genuinely breaking down."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "medium",
+          "detail": "Finland announcing plans to lift its decades-old ban on hosting nuclear weapons is a notable normalization of nuclear posture in Europe, driven by the changed security environment since Ukraine."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Kurdish opposition groups massing on Iran's border, Houthis weighing whether to enter the war, and Trump openly citing Venezuela as a 'regime change model' for Iran suggests the conflict's second-order effects are still accelerating."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "cascading",
+        "brittle",
+        "combustible",
+        "uncontained"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-03-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, ground-level view standing on the deck of a loaded VLCC supertanker mid-transit through the Strait of Hormuz, the ship's massive dark gray hull stretching away into suffocating blackness, the water below a deep blood-red black reflecting hellish orange light from a distant gas flare stack burning on the Iranian coastline to the north, the strait's rocky brown coastal silhouette barely visible as a jagged dark edge against the near-black sky, a cluster of small low-profile fast attack craft \u2014 gray fiberglass hulls, razor-thin wakes \u2014 circling in tight formation in the middle distance, their presence implied by the white churn of phosphorescent bow waves catching the flare-glow, the long gray angular silhouette of an Arleigh Burke-class destroyer visible far starboard, its flat octagonal SPY-1 radar panel catching orange light against a sky with zero stars, all illumination from below \u2014 the burning flare stack, the destroyer's instrument glow, the ghostly iridescent oil slick patches shimmering blood-orange and deep crimson on the water's surface, in the extreme foreground a cryogenic stainless steel helium transport cylinder strapped to the supertanker deck catches the flare light, frost-rimmed and silver against the suffocating dark, extreme contrast, near-black shadows dominating ninety percent of the frame, hellish upwelling red-orange glow, no text, no antialiasing",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-06.png"
+    },
+    "dawn": {
+      "percentage": 36.0,
+      "driver": "Just one dose of psilocybin relieves symptoms of OCD for months. Taking psilocybin \u2013 the psychedelic component of magic mushrooms \u2013 eased symptoms of obsessive compulsive disorder among people who did not respond to conventional treatments, and the effects lasted a",
+      "category": "Medicine",
+      "blurb": "ONE DOSE. MONTHS OF RELIEF. OCD MAY HAVE MET ITS MATCH.",
+      "summary": "In a week dominated by missiles and warships, a quiet revolution in mental health treatment is unfolding: a single dose of psilocybin delivered lasting OCD relief to patients who had exhausted conventional options. This matters enormously \u2014 OCD affects tens of millions worldwide, and treatment-resistant cases represent some of psychiatry's most stubborn frontiers. The psychedelic medicine renaissance, once dismissed as fringe science, is delivering real results for real suffering people, and no war can dim that light.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Psilocybin's single-dose efficacy against treatment-resistant OCD represents a genuine paradigm shift in how psychiatry approaches stubborn neurological conditions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Patients who had tried everything and found no relief are now experiencing months of freedom from debilitating symptoms \u2014 a profound human victory."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The US and Venezuela restoring diplomatic ties, however transactionally motivated, reopens a channel that was completely closed \u2014 diplomacy still exists as a tool."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Vanuatu pushed forward its UN climate resolution despite Trump opposition, demonstrating that small nations can hold major polluters accountable on the world stage."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "An AI blood test detecting silent liver disease years before symptoms emerge could prevent millions of deaths from conditions that are currently invisible until it's too late."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "healing",
+        "possibility",
+        "persistence"
+      ],
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-03-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the floor of a Yale School of Medicine guided psychedelic session room, warm amber and gold light pouring through linen curtains overhead, the ceiling receding high above in soft earth tones. From this worm's-eye perspective the reclining chair looms dramatically above, its armrests stretching wide against the warm glow, a soft eye mask draped over one arm catching the amber light. A single small capsule rests on a wooden side table at the edge of frame, impossibly small against the towering intimacy of the room. Looking up past the relaxed open hands of a middle-aged participant in the chair, their jaw unclenched, a faint luminous green and amber glow emanates from their chest and upward toward the ceiling like warmth rising. Two calm therapist silhouettes flank the chair at the edges of the frame, leaning slightly forward, their figures tall and steady against the warm light. On the far wall above, a neuroscience brain diagram glows in amber and soft green with the default mode network lit like a lantern, new blue-green connection lines threading outward. Caramel-brown magic mushrooms with slender pale stems rest on a low shelf at the base of frame, their caps enormous from below. Warm amber and soft green palette throughout, morning clarity, shadows lifting, inner luminescence drifting upward toward a softly glowing ceiling.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-06.png"
+    }
   }
 ]
