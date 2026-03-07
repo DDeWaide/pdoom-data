@@ -2614,5 +2614,100 @@
       "card_image": "dawn-card-2026-03-06.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the floor of a Yale School of Medicine guided psychedelic session room, warm amber and gold light pouring through linen curtains overhead, the ceiling receding high above in soft earth tones. From this worm's-eye perspective the reclining chair looms dramatically above, its armrests stretching wide against the warm glow, a soft eye mask draped over one arm catching the amber light. A single small capsule rests on a wooden side table at the edge of frame, impossibly small against the towering intimacy of the room. Looking up past the relaxed open hands of a middle-aged participant in the chair, their jaw unclenched, a faint luminous green and amber glow emanates from their chest and upward toward the ceiling like warmth rising. Two calm therapist silhouettes flank the chair at the edges of the frame, leaning slightly forward, their figures tall and steady against the warm light. On the far wall above, a neuroscience brain diagram glows in amber and soft green with the default mode network lit like a lantern, new blue-green connection lines threading outward. Caramel-brown magic mushrooms with slender pale stems rest on a low shelf at the base of frame, their caps enormous from below. Warm amber and soft green palette throughout, morning clarity, shadows lifting, inner luminescence drifting upward toward a softly glowing ceiling."
     }
+  },
+  {
+    "date": "2026-03-07",
+    "generated_at": "2026-03-07T11:20:08.166508+00:00",
+    "doom": {
+      "percentage": 61.3,
+      "raw_percentage": 58.7,
+      "driver": "US believes Russia is providing Iran with locations of American troops, sources say.",
+      "category": "Geopolitics",
+      "blurb": "RUSSIA FEEDING IRAN THE COORDINATES",
+      "summary": "A week into a war that already has drones hitting Dubai Airport and Israeli troops massing on Lebanon's border, we now learn Russia has allegedly been handing Iran GPS coordinates of American forces \u2014 which is either an act of proxy war or the opening credits of something much worse. Meanwhile Iran's president is calling unconditional surrender 'a dream they should take to their grave,' oil is up 35% in a week (a futures record dating to 1983), and the Strait of Hormuz remains closed. The escalation ladder now has Russia on a rung nobody expected.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Russia allegedly sharing US troop locations with Iran transforms a US-Israel-Iran conflict into a potential three-nuclear-power confrontation, while Israel pushes into Lebanon and airspace across the region collapses."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "The Pentagon's blacklisting of Anthropic and questions about AI-enabled mass surveillance of Americans are adding a parallel AI-governance crisis to an already chaotic week."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Capitol Hill is erupting over whether Trump's Iran strikes constitute a war requiring congressional authorization, while the FDA's vaccine chief exits and economic data shows an unexpected loss of 92,000 jobs."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Armed robots deployed on the Ukrainian battlefield and the Wired headline 'When AI Companies Go to War, Safety Gets Left Behind' signal that wartime pressures are actively eroding AI safety norms."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Gulf Stream models show signs of potential AMOC collapse just as Earth's warming rate reportedly doubled since 2014 \u2014 long-fuse threats compressing while everyone watches the Middle East burn."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "volatile",
+        "cascading",
+        "dread",
+        "unmoored"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-03-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened Russian intelligence operations room looking outward through a tall narrow window framed by heavy gold-trimmed drapes, deep crimson and near-black shadows consuming the room's ornate interior, a secure communications terminal glowing sickly red in the foreground casting hellish uplight across a cluttered desk surface covered in printed satellite imagery printouts showing Middle Eastern geography with coordinate overlays and marked position grids, the window framing a bleak Moscow winter exterior of grey-white sky and Kremlin architecture silhouetted against it, on the desk beside the terminal a tactical map of the Arabian Gulf region with American base positions circled in red, a second monitor displaying a top-down Planet Labs style satellite view of a flat Kuwaiti desert military installation with clinical grid overlays, the entire room suffused in extreme contrast between the deep black shadow volumes and the hellish terminal glow bleeding red across gold ornamental wall trim and heavy draped fabric, the composition pulling the eye from the intimate intelligence-gathering interior outward through the window toward the cold unreachable distance, no figures present, only the evidence of betrayal rendered in objects and glowing screens, 16-bit SNES style, no text, no antialiasing"
+    },
+    "dawn": {
+      "percentage": 38.7,
+      "driver": "Koalas survived a devastating population crash and their DNA is bouncing back.",
+      "category": "Environment",
+      "blurb": "SPECIES PULLS BACK FROM THE BRINK",
+      "summary": "Against a backdrop of war, economic contraction, and cascading crises, nature quietly delivers a counternarrative: koalas, once staring down genetic collapse after catastrophic population loss, are rebounding \u2014 and their DNA diversity is recovering with them. New genomic research shows that rapid population growth can actually help reverse the kind of inbreeding damage scientists feared might be permanent. It's a reminder that resilience isn't just a human trait, and that the natural world, given even half a chance, will fight to persist.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Genomic research confirms that koala DNA diversity is actively recovering, overturning assumptions that population bottlenecks cause irreversible genetic damage."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "A species-level rebound story cuts through the noise of global conflict with evidence that conservation efforts and natural resilience can bend the arc back toward survival."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Iowa sophomore Ava Smid scored 8 points in 19 seconds to win a state basketball semifinal \u2014 a small, joyful burst of human determination in a grim news week."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "FARC fighters in Colombia are now campaigning for ballots rather than waging war, marking a slow but real decade-long peace dividend from the 2016 accord."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists discovered a tiny ocean fungus that kills toxic algae responsible for harmful blooms, offering a potential biological tool against a growing environmental threat."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "recovery",
+        "renewal",
+        "perseverance",
+        "hope"
+      ],
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-03-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Australian bushland landscape dominates the frame, Queensland eucalyptus forest at golden dawn, long horizontal amber light rays cutting between pale silver-barked gum trees casting thin shadows across dry red earth, morning mist pooling in the middle distance, the enormous landscape stretching to a wide open sky blushed with warm gold and soft green. Tiny figures below: a sun-weathered field researcher crouching at the base of a gum tree looking upward into the canopy, binoculars around neck, dwarfed by the immensity of the forest. High in a eucalyptus fork, a robust grey-silver koala with thick fur clings solidly to a branch, a joey peeking from her pouch, rendered in warm amber pixel tones against waxy grey-green leaves catching the first light. Scattered across the landscape, 27 faintly glowing population dots pulse like tiny embers on the red earth, a constellation of recovery lighting up from within. Rising from the tree canopy like bioluminescent mist, DNA double helix strands rendered in warm gold and copper thread upward and interweave, gaining complexity and richness as they spiral, replacing thin pale strands on the left with densely braided luminous threads on the right. Warm amber and soft green palette throughout, shadows lifting, morning clarity arriving."
+    }
   }
 ]
