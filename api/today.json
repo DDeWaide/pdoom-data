@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-07",
-  "generated_at": "2026-03-07T11:20:08.166508+00:00",
+  "date": "2026-03-08",
+  "generated_at": "2026-03-08T10:45:27.070301+00:00",
   "doom": {
-    "percentage": 61.3,
+    "percentage": 60.8,
     "raw_percentage": 58.7,
-    "driver": "US believes Russia is providing Iran with locations of American troops, sources say.",
+    "driver": "Iran oil facilities hit for first time as war with US-Israel enters day 9. Attacks spark huge fires as they hit four storage facilities and an oil production transfer centre in Tehran and Alborz.",
     "category": "Geopolitics",
-    "blurb": "RUSSIA FEEDING IRAN THE COORDINATES",
-    "summary": "A week into a war that already has drones hitting Dubai Airport and Israeli troops massing on Lebanon's border, we now learn Russia has allegedly been handing Iran GPS coordinates of American forces \u2014 which is either an act of proxy war or the opening credits of something much worse. Meanwhile Iran's president is calling unconditional surrender 'a dream they should take to their grave,' oil is up 35% in a week (a futures record dating to 1983), and the Strait of Hormuz remains closed. The escalation ladder now has Russia on a rung nobody expected.",
+    "blurb": "THEY JUST SET THE OIL ON FIRE",
+    "summary": "Nine days in and the U.S.-Israel campaign has crossed a significant threshold: Iranian oil infrastructure is now burning for the first time, with four storage facilities and a production centre in flames. Meanwhile Iran's Assembly of Experts has quietly named Khamenei's successor, suggesting Tehran is digging in rather than folding \u2014 despite Trump publicly telling them to 'cry uncle.' Add a U.S. embassy bombing in Oslo, Israeli special forces killing 41 in Lebanon, Bahrain's desalination plant hit, and Kuwait's oil production being cut \u2014 this war is metastasizing faster than anyone's containment doctrine.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Russia allegedly sharing US troop locations with Iran transforms a US-Israel-Iran conflict into a potential three-nuclear-power confrontation, while Israel pushes into Lebanon and airspace across the region collapses."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "The Pentagon's blacklisting of Anthropic and questions about AI-enabled mass surveillance of Americans are adding a parallel AI-governance crisis to an already chaotic week."
+        "detail": "War enters day 9 with Iranian oil infrastructure struck for the first time, Gulf states reporting civilian infrastructure hits, and no signs of diplomatic off-ramp materializing."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Capitol Hill is erupting over whether Trump's Iran strikes constitute a war requiring congressional authorization, while the FDA's vaccine chief exits and economic data shows an unexpected loss of 92,000 jobs."
+        "detail": "Iran's Assembly of Experts announces a new Supreme Leader successor while Tehran vows no surrender, suggesting institutional continuity of the Islamic Republic despite military pressure."
       },
       {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Armed robots deployed on the Ukrainian battlefield and the Wired headline 'When AI Companies Go to War, Safety Gets Left Behind' signal that wartime pressures are actively eroding AI safety norms."
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "Ars Technica reports apparent Iranian state hackers attempting to hijack consumer security cameras globally \u2014 low-grade cyber escalation on the margins."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Gulf Stream models show signs of potential AMOC collapse just as Earth's warming rate reportedly doubled since 2014 \u2014 long-fuse threats compressing while everyone watches the Middle East burn."
+        "detail": "U.S. embassy in Oslo struck by explosion and a drone targeted RAF Akrotiri in Cyprus, signaling the conflict is now generating kinetic spillover into NATO-adjacent European soil."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "No major AI alignment developments today; the existential risk bandwidth is fully occupied by flesh-and-blood geopolitical catastrophe."
       }
     ],
     "mood": [
-      "escalatory",
-      "volatile",
+      "escalating",
+      "combustible",
       "cascading",
-      "dread",
-      "unmoored"
+      "grim",
+      "accelerating"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-07.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened Russian intelligence operations room looking outward through a tall narrow window framed by heavy gold-trimmed drapes, deep crimson and near-black shadows consuming the room's ornate interior, a secure communications terminal glowing sickly red in the foreground casting hellish uplight across a cluttered desk surface covered in printed satellite imagery printouts showing Middle Eastern geography with coordinate overlays and marked position grids, the window framing a bleak Moscow winter exterior of grey-white sky and Kremlin architecture silhouetted against it, on the desk beside the terminal a tactical map of the Arabian Gulf region with American base positions circled in red, a second monitor displaying a top-down Planet Labs style satellite view of a flat Kuwaiti desert military installation with clinical grid overlays, the entire room suffused in extreme contrast between the deep black shadow volumes and the hellish terminal glow bleeding red across gold ornamental wall trim and heavy draped fabric, the composition pulling the eye from the intimate intelligence-gathering interior outward through the window toward the cold unreachable distance, no figures present, only the evidence of betrayal rendered in objects and glowing screens, 16-bit SNES style, no text, no antialiasing",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-07.png"
+    "card_image": "doom-card-2026-03-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene, Tehran basin choked under a catastrophic layered atmosphere \u2014 the primary visual is a wall of thick black oil smoke billowing upward from multiple burning petroleum storage tanks simultaneously, the smoke so dense it becomes the sky itself, swallowing the upper frame entirely in near-black, while below the smoke ceiling the air is a hellish deep crimson haze, the city's chronic brown pollution smog fused with burning fuel particulate into a suffocating orange-red murk that filters every surface in sickly ember light \u2014 the snow-capped Alborz mountain peaks are just barely visible as pale grey silhouettes above the smoke line in the far background, ghostlike and indifferent, their white caps glowing faintly orange from the fires below \u2014 in the mid-ground, two enormous collapsed floating-roof petroleum storage tanks sit ruptured and caved inward, their cylindrical walls peeling outward like crushed tin cans, the fuel inside burning in deep churning pools of dark red fire \u2014 a suburban street in the foreground is flooded with crude oil running black along cracked asphalt gutters, pooling in potholes and reflecting the hellfire above in mirror-black orange, a knocked-over bicycle half-submerged at the road's edge, the oil lapping at it \u2014 tall silver refinery distillation columns rise through the haze behind the tanks, intact but surrounded by burning pipeline networks at their base, pipes ruptured and venting dark smoke \u2014 the entire scene color-graded in deep crimson, near-black, and suffocating amber, extreme contrast, no clean air anywhere in frame, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-08.png"
   },
   "dawn": {
-    "percentage": 38.7,
-    "driver": "Koalas survived a devastating population crash and their DNA is bouncing back.",
-    "category": "Environment",
-    "blurb": "SPECIES PULLS BACK FROM THE BRINK",
-    "summary": "Against a backdrop of war, economic contraction, and cascading crises, nature quietly delivers a counternarrative: koalas, once staring down genetic collapse after catastrophic population loss, are rebounding \u2014 and their DNA diversity is recovering with them. New genomic research shows that rapid population growth can actually help reverse the kind of inbreeding damage scientists feared might be permanent. It's a reminder that resilience isn't just a human trait, and that the natural world, given even half a chance, will fight to persist.",
+    "percentage": 39.2,
+    "driver": "First HBCU D1 women's wrestlers compete at championship. It's a weekend of firsts in Iowa, where the first national women's college wrestling championship is taking place and the first HBCU Division 1 women's wrestling team is fielding players.",
+    "category": "Human Spirit",
+    "blurb": "HISTORY PINNED TO THE MAT IN IOWA",
+    "summary": "In a week when global headlines have been consumed by war, missile strikes, and cascading crises, a quiet landmark was made in an Iowa arena: the first HBCU Division I women's wrestling team stepped onto the national championship mat, making history that will outlast the news cycle. This is also the inaugural national women's college wrestling championship itself \u2014 a sport finally given its full due. These athletes trained through chaos, competed through doubt, and showed up anyway. That's not a footnote. That's the signal.",
     "factors": [
       {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "Genomic research confirms that koala DNA diversity is actively recovering, overturning assumptions that population bottlenecks cause irreversible genetic damage."
-      },
-      {
-        "name": "Environment",
-        "signal": "bright",
-        "detail": "A species-level rebound story cuts through the noise of global conflict with evidence that conservation efforts and natural resilience can bend the arc back toward survival."
-      },
-      {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "Iowa sophomore Ava Smid scored 8 points in 19 seconds to win a state basketball semifinal \u2014 a small, joyful burst of human determination in a grim news week."
+        "signal": "blazing",
+        "detail": "Student athletes from an HBCU making D1 history at the first-ever national women's wrestling championship embodies exactly the kind of quiet, earned triumph that endures."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "FARC fighters in Colombia are now campaigning for ballots rather than waging war, marking a slow but real decade-long peace dividend from the 2016 accord."
+        "detail": "China signaling 'thorough preparations' for a Trump-Xi meeting amid the Iran war suggests diplomatic back-channels remain alive even as front-channels burn."
+      },
+      {
+        "name": "Science",
+        "signal": "bright",
+        "detail": "Physicists discovering a new 'Island of Inversion' that breaks nuclear physics' long-held rules is a reminder that the universe still has surprises waiting for curious minds."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "NASA DART mission data revealing asteroids trade material like 'cosmic snowballs' deepens our understanding of planetary defense and the solar system's interconnected dynamics."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Scientists discovered a tiny ocean fungus that kills toxic algae responsible for harmful blooms, offering a potential biological tool against a growing environmental threat."
+        "detail": "Nepal's landslide democratic election, led by a reform movement born from Gen Z protests, shows civic renewal is possible even in small, mountainous nations squeezed by giant neighbors."
       }
     ],
     "mood": [
       "resilience",
-      "recovery",
-      "renewal",
+      "breakthrough",
+      "pioneering",
       "perseverance",
       "hope"
     ],
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-07.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Australian bushland landscape dominates the frame, Queensland eucalyptus forest at golden dawn, long horizontal amber light rays cutting between pale silver-barked gum trees casting thin shadows across dry red earth, morning mist pooling in the middle distance, the enormous landscape stretching to a wide open sky blushed with warm gold and soft green. Tiny figures below: a sun-weathered field researcher crouching at the base of a gum tree looking upward into the canopy, binoculars around neck, dwarfed by the immensity of the forest. High in a eucalyptus fork, a robust grey-silver koala with thick fur clings solidly to a branch, a joey peeking from her pouch, rendered in warm amber pixel tones against waxy grey-green leaves catching the first light. Scattered across the landscape, 27 faintly glowing population dots pulse like tiny embers on the red earth, a constellation of recovery lighting up from within. Rising from the tree canopy like bioluminescent mist, DNA double helix strands rendered in warm gold and copper thread upward and interweave, gaining complexity and richness as they spiral, replacing thin pale strands on the left with densely braided luminous threads on the right. Warm amber and soft green palette throughout, shadows lifting, morning clarity arriving.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-07.png"
+    "card_image": "dawn-card-2026-03-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a worn wrestling shoe \u2014 flat-soled, ankle-hugging, laced tight \u2014 resting at the very edge of a regulation wrestling mat's boundary circle, the curved red mat edge cutting diagonally across the lower frame in warm amber and deep gold tones. The shoe's canvas fabric shows pixel-perfect creasing and wear, broken in from years of training. Soft green rubberized mat texture fills the upper portion of the frame, the center circle's edge just barely visible at the top. The shoe's sole presses deliberately against the threshold line \u2014 one foot claiming the edge of history. Reflected in the glossy mat surface below, a ghostly amber glow suggests overhead tournament lighting flooding down from above. At the very border of the frame, blurred in soft pixel bokeh, the hem of a singlet in deep royal blue is visible \u2014 an HBCU uniform, implied rather than shown. Morning-clean light washes the scene from the upper left, lifting shadows from the mat surface, casting the shoe in warm amber clarity. The color palette is amber, soft green, and gold against the neutral rubberized floor, with the emotional weight of a first step onto ground never walked before.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-08.png"
   }
 }
