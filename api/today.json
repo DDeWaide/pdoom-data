@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-08",
-  "generated_at": "2026-03-08T10:45:27.070301+00:00",
+  "date": "2026-03-09",
+  "generated_at": "2026-03-09T11:35:33.850000+00:00",
   "doom": {
-    "percentage": 60.8,
-    "raw_percentage": 58.7,
-    "driver": "Iran oil facilities hit for first time as war with US-Israel enters day 9. Attacks spark huge fires as they hit four storage facilities and an oil production transfer centre in Tehran and Alborz.",
+    "percentage": 59.4,
+    "raw_percentage": 57.3,
+    "driver": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire.",
     "category": "Geopolitics",
-    "blurb": "THEY JUST SET THE OIL ON FIRE",
-    "summary": "Nine days in and the U.S.-Israel campaign has crossed a significant threshold: Iranian oil infrastructure is now burning for the first time, with four storage facilities and a production centre in flames. Meanwhile Iran's Assembly of Experts has quietly named Khamenei's successor, suggesting Tehran is digging in rather than folding \u2014 despite Trump publicly telling them to 'cry uncle.' Add a U.S. embassy bombing in Oslo, Israeli special forces killing 41 in Lebanon, Bahrain's desalination plant hit, and Kuwait's oil production being cut \u2014 this war is metastasizing faster than anyone's containment doctrine.",
+    "blurb": "AMERICA PACKING BAGS IN RIYADH",
+    "summary": "When the U.S. starts evacuating non-emergency staff from Saudi Arabia, the diplomatic fire alarm isn't just ringing \u2014 it's melted to the wall. Meanwhile Iran has named a new supreme leader (Mojtaba Khamenei, for those keeping score), launched fresh missile salvos at Israel and Gulf states, and oil briefly kissed $120 a barrel \u2014 which Trump called 'a very small price to pay,' presumably from a country with cheap gas. The war is ten days old, geographically expanding, and now comes with a leadership transition in Tehran. That's not a de-escalation cocktail.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "War enters day 9 with Iranian oil infrastructure struck for the first time, Gulf states reporting civilian infrastructure hits, and no signs of diplomatic off-ramp materializing."
+        "detail": "War enters day 10 with Iran naming a new hardline supreme leader, evacuations from Saudi Arabia ordered, and fresh strikes hitting Israel and multiple Gulf states simultaneously."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Iran's Assembly of Experts announces a new Supreme Leader successor while Tehran vows no surrender, suggesting institutional continuity of the Islamic Republic despite military pressure."
+        "detail": "Iran's leadership transition to Mojtaba Khamenei mid-conflict creates dangerous command uncertainty; G7 calling emergency oil meeting signals economic governance stress."
       },
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "Ars Technica reports apparent Iranian state hackers attempting to hijack consumer security cameras globally \u2014 low-grade cyber escalation on the margins."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "U.S. embassy in Oslo struck by explosion and a drone targeted RAF Akrotiri in Cyprus, signaling the conflict is now generating kinetic spillover into NATO-adjacent European soil."
+        "detail": "Nvidia backs AI data center startup at $14.6B valuation \u2014 infrastructure buildout continues quietly in the background while the world is on fire."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "No major AI alignment developments today; the existential risk bandwidth is fully occupied by flesh-and-blood geopolitical catastrophe."
+        "detail": "HN community flagging AI-generated spam posts on their own platform \u2014 the bots are colonizing the watchers."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Explosion at U.S. embassy in Oslo being investigated as possible terrorism \u2014 if confirmed, would mark a significant expansion of conflict-linked attacks into European soil."
       }
     ],
     "mood": [
       "escalating",
-      "combustible",
-      "cascading",
-      "grim",
-      "accelerating"
+      "volatile",
+      "expanding",
+      "precarious",
+      "exhausted"
     ],
-    "tier": 7,
-    "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-03-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene, Tehran basin choked under a catastrophic layered atmosphere \u2014 the primary visual is a wall of thick black oil smoke billowing upward from multiple burning petroleum storage tanks simultaneously, the smoke so dense it becomes the sky itself, swallowing the upper frame entirely in near-black, while below the smoke ceiling the air is a hellish deep crimson haze, the city's chronic brown pollution smog fused with burning fuel particulate into a suffocating orange-red murk that filters every surface in sickly ember light \u2014 the snow-capped Alborz mountain peaks are just barely visible as pale grey silhouettes above the smoke line in the far background, ghostlike and indifferent, their white caps glowing faintly orange from the fires below \u2014 in the mid-ground, two enormous collapsed floating-roof petroleum storage tanks sit ruptured and caved inward, their cylindrical walls peeling outward like crushed tin cans, the fuel inside burning in deep churning pools of dark red fire \u2014 a suburban street in the foreground is flooded with crude oil running black along cracked asphalt gutters, pooling in potholes and reflecting the hellfire above in mirror-black orange, a knocked-over bicycle half-submerged at the road's edge, the oil lapping at it \u2014 tall silver refinery distillation columns rise through the haze behind the tanks, intact but surrounded by burning pipeline networks at their base, pipes ruptured and venting dark smoke \u2014 the entire scene color-graded in deep crimson, near-black, and suffocating amber, extreme contrast, no clean air anywhere in frame, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-08.png"
+    "tier": 6,
+    "tier_name": "Threat Level",
+    "card_image": "doom-card-2026-03-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, dramatic backlight scene set at the U.S. Embassy compound in Riyadh at night \u2014 the environment dominates entirely: the beige fortress perimeter walls and concertina wire crown render as pure black silhouettes against a volcanic blood-orange sky, the Kingdom Centre Tower rising in the far background with its distinctive parabolic arch cutout glowing like an ember against deep black heavens, the entire horizon smeared with churning petrochemical smoke backlit from below by distant burning orange infrastructure, cool tones nearly extinguished from the palette, only molten amber and char remaining \u2014 within this hellish glow, a line of armored black SUV silhouettes files through the embassy blast gate checkpoint, their rooflines and diplomatic antenna arrays crisp black shapes against the fire-lit compound interior beyond, luggage visible in silhouette atop roof racks, Marine guard post booth a dark rectangular sentinel at the gate \u2014 above the compound walls a C-17 Globemaster silhouette banks low overhead against the orange sky, four engine nacelles detailed in chunky 16-bit pixel blocks, heading toward the airport \u2014 in the far desert distance beyond the city, Patriot PAC-3 launch tube arrays angle skyward as black needle silhouettes against the burning horizon, radar dish spinning \u2014 blood orange and deep black palette throughout, volcanic underlighting from below the smoke layer, no antialiasing, no text, 16-bit SNES pixel grid fidelity.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-09.png"
   },
   "dawn": {
-    "percentage": 39.2,
-    "driver": "First HBCU D1 women's wrestlers compete at championship. It's a weekend of firsts in Iowa, where the first national women's college wrestling championship is taking place and the first HBCU Division 1 women's wrestling team is fielding players.",
-    "category": "Human Spirit",
-    "blurb": "HISTORY PINNED TO THE MAT IN IOWA",
-    "summary": "In a week when global headlines have been consumed by war, missile strikes, and cascading crises, a quiet landmark was made in an Iowa arena: the first HBCU Division I women's wrestling team stepped onto the national championship mat, making history that will outlast the news cycle. This is also the inaugural national women's college wrestling championship itself \u2014 a sport finally given its full due. These athletes trained through chaos, competed through doubt, and showed up anyway. That's not a footnote. That's the signal.",
+    "percentage": 40.6,
+    "driver": "Brain scans reveal how ketamine quickly lifts severe depression. A new brain-imaging study has revealed how ketamine produces its fast antidepressant effects in people with treatment-resistant depression. Researchers tracked changes in a critical brain receptor tha",
+    "category": "Medicine",
+    "blurb": "SCIENCE CRACKS OPEN THE BLACK BOX OF DEPRESSION",
+    "summary": "While global headlines are dominated by war and $110 oil, researchers have made a genuine breakthrough in understanding how ketamine rapidly lifts severe, treatment-resistant depression \u2014 a condition that has stolen years from millions of lives. By imaging exactly which brain receptors shift and when, scientists now have a roadmap to develop faster, targeted antidepressants without ketamine's side effects. On a day when the world feels heavy, this is medicine doing what it does best: quietly refusing to give up on suffering people.",
     "factors": [
       {
+        "name": "Science",
+        "signal": "bright",
+        "detail": "Brain-imaging research has for the first time mapped the precise receptor mechanism behind ketamine's rapid antidepressant effect, opening doors to a new generation of treatments."
+      },
+      {
         "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "Student athletes from an HBCU making D1 history at the first-ever national women's wrestling championship embodies exactly the kind of quiet, earned triumph that endures."
+        "signal": "glimmer",
+        "detail": "Crowds in Australia chanted 'save our girls' for Iran's women's football team, a spontaneous act of international solidarity cutting across war and politics."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "China signaling 'thorough preparations' for a Trump-Xi meeting amid the Iran war suggests diplomatic back-channels remain alive even as front-channels burn."
-      },
-      {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "Physicists discovering a new 'Island of Inversion' that breaks nuclear physics' long-held rules is a reminder that the universe still has surprises waiting for curious minds."
+        "detail": "G7 nations are convening an emergency meeting to coordinate an oil reserve release, showing multilateral institutions still functioning under crisis pressure."
       },
       {
         "name": "Environment",
         "signal": "quiet",
-        "detail": "NASA DART mission data revealing asteroids trade material like 'cosmic snowballs' deepens our understanding of planetary defense and the solar system's interconnected dynamics."
+        "detail": "Satellite radar is now detecting millimeter-scale bridge failures before collapse, a quiet technological win that will save lives and infrastructure worldwide."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Nepal's landslide democratic election, led by a reform movement born from Gen Z protests, shows civic renewal is possible even in small, mountainous nations squeezed by giant neighbors."
+        "detail": "Scientists discovered signs of ancient life in deep-water Moroccan sediments where none was expected, a reminder that Earth still holds wonders we haven't imagined."
       }
     ],
     "mood": [
-      "resilience",
       "breakthrough",
-      "pioneering",
-      "perseverance",
-      "hope"
+      "resilience",
+      "clarity",
+      "possibility",
+      "solidarity"
     ],
-    "tier": 4,
-    "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-03-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a worn wrestling shoe \u2014 flat-soled, ankle-hugging, laced tight \u2014 resting at the very edge of a regulation wrestling mat's boundary circle, the curved red mat edge cutting diagonally across the lower frame in warm amber and deep gold tones. The shoe's canvas fabric shows pixel-perfect creasing and wear, broken in from years of training. Soft green rubberized mat texture fills the upper portion of the frame, the center circle's edge just barely visible at the top. The shoe's sole presses deliberately against the threshold line \u2014 one foot claiming the edge of history. Reflected in the glossy mat surface below, a ghostly amber glow suggests overhead tournament lighting flooding down from above. At the very border of the frame, blurred in soft pixel bokeh, the hem of a singlet in deep royal blue is visible \u2014 an HBCU uniform, implied rather than shown. Morning-clean light washes the scene from the upper left, lifting shadows from the mat surface, casting the shoe in warm amber clarity. The color palette is amber, soft green, and gold against the neutral rubberized floor, with the emotional weight of a first step onto ground never walked before.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-08.png"
+    "tier": 5,
+    "tier_name": "Bright Spot",
+    "card_image": "dawn-card-2026-03-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened PET imaging suite in a Japanese university medical center \u2014 deep shadows fill the corners of the room, cool blue-white clinical light emanates faintly from the glowing circular bore of a large white donut-shaped PET scanner dominating the left side of the frame, its warm amber interior light pooling softly onto the sliding bed extending from its center. A patient rests peacefully on the scanner bed, eyes closed, face relaxed, illuminated only by the machine's gentle glow. On the right side, a research team of three figures in white lab coats huddles around large monitors displaying vivid thermal brain scan images \u2014 deep purples and blues shifting to electric golds and bright reds showing habenula receptor density patterns \u2014 the warm golden-yellow light from the screens spilling across the researchers' faces giving them a lit-from-within luminescence against the surrounding darkness. One figure leans forward pointing to a glowing patch of color on a before-and-after comparison panel. In the foreground on a small clinical tray, a tiny vial of faintly glowing liquid \u2014 the PET tracer \u2014 catches the light like a captured star. The overall palette rises from deep shadow and indigo darkness toward confident golden-yellow warmth radiating from the screens, with fresh green accent tones edging the monitor bezels, evoking the precise moment an invisible mystery becomes visible.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-09.png"
   }
 }

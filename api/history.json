@@ -2864,5 +2864,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a worn wrestling shoe \u2014 flat-soled, ankle-hugging, laced tight \u2014 resting at the very edge of a regulation wrestling mat's boundary circle, the curved red mat edge cutting diagonally across the lower frame in warm amber and deep gold tones. The shoe's canvas fabric shows pixel-perfect creasing and wear, broken in from years of training. Soft green rubberized mat texture fills the upper portion of the frame, the center circle's edge just barely visible at the top. The shoe's sole presses deliberately against the threshold line \u2014 one foot claiming the edge of history. Reflected in the glossy mat surface below, a ghostly amber glow suggests overhead tournament lighting flooding down from above. At the very border of the frame, blurred in soft pixel bokeh, the hem of a singlet in deep royal blue is visible \u2014 an HBCU uniform, implied rather than shown. Morning-clean light washes the scene from the upper left, lifting shadows from the mat surface, casting the shoe in warm amber clarity. The color palette is amber, soft green, and gold against the neutral rubberized floor, with the emotional weight of a first step onto ground never walked before.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-08.png"
     }
+  },
+  {
+    "date": "2026-03-09",
+    "generated_at": "2026-03-09T11:35:33.850000+00:00",
+    "doom": {
+      "percentage": 59.4,
+      "raw_percentage": 57.3,
+      "driver": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire.",
+      "category": "Geopolitics",
+      "blurb": "AMERICA PACKING BAGS IN RIYADH",
+      "summary": "When the U.S. starts evacuating non-emergency staff from Saudi Arabia, the diplomatic fire alarm isn't just ringing \u2014 it's melted to the wall. Meanwhile Iran has named a new supreme leader (Mojtaba Khamenei, for those keeping score), launched fresh missile salvos at Israel and Gulf states, and oil briefly kissed $120 a barrel \u2014 which Trump called 'a very small price to pay,' presumably from a country with cheap gas. The war is ten days old, geographically expanding, and now comes with a leadership transition in Tehran. That's not a de-escalation cocktail.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "War enters day 10 with Iran naming a new hardline supreme leader, evacuations from Saudi Arabia ordered, and fresh strikes hitting Israel and multiple Gulf states simultaneously."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Iran's leadership transition to Mojtaba Khamenei mid-conflict creates dangerous command uncertainty; G7 calling emergency oil meeting signals economic governance stress."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Nvidia backs AI data center startup at $14.6B valuation \u2014 infrastructure buildout continues quietly in the background while the world is on fire."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "HN community flagging AI-generated spam posts on their own platform \u2014 the bots are colonizing the watchers."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Explosion at U.S. embassy in Oslo being investigated as possible terrorism \u2014 if confirmed, would mark a significant expansion of conflict-linked attacks into European soil."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "volatile",
+        "expanding",
+        "precarious",
+        "exhausted"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, dramatic backlight scene set at the U.S. Embassy compound in Riyadh at night \u2014 the environment dominates entirely: the beige fortress perimeter walls and concertina wire crown render as pure black silhouettes against a volcanic blood-orange sky, the Kingdom Centre Tower rising in the far background with its distinctive parabolic arch cutout glowing like an ember against deep black heavens, the entire horizon smeared with churning petrochemical smoke backlit from below by distant burning orange infrastructure, cool tones nearly extinguished from the palette, only molten amber and char remaining \u2014 within this hellish glow, a line of armored black SUV silhouettes files through the embassy blast gate checkpoint, their rooflines and diplomatic antenna arrays crisp black shapes against the fire-lit compound interior beyond, luggage visible in silhouette atop roof racks, Marine guard post booth a dark rectangular sentinel at the gate \u2014 above the compound walls a C-17 Globemaster silhouette banks low overhead against the orange sky, four engine nacelles detailed in chunky 16-bit pixel blocks, heading toward the airport \u2014 in the far desert distance beyond the city, Patriot PAC-3 launch tube arrays angle skyward as black needle silhouettes against the burning horizon, radar dish spinning \u2014 blood orange and deep black palette throughout, volcanic underlighting from below the smoke layer, no antialiasing, no text, 16-bit SNES pixel grid fidelity.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-09.png"
+    },
+    "dawn": {
+      "percentage": 40.6,
+      "driver": "Brain scans reveal how ketamine quickly lifts severe depression. A new brain-imaging study has revealed how ketamine produces its fast antidepressant effects in people with treatment-resistant depression. Researchers tracked changes in a critical brain receptor tha",
+      "category": "Medicine",
+      "blurb": "SCIENCE CRACKS OPEN THE BLACK BOX OF DEPRESSION",
+      "summary": "While global headlines are dominated by war and $110 oil, researchers have made a genuine breakthrough in understanding how ketamine rapidly lifts severe, treatment-resistant depression \u2014 a condition that has stolen years from millions of lives. By imaging exactly which brain receptors shift and when, scientists now have a roadmap to develop faster, targeted antidepressants without ketamine's side effects. On a day when the world feels heavy, this is medicine doing what it does best: quietly refusing to give up on suffering people.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Brain-imaging research has for the first time mapped the precise receptor mechanism behind ketamine's rapid antidepressant effect, opening doors to a new generation of treatments."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Crowds in Australia chanted 'save our girls' for Iran's women's football team, a spontaneous act of international solidarity cutting across war and politics."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G7 nations are convening an emergency meeting to coordinate an oil reserve release, showing multilateral institutions still functioning under crisis pressure."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Satellite radar is now detecting millimeter-scale bridge failures before collapse, a quiet technological win that will save lives and infrastructure worldwide."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists discovered signs of ancient life in deep-water Moroccan sediments where none was expected, a reminder that Earth still holds wonders we haven't imagined."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "clarity",
+        "possibility",
+        "solidarity"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened PET imaging suite in a Japanese university medical center \u2014 deep shadows fill the corners of the room, cool blue-white clinical light emanates faintly from the glowing circular bore of a large white donut-shaped PET scanner dominating the left side of the frame, its warm amber interior light pooling softly onto the sliding bed extending from its center. A patient rests peacefully on the scanner bed, eyes closed, face relaxed, illuminated only by the machine's gentle glow. On the right side, a research team of three figures in white lab coats huddles around large monitors displaying vivid thermal brain scan images \u2014 deep purples and blues shifting to electric golds and bright reds showing habenula receptor density patterns \u2014 the warm golden-yellow light from the screens spilling across the researchers' faces giving them a lit-from-within luminescence against the surrounding darkness. One figure leans forward pointing to a glowing patch of color on a before-and-after comparison panel. In the foreground on a small clinical tray, a tiny vial of faintly glowing liquid \u2014 the PET tracer \u2014 catches the light like a captured star. The overall palette rises from deep shadow and indigo darkness toward confident golden-yellow warmth radiating from the screens, with fresh green accent tones edging the monitor bezels, evoking the precise moment an invisible mystery becomes visible.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-09.png"
+    }
   }
 ]
