@@ -3058,5 +3058,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a warm government signing room viewed from inside looking outward \u2014 a wide window dominates the far wall, framing a blazing Australian coastal morning sky in deep golds and soft greens, palm trees silhouetted against luminous daylight outside. The room itself glows with warm amber interior light, a long table centered in the foreground covered in spread documents, a hand mid-signature with pen touching paper. Around the table five young women in athletic wear lean forward clapping, hands raised in mid-clap, broad open smiles, their joy radiating outward like heat. Through the window beyond them, the faint suggestion of a stadium's green pitch catches the morning sun. On the interior wall beside the window, the soft green-white-red stripes of a pre-Revolution Iranian flag hang loosely, its colors echoing the eucalyptus greens outside. Golden-yellow light pours through the glass, casting long warm shadows across the document table, the atmosphere thick with quiet elation \u2014 a held breath finally released into morning gold. Palette: warm golden yellows, fresh greens, clean whites, soft amber interiors against the brilliant lit sky beyond the glass.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-10.png"
     }
+  },
+  {
+    "date": "2026-03-11",
+    "generated_at": "2026-03-11T11:34:09.331387+00:00",
+    "doom": {
+      "percentage": 58.6,
+      "raw_percentage": 57.3,
+      "driver": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz. U.S. President Trump warned of 'military consequences \u2026 at a level never seen before' if mines were not removed.",
+      "category": "Geopolitics",
+      "blurb": "THEY'RE MINING THE WORLD'S OIL DRAIN",
+      "summary": "Day 12 and the U.S.-Iran war has escalated to mining the Strait of Hormuz \u2014 the choke point through which roughly 20% of global oil transits \u2014 while Hegseth brags this was the 'heaviest bombing yet.' Trump is now threatening consequences 'at a level never seen before,' which from the man who already started a war is not a comforting qualifier. Meanwhile Russia is quietly profiting, China is still happily buying Iranian oil through the very strait being mined, and a majority of Americans have decided they'd rather not be doing any of this.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran mining the Strait of Hormuz on Day 12 represents a significant escalation \u2014 closing the world's most critical oil chokepoint and drawing direct U.S. naval combat response."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI cyberwarfare tools are actively being deployed in the Iran conflict, per NPR, while Anthropic is fighting a Pentagon blacklist for opposing autonomous weapons \u2014 an alignment red flag wearing a governance costume."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Senate Democrats demanding public war hearings signals zero congressional authorization for an active multi-front war, while DOJ quietly restores gun rights to felons and DHS ousts privacy officers who pushed back on 'illegal' orders."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "The White House is preparing an executive order targeting Anthropic specifically for opposing autonomous weapons and mass surveillance \u2014 punishing the lab most focused on safety."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "North Korea conducted cruise missile tests from a destroyer the same week China and North Korea reopened passenger rail \u2014 a quiet but pointed signal of axis consolidation while the world watches the Middle East."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "combustible",
+        "queasy",
+        "fragile"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at 45-degree angle, vast geography dominates entirely \u2014 the Strait of Hormuz at its narrowest chokepoint rendered from high altitude, the flat arid brown Iranian coastline stretching across the upper frame and the dramatic ochre limestone cliffs of Musandam dropping into the sea along the lower edge, the channel between them a deep blue-green rendered in blood orange and black volcanic underlighting as if the water itself is lit from beneath by submerged fire, the pale sky bleached to a searing orange-white haze where the horizon dissolves into heat, tiny figures and vessels dwarfed by the overwhelming geography \u2014 sixteen small low-profile patrol boats and converted dhow-style workboats scattered across the channel in various states of ruin, some listing sideways, some bow-under, some trailing wide black smoke columns that rise vertically in the still air and cast dark pixel shadows across the glassy water surface, a handful of dark spherical contact mines with protruding horns just barely visible as pixel clusters beneath the shallow green water near the Iranian shore, three enormous VLCC supertankers frozen in the background like floating dark monoliths riding the haze, an Arleigh Burke-class destroyer silhouette tiny against the scale of the strait with its distinctive radar mast, the entire composition blood orange and deep black with cool tones nearly extinguished, smoke columns the dominant vertical element against the crushing flat heat, no text, no antialiasing, no active weapons fire, 16-bit SNES pixel style",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-11.png"
+    },
+    "dawn": {
+      "percentage": 41.4,
+      "driver": "Scientists discover molecule that stops aggressive breast cancer in its tracks. Scientists at Oregon Health & Science University have developed a new molecule that could open the door to treating triple-negative breast cancer, one of the most aggressive and difficult-to-treat forms.",
+      "category": "Medicine",
+      "blurb": "SCIENTISTS CRACK ONE OF CANCER'S HARDEST CODES",
+      "summary": "Even as the world watches missiles arc over the Strait of Hormuz, researchers in Oregon were quietly doing something extraordinary: developing a molecule that may finally unlock treatment for triple-negative breast cancer, a disease that has long resisted medicine's best efforts. This is precisely the kind of stubborn, unglamorous human persistence that doesn't make war-dominated front pages but matters enormously \u2014 real people, real labs, real hope. On a day when doom sits at 58.6%, science is working the night shift.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Oregon researchers developed a molecule targeting triple-negative breast cancer, one of oncology's most resistant frontiers, representing a genuine breakthrough with immediate patient implications."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "India-China investment rules relaxed after six years of friction, with Beijing-linked capital now allowed to flow into Indian markets \u2014 a quiet diplomatic thaw amid global tension."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A teacher's $20 kindness challenge spread so far it became a nonprofit, proving small acts of generosity still have outsized reach even in fractured times."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Villagers on Pr\u00edncipe island are being paid by a billionaire to steward the 'African Gal\u00e1pagos' ecosystem, creating an economic model where conservation and community thrive together."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Over 100,000 people tuned in to watch a k\u0101k\u0101p\u014d \u2014 the world's fattest parrot \u2014 sleep and tidy her nest, a reminder that humans will always make time to root for something small and alive."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "determined",
+        "hopeful",
+        "steadfast",
+        "tender"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A cancer research laboratory at Oregon Health & Science University seen through a rain-lashed floor-to-ceiling window \u2014 heavy Pacific Northwest rain streams down the glass in diagonal silver threads, blurring the Portland city lights and the distant silhouette of Mount Hood into soft amber halos below, while inside the lab warm golden light spills from a microscope stage and glowing computer monitor, cutting cleanly against the cool blue-grey rain atmosphere pressing in from outside. The entire scene is filtered through the layered texture of rainfall \u2014 foreground glass streaks, middle-distance lab glow, far background city smear. Inside, a female researcher in white lab coat leans over an illuminated microscope, examining a cell culture plate, her face touched by that concentrated golden upwelling light. On the benchtop beside her: a 96-well culture plate, small luminous vials of clear compound catching the warm glow like tiny lanterns, and a computer screen displaying a downward-curving tumor growth graph rendered in crisp golden-yellow pixels. Hovering as a ghosted overlay just inside the rain-blurred glass, a jewel-like molecular structure glows in warm amber \u2014 small, precise, radiant \u2014 suspended against the deep blue-grey of the storm outside. Color palette: streaming silver rain, deep Portland-night blue, warm laboratory gold and fresh chartreuse green from the monitor screens, the whole scene balanced between wet cold outside and focused warm hope within.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-11.png"
+    }
   }
 ]
