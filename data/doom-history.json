@@ -3088,5 +3088,100 @@
       "card_image": "dawn-card-2026-03-11.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A cancer research laboratory at Oregon Health & Science University seen through a rain-lashed floor-to-ceiling window \u2014 heavy Pacific Northwest rain streams down the glass in diagonal silver threads, blurring the Portland city lights and the distant silhouette of Mount Hood into soft amber halos below, while inside the lab warm golden light spills from a microscope stage and glowing computer monitor, cutting cleanly against the cool blue-grey rain atmosphere pressing in from outside. The entire scene is filtered through the layered texture of rainfall \u2014 foreground glass streaks, middle-distance lab glow, far background city smear. Inside, a female researcher in white lab coat leans over an illuminated microscope, examining a cell culture plate, her face touched by that concentrated golden upwelling light. On the benchtop beside her: a 96-well culture plate, small luminous vials of clear compound catching the warm glow like tiny lanterns, and a computer screen displaying a downward-curving tumor growth graph rendered in crisp golden-yellow pixels. Hovering as a ghosted overlay just inside the rain-blurred glass, a jewel-like molecular structure glows in warm amber \u2014 small, precise, radiant \u2014 suspended against the deep blue-grey of the storm outside. Color palette: streaming silver rain, deep Portland-night blue, warm laboratory gold and fresh chartreuse green from the monitor screens, the whole scene balanced between wet cold outside and focused warm hope within."
     }
+  },
+  {
+    "date": "2026-03-12",
+    "generated_at": "2026-03-12T11:32:30.883913+00:00",
+    "doom": {
+      "percentage": 58.3,
+      "raw_percentage": 57.3,
+      "driver": "Iran effectively closes Strait of Hormuz as U.S.-Israel strikes continue. Iran has effectively closed the Strait of Hormuz as the U.S. and Israel continue airstrikes in the country, triggering what's being described as the \"largest oil disruption in history.\"",
+      "category": "Geopolitics",
+      "blurb": "20% OF THE WORLD'S OIL JUST WENT DARK",
+      "summary": "Day 13 of the U.S.-Israel-Iran war and the Strait of Hormuz \u2014 the world's most critical oil chokepoint \u2014 is effectively closed, with Iran warning prices could hit $200 a barrel. Six ships struck in a single day, Dubai high-rises taking drone hits, and the FBI warning of Iranian drone retaliation plots inside California suggests this has graduated from 'Middle East crisis' to 'everyone's problem.' The G7 is releasing emergency oil reserves, which is the geopolitical equivalent of calling your mom at 2am \u2014 technically it helps, but it means things got bad.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Strait of Hormuz effectively closed on Day 13, six ships struck Wednesday alone, Dubai struck by drones, and Iran threatening $200 oil \u2014 the conflict is spreading geographically and economically."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI chatbots studied urging 'teens' toward violence, AI mass surveillance across Africa topping $2bn, and autonomous weapons maker Anduril doubling its space unit mid-active-conflict."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "China's rubber-stamp parliament approving an 'ethnic unity' law mandating Mandarin over minority languages represents a quiet but significant authoritarian tightening."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "FBI bulletin warning Iran has aspired to attack California with drones \u2014 domestic terror threats from a foreign belligerent mid-war is a meaningful escalation vector."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Grammarly's AI cloning real experts' identities without consent and facing lawsuits is a small but telling sign that AI consent and identity norms remain largely unresolved."
+        }
+      ],
+      "mood": [
+        "chokepoint",
+        "cascading",
+        "volatile",
+        "economic-warfare",
+        "spreading"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single spherical naval contact mine just beneath the surface of the Strait of Hormuz, the mine's black corroded metal hull dominating the composition, its protruding trigger horns radiating outward like a crown, rendered in obsidian black and deep rust-orange volcanic light \u2014 the water surface visible only at the very top edge of the frame as a thin sliver of blood-orange shimmer, heat-bleached and viscous, reflecting the distant glow of petroleum fires burning somewhere beyond the frame \u2014 beneath the waterline the water transitions from murky copper to absolute black depth, the mine suspended in this darkness by a barely-visible tether chain descending into nothing \u2014 at the extreme edges of the frame, blurred and implied, the vast dark hull of a supertanker looms motionless on the left edge, its rust-streaked red hull plating close enough to fill the peripheral frame, and on the right edge the ghostly suggestion of more tanker hulls stretching back into a haze of black smoke \u2014 the mine's metal surface reflects distorted orange light from burning oil somewhere above, tiny pixel-perfect specular highlights catching its riveted seams and corroded surface texture \u2014 blood orange and deep black dominate entirely, cool tones extinguished, no text, no antialiasing, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 41.7,
+      "driver": "Scientists turn brain cells into Alzheimer's plaque cleaners. Scientists have developed a promising new approach to treating Alzheimer's disease by turning ordinary brain cells into powerful plaque-clearing machines. Instead of requiring frequent antibody infusi",
+      "category": "Medicine",
+      "blurb": "BRAIN CELLS RETRAINED TO FIGHT ALZHEIMER'S FROM WITHIN",
+      "summary": "While the world wrestles with oil shocks and a widening war, a quieter revolution is unfolding in the lab: scientists have found a way to reprogram the brain's own cells into Alzheimer's plaque-clearing machines \u2014 potentially sidestepping the costly, repeated antibody infusions that have frustrated patients and families for years. This is the kind of slow, patient science that doesn't make breaking news but could change the lives of tens of millions. On a day when headlines tilt heavily toward destruction, the fact that researchers are converting the brain's own biology into a healing force is exactly the signal worth amplifying.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Reprogramming native brain cells to clear amyloid plaques represents a potential paradigm shift away from external drug infusions toward self-sustaining neurological repair."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "A new 'super antibiotic' called EVG7 was also reported today, stopping deadly C. difficile gut infections without destroying the microbiome \u2014 a double medical win in one news cycle."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Indonesia and Australia are expanding security cooperation with Japan and Papua New Guinea, a quiet but meaningful multilateral partnership forming amid regional instability."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A 10-year-old fourth-grader named Honey Cooper became a dual-enrolled college student, a reminder that human potential refuses to be capped even in turbulent times."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Chickpeas have been successfully grown in simulated Moon soil, opening a genuine \u2014 if distant \u2014 path toward food sovereignty beyond Earth."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "ingenuity",
+        "healing",
+        "possibility"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. The interior of a university neuroscience wet lab at Washington University School of Medicine, viewed from behind \u2014 a massive illuminated microscope display screen dominates the far wall, blazing with golden-yellow and warm white light, rendering everything in the foreground as deep dramatic silhouettes. The glowing screen displays a luminous cross-section of a human brain, one half murky with rust-amber clumps of amyloid plaque, the other half radiant and clear, dotted with bright star-shaped astrocytes blooming like tiny suns. In silhouette against this glow, two figures stand side by side \u2014 one young and lean leaning over a lab bench, the other older and upright \u2014 both backlit into pure shadow, white lab coat hems catching the golden light. On the bench in stark silhouette: a single small syringe, its needle pointing upward like a monument, impossibly small against the scale of the glowing brain imagery behind it. Tiny spherical viral vector particles drift upward in the light like luminous dust motes. The star-shaped astrocyte arms on the screen reach toward rust-colored plaque clusters, each tip glowing with a hook-like receptor catching the light. Cool biosafety cabinet blue flickers at the edges. Palette: deep silhouette blacks, blazing golden-yellow backlight, fresh green and crystalline white highlights, rust-amber plaque tones dissolving into radiant gold."
+    }
   }
 ]
