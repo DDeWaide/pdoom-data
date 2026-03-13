@@ -3183,5 +3183,100 @@
       "card_image": "dawn-card-2026-03-12.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with strong backlight. The interior of a university neuroscience wet lab at Washington University School of Medicine, viewed from behind \u2014 a massive illuminated microscope display screen dominates the far wall, blazing with golden-yellow and warm white light, rendering everything in the foreground as deep dramatic silhouettes. The glowing screen displays a luminous cross-section of a human brain, one half murky with rust-amber clumps of amyloid plaque, the other half radiant and clear, dotted with bright star-shaped astrocytes blooming like tiny suns. In silhouette against this glow, two figures stand side by side \u2014 one young and lean leaning over a lab bench, the other older and upright \u2014 both backlit into pure shadow, white lab coat hems catching the golden light. On the bench in stark silhouette: a single small syringe, its needle pointing upward like a monument, impossibly small against the scale of the glowing brain imagery behind it. Tiny spherical viral vector particles drift upward in the light like luminous dust motes. The star-shaped astrocyte arms on the screen reach toward rust-colored plaque clusters, each tip glowing with a hook-like receptor catching the light. Cool biosafety cabinet blue flickers at the edges. Palette: deep silhouette blacks, blazing golden-yellow backlight, fresh green and crystalline white highlights, rust-amber plaque tones dissolving into radiant gold."
     }
+  },
+  {
+    "date": "2026-03-13",
+    "generated_at": "2026-03-13T11:31:56.103847+00:00",
+    "doom": {
+      "percentage": 57.8,
+      "raw_percentage": 56.7,
+      "driver": "Iran's new supreme leader vows to block Strait of Hormuz in first statement. A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+      "category": "Geopolitics",
+      "blurb": "NEW BOSS, SAME APOCALYPSE, LOUDER",
+      "summary": "Iran's freshly installed supreme leader has used his inaugural statement not for olive branches or diplomatic niceties, but to formally commit to choking the world's oil jugular \u2014 apparently the new guy read the job description and said 'yes, all of it.' Meanwhile, black smoke is billowing from Dubai's financial district, drones are killing people in Oman, and Asian governments are going four-day-week just to survive the fuel crisis. Day 14 of this war and the new leadership has immediately hardened Iran's position rather than offering any off-ramp.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "New Iranian supreme leader's first act is doubling down on Hormuz blockade; Dubai explosions, Oman drone strikes, French soldier killed in Iraq, and Israel hitting Beirut signal a widening multi-front war on day 14."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Russia's UK ambassador calls the US Iran campaign a 'misadventure with no exit strategy' as Spain defies Trump, Gulf states invoke force majeure, and the US quietly authorizes purchases of Russian oil \u2014 improvised crisis management at scale."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Pentagon officials and Palantir demos reveal AI chatbots are being actively scoped for targeting decisions and war-plan generation, with human vetting but no binding guardrails yet."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Anthropic's ugly legal standoff with the Pentagon over AI use restrictions, combined with military AI targeting demos, surfaces a live tension between safety commitments and wartime demand."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Iranian hacker group 'Handala' is claiming the crippling cyberattack on medical giant Stryker, suggesting state-sponsored cyber retaliation is now running parallel to kinetic warfare."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "hardening",
+        "combustible",
+        "cascading",
+        "entrapped"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, all light from artificial sources, deep shadows dominating every corner \u2014 the Strait of Hormuz at water level, viewed from a low boat-deck perspective looking out across black glassy water toward the chokepoint's narrowest passage, pale ochre and grey Iranian mountains barely visible as dark silhouettes against a blood orange horizon glow, the sky above almost pure black. In the foreground a massive VLCC supertanker rides heavy and low in the water, its hull markings faded red and black, navigation lights burning amber and white like distant embers, the ship dwarfing everything around it. Clustered in the middle distance, three low grey IRGCN fast attack craft \u2014 Boghammar-style speedboats \u2014 sit motionless in the tanker lane, their silhouettes bristling with angular shapes, lit only by instrument panel glow leaking orange from their cockpits. Just beneath the water's surface in the foreground, the dark rounded outline of a submerged spherical contact mine is visible through the shallows, its corroded iron body catching the tanker's amber navigation light. On the far left edge of the frame, a television screen mounted on a makeshift broadcast desk glows harsh fluorescent white against total blackness, the IRIB logo in green visible as a chyron, a dark-suited figure frozen mid-gesture holding papers, the studio hollow and eerie. An oil slick spreads across the water between the fast boats and the tanker, its surface catching blood orange and deep volcanic red iridescence. Color palette: blood orange and deep black throughout, volcanic underlighting from below the waterline, cool tones nearly extinguished, no antialiasing, 16-bit SNES pixel rendering."
+    },
+    "dawn": {
+      "percentage": 42.2,
+      "driver": "Enhancing gut-brain communication reversed cognitive decline in aging mice.",
+      "category": "Science",
+      "blurb": "SCIENTISTS REVERSE COGNITIVE DECLINE \u2014 THE BRAIN CAN HEAL",
+      "summary": "Stanford researchers have demonstrated that boosting gut-brain signaling can actually reverse cognitive decline in aging mice \u2014 a finding that ripples with hope for Alzheimer's and dementia research at a moment when the world badly needs good news. While war dominates the headlines and pDoom sits at 57.8%, science quietly keeps delivering: this is the kind of incremental, peer-reviewed breakthrough that compounds over decades into treatments that save millions of minds. The gut-brain axis has been a tantalizing frontier for years; results like these suggest we are closer than ever to turning that frontier into medicine.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Stanford's gut-brain cognitive reversal result is a landmark step toward viable dementia intervention, representing years of painstaking neurological research paying off."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Oksana Masters became the most decorated US Winter Paralympian of all time in Milan, overcoming major medical setbacks to reach the podium."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A record 280 political parties registered for Haiti's first general election in a decade, signaling a fragile but real civic hunger for democratic participation."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Asian governments are rolling out 4-day weeks and WFH policies during the fuel crisis, inadvertently modeling lower-emission work patterns that could outlast the war."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "US fentanyl-related overdose deaths fell by nearly 30% in a single year, a stunning public health turnaround that researchers are calling a potential inflection point in the opioid crisis."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "renewal",
+        "determination"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking dramatically upward from the polished floor of a sunlit California neuroscience laboratory, golden morning light streaming through tall windows far above, warm amber and fresh green tones saturating the entire scene. Towering above from this worm's-eye perspective: a massive illuminated anatomical display mounted on the lab wall showing the vagus nerve as a luminous ivory-white branching pathway threading from brainstem down through chest into glowing intestines, the hippocampus rendered in warm amber at the top like a rising sun. In the mid-height foreground, a clean white maze apparatus sits on a lab bench overhead, its simple labyrinth corridors visible from below, a grey-muzzled mouse silhouetted confidently at its center, whiskers forward. Towering glass petri dishes catch golden sunlight and refract it into prismatic columns, bacterial colony charts on nearby monitor screens glow with deep violet and cobalt blue microbiome data. A researcher's hands are visible high above, holding a tiny stimulation device and delicate hair-fine electrodes that catch the light like jewelry against the bright window. The gut microbiome visualized as a dense jewel-toned galaxy of emerald, violet and cobalt bacterial clusters floats like a luminous mural on the far wall. Atmosphere of quiet golden-hour triumph, warm yellows and fresh greens dominating, steady confident daylight."
+    }
   }
 ]
