@@ -3348,5 +3348,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking dramatically upward from the polished floor of a sunlit California neuroscience laboratory, golden morning light streaming through tall windows far above, warm amber and fresh green tones saturating the entire scene. Towering above from this worm's-eye perspective: a massive illuminated anatomical display mounted on the lab wall showing the vagus nerve as a luminous ivory-white branching pathway threading from brainstem down through chest into glowing intestines, the hippocampus rendered in warm amber at the top like a rising sun. In the mid-height foreground, a clean white maze apparatus sits on a lab bench overhead, its simple labyrinth corridors visible from below, a grey-muzzled mouse silhouetted confidently at its center, whiskers forward. Towering glass petri dishes catch golden sunlight and refract it into prismatic columns, bacterial colony charts on nearby monitor screens glow with deep violet and cobalt blue microbiome data. A researcher's hands are visible high above, holding a tiny stimulation device and delicate hair-fine electrodes that catch the light like jewelry against the bright window. The gut microbiome visualized as a dense jewel-toned galaxy of emerald, violet and cobalt bacterial clusters floats like a luminous mural on the far wall. Atmosphere of quiet golden-hour triumph, warm yellows and fresh greens dominating, steady confident daylight.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-13.png"
     }
+  },
+  {
+    "date": "2026-03-14",
+    "generated_at": "2026-03-14T11:24:15.266159+00:00",
+    "doom": {
+      "percentage": 60.3,
+      "raw_percentage": 61.4,
+      "driver": "U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says.",
+      "category": "Geopolitics",
+      "blurb": "AMERICA JUST BOMBED THE WORLD'S GAS STATION",
+      "summary": "Day 15 and Trump has 'totally obliterated' Kharg Island \u2014 Iran's crown jewel oil terminal, handling roughly 90% of its crude exports. This isn't a warning shot; it's the shot. Meanwhile the US Embassy in Baghdad took a missile to the helipad, North Korea decided this was a great moment to fire ten ballistic missiles, and Qatar's helium shutdown is putting semiconductor fabs on a two-week clock. The dominoes aren't falling \u2014 they're being flung.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Kharg Island strike escalates the US-Iran war to direct attacks on oil export infrastructure, with Tehran threatening to reduce US-linked oil facilities to 'pile of ashes' in retaliation."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Anthropic quietly rolls out 1M context windows for Claude Opus and Sonnet while the world is busy watching oil terminals burn; xAI continues its internal collapse."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "A federal judge blocks the DOJ's criminal probe of the Federal Reserve, calling it a political pressure campaign \u2014 institutional guardrails fraying in real time."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Qatar helium shutdown puts the global chip supply chain on a two-week clock, adding a fragile semiconductor dimension to an already combusting Middle East crisis."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "MIT Tech Review reveals AI chatbots are being used for military targeting decisions; the Pentagon's war on Claude adds a dark irony to the day's AI headlines."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "combustible",
+        "fragile",
+        "cascading",
+        "reckless"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-03-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened oil infrastructure control room on Kharg Island looking outward through a wide shattered industrial window \u2014 the window frame cracked and bent, glass shards catching hellish orange-red light \u2014 outside the window the Persian Gulf night is consumed by catastrophe, massive cylindrical crude oil storage tanks filling the middle distance, their white and gray steel warped and blackened, erupting in towering columns of deep crimson and near-black smoke that billow upward and swallow the sky entirely, the smoke lit from below by furious red-orange fire reflecting across the brown-green Gulf water, the Sea Island Loading Terminal visible in the far distance as a skeletal silhouette of offshore platforms and loading arms backlit by burning flare stacks burning completely out of control, pipelines snaking across the flat scrubland between the window and the tank farm glowing ember-red along their lengths, the interior of the control room surrounding the window frame rendered in extreme darkness, smashed instrument panels with a handful of dead indicator lights still blinking amber, a single overturned metal chair, dust and debris on the floor, the entire composition dominated by suffocating darkness inside contrasting with the hellish red-black inferno outside, deep red and near-black color grade throughout, extreme contrast, no text, no antialiasing",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-14.png"
+    },
+    "dawn": {
+      "percentage": 39.7,
+      "driver": "Japan Approves the World's First Treatment Made With Reprogrammed Human Cells. Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology.",
+      "category": "Medicine",
+      "blurb": "TWENTY YEARS OF SCIENCE BECOMES MEDICINE",
+      "summary": "In a world darkened by war and rising tensions, Japan has quietly crossed one of medicine's most anticipated finish lines \u2014 authorizing the first-ever commercial products made from reprogrammed human cells, the Nobel-winning iPS technology that promised to revolutionize healing. This isn't a lab result or a promising trial; it is a regulatory green light to manufacture and sell treatments built from cells that can become almost anything the body needs. Even as pDoom sits at 60.3%, milestones like this remind us that civilization's deeper project \u2014 ending suffering, extending life \u2014 never stops moving forward.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Japan's approval of iPS cell-based therapies marks the culmination of a 20-year scientific journey from Nobel-winning discovery to actual patient treatment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Cuba and the U.S. confirmed bilateral negotiations are underway, a quiet diplomatic channel holding open even as larger conflicts rage."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Michigan high school hockey player scored a double-overtime goal to send his team to the state finals just weeks after losing his family to tragedy."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists discovered a simple water-injection method that cuts diesel engine pollution by over 60%, offering a low-cost path to cleaner air for billions."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "France returned the sacred Djidji Ay\u00f4kw\u00e9 talking drum to C\u00f4te d'Ivoire after more than a century, a rare act of colonial reckoning and cultural restoration."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "restoration",
+        "resilience",
+        "pioneering",
+        "hope"
+      ],
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-03-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates with tiny figures below. Kyoto University's CiRA research institute seen from high above at dawn, its long glass-walled corridors and orderly laboratory wings spreading outward like a careful grid, warm amber morning light washing across white rooftops and casting long soft shadows through floor-to-ceiling windows onto gleaming interior bench rows. The building opens into a surgical theater wing glowing blue-white from within, and a formal presentation hall bathed in pavilion light. Tiny surgeon figures in blue scrubs cluster reverentially around an illuminated operating table, delicate forceps extended toward a deep crimson heart receiving three gossamer-thin iridescent cell sheets like translucent petals of pink tissue. A lone silver-haired scientist figure stands at a laboratory bench in quiet reflection, gazing down at a softly glowing petri dish emanating soft gold light. Scattered across the lab floor below, luminous amber spherical iPS cell colonies glow like tiny pearls seen through a microscope rendered as an inset pool of warm light. A cross-section brain shape in one wing pulses with golden branching neuron trees. A red hanko government seal stamp visible on a document at a formal desk. Entire scene color-graded in warm amber and soft green, clean morning light dissolving lingering shadows, a feeling of a long climb finally reaching a luminous summit.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-14.png"
+    }
   }
 ]

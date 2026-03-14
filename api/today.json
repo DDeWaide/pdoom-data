@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-13",
-  "generated_at": "2026-03-13T11:31:56.103847+00:00",
+  "date": "2026-03-14",
+  "generated_at": "2026-03-14T11:24:15.266159+00:00",
   "doom": {
-    "percentage": 57.8,
-    "raw_percentage": 56.7,
-    "driver": "Iran's new supreme leader vows to block Strait of Hormuz in first statement. A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+    "percentage": 60.3,
+    "raw_percentage": 61.4,
+    "driver": "U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says.",
     "category": "Geopolitics",
-    "blurb": "NEW BOSS, SAME APOCALYPSE, LOUDER",
-    "summary": "Iran's freshly installed supreme leader has used his inaugural statement not for olive branches or diplomatic niceties, but to formally commit to choking the world's oil jugular \u2014 apparently the new guy read the job description and said 'yes, all of it.' Meanwhile, black smoke is billowing from Dubai's financial district, drones are killing people in Oman, and Asian governments are going four-day-week just to survive the fuel crisis. Day 14 of this war and the new leadership has immediately hardened Iran's position rather than offering any off-ramp.",
+    "blurb": "AMERICA JUST BOMBED THE WORLD'S GAS STATION",
+    "summary": "Day 15 and Trump has 'totally obliterated' Kharg Island \u2014 Iran's crown jewel oil terminal, handling roughly 90% of its crude exports. This isn't a warning shot; it's the shot. Meanwhile the US Embassy in Baghdad took a missile to the helipad, North Korea decided this was a great moment to fire ten ballistic missiles, and Qatar's helium shutdown is putting semiconductor fabs on a two-week clock. The dominoes aren't falling \u2014 they're being flung.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "New Iranian supreme leader's first act is doubling down on Hormuz blockade; Dubai explosions, Oman drone strikes, French soldier killed in Iraq, and Israel hitting Beirut signal a widening multi-front war on day 14."
+        "detail": "Kharg Island strike escalates the US-Iran war to direct attacks on oil export infrastructure, with Tehran threatening to reduce US-linked oil facilities to 'pile of ashes' in retaliation."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "Anthropic quietly rolls out 1M context windows for Claude Opus and Sonnet while the world is busy watching oil terminals burn; xAI continues its internal collapse."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Russia's UK ambassador calls the US Iran campaign a 'misadventure with no exit strategy' as Spain defies Trump, Gulf states invoke force majeure, and the US quietly authorizes purchases of Russian oil \u2014 improvised crisis management at scale."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Pentagon officials and Palantir demos reveal AI chatbots are being actively scoped for targeting decisions and war-plan generation, with human vetting but no binding guardrails yet."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Anthropic's ugly legal standoff with the Pentagon over AI use restrictions, combined with military AI targeting demos, surfaces a live tension between safety commitments and wartime demand."
+        "detail": "A federal judge blocks the DOJ's criminal probe of the Federal Reserve, calling it a political pressure campaign \u2014 institutional guardrails fraying in real time."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Iranian hacker group 'Handala' is claiming the crippling cyberattack on medical giant Stryker, suggesting state-sponsored cyber retaliation is now running parallel to kinetic warfare."
+        "detail": "Qatar helium shutdown puts the global chip supply chain on a two-week clock, adding a fragile semiconductor dimension to an already combusting Middle East crisis."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "MIT Tech Review reveals AI chatbots are being used for military targeting decisions; the Pentagon's war on Claude adds a dark irony to the day's AI headlines."
       }
     ],
     "mood": [
-      "escalating",
-      "hardening",
+      "escalatory",
       "combustible",
+      "fragile",
       "cascading",
-      "entrapped"
+      "reckless"
     ],
-    "tier": 6,
-    "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-03-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, all light from artificial sources, deep shadows dominating every corner \u2014 the Strait of Hormuz at water level, viewed from a low boat-deck perspective looking out across black glassy water toward the chokepoint's narrowest passage, pale ochre and grey Iranian mountains barely visible as dark silhouettes against a blood orange horizon glow, the sky above almost pure black. In the foreground a massive VLCC supertanker rides heavy and low in the water, its hull markings faded red and black, navigation lights burning amber and white like distant embers, the ship dwarfing everything around it. Clustered in the middle distance, three low grey IRGCN fast attack craft \u2014 Boghammar-style speedboats \u2014 sit motionless in the tanker lane, their silhouettes bristling with angular shapes, lit only by instrument panel glow leaking orange from their cockpits. Just beneath the water's surface in the foreground, the dark rounded outline of a submerged spherical contact mine is visible through the shallows, its corroded iron body catching the tanker's amber navigation light. On the far left edge of the frame, a television screen mounted on a makeshift broadcast desk glows harsh fluorescent white against total blackness, the IRIB logo in green visible as a chyron, a dark-suited figure frozen mid-gesture holding papers, the studio hollow and eerie. An oil slick spreads across the water between the fast boats and the tanker, its surface catching blood orange and deep volcanic red iridescence. Color palette: blood orange and deep black throughout, volcanic underlighting from below the waterline, cool tones nearly extinguished, no antialiasing, 16-bit SNES pixel rendering.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-13.png"
+    "tier": 7,
+    "tier_name": "Red Alert",
+    "card_image": "doom-card-2026-03-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened oil infrastructure control room on Kharg Island looking outward through a wide shattered industrial window \u2014 the window frame cracked and bent, glass shards catching hellish orange-red light \u2014 outside the window the Persian Gulf night is consumed by catastrophe, massive cylindrical crude oil storage tanks filling the middle distance, their white and gray steel warped and blackened, erupting in towering columns of deep crimson and near-black smoke that billow upward and swallow the sky entirely, the smoke lit from below by furious red-orange fire reflecting across the brown-green Gulf water, the Sea Island Loading Terminal visible in the far distance as a skeletal silhouette of offshore platforms and loading arms backlit by burning flare stacks burning completely out of control, pipelines snaking across the flat scrubland between the window and the tank farm glowing ember-red along their lengths, the interior of the control room surrounding the window frame rendered in extreme darkness, smashed instrument panels with a handful of dead indicator lights still blinking amber, a single overturned metal chair, dust and debris on the floor, the entire composition dominated by suffocating darkness inside contrasting with the hellish red-black inferno outside, deep red and near-black color grade throughout, extreme contrast, no text, no antialiasing",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-14.png"
   },
   "dawn": {
-    "percentage": 42.2,
-    "driver": "Enhancing gut-brain communication reversed cognitive decline in aging mice.",
-    "category": "Science",
-    "blurb": "SCIENTISTS REVERSE COGNITIVE DECLINE \u2014 THE BRAIN CAN HEAL",
-    "summary": "Stanford researchers have demonstrated that boosting gut-brain signaling can actually reverse cognitive decline in aging mice \u2014 a finding that ripples with hope for Alzheimer's and dementia research at a moment when the world badly needs good news. While war dominates the headlines and pDoom sits at 57.8%, science quietly keeps delivering: this is the kind of incremental, peer-reviewed breakthrough that compounds over decades into treatments that save millions of minds. The gut-brain axis has been a tantalizing frontier for years; results like these suggest we are closer than ever to turning that frontier into medicine.",
+    "percentage": 39.7,
+    "driver": "Japan Approves the World's First Treatment Made With Reprogrammed Human Cells. Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology.",
+    "category": "Medicine",
+    "blurb": "TWENTY YEARS OF SCIENCE BECOMES MEDICINE",
+    "summary": "In a world darkened by war and rising tensions, Japan has quietly crossed one of medicine's most anticipated finish lines \u2014 authorizing the first-ever commercial products made from reprogrammed human cells, the Nobel-winning iPS technology that promised to revolutionize healing. This isn't a lab result or a promising trial; it is a regulatory green light to manufacture and sell treatments built from cells that can become almost anything the body needs. Even as pDoom sits at 60.3%, milestones like this remind us that civilization's deeper project \u2014 ending suffering, extending life \u2014 never stops moving forward.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Stanford's gut-brain cognitive reversal result is a landmark step toward viable dementia intervention, representing years of painstaking neurological research paying off."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Oksana Masters became the most decorated US Winter Paralympian of all time in Milan, overcoming major medical setbacks to reach the podium."
+        "detail": "Japan's approval of iPS cell-based therapies marks the culmination of a 20-year scientific journey from Nobel-winning discovery to actual patient treatment."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "A record 280 political parties registered for Haiti's first general election in a decade, signaling a fragile but real civic hunger for democratic participation."
+        "detail": "Cuba and the U.S. confirmed bilateral negotiations are underway, a quiet diplomatic channel holding open even as larger conflicts rage."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "A Michigan high school hockey player scored a double-overtime goal to send his team to the state finals just weeks after losing his family to tragedy."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Asian governments are rolling out 4-day weeks and WFH policies during the fuel crisis, inadvertently modeling lower-emission work patterns that could outlast the war."
+        "detail": "Scientists discovered a simple water-injection method that cuts diesel engine pollution by over 60%, offering a low-cost path to cleaner air for billions."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "US fentanyl-related overdose deaths fell by nearly 30% in a single year, a stunning public health turnaround that researchers are calling a potential inflection point in the opioid crisis."
+        "detail": "France returned the sacred Djidji Ay\u00f4kw\u00e9 talking drum to C\u00f4te d'Ivoire after more than a century, a rare act of colonial reckoning and cultural restoration."
       }
     ],
     "mood": [
       "breakthrough",
+      "restoration",
       "resilience",
-      "discovery",
-      "renewal",
-      "determination"
+      "pioneering",
+      "hope"
     ],
-    "tier": 5,
-    "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-03-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking dramatically upward from the polished floor of a sunlit California neuroscience laboratory, golden morning light streaming through tall windows far above, warm amber and fresh green tones saturating the entire scene. Towering above from this worm's-eye perspective: a massive illuminated anatomical display mounted on the lab wall showing the vagus nerve as a luminous ivory-white branching pathway threading from brainstem down through chest into glowing intestines, the hippocampus rendered in warm amber at the top like a rising sun. In the mid-height foreground, a clean white maze apparatus sits on a lab bench overhead, its simple labyrinth corridors visible from below, a grey-muzzled mouse silhouetted confidently at its center, whiskers forward. Towering glass petri dishes catch golden sunlight and refract it into prismatic columns, bacterial colony charts on nearby monitor screens glow with deep violet and cobalt blue microbiome data. A researcher's hands are visible high above, holding a tiny stimulation device and delicate hair-fine electrodes that catch the light like jewelry against the bright window. The gut microbiome visualized as a dense jewel-toned galaxy of emerald, violet and cobalt bacterial clusters floats like a luminous mural on the far wall. Atmosphere of quiet golden-hour triumph, warm yellows and fresh greens dominating, steady confident daylight.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-13.png"
+    "tier": 4,
+    "tier_name": "Rays Breaking",
+    "card_image": "dawn-card-2026-03-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates with tiny figures below. Kyoto University's CiRA research institute seen from high above at dawn, its long glass-walled corridors and orderly laboratory wings spreading outward like a careful grid, warm amber morning light washing across white rooftops and casting long soft shadows through floor-to-ceiling windows onto gleaming interior bench rows. The building opens into a surgical theater wing glowing blue-white from within, and a formal presentation hall bathed in pavilion light. Tiny surgeon figures in blue scrubs cluster reverentially around an illuminated operating table, delicate forceps extended toward a deep crimson heart receiving three gossamer-thin iridescent cell sheets like translucent petals of pink tissue. A lone silver-haired scientist figure stands at a laboratory bench in quiet reflection, gazing down at a softly glowing petri dish emanating soft gold light. Scattered across the lab floor below, luminous amber spherical iPS cell colonies glow like tiny pearls seen through a microscope rendered as an inset pool of warm light. A cross-section brain shape in one wing pulses with golden branching neuron trees. A red hanko government seal stamp visible on a document at a formal desk. Entire scene color-graded in warm amber and soft green, clean morning light dissolving lingering shadows, a feeling of a long climb finally reaching a luminous summit.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-14.png"
   }
 }
