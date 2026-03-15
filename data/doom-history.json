@@ -3373,5 +3373,100 @@
       "card_image": "dawn-card-2026-03-14.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates with tiny figures below. Kyoto University's CiRA research institute seen from high above at dawn, its long glass-walled corridors and orderly laboratory wings spreading outward like a careful grid, warm amber morning light washing across white rooftops and casting long soft shadows through floor-to-ceiling windows onto gleaming interior bench rows. The building opens into a surgical theater wing glowing blue-white from within, and a formal presentation hall bathed in pavilion light. Tiny surgeon figures in blue scrubs cluster reverentially around an illuminated operating table, delicate forceps extended toward a deep crimson heart receiving three gossamer-thin iridescent cell sheets like translucent petals of pink tissue. A lone silver-haired scientist figure stands at a laboratory bench in quiet reflection, gazing down at a softly glowing petri dish emanating soft gold light. Scattered across the lab floor below, luminous amber spherical iPS cell colonies glow like tiny pearls seen through a microscope rendered as an inset pool of warm light. A cross-section brain shape in one wing pulses with golden branching neuron trees. A red hanko government seal stamp visible on a document at a formal desk. Entire scene color-graded in warm amber and soft green, clean morning light dissolving lingering shadows, a feeling of a long climb finally reaching a luminous summit."
     }
+  },
+  {
+    "date": "2026-03-15",
+    "generated_at": "2026-03-15T11:26:58.857864+00:00",
+    "doom": {
+      "percentage": 57.6,
+      "raw_percentage": 56.7,
+      "driver": "Trump says US may hit Iran's Kharg Island again 'just for fun'.",
+      "category": "Geopolitics",
+      "blurb": "THE PRESIDENT SAID 'JUST FOR FUN'",
+      "summary": "On day 16 of an active war, the commander-in-chief is casually musing about bombing critical oil infrastructure for entertainment value \u2014 which is either a negotiating tactic or the most expensive improv bit in history. Meanwhile Russia is exploiting the distraction to pummel Ukraine, North Korea is doing missile show-and-tell with a teenager, and the FCC is threatening broadcaster licenses for covering the war critically. The chaos is no longer escalating in a single dramatic direction; it's metastasizing sideways into every institution simultaneously.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active US-Iran war enters week three with casual presidential threats of additional strikes 'for fun,' Iran vowing to assassinate Netanyahu, and Russia exploiting the distraction with fresh bombardment of Ukraine."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "FCC head threatens broadcaster licenses over Iran war coverage, DOJ appeals block on Fed subpoenas, and DOGE staffers express zero regret about mass grant terminations \u2014 democratic guardrails visibly fraying."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Claude March 2026 usage promotion trending on Hacker News \u2014 AI capability advancing on schedule, no sudden capability jumps in today's news cycle."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Kim Jong Un showcases live-fire rocket tests with his teenage daughter present, signaling North Korean succession theater amid a moment of maximum global distraction."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No significant AI alignment developments today; the existential risks on the board are refreshingly analog and entirely self-inflicted by humans."
+        }
+      ],
+      "mood": [
+        "reckless",
+        "sprawling",
+        "darkly comedic",
+        "fatigued",
+        "fraying"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 Kharg Island shrouded in a dense petrochemical haze, the atmosphere itself thick and poisoned, a wall of oily black-orange smog rolling across the Persian Gulf like a slow tide, visibility collapsing into near-total murk. The scene is dominated by atmosphere: hot yellowish-brown air turned apocalyptic, the haze so saturated with particulate that the sky and sea blur into one continuous slab of blood orange and charcoal. Through the smog, partially dissolved like shapes in nightmare, the silhouettes of massive cylindrical crude oil storage tanks emerge \u2014 rust-streaked, enormous, some visibly ruptured and hemorrhaging thick black columns of smoke that merge instantly with the overcast above. Flare stacks rise as thin skeletal spires, their flames choked and sickly against the orange murk, bending sideways in the haze-wind. A VLCC supertanker moored at an offshore loading jetty is barely visible \u2014 an immense dark shape, riding low in the shallow greenish-brown Gulf water, its hull dwarfing the collapsed pier beside it, swallowed at both ends by smog. A dense web of ground-level pipelines traces the foreground, silver and rust-orange, disappearing into the haze. The water surface reflects nothing clean \u2014 only broken blood-orange light filtered through the poisoned air. No clear sky anywhere. Blood orange and deep black palette. Cool tones completely extinguished. No text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 42.4,
+      "driver": "Scientists discover hidden water beneath Mars that could have supported life. New research suggests Mars may have remained habitable much longer than scientists once thought. Ancient sand dunes in Gale Crater appear to have been soaked by underground water billions of years ago",
+      "category": "Discovery",
+      "blurb": "MARS HELD WATER \u2014 AND MAYBE MORE \u2014 FAR LONGER THAN WE KNEW",
+      "summary": "Even as war dominates the headlines, humanity's curiosity keeps reaching outward. New findings from Curiosity rover data suggest Mars harbored underground water in regions previously thought dry, extending the window during which life could theoretically have existed on another world. In a week defined by conflict over oil and borders, it's quietly remarkable that our robots are still out there on a distant planet, patiently asking the oldest question of all: are we alone?",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Mars habitability window extended by new groundwater evidence, fundamentally reshaping our understanding of the planet's ancient past."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US and China held trade talks in Paris to clear a path toward a Trump-Xi summit, a rare diplomatic channel still functioning amid regional war."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Thousands took to the streets across France in 85+ anti-war protests, demonstrating that civil society's voice against conflict remains loud and organized."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "The Iran war energy shock is prompting countries to accelerate emergency stockpile releases and conservation measures, fast-tracking energy resilience conversations."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Astronomers traced the brightest fast radio burst ever detected to a specific nearby galaxy, a milestone for a new telescope network that opens a fresh window on the cosmos."
+        }
+      ],
+      "mood": [
+        "curiosity",
+        "wonder",
+        "resilience",
+        "discovery",
+        "perseverance"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a fractured slab of ancient Martian sandstone from Gale Crater, the rust-red and ochre rock surface dominating every pixel. A thick vein of translucent white gypsum crystal slices diagonally across the stone like a glowing scar, its blade-like crystalline structure catching warm butterscotch-golden light and scattering pale gold and cream reflections across the surrounding rock face. Diagonal cross-bedding striations in tan and amber layers run beneath the gypsum vein, compressed wind-deposited history frozen in stone. At the extreme lower edge of the frame, the blurred aluminum-gray corner of Curiosity rover's extended robotic arm is barely visible, implied proximity rather than focus. Hairline fractures branch from the main vein, their edges stained with darker mineral residue where ancient water once seeped. The gypsum crystal catches the light like a hidden gem embedded in darkness, translucent white-gold against deep red-brown stone. Color palette locked to warm golden-yellow and confident earthy ochre, with the white gypsum vein glowing like a streak of buried sunlight, the entire composition radiating quiet revelation and steady warmth."
+    }
   }
 ]
