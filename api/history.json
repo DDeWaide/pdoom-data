@@ -3542,5 +3542,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a fractured slab of ancient Martian sandstone from Gale Crater, the rust-red and ochre rock surface dominating every pixel. A thick vein of translucent white gypsum crystal slices diagonally across the stone like a glowing scar, its blade-like crystalline structure catching warm butterscotch-golden light and scattering pale gold and cream reflections across the surrounding rock face. Diagonal cross-bedding striations in tan and amber layers run beneath the gypsum vein, compressed wind-deposited history frozen in stone. At the extreme lower edge of the frame, the blurred aluminum-gray corner of Curiosity rover's extended robotic arm is barely visible, implied proximity rather than focus. Hairline fractures branch from the main vein, their edges stained with darker mineral residue where ancient water once seeped. The gypsum crystal catches the light like a hidden gem embedded in darkness, translucent white-gold against deep red-brown stone. Color palette locked to warm golden-yellow and confident earthy ochre, with the white gypsum vein glowing like a streak of buried sunlight, the entire composition radiating quiet revelation and steady warmth.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-15.png"
     }
+  },
+  {
+    "date": "2026-03-16",
+    "generated_at": "2026-03-16T11:46:38.424038+00:00",
+    "doom": {
+      "percentage": 56.3,
+      "raw_percentage": 54.7,
+      "driver": "UAE's Fujairah oil trading hub targeted by a drone attack, causing large fire.",
+      "category": "Geopolitics",
+      "blurb": "THE WAR FOUND THE BACKUP OIL ROUTE",
+      "summary": "Fujairah was literally the workaround for when Hormuz gets blocked \u2014 the one export route that bypasses the whole mess \u2014 and now it's on fire too. With Dubai's airport also hit by drones and Trump threatening NATO allies with a 'very bad' future if they don't send warships, the conflict is methodically dismantling every contingency plan the global oil market had. Oil at $105 a barrel and climbing, NATO on the hot seat, and China being leaned on via summit-delay threats \u2014 this isn't escalating in one place anymore, it's metastasizing.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Drone strikes on Fujairah and Dubai airport signal the conflict is now actively targeting Gulf infrastructure beyond Iran itself, eliminating Hormuz bypass options."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump threatening NATO allies over Hormuz burden-sharing while signaling a Beijing summit delay turns economic leverage into active alliance fracture risk."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "The Michigan synagogue truck bomber's brother being a Hezbollah commander hints at coordinated transnational escalation beyond the primary theater."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "AI news is largely routine \u2014 Meta's capex announcements and OpenAI's adult mode rollout are business headlines, not capability alarms."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "TikTok and Meta whistleblowers on algorithm-driven harm is concerning for social stability long-term but not an acute doom signal today."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "sprawling",
+        "combustible",
+        "cornered"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Hajar Mountains rise as jagged black cutouts against a sky consumed by volcanic blood orange and churning black smoke, their limestone ridges razor-sharp in silhouette, the entire horizon glowing as if the earth itself is molten. In the middle ground, the Fujairah tank farm stretches across the coastal plain \u2014 massive cylindrical storage tanks rendered as dark hulking silhouettes, their circular rims backlit by furious orange eruptions of burning oil, one tank roof blown upward and frozen mid-collapse, black steel peeling outward like a torn flower, flames pouring from its rim casting hellish underlighting across the containment berm below. The Gulf of Oman fills the foreground in deep teal-black, its surface broken into hot orange reflections and streaks of burning slick, a VLCC tanker moored at the jetty reduced to a vast black monolith against the fire-glow, its loading arms frozen mid-connection like skeletal limbs. Civil Defense foam trucks are silhouetted along the berm perimeter, white arcs of AFFF foam catching the only pale cool light in the scene, barely visible against the overwhelming orange. Two small delta-wing drone silhouettes hang nearly invisible against the haze-bleached upper sky, tiny and ominous. Cool tones nearly extinguished, the world reduced to blood orange, deep black, and volcanic underlighting. No text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-16.png"
+    },
+    "dawn": {
+      "percentage": 43.7,
+      "driver": "In Indonesia, a fishing village replants mangrove forests one seedling at a time. Over the last 30 years, 40% of Indonesia's mangroves have been cut down mainly to create fish and shrimp farms, destroying local ecosystems. But one small indigenous fishing village is changing that.",
+      "category": "Environment",
+      "blurb": "ONE VILLAGE IS BRINGING THE FOREST BACK",
+      "summary": "While the world's attention is fixed on burning oil hubs and blocked straits, a quiet act of regeneration is unfolding on Indonesia's coastline \u2014 one seedling at a time. An indigenous fishing community is systematically reversing decades of mangrove destruction, restoring ecosystems that protect shorelines, nurture marine life, and sequester carbon. It's a reminder that the most durable forms of resilience often don't make headlines \u2014 they just keep growing.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "An indigenous Indonesian village is actively restoring mangrove forests destroyed over 30 years, demonstrating that community-led ecological recovery is both possible and underway."
+        },
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Scientists have unlocked a powerful new computational method to accelerate the search for materials that convert sunlight directly into chemical fuel, a potential breakthrough for clean energy."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ukraine's 20,000 children attending school in subway stations under bombardment represent an extraordinary act of collective defiance \u2014 insisting on a future even while surviving the present."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Oil-dependent nations accelerating solar and EV adoption in response to the energy crisis shows that geopolitical shock can, paradoxically, catalyze the clean energy transition."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "Research finding that AI acts as a creative collaborator rather than a replacement suggests human ingenuity and machine capability may amplify each other in unexpectedly hopeful ways."
+        }
+      ],
+      "mood": [
+        "regeneration",
+        "resilience",
+        "stewardship",
+        "rootedness",
+        "renewal"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominate. A tidal mudflat off the coast of Kalimantan at night, the dark water surface broken by rows of tiny mangrove propagules \u2014 long pencil-shaped torpedo pods with glowing reddish tips \u2014 planted in a grid extending into the black water, lit from below by submerged lanterns casting amber-gold pools across the wet mud. Bamboo nursery platforms rise from the shallows, illuminated by hanging oil lamps and small cooking fires on the platform edges, their warm orange flame-light catching the acid-green leaves of seedlings in plastic nursery bags lined up in careful rows. A stilted village glows in the background \u2014 tin rooftops and weathered wood touched by firelight, fishing nets strung between posts catching the light like spiderwebs. In the middle distance a dugout canoe carries a village elder holding a torch, its flame the brightest point in the composition, reflected perfectly in the black mirror water below alongside the silhouette of a gnarled mature mangrove prop root arching from darkness. A child wades knee-deep near the nursery platform, a woven basket of seedlings on their hip, their warm brown skin lit golden by the nearest lamp. Color palette: deep black mud, acid green seedling shoots, warm amber and copper firelight, with the faintest golden-yellow moon glow on the water horizon.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-16.png"
+    }
   }
 ]
