@@ -3638,5 +3638,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominate. A tidal mudflat off the coast of Kalimantan at night, the dark water surface broken by rows of tiny mangrove propagules \u2014 long pencil-shaped torpedo pods with glowing reddish tips \u2014 planted in a grid extending into the black water, lit from below by submerged lanterns casting amber-gold pools across the wet mud. Bamboo nursery platforms rise from the shallows, illuminated by hanging oil lamps and small cooking fires on the platform edges, their warm orange flame-light catching the acid-green leaves of seedlings in plastic nursery bags lined up in careful rows. A stilted village glows in the background \u2014 tin rooftops and weathered wood touched by firelight, fishing nets strung between posts catching the light like spiderwebs. In the middle distance a dugout canoe carries a village elder holding a torch, its flame the brightest point in the composition, reflected perfectly in the black mirror water below alongside the silhouette of a gnarled mature mangrove prop root arching from darkness. A child wades knee-deep near the nursery platform, a woven basket of seedlings on their hip, their warm brown skin lit golden by the nearest lamp. Color palette: deep black mud, acid green seedling shoots, warm amber and copper firelight, with the faintest golden-yellow moon glow on the water horizon.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-16.png"
     }
+  },
+  {
+    "date": "2026-03-17",
+    "generated_at": "2026-03-17T11:44:00.333401+00:00",
+    "doom": {
+      "percentage": 56.0,
+      "raw_percentage": 54.7,
+      "driver": "Israel says it killed two top Iranian commanders in targeted strike. Israel says it killed Ali Larijani and Gholamreza Soleimani, the highest profile assassinations since the targeting of Iran's supreme leader Ayatollah Ali Khamenei on the first day of the war.",
+      "category": "Geopolitics",
+      "blurb": "ISRAEL KEEPS BEHEADING THE SNAKE",
+      "summary": "Israel has now assassinated Iran's security chief Ali Larijani and the Basij commander \u2014 the highest-profile kills since Khamenei himself \u2014 while Iran responded by torching a UAE gas field and striking a tanker near the Strait of Hormuz. Meanwhile Trump is delaying his Beijing summit, Europeans are refusing to help secure the Strait, and oil just spiked 4%. The war isn't escalating into something new so much as metastasizing into everything: energy markets, Asian economies, Lebanon, Pakistan, Cuba's power grid, and apparently the US-China diplomatic calendar.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Israel killing Iran's top two remaining commanders while Iran retaliates against UAE energy infrastructure marks a clear escalatory ratchet with no off-ramp visible."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "European NATO allies openly refusing Trump's Strait of Hormuz request and Trump sanctioning foreign leaders for criticism suggests coalition fracture at a critical moment."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "MIT Tech Review flags OpenAI technology potentially showing up in Iran, while Anthropic is urgently hiring weapons experts \u2014 the war is already bleeding into AI misuse territory."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Pakistan airstrike killing 100+ at a Kabul rehab centre introduces a second active military conflict this week, raising the risk of compounding crises overwhelming diplomatic bandwidth."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "xAI CSAM lawsuit and OpenAI mental health experts opposing ChatGPT launches are troubling governance signals but remain below the acute-risk threshold today."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "unraveling",
+        "combustible",
+        "fatigued"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from a Tehran government courtyard \u2014 the camera pressed low against cracked flagstone pavement, looking straight up at the towering facade of a concrete Iranian ministry building, its ornate Islamic archway and tall flagpole dominating the frame above, an IRGC green banner hanging limp against a sky consumed by blood orange and churning volcanic black, the Alborz Mountains visible as snow-capped silhouettes at the extreme upper edge of frame, their peaks barely distinguishable from the smoke-thickened atmosphere \u2014 the building's upper floors are shattered, twisted rebar jutting from collapsed concrete corners, pulverized gray dust drifting downward in slow pixel cascades across the courtyard, catching the hellish underlighting in amber-orange fragments \u2014 the flagpole bends at a wrong angle, the iron security gate below buckled outward \u2014 from this worm's-eye perspective the architecture feels monumental and broken simultaneously, the geometric concrete ribbing of the facade receding upward into an orange-black sky where no aircraft are visible but the silence feels occupied \u2014 cool tones nearly extinguished, only volcanic blood orange and deep black remaining, the pale March sunlight of Persian spring completely swallowed \u2014 no people, no text, no antialiasing, pure 16-bit SNES pixel grid.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-17.png"
+    },
+    "dawn": {
+      "percentage": 44.0,
+      "driver": "Scientists inject one tumor and watch cancer vanish across the body. A redesigned cancer immunotherapy is showing striking early results after decades of disappointment with similar drugs.",
+      "category": "Medicine",
+      "blurb": "ONE SHOT. CANCER RETREATS ACROSS THE BODY.",
+      "summary": "In a world consumed by war and energy crisis, a quiet lab breakthrough is rewriting what cancer treatment can look like. Researchers engineered a more powerful CD40 agonist antibody and \u2014 after decades of failed attempts \u2014 watched tumors beyond the injection site disappear, suggesting the immune system can be taught to hunt cancer systemically. This is exactly the kind of durable, compounding human progress that persists regardless of headlines: science that doesn't pause for geopolitics.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Injecting a single tumor and triggering system-wide cancer regression is a result oncologists have chased for over 30 years \u2014 seeing it work now is a genuine landmark."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iranian women's footballers were granted Australian asylum and are already training with Brisbane Roar, a small act of human solidarity cutting through the fog of war."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Riverdance marks 30 years on stage, a reminder that art and cultural tradition endure and adapt across generations and crises alike."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A new nature-inspired seawall add-on in South Florida is quietly restoring marine habitat at the city's edge, blending engineering with ecology."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A particle missing for 20 years was discovered at CERN's LHCb experiment, proof that fundamental science keeps delivering answers even as the world burns."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "hope",
+        "perseverance"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene looking outward, from inside a bright clinical oncology treatment room at Memorial Sloan Kettering, warm golden-yellow daylight flooding through a wide window that frames the outside world beyond. The room glows with balanced warmth \u2014 cream-white walls, a reclined treatment chair centered in the foreground, an unused IV pole standing idle to one side. The visual hero: a single small syringe resting on a sterile tray beside the chair, modest and precise against the enormity of what it has done. Through the large window, fresh green trees catch afternoon sunlight, the outside world luminous and alive. On the inner wall, pinned beside a lightbox monitor, a scan image shows a human leg \u2014 its lower half once scattered with dozens of small dark tumor nodules, now smooth and clear. A silver-haired figure in a lab coat leans forward toward the lightbox in quiet astonishment, body language of someone who has waited twenty years. Floating in the golden light of the window glass, magnified and jewel-like, a luminous Y-shaped antibody structure glows \u2014 engineered and intentional, gripping like a precise key. Tiny luminous T cells with outreaching tendrils drift through the scene like lit sparks racing outward. Fresh green and warm gold dominate every surface, confident steady warmth, balanced daylight, 16-bit pixel fidelity throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-17.png"
+    }
   }
 ]
