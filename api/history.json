@@ -3734,5 +3734,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene looking outward, from inside a bright clinical oncology treatment room at Memorial Sloan Kettering, warm golden-yellow daylight flooding through a wide window that frames the outside world beyond. The room glows with balanced warmth \u2014 cream-white walls, a reclined treatment chair centered in the foreground, an unused IV pole standing idle to one side. The visual hero: a single small syringe resting on a sterile tray beside the chair, modest and precise against the enormity of what it has done. Through the large window, fresh green trees catch afternoon sunlight, the outside world luminous and alive. On the inner wall, pinned beside a lightbox monitor, a scan image shows a human leg \u2014 its lower half once scattered with dozens of small dark tumor nodules, now smooth and clear. A silver-haired figure in a lab coat leans forward toward the lightbox in quiet astonishment, body language of someone who has waited twenty years. Floating in the golden light of the window glass, magnified and jewel-like, a luminous Y-shaped antibody structure glows \u2014 engineered and intentional, gripping like a precise key. Tiny luminous T cells with outreaching tendrils drift through the scene like lit sparks racing outward. Fresh green and warm gold dominate every surface, confident steady warmth, balanced daylight, 16-bit pixel fidelity throughout.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-17.png"
     }
+  },
+  {
+    "date": "2026-03-18",
+    "generated_at": "2026-03-18T11:46:33.125892+00:00",
+    "doom": {
+      "percentage": 54.6,
+      "raw_percentage": 52.7,
+      "driver": "At least 400 dead in drug rehabilitation center strike in Kabul, Afghan officials say. Afghanistan says Pakistan is to blame for a strike on a drug rehabilitation center in Kabul that killed at least 400 people, the deadliest attack since fighting began weeks ago.",
+      "category": "Geopolitics",
+      "blurb": "SECOND WAR OPENS WHILE NOBODY WAS WATCHING",
+      "summary": "While everyone's eyes were glued to the Strait of Hormuz, Pakistan apparently bombed a drug rehab center in Kabul and killed at least 400 people \u2014 the deadliest single strike in the region in years. A Pakistan-Afghanistan hot war quietly igniting alongside the Iran-U.S. conflict is the kind of multi-front chaos that historically ends badly, given both countries have nuclear weapons and one of them just massacred hundreds of civilians at dinner. Meanwhile, Iran launched retaliatory strikes after Israel killed its intelligence minister \u2014 the third high-profile assassination in two days \u2014 so the original crisis is also somehow getting worse.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Pakistan-Afghanistan military conflict just produced 400 civilian deaths in a single strike while the Iran-U.S. war simultaneously escalates with retaliatory missile attacks on U.S. assets."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Pentagon planning to train AI models on classified military data, and cheap Iranian drones are overwhelming expensive U.S. interceptors \u2014 the asymmetric warfare math is breaking down in real time."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Top U.S. counterterrorism official resigned citing an illegitimate war started 'due to pressure from Israel,' while Gabbard faces congressional questions with no good answers."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "DOJ says Anthropic 'can't be trusted with warfighting systems' \u2014 a bureaucratic spat, but a preview of who actually controls military AI decisions."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Iran is now successfully acting as Hormuz gatekeeper with countries striking deals around the U.S., suggesting American coercive leverage is eroding faster than anticipated."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "spiraling",
+        "distracted",
+        "volatile",
+        "grim"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at 45-degree angle \u2014 Kabul sprawled across a high-altitude valley basin, the Hindu Kush mountains ringing the horizon as jagged black silhouettes against a sky drowned in blood orange and volcanic ash, their peaks swallowed by churning smoke columns that rise from the city below. The scene is dominated by a walled compound in the center of the frame \u2014 a low-roofed rehabilitation center building reduced to collapsed concrete slabs and exposed rebar, the structure's courtyard cracked open, rubble fanning outward in pixelated gray chunks across dusty brown earth. Tiny figures \u2014 no larger than two or three pixels \u2014 scatter at the compound's edges, dwarfed entirely by the devastation surrounding them. The city beyond spreads in dense amber and ochre blocks, flat-roofed buildings stretching toward mountain foothills, power lines sagging between structures. A deep volcanic underlighting bleeds upward through the smoke, casting everything in smoldering blood orange, cool blue tones almost entirely extinguished \u2014 only faint traces surviving in distant mountain shadows. The atmosphere itself feels heavy and poisoned, dust clouds diffusing the light into a sickly amber haze that presses down over the entire valley. No gore, no weapons, no named figures \u2014 only scale, ruin, and atmosphere. 16-bit SNES pixel art, no text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-18.png"
+    },
+    "dawn": {
+      "percentage": 45.4,
+      "driver": "He survived 48 hours without lungs and lived. A critically ill 33-year-old man survived an almost unimaginable scenario\u2014living for 48 hours without lungs\u2014thanks to a groundbreaking surgical approach.",
+      "category": "Medicine",
+      "blurb": "MEDICINE DEFIED THE IMPOSSIBLE",
+      "summary": "In the middle of a week dominated by airstrikes, assassinations, and energy crises, a 33-year-old man lived for 48 hours without lungs \u2014 and walked away. Surgeons developed a technique that kept him alive while his body fought a devastating flu-triggered infection, then successfully restored him. It's a quiet, almost surreal counterpoint to a world on fire: in a hospital somewhere, a team of humans refused to accept the limit.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A man surviving 48 hours without lungs represents a frontier-crossing surgical achievement that redefines what human medicine can do."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "India's cheap semaglutide generics entering the market on March 20 signals a potential global coalition moment in the obesity and diabetes fight."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "UK dads going viral for gathering at pubs to learn how to braid their daughters' hair is a small, genuine burst of warmth amid relentless darkness."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "South-east Asian nations racing to conserve energy, however urgency-driven, is nudging governments toward reduced fossil fuel dependence faster than policy ever did."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "New research suggesting daily multivitamins may slow biological aging offers a simple, accessible tool that could extend healthy years for millions."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "breakthrough",
+        "defiant",
+        "hopeful",
+        "tenacious"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene, thick golden morning fog rolling through a hospital corridor at Northwestern University, warm haze diffusing the blazing overhead surgical lights into soft amber halos, the mist catching rays of early daylight pushing through large ICU windows, visibility reduced to glowing pools of gold and green. Within this atmospheric murk, a state-of-the-art thoracic surgery suite materializes \u2014 gleaming stainless steel surfaces dissolving into the fog, banks of monitors radiating electric green vital sign waves, a stabilizing heartbeat line climbing from jagged chaos to a calm steady rhythm. At the scene's luminous center, an ECMO artificial lung machine pulses with vivid red oxygenated blood cycling visibly through clear transparent tubing, the circuits looping through the golden haze like a river of life made visible. Beside the machine, the unmistakable negative space of an open chest cavity \u2014 lungs simply absent \u2014 surrounded by a masked surgical team of five figures rendered in careful silhouette against the amber surgical spotlights. In the foreground, resting on a sterile surface, bright fresh pink donor lungs glow against the white like a sunrise through the fog, contrasting sharply with the dark, damaged tissue beside them. Color palette: warm golden-yellow, fresh clinical green, deep amber fog, vivid red blood circuitry.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-18.png"
+    }
   }
 ]
