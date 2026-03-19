@@ -1,97 +1,96 @@
 {
-  "date": "2026-03-18",
-  "generated_at": "2026-03-18T11:46:33.125892+00:00",
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T11:36:40.558406+00:00",
   "doom": {
-    "percentage": 54.6,
-    "raw_percentage": 52.7,
-    "driver": "At least 400 dead in drug rehabilitation center strike in Kabul, Afghan officials say. Afghanistan says Pakistan is to blame for a strike on a drug rehabilitation center in Kabul that killed at least 400 people, the deadliest attack since fighting began weeks ago.",
+    "percentage": 54.0,
+    "raw_percentage": 52.3,
+    "driver": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran.",
     "category": "Geopolitics",
-    "blurb": "SECOND WAR OPENS WHILE NOBODY WAS WATCHING",
-    "summary": "While everyone's eyes were glued to the Strait of Hormuz, Pakistan apparently bombed a drug rehab center in Kabul and killed at least 400 people \u2014 the deadliest single strike in the region in years. A Pakistan-Afghanistan hot war quietly igniting alongside the Iran-U.S. conflict is the kind of multi-front chaos that historically ends badly, given both countries have nuclear weapons and one of them just massacred hundreds of civilians at dinner. Meanwhile, Iran launched retaliatory strikes after Israel killed its intelligence minister \u2014 the third high-profile assassination in two days \u2014 so the original crisis is also somehow getting worse.",
+    "blurb": "THE GAS FIELDS ARE BURNING NOW",
+    "summary": "Israel punched Iran's South Pars gas field, Iran punched Qatar's LNG complex back, and now oil is flirting with $119 a barrel while Europe watches its heating bill catch fire. Canada is frantically drafting G7 de-escalation principles, which is the diplomatic equivalent of bringing a fire extinguisher to a volcano. The war has officially graduated from 'oil export disruption' to 'the entire Gulf energy architecture is a target board.'",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Pakistan-Afghanistan military conflict just produced 400 civilian deaths in a single strike while the Iran-U.S. war simultaneously escalates with retaliatory missile attacks on U.S. assets."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Pentagon planning to train AI models on classified military data, and cheap Iranian drones are overwhelming expensive U.S. interceptors \u2014 the asymmetric warfare math is breaking down in real time."
+        "detail": "Israel-Iran conflict has expanded to mutual strikes on gas infrastructure, with Qatar's LNG complex now hit and Gulf states warning their 'defensive stance won't last forever.'"
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Top U.S. counterterrorism official resigned citing an illegitimate war started 'due to pressure from Israel,' while Gabbard faces congressional questions with no good answers."
+        "detail": "Canada's G7 de-escalation push and Japan PM's 'difficult' Trump talks signal allied coordination is strained and reactive rather than proactive."
       },
       {
-        "name": "Alignment",
+        "name": "AI Capability",
         "signal": "low",
-        "detail": "DOJ says Anthropic 'can't be trusted with warfighting systems' \u2014 a bureaucratic spat, but a preview of who actually controls military AI decisions."
+        "detail": "Pentagon AI planning and Sony's 135,000 deepfake removals are background noise compared to kinetic escalation dominating the week."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Iran is now successfully acting as Hormuz gatekeeper with countries striking deals around the U.S., suggesting American coercive leverage is eroding faster than anticipated."
+        "detail": "Trump threatening to 'blow up' South Pars if Qatar strikes continue introduces unpredictable escalation triggers into an already volatile energy war."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "No significant AI alignment developments today; the existential drama is firmly analog and hydrocarbon-flavored."
       }
     ],
     "mood": [
-      "cascading",
-      "spiraling",
-      "distracted",
       "volatile",
-      "grim"
+      "escalating",
+      "combustible",
+      "reactive"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-03-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at 45-degree angle \u2014 Kabul sprawled across a high-altitude valley basin, the Hindu Kush mountains ringing the horizon as jagged black silhouettes against a sky drowned in blood orange and volcanic ash, their peaks swallowed by churning smoke columns that rise from the city below. The scene is dominated by a walled compound in the center of the frame \u2014 a low-roofed rehabilitation center building reduced to collapsed concrete slabs and exposed rebar, the structure's courtyard cracked open, rubble fanning outward in pixelated gray chunks across dusty brown earth. Tiny figures \u2014 no larger than two or three pixels \u2014 scatter at the compound's edges, dwarfed entirely by the devastation surrounding them. The city beyond spreads in dense amber and ochre blocks, flat-roofed buildings stretching toward mountain foothills, power lines sagging between structures. A deep volcanic underlighting bleeds upward through the smoke, casting everything in smoldering blood orange, cool blue tones almost entirely extinguished \u2014 only faint traces surviving in distant mountain shadows. The atmosphere itself feels heavy and poisoned, dust clouds diffusing the light into a sickly amber haze that presses down over the entire valley. No gore, no weapons, no named figures \u2014 only scale, ruin, and atmosphere. 16-bit SNES pixel art, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-18.png"
+    "card_image": "doom-card-2026-03-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the frost-rimmed base of a colossal spherical LNG storage tank \u2014 the curve of its white-painted steel hull dominating the composition like a frozen moon, condensation ice crystals rendered in precise dithered pixels catching the last of the light, the tank's lower hemisphere glowing blood orange and volcanic amber from reflected inferno light sources just off-frame, the upper curve dissolving into absolute black sky, no antialiasing, the concrete plinth at the tank's equator cracked and stained with rust-brown streaks, a thick insulated pipeline entering frame from the lower-right corner \u2014 silver lagging tape wrapped in segments, elevated on a squat concrete saddle, the pipe's surface acting as a mirror reflecting a smeared streak of orange fire-glow and black petrochemical smoke that fills the reflected world entirely, the Ras Laffan waterfront implied only through a sliver of dark blue-green Persian Gulf water visible at the extreme lower edge of the frame, a chaotic flare stack flame barely intruding from the top-left corner as a single tongue of dithered orange-red pixels eating into the black sky, the entire image color-graded to blood orange and deep volcanic black with cool tones nearly absent, 16-bit SNES pixel palette, no text, no people, no weapons firing, tension communicated entirely through industrial scale and the consuming fire-reflected light.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-19.png"
   },
   "dawn": {
-    "percentage": 45.4,
-    "driver": "He survived 48 hours without lungs and lived. A critically ill 33-year-old man survived an almost unimaginable scenario\u2014living for 48 hours without lungs\u2014thanks to a groundbreaking surgical approach.",
-    "category": "Medicine",
-    "blurb": "MEDICINE DEFIED THE IMPOSSIBLE",
-    "summary": "In the middle of a week dominated by airstrikes, assassinations, and energy crises, a 33-year-old man lived for 48 hours without lungs \u2014 and walked away. Surgeons developed a technique that kept him alive while his body fought a devastating flu-triggered infection, then successfully restored him. It's a quiet, almost surreal counterpoint to a world on fire: in a hospital somewhere, a team of humans refused to accept the limit.",
+    "percentage": 46.0,
+    "driver": "Mathematician wins 2026 Abel prize for solving 60-year-old mystery. Gerd Faltings shocked mathematicians around the world for his 1983 proof of the Mordell conjecture, which brought together seemingly disparate mathematical fields",
+    "category": "Science",
+    "blurb": "HUMAN MIND CRACKS 60-YEAR MYSTERY",
+    "summary": "While energy infrastructure burns across the Middle East and markets spiral, the Abel Prize reminds us that the human intellect keeps reaching toward permanence. The Mordell conjecture \u2014 a problem that stumped the world's best mathematical minds for six decades \u2014 fell to one person's focused brilliance, weaving together fields that seemed unrelated until they suddenly weren't. In a week of cascading crises, a proof that will outlast every war quietly takes its place in the canon of human achievement.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A man surviving 48 hours without lungs represents a frontier-crossing surgical achievement that redefines what human medicine can do."
+        "detail": "The Abel Prize recognizes a landmark proof connecting disparate branches of mathematics, a reminder that cooperative intellectual traditions transcend geopolitical chaos."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "India's cheap semaglutide generics entering the market on March 20 signals a potential global coalition moment in the obesity and diabetes fight."
+        "detail": "Canada is actively drafting G7 and Middle East de-escalation principles, showing multilateral diplomacy is still being attempted even as the war widens."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "UK dads going viral for gathering at pubs to learn how to braid their daughters' hair is a small, genuine burst of warmth amid relentless darkness."
+        "detail": "Kenyan grandmothers formed a soccer team to mentor teenagers, outrunning the next generation on the field while building community resilience."
       },
       {
         "name": "Environment",
         "signal": "quiet",
-        "detail": "South-east Asian nations racing to conserve energy, however urgency-driven, is nudging governments toward reduced fossil fuel dependence faster than policy ever did."
+        "detail": "New Scientist reports the Iran war's energy shock could accelerate the clean energy transition as nations scramble to reduce fossil fuel dependency."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "New research suggesting daily multivitamins may slow biological aging offers a simple, accessible tool that could extend healthy years for millions."
+        "detail": "Google's AI rerouted over 100 transatlantic flights to reduce climate-warming contrails, a quiet but meaningful win for AI applied to environmental good."
       }
     ],
     "mood": [
-      "resilient",
-      "breakthrough",
-      "defiant",
-      "hopeful",
-      "tenacious"
+      "brilliant",
+      "enduring",
+      "transcendent",
+      "purposeful",
+      "resilient"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-03-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene, thick golden morning fog rolling through a hospital corridor at Northwestern University, warm haze diffusing the blazing overhead surgical lights into soft amber halos, the mist catching rays of early daylight pushing through large ICU windows, visibility reduced to glowing pools of gold and green. Within this atmospheric murk, a state-of-the-art thoracic surgery suite materializes \u2014 gleaming stainless steel surfaces dissolving into the fog, banks of monitors radiating electric green vital sign waves, a stabilizing heartbeat line climbing from jagged chaos to a calm steady rhythm. At the scene's luminous center, an ECMO artificial lung machine pulses with vivid red oxygenated blood cycling visibly through clear transparent tubing, the circuits looping through the golden haze like a river of life made visible. Beside the machine, the unmistakable negative space of an open chest cavity \u2014 lungs simply absent \u2014 surrounded by a masked surgical team of five figures rendered in careful silhouette against the amber surgical spotlights. In the foreground, resting on a sterile surface, bright fresh pink donor lungs glow against the white like a sunrise through the fog, contrasting sharply with the dark, damaged tissue beside them. Color palette: warm golden-yellow, fresh clinical green, deep amber fog, vivid red blood circuitry.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-18.png"
+    "card_image": "dawn-card-2026-03-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden-yellow light blazing through tall arched windows of a high-ceilinged European academic office at the Max Planck Institute in Bonn, warm fresh daylight flooding the room and casting everything into deep shadow at the foreground. The environment dominates \u2014 floor-to-ceiling blackboards lining the walls glow faintly with backlit chalk equations, donut-torus shapes and multi-holed geometric surfaces rendered in sequence across the board, the Pythagorean equation cascading among them, all silhouetted against the blazing window light. A single figure, the mathematician, stands in stark black silhouette at the blackboard, chalk raised, back half-turned, utterly absorbed, his form haloed by the golden-yellow morning light pouring in behind him. On a desk in the foreground, also silhouetted, sits an absurdly thin stack of papers \u2014 the 18-page proof \u2014 beside dense academic volumes, its slimness striking against the thick tomes. Clustered in a doorway, small silhouetted figures of colleagues lean together in stunned reaction. A faded portrait hangs on the far wall, ghostly in the warm haze. Palette: golden yellow, warm amber, fresh green accents in the chalk glow, deep charcoal shadows. Confident, steady warmth.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-19.png"
   }
 }
