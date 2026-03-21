@@ -3939,5 +3939,100 @@
       "card_image": "dawn-card-2026-03-20.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the floor of a flame synthesis laboratory, dramatic low-angle perspective with towering industrial equipment looming overhead against a high ceiling. The flame reactor dominates the upper frame \u2014 a roaring white-blue inferno of 3000\u00b0C blazing upward like a captured sun, casting cascading golden-yellow light that floods downward across the entire scene. Thick pressurized gas feed lines and steel reaction vessels rise like cathedral columns on either side, their gauges and digital temperature readouts glowing amber. Fine ivory-white hafnium oxide powder drifts slowly downward through the luminous air like snow falling in reverse, each mote catching the flame's golden radiance. A glass collection flask sits in the extreme foreground at ground level, filled with clear methanol that refracts warm golden light into prismatic splashes across the polished floor. A nearby monitor screen tilts into frame showing ghostly atomic-resolution electron microscope imagery \u2014 individual bright indium atoms spaced like stars on a white surface. Two researchers in white lab coats appear as towering silhouettes from below, their figures backlit by the blazing reactor flame, one holding a sample vessel, their goggles glinting gold. Fresh green indicator lights pulse along instrument panels. The palette is golden-yellow, warm ivory, and clean fresh green \u2014 confident, luminous, quietly triumphant."
     }
+  },
+  {
+    "date": "2026-03-21",
+    "generated_at": "2026-03-21T11:23:30.310814+00:00",
+    "doom": {
+      "percentage": 50.1,
+      "raw_percentage": 47.3,
+      "driver": "OpenAI is throwing everything into building a fully automated researcher. OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
+      "category": "AI Capability",
+      "blurb": "THE MACHINE THAT REPLACES THE SCIENTISTS WHO BUILD THE MACHINE",
+      "summary": "While the Middle East burns through its fourth week of war and the IEA is telling people to drive slower and ditch their gas cookers, OpenAI quietly announced it's building a fully automated AI researcher \u2014 the kind of system that could recursively accelerate its own development. Meanwhile, Palantir is hosting a developer conference where AI is literally 'built to win wars,' and the Trump administration just released a plan to gut state AI regulation. Nothing about this particular confluence of events should be reassuring.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "OpenAI's pivot to building a fully automated AI researcher marks a qualitative shift toward recursive self-improvement capability, not just incremental product release."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's new AI legislative blueprint explicitly blocks state-level regulation, creating a governance vacuum as capability surges; DOGE is also reportedly telling the NRC to take orders."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran war enters week four with no resolution \u2014 Trump says no ceasefire but hints at 'winding down,' while more Marines head to the Persian Gulf in apparent contradiction."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "Anthropic is publicly denying it could sabotage AI tools mid-war while the DoD alleges otherwise \u2014 the fact this dispute is happening at all is the alarming part."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "The IEA warning of the 'largest supply disruption in oil market history' is now bleeding into global food supply via Strait of Hormuz fertilizer shipping collapse."
+        }
+      ],
+      "mood": [
+        "accelerating",
+        "unmoored",
+        "volatile",
+        "recursive",
+        "exhausted"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene looking outward \u2014 we are deep inside a vast San Francisco SoMA office at pre-dawn, the room stretching back into volcanic darkness, blood orange underlighting bleeding up from floor-level server vents and casting molten shadows across everything, cool blue nearly extinguished. A single massive window dominates the far wall, framing the San Francisco skyline swallowed by marine layer fog, only the faintest amber grid of city lights bleeding through the gray murk outside. Inside: a towering black server rack fills the left edge of the frame, amber and green LEDs blinking like embers, dense cable bundles running between units like severed neural pathways. A large whiteboard dominates the center-right wall, covered in half-erased mathematical notation \u2014 conjecture diagrams, arrows connecting nodes, equations dissolving into ghost marks. Before it, a lone workstation glows with cascading code on multiple monitors, the screens painting the surrounding darkness in cold blue that fights and loses against the blood orange volcanic underlighting. At the workstation sits a translucent luminous figure \u2014 human in silhouette but hollow, composed of flowing text and data streams, autonomous, weightless \u2014 filling the whiteboard, running experiments, doing the work of dozens. A DNA helix model sits on a nearby desk beside stacked research papers. The fog presses against the window like a living thing. No text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 49.9,
+      "driver": "Mexico's monarch butterfly population jumps 64%, offering hope for at-risk species. The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticides",
+      "category": "Environment",
+      "blurb": "MONARCHS SURGE BACK \u2014 NATURE REFUSES TO QUIT",
+      "summary": "Against a backdrop of war, energy crisis, and geopolitical chaos, nature delivered a quiet but emphatic win: Mexico's monarch butterfly population grew 64% this winter, reclaiming their largest forest footprint since 2018. This didn't happen by accident \u2014 it reflects years of cross-border conservation cooperation between the U.S., Mexico, and Canada, farmers adjusting practices, and communities protecting overwintering forests. When doom feels structural and relentless, a 64% rebound in one of nature's most beloved migrations is a reminder that patient, coordinated human effort still bends outcomes toward life.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "A 64% population jump \u2014 the largest monarch forest coverage since 2018 \u2014 shows that targeted conservation efforts across three nations can reverse steep declines even amid ongoing habitat and climate pressures."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The monarch recovery is explicitly a trilateral success story, with U.S., Mexican, and Canadian governments, farmers, and NGOs coordinating milkweed restoration and forest protection across migration corridors."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Engineered probiotic bacteria are now hunting tumors in mice, producing cancer-fighting drugs precisely where needed \u2014 a targeted therapy approach that sidesteps systemic toxicity entirely."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Palestinians in Gaza celebrated Eid during a six-month ceasefire, finding moments of communal joy and resilience despite continued displacement and hardship \u2014 a reminder that human connection persists in the hardest circumstances."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "NASA's Artemis Moon rocket is rolling back to the launch pad for a possible April launch, rekindling the prospect of humans returning to lunar orbit for the first time in over 50 years."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "renewal",
+        "cooperation",
+        "recovery",
+        "wonder"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Michoac\u00e1n mountain landscape dominating the frame \u2014 a dense cathedral of dark emerald oyamel fir trees carpeting steep Mexican highlands, their canopy erupting in waves of burnt orange and jet black as millions of monarch butterflies blanket every visible branch and treetop, turning the entire forest into a living mosaic of amber and gold. Clear golden-yellow afternoon light floods down from above, catching the wings mid-flutter so the whole canopy shimmers and pulses with warm orange fire against the deep cool green of the firs. Tiny pixel figures of conservationists and Indigenous forest guardians stand at the forest edge far below, arms outstretched, impossibly small against the vast butterfly-smothered landscape. Milkweed clusters with pink-purple globe flowers dot the sunlit clearings at the forest margin. One section of the canopy glows thin and sparse \u2014 the previous year's sparse coverage \u2014 while the adjacent grove overflows with dense orange, suggesting dramatic 64% expansion. The air between the trees fills with drifting orange specks ascending into golden sky, creating depth from the mountain forest floor up through the luminous canopy to open daylight above."
+    }
   }
 ]
