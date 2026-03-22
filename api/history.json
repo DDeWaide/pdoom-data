@@ -4120,5 +4120,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Michoac\u00e1n mountain landscape dominating the frame \u2014 a dense cathedral of dark emerald oyamel fir trees carpeting steep Mexican highlands, their canopy erupting in waves of burnt orange and jet black as millions of monarch butterflies blanket every visible branch and treetop, turning the entire forest into a living mosaic of amber and gold. Clear golden-yellow afternoon light floods down from above, catching the wings mid-flutter so the whole canopy shimmers and pulses with warm orange fire against the deep cool green of the firs. Tiny pixel figures of conservationists and Indigenous forest guardians stand at the forest edge far below, arms outstretched, impossibly small against the vast butterfly-smothered landscape. Milkweed clusters with pink-purple globe flowers dot the sunlit clearings at the forest margin. One section of the canopy glows thin and sparse \u2014 the previous year's sparse coverage \u2014 while the adjacent grove overflows with dense orange, suggesting dramatic 64% expansion. The air between the trees fills with drifting orange specks ascending into golden sky, creating depth from the mountain forest floor up through the luminous canopy to open daylight above.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-21.png"
     }
+  },
+  {
+    "date": "2026-03-22",
+    "generated_at": "2026-03-22T11:23:25.926062+00:00",
+    "doom": {
+      "percentage": 55.5,
+      "raw_percentage": 57.3,
+      "driver": "Trump gives Iran 48-hour ultimatum to reopen Strait of Hormuz or face strikes on power plants.",
+      "category": "Geopolitics",
+      "blurb": "48 HOURS TO SAVE THE GLOBAL ECONOMY",
+      "summary": "Trump has handed Iran a 48-hour ultimatum to reopen the Strait of Hormuz or watch its power plants get 'obliterated' \u2014 which is a bold negotiating tactic when Iranian missiles are already penetrating Israeli air defenses near nuclear sites and Tehran just lobbed two missiles at a joint US-UK base in the Indian Ocean. We are now firmly in the territory where every headline sounds like it was written by someone who lost a bet. The war is in week four, the ultimatum clock is ticking, and the Strait of Hormuz handles roughly 20% of the world's oil \u2014 so, no pressure.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "A US presidential 48-hour ultimatum threatening strikes on Iranian power plants, combined with Iranian missiles breaching Israeli defenses near a nuclear facility, represents a dramatic escalation from yesterday's already alarming baseline."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Gemini task automation is clunky but functional \u2014 the machines are learning to use apps for us, but today's real drama is firmly analog and explosive."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "TSA workers entering week five without pay amid a partial government shutdown, Trump threatening to send ICE into airports, and a federal judge ruling Pentagon press restrictions violate the First Amendment paint a picture of institutional strain."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "No major AI alignment headlines today, though the broader context of automated systems and reduced human oversight continues to simmer in the background."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Iranian missiles failing to hit the Diego Garcia US-UK base is the kind of 'near miss' that belongs in a thriller novel \u2014 the fact that they were fired at all at a joint superpower base is the story, not that they missed."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "precarious",
+        "ticking",
+        "volatile"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-03-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 dense Gulf haze and petroleum smoke filters every pixel, a thick atmospheric murk the color of burnt amber pressing down over the Strait of Hormuz at dawn, the sky a choked blood orange gradient bleeding into deep volcanic black at the upper frame, zero blue remaining, the air itself made visible as layered curtains of dust and heat shimmer. Geography first: the narrow strait's khaki-brown water fills the lower half, the ochre limestone ridges of the Hajar Mountains serrating the far horizon as a jagged silhouette, the Iranian coastline a low dark smear to the north barely visible through the haze. In the water, a single colossal VLCC supertanker sits motionless at anchor \u2014 300 meters of rust-streaked hull, orange-red antifouling paint at the waterline, anchor chain disappearing into murky green-brown Gulf water, no wake, no movement, the surrounding shipping lanes eerily, powerfully empty where dozens of vessels should be. Semi-submerged spherical horned contact mines dot the foreground water, dark metal catching blood orange underlighting. On the distant Iranian coastline, the unmistakable silhouette of a Soviet-era nuclear reactor dome rises above cooling towers exhaling white steam plumes that immediately dissolve into the choking haze above. Ghost shipping lanes stretch into the vanishing point, negative space as threat. Blood orange and deep black, volcanic underlighting, cool tones entirely extinguished.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-22.png"
+    },
+    "dawn": {
+      "percentage": 44.5,
+      "driver": "New pill cuts 'bad' cholesterol by 60% in major trial. A new pill, enlicitide, reduced LDL ('bad') cholesterol by about 60% in a large clinical trial, matching the power of injectable therapies. Because it's taken orally, it could overcome one of the biggest barriers to treatment.",
+      "category": "Medicine",
+      "blurb": "A PILL THAT COULD SAVE MILLIONS OF HEARTS",
+      "summary": "As missiles trade hands across the Middle East and war dominates the headlines, a quieter revolution is happening in a lab: a new oral drug just matched the cholesterol-lowering power of injectable therapies in a major clinical trial. Enlicitide's 60% LDL reduction could transform cardiovascular care for the hundreds of millions who struggle with injections or adherence. In a week when human life feels cheap, science just found another way to protect it.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 60% reduction in LDL cholesterol via a simple pill represents a genuine clinical breakthrough that could prevent millions of heart attacks and strokes annually."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Ghana's push at the UN to declare the trans-Atlantic slave trade a crime against humanity signals a slow, determined effort toward global historical accountability."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Lebanese nurse refused to abandon her hospital post in the Bekaa Valley even after losing her fianc\u00e9 in the war \u2014 quiet courage in the face of unbearable loss."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Discovery of a massive hidden freshwater reservoir beneath the Great Salt Lake offers unexpected hope for one of America's most stressed water systems."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Hubble accidentally capturing a comet breaking apart in real time \u2014 something astronomers have sought for generations \u2014 is a reminder that the universe still hands us gifts."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "determined",
+        "life-saving"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-03-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with an open human palm held flat, warm golden-amber skin tones catching balanced daylight from a nearby window, a single tiny white pill resting at the very center of the palm \u2014 the absolute hero of the composition, rendered with crisp pixel detail, its surface catching a soft golden highlight. The pill casts a small clean shadow on the skin's surface lines. At the extreme edges of the frame, barely visible and softly out of focus in cool blue-grey pixels: the blurred rectangular silhouette of a syringe set aside to the left, and the faint amber glow of a pill bottle to the right, implying what came before and what comes next. A few pixel-rendered droplets of water glisten on the fingertips, suggesting the glass of water just set down. The palm's creases catch warm golden-yellow light from the right edge, while fresh green tones bleed softly into the background through a half-visible window reflection on the thumbnail. The mood is steady, quiet, and monumental \u2014 an unremarkable object holding extraordinary power, confidence and warmth radiating from the simplest act in medicine.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-22.png"
+    }
   }
 ]
