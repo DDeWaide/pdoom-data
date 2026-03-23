@@ -1,96 +1,97 @@
 {
-  "date": "2026-03-22",
-  "generated_at": "2026-03-22T11:23:25.926062+00:00",
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T11:44:06.790063+00:00",
   "doom": {
-    "percentage": 55.5,
-    "raw_percentage": 57.3,
-    "driver": "Trump gives Iran 48-hour ultimatum to reopen Strait of Hormuz or face strikes on power plants.",
+    "percentage": 49.7,
+    "raw_percentage": 47.3,
+    "driver": "Trump postpones military strikes on Iranian power plants. This is a breaking news story.",
     "category": "Geopolitics",
-    "blurb": "48 HOURS TO SAVE THE GLOBAL ECONOMY",
-    "summary": "Trump has handed Iran a 48-hour ultimatum to reopen the Strait of Hormuz or watch its power plants get 'obliterated' \u2014 which is a bold negotiating tactic when Iranian missiles are already penetrating Israeli air defenses near nuclear sites and Tehran just lobbed two missiles at a joint US-UK base in the Indian Ocean. We are now firmly in the territory where every headline sounds like it was written by someone who lost a bet. The war is in week four, the ultimatum clock is ticking, and the Strait of Hormuz handles roughly 20% of the world's oil \u2014 so, no pressure.",
+    "blurb": "FIVE DAYS TO TALK THE WORLD OFF THE LEDGE",
+    "summary": "Trump blinked \u2014 or pivoted, depending on your spin \u2014 postponing the threatened strikes on Iranian power plants after 48 hours of markets in freefall and the IEA warning of the worst energy crisis in decades. The Strait of Hormuz is still not open, 40+ Middle East energy assets are 'severely damaged,' and Iran is now threatening Gulf power plants AND US Treasury buyers, so 'de-escalation' is doing a lot of heavy lifting here. Call it a stay of execution: the catastrophe dial turns slightly left, but the finger is still on the button.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "A US presidential 48-hour ultimatum threatening strikes on Iranian power plants, combined with Iranian missiles breaching Israeli defenses near a nuclear facility, represents a dramatic escalation from yesterday's already alarming baseline."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "Gemini task automation is clunky but functional \u2014 the machines are learning to use apps for us, but today's real drama is firmly analog and explosive."
+        "detail": "War enters week four with Trump postponing \u2014 not canceling \u2014 strikes; Iran threatening Gulf power plants and US Treasury buyers while Iraq is being pulled into the conflict."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "TSA workers entering week five without pay amid a partial government shutdown, Trump threatening to send ICE into airports, and a federal judge ruling Pentagon press restrictions violate the First Amendment paint a picture of institutional strain."
+        "detail": "DHS shutdown leaves TSA unpaid while ICE deploys to airports, and Trump's threats against broadcasters for 'non-public interest' Iran coverage raise free speech red flags."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "Musk's Terafab chip plant announcement is a long-horizon compute build, not an immediate capability escalation \u2014 background noise today."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "No major AI alignment headlines today, though the broader context of automated systems and reduced human oversight continues to simmer in the background."
+        "detail": "Wired's 'Gods of AI Warfare' feature on Project Maven's true-believer conversion highlights deepening military AI integration with minimal oversight scrutiny."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Iranian missiles failing to hit the Diego Garcia US-UK base is the kind of 'near miss' that belongs in a thriller novel \u2014 the fact that they were fired at all at a joint superpower base is the story, not that they missed."
+        "detail": "Iranian missiles injuring 180 near Israel's nuclear research site and claims of a downed US F-35 introduce unpredictable escalation vectors that neither side may fully control."
       }
     ],
     "mood": [
-      "escalatory",
+      "tense",
+      "volatile",
+      "provisional",
       "precarious",
-      "ticking",
-      "volatile"
+      "exhausted"
     ],
-    "tier": 6,
-    "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-03-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 dense Gulf haze and petroleum smoke filters every pixel, a thick atmospheric murk the color of burnt amber pressing down over the Strait of Hormuz at dawn, the sky a choked blood orange gradient bleeding into deep volcanic black at the upper frame, zero blue remaining, the air itself made visible as layered curtains of dust and heat shimmer. Geography first: the narrow strait's khaki-brown water fills the lower half, the ochre limestone ridges of the Hajar Mountains serrating the far horizon as a jagged silhouette, the Iranian coastline a low dark smear to the north barely visible through the haze. In the water, a single colossal VLCC supertanker sits motionless at anchor \u2014 300 meters of rust-streaked hull, orange-red antifouling paint at the waterline, anchor chain disappearing into murky green-brown Gulf water, no wake, no movement, the surrounding shipping lanes eerily, powerfully empty where dozens of vessels should be. Semi-submerged spherical horned contact mines dot the foreground water, dark metal catching blood orange underlighting. On the distant Iranian coastline, the unmistakable silhouette of a Soviet-era nuclear reactor dome rises above cooling towers exhaling white steam plumes that immediately dissolve into the choking haze above. Ghost shipping lanes stretch into the vanishing point, negative space as threat. Blood orange and deep black, volcanic underlighting, cool tones entirely extinguished.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-22.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-03-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at pre-dawn, the narrow sea lane stretching into a horizon consumed by deep crimson and smoldering charcoal light, the rocky brown coastline of Iran a jagged black mass along the top edge, the Musandam Peninsula jutting like a dark fist from below, the water between them an oil-black mirror streaked with blood-red reflections \u2014 strong backlight from a distant industrial glow beyond the horizon, the source unseen but volcanic in intensity, casting everything forward into pure silhouette \u2014 in the foreground a massive aircraft carrier superstructure rises as a flat black cutout against the burning sky, its island tower and radar arrays rendered as stark geometric shapes, F/A-18 silhouettes spotted motionless on the angled flight deck \u2014 to the left the enormous low hull of a fully loaded VLCC oil tanker sits heavy in the water, its rust-streaked mass a black rectangle bleeding into the dark sea \u2014 on the far Iranian shoreline truck-mounted coastal missile launchers appear as tiny angular silhouettes frozen in place, barrels aimed outward but still \u2014 a pale dome shape, the Bushehr power plant, glows faintly orange on the horizon, backlit and ominous, its cooling infrastructure a crown of dark pylons and cables \u2014 the entire scene saturated in dark crimson and charcoal, firelight color bleeding across every surface, no movement, suspended tension, no text, no antialiasing, SNES 16-bit dithering throughout.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-23.png"
   },
   "dawn": {
-    "percentage": 44.5,
-    "driver": "New pill cuts 'bad' cholesterol by 60% in major trial. A new pill, enlicitide, reduced LDL ('bad') cholesterol by about 60% in a large clinical trial, matching the power of injectable therapies. Because it's taken orally, it could overcome one of the biggest barriers to treatment.",
-    "category": "Medicine",
-    "blurb": "A PILL THAT COULD SAVE MILLIONS OF HEARTS",
-    "summary": "As missiles trade hands across the Middle East and war dominates the headlines, a quieter revolution is happening in a lab: a new oral drug just matched the cholesterol-lowering power of injectable therapies in a major clinical trial. Enlicitide's 60% LDL reduction could transform cardiovascular care for the hundreds of millions who struggle with injections or adherence. In a week when human life feels cheap, science just found another way to protect it.",
+    "percentage": 50.3,
+    "driver": "Scientists discover Alzheimer's hidden \"death switch\" in the brain. Scientists have uncovered a hidden \"death switch\" in the brain that may be driving Alzheimer's disease\u2014and even found a way to turn it off in mice.",
+    "category": "Science",
+    "blurb": "SCIENTISTS FIND THE OFF SWITCH FOR ALZHEIMER'S",
+    "summary": "Even as the world's attention is consumed by war and energy crisis, researchers have quietly identified the toxic protein pairing that may drive Alzheimer's disease \u2014 and demonstrated they can switch it off in mice. This is the kind of incremental, methodical breakthrough that rarely makes front pages but reshapes the future of millions of families. The path from mouse model to human treatment is long and hard, but today, a door opened that wasn't open yesterday.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A 60% reduction in LDL cholesterol via a simple pill represents a genuine clinical breakthrough that could prevent millions of heart attacks and strokes annually."
+        "detail": "Identifying and experimentally disabling Alzheimer's 'death switch' proteins in mice represents a genuinely novel mechanistic breakthrough in one of medicine's most stubborn puzzles."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Ghana's push at the UN to declare the trans-Atlantic slave trade a crime against humanity signals a slow, determined effort toward global historical accountability."
+        "detail": "Trump's five-day postponement of strikes on Iranian energy infrastructure opens a narrow but real window for diplomatic movement after weeks of escalation."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A Lebanese nurse refused to abandon her hospital post in the Bekaa Valley even after losing her fianc\u00e9 in the war \u2014 quiet courage in the face of unbearable loss."
+        "detail": "A scientist from Zambia running a lab in South Africa is being hailed for 'extraordinary' drug discovery work, embodying the global democratization of scientific excellence."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Discovery of a massive hidden freshwater reservoir beneath the Great Salt Lake offers unexpected hope for one of America's most stressed water systems."
+        "signal": "glimmer",
+        "detail": "New research confirms beavers are transforming streams into carbon-sequestering wetlands, offering a low-cost, nature-driven tool in the climate fight."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Hubble accidentally capturing a comet breaking apart in real time \u2014 something astronomers have sought for generations \u2014 is a reminder that the universe still hands us gifts."
+        "detail": "Australian scientists have demonstrated a working quantum battery prototype capable of ultra-fast 'super absorption' charging, a potential leap for energy storage technology."
       }
     ],
     "mood": [
       "breakthrough",
-      "resilient",
+      "discovery",
+      "resilience",
       "hopeful",
-      "determined",
-      "life-saving"
+      "determined"
     ],
-    "tier": 5,
-    "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-03-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with an open human palm held flat, warm golden-amber skin tones catching balanced daylight from a nearby window, a single tiny white pill resting at the very center of the palm \u2014 the absolute hero of the composition, rendered with crisp pixel detail, its surface catching a soft golden highlight. The pill casts a small clean shadow on the skin's surface lines. At the extreme edges of the frame, barely visible and softly out of focus in cool blue-grey pixels: the blurred rectangular silhouette of a syringe set aside to the left, and the faint amber glow of a pill bottle to the right, implying what came before and what comes next. A few pixel-rendered droplets of water glisten on the fingertips, suggesting the glass of water just set down. The palm's creases catch warm golden-yellow light from the right edge, while fresh green tones bleed softly into the background through a half-visible window reflection on the thumbnail. The mood is steady, quiet, and monumental \u2014 an unremarkable object holding extraordinary power, confidence and warmth radiating from the simplest act in medicine.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-22.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-03-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened Heidelberg neuroscience laboratory, deep shadows consuming the high-ceilinged room, all light radiating from artificial sources \u2014 a fluorescence microscope's blue-green eyepiece glows like a lantern in the dimness, large wall monitors casting warm gold and emerald light across adjacent benches crowded with micropipettes and vials. The dominant light source is a towering screen displaying an illuminated neuron diagram in radiant emerald green, its branching dendrites and synapse gaps crackling with tiny pixel sparks of gold, the NMDAR/TRPM4 death complex shown as two dark jagged shapes on the neuron's surface being blocked by a gleaming golden key-shaped molecule. Inside the neuron's body, small bean-shaped mitochondria glow like warm amber lanterns, staying lit, intact. A silver-haired professor stands silhouetted against the monitor, arm raised gesturing toward the protein interaction map, his outline edged in gold from the screen's warmth. A second researcher leans into the fluorescence microscope, face bathed in cold blue-green light from the eyepiece, a moment of silent revelation. In the deep background, dark lab benches recede into shadow, broken only by the soft underglow of lightboxes beneath slides, rich emerald and saturated gold dominating every source of light in the otherwise swallowing darkness.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-23.png"
   }
 }

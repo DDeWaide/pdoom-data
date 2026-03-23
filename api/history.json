@@ -4216,5 +4216,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with an open human palm held flat, warm golden-amber skin tones catching balanced daylight from a nearby window, a single tiny white pill resting at the very center of the palm \u2014 the absolute hero of the composition, rendered with crisp pixel detail, its surface catching a soft golden highlight. The pill casts a small clean shadow on the skin's surface lines. At the extreme edges of the frame, barely visible and softly out of focus in cool blue-grey pixels: the blurred rectangular silhouette of a syringe set aside to the left, and the faint amber glow of a pill bottle to the right, implying what came before and what comes next. A few pixel-rendered droplets of water glisten on the fingertips, suggesting the glass of water just set down. The palm's creases catch warm golden-yellow light from the right edge, while fresh green tones bleed softly into the background through a half-visible window reflection on the thumbnail. The mood is steady, quiet, and monumental \u2014 an unremarkable object holding extraordinary power, confidence and warmth radiating from the simplest act in medicine.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-22.png"
     }
+  },
+  {
+    "date": "2026-03-23",
+    "generated_at": "2026-03-23T11:44:06.790063+00:00",
+    "doom": {
+      "percentage": 49.7,
+      "raw_percentage": 47.3,
+      "driver": "Trump postpones military strikes on Iranian power plants. This is a breaking news story.",
+      "category": "Geopolitics",
+      "blurb": "FIVE DAYS TO TALK THE WORLD OFF THE LEDGE",
+      "summary": "Trump blinked \u2014 or pivoted, depending on your spin \u2014 postponing the threatened strikes on Iranian power plants after 48 hours of markets in freefall and the IEA warning of the worst energy crisis in decades. The Strait of Hormuz is still not open, 40+ Middle East energy assets are 'severely damaged,' and Iran is now threatening Gulf power plants AND US Treasury buyers, so 'de-escalation' is doing a lot of heavy lifting here. Call it a stay of execution: the catastrophe dial turns slightly left, but the finger is still on the button.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "War enters week four with Trump postponing \u2014 not canceling \u2014 strikes; Iran threatening Gulf power plants and US Treasury buyers while Iraq is being pulled into the conflict."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "DHS shutdown leaves TSA unpaid while ICE deploys to airports, and Trump's threats against broadcasters for 'non-public interest' Iran coverage raise free speech red flags."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Musk's Terafab chip plant announcement is a long-horizon compute build, not an immediate capability escalation \u2014 background noise today."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Wired's 'Gods of AI Warfare' feature on Project Maven's true-believer conversion highlights deepening military AI integration with minimal oversight scrutiny."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Iranian missiles injuring 180 near Israel's nuclear research site and claims of a downed US F-35 introduce unpredictable escalation vectors that neither side may fully control."
+        }
+      ],
+      "mood": [
+        "tense",
+        "volatile",
+        "provisional",
+        "precarious",
+        "exhausted"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at pre-dawn, the narrow sea lane stretching into a horizon consumed by deep crimson and smoldering charcoal light, the rocky brown coastline of Iran a jagged black mass along the top edge, the Musandam Peninsula jutting like a dark fist from below, the water between them an oil-black mirror streaked with blood-red reflections \u2014 strong backlight from a distant industrial glow beyond the horizon, the source unseen but volcanic in intensity, casting everything forward into pure silhouette \u2014 in the foreground a massive aircraft carrier superstructure rises as a flat black cutout against the burning sky, its island tower and radar arrays rendered as stark geometric shapes, F/A-18 silhouettes spotted motionless on the angled flight deck \u2014 to the left the enormous low hull of a fully loaded VLCC oil tanker sits heavy in the water, its rust-streaked mass a black rectangle bleeding into the dark sea \u2014 on the far Iranian shoreline truck-mounted coastal missile launchers appear as tiny angular silhouettes frozen in place, barrels aimed outward but still \u2014 a pale dome shape, the Bushehr power plant, glows faintly orange on the horizon, backlit and ominous, its cooling infrastructure a crown of dark pylons and cables \u2014 the entire scene saturated in dark crimson and charcoal, firelight color bleeding across every surface, no movement, suspended tension, no text, no antialiasing, SNES 16-bit dithering throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-23.png"
+    },
+    "dawn": {
+      "percentage": 50.3,
+      "driver": "Scientists discover Alzheimer's hidden \"death switch\" in the brain. Scientists have uncovered a hidden \"death switch\" in the brain that may be driving Alzheimer's disease\u2014and even found a way to turn it off in mice.",
+      "category": "Science",
+      "blurb": "SCIENTISTS FIND THE OFF SWITCH FOR ALZHEIMER'S",
+      "summary": "Even as the world's attention is consumed by war and energy crisis, researchers have quietly identified the toxic protein pairing that may drive Alzheimer's disease \u2014 and demonstrated they can switch it off in mice. This is the kind of incremental, methodical breakthrough that rarely makes front pages but reshapes the future of millions of families. The path from mouse model to human treatment is long and hard, but today, a door opened that wasn't open yesterday.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Identifying and experimentally disabling Alzheimer's 'death switch' proteins in mice represents a genuinely novel mechanistic breakthrough in one of medicine's most stubborn puzzles."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Trump's five-day postponement of strikes on Iranian energy infrastructure opens a narrow but real window for diplomatic movement after weeks of escalation."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A scientist from Zambia running a lab in South Africa is being hailed for 'extraordinary' drug discovery work, embodying the global democratization of scientific excellence."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New research confirms beavers are transforming streams into carbon-sequestering wetlands, offering a low-cost, nature-driven tool in the climate fight."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Australian scientists have demonstrated a working quantum battery prototype capable of ultra-fast 'super absorption' charging, a potential leap for energy storage technology."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "discovery",
+        "resilience",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened Heidelberg neuroscience laboratory, deep shadows consuming the high-ceilinged room, all light radiating from artificial sources \u2014 a fluorescence microscope's blue-green eyepiece glows like a lantern in the dimness, large wall monitors casting warm gold and emerald light across adjacent benches crowded with micropipettes and vials. The dominant light source is a towering screen displaying an illuminated neuron diagram in radiant emerald green, its branching dendrites and synapse gaps crackling with tiny pixel sparks of gold, the NMDAR/TRPM4 death complex shown as two dark jagged shapes on the neuron's surface being blocked by a gleaming golden key-shaped molecule. Inside the neuron's body, small bean-shaped mitochondria glow like warm amber lanterns, staying lit, intact. A silver-haired professor stands silhouetted against the monitor, arm raised gesturing toward the protein interaction map, his outline edged in gold from the screen's warmth. A second researcher leans into the fluorescence microscope, face bathed in cold blue-green light from the eyepiece, a moment of silent revelation. In the deep background, dark lab benches recede into shadow, broken only by the soft underglow of lightboxes beneath slides, rich emerald and saturated gold dominating every source of light in the otherwise swallowing darkness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-23.png"
+    }
   }
 ]
