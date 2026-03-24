@@ -4313,5 +4313,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a darkened Heidelberg neuroscience laboratory, deep shadows consuming the high-ceilinged room, all light radiating from artificial sources \u2014 a fluorescence microscope's blue-green eyepiece glows like a lantern in the dimness, large wall monitors casting warm gold and emerald light across adjacent benches crowded with micropipettes and vials. The dominant light source is a towering screen displaying an illuminated neuron diagram in radiant emerald green, its branching dendrites and synapse gaps crackling with tiny pixel sparks of gold, the NMDAR/TRPM4 death complex shown as two dark jagged shapes on the neuron's surface being blocked by a gleaming golden key-shaped molecule. Inside the neuron's body, small bean-shaped mitochondria glow like warm amber lanterns, staying lit, intact. A silver-haired professor stands silhouetted against the monitor, arm raised gesturing toward the protein interaction map, his outline edged in gold from the screen's warmth. A second researcher leans into the fluorescence microscope, face bathed in cold blue-green light from the eyepiece, a moment of silent revelation. In the deep background, dark lab benches recede into shadow, broken only by the soft underglow of lightboxes beneath slides, rich emerald and saturated gold dominating every source of light in the otherwise swallowing darkness.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-23.png"
     }
+  },
+  {
+    "date": "2026-03-24",
+    "generated_at": "2026-03-24T11:45:47.768573+00:00",
+    "doom": {
+      "percentage": 49.3,
+      "raw_percentage": 47.3,
+      "driver": "Kim vows to 'irreversibly' cement North Korea's nuclear status.",
+      "category": "Nuclear",
+      "blurb": "ROCKET MAN MAKES IT PERMANENT",
+      "summary": "While the world's attention is glued to the Iran war \u2014 missiles over Tel Aviv, Slovenia rationing fuel, Japan tapping emergency oil reserves \u2014 Kim Jong-un quietly stepped to the microphone to declare his nukes are forever. 'Irreversibly cement' is doing a lot of work in that sentence, and none of it is reassuring. Meanwhile GPT-5.4 Pro just solved a frontier math open problem and Jensen Huang announced we've achieved AGI, so the machines are getting smarter right on schedule while humans argue about who gets 50 litres of petrol.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran continues firing missiles at Israel, denies peace talks, and the Strait of Hormuz remains a chokepoint \u2014 Slovenia is rationing fuel and Japan is releasing its biggest-ever emergency oil reserves."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Kim Jong-un vows to 'irreversibly' cement North Korea's nuclear status in a formal speech celebrating rapid weapons expansion, adding a second nuclear flashpoint to an already hot world."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Jensen Huang claims AGI has been achieved, GPT-5.4 Pro solved a frontier mathematics open problem verified by Epoch, and a 400B LLM is running on an iPhone 17 Pro \u2014 capability acceleration is not slowing."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Hong Kong police can now demand phone and computer passwords under amended national security law, while the US bans foreign-made consumer routers \u2014 digital sovereignty tensions tightening on multiple fronts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Russia reportedly supplying Iran with intelligence per Zelenskyy, Russia launches 400-drone barrage at Ukraine, and Zelenskyy signals a potential Russian spring offensive \u2014 the war-within-a-war dynamic is expanding."
+        }
+      ],
+      "mood": [
+        "fractured",
+        "relentless",
+        "nuclear undertone",
+        "exhausted vigilance"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the polished granite floor of a vast Soviet-modernist parliamentary chamber, the ceiling and rear wall looming overhead in crushing perspective \u2014 the enormous North Korean state emblem dominates the upper frame, Mount Paektu's snow-capped volcanic cone rising above Paektu Lake rendered in monumental relief, rice sheaves curling down on either side, a red star burning at the apex like a coal ember, all bathed in deep crimson stage lighting that pools in the carved granite grooves \u2014 from this worm's-eye angle the rostrum's elevated wooden podium juts forward overhead like a dark prow, multiple slim black microphones clustered at its edge silhouetted against the burning emblem behind, flanked by floor-to-ceiling red banners bearing the hammer-sickle-brush emblem of the Workers' Party, their fabric catching the hot stage light and bleeding scarlet across the ceiling \u2014 rows of tiered red-upholstered parliamentary seats recede symmetrically in both directions, filled with rigid dark-suited delegates rendered as near-identical silhouettes in perfect symmetry, their faces lost in shadow \u2014 a single burgundy-covered document rests on the lip of the podium directly overhead, heavy with symbolic weight \u2014 the chamber's oppressive warmth fights the pale blue-grey winter light leaking from unseen high windows, charcoal shadows swallowing every corner \u2014 no antialiasing, hard dithered edges, dark crimson and charcoal palette, firelight reflections on every dark polished surface, high contrast, suffocating grandeur.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-24.png"
+    },
+    "dawn": {
+      "percentage": 50.7,
+      "driver": "Australia and EU agree sweeping trade deal in face of global uncertainty.",
+      "category": "Cooperation",
+      "blurb": "TWO CONTINENTS SHAKE HANDS AS THE WORLD WOBBLES",
+      "summary": "As the Iran war fractures global supply chains and energy markets buckle, Australia and the European Union chose this moment to finalize a sweeping trade and security partnership that took years to build. That's not naivety \u2014 that's a deliberate bet on rules-based cooperation over chaos. In a week when the headlines are dominated by missiles and ultimatums, two major democratic blocs sat down and signed something.",
+      "factors": [
+        {
+          "name": "Cooperation",
+          "signal": "blazing",
+          "detail": "The Australia-EU deal, completed amid genuine geopolitical crisis, signals that democratic nations are actively deepening ties rather than retreating into isolation."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Science Daily reports a newly discovered hormone may stop chronic back pain at its source \u2014 offering a potential non-opioid path for one of the world's most common conditions."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Britain is mandating solar panels and heat pumps in all new homes, turning the energy crisis into a structural push toward renewables."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Close to $1 million was raised for a 78-year-old DoorDash driver, a spontaneous surge of generosity from strangers that needs no geopolitical context to matter."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Epoch AI confirmed that GPT-5.4 Pro solved a genuine frontier math open problem \u2014 a small but real signal that AI is beginning to extend the boundary of human knowledge."
+        }
+      ],
+      "mood": [
+        "solidarity",
+        "resilient",
+        "constructive",
+        "hopeful",
+        "connected"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a grand sunlit diplomatic hall, floor-to-ceiling windows dominating the back wall, long shafts of rich golden afternoon light pouring across a formal draped conference table, the outside world glimpsed beyond the glass as a warm amber-green blur of city and sky. Australian flag with deep midnight blue and Southern Cross hangs left, EU flag with gold stars on vivid blue hangs right, flanking the windows in symmetric warmth. The room glows in saturated Mediterranean gold and vibrant emerald, every surface catching late sun. Centered at the table, two figures lean into a double-handed handshake, shoulders visibly dropped in earned relief, eyes lit \u2014 one in a structured blazer, one open and warm, small crowd of delegation figures visible behind them, one hand pressed to chest. Foregrounded on the table in loving pixel detail: a fizzing prosecco glass with tiny rising gold bubbles catching the light, a rough crystalline chunk of bluish-grey lithium ore placed directly beside a deep green wine bottle, a wheel of pale yellow cheese, and golden sheaves of wheat bundled at the corner. A signed document sits open beneath a fountain pen mid-stroke. Light refracts through the prosecco glass sending small rainbow shards across the white tablecloth, two kinds of sparkle \u2014 ancient and future \u2014 alive in the same golden frame.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-24.png"
+    }
   }
 ]
