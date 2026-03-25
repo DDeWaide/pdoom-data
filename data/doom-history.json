@@ -4317,5 +4317,100 @@
       "card_image": "dawn-card-2026-03-24.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a grand sunlit diplomatic hall, floor-to-ceiling windows dominating the back wall, long shafts of rich golden afternoon light pouring across a formal draped conference table, the outside world glimpsed beyond the glass as a warm amber-green blur of city and sky. Australian flag with deep midnight blue and Southern Cross hangs left, EU flag with gold stars on vivid blue hangs right, flanking the windows in symmetric warmth. The room glows in saturated Mediterranean gold and vibrant emerald, every surface catching late sun. Centered at the table, two figures lean into a double-handed handshake, shoulders visibly dropped in earned relief, eyes lit \u2014 one in a structured blazer, one open and warm, small crowd of delegation figures visible behind them, one hand pressed to chest. Foregrounded on the table in loving pixel detail: a fizzing prosecco glass with tiny rising gold bubbles catching the light, a rough crystalline chunk of bluish-grey lithium ore placed directly beside a deep green wine bottle, a wheel of pale yellow cheese, and golden sheaves of wheat bundled at the corner. A signed document sits open beneath a fountain pen mid-stroke. Light refracts through the prosecco glass sending small rainbow shards across the white tablecloth, two kinds of sparkle \u2014 ancient and future \u2014 alive in the same golden frame."
     }
+  },
+  {
+    "date": "2026-03-25",
+    "generated_at": "2026-03-25T11:42:19.021854+00:00",
+    "doom": {
+      "percentage": 45.2,
+      "raw_percentage": 41.7,
+      "driver": "Pentagon orders troops from 82nd Airborne Division to deploy to Middle East. Nearly a month into the war with Iran, the Trump administration is keeping its options open: it says it is pursuing diplomatic solutions with Iran, while ordering thousands of paratroopers to deploy i",
+      "category": "Geopolitics",
+      "blurb": "PEACE TALKS AND PARATROOPERS, SIMULTANEOUSLY",
+      "summary": "The US is sending the 82nd Airborne to the Middle East while simultaneously claiming Iran made a 'significant' peace offer that Iran says doesn't exist \u2014 a negotiating style best described as 'armed optimism.' Oil is dipping on ceasefire hopes, but South Korea is prepping for worst-case scenarios and the Philippines just declared a national energy emergency, suggesting not everyone got the memo that we've 'won this war.' Meanwhile the IRGC told Washington to 'not call your defeat an agreement,' which is a sentence that does not suggest imminent handshakes.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US deploys 82nd Airborne while Trump claims victory in an Iran war that Iran insists isn't being negotiated \u2014 a 26-day conflict now rattling global energy and regional stability from the Philippines to South Korea."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "US Senate war powers resolution to end Iran strikes fails 47-53, Rubio heads to G7 to sell skeptical allies on a war that is straining the Western alliance."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Claude Code can now autonomously control your computer and Anthropic is in court fighting the Pentagon's attempt to label it a supply-chain risk \u2014 AI militarization tensions are quietly escalating."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "OpenAI kills Sora and its Disney deal in a pivot toward business tools, while MIT Tech Review flags 'AI goes to war' as the defining story of the AI hype cycle this week."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Belarus's Lukashenko makes his first-ever visit to North Korea to deepen ties and sign a friendship treaty, quietly knitting together the anti-Western axis while everyone watches the Strait of Hormuz."
+        }
+      ],
+      "mood": [
+        "tense",
+        "contradictory",
+        "escalating",
+        "fragile",
+        "exhausted"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at 45-degree angle looking down \u2014 vast pre-dawn tarmac of a military airfield stretches across the frame, the landscape enormous and oppressive, floodlit in harsh sodium yellow that bleeds into deep crimson darkness at the edges, multiple C-17 Globemaster III transport aircraft lined up in formation across the runway, their massive grey fuselages dwarfing tiny ant-like figures in multicam uniforms moving equipment up open rear ramps, the airfield geometry \u2014 taxiways, apron markings, blast barriers \u2014 visible beneath the sprawl of aircraft, far to the right a flat grey amphibious assault ship cuts through a dark Persian Gulf rendered in deep charcoal blue, Arleigh Burke destroyer escorts flanking it in formation, their radar masts tiny spiked silhouettes against a smoldering horizon, to the left the faint suggestion of a Middle Eastern city skyline with rising smoke columns silhouetted against a sky the color of burning coal, the entire scene color-graded in dark crimson and charcoal, firelight reflections glinting off wet tarmac and grey metal hulls, high contrast shadows swallowing peripheral detail, the human figures impossibly small against the machinery and geography, no text, no antialiasing, 16-bit SNES pixel palette"
+    },
+    "dawn": {
+      "percentage": 54.8,
+      "driver": "'Extraordinary event' for mountain gorillas as new twins born in DRC. Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park",
+      "category": "Environment",
+      "blurb": "TWIN MIRACLE: GORILLAS DEFY THE ODDS TWICE",
+      "summary": "In a world where war dominates the headlines, Virunga National Park has delivered something genuinely rare: a second set of mountain gorilla twins born within two months, a species-level miracle for one of Earth's most endangered great apes. Conservationists call it an 'extraordinary event' \u2014 and they mean it, as twin births in mountain gorillas are exceptionally uncommon. Against a backdrop of regional conflict and environmental stress, this is the wilderness quietly insisting on its own future.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Twin gorilla births are so rare that two sets in two months at Virunga represents a statistical anomaly that conservation scientists will study for years."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Mountain gorilla populations have been slowly recovering thanks to decades of dedicated ranger protection and international conservation investment \u2014 these twins are living proof."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "CNBC notes the Iran war may actually accelerate the global shift into renewables, with analysts calling it 'Asia's Ukraine moment' for the energy transition."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A woman who once worked as a hospital janitor returns to the same institution as a Yale School of Medicine resident \u2014 one of the week's quietest and most powerful stories."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Oil prices fell and markets rose on hopes of an Iran peace plan, with Iran signaling safe passage for non-hostile ships \u2014 a fragile but real de-escalation signal."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "wonder",
+        "renewal",
+        "rare",
+        "hope"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: thick volcanic mist rolls through the ancient highland rainforest of Virunga, fog threading between moss-draped hagenia trunks in dense pale grey curtains, the entire scene filtered through drifting cloud-forest haze that softens every edge and mutes distances into dreamy emerald gradients. Rich afternoon gold breaks through the mist in long diagonal shafts, catching droplets suspended in the air and illuminating wet volcanic stone on the forest floor. Within this atmosphere of hushed, mist-wrapped wonder, a massive mother gorilla sits at the scene's heart, cradling two impossibly tiny newborn infants \u2014 one at each side \u2014 their wrinkled pink-black faces and curled fingers just visible against her dark bulk, the visual doubling unmistakable and extraordinary. Adult gorillas lean in from all sides forming a natural circle of protection, juveniles peering curiously through the undergrowth. At the misty treeline edge, Virunga rangers in deep green uniforms crouch low and still, binoculars raised, expressions of reverent awe, maintaining respectful distance. Color palette: saturated emerald greens, deep charcoal blacks, warm amber gold shafting through silver-grey mist, lush and alive."
+    }
   }
 ]
