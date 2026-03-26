@@ -4412,5 +4412,100 @@
       "card_image": "dawn-card-2026-03-25.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: thick volcanic mist rolls through the ancient highland rainforest of Virunga, fog threading between moss-draped hagenia trunks in dense pale grey curtains, the entire scene filtered through drifting cloud-forest haze that softens every edge and mutes distances into dreamy emerald gradients. Rich afternoon gold breaks through the mist in long diagonal shafts, catching droplets suspended in the air and illuminating wet volcanic stone on the forest floor. Within this atmosphere of hushed, mist-wrapped wonder, a massive mother gorilla sits at the scene's heart, cradling two impossibly tiny newborn infants \u2014 one at each side \u2014 their wrinkled pink-black faces and curled fingers just visible against her dark bulk, the visual doubling unmistakable and extraordinary. Adult gorillas lean in from all sides forming a natural circle of protection, juveniles peering curiously through the undergrowth. At the misty treeline edge, Virunga rangers in deep green uniforms crouch low and still, binoculars raised, expressions of reverent awe, maintaining respectful distance. Color palette: saturated emerald greens, deep charcoal blacks, warm amber gold shafting through silver-grey mist, lush and alive."
     }
+  },
+  {
+    "date": "2026-03-26",
+    "generated_at": "2026-03-26T11:50:47.381224+00:00",
+    "doom": {
+      "percentage": 44.9,
+      "raw_percentage": 41.7,
+      "driver": "More than 90% of Iranian missiles intercepted, but a dangerous imbalance is emerging. Experts say Iran's cheap drones and missiles are depleting allied interceptor stockpiles, raising questions about long-term air defense sustainability.",
+      "category": "Geopolitics",
+      "blurb": "WINNING THE BATTLE, LOSING THE MAGAZINE",
+      "summary": "Iran is effectively running a discount war: each $20,000 drone forces a $3 million interceptor off the shelf, and the math gets ugly fast. Meanwhile Iran has rejected the U.S. peace plan, countered with its own five conditions including sovereignty over the Strait of Hormuz, and Gulf states are now loudly preparing for 'self defense' \u2014 which is a polite way of saying the neighborhood is arming up. The war is technically going well for the alliance, right up until the moment it very suddenly isn't.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran rejected Trump's peace proposal, issued a five-condition counterplan claiming Hormuz sovereignty, and Israel killed Iran's naval commander \u2014 escalation continues on multiple fronts simultaneously."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump-Xi summit rescheduled to May amid the Iran war, keeping a major diplomatic reset in limbo while the U.S. also sends more 82nd Airborne troops to the region."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "ARC-AGI-3 technical report dropped and Google's TurboQuant compresses LLMs 6x without quality loss \u2014 capability march continues quietly in the background."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Google has moved up its 'Q Day' quantum cryptography deadline to 2029, warning the entire industry to urgently migrate off RSA and elliptic curve encryption."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Senate Democrats are attempting to codify Anthropic's red lines on autonomous weapons into law \u2014 a rare constructive governance signal in an otherwise chaotic week."
+        }
+      ],
+      "mood": [
+        "depleted",
+        "grinding",
+        "precarious",
+        "defiant",
+        "tense"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame \u2014 a single Patriot missile launch canister, its angular rectangular housing dominating the composition, the metal surface cold desert tan with visible panel seams and bolt heads rendered in chunky pixel detail, the canister lid blown open and hollow, interior blackened and empty, the void inside catching deep crimson firelight from an unseen source at the frame's edge. The emptiness of the canister is the subject \u2014 a yawning rectangular darkness where a missile should be seated. Along the lower-left corner, barely visible, the edge of a JINSA-style ledger document printed on paper, one bar labeled with a number rendered as pixel glyphs showing 87 percent depleted, the paper curling from heat. In the reflective desert-tan surface of the canister housing, a ghostly reflection \u2014 tiny pixel silhouettes of delta-wing Shahed drone shapes in crude mottled brown-green, dozens of them, implied swarm caught in the metal's sheen like a nightmare in a mirror. The far right edge bleeds into dark orange smoke and heat shimmer from a distant structure fire. Sky above the canister's open mouth: pure charcoal black, no stars, just oppressive void. Color palette locked to deep crimson, smoldering charcoal, blackened metal, and ember orange. No antialiasing, hard pixel edges, 16-bit SNES dithering on shadow gradients."
+    },
+    "dawn": {
+      "percentage": 55.1,
+      "driver": "Antimatter has been transported for the first time.",
+      "category": "Science",
+      "blurb": "HUMANITY MOVES THE UNMOVABLE",
+      "summary": "For the first time in history, antimatter has been successfully transported \u2014 a feat once considered purely theoretical, now real. Against a backdrop of war, political friction, and cascading crises, a team of physicists quietly achieved something that rewrites what we thought possible. This is the kind of foundational science that doesn't make the front page but changes everything downstream: from medicine to energy to our deepest understanding of why the universe exists at all.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Transporting antimatter is a landmark physics achievement that opens entirely new experimental frontiers, from medical imaging advances to fundamental tests of physical laws."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The UN's landmark resolution declaring the transatlantic slave trade the gravest crime against humanity signals rare multilateral moral consensus, even in a fractured geopolitical moment."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The Church of England installed its first-ever female Archbishop of Canterbury in a historic ceremony, a quiet milestone for inclusion within one of the world's oldest institutions."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Deep-sea researchers discovered 24 new species including an entirely new superfamily of amphipods, a reminder that Earth still holds profound mysteries worth protecting."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists opened a million-year-old fossil time capsule beneath New Zealand, uncovering 16 species including a previously unknown k\u0101k\u0101p\u014d ancestor \u2014 the deep past still has gifts for us."
+        }
+      ],
+      "mood": [
+        "pioneering",
+        "wonder",
+        "breakthrough",
+        "resilient",
+        "expansive"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a rich golden Swiss afternoon sun blazing low on the horizon across the CERN campus road, flooding the scene with saturated amber and deep emerald light. The road stretches across the frame, flanked by trees whose backlit leaves glow vivid gold and green, long shadows raking across the asphalt. Against the blazing sky, the dark silhouette of an ordinary institutional white truck sits at the center, its flatbed carrying the unmistakable cylindrical outline of a magnetic bottle \u2014 small, deceptively humble, wired and flanked by cooling apparatus, its silhouette crisp against the burning horizon. Flanking the road on both sides, a crowd of scientist silhouettes stand in celebratory poses \u2014 arms raised, champagne bottles held aloft, plastic cups catching scattered halos of backlit gold. One figure stands slightly apart, arms wide, triumphant. Behind the truck, the blocky industrial roofline of the CERN antimatter factory looms in deep silhouette, beamline pipes and antenna structures spiking into the glowing sky. The sky itself grades from blazing champagne gold at the horizon to deep saturated emerald-tinged cyan above, rich and alive, the cool scientific world made warm by human victory."
+    }
   }
 ]

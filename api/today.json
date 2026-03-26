@@ -1,97 +1,97 @@
 {
-  "date": "2026-03-25",
-  "generated_at": "2026-03-25T11:42:19.021854+00:00",
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T11:50:47.381224+00:00",
   "doom": {
-    "percentage": 45.2,
+    "percentage": 44.9,
     "raw_percentage": 41.7,
-    "driver": "Pentagon orders troops from 82nd Airborne Division to deploy to Middle East. Nearly a month into the war with Iran, the Trump administration is keeping its options open: it says it is pursuing diplomatic solutions with Iran, while ordering thousands of paratroopers to deploy i",
+    "driver": "More than 90% of Iranian missiles intercepted, but a dangerous imbalance is emerging. Experts say Iran's cheap drones and missiles are depleting allied interceptor stockpiles, raising questions about long-term air defense sustainability.",
     "category": "Geopolitics",
-    "blurb": "PEACE TALKS AND PARATROOPERS, SIMULTANEOUSLY",
-    "summary": "The US is sending the 82nd Airborne to the Middle East while simultaneously claiming Iran made a 'significant' peace offer that Iran says doesn't exist \u2014 a negotiating style best described as 'armed optimism.' Oil is dipping on ceasefire hopes, but South Korea is prepping for worst-case scenarios and the Philippines just declared a national energy emergency, suggesting not everyone got the memo that we've 'won this war.' Meanwhile the IRGC told Washington to 'not call your defeat an agreement,' which is a sentence that does not suggest imminent handshakes.",
+    "blurb": "WINNING THE BATTLE, LOSING THE MAGAZINE",
+    "summary": "Iran is effectively running a discount war: each $20,000 drone forces a $3 million interceptor off the shelf, and the math gets ugly fast. Meanwhile Iran has rejected the U.S. peace plan, countered with its own five conditions including sovereignty over the Strait of Hormuz, and Gulf states are now loudly preparing for 'self defense' \u2014 which is a polite way of saying the neighborhood is arming up. The war is technically going well for the alliance, right up until the moment it very suddenly isn't.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US deploys 82nd Airborne while Trump claims victory in an Iran war that Iran insists isn't being negotiated \u2014 a 26-day conflict now rattling global energy and regional stability from the Philippines to South Korea."
+        "detail": "Iran rejected Trump's peace proposal, issued a five-condition counterplan claiming Hormuz sovereignty, and Israel killed Iran's naval commander \u2014 escalation continues on multiple fronts simultaneously."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "US Senate war powers resolution to end Iran strikes fails 47-53, Rubio heads to G7 to sell skeptical allies on a war that is straining the Western alliance."
+        "detail": "Trump-Xi summit rescheduled to May amid the Iran war, keeping a major diplomatic reset in limbo while the U.S. also sends more 82nd Airborne troops to the region."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Claude Code can now autonomously control your computer and Anthropic is in court fighting the Pentagon's attempt to label it a supply-chain risk \u2014 AI militarization tensions are quietly escalating."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "OpenAI kills Sora and its Disney deal in a pivot toward business tools, while MIT Tech Review flags 'AI goes to war' as the defining story of the AI hype cycle this week."
+        "detail": "ARC-AGI-3 technical report dropped and Google's TurboQuant compresses LLMs 6x without quality loss \u2014 capability march continues quietly in the background."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Belarus's Lukashenko makes his first-ever visit to North Korea to deepen ties and sign a friendship treaty, quietly knitting together the anti-Western axis while everyone watches the Strait of Hormuz."
+        "signal": "medium",
+        "detail": "Google has moved up its 'Q Day' quantum cryptography deadline to 2029, warning the entire industry to urgently migrate off RSA and elliptic curve encryption."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Senate Democrats are attempting to codify Anthropic's red lines on autonomous weapons into law \u2014 a rare constructive governance signal in an otherwise chaotic week."
       }
     ],
     "mood": [
-      "tense",
-      "contradictory",
-      "escalating",
-      "fragile",
-      "exhausted"
+      "depleted",
+      "grinding",
+      "precarious",
+      "defiant",
+      "tense"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-03-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at 45-degree angle looking down \u2014 vast pre-dawn tarmac of a military airfield stretches across the frame, the landscape enormous and oppressive, floodlit in harsh sodium yellow that bleeds into deep crimson darkness at the edges, multiple C-17 Globemaster III transport aircraft lined up in formation across the runway, their massive grey fuselages dwarfing tiny ant-like figures in multicam uniforms moving equipment up open rear ramps, the airfield geometry \u2014 taxiways, apron markings, blast barriers \u2014 visible beneath the sprawl of aircraft, far to the right a flat grey amphibious assault ship cuts through a dark Persian Gulf rendered in deep charcoal blue, Arleigh Burke destroyer escorts flanking it in formation, their radar masts tiny spiked silhouettes against a smoldering horizon, to the left the faint suggestion of a Middle Eastern city skyline with rising smoke columns silhouetted against a sky the color of burning coal, the entire scene color-graded in dark crimson and charcoal, firelight reflections glinting off wet tarmac and grey metal hulls, high contrast shadows swallowing peripheral detail, the human figures impossibly small against the machinery and geography, no text, no antialiasing, 16-bit SNES pixel palette",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-25.png"
+    "card_image": "doom-card-2026-03-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame \u2014 a single Patriot missile launch canister, its angular rectangular housing dominating the composition, the metal surface cold desert tan with visible panel seams and bolt heads rendered in chunky pixel detail, the canister lid blown open and hollow, interior blackened and empty, the void inside catching deep crimson firelight from an unseen source at the frame's edge. The emptiness of the canister is the subject \u2014 a yawning rectangular darkness where a missile should be seated. Along the lower-left corner, barely visible, the edge of a JINSA-style ledger document printed on paper, one bar labeled with a number rendered as pixel glyphs showing 87 percent depleted, the paper curling from heat. In the reflective desert-tan surface of the canister housing, a ghostly reflection \u2014 tiny pixel silhouettes of delta-wing Shahed drone shapes in crude mottled brown-green, dozens of them, implied swarm caught in the metal's sheen like a nightmare in a mirror. The far right edge bleeds into dark orange smoke and heat shimmer from a distant structure fire. Sky above the canister's open mouth: pure charcoal black, no stars, just oppressive void. Color palette locked to deep crimson, smoldering charcoal, blackened metal, and ember orange. No antialiasing, hard pixel edges, 16-bit SNES dithering on shadow gradients.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-26.png"
   },
   "dawn": {
-    "percentage": 54.8,
-    "driver": "'Extraordinary event' for mountain gorillas as new twins born in DRC. Conservationists celebrate second twin birth just two months after another set discovered in Virunga national park",
-    "category": "Environment",
-    "blurb": "TWIN MIRACLE: GORILLAS DEFY THE ODDS TWICE",
-    "summary": "In a world where war dominates the headlines, Virunga National Park has delivered something genuinely rare: a second set of mountain gorilla twins born within two months, a species-level miracle for one of Earth's most endangered great apes. Conservationists call it an 'extraordinary event' \u2014 and they mean it, as twin births in mountain gorillas are exceptionally uncommon. Against a backdrop of regional conflict and environmental stress, this is the wilderness quietly insisting on its own future.",
+    "percentage": 55.1,
+    "driver": "Antimatter has been transported for the first time.",
+    "category": "Science",
+    "blurb": "HUMANITY MOVES THE UNMOVABLE",
+    "summary": "For the first time in history, antimatter has been successfully transported \u2014 a feat once considered purely theoretical, now real. Against a backdrop of war, political friction, and cascading crises, a team of physicists quietly achieved something that rewrites what we thought possible. This is the kind of foundational science that doesn't make the front page but changes everything downstream: from medicine to energy to our deepest understanding of why the universe exists at all.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Twin gorilla births are so rare that two sets in two months at Virunga represents a statistical anomaly that conservation scientists will study for years."
-      },
-      {
-        "name": "Environment",
         "signal": "blazing",
-        "detail": "Mountain gorilla populations have been slowly recovering thanks to decades of dedicated ranger protection and international conservation investment \u2014 these twins are living proof."
+        "detail": "Transporting antimatter is a landmark physics achievement that opens entirely new experimental frontiers, from medical imaging advances to fundamental tests of physical laws."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "CNBC notes the Iran war may actually accelerate the global shift into renewables, with analysts calling it 'Asia's Ukraine moment' for the energy transition."
+        "detail": "The UN's landmark resolution declaring the transatlantic slave trade the gravest crime against humanity signals rare multilateral moral consensus, even in a fractured geopolitical moment."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A woman who once worked as a hospital janitor returns to the same institution as a Yale School of Medicine resident \u2014 one of the week's quietest and most powerful stories."
+        "detail": "The Church of England installed its first-ever female Archbishop of Canterbury in a historic ceremony, a quiet milestone for inclusion within one of the world's oldest institutions."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Deep-sea researchers discovered 24 new species including an entirely new superfamily of amphipods, a reminder that Earth still holds profound mysteries worth protecting."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Oil prices fell and markets rose on hopes of an Iran peace plan, with Iran signaling safe passage for non-hostile ships \u2014 a fragile but real de-escalation signal."
+        "signal": "bright",
+        "detail": "Scientists opened a million-year-old fossil time capsule beneath New Zealand, uncovering 16 species including a previously unknown k\u0101k\u0101p\u014d ancestor \u2014 the deep past still has gifts for us."
       }
     ],
     "mood": [
-      "resilience",
+      "pioneering",
       "wonder",
-      "renewal",
-      "rare",
-      "hope"
+      "breakthrough",
+      "resilient",
+      "expansive"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-03-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: thick volcanic mist rolls through the ancient highland rainforest of Virunga, fog threading between moss-draped hagenia trunks in dense pale grey curtains, the entire scene filtered through drifting cloud-forest haze that softens every edge and mutes distances into dreamy emerald gradients. Rich afternoon gold breaks through the mist in long diagonal shafts, catching droplets suspended in the air and illuminating wet volcanic stone on the forest floor. Within this atmosphere of hushed, mist-wrapped wonder, a massive mother gorilla sits at the scene's heart, cradling two impossibly tiny newborn infants \u2014 one at each side \u2014 their wrinkled pink-black faces and curled fingers just visible against her dark bulk, the visual doubling unmistakable and extraordinary. Adult gorillas lean in from all sides forming a natural circle of protection, juveniles peering curiously through the undergrowth. At the misty treeline edge, Virunga rangers in deep green uniforms crouch low and still, binoculars raised, expressions of reverent awe, maintaining respectful distance. Color palette: saturated emerald greens, deep charcoal blacks, warm amber gold shafting through silver-grey mist, lush and alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-25.png"
+    "card_image": "dawn-card-2026-03-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a rich golden Swiss afternoon sun blazing low on the horizon across the CERN campus road, flooding the scene with saturated amber and deep emerald light. The road stretches across the frame, flanked by trees whose backlit leaves glow vivid gold and green, long shadows raking across the asphalt. Against the blazing sky, the dark silhouette of an ordinary institutional white truck sits at the center, its flatbed carrying the unmistakable cylindrical outline of a magnetic bottle \u2014 small, deceptively humble, wired and flanked by cooling apparatus, its silhouette crisp against the burning horizon. Flanking the road on both sides, a crowd of scientist silhouettes stand in celebratory poses \u2014 arms raised, champagne bottles held aloft, plastic cups catching scattered halos of backlit gold. One figure stands slightly apart, arms wide, triumphant. Behind the truck, the blocky industrial roofline of the CERN antimatter factory looms in deep silhouette, beamline pipes and antenna structures spiking into the glowing sky. The sky itself grades from blazing champagne gold at the horizon to deep saturated emerald-tinged cyan above, rich and alive, the cool scientific world made warm by human victory.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-26.png"
   }
 }
