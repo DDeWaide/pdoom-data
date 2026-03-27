@@ -4507,5 +4507,99 @@
       "card_image": "dawn-card-2026-03-26.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a rich golden Swiss afternoon sun blazing low on the horizon across the CERN campus road, flooding the scene with saturated amber and deep emerald light. The road stretches across the frame, flanked by trees whose backlit leaves glow vivid gold and green, long shadows raking across the asphalt. Against the blazing sky, the dark silhouette of an ordinary institutional white truck sits at the center, its flatbed carrying the unmistakable cylindrical outline of a magnetic bottle \u2014 small, deceptively humble, wired and flanked by cooling apparatus, its silhouette crisp against the burning horizon. Flanking the road on both sides, a crowd of scientist silhouettes stand in celebratory poses \u2014 arms raised, champagne bottles held aloft, plastic cups catching scattered halos of backlit gold. One figure stands slightly apart, arms wide, triumphant. Behind the truck, the blocky industrial roofline of the CERN antimatter factory looms in deep silhouette, beamline pipes and antenna structures spiking into the glowing sky. The sky itself grades from blazing champagne gold at the horizon to deep saturated emerald-tinged cyan above, rich and alive, the cool scientific world made warm by human victory."
     }
+  },
+  {
+    "date": "2026-03-27",
+    "generated_at": "2026-03-27T11:42:12.467523+00:00",
+    "doom": {
+      "percentage": 44.3,
+      "raw_percentage": 41.7,
+      "driver": "Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile. Dramatic video shows the moment a missile came dangerously close to shooting down a F-18 fighter jet over Iran. It comes as Israel announced it killed Iran's navy chief.",
+      "category": "Geopolitics",
+      "blurb": "CLOSE CALL AT 30,000 FEET",
+      "summary": "A U.S. F-18 nearly became a very expensive fireball over Iranian airspace, while Israel quietly assassinated Iran's navy chief \u2014 you know, as one does during a 'deadline extension.' Meanwhile Trump says Iran let 10 oil tankers through as a 'present,' which is either diplomacy or the most elaborate hostage negotiation in history. Brent crude at $110, jet fuel up 106%, and Rubio is in Paris asking allies to please clap.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Active U.S.-Iran war with near-miss jet incident, Iran navy chief killed, and Trump extending deadlines while denying direct talks are happening \u2014 de-escalation rhetoric masking kinetic reality."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Senate finally funds most of DHS after 40-day shutdown, but excludes ICE \u2014 a partial fix that resolves airport chaos while leaving the core political fight intact."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Deepfake X-rays now fool radiologists at alarming rates, and a $500 GPU reportedly outperforms Claude Sonnet on coding benchmarks \u2014 quiet capability creep on multiple fronts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Global energy crisis deepens as Strait of Hormuz disruption hammers Southeast Asia, India slashes fuel taxes, and jet fuel doubles \u2014 economic contagion spreading well beyond the conflict zone."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Study finds sycophantic AI undermines human judgment, which is either a minor research note or a preview of civilization's final UX problem \u2014 but today it's just a study."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "teetering",
+        "anxious",
+        "smoky"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Persian Gulf \u2014 the view from directly behind and below a twin-tailed F/A-18 Super Hornet caught in a violent banking evasive roll, one wing nearly vertical, wingtip vapor cones glowing deep crimson against the black sky, the aircraft's twin engines burning amber exhaust trails that streak diagonally across the frame. The jet dominates the upper frame, its low-visibility grey fuselage lit from below by the hellish glow of a long white-grey missile body with a blazing orange rocket motor, the projectile impossibly close, its thick corkscrew smoke trail coiling through the darkness like a burning rope. The cockpit interior pulses with harsh green HUD symbology \u2014 flashing warning boxes, altitude digits, a horizon line tilted at extreme angle \u2014 casting cold green light across the canopy glass. Far below, 20,000 feet down through haze, the Persian Gulf coastline glitters with the cold blue-white dock lights of a concrete naval installation at Bandar Abbas \u2014 radar domes, communications masts, the dark silhouettes of frigates moored at grey piers \u2014 all rendered tiny and distant against the ink-black water. The sky is pure deep charcoal fading to void black at the top of the frame, no stars visible through the missile's smoke column. Color palette: dark crimson, charcoal black, burning orange, cold HUD green. High contrast. Oppressive. No text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 55.7,
+      "driver": "Scientists uncovered the nutrients bees were missing \u2014 Colonies surged 15-fold.",
+      "category": "Science",
+      "blurb": "SCIENTISTS CRACK THE CODE TO SAVE OUR BEES",
+      "summary": "In a world rattled by war and energy shocks, a quiet breakthrough may have just secured one of civilization's most critical foundations: researchers engineered a yeast-based 'superfood' that gives honeybee colonies exactly the nutrients missing from modern pollen, triggering a 15-fold surge in colony size. Bees pollinate roughly a third of everything humans eat, making their decline one of the most underreported existential risks we face. On a day when headlines are dominated by missiles and oil prices, this discovery reminds us that some of humanity's most consequential wins happen in a lab, not on a battlefield.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 15-fold surge in bee colony size from engineered yeast nutrition is a genuine breakthrough for global food security, not an incremental finding."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Pollinator collapse has been accelerating for decades; a scalable dietary intervention could reverse one of agriculture's most stubborn crises."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Ukraine and Saudi Arabia signed a defense cooperation deal, showing that nations continue to build alliances even amid the Iran conflict's disruptions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Nepal's 35-year-old former rapper Balen Shah was sworn in as prime minister on an anti-corruption mandate, embodying democratic renewal from an unexpected voice."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A stranded whale in Germany's Baltic Sea successfully swam free after a coordinated rescue effort cut it an escape route, a small but vivid symbol of humans choosing to help."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "renewal",
+        "resilience",
+        "nourishment",
+        "hope"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a Victorian glass greenhouse at Royal Botanic Gardens Kew, the towering iron-framed glass panes soaring overhead into a cathedral of emerald and gold, afternoon sun blazing through the greenhouse roof and casting dramatic hexagonal shadow patterns across everything below \u2014 the underside of a dense honeycomb frame held aloft by gloved hands dominates the upper frame, backlit amber-gold, each wax-capped brood cell glowing like stained glass, hundreds of perfect hexagons radiating warmth and life. Climbing the walls on either side, lush potted flowering specimens in deep emerald greens stretch upward. A small amber bioreactor flask sits on a shelf to the left, bubbling gently, its golden contents catching refracted greenhouse light and throwing warm prismatic color across the glass ceiling above. A feeding dish with pale supplement paste rests on the edge of an open hive box, visible at the periphery. Steam clings faintly to the upper glass panels, the air saturated and alive. Rich gold and vibrant emerald saturate every surface \u2014 golden honeycomb light filtering down, deep green plant life pressing in from all sides, the whole scene humming with quiet, patient triumph, 90 days of careful science culminating in this single glowing frame held up to the light."
+    }
   }
 ]

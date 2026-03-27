@@ -1,97 +1,96 @@
 {
-  "date": "2026-03-26",
-  "generated_at": "2026-03-26T11:50:47.381224+00:00",
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T11:42:12.467523+00:00",
   "doom": {
-    "percentage": 44.9,
+    "percentage": 44.3,
     "raw_percentage": 41.7,
-    "driver": "More than 90% of Iranian missiles intercepted, but a dangerous imbalance is emerging. Experts say Iran's cheap drones and missiles are depleting allied interceptor stockpiles, raising questions about long-term air defense sustainability.",
+    "driver": "Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile. Dramatic video shows the moment a missile came dangerously close to shooting down a F-18 fighter jet over Iran. It comes as Israel announced it killed Iran's navy chief.",
     "category": "Geopolitics",
-    "blurb": "WINNING THE BATTLE, LOSING THE MAGAZINE",
-    "summary": "Iran is effectively running a discount war: each $20,000 drone forces a $3 million interceptor off the shelf, and the math gets ugly fast. Meanwhile Iran has rejected the U.S. peace plan, countered with its own five conditions including sovereignty over the Strait of Hormuz, and Gulf states are now loudly preparing for 'self defense' \u2014 which is a polite way of saying the neighborhood is arming up. The war is technically going well for the alliance, right up until the moment it very suddenly isn't.",
+    "blurb": "CLOSE CALL AT 30,000 FEET",
+    "summary": "A U.S. F-18 nearly became a very expensive fireball over Iranian airspace, while Israel quietly assassinated Iran's navy chief \u2014 you know, as one does during a 'deadline extension.' Meanwhile Trump says Iran let 10 oil tankers through as a 'present,' which is either diplomacy or the most elaborate hostage negotiation in history. Brent crude at $110, jet fuel up 106%, and Rubio is in Paris asking allies to please clap.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Iran rejected Trump's peace proposal, issued a five-condition counterplan claiming Hormuz sovereignty, and Israel killed Iran's naval commander \u2014 escalation continues on multiple fronts simultaneously."
+        "signal": "elevated",
+        "detail": "Active U.S.-Iran war with near-miss jet incident, Iran navy chief killed, and Trump extending deadlines while denying direct talks are happening \u2014 de-escalation rhetoric masking kinetic reality."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump-Xi summit rescheduled to May amid the Iran war, keeping a major diplomatic reset in limbo while the U.S. also sends more 82nd Airborne troops to the region."
+        "signal": "medium",
+        "detail": "Senate finally funds most of DHS after 40-day shutdown, but excludes ICE \u2014 a partial fix that resolves airport chaos while leaving the core political fight intact."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "ARC-AGI-3 technical report dropped and Google's TurboQuant compresses LLMs 6x without quality loss \u2014 capability march continues quietly in the background."
+        "detail": "Deepfake X-rays now fool radiologists at alarming rates, and a $500 GPU reportedly outperforms Claude Sonnet on coding benchmarks \u2014 quiet capability creep on multiple fronts."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Google has moved up its 'Q Day' quantum cryptography deadline to 2029, warning the entire industry to urgently migrate off RSA and elliptic curve encryption."
+        "signal": "elevated",
+        "detail": "Global energy crisis deepens as Strait of Hormuz disruption hammers Southeast Asia, India slashes fuel taxes, and jet fuel doubles \u2014 economic contagion spreading well beyond the conflict zone."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Senate Democrats are attempting to codify Anthropic's red lines on autonomous weapons into law \u2014 a rare constructive governance signal in an otherwise chaotic week."
+        "detail": "Study finds sycophantic AI undermines human judgment, which is either a minor research note or a preview of civilization's final UX problem \u2014 but today it's just a study."
       }
     ],
     "mood": [
-      "depleted",
-      "grinding",
-      "precarious",
-      "defiant",
-      "tense"
+      "volatile",
+      "teetering",
+      "anxious",
+      "smoky"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-03-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame \u2014 a single Patriot missile launch canister, its angular rectangular housing dominating the composition, the metal surface cold desert tan with visible panel seams and bolt heads rendered in chunky pixel detail, the canister lid blown open and hollow, interior blackened and empty, the void inside catching deep crimson firelight from an unseen source at the frame's edge. The emptiness of the canister is the subject \u2014 a yawning rectangular darkness where a missile should be seated. Along the lower-left corner, barely visible, the edge of a JINSA-style ledger document printed on paper, one bar labeled with a number rendered as pixel glyphs showing 87 percent depleted, the paper curling from heat. In the reflective desert-tan surface of the canister housing, a ghostly reflection \u2014 tiny pixel silhouettes of delta-wing Shahed drone shapes in crude mottled brown-green, dozens of them, implied swarm caught in the metal's sheen like a nightmare in a mirror. The far right edge bleeds into dark orange smoke and heat shimmer from a distant structure fire. Sky above the canister's open mouth: pure charcoal black, no stars, just oppressive void. Color palette locked to deep crimson, smoldering charcoal, blackened metal, and ember orange. No antialiasing, hard pixel edges, 16-bit SNES dithering on shadow gradients.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-26.png"
+    "card_image": "doom-card-2026-03-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Persian Gulf \u2014 the view from directly behind and below a twin-tailed F/A-18 Super Hornet caught in a violent banking evasive roll, one wing nearly vertical, wingtip vapor cones glowing deep crimson against the black sky, the aircraft's twin engines burning amber exhaust trails that streak diagonally across the frame. The jet dominates the upper frame, its low-visibility grey fuselage lit from below by the hellish glow of a long white-grey missile body with a blazing orange rocket motor, the projectile impossibly close, its thick corkscrew smoke trail coiling through the darkness like a burning rope. The cockpit interior pulses with harsh green HUD symbology \u2014 flashing warning boxes, altitude digits, a horizon line tilted at extreme angle \u2014 casting cold green light across the canopy glass. Far below, 20,000 feet down through haze, the Persian Gulf coastline glitters with the cold blue-white dock lights of a concrete naval installation at Bandar Abbas \u2014 radar domes, communications masts, the dark silhouettes of frigates moored at grey piers \u2014 all rendered tiny and distant against the ink-black water. The sky is pure deep charcoal fading to void black at the top of the frame, no stars visible through the missile's smoke column. Color palette: dark crimson, charcoal black, burning orange, cold HUD green. High contrast. Oppressive. No text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-27.png"
   },
   "dawn": {
-    "percentage": 55.1,
-    "driver": "Antimatter has been transported for the first time.",
+    "percentage": 55.7,
+    "driver": "Scientists uncovered the nutrients bees were missing \u2014 Colonies surged 15-fold.",
     "category": "Science",
-    "blurb": "HUMANITY MOVES THE UNMOVABLE",
-    "summary": "For the first time in history, antimatter has been successfully transported \u2014 a feat once considered purely theoretical, now real. Against a backdrop of war, political friction, and cascading crises, a team of physicists quietly achieved something that rewrites what we thought possible. This is the kind of foundational science that doesn't make the front page but changes everything downstream: from medicine to energy to our deepest understanding of why the universe exists at all.",
+    "blurb": "SCIENTISTS CRACK THE CODE TO SAVE OUR BEES",
+    "summary": "In a world rattled by war and energy shocks, a quiet breakthrough may have just secured one of civilization's most critical foundations: researchers engineered a yeast-based 'superfood' that gives honeybee colonies exactly the nutrients missing from modern pollen, triggering a 15-fold surge in colony size. Bees pollinate roughly a third of everything humans eat, making their decline one of the most underreported existential risks we face. On a day when headlines are dominated by missiles and oil prices, this discovery reminds us that some of humanity's most consequential wins happen in a lab, not on a battlefield.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Transporting antimatter is a landmark physics achievement that opens entirely new experimental frontiers, from medical imaging advances to fundamental tests of physical laws."
+        "detail": "A 15-fold surge in bee colony size from engineered yeast nutrition is a genuine breakthrough for global food security, not an incremental finding."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "Pollinator collapse has been accelerating for decades; a scalable dietary intervention could reverse one of agriculture's most stubborn crises."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "The UN's landmark resolution declaring the transatlantic slave trade the gravest crime against humanity signals rare multilateral moral consensus, even in a fractured geopolitical moment."
+        "detail": "Ukraine and Saudi Arabia signed a defense cooperation deal, showing that nations continue to build alliances even amid the Iran conflict's disruptions."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "The Church of England installed its first-ever female Archbishop of Canterbury in a historic ceremony, a quiet milestone for inclusion within one of the world's oldest institutions."
-      },
-      {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "Deep-sea researchers discovered 24 new species including an entirely new superfamily of amphipods, a reminder that Earth still holds profound mysteries worth protecting."
+        "detail": "Nepal's 35-year-old former rapper Balen Shah was sworn in as prime minister on an anti-corruption mandate, embodying democratic renewal from an unexpected voice."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Scientists opened a million-year-old fossil time capsule beneath New Zealand, uncovering 16 species including a previously unknown k\u0101k\u0101p\u014d ancestor \u2014 the deep past still has gifts for us."
+        "detail": "A stranded whale in Germany's Baltic Sea successfully swam free after a coordinated rescue effort cut it an escape route, a small but vivid symbol of humans choosing to help."
       }
     ],
     "mood": [
-      "pioneering",
-      "wonder",
       "breakthrough",
-      "resilient",
-      "expansive"
+      "renewal",
+      "resilience",
+      "nourishment",
+      "hope"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-03-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a rich golden Swiss afternoon sun blazing low on the horizon across the CERN campus road, flooding the scene with saturated amber and deep emerald light. The road stretches across the frame, flanked by trees whose backlit leaves glow vivid gold and green, long shadows raking across the asphalt. Against the blazing sky, the dark silhouette of an ordinary institutional white truck sits at the center, its flatbed carrying the unmistakable cylindrical outline of a magnetic bottle \u2014 small, deceptively humble, wired and flanked by cooling apparatus, its silhouette crisp against the burning horizon. Flanking the road on both sides, a crowd of scientist silhouettes stand in celebratory poses \u2014 arms raised, champagne bottles held aloft, plastic cups catching scattered halos of backlit gold. One figure stands slightly apart, arms wide, triumphant. Behind the truck, the blocky industrial roofline of the CERN antimatter factory looms in deep silhouette, beamline pipes and antenna structures spiking into the glowing sky. The sky itself grades from blazing champagne gold at the horizon to deep saturated emerald-tinged cyan above, rich and alive, the cool scientific world made warm by human victory.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-26.png"
+    "card_image": "dawn-card-2026-03-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a Victorian glass greenhouse at Royal Botanic Gardens Kew, the towering iron-framed glass panes soaring overhead into a cathedral of emerald and gold, afternoon sun blazing through the greenhouse roof and casting dramatic hexagonal shadow patterns across everything below \u2014 the underside of a dense honeycomb frame held aloft by gloved hands dominates the upper frame, backlit amber-gold, each wax-capped brood cell glowing like stained glass, hundreds of perfect hexagons radiating warmth and life. Climbing the walls on either side, lush potted flowering specimens in deep emerald greens stretch upward. A small amber bioreactor flask sits on a shelf to the left, bubbling gently, its golden contents catching refracted greenhouse light and throwing warm prismatic color across the glass ceiling above. A feeding dish with pale supplement paste rests on the edge of an open hive box, visible at the periphery. Steam clings faintly to the upper glass panels, the air saturated and alive. Rich gold and vibrant emerald saturate every surface \u2014 golden honeycomb light filtering down, deep green plant life pressing in from all sides, the whole scene humming with quiet, patient triumph, 90 days of careful science culminating in this single glowing frame held up to the light.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-27.png"
   }
 }
