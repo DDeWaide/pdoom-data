@@ -1,96 +1,96 @@
 {
-  "date": "2026-03-27",
-  "generated_at": "2026-03-27T11:42:12.467523+00:00",
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T11:28:56.773771+00:00",
   "doom": {
-    "percentage": 44.3,
+    "percentage": 43.8,
     "raw_percentage": 41.7,
-    "driver": "Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile. Dramatic video shows the moment a missile came dangerously close to shooting down a F-18 fighter jet over Iran. It comes as Israel announced it killed Iran's navy chief.",
+    "driver": "Iranian missile hits an airbase in Saudi Arabia, injuring U.S. troops.",
     "category": "Geopolitics",
-    "blurb": "CLOSE CALL AT 30,000 FEET",
-    "summary": "A U.S. F-18 nearly became a very expensive fireball over Iranian airspace, while Israel quietly assassinated Iran's navy chief \u2014 you know, as one does during a 'deadline extension.' Meanwhile Trump says Iran let 10 oil tankers through as a 'present,' which is either diplomacy or the most elaborate hostage negotiation in history. Brent crude at $110, jet fuel up 106%, and Rubio is in Paris asking allies to please clap.",
+    "blurb": "WAR SPREADS BEYOND BORDERS",
+    "summary": "Day 29 of the Iran war and it's now formally a regional affair \u2014 Iranian missiles are landing on Saudi soil and hitting U.S. service members, which is precisely the kind of escalation that turns 'air campaign' into 'ground war.' Meanwhile Rubio says it'll be over in 'weeks, not months,' which is exactly what people said about Afghanistan circa 2001. The MAGA civil war over whether this was a good idea at all, combined with a government shutdown so long TSA agents haven't been paid in a month, suggests the home front is not exactly rock solid either.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Active U.S.-Iran war with near-miss jet incident, Iran navy chief killed, and Trump extending deadlines while denying direct talks are happening \u2014 de-escalation rhetoric masking kinetic reality."
+        "signal": "high",
+        "detail": "Iran striking a Saudi airbase and wounding U.S. troops marks geographic expansion of the conflict beyond Iran's borders into Gulf partner territory."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Senate finally funds most of DHS after 40-day shutdown, but excludes ICE \u2014 a partial fix that resolves airport chaos while leaving the core political fight intact."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Deepfake X-rays now fool radiologists at alarming rates, and a $500 GPU reportedly outperforms Claude Sonnet on coding benchmarks \u2014 quiet capability creep on multiple fronts."
-      },
-      {
-        "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Global energy crisis deepens as Strait of Hormuz disruption hammers Southeast Asia, India slashes fuel taxes, and jet fuel doubles \u2014 economic contagion spreading well beyond the conflict zone."
+        "detail": "The US government shutdown is now the longest in history, TSA agents are unpaid for 35+ days, and Congress left for Easter recess without resolution."
       },
       {
         "name": "Alignment",
+        "signal": "medium",
+        "detail": "The Guardian's headline that AI 'got the blame for the Iran school bombing \u2014 but the truth is more worrying' hints at opaque targeting processes in active wartime."
+      },
+      {
+        "name": "AI Capability",
         "signal": "low",
-        "detail": "Study finds sycophantic AI undermines human judgment, which is either a minor research note or a preview of civilization's final UX problem \u2014 but today it's just a study."
+        "detail": "GitHub's quiet opt-in of private repos for Copilot training and OpenAI's Codex plugin expansion are routine capability creep, not acute threats."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Iran-linked hackers breaching FBI Director Kash Patel's personal email mid-war is a cyber escalation signal that retaliatory digital operations are active."
       }
     ],
     "mood": [
-      "volatile",
-      "teetering",
-      "anxious",
-      "smoky"
+      "escalating",
+      "sprawling",
+      "fragile",
+      "grinding"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-03-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Persian Gulf \u2014 the view from directly behind and below a twin-tailed F/A-18 Super Hornet caught in a violent banking evasive roll, one wing nearly vertical, wingtip vapor cones glowing deep crimson against the black sky, the aircraft's twin engines burning amber exhaust trails that streak diagonally across the frame. The jet dominates the upper frame, its low-visibility grey fuselage lit from below by the hellish glow of a long white-grey missile body with a blazing orange rocket motor, the projectile impossibly close, its thick corkscrew smoke trail coiling through the darkness like a burning rope. The cockpit interior pulses with harsh green HUD symbology \u2014 flashing warning boxes, altitude digits, a horizon line tilted at extreme angle \u2014 casting cold green light across the canopy glass. Far below, 20,000 feet down through haze, the Persian Gulf coastline glitters with the cold blue-white dock lights of a concrete naval installation at Bandar Abbas \u2014 radar domes, communications masts, the dark silhouettes of frigates moored at grey piers \u2014 all rendered tiny and distant against the ink-black water. The sky is pure deep charcoal fading to void black at the top of the frame, no stars visible through the missile's smoke column. Color palette: dark crimson, charcoal black, burning orange, cold HUD green. High contrast. Oppressive. No text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-27.png"
+    "card_image": "doom-card-2026-03-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene \u2014 we are inside a hardened aircraft shelter at Prince Sultan Air Base, looking outward through the massive blast doors that stand partially open, framing the devastation outside like a dark mouth opening onto hell. The shelter's interior is deep charcoal shadow, rough reinforced concrete walls cracked and dusted with debris, a single overhead emergency light casting dim crimson-orange glow across the curved bunker ceiling. Through the gap of the blast doors, the outside world is visible in brutal detail \u2014 the sun-bleached Najd plateau stretching flat to the horizon under a pale amber-tinted sky choked with dust haze, the air milky and oppressive. On the concrete apron outside, a blackened blast crater dominates the tarmac, its scorched edges radiating shrapnel debris and crumpled aluminum aircraft skin panels across a wide radius. A damaged F-15E sits on the flight line with its tail section twisted, paint burned to bare metal, one wing crumpled downward. A boxy yellow-red crash rescue vehicle sprays white foam arcs across smoldering wreckage. In the middle ground, two figures in OCP camouflage uniforms half-carry a third figure hunched between them, moving across the devastated apron toward shelter. The color palette is dark crimson and charcoal throughout, firelight reflections dancing on the concrete blast door interior, high contrast between the sheltered darkness and the harsh amber ruin outside. No antialiasing, no text.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-28.png"
   },
   "dawn": {
-    "percentage": 55.7,
-    "driver": "Scientists uncovered the nutrients bees were missing \u2014 Colonies surged 15-fold.",
-    "category": "Science",
-    "blurb": "SCIENTISTS CRACK THE CODE TO SAVE OUR BEES",
-    "summary": "In a world rattled by war and energy shocks, a quiet breakthrough may have just secured one of civilization's most critical foundations: researchers engineered a yeast-based 'superfood' that gives honeybee colonies exactly the nutrients missing from modern pollen, triggering a 15-fold surge in colony size. Bees pollinate roughly a third of everything humans eat, making their decline one of the most underreported existential risks we face. On a day when headlines are dominated by missiles and oil prices, this discovery reminds us that some of humanity's most consequential wins happen in a lab, not on a battlefield.",
+    "percentage": 56.2,
+    "driver": "Scientists film whale giving birth while other whales work together to help her. Female named Rounder surrounded by family members when about to give birth to her second calf",
+    "category": "Discovery",
+    "blurb": "WHALES FORM FAMILY TO WELCOME NEW LIFE",
+    "summary": "In a world consumed by war headlines, scientists captured something quietly extraordinary: a sperm whale birth attended by a circle of protective female relatives \u2014 cooperation, care, and new life all in one frame. The footage of 'Rounder' and her pod offers a rare window into animal society that mirrors the best of our own. On a day when cooperation between humans feels scarce, the ocean reminded us it never went away.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "A 15-fold surge in bee colony size from engineered yeast nutrition is a genuine breakthrough for global food security, not an incremental finding."
-      },
-      {
-        "name": "Environment",
         "signal": "bright",
-        "detail": "Pollinator collapse has been accelerating for decades; a scalable dietary intervention could reverse one of agriculture's most stubborn crises."
+        "detail": "Filming a live sperm whale birth is a first-of-its-kind scientific achievement, expanding our understanding of cetacean social behavior and reproduction."
       },
       {
         "name": "Cooperation",
+        "signal": "blazing",
+        "detail": "The whale pod's coordinated protective behavior around Rounder is a vivid, documented example of non-human cooperative care \u2014 a concept that transcends species."
+      },
+      {
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "Ukraine and Saudi Arabia signed a defense cooperation deal, showing that nations continue to build alliances even amid the Iran conflict's disruptions."
+        "detail": "A successful sperm whale birth is meaningful conservation news for a species still recovering from historic whaling; every calf counts."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Nepal's 35-year-old former rapper Balen Shah was sworn in as prime minister on an anti-corruption mandate, embodying democratic renewal from an unexpected voice."
+        "detail": "The Artemis II crew arriving at Kennedy Space Center signals that humans are still reaching for the stars even amid geopolitical turbulence on Earth."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "A stranded whale in Germany's Baltic Sea successfully swam free after a coordinated rescue effort cut it an escape route, a small but vivid symbol of humans choosing to help."
+        "signal": "glimmer",
+        "detail": "Europeans building home mini solar farms in growing numbers represents a grassroots energy resilience movement quietly spreading across the continent."
       }
     ],
     "mood": [
-      "breakthrough",
-      "renewal",
+      "wonder",
+      "tenderness",
       "resilience",
-      "nourishment",
-      "hope"
+      "connection",
+      "renewal"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-03-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a Victorian glass greenhouse at Royal Botanic Gardens Kew, the towering iron-framed glass panes soaring overhead into a cathedral of emerald and gold, afternoon sun blazing through the greenhouse roof and casting dramatic hexagonal shadow patterns across everything below \u2014 the underside of a dense honeycomb frame held aloft by gloved hands dominates the upper frame, backlit amber-gold, each wax-capped brood cell glowing like stained glass, hundreds of perfect hexagons radiating warmth and life. Climbing the walls on either side, lush potted flowering specimens in deep emerald greens stretch upward. A small amber bioreactor flask sits on a shelf to the left, bubbling gently, its golden contents catching refracted greenhouse light and throwing warm prismatic color across the glass ceiling above. A feeding dish with pale supplement paste rests on the edge of an open hive box, visible at the periphery. Steam clings faintly to the upper glass panels, the air saturated and alive. Rich gold and vibrant emerald saturate every surface \u2014 golden honeycomb light filtering down, deep green plant life pressing in from all sides, the whole scene humming with quiet, patient triumph, 90 days of careful science culminating in this single glowing frame held up to the light.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-27.png"
+    "card_image": "dawn-card-2026-03-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast open Caribbean Sea off Dominica dominates the frame \u2014 deep luminous blue-green tropical water saturated with rich gold afternoon sunlight breaking through the surface in long diagonal shafts, the volcanic emerald mountains of Dominica rising faintly at the horizon edge, warm amber and jade tones flooding the scene from above. Far below the aerial vantage, a near-perfect circular formation of eleven massive dark charcoal-gray sperm whales arranged like a living flower around a central point, their enormous wrinkled bodies radiating outward from the mother Rounder at the center, some adults visibly rolled belly-up showing white undersides, broad foreheads pressed inward and upward. A tiny 4-meter newborn calf visible tail-first at the circle's heart, glistening blue-gray, surrounded and dwarfed by the adult females lifting it toward the glittering gold-lit surface. A small white research vessel sits at the scene's edge, miniature figures leaning over the rail. A tiny drone hangs high above, a dark speck against the warm sky. Rippling circular sound-wave patterns radiate outward through the water from the pod. Rich gold and vibrant emerald color grade, saturated and alive, afternoon sun shimmering across the vast ocean surface.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-28.png"
   }
 }
