@@ -4795,5 +4795,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast open Caribbean Sea off Dominica dominates the frame \u2014 deep luminous blue-green tropical water saturated with rich gold afternoon sunlight breaking through the surface in long diagonal shafts, the volcanic emerald mountains of Dominica rising faintly at the horizon edge, warm amber and jade tones flooding the scene from above. Far below the aerial vantage, a near-perfect circular formation of eleven massive dark charcoal-gray sperm whales arranged like a living flower around a central point, their enormous wrinkled bodies radiating outward from the mother Rounder at the center, some adults visibly rolled belly-up showing white undersides, broad foreheads pressed inward and upward. A tiny 4-meter newborn calf visible tail-first at the circle's heart, glistening blue-gray, surrounded and dwarfed by the adult females lifting it toward the glittering gold-lit surface. A small white research vessel sits at the scene's edge, miniature figures leaning over the rail. A tiny drone hangs high above, a dark speck against the warm sky. Rippling circular sound-wave patterns radiate outward through the water from the pod. Rich gold and vibrant emerald color grade, saturated and alive, afternoon sun shimmering across the vast ocean surface.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-28.png"
     }
+  },
+  {
+    "date": "2026-03-29",
+    "generated_at": "2026-03-29T11:28:50.531282+00:00",
+    "doom": {
+      "percentage": 43.3,
+      "raw_percentage": 41.7,
+      "driver": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began.",
+      "category": "Geopolitics",
+      "blurb": "ANOTHER FRONT OPENS FOR BUSINESS",
+      "summary": "Just when you thought the Middle East couldn't fit any more combatants, Yemen's Houthis have joined the party \u2014 launching their first strike on Israel since the U.S.-Israel war kicked off. Meanwhile, diplomats from Pakistan, Saudi Arabia, Turkey and Egypt are meeting in Islamabad to find an off-ramp, which is at least something, even if Ted Cruz is out here fantasizing about regime change in three countries simultaneously. The war is now one month old, oil is at $100, G7 emergency meetings 'aren't working,' and the Pentagon is quietly readying ground operation plans. This is escalation by accretion.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Houthi entry into the conflict marks a genuine new front; the war is now a month old with no exit ramp in sight and ground operations being planned."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "G7 emergency meetings described as 'not working,' birthright citizenship at the Supreme Court, and record Republican retirements ahead of midterms signal institutional strain."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI sycophancy research going viral on HN and LLMs fully solving a Knuth math problem point to steady capability and alignment-adjacent concerns, nothing explosive today."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Multiple stories on AI overly affirming users and folk 'dangerously attached' to sycophantic AI suggest a creeping erosion of human critical judgment at scale."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Iran targeting aluminium facilities in Bahrain and UAE introduces supply chain pressure on global industrial materials \u2014 an underreported economic escalation vector."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "fractured",
+        "combustible",
+        "weary"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a massive sandstorm wall, deep crimson and charcoal brown, churns across an ancient baked Yemeni highland plateau, the haboob front consuming the entire upper two-thirds of the frame in roiling darkness shot through with firelight-orange dust veins, visibility collapsing into near-zero murk. The landscape below is rocky desert rubble, rust-colored and bone-dry, scrub flattened by the pressure wave of hot wind rushing ahead of the storm. Through the churning haze, barely visible like ghosts dissolving into the dust, the angular silhouettes of TEL wheeled launcher trucks sit with their cargo angled skyward at 75 degrees, the desert-tan missile forms half-swallowed by the crimson atmosphere. A single bright white contrail chalk-line punches upward through the storm wall, glowing orange at its active tip, the only clean vertical element in a scene of horizontal chaos. Far to the upper right corner, rendered tiny against the oppressive dark sky, a distant mid-air flash \u2014 white-gold pixels blooming in the black \u2014 suggests an Arrow intercept high over unseen territory. Crimson and charcoal dominate every surface, firelight reflecting off the metallic launcher silhouettes, the storm pressing down like a lid, suffocating and ancient. No text, no antialiasing, 16-bit SNES pixel dithering throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-03-29.png"
+    },
+    "dawn": {
+      "percentage": 56.7,
+      "driver": "Britain today generating 90%+ of electricity from renewables.",
+      "category": "Environment",
+      "blurb": "BRITAIN RUNS ON SUNSHINE AND WIND",
+      "summary": "Even as war dominates the headlines and global energy supplies face serious disruption from the Strait of Hormuz crisis, Britain quietly hit a landmark today: over 90% of its electricity generated from renewable sources. It's a proof-of-concept moment for a world desperately needing alternatives to fossil fuels \u2014 and it didn't require a treaty, a breakthrough invention, or a decade more of waiting. The grid just did it. That's not a small thing.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Britain's national grid hit 90%+ renewable electricity generation today, a real-time milestone demonstrating that clean energy at scale is not a future promise \u2014 it's a present reality."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists unveiled a new gene therapy that turns off pain at its source in the brain without opioids or addiction risk, a potential breakthrough for millions of chronic pain sufferers."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Pakistan is hosting foreign ministers from Saudi Arabia, Turkey, and Egypt in Islamabad in a genuine multilateral push to de-escalate the US-Iran war through diplomacy."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "GitLab founder Sytse Sijbrandij, battling cancer, responded by founding new companies \u2014 a story of defiant creative purpose resonating deeply across the tech community."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "South Korea has mandated solar panels for public parking lots, embedding renewable energy generation into everyday infrastructure at national policy scale."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "energized",
+        "forward-moving",
+        "hopeful",
+        "grounded"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glowing digital display panel mounted in the National Grid control room, the readout showing a luminous emerald-green percentage figure blazing at 90-plus, rich gold light from the control room amber glow washing across the lower edge of the panel housing, the screen surface reflecting tiny distorted mirror images of offshore wind turbines and a map of Britain traced in teal glowing lines, the reflection caught in the dark glass like a miniature landscape of churning North Sea and white turbine towers and silver rooftop solar panels on terraced brick houses, deep saturated greens and vibrant golds saturating the pixel grid, the display housing rendered in cool grey metal with warm amber light raking across its rim from consoles beyond the frame, a faint reflected silhouette of a control room operator leaning forward visible in the lower corner of the screen glass, the overall mood quietly triumphant and alive, colours rich and saturated \u2014 deep emerald numerals, gold ambient warmth, teal map lines, silver reflections, the whole frame humming with the calm electric satisfaction of a grid running clean.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-29.png"
+    }
   }
 ]
