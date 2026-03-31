@@ -4884,5 +4884,100 @@
       "card_image": "dawn-card-2026-03-30.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene at Kennedy Space Center launch pad, deep darkness dominating the frame, the vast Florida sky above an ink-black Atlantic coastline. The enormous Space Launch System rocket fills the center of the composition, its white and orange fuselage drenched in blazing artificial floodlights casting hard gold and emerald-tinted pools across the concrete tarmac below \u2014 the only light sources in a world of deep shadow. Steam and condensation vent from the rocket's base, the white plumes catching the floodlight beams and glowing molten gold against the surrounding darkness. A pale crescent moon hangs directly above the rocket in the deep cobalt-black sky, a silent destination made visible. In the far left foreground, a countdown clock display burns bright amber-green in the darkness, its pixelated numerals radiating a vivid emerald glow across the faces of a small crowd gathered at the causeway \u2014 silhouetted figures, one child on a parent's shoulders, a tiny hand raised toward the sky. Four small astronaut figures in orange Orion suits are visible crossing the floodlit tarmac, cast in warm gold light, their long shadows stretching behind them into darkness. The launch tower scaffolding rises in steel-grey lattice, lit from below, dramatic shadow-streaked geometry climbing into black sky."
     }
+  },
+  {
+    "date": "2026-03-31",
+    "generated_at": "2026-03-31T11:48:31.868755+00:00",
+    "doom": {
+      "percentage": 46.3,
+      "raw_percentage": 47.2,
+      "driver": "'AI helped pick the first thousand targets in Iran'",
+      "category": "AI Capability",
+      "blurb": "THE ALGORITHM LEARNED TO KILL FIRST",
+      "summary": "Buried between oil tankers on fire and gold hitting historic lows is a quietly civilizational headline: AI systems are now selecting airstrike targets in a live war. This isn't a think-piece about future risks \u2014 it's a dispatch from week five of an active conflict where the machine is already in the loop. Meanwhile Spain and Italy are shutting US bombers out of their bases, Zelensky is being asked to ease up on Russia because energy prices are already through the roof, and Brent crude is flirting with $117. The Iran war isn't just a Middle East story anymore \u2014 it's the load-bearing pillar of every other crisis on this list.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "AI reportedly selected the first thousand airstrike targets in the Iran war \u2014 autonomous targeting at scale in a live conflict is a threshold moment for AI-enabled warfare."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Spain and Italy are denying US military bases for Iran strikes, Zelensky is being pressured to reduce attacks on Russia, and Gulf stock markets have lost $120bn \u2014 the war is fragmenting Western alliances in real time."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "No international framework governs AI targeting in warfare; the Iran war is writing the precedent by default with zero democratic deliberation."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "The Axios NPM package was compromised to drop a remote access trojan \u2014 supply chain attacks on critical dev infrastructure are accelerating alongside AI deployment."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Food shock described as 'inevitable' due to the Iran war, with fertilizer and fuel prices already cascading \u2014 a humanitarian slow-burn crisis is layering onto the acute military one."
+        }
+      ],
+      "mood": [
+        "algorithmic",
+        "cascading",
+        "irreversible",
+        "fatigued",
+        "fragmented"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-03-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from flat desert earth at Natanz enrichment facility, the low earthen berms and ventilation stacks towering overhead against a deep blue-black 3 AM sky, we are lying on the ochre dust looking upward at the massive underbelly of a B-2 Spirit stealth bomber passing silently overhead, its flying wing silhouette filling the upper frame, charcoal gray against charcoal sky, the subtle curve of its leading edge barely distinguishable from darkness, below it the ventilation stacks of the buried facility rise like black monoliths against a sky faintly backlit by distant firelight, a curved monitor array glows at the base of a nearby command bunker entrance visible at the frame's lower edge, dark-mode UI interface showing scrolling cyan text and numbered coordinate rows, color-coded red and amber threat tags blinking, the ground beneath us is baked pale desert, cracked salt flat surface rendered in precise pixel tiles, crimson light from somewhere beyond the frame reflects off the smooth underside of the bomber and the metallic ventilation infrastructure, oppressive scale contrast between tiny bunker entrance below and the vast aircraft above, deep crimson and charcoal palette throughout, high contrast, no antialiasing, 16-bit SNES sprite detail."
+    },
+    "dawn": {
+      "percentage": 53.7,
+      "driver": "Powerful cholesterol drug cuts heart attack risk by 31%.",
+      "category": "Medicine",
+      "blurb": "HEART ATTACKS JUST GOT 31% LESS LIKELY",
+      "summary": "Even as war, oil shocks, and geopolitical chaos dominate the headlines, scientists are quietly winning battles that matter most: the ones inside our bodies. Evolocumab, a cholesterol-lowering drug, has been shown to cut heart attack risk by 31% \u2014 a genuinely significant leap in cardiovascular medicine that will save real lives regardless of what happens in the Strait of Hormuz. Heart disease remains the world's leading killer, and a breakthrough of this magnitude is a reminder that human ingenuity keeps compounding even when the news cycle does not.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 31% reduction in heart attack risk is a landmark finding that could reshape prevention guidelines for millions of high-risk patients worldwide."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The US reopened its embassy in Venezuela, a quiet diplomatic thaw that signals at least one frozen relationship is beginning to warm."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Gazan mothers reunited with children evacuated as premature newborns two years ago \u2014 a small, luminous act of reunion amid ongoing devastation."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "South Korea's $17 billion emergency budget prioritizes cushioning energy costs, with green energy transition cited as the long-term path forward."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "C\u00e9line Dion announced comeback shows in Paris after her incurable diagnosis \u2014 a defiant act of artistry that resonates far beyond the stage."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "steadfast",
+        "healing"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-03-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a warm clinical examination room at Mass General Brigham's Heart and Vascular Institute, looking outward through a tall window toward golden afternoon Boston skyline, rich amber sunlight streaming through the glass and casting long warm rectangles across gleaming white linoleum and honey-toned wood paneling. The room glows with saturated gold and vibrant emerald \u2014 sunlight refracting through a potted plant on the windowsill, throwing leaf-shadow patterns across the walls. In the foreground a research nurse in a white coat gently holds a sleek pale medical auto-injector pen, caught in a reverent shaft of afternoon gold, the device gleaming like something quietly precious. A middle-aged patient sits calmly in a clinical chair, trusting and still. On a desk nearby a tablet screen displays a cholesterol panel with two stark numbers in dramatic contrast, and beside it a cross-section diagram of a clean open artery glowing pink and unobstructed, smooth-walled, a road cleared before any accident. A subtle calendar on the wall shows gentle marks every fourteen days across five years of patient persistence. Through the window the outside world is warm and alive with saturated emerald treetops catching full afternoon sun, the feeling of something long-awaited finally confirmed, quiet triumph filling every gold-drenched corner of the room."
+    }
   }
 ]
