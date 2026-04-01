@@ -5085,5 +5085,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a warm clinical examination room at Mass General Brigham's Heart and Vascular Institute, looking outward through a tall window toward golden afternoon Boston skyline, rich amber sunlight streaming through the glass and casting long warm rectangles across gleaming white linoleum and honey-toned wood paneling. The room glows with saturated gold and vibrant emerald \u2014 sunlight refracting through a potted plant on the windowsill, throwing leaf-shadow patterns across the walls. In the foreground a research nurse in a white coat gently holds a sleek pale medical auto-injector pen, caught in a reverent shaft of afternoon gold, the device gleaming like something quietly precious. A middle-aged patient sits calmly in a clinical chair, trusting and still. On a desk nearby a tablet screen displays a cholesterol panel with two stark numbers in dramatic contrast, and beside it a cross-section diagram of a clean open artery glowing pink and unobstructed, smooth-walled, a road cleared before any accident. A subtle calendar on the wall shows gentle marks every fourteen days across five years of patient persistence. Through the window the outside world is warm and alive with saturated emerald treetops catching full afternoon sun, the feeling of something long-awaited finally confirmed, quiet triumph filling every gold-drenched corner of the room.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-03-31.png"
     }
+  },
+  {
+    "date": "2026-04-01",
+    "generated_at": "2026-04-01T11:53:52.303519+00:00",
+    "doom": {
+      "percentage": 44.9,
+      "raw_percentage": 44.7,
+      "driver": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO.",
+      "category": "Geopolitics",
+      "blurb": "TRUMP THREATENS TO DISSOLVE THE WESTERN ORDER",
+      "summary": "While Trump hints the Iran war might wrap up in 'two or three weeks,' he's simultaneously threatening to blow up NATO over allied reluctance to help pry open the Strait of Hormuz \u2014 which is either masterful leverage or genuinely unhinged, and the difference matters enormously. Meanwhile Iran is threatening Apple, Google, and Nvidia with IRGC strikes, the IEA is calling this the worst oil crisis in history, and Asia is panic-burning coal to keep the lights on. The war may be winding down, but the institutional wreckage is just getting started.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Trump threatening NATO withdrawal while Iran attacks Gulf neighbors and Houthis coordinate joint missile strikes with Tehran and Hezbollah marks a genuinely destabilizing week for the alliance architecture."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The 'God squad' waiving endangered species law for Gulf drilling, SCOTUS hearing birthright citizenship arguments with Trump physically present, and a potential NATO exit signal governance stress at multiple levels simultaneously."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI closes a funding round at an $852B valuation and Baidu's robotaxis froze mid-highway in Wuhan \u2014 two data points on the same spectrum of AI moving faster than its guardrails."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "The Claude Code source leak revealed 'fake tools,' 'frustration regexes,' and an 'undercover mode,' which is either innocent engineering shorthand or exactly the kind of thing alignment researchers lose sleep over."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Iran threatening Nvidia, Apple, and Microsoft as 'legitimate IRGC targets' introduces a novel escalation vector: Big Tech as geopolitical hostage in a shooting war."
+        }
+      ],
+      "mood": [
+        "fracturing",
+        "volatile",
+        "exhausted",
+        "unmoored"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at 45-degree angle looking down \u2014 vast dark North Atlantic ocean dominates the frame, its surface charcoal and crimson-reflecting, choppy waves rendered in harsh dithered contrast. From above, a mahogany negotiating table floats impossibly at the center of the water, one chair conspicuously pulled back and empty, the remaining chairs occupied by tiny suited figures barely visible at this scale, their EU and UK flag lapel pins glinting like single pixels of gold. Dominating the table's surface is a crumpled origami tiger folded from blue-and-white NATO flag paper, its claws limp, one ear torn, casting a long dramatic shadow across the wood grain. Surrounding the table in the dark water, a massive Nimitz-class aircraft carrier steams alone, no allied escorts, its flight deck lit by tiny sodium-orange dots, dwarfed by the sheer expanse of ocean. At the frame's edge, a dark-suited figure with white swept-back hair walks away from the table toward the upper corner of the image, back turned, receding into amber-red dusk light that bleeds across the horizon. Gas flare stacks burn orange-yellow at the far periphery. The entire scene is color-graded dark crimson and charcoal with firelight reflections on every dark surface, high contrast, oppressive, dusk light turning everything the color of something ending. No text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-01.png"
+    },
+    "dawn": {
+      "percentage": 55.1,
+      "driver": "Iraq qualifies for the Fifa World Cup for the first time in 40 years. Thousands of Iraqis streamed to the streets of Baghdad to celebrate qualifying for the FIFA World Cup.",
+      "category": "Human Spirit",
+      "blurb": "BAGHDAD DANCES AS IRAQ RETURNS TO THE WORLD STAGE",
+      "summary": "With war raging across the region and Baghdad itself living under the shadow of conflict, thousands of Iraqis poured into the streets in pure, unscripted joy \u2014 their national team qualifying for football's biggest stage for the first time in 40 years. It is nearly impossible to overstate what this means: a nation that has endured decades of war, sanctions, and instability paused all of it to celebrate together. DR Congo also reached the World Cup for the first time in 52 years, and Turkey ended a 24-year absence \u2014 on the darkest days, sport has a stubborn, beautiful habit of reminding us that people still want to play, cheer, and belong to something larger than their suffering.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Iraqis celebrating in Baghdad's streets \u2014 joy breaking through a war-scarred region \u2014 is one of the most defiant acts of hope imaginable."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Pakistan and China jointly proposed a five-part Middle East peace plan, signaling that diplomatic channels have not gone silent even as bombs fall."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists discovered DNA 'supergenes' in cichlid fish that may unlock fundamental secrets of how new species form rapidly, expanding our understanding of evolution."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Old canned salmon revealed rising levels of parasitic worms as a surprising indicator of stronger, recovering marine food webs in the ocean."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Artemis II astronauts \u2014 including the first woman and first Black person to travel to the lunar environment \u2014 are hours from launch, the boldest human journey in over 50 years."
+        }
+      ],
+      "mood": [
+        "defiant",
+        "joyful",
+        "resilient",
+        "celebratory",
+        "hopeful"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Baghdad streets at night seen through thick drifting fireworks smoke and haze, the atmospheric murk glowing gold and emerald as flares burst somewhere above, their light diffused into warm amber columns through the smoke-filtered air, the scene half-obscured and dreamlike. The environment dominates \u2014 dense crowd-smoke rolling low across a wide boulevard, minarets barely visible as dark silhouettes dissolving into the haze behind, the Tigris River catching broken reflections of green and crimson light in the far distance. Within this atmosphere: thousands of figures pressed together in the smoke-filled street, Iraqi flags in black white and red carried aloft and blurring into the haze, white and green football jerseys glowing under flare-light, a grandfather in a faded football scarf lifted off his feet by a young grandson in a jersey, both rendered in warm gold light with tiny pixel tears on their faces, fireworks exploding overhead as smeared emerald and gold bursts diffused through smoke, mobile phones raised like scattered embers through the atmospheric murk, the entire scene saturated in rich gold and vibrant emerald, every detail softened and half-dissolved by smoke and celebration haze, alive and overwhelming.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-01.png"
+    }
   }
 ]
