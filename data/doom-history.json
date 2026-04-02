@@ -5073,5 +5073,100 @@
       "card_image": "dawn-card-2026-04-01.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Baghdad streets at night seen through thick drifting fireworks smoke and haze, the atmospheric murk glowing gold and emerald as flares burst somewhere above, their light diffused into warm amber columns through the smoke-filtered air, the scene half-obscured and dreamlike. The environment dominates \u2014 dense crowd-smoke rolling low across a wide boulevard, minarets barely visible as dark silhouettes dissolving into the haze behind, the Tigris River catching broken reflections of green and crimson light in the far distance. Within this atmosphere: thousands of figures pressed together in the smoke-filled street, Iraqi flags in black white and red carried aloft and blurring into the haze, white and green football jerseys glowing under flare-light, a grandfather in a faded football scarf lifted off his feet by a young grandson in a jersey, both rendered in warm gold light with tiny pixel tears on their faces, fireworks exploding overhead as smeared emerald and gold bursts diffused through smoke, mobile phones raised like scattered embers through the atmospheric murk, the entire scene saturated in rich gold and vibrant emerald, every detail softened and half-dissolved by smoke and celebration haze, alive and overwhelming."
     }
+  },
+  {
+    "date": "2026-04-02",
+    "generated_at": "2026-04-02T11:45:40.833600+00:00",
+    "doom": {
+      "percentage": 43.7,
+      "raw_percentage": 42.7,
+      "driver": "Iran threatens Nvidia, Apple and other tech giants with attacks.",
+      "category": "Geopolitics",
+      "blurb": "IRAN PUTS SILICON VALLEY IN ITS CROSSHAIRS",
+      "summary": "As Trump tells the nation the Iran war is 'nearing completion' in two to three weeks \u2014 a timeline literally no one believes \u2014 Tehran's Revolutionary Guard is busy designating Nvidia and Apple as 'legitimate targets.' Nothing says 'we're losing' quite like threatening to blow up a chip manufacturer. Meanwhile, oil is up 8%, Asian markets are cratering, and the Strait of Hormuz remains a geopolitical hostage.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran continues ballistic missile and drone strikes across the Gulf while threatening Western tech infrastructure \u2014 the conflict is widening, not contracting, despite Trump's 'nearing completion' speech."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Palantir's UK boss explicitly said it's up to militaries to decide how AI targeting is used in war \u2014 a non-answer that answers everything \u2014 while Claude apparently wrote a working FreeBSD remote kernel RCE exploit."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "SCOTUS appears skeptical of Trump's birthright citizenship plan and a judge blocked NPR/PBS defunding, suggesting some institutional guardrails are holding \u2014 for now."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Quantum encryption may be closer to breaking than previously thought, per New Scientist analysis \u2014 a slow-burn threat that rarely makes front pages but absolutely should."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "A leaked Claude Code source file reveals Anthropic is building persistent agents and a 'stealth Undercover mode' \u2014 useful context for why AI safety researchers drink so much."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "volatile",
+        "sardonic",
+        "jittery",
+        "combustible"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame \u2014 a smartphone screen held in a shadowed hand, the Telegram interface glowing electric blue against absolute darkness, the paper-plane logo blazing in the upper corner, the message display showing Farsi script rendered in crisp pixel rows, below it a partial English translation in smaller white pixel text, the screen's blue-white glow casting cold light across knuckles and a sleeve cuff in olive-green fabric, the edges of the frame bleeding into total charcoal blackness, but caught in the glass of the phone screen \u2014 a faint reflection of a targeting reticle overlaid across four tiny corporate logo squares, Nvidia's green eye, Apple's silver apple, a four-pane window, a multicolor letterform, each logo pixel-perfect and miniature, arranged in a 2x2 grid as if on a digital hit list, the screen's reflection also catching the ghost-glow of stacked server rack status lights blinking deep red and amber in a vast dark room behind the holder, the phone's cracked corner detail visible lower-right, a countdown timer widget on the phone's notification bar showing 20:00 in Arabic-numeral pixel digits, the entire palette locked to dark crimson and charcoal with the singular cold Telegram blue as the only pure light source, high contrast, oppressive, no antialiasing, no text readable as real text, no violence."
+    },
+    "dawn": {
+      "percentage": 56.3,
+      "driver": "In a thunderous launch, Artemis II astronauts leave Earth. Four astronauts have begun a 10-day journey around the moon and back again, the first crewed flight to the moon since 1972",
+      "category": "Discovery",
+      "blurb": "HUMANITY ESCAPES EARTH \u2014 BOUND FOR THE MOON",
+      "summary": "While the world below is convulsed by war in the Persian Gulf and fracturing alliances, four human beings today slipped the surly bonds of Earth and are now arcing toward the Moon \u2014 the first crew to do so in 54 years. This isn't a distraction from the darkness; it's the counterargument to it. The same species capable of missiles and sanctions is also capable of Artemis II, of 'we go for all humanity' echoing across a launch pad filled with giddy, tearful engineers. When the next generation asks what we were doing in April 2026, the honest answer includes both the wars and the moonshot.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "The first crewed lunar mission since Apollo 17 in 1972 launched successfully, with four astronauts now testing Orion systems en route to circling the Moon."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Pakistan is actively serving as an intermediary between warring parties in the Iran conflict, demonstrating that diplomatic channels remain alive even amid active combat."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Crowds at Kennedy Space Center erupted in 'giddy euphoria' at launch \u2014 a rare moment of collective wonder cutting through a season of collective dread."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Surging gas prices driven by the Iran war are boosting demand for used EVs, with dealerships reporting sharp upticks in consumer interest \u2014 crisis accelerating the clean transition."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A 200-year-old optics phenomenon has been harnessed to make quantum encryption simpler and more efficient, a quiet breakthrough that could secure global communications for decades."
+        }
+      ],
+      "mood": [
+        "awe",
+        "resilience",
+        "wonder",
+        "transcendence",
+        "possibility"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight. Kennedy Space Center launch pad, Florida, wide open flatness stretching to a distant glimmering Atlantic horizon under a blazing afternoon sky drenched in rich gold and vibrant emerald. The SLS rocket dominates the frame as a towering dark silhouette, cathedral-tall and vertical, backlit by a blinding white-gold eruption at its base where enormous billowing clouds of steam and vapor spread wide across the frame in glowing emerald-tinted plumes. The rocket exhaust core burns incandescent white-gold, fading outward into warm amber and deep green smoke clouds that roll across the launch pad steel structure, itself rendered as pure dark geometry against the luminous chaos. The Orion capsule perches as a tiny dark cone at the rocket's apex, barely visible against the saturated sky. Thick white vapor trails arc dramatically across the upper sky like brushstrokes of history, backlit emerald and gold. In the extreme foreground, four small human silhouettes stand watching from a viewing area below \u2014 ground crew figures rendered in pure black cutout shapes, completely dwarfed by the towering rocket behind them, their scale making the immensity of the launch visceral and overwhelming. The sky above transitions from blinding launch-glow at the horizon to deep saturated teal-emerald overhead. Afternoon Florida light, golden and sharp, alive."
+    }
   }
 ]
