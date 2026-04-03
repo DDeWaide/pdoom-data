@@ -5278,5 +5278,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight. Kennedy Space Center launch pad, Florida, wide open flatness stretching to a distant glimmering Atlantic horizon under a blazing afternoon sky drenched in rich gold and vibrant emerald. The SLS rocket dominates the frame as a towering dark silhouette, cathedral-tall and vertical, backlit by a blinding white-gold eruption at its base where enormous billowing clouds of steam and vapor spread wide across the frame in glowing emerald-tinted plumes. The rocket exhaust core burns incandescent white-gold, fading outward into warm amber and deep green smoke clouds that roll across the launch pad steel structure, itself rendered as pure dark geometry against the luminous chaos. The Orion capsule perches as a tiny dark cone at the rocket's apex, barely visible against the saturated sky. Thick white vapor trails arc dramatically across the upper sky like brushstrokes of history, backlit emerald and gold. In the extreme foreground, four small human silhouettes stand watching from a viewing area below \u2014 ground crew figures rendered in pure black cutout shapes, completely dwarfed by the towering rocket behind them, their scale making the immensity of the launch visceral and overwhelming. The sky above transitions from blinding launch-glow at the horizon to deep saturated teal-emerald overhead. Afternoon Florida light, golden and sharp, alive.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-02.png"
     }
+  },
+  {
+    "date": "2026-04-03",
+    "generated_at": "2026-04-03T11:38:25.688539+00:00",
+    "doom": {
+      "percentage": 42.6,
+      "raw_percentage": 41.2,
+      "driver": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis.",
+      "category": "Geopolitics",
+      "blurb": "THE PRICE OF WAR IS NOW AT THE PUMP",
+      "summary": "Brent crude hitting $141 \u2014 levels not seen since the 2008 financial crisis \u2014 is the Iran war's economic shockwave finally arriving on the doorstep of every government and household on Earth. Trump is threatening to hit Iranian bridges and power plants while simultaneously watching oil markets nuke his approval ratings; Macron is telling him to 'be serious' and 'stop speaking every day,' which is diplomatically phrased for 'you're making this worse.' Week 5 of a war that's closed the Strait of Hormuz, rattled Gulf refineries, and is apparently now threatening the global helium supply \u2014 the chaos is broadening, not narrowing.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran war enters week 5 with oil at $141, Gulf refinery strikes, U.S. troops evacuating Mideast bases, and Trump threatening Iranian civilian infrastructure including bridges and power plants."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump fires Attorney General Bondi, Hegseth ousts Army Chief of Staff, and Vance heads to Orb\u00e1n's Hungary \u2014 the administration is reshuffling during an active war while 40 nations convene over Hormuz."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Google releases Gemma 4 open models and Qwen3.6-Plus agentic AI drops; open-source frontier capability continues its quiet, relentless march forward."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "CBP facility security codes apparently leaked via Quizlet flashcards discoverable via basic Google search \u2014 a quietly embarrassing infrastructure vulnerability hiding in plain sight."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "AI-generated fake legal briefs continue rising in courts despite sanctions; penalties are stacking up but adoption is not slowing."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "cascading",
+        "exhausted",
+        "volatile",
+        "pressurized"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Strait of Hormuz viewed from low altitude looking north across the narrow black water channel, the ochre-brown Iranian coastline a dark silhouette mass along the top of the frame lit only by scattered orange shore lights bleeding into hazy salt air, the water itself an oil-black mirror broken by crimson reflections \u2014 in the middle distance a colossal VLCC supertanker sits dead in the water, rust-orange hull riding high and empty, bridge superstructure glowing with instrument panel amber light, its massive flat deck stretching across the frame like a floating city block, anchor chain disappearing into black water, the vessel motionless and waiting \u2014 three small fast patrol boats cut sharp white pixel wakes across the foreground water between the tanker and the Strait entrance, their dark grey hulls low and aggressive, mounted hardware silhouetted against the crimson-reflecting surface \u2014 far left a grey frigate silhouette sits on the hazy horizon, running lights only, barely distinguishable from the dark sky \u2014 in the lower right corner a Bloomberg terminal screen floats as a glowing panel mounted on the tanker bridge interior visible through a porthole window, showing $141.36 in massive amber digits with a red upward arrow, the number casting firelight-colored glow across surrounding dark surfaces \u2014 the entire sky is a deep charcoal bruise with no stars, only a milky heat haze diffusing the shore lights into smeared crimson halos, high contrast shadows dominating every surface, oppressive and suffocating atmosphere, no text, no antialiasing, 16-bit SNES pixel art",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-03.png"
+    },
+    "dawn": {
+      "percentage": 57.4,
+      "driver": "Deafness reversed: One injection restores hearing in just weeks. A new gene therapy is giving people born deaf the chance to hear, often within just weeks. In a small but groundbreaking study, researchers delivered a working copy of a key hearing gene directly into",
+      "category": "Medicine",
+      "blurb": "ONE SHOT. SILENCE BROKEN. A WORLD REOPENS.",
+      "summary": "While the headlines pulse with war and geopolitical fire, a quieter miracle arrived in a lab: a single gene therapy injection is restoring hearing in people born deaf, sometimes within weeks. For those who have never heard a voice, rain, or music, this is not an incremental step \u2014 it is a door swinging open. Against a backdrop where so much feels like it is breaking, science is busy rebuilding something far more fundamental: connection to the world of sound.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Gene therapy delivering a working copy of a hearing gene represents a genuine paradigm shift in treating congenital deafness, moving from management to reversal."
+        },
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "A breakthrough ALS phase 3 trial also launched today, signaling that even on dark news days, the pipeline of life-altering medical research keeps moving forward."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Artemis II astronauts, now beyond Earth's orbit for the first time since 1972, sent messages home from space \u2014 a reminder that humans still reach outward even in turbulent times."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Renewables reached nearly 50% of global electricity capacity last year, with solar accounting for three-quarters of new installations, a structural energy shift continuing regardless of political noise."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Pakistan confirmed peace talks with Afghanistan's Taliban government are underway in China, a quiet diplomatic effort that, if sustained, could reduce one of the world's most persistent conflict zones."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "restoration",
+        "resilience",
+        "wonder",
+        "perseverance"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a cochlear cross-section rendered as a vast spiral cathedral of amber and emerald, the snail-shell chambers towering overhead like a living architecture of gold-lit tunnels curving into darkness, fluid-filled passages glowing with rich saturated green and deep honey tones as though afternoon sun is filtering through living tissue. From this worm's-eye perspective the ceiling of the cochlea spirals upward infinitely, its inner walls lined with tiny luminous hair cells catching the light like blades of grass in late sun. Dominating the upper center of the composition, a single glowing syringe descends from above in perfect vertical alignment, needle tip aimed at a pearl-white round window membrane far below the viewer, the syringe backlit in blazing gold so its silhouette is heroic and impossibly simple against the spiraling green vault. Surrounding it, dozens of tiny geometric AAV viral capsules drift downward like luminous geodesic lanterns, each one a miniature glowing sphere of emerald and amber catching the light. A double helix strand of golden thread unspools from the capsules, threading itself into the hair cell walls like roots taking hold. In the far upper distance, barely visible through the spiral opening at the apex of the cochlea, the silhouette of a small girl reaches upward toward her ear, backlit by brilliant afternoon gold, her mother's hands framing her face. Rich gold and vibrant emerald throughout, saturated and alive.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-03.png"
+    }
   }
 ]
