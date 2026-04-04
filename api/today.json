@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-03",
-  "generated_at": "2026-04-03T11:38:25.688539+00:00",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T11:29:11.059128+00:00",
   "doom": {
-    "percentage": 42.6,
-    "raw_percentage": 41.2,
-    "driver": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis.",
+    "percentage": 46.1,
+    "raw_percentage": 47.3,
+    "driver": "Debris from aerial interception strikes Oracle building in Dubai, UAE says.",
     "category": "Geopolitics",
-    "blurb": "THE PRICE OF WAR IS NOW AT THE PUMP",
-    "summary": "Brent crude hitting $141 \u2014 levels not seen since the 2008 financial crisis \u2014 is the Iran war's economic shockwave finally arriving on the doorstep of every government and household on Earth. Trump is threatening to hit Iranian bridges and power plants while simultaneously watching oil markets nuke his approval ratings; Macron is telling him to 'be serious' and 'stop speaking every day,' which is diplomatically phrased for 'you're making this worse.' Week 5 of a war that's closed the Strait of Hormuz, rattled Gulf refineries, and is apparently now threatening the global helium supply \u2014 the chaos is broadening, not narrowing.",
+    "blurb": "THE WAR FINDS A NEW ZIP CODE",
+    "summary": "Iran's threat to target Silicon Valley in the Middle East wasn't rhetorical \u2014 debris from an aerial interception just tagged Oracle's Dubai building, turning corporate real estate into a casualty of the Iran war's sixth week. Meanwhile a second U.S. warplane is down, one crew member is missing, and Trump's team apparently didn't get the memo that 'no air defenses' was a premature victory lap. The conflict is metastasizing geographically, economically, and architecturally.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran war enters week 5 with oil at $141, Gulf refinery strikes, U.S. troops evacuating Mideast bases, and Trump threatening Iranian civilian infrastructure including bridges and power plants."
-      },
-      {
-        "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump fires Attorney General Bondi, Hegseth ousts Army Chief of Staff, and Vance heads to Orb\u00e1n's Hungary \u2014 the administration is reshuffling during an active war while 40 nations convene over Hormuz."
+        "detail": "Iran war enters week six with two U.S. jets downed, Iranian missiles hitting central Israel, nuclear and petrochemical sites struck, and now foreign corporate infrastructure caught in the crossfire in Dubai."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Google releases Gemma 4 open models and Qwen3.6-Plus agentic AI drops; open-source frontier capability continues its quiet, relentless march forward."
+        "detail": "OpenClaw's unauthenticated admin privilege escalation vulnerability went viral just as AI agentic tools are proliferating, and Utah quietly handed an AI system authority to prescribe psychiatric drugs."
       },
       {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "CBP facility security codes apparently leaked via Quizlet flashcards discoverable via basic Google search \u2014 a quietly embarrassing infrastructure vulnerability hiding in plain sight."
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "Trump's $1.5 trillion defense budget alongside domestic cuts, NATO criticism reigniting, and an FAA flight restriction flagged as an attempt to criminalize filming of ICE operations all signal accelerating institutional stress."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "AI-generated fake legal briefs continue rising in courts despite sanctions; penalties are stacking up but adoption is not slowing."
+        "signal": "medium",
+        "detail": "Research finds large majorities of AI users engage in 'cognitive surrender,' uncritically accepting faulty AI outputs \u2014 a soft but meaningful alignment risk as AI advice expands into medicine and governance."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "Iran has cut domestic internet access, forcing citizens to cross into Turkey to get online \u2014 information blackouts during active warfare historically precede major escalations."
       }
     ],
     "mood": [
-      "combustible",
-      "cascading",
-      "exhausted",
+      "escalating",
+      "sprawling",
       "volatile",
-      "pressurized"
+      "kinetic",
+      "uncontained"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Strait of Hormuz viewed from low altitude looking north across the narrow black water channel, the ochre-brown Iranian coastline a dark silhouette mass along the top of the frame lit only by scattered orange shore lights bleeding into hazy salt air, the water itself an oil-black mirror broken by crimson reflections \u2014 in the middle distance a colossal VLCC supertanker sits dead in the water, rust-orange hull riding high and empty, bridge superstructure glowing with instrument panel amber light, its massive flat deck stretching across the frame like a floating city block, anchor chain disappearing into black water, the vessel motionless and waiting \u2014 three small fast patrol boats cut sharp white pixel wakes across the foreground water between the tanker and the Strait entrance, their dark grey hulls low and aggressive, mounted hardware silhouetted against the crimson-reflecting surface \u2014 far left a grey frigate silhouette sits on the hazy horizon, running lights only, barely distinguishable from the dark sky \u2014 in the lower right corner a Bloomberg terminal screen floats as a glowing panel mounted on the tanker bridge interior visible through a porthole window, showing $141.36 in massive amber digits with a red upward arrow, the number casting firelight-colored glow across surrounding dark surfaces \u2014 the entire sky is a deep charcoal bruise with no stars, only a milky heat haze diffusing the shore lights into smeared crimson halos, high contrast shadows dominating every surface, oppressive and suffocating atmosphere, no text, no antialiasing, 16-bit SNES pixel art",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-03.png"
+    "card_image": "doom-card-2026-04-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene \u2014 we are inside the shattered ground-floor lobby of the Oracle building in Dubai Internet City, looking outward through a massive blown-out floor-to-ceiling glass wall, the frame itself bent and jagged, shards hanging like teeth from the upper sill, the red ORACLE wordmark on the upper exterior facade cracked and dark-stained, visible from below through the ruined opening. The lobby interior is rendered in deep charcoal and smoldering crimson \u2014 ceiling tiles collapsed, reception desk buried under twisted aluminum debris fragments, edges heat-blackened and molten-looking, embedded at sharp angles into the marble floor. Through the destroyed glass wall the pre-dawn Dubai Internet City boulevard stretches outward \u2014 wide immaculate pavement now littered with rubble and safety tape glowing faintly orange-red, manicured palm trees silhouetted against a deep blue-black sky. Above the boulevard, long diagonal white smoke contrails hang motionless in the darkness, residual plumes from aerial interceptions crossing the sky at steep angles, a faint bloom of dissipating light visible high in the upper right corner suggesting a distant detonation. Dubai Civil Defence white-and-red emergency vehicles are parked at harsh angles on the plaza, their hazard lights casting stuttering crimson pulses across the debris field. A lone figure in a high-visibility vest moves through the rubble with a flashlight beam cutting through hanging dust haze. Color palette: dark crimson, charcoal, ash-white, with cold blue-black sky. No antialiasing, no text.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-04.png"
   },
   "dawn": {
-    "percentage": 57.4,
-    "driver": "Deafness reversed: One injection restores hearing in just weeks. A new gene therapy is giving people born deaf the chance to hear, often within just weeks. In a small but groundbreaking study, researchers delivered a working copy of a key hearing gene directly into",
+    "percentage": 53.9,
+    "driver": "Multipurpose anti-viral pill may treat colds, norovirus, flu and covid. AI predicted that a forgotten breast cancer drug could be repurposed to treat many respiratory and gastrointestinal viruses, and subsequent animal tests suggests it may be right",
     "category": "Medicine",
-    "blurb": "ONE SHOT. SILENCE BROKEN. A WORLD REOPENS.",
-    "summary": "While the headlines pulse with war and geopolitical fire, a quieter miracle arrived in a lab: a single gene therapy injection is restoring hearing in people born deaf, sometimes within weeks. For those who have never heard a voice, rain, or music, this is not an incremental step \u2014 it is a door swinging open. Against a backdrop where so much feels like it is breaking, science is busy rebuilding something far more fundamental: connection to the world of sound.",
+    "blurb": "ONE FORGOTTEN PILL. EVERY VIRUS. HOPE REVIVED.",
+    "summary": "In a week dominated by downed jets and Easter drone strikes, a quiet signal emerges from the lab: AI has unearthed a shelved breast cancer drug that may work against colds, flu, norovirus, and COVID simultaneously. This is exactly the kind of discovery that gets buried under war headlines but compounds silently over time \u2014 the unglamorous, patient work of science finding new uses in old molecules. If animal results hold in humans, a single antiviral covering the respiratory and gastrointestinal spectrum would be one of the most consequential medical advances in decades.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Gene therapy delivering a working copy of a hearing gene represents a genuine paradigm shift in treating congenital deafness, moving from management to reversal."
+        "detail": "AI-driven drug repurposing identified a forgotten breast cancer compound with broad antiviral properties, with animal trials already supporting the prediction."
       },
       {
-        "name": "Medicine",
-        "signal": "blazing",
-        "detail": "A breakthrough ALS phase 3 trial also launched today, signaling that even on dark news days, the pipeline of life-altering medical research keeps moving forward."
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Cuba is releasing over 2,000 prisoners as part of quiet US-Cuba diplomacy, suggesting back-channel negotiation still functions even during hostile rhetoric."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Artemis II astronauts, now beyond Earth's orbit for the first time since 1972, sent messages home from space \u2014 a reminder that humans still reach outward even in turbulent times."
+        "detail": "Artemis II astronauts, halfway to the Moon, captured a spectacular image of Earth that went viral on Hacker News with 780 points and 271 comments \u2014 humanity pausing war news to look up."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "Renewables reached nearly 50% of global electricity capacity last year, with solar accounting for three-quarters of new installations, a structural energy shift continuing regardless of political noise."
+        "signal": "glimmer",
+        "detail": "A well-sourced analysis published today argues that solar and batteries alone can power the entire world, drawing serious technical engagement from the engineering community."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Pakistan confirmed peace talks with Afghanistan's Taliban government are underway in China, a quiet diplomatic effort that, if sustained, could reduce one of the world's most persistent conflict zones."
+        "signal": "bright",
+        "detail": "Jobs data showed 178,000 payrolls added in March \u2014 nearly triple expectations \u2014 suggesting the underlying economy retains resilience even as geopolitical shocks multiply."
       }
     ],
     "mood": [
-      "breakthrough",
-      "restoration",
-      "resilience",
-      "wonder",
-      "perseverance"
+      "resilient",
+      "ingenious",
+      "hopeful",
+      "surprising",
+      "determined"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a cochlear cross-section rendered as a vast spiral cathedral of amber and emerald, the snail-shell chambers towering overhead like a living architecture of gold-lit tunnels curving into darkness, fluid-filled passages glowing with rich saturated green and deep honey tones as though afternoon sun is filtering through living tissue. From this worm's-eye perspective the ceiling of the cochlea spirals upward infinitely, its inner walls lined with tiny luminous hair cells catching the light like blades of grass in late sun. Dominating the upper center of the composition, a single glowing syringe descends from above in perfect vertical alignment, needle tip aimed at a pearl-white round window membrane far below the viewer, the syringe backlit in blazing gold so its silhouette is heroic and impossibly simple against the spiraling green vault. Surrounding it, dozens of tiny geometric AAV viral capsules drift downward like luminous geodesic lanterns, each one a miniature glowing sphere of emerald and amber catching the light. A double helix strand of golden thread unspools from the capsules, threading itself into the hair cell walls like roots taking hold. In the far upper distance, barely visible through the spiral opening at the apex of the cochlea, the silhouette of a small girl reaches upward toward her ear, backlit by brilliant afternoon gold, her mother's hands framing her face. Rich gold and vibrant emerald throughout, saturated and alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-03.png"
+    "card_image": "dawn-card-2026-04-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view at 45-degree angle looking down onto a vast California biotech laboratory floor bathed in rich gold afternoon light breaking through floor-to-ceiling windows, the warm amber flooding across cool blue-lit workstation banks and casting long emerald shadows between rows of glowing monitors. The enormous room dominates the frame, its grid of laboratory benches stretching toward the edges like a circuit board seen from altitude, tiny white-coated figures hunched over cell culture plates that catch UV light as small circles of vibrant emerald dotting the lab floor like scattered jewels. At the center of the composition a single workstation glows brightest, dual monitors displaying a rotating golden molecular model of the Thumb-1 domain enzyme, a luminous keyhole shape pulsing amber against the blue screen, a lone tiny figure leaning forward at the desk. Scattered across nearby bench surfaces, yellowed documents and old pharmaceutical files are suddenly illuminated by shafts of gold light, their pages glowing warm against the cool laboratory blue like rediscovered treasure. In one corner, an array of circular culture plate dishes radiates emerald under UV, clear wells shining bright against dark wells in a checkerboard of viral victory. The overall palette saturates toward rich gold and vibrant emerald, afternoon sun pouring through the scene, alive and triumphant.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-04.png"
   }
 }
