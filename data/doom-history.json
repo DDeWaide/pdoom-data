@@ -5358,5 +5358,99 @@
       "card_image": "dawn-card-2026-04-04.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view at 45-degree angle looking down onto a vast California biotech laboratory floor bathed in rich gold afternoon light breaking through floor-to-ceiling windows, the warm amber flooding across cool blue-lit workstation banks and casting long emerald shadows between rows of glowing monitors. The enormous room dominates the frame, its grid of laboratory benches stretching toward the edges like a circuit board seen from altitude, tiny white-coated figures hunched over cell culture plates that catch UV light as small circles of vibrant emerald dotting the lab floor like scattered jewels. At the center of the composition a single workstation glows brightest, dual monitors displaying a rotating golden molecular model of the Thumb-1 domain enzyme, a luminous keyhole shape pulsing amber against the blue screen, a lone tiny figure leaning forward at the desk. Scattered across nearby bench surfaces, yellowed documents and old pharmaceutical files are suddenly illuminated by shafts of gold light, their pages glowing warm against the cool laboratory blue like rediscovered treasure. In one corner, an array of circular culture plate dishes radiates emerald under UV, clear wells shining bright against dark wells in a checkerboard of viral victory. The overall palette saturates toward rich gold and vibrant emerald, afternoon sun pouring through the scene, alive and triumphant."
     }
+  },
+  {
+    "date": "2026-04-05",
+    "generated_at": "2026-04-05T11:29:46.779809+00:00",
+    "doom": {
+      "percentage": 42.9,
+      "raw_percentage": 41.7,
+      "driver": "Kuwait's power, water plants damaged as Iran keeps attacking Gulf states. Bahrain and the UAE also reported attacks resulting in fires, which were put out quickly.",
+      "category": "Geopolitics",
+      "blurb": "THE WAR IS NOW A REGIONAL UTILITY PROBLEM",
+      "summary": "Iran has expanded its target list from Oracle buildings and oil shipments to the rather more existential category of 'where people get water in the desert.' Kuwait, Bahrain, and the UAE all reporting infrastructure hits in a single news cycle suggests this conflict has graduated from skirmish to regional destabilization. Meanwhile the US rescued its downed airman \u2014 a small win \u2014 but then apparently lost a C-130 in the process, which is the geopolitical equivalent of locking your keys in the car while fleeing a house fire.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran is systematically striking Gulf state civilian infrastructure \u2014 power and water \u2014 escalating beyond military-to-military exchanges into economic warfare against US allies."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Germany requiring military exit permits for men under 45 signals European governments are quietly shifting to wartime administrative postures."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI deepfake videos targeting Hungary's opposition candidate in a high-stakes election illustrate AI-enabled political destabilization becoming normalized."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Australia running out of fuel over Easter weekend is a preview of how quickly Iran-war oil disruption cascades into civilian life in non-combatant nations."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Claude Code independently found a 23-year-old Linux vulnerability \u2014 useful today, a useful reminder of unsupervised AI capability trajectories tomorrow."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "destabilizing",
+        "stretched thin",
+        "anxious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a thick curtain of Gulf shamal dust and acrid smoke merges into a single suffocating haze that fills every pixel of the frame, the atmosphere itself the subject, a washed-out ochre-crimson murk swallowing the flat Kuwaiti coastline at the edge of dawn. Visibility crushes down to fifty meters. Through the choking veil, massive reverse-osmosis desalination plant structures loom as dark geometric silhouettes \u2014 corrugated steel walls, enormous pipe manifolds arcing down toward invisible Gulf water, cooling towers bleeding pale steam that immediately dissolves into the surrounding haze. A single floating-roof petroleum storage tank emerges from the murk to the right, its upper rim glowing deep amber where fire still eats at the seal, a thick column of charcoal-black smoke rising and folding back into the dust ceiling above, indistinguishable from the haze. Transmission towers with high-voltage lines stretch across the mid-ground, their upper sections dissolving into the orange-grey murk, one tower listing slightly, a transformer yard at its base flickering with residual electrical discharge casting brief magenta pulses through the haze. On the ground, fire suppression vehicles \u2014 squat yellow airport crash tenders \u2014 sit half-visible, their amber warning lights smearing into bokeh through dust-thickened air, emergency crews reduced to dark silhouettes moving slowly through the oppressive murk. The entire palette is dark crimson, charcoal, and rust ochre, firelight reflecting off particulate-thick air, no clean sky visible anywhere, atmosphere pressing down like a lid, no antialiasing, no text."
+    },
+    "dawn": {
+      "percentage": 57.1,
+      "driver": "Students found a star from the dawn of the universe drifting into the Milky Way. A group of undergraduate students stumbled into a cosmic time capsule\u2014one of the oldest stars ever discovered\u2014while combing through massive astronomy datasets. What began as a class project quickly turned into a landmark discovery.",
+      "category": "Discovery",
+      "blurb": "UNDERGRADS FIND A STAR BORN AT THE DAWN OF TIME",
+      "summary": "While war dominates the headlines and oil burns at $141 a barrel, a group of undergraduate students quietly made one of the most profound astronomical discoveries in recent memory \u2014 finding one of the oldest stars in the universe hidden in plain sight within our own galaxy. What began as a class project became a window to the cosmos itself, a reminder that curiosity and open datasets can still outrun conflict. In weeks defined by missiles and ultimatums, the universe offered humanity a different kind of signal: you were here at the beginning, and you're still looking up.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Undergraduate students discovered one of the oldest known stars in existence \u2014 a genuine cosmic time capsule \u2014 through collaborative academic research, proving big science doesn't require big institutions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The discovery began as a class project, a beautiful reminder that wonder and ambition in ordinary people can produce extraordinary results even in turbulent times."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "With Lebanon's displaced communities turning to digital wallets for diaspora aid, informal human networks are filling gaps that collapsing institutions cannot."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Scientists are mapping Arctic permafrost thaw with unprecedented detail \u2014 difficult news, but the precision of the science signals growing capacity to respond."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A quantum battery prototype that 'breaks the rules of charging' was demonstrated by researchers, edging humanity toward an energy storage revolution that wars cannot take away."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "discovery",
+        "resilience",
+        "curiosity",
+        "transcendence"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a glowing computer monitor screen inside a darkened telescope dome, the display showing a dense SDSS star catalog scatter plot \u2014 thousands of tiny pixel points of light scattered across deep space coordinates, one single blue-white point subtly highlighted among the field, almost ghostly in its purity compared to the warmer yellow-gold surrounding stars. The monitor glass curves slightly at the edges, reflecting back a ghostly emerald-gold suggestion of the cavernous Magellan telescope dome behind \u2014 the faint silver curve of the enormous instrument barely visible as a curved reflection in the screen's glossy surface, a sliver of the open dome slit above it showing a column of blazing Milky Way stars pouring down in rich gold and white pixels. At the very bottom edge of the frame, fingertips in soft warm gold light rest on a keyboard, pointing toward the highlighted star coordinate. The screen itself bathes everything in vibrant emerald-tinted blue-white glow, while the reflected dome catches warm saturated afternoon-gold tones, creating a collision of emerald and gold across the curved glass surface. A faint spectral rainbow ladder \u2014 the echelle spectrograph readout \u2014 glows in one corner of the display, banded stripes of color like a luminous chemical fingerprint of ancient hydrogen and helium, almost 14 billion years old."
+    }
   }
 ]
