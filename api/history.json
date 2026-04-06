@@ -5568,5 +5568,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a glowing computer monitor screen inside a darkened telescope dome, the display showing a dense SDSS star catalog scatter plot \u2014 thousands of tiny pixel points of light scattered across deep space coordinates, one single blue-white point subtly highlighted among the field, almost ghostly in its purity compared to the warmer yellow-gold surrounding stars. The monitor glass curves slightly at the edges, reflecting back a ghostly emerald-gold suggestion of the cavernous Magellan telescope dome behind \u2014 the faint silver curve of the enormous instrument barely visible as a curved reflection in the screen's glossy surface, a sliver of the open dome slit above it showing a column of blazing Milky Way stars pouring down in rich gold and white pixels. At the very bottom edge of the frame, fingertips in soft warm gold light rest on a keyboard, pointing toward the highlighted star coordinate. The screen itself bathes everything in vibrant emerald-tinted blue-white glow, while the reflected dome catches warm saturated afternoon-gold tones, creating a collision of emerald and gold across the curved glass surface. A faint spectral rainbow ladder \u2014 the echelle spectrograph readout \u2014 glows in one corner of the display, banded stripes of color like a luminous chemical fingerprint of ancient hydrogen and helium, almost 14 billion years old.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-05.png"
     }
+  },
+  {
+    "date": "2026-04-06",
+    "generated_at": "2026-04-06T11:48:23.872763+00:00",
+    "doom": {
+      "percentage": 46.1,
+      "raw_percentage": 47.3,
+      "driver": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed.",
+      "category": "Geopolitics",
+      "blurb": "TUESDAY IS POWER PLANT DAY, APPARENTLY",
+      "summary": "Trump has given Iran until Tuesday to reopen the Strait of Hormuz or face strikes on power plants and bridges \u2014 an ultimatum delivered via expletive-filled Easter Sunday Truth Social post, because nothing says 'Prince of Peace' like threatening civilian infrastructure. Meanwhile the IRGC says the Strait will 'never' revert to its pre-war state, Iran bombed its own top university somehow got bombed, and investors are quietly sweating through what CNBC is diplomatically calling 'binary outcomes.' A ceasefire proposal is floating around, but so were the missiles over Dubai last week.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Trump's Tuesday deadline for Iran to open the Strait of Hormuz introduces a hard escalation clock, with Iran publicly refusing and both sides trading missile attacks."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's curse-filled social media ultimatum threatening specific civilian infrastructure \u2014 power plants and bridges \u2014 raises serious questions about the deliberateness of U.S. war strategy."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Gemma 4 running on iPhones and a 100x AI energy efficiency breakthrough are genuinely notable, but today they're background noise."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "India resuming oil imports from Iran after a 7-year hiatus signals major powers quietly hedging against U.S. strategy, fragmenting the Western coalition's leverage."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Nothing new in alignment today \u2014 the humans are plenty misaligned on their own."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "deadline-driven",
+        "combustible",
+        "brinkmanship"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at the bruised red-purple edge of pre-dawn, viewed from shore-level on the Iranian coastline looking south across the narrow flat black water, the entire scene burning with deep crimson backlight that bleeds up from the horizon like a world on fire. The sky is a savage gradient of charcoal black at the top bleeding down through bruised purple into a fierce low band of hellish orange-crimson where distant offshore oil platform flares paint the horizon in continuous fire. Every object in the foreground is rendered as a pure black silhouette against this apocalyptic glow. Along the waterline, a cluster of enormous VLCC supertankers sit dead in the water \u2014 their massive low-riding hulls and superstructure towers reduced to flat black rectangular monoliths, their scale dwarfing everything, crowding the narrow channel like a traffic jam of floating mountains. Between the tankers, two small aggressive IRGC fast-attack speedboats cut sharp black V-shaped wakes across the blood-red water reflection, their low predatory profiles bristling with angular silhouetted weaponry. In the far distance across the Strait, the faint black outline of a carrier strike group island superstructure with its radar arrays is barely visible as a dark smudge against the glow. On the Iranian shore in the extreme foreground, the stark silhouette of high-tension power line towers stretch across the frame like skeletal iron giants, their cables drooping in dark arcs against the crimson sky. The water surface mirrors all of it in dark firelight \u2014 a perfect inverted world of red and black. No text, no antialiasing, hard pixel edges throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-06.png"
+    },
+    "dawn": {
+      "percentage": 53.9,
+      "driver": "AI breakthrough cuts energy use by 100x while boosting accuracy.",
+      "category": "Science",
+      "blurb": "AI GETS SMARTER BY USING FAR LESS",
+      "summary": "Even as the world braces for Tuesday's Iran deadline and oil prices stay volatile, researchers have quietly delivered something remarkable: an AI architecture that slashes energy consumption by 100-fold while actually improving accuracy. At a moment when AI's voracious power appetite was becoming its own geopolitical liability \u2014 feeding the same grid pressures straining conflict zones \u2014 this is the kind of breakthrough that bends the curve. It won't stop missiles, but it signals that the ingenuity driving our problems is also quietly solving them.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 100x energy reduction in AI compute is not incremental \u2014 it's a generational leap that could decouple AI growth from the energy crisis straining global infrastructure."
+        },
+        {
+          "name": "Technology",
+          "signal": "bright",
+          "detail": "Artemis II crew captured humanity's first live glimpse of the lunar far side, with a lunar flyby breaking distance records for crewed spaceflight today."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Pope Leo XIV's first Easter address before 50,000 people called global leaders to choose peace \u2014 a moral anchor dropped into one of the most turbulent news cycles in years."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Analysts and Gulf diplomats are openly sketching a new regional security architecture for the Strait of Hormuz, suggesting back-channel off-ramps exist even as rhetoric escalates."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "Scientists identified a single protein driving brain aging in mice and demonstrated it can be inhibited \u2014 a quiet but potentially enormous step toward preserving cognitive health at scale."
+        }
+      ],
+      "mood": [
+        "ingenious",
+        "resilient",
+        "hopeful",
+        "pioneering",
+        "grounded"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a university engineering laboratory, deep shadows dominating the room with all illumination pouring from artificial sources \u2014 two side-by-side computer monitors casting cool electric blue light across a clean workbench, their glow the dominant light source cutting hard-edged pools into surrounding darkness, while a single small emerald green indicator light pulses steadily on a robotic arm resting on a demonstration table in the mid-ground. The monitors themselves show dramatic contrast: one screen blazing with an overflowing energy bar rendered in saturated gold, the other showing a nearly empty lean efficiency curve in vibrant emerald. A whiteboard behind the bench catches warm amber spill light from a ceiling fixture, its surface covered in branching symbolic logic trees \u2014 geometric decision nodes splitting into labeled paths drawn in rich gold and emerald, flowing from a tangled neural network diagram on one side into clean geometric branches on the other. In the far background, server racks glow faintly in deep blue-black shadow, their indicator lights dim and receding. A small team of graduate students clusters around the robotic arm and monitors \u2014 one pointing at a screen, one writing on the whiteboard \u2014 their faces lit from below by monitor glow, postures absorbed and quietly electric, a mid-career researcher leaning forward toward the whiteboard with focused intensity. Rich gold and vibrant emerald dominate, deep blacks surrounding every light source.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-06.png"
+    }
   }
 ]
