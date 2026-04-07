@@ -5664,5 +5664,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a university engineering laboratory, deep shadows dominating the room with all illumination pouring from artificial sources \u2014 two side-by-side computer monitors casting cool electric blue light across a clean workbench, their glow the dominant light source cutting hard-edged pools into surrounding darkness, while a single small emerald green indicator light pulses steadily on a robotic arm resting on a demonstration table in the mid-ground. The monitors themselves show dramatic contrast: one screen blazing with an overflowing energy bar rendered in saturated gold, the other showing a nearly empty lean efficiency curve in vibrant emerald. A whiteboard behind the bench catches warm amber spill light from a ceiling fixture, its surface covered in branching symbolic logic trees \u2014 geometric decision nodes splitting into labeled paths drawn in rich gold and emerald, flowing from a tangled neural network diagram on one side into clean geometric branches on the other. In the far background, server racks glow faintly in deep blue-black shadow, their indicator lights dim and receding. A small team of graduate students clusters around the robotic arm and monitors \u2014 one pointing at a screen, one writing on the whiteboard \u2014 their faces lit from below by monitor glow, postures absorbed and quietly electric, a mid-career researcher leaning forward toward the whiteboard with focused intensity. Rich gold and vibrant emerald dominate, deep blacks surrounding every light source.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-06.png"
     }
+  },
+  {
+    "date": "2026-04-07",
+    "generated_at": "2026-04-07T11:55:01.792275+00:00",
+    "doom": {
+      "percentage": 47.1,
+      "raw_percentage": 48.7,
+      "driver": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure.",
+      "category": "Geopolitics",
+      "blurb": "DEADLINE PASSES. NOBODY BLINKS.",
+      "summary": "Trump's 8 p.m. ET 'living in Hell' deadline has arrived and Iran's response was essentially 'no thank you, also we're still shooting missiles.' The IMF chief is now warning 'all roads lead to higher prices and slower growth,' which is the polite economist way of saying civilization is getting expensive. Meanwhile Iran is threatening OpenAI's Abu Dhabi data center, making this the first war where a combatant has specifically targeted a tech company's GPU cluster.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active US-Israel war against Iran, missed ceasefire deadline, ongoing missile exchanges, and shooting near Israeli consulate in Istanbul all signal multi-front escalation with no off-ramp in sight."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "JD Vance rallying for Orb\u00e1n in Hungary while RFK Jr. consolidates CDC vaccine panel authority represents simultaneous democratic backsliding across two continents."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "The New Yorker's 'can Sam Altman be trusted' cover story and OpenAI insiders expressing distrust of their own CEO suggests alignment concerns are becoming mainstream, not just academic."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "France repatriating its last gold reserves from the US is a quiet but significant signal of eroding institutional trust in American financial stewardship during wartime."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Iran threatening OpenAI's Stargate data center in Abu Dhabi introduces a novel threat vector where AI infrastructure becomes a military target in conventional interstate conflict."
+        }
+      ],
+      "mood": [
+        "defiant",
+        "unraveling",
+        "tense",
+        "exhausted",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the rubble-strewn floor of a collapsed Tehran concrete building, the shattered skeleton of the structure framing a narrow corridor of sky above \u2014 exposed rebar curling outward like blackened fingers against a hard dark crimson sky, interior walls split open revealing fragments of patterned wallpaper and cracked bathroom tile on the cross-sectioned floors above, a lone civilian figure silhouetted small and upright amid the debris far below in the lower quarter of the frame, scale dwarfed by the collapsed multi-story facade looming on either side, a massive state billboard partially visible high on one crumbling wall showing bold Farsi calligraphy and a graphic of narrow blue-green water representing the Strait of Hormuz, Iranian tricolor flags \u2014 green white red with central emblem \u2014 hanging torn and suspended mid-air from broken balcony railings, Soviet-influenced cooling tower silhouettes visible through the gap in the destroyed skyline against the bleached crimson atmosphere, charcoal smoke columns rising vertically into the oppressive flat sky, firelight reflections catching the bent rebar and shattered glass still clinging to window frames, everything bathed in dark crimson and charcoal tones, high contrast crushing shadows, no antialiasing, no text.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-07.png"
+    },
+    "dawn": {
+      "percentage": 52.9,
+      "driver": "Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse. The NASA moon mission completed several key milestones as its crew looped around the lunar body. It's expected to splash down on Earth on Friday.",
+      "category": "Discovery",
+      "blurb": "HUMANS BREAK APOLLO RECORD, ECLIPSE FROM THE MOON",
+      "summary": "While the world watches deadline clocks tick down over the Strait of Hormuz, four human beings broke a 54-year-old Apollo distance record while watching a solar eclipse from lunar orbit \u2014 a reminder that our species still reaches outward even when it's tearing itself apart down here. The Artemis II crew completed every key milestone and is now heading home Friday, carrying lunar science that will inform base-building and international cooperation on the Moon. In the shadow of war, humanity quietly set a new high-water mark for how far we can go.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Artemis II broke the Apollo-era distance record and gathered new lunar science data during its flyby, advancing humanity's roadmap for sustained Moon exploration."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Four astronauts witnessed a solar eclipse from lunar orbit \u2014 an experience no human had seen in over half a century, described as 'truly hard to describe' and 'amazing.'"
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Taiwan's opposition leader traveled to China calling herself a 'bridge for peace,' a rare act of cross-strait diplomacy ahead of a critical U.S.-China summit."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Used EV sales are spiking alongside gas prices, suggesting market forces \u2014 even painful ones \u2014 may accelerate the shift away from fossil fuels faster than policy alone could."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "India and China held their first bilateral EV and renewable energy talks in five years, with a delegation visiting Beijing to seek cooperation on batteries and clean tech amid the oil shock."
+        }
+      ],
+      "mood": [
+        "pioneering",
+        "transcendent",
+        "resilient",
+        "forward-reaching",
+        "milestone"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of the Orion capsule looking outward through a wide curved window, the cramped cockpit environment rendered in warm amber and rich gold instrument glow \u2014 panel lights, screen numerals, indicator arrays casting honeyed light across every surface in deep emerald shadow. The window dominates the composition, framing an enormous Moon filling nearly the entire view outside, its ancient grey-white cratered surface rendered in extraordinary geological detail, ridges and maria glowing under harsh sunlight with zero atmospheric haze, hard star-points burning white against absolute black space. Earth hangs visible at the window's edge, backlit and partially eclipsed, a perfect ring of saturated golden-white solar corona blazing around its darkened silhouette \u2014 warm fire-gold light bleeding into the cold void. Four astronaut figures float weightless in the foreground, pressed against the capsule glass, faces catching cool lunar reflected light from below and warm amber instrument glow from behind, one hand braced on the window frame, another pointing outward, hair drifting loose in zero gravity. A glowing green numerical display on the instrument panel shows a mission distance counter. The entire scene is color-graded in rich gold and vibrant emerald, saturated and alive, afternoon-warmth tones flooding the capsule interior while cold space burns beyond the glass.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-07.png"
+    }
   }
 ]

@@ -1,96 +1,97 @@
 {
-  "date": "2026-04-06",
-  "generated_at": "2026-04-06T11:48:23.872763+00:00",
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T11:55:01.792275+00:00",
   "doom": {
-    "percentage": 46.1,
-    "raw_percentage": 47.3,
-    "driver": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed.",
+    "percentage": 47.1,
+    "raw_percentage": 48.7,
+    "driver": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure.",
     "category": "Geopolitics",
-    "blurb": "TUESDAY IS POWER PLANT DAY, APPARENTLY",
-    "summary": "Trump has given Iran until Tuesday to reopen the Strait of Hormuz or face strikes on power plants and bridges \u2014 an ultimatum delivered via expletive-filled Easter Sunday Truth Social post, because nothing says 'Prince of Peace' like threatening civilian infrastructure. Meanwhile the IRGC says the Strait will 'never' revert to its pre-war state, Iran bombed its own top university somehow got bombed, and investors are quietly sweating through what CNBC is diplomatically calling 'binary outcomes.' A ceasefire proposal is floating around, but so were the missiles over Dubai last week.",
+    "blurb": "DEADLINE PASSES. NOBODY BLINKS.",
+    "summary": "Trump's 8 p.m. ET 'living in Hell' deadline has arrived and Iran's response was essentially 'no thank you, also we're still shooting missiles.' The IMF chief is now warning 'all roads lead to higher prices and slower growth,' which is the polite economist way of saying civilization is getting expensive. Meanwhile Iran is threatening OpenAI's Abu Dhabi data center, making this the first war where a combatant has specifically targeted a tech company's GPU cluster.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Trump's Tuesday deadline for Iran to open the Strait of Hormuz introduces a hard escalation clock, with Iran publicly refusing and both sides trading missile attacks."
+        "detail": "Active US-Israel war against Iran, missed ceasefire deadline, ongoing missile exchanges, and shooting near Israeli consulate in Istanbul all signal multi-front escalation with no off-ramp in sight."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump's curse-filled social media ultimatum threatening specific civilian infrastructure \u2014 power plants and bridges \u2014 raises serious questions about the deliberateness of U.S. war strategy."
+        "detail": "JD Vance rallying for Orb\u00e1n in Hungary while RFK Jr. consolidates CDC vaccine panel authority represents simultaneous democratic backsliding across two continents."
       },
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "Gemma 4 running on iPhones and a 100x AI energy efficiency breakthrough are genuinely notable, but today they're background noise."
+        "signal": "medium",
+        "detail": "The New Yorker's 'can Sam Altman be trusted' cover story and OpenAI insiders expressing distrust of their own CEO suggests alignment concerns are becoming mainstream, not just academic."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "India resuming oil imports from Iran after a 7-year hiatus signals major powers quietly hedging against U.S. strategy, fragmenting the Western coalition's leverage."
+        "signal": "elevated",
+        "detail": "France repatriating its last gold reserves from the US is a quiet but significant signal of eroding institutional trust in American financial stewardship during wartime."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "Nothing new in alignment today \u2014 the humans are plenty misaligned on their own."
+        "signal": "medium",
+        "detail": "Iran threatening OpenAI's Stargate data center in Abu Dhabi introduces a novel threat vector where AI infrastructure becomes a military target in conventional interstate conflict."
       }
     ],
     "mood": [
-      "volatile",
-      "deadline-driven",
-      "combustible",
-      "brinkmanship"
+      "defiant",
+      "unraveling",
+      "tense",
+      "exhausted",
+      "volatile"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at the bruised red-purple edge of pre-dawn, viewed from shore-level on the Iranian coastline looking south across the narrow flat black water, the entire scene burning with deep crimson backlight that bleeds up from the horizon like a world on fire. The sky is a savage gradient of charcoal black at the top bleeding down through bruised purple into a fierce low band of hellish orange-crimson where distant offshore oil platform flares paint the horizon in continuous fire. Every object in the foreground is rendered as a pure black silhouette against this apocalyptic glow. Along the waterline, a cluster of enormous VLCC supertankers sit dead in the water \u2014 their massive low-riding hulls and superstructure towers reduced to flat black rectangular monoliths, their scale dwarfing everything, crowding the narrow channel like a traffic jam of floating mountains. Between the tankers, two small aggressive IRGC fast-attack speedboats cut sharp black V-shaped wakes across the blood-red water reflection, their low predatory profiles bristling with angular silhouetted weaponry. In the far distance across the Strait, the faint black outline of a carrier strike group island superstructure with its radar arrays is barely visible as a dark smudge against the glow. On the Iranian shore in the extreme foreground, the stark silhouette of high-tension power line towers stretch across the frame like skeletal iron giants, their cables drooping in dark arcs against the crimson sky. The water surface mirrors all of it in dark firelight \u2014 a perfect inverted world of red and black. No text, no antialiasing, hard pixel edges throughout.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-06.png"
+    "card_image": "doom-card-2026-04-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level view looking straight up from the rubble-strewn floor of a collapsed Tehran concrete building, the shattered skeleton of the structure framing a narrow corridor of sky above \u2014 exposed rebar curling outward like blackened fingers against a hard dark crimson sky, interior walls split open revealing fragments of patterned wallpaper and cracked bathroom tile on the cross-sectioned floors above, a lone civilian figure silhouetted small and upright amid the debris far below in the lower quarter of the frame, scale dwarfed by the collapsed multi-story facade looming on either side, a massive state billboard partially visible high on one crumbling wall showing bold Farsi calligraphy and a graphic of narrow blue-green water representing the Strait of Hormuz, Iranian tricolor flags \u2014 green white red with central emblem \u2014 hanging torn and suspended mid-air from broken balcony railings, Soviet-influenced cooling tower silhouettes visible through the gap in the destroyed skyline against the bleached crimson atmosphere, charcoal smoke columns rising vertically into the oppressive flat sky, firelight reflections catching the bent rebar and shattered glass still clinging to window frames, everything bathed in dark crimson and charcoal tones, high contrast crushing shadows, no antialiasing, no text.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-07.png"
   },
   "dawn": {
-    "percentage": 53.9,
-    "driver": "AI breakthrough cuts energy use by 100x while boosting accuracy.",
-    "category": "Science",
-    "blurb": "AI GETS SMARTER BY USING FAR LESS",
-    "summary": "Even as the world braces for Tuesday's Iran deadline and oil prices stay volatile, researchers have quietly delivered something remarkable: an AI architecture that slashes energy consumption by 100-fold while actually improving accuracy. At a moment when AI's voracious power appetite was becoming its own geopolitical liability \u2014 feeding the same grid pressures straining conflict zones \u2014 this is the kind of breakthrough that bends the curve. It won't stop missiles, but it signals that the ingenuity driving our problems is also quietly solving them.",
+    "percentage": 52.9,
+    "driver": "Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse. The NASA moon mission completed several key milestones as its crew looped around the lunar body. It's expected to splash down on Earth on Friday.",
+    "category": "Discovery",
+    "blurb": "HUMANS BREAK APOLLO RECORD, ECLIPSE FROM THE MOON",
+    "summary": "While the world watches deadline clocks tick down over the Strait of Hormuz, four human beings broke a 54-year-old Apollo distance record while watching a solar eclipse from lunar orbit \u2014 a reminder that our species still reaches outward even when it's tearing itself apart down here. The Artemis II crew completed every key milestone and is now heading home Friday, carrying lunar science that will inform base-building and international cooperation on the Moon. In the shadow of war, humanity quietly set a new high-water mark for how far we can go.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A 100x energy reduction in AI compute is not incremental \u2014 it's a generational leap that could decouple AI growth from the energy crisis straining global infrastructure."
-      },
-      {
-        "name": "Technology",
-        "signal": "bright",
-        "detail": "Artemis II crew captured humanity's first live glimpse of the lunar far side, with a lunar flyby breaking distance records for crewed spaceflight today."
+        "detail": "Artemis II broke the Apollo-era distance record and gathered new lunar science data during its flyby, advancing humanity's roadmap for sustained Moon exploration."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Pope Leo XIV's first Easter address before 50,000 people called global leaders to choose peace \u2014 a moral anchor dropped into one of the most turbulent news cycles in years."
+        "signal": "blazing",
+        "detail": "Four astronauts witnessed a solar eclipse from lunar orbit \u2014 an experience no human had seen in over half a century, described as 'truly hard to describe' and 'amazing.'"
       },
       {
         "name": "Cooperation",
+        "signal": "bright",
+        "detail": "Taiwan's opposition leader traveled to China calling herself a 'bridge for peace,' a rare act of cross-strait diplomacy ahead of a critical U.S.-China summit."
+      },
+      {
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "Analysts and Gulf diplomats are openly sketching a new regional security architecture for the Strait of Hormuz, suggesting back-channel off-ramps exist even as rhetoric escalates."
+        "detail": "Used EV sales are spiking alongside gas prices, suggesting market forces \u2014 even painful ones \u2014 may accelerate the shift away from fossil fuels faster than policy alone could."
       },
       {
         "name": "Wild Card",
-        "signal": "quiet",
-        "detail": "Scientists identified a single protein driving brain aging in mice and demonstrated it can be inhibited \u2014 a quiet but potentially enormous step toward preserving cognitive health at scale."
+        "signal": "glimmer",
+        "detail": "India and China held their first bilateral EV and renewable energy talks in five years, with a delegation visiting Beijing to seek cooperation on batteries and clean tech amid the oil shock."
       }
     ],
     "mood": [
-      "ingenious",
-      "resilient",
-      "hopeful",
       "pioneering",
-      "grounded"
+      "transcendent",
+      "resilient",
+      "forward-reaching",
+      "milestone"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene inside a university engineering laboratory, deep shadows dominating the room with all illumination pouring from artificial sources \u2014 two side-by-side computer monitors casting cool electric blue light across a clean workbench, their glow the dominant light source cutting hard-edged pools into surrounding darkness, while a single small emerald green indicator light pulses steadily on a robotic arm resting on a demonstration table in the mid-ground. The monitors themselves show dramatic contrast: one screen blazing with an overflowing energy bar rendered in saturated gold, the other showing a nearly empty lean efficiency curve in vibrant emerald. A whiteboard behind the bench catches warm amber spill light from a ceiling fixture, its surface covered in branching symbolic logic trees \u2014 geometric decision nodes splitting into labeled paths drawn in rich gold and emerald, flowing from a tangled neural network diagram on one side into clean geometric branches on the other. In the far background, server racks glow faintly in deep blue-black shadow, their indicator lights dim and receding. A small team of graduate students clusters around the robotic arm and monitors \u2014 one pointing at a screen, one writing on the whiteboard \u2014 their faces lit from below by monitor glow, postures absorbed and quietly electric, a mid-career researcher leaning forward toward the whiteboard with focused intensity. Rich gold and vibrant emerald dominate, deep blacks surrounding every light source.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-06.png"
+    "card_image": "dawn-card-2026-04-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of the Orion capsule looking outward through a wide curved window, the cramped cockpit environment rendered in warm amber and rich gold instrument glow \u2014 panel lights, screen numerals, indicator arrays casting honeyed light across every surface in deep emerald shadow. The window dominates the composition, framing an enormous Moon filling nearly the entire view outside, its ancient grey-white cratered surface rendered in extraordinary geological detail, ridges and maria glowing under harsh sunlight with zero atmospheric haze, hard star-points burning white against absolute black space. Earth hangs visible at the window's edge, backlit and partially eclipsed, a perfect ring of saturated golden-white solar corona blazing around its darkened silhouette \u2014 warm fire-gold light bleeding into the cold void. Four astronaut figures float weightless in the foreground, pressed against the capsule glass, faces catching cool lunar reflected light from below and warm amber instrument glow from behind, one hand braced on the window frame, another pointing outward, hair drifting loose in zero gravity. A glowing green numerical display on the instrument panel shows a mission distance counter. The entire scene is color-graded in rich gold and vibrant emerald, saturated and alive, afternoon-warmth tones flooding the capsule interior while cold space burns beyond the glass.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-07.png"
   }
 }
