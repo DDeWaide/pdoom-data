@@ -5641,5 +5641,100 @@
       "card_image": "dawn-card-2026-04-07.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of the Orion capsule looking outward through a wide curved window, the cramped cockpit environment rendered in warm amber and rich gold instrument glow \u2014 panel lights, screen numerals, indicator arrays casting honeyed light across every surface in deep emerald shadow. The window dominates the composition, framing an enormous Moon filling nearly the entire view outside, its ancient grey-white cratered surface rendered in extraordinary geological detail, ridges and maria glowing under harsh sunlight with zero atmospheric haze, hard star-points burning white against absolute black space. Earth hangs visible at the window's edge, backlit and partially eclipsed, a perfect ring of saturated golden-white solar corona blazing around its darkened silhouette \u2014 warm fire-gold light bleeding into the cold void. Four astronaut figures float weightless in the foreground, pressed against the capsule glass, faces catching cool lunar reflected light from below and warm amber instrument glow from behind, one hand braced on the window frame, another pointing outward, hair drifting loose in zero gravity. A glowing green numerical display on the instrument panel shows a mission distance counter. The entire scene is color-graded in rich gold and vibrant emerald, saturated and alive, afternoon-warmth tones flooding the capsule interior while cold space burns beyond the glass."
     }
+  },
+  {
+    "date": "2026-04-08",
+    "generated_at": "2026-04-08T11:55:41.158466+00:00",
+    "doom": {
+      "percentage": 38.4,
+      "raw_percentage": 34.7,
+      "driver": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure.",
+      "category": "Cyber",
+      "blurb": "CEASEFIRE DECLARED. HACKERS DIDN'T GET THE MEMO.",
+      "summary": "The US and Iran just agreed to a fragile two-week ceasefire \u2014 markets rejoiced, oil dropped below $95, Tehran popped champagne \u2014 but Iran's cyber units apparently missed the announcement and kept right on poking America's power grids and water systems. Meanwhile, Anthropic's new Claude Mythos model is being deployed specifically to hunt vulnerabilities in every major OS and browser, which is either reassuring or a preview of what AI-enabled offensive hacking looks like at scale. North Korea helpfully fired some ballistic missiles into the sea, just to remind everyone the world still has other problems.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran ceasefire is real but explicitly 'fragile' per Vance, Lebanon is excluded and still being struck, and North Korea fired ballistic missiles into the sea for no clear reason."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic's Claude Mythos Preview can find security flaws 'in every major operating system and web browser,' which is impressive until you imagine the wrong hands on it."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "ICE acknowledges using powerful spyware to intercept encrypted messages, raising significant civil liberties and oversight questions with little congressional pushback."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Musk's lawsuit seeking to oust Altman and Brockman from OpenAI is more corporate theater than existential risk signal, but the AI industry's internal chaos remains a governance concern."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Iran-linked hackers actively sabotaging US energy and water infrastructure during a ceasefire suggests the truce may be political theater while kinetic/cyber pressure continues below the threshold."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "treacherous",
+        "relieved",
+        "wary",
+        "unresolved"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at a 45-degree angle \u2014 a vast Rust Belt landscape dominates the frame, the flat winter geography of western Pennsylvania sprawling across the scene in deep navy and ash-grey, bare black trees scratching at the edges of a smoldering orange sky filtered through industrial haze. Below, a municipal water treatment facility occupies the center of the composition like a circuit board pressed into frozen earth: enormous circular clarifier tanks rendered as dark concentric rings, a grid of large-diameter steel pipes threading between squat concrete buildings, a chain-link perimeter fence casting thin shadow lines across wet pavement under harsh security lighting. The facility glows with a sickly amber-orange warmth that feels deeply wrong against the cold night. Tiny lone figure of a utility worker in yellow hard hat and reflective vest stands frozen before a control panel building, body language rigid with alarm, face lit blue-white from below by a compromised screen. Inside the facility's control room windows, visible from above at an angle, Unitronics PLC touchscreen panels pulse with corrupted orange-on-black readouts, normal flow schematics replaced with blocky error states. One or two vehicles sit isolated in the vast dark parking lot, yellow security lights pooling on wet asphalt. Ethernet cables snake across rooftops like veins. Heavy shadows dominate every corner, warmth feels threatening, smoke-filtered light, no text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 61.6,
+      "driver": "U.S. and Iran agree to 2-week ceasefire, suspending Trump's threat to annihilate Iran. After Iran ceded to President Trump's demand to reopen the Strait of Hormuz, Trump backed down from his threat of wide-scale destruction of Iran's civilian and military infrastructure.",
+      "category": "Peace",
+      "blurb": "GUNS FALL SILENT. THE STRAIT OPENS.",
+      "summary": "After 40 days of war, oil spiking to $141, and Gulf infrastructure taking direct hits, the US and Iran have stepped back from the brink with a two-week ceasefire brokered in part by Pakistan. It's fragile \u2014 analysts are right to say trust is thin on both sides \u2014 but oil prices have already plunged below $95, global markets are rallying, and civilians in the Gulf are waking up to a morning without incoming fire. A pause is not a peace, but it is a door, and right now a door is everything.",
+      "factors": [
+        {
+          "name": "Peace",
+          "signal": "blazing",
+          "detail": "A two-week US-Iran ceasefire came into effect just before Trump's escalation deadline, with Iran committing to safe passage through the Strait of Hormuz."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Pakistan's Prime Minister Shehbaz Sharif played a crucial mediating role, showing that regional diplomacy can still move major powers toward restraint."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists at Cornell University announced a reversible, nonhormonal male birth control that completely halts sperm production \u2014 a potential breakthrough decades in the making."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A French couple held in Iranian detention for over three years were released and are on their way home, a quiet human victory amid the larger geopolitical noise."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Oil prices plunged 15% on ceasefire news, offering immediate real-world relief to households and economies hammered by $141-per-barrel energy costs."
+        }
+      ],
+      "mood": [
+        "relief",
+        "resilience",
+        "breakthrough",
+        "possibility",
+        "renewal"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a heavy coastal fog rolls across the Strait of Hormuz at dusk, the narrow channel barely visible through thick amber-tinted haze, warm golden light diffusing through the mist and casting long teal shadows across the water's surface. The atmosphere is primary \u2014 fog so dense it filters everything into soft, radiant layers of deep amber and warm teal, with moisture catching the last light of evening. Emerging through the haze, a massive oil tanker moves slowly through the strait, its running lights glowing warm orange-gold, reflected in broken ripples on the fog-blurred water below. In the middle distance, the silhouette of a grand diplomatic hall in Islamabad is visible through rain-streaked air, warm interior light spilling from tall windows into the darkening indigo sky outside. A large analog clock face looms in the foreground fog like a ghost, its hands approaching 8 o'clock, the two-hour margin rendered in tense golden light. A solitary figure stands on the tanker's rain-slicked deck, hands gripping the rail, watching the open water ahead through the mist. The entire scene is filtered through atmosphere \u2014 fog, rain haze, and dusk \u2014 everything softened and glowing, a candle of fragile provisional hope burning warm amber against surrounding blue-indigo darkness."
+    }
   }
 ]
