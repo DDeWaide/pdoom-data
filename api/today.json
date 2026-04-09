@@ -1,97 +1,96 @@
 {
-  "date": "2026-04-08",
-  "generated_at": "2026-04-08T11:55:41.158466+00:00",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T11:56:08.846304+00:00",
   "doom": {
-    "percentage": 38.4,
-    "raw_percentage": 34.7,
-    "driver": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure.",
-    "category": "Cyber",
-    "blurb": "CEASEFIRE DECLARED. HACKERS DIDN'T GET THE MEMO.",
-    "summary": "The US and Iran just agreed to a fragile two-week ceasefire \u2014 markets rejoiced, oil dropped below $95, Tehran popped champagne \u2014 but Iran's cyber units apparently missed the announcement and kept right on poking America's power grids and water systems. Meanwhile, Anthropic's new Claude Mythos model is being deployed specifically to hunt vulnerabilities in every major OS and browser, which is either reassuring or a preview of what AI-enabled offensive hacking looks like at scale. North Korea helpfully fired some ballistic missiles into the sea, just to remind everyone the world still has other problems.",
+    "percentage": 42.5,
+    "raw_percentage": 41.7,
+    "driver": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says.",
+    "category": "Geopolitics",
+    "blurb": "INK NOT DRY, CEASEFIRE ALREADY CRUMBLING",
+    "summary": "Less than 24 hours after markets threw a party and oil prices plunged, Iran's parliamentary speaker announced the U.S. has already breached the ceasefire terms \u2014 which is either a negotiating tactic or a preview of round two. Meanwhile Israel, apparently uninvited to the peace talks, is conducting 'large waves of strikes' on Lebanon and killing 182 people, which tends to complicate the fragile-truce vibe. Trump, for his part, celebrated by declaring U.S. forces will stay 'ready for the next conquest,' which is not typically how you announce a ceasefire.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "US-Iran ceasefire is real but explicitly 'fragile' per Vance, Lebanon is excluded and still being struck, and North Korea fired ballistic missiles into the sea for no clear reason."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Anthropic's Claude Mythos Preview can find security flaws 'in every major operating system and web browser,' which is impressive until you imagine the wrong hands on it."
+        "detail": "The Iran-U.S. ceasefire is unraveling within hours, with Iran alleging violations, Israel striking Lebanon independently, and oil prices already climbing back toward $100."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "ICE acknowledges using powerful spyware to intercept encrypted messages, raising significant civil liberties and oversight questions with little congressional pushback."
+        "detail": "Trump is simultaneously trashing NATO, eyeing Greenland again, and branding the Iran campaign a win while the public and allies remain deeply skeptical."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Meta's Muse Spark launches under its new Superintelligence Labs banner, and Mustafa Suleyman publicly declares AI development won't hit a wall anytime soon \u2014 confidence is high, oversight conversation is not."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "low",
+        "detail": "Germany quietly suspended military approval for men under 45 to take long stays abroad \u2014 a minor but telling signal of European war-footing anxiety."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Musk's lawsuit seeking to oust Altman and Brockman from OpenAI is more corporate theater than existential risk signal, but the AI industry's internal chaos remains a governance concern."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Iran-linked hackers actively sabotaging US energy and water infrastructure during a ceasefire suggests the truce may be political theater while kinetic/cyber pressure continues below the threshold."
+        "detail": "Anthropic quietly limited access to Mythos, its cybersecurity-focused AI model \u2014 responsible gating, but the existence of a dedicated cyberweapon AI is itself the data point."
       }
     ],
     "mood": [
-      "fragile",
-      "treacherous",
-      "relieved",
-      "wary",
-      "unresolved"
+      "precarious",
+      "unraveling",
+      "defiant",
+      "volatile"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-04-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at a 45-degree angle \u2014 a vast Rust Belt landscape dominates the frame, the flat winter geography of western Pennsylvania sprawling across the scene in deep navy and ash-grey, bare black trees scratching at the edges of a smoldering orange sky filtered through industrial haze. Below, a municipal water treatment facility occupies the center of the composition like a circuit board pressed into frozen earth: enormous circular clarifier tanks rendered as dark concentric rings, a grid of large-diameter steel pipes threading between squat concrete buildings, a chain-link perimeter fence casting thin shadow lines across wet pavement under harsh security lighting. The facility glows with a sickly amber-orange warmth that feels deeply wrong against the cold night. Tiny lone figure of a utility worker in yellow hard hat and reflective vest stands frozen before a control panel building, body language rigid with alarm, face lit blue-white from below by a compromised screen. Inside the facility's control room windows, visible from above at an angle, Unitronics PLC touchscreen panels pulse with corrupted orange-on-black readouts, normal flow schematics replaced with blocky error states. One or two vehicles sit isolated in the vast dark parking lot, yellow security lights pooling on wet asphalt. Ethernet cables snake across rooftops like veins. Heavy shadows dominate every corner, warmth feels threatening, smoke-filtered light, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-08.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-04-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single sheet of white official paper \u2014 a printed ceasefire proposal document, dense columns of black text, stamped with the stylized Iranian tulip-sword government seal in deep crimson red at the center, the seal slightly smeared as though pressed in haste. The paper is torn partially down the middle, the jagged rip cutting diagonally through the official text, splitting the seal in two. The document rests on a dark stone surface, and the edges of the frame reveal only fragments of environment \u2014 at the bottom edge, faint reflections of firelight ripple across the dark stone in dark orange and crimson, suggesting something burning just outside the frame. At the very top edge, the ghostly blue-green pixel glow of a smartphone screen casts cold light downward onto the torn paper, Farsi script characters visible as tiny luminous rectangles in the reflection on the document's surface. The paper itself is lit from the left by harsh golden-red light, throwing the torn edges into sharp shadow, each fiber of the rip rendered in high-contrast pixel detail. Color palette locked to deep charcoal, ash white, dark crimson, and smoldering ember orange. No antialiasing, hard pixel edges throughout, 16-bit SNES style, no text rendered legibly, no people, no weapons.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-09.png"
   },
   "dawn": {
-    "percentage": 61.6,
-    "driver": "U.S. and Iran agree to 2-week ceasefire, suspending Trump's threat to annihilate Iran. After Iran ceded to President Trump's demand to reopen the Strait of Hormuz, Trump backed down from his threat of wide-scale destruction of Iran's civilian and military infrastructure.",
-    "category": "Peace",
-    "blurb": "GUNS FALL SILENT. THE STRAIT OPENS.",
-    "summary": "After 40 days of war, oil spiking to $141, and Gulf infrastructure taking direct hits, the US and Iran have stepped back from the brink with a two-week ceasefire brokered in part by Pakistan. It's fragile \u2014 analysts are right to say trust is thin on both sides \u2014 but oil prices have already plunged below $95, global markets are rallying, and civilians in the Gulf are waking up to a morning without incoming fire. A pause is not a peace, but it is a door, and right now a door is everything.",
+    "percentage": 57.5,
+    "driver": "Trapped miner rescued from flooded Mexican tunnel after 14 days.",
+    "category": "Human Spirit",
+    "blurb": "14 DAYS UNDERGROUND. HE MADE IT.",
+    "summary": "Against a backdrop of war, ceasefire fragility, and geopolitical noise, a 42-year-old man stood waist-deep in floodwater for two weeks in a collapsed Mexican tunnel \u2014 and walked out alive. Rescuers refused to give up, and he refused to give up, and that stubbornness is one of the most quietly radical things humans do. On a day when headlines question whether ceasefires can hold and whether institutions can be trusted, this story is a reminder that ordinary people, digging toward each other in the dark, still get it right.",
     "factors": [
       {
-        "name": "Peace",
+        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "A two-week US-Iran ceasefire came into effect just before Trump's escalation deadline, with Iran committing to safe passage through the Strait of Hormuz."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Pakistan's Prime Minister Shehbaz Sharif played a crucial mediating role, showing that regional diplomacy can still move major powers toward restraint."
+        "detail": "A miner surviving 14 days trapped in a flooded tunnel represents extraordinary human resilience and the refusal of rescuers to abandon one of their own."
       },
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Scientists at Cornell University announced a reversible, nonhormonal male birth control that completely halts sperm production \u2014 a potential breakthrough decades in the making."
+        "detail": "A new water filter removes 98% of toxic PFAS 'forever chemicals' using nano-sized molecular cages, a genuine breakthrough in clean water technology."
       },
       {
-        "name": "Human Spirit",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "A French couple held in Iranian detention for over three years were released and are on their way home, a quiet human victory amid the larger geopolitical noise."
+        "detail": "Despite NATO tensions, Pakistan's quiet brokering of the US-Iran ceasefire shows smaller nations can still thread impossible diplomatic needles."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Teen birth rates have hit another historical low in 2025, reflecting decades of improved access to education, healthcare, and reproductive choices."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Oil prices plunged 15% on ceasefire news, offering immediate real-world relief to households and economies hammered by $141-per-barrel energy costs."
+        "signal": "glimmer",
+        "detail": "John Deere agreed to pay $99M in a right-to-repair settlement, a landmark win for farmers' and consumers' autonomy over the machines they own."
       }
     ],
     "mood": [
-      "relief",
       "resilience",
+      "perseverance",
+      "solidarity",
       "breakthrough",
-      "possibility",
-      "renewal"
+      "survival"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-04-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a heavy coastal fog rolls across the Strait of Hormuz at dusk, the narrow channel barely visible through thick amber-tinted haze, warm golden light diffusing through the mist and casting long teal shadows across the water's surface. The atmosphere is primary \u2014 fog so dense it filters everything into soft, radiant layers of deep amber and warm teal, with moisture catching the last light of evening. Emerging through the haze, a massive oil tanker moves slowly through the strait, its running lights glowing warm orange-gold, reflected in broken ripples on the fog-blurred water below. In the middle distance, the silhouette of a grand diplomatic hall in Islamabad is visible through rain-streaked air, warm interior light spilling from tall windows into the darkening indigo sky outside. A large analog clock face looms in the foreground fog like a ghost, its hands approaching 8 o'clock, the two-hour margin rendered in tense golden light. A solitary figure stands on the tanker's rain-slicked deck, hands gripping the rail, watching the open water ahead through the mist. The entire scene is filtered through atmosphere \u2014 fog, rain haze, and dusk \u2014 everything softened and glowing, a candle of fragile provisional hope burning warm amber against surrounding blue-indigo darkness.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-08.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-04-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with dramatic backlight. The mine shaft entrance cut into the arid Sinaloa scrubland is the focal point \u2014 a dark oval mouth in the earth framed by dust and dry brush, blazing afternoon sun directly behind and above it, flooding the scene with saturated gold and rich emerald where sparse desert vegetation catches the light. Against this radiant backlit glow, a powerful silhouette: a figure wrapped in a crinkled silver thermal blanket emerging upright from the mine opening, the blanket edges catching the sun and gleaming white-gold. Beside the entrance, the dark industrial bulk of a low electric mining cart sits in silhouette. To one side, the chunky outline of a water pump. In the sky above, a rescue helicopter hovers in three-quarter silhouette, its rotors spinning against the saturated golden atmosphere, rotor disc catching amber light. Deep inside the dark tunnel mouth, barely visible in the blackness behind the emerging figure, a single tiny light blinks \u2014 a handheld torch pulsing in the deep dark, its rhythm the only detail surviving in the shadow. The color temperature splits violently: cold black tunnel interior versus explosive warm gold and vibrant emerald outside, the silhouetted figure bridging both worlds at the threshold.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-09.png"
   }
 }
