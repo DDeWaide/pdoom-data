@@ -5830,5 +5830,99 @@
       "card_image": "dawn-card-2026-04-09.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with dramatic backlight. The mine shaft entrance cut into the arid Sinaloa scrubland is the focal point \u2014 a dark oval mouth in the earth framed by dust and dry brush, blazing afternoon sun directly behind and above it, flooding the scene with saturated gold and rich emerald where sparse desert vegetation catches the light. Against this radiant backlit glow, a powerful silhouette: a figure wrapped in a crinkled silver thermal blanket emerging upright from the mine opening, the blanket edges catching the sun and gleaming white-gold. Beside the entrance, the dark industrial bulk of a low electric mining cart sits in silhouette. To one side, the chunky outline of a water pump. In the sky above, a rescue helicopter hovers in three-quarter silhouette, its rotors spinning against the saturated golden atmosphere, rotor disc catching amber light. Deep inside the dark tunnel mouth, barely visible in the blackness behind the emerging figure, a single tiny light blinks \u2014 a handheld torch pulsing in the deep dark, its rhythm the only detail surviving in the shadow. The color temperature splits violently: cold black tunnel interior versus explosive warm gold and vibrant emerald outside, the silhouetted figure bridging both worlds at the threshold."
     }
+  },
+  {
+    "date": "2026-04-10",
+    "generated_at": "2026-04-10T11:48:16.843489+00:00",
+    "doom": {
+      "percentage": 40.5,
+      "raw_percentage": 38.7,
+      "driver": "Hormuz choke point persists as Iran halts oil traffic despite Trump ceasefire.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE EXISTS. OIL DOES NOT FLOW.",
+      "summary": "A ceasefire that doesn't actually open the Strait of Hormuz is less a peace deal and more a strongly worded memo. With 3,200 vessels backed up, Iran attacking Saudi pipelines, Brent crude flirting with $100, and Trump publicly accusing Iran of doing 'a very poor job' \u2014 the diplomatic architecture is load-bearing on vibes alone. Meanwhile Xi is cosying up to Taiwan's opposition leader, chimps in Uganda have independently invented civil war, and the Pentagon is apparently threatening the Pope. Normal Friday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The ceasefire is structurally hollow \u2014 Hormuz remains closed, Saudi oil infrastructure is damaged, 800 tankers are stuck, and Trump is publicly contradicting the deal's terms."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Automatic military draft registration planned by December, GOP lawmakers publicly breaking over Iran war costs, and India censoring social media criticism of Modi \u2014 governance fractures on multiple continents."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Alibaba's mystery AI video model topping global leaderboards, ChatGPT's $100/month Pro tier, and Gemini generating 3D simulations are incremental capability expansions, not alarming jumps."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "RFK Jr. rewriting the CDC vaccine panel's charter to welcome 'fringe groups' and blocking a COVID shot benefits study represent institutional alignment failures, not AI ones \u2014 but still unsettling."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Xi Jinping hosting Taiwan's opposition leader \u2014 who then suggested slowing Taiwan's military buildup \u2014 is a slow-motion Taiwan Strait move timed suspiciously close to a Trump summit in May."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "simmering",
+        "entangled",
+        "unresolved"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Strait of Hormuz viewed from a low dramatic angle skimming just above black water \u2014 the geography is the story, the narrow chokepoint visible as a dark throat between two rocky landmasses, the Iranian coastline looming as a jagged silhouette to the north, the Omani peninsula a low shadow to the south. The western approach fills the entire frame with an almost incomprehensible density of anchored vessels stretching to the horizon \u2014 hundreds of VLCC supertankers riding high in the water, their unpainted waterline hulls exposed above the surface, rust-streaked black and dark red hulls packed so tightly the water between them is barely visible, a floating city of dead ships. Every vessel is dark and motionless, no bow waves, only thin wisps of generator exhaust rising from auxiliary stacks catching crimson light. The only illumination comes from scattered orange deck lights on distant tankers casting long blood-red reflections across the black water, a handful of dim anchor lights on masts creating a constellation of trapped vessels, and the faint glow of instrument panels inside a low-profile IRGC fast attack craft in the extreme foreground \u2014 its angular gray hull cutting diagonally across the frame, deck-mounted gun silhouetted against the firelit water, a single crewman a dark olive shape hunched over a radar screen glowing amber. A rocky silhouette of Larak Island sits in the middle distance, completely lightless, a black mass dividing the strait. The sky is deep charcoal with a hazy amber smear on the horizon \u2014 shamal dust caught in distant light. Color palette: dark crimson, charcoal black, amber, deep rust. High contrast, oppressive stillness. No text, no antiali"
+    },
+    "dawn": {
+      "percentage": 59.5,
+      "driver": "CAR T-cell therapy takes woman from bedridden to 'perfectly fine'. A woman with three different autoimmune conditions had all of them treated simultaneously by genetically modifying her immune cells to kill off the rogue ones causing problems",
+      "category": "Medicine",
+      "blurb": "ONE TREATMENT. THREE DISEASES. ONE WOMAN WALKS FREE.",
+      "summary": "In a world consumed by war headlines and geopolitical dread, a quiet medical miracle landed in today's feeds: a woman suffering from three simultaneous autoimmune conditions \u2014 bedridden, her body attacking itself \u2014 was treated with a single CAR T-cell therapy and is now, in her own words, 'perfectly fine.' This isn't incremental progress; genetically reprogramming immune cells to hunt down the specific cells causing chaos is the kind of breakthrough that rewrites what medicine can do. While the Strait of Hormuz stays closed and ceasefires crumble, science kept its appointment with the future.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "CAR T-cell therapy simultaneously eliminating three autoimmune conditions in one patient represents a potential paradigm shift in how we treat immune system disorders."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Russia and Ukraine agreed to a 32-hour Orthodox Easter ceasefire, a small but real pause in a grinding conflict that has resisted diplomacy for years."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Artemis II astronauts are returning home today after a historic lunar flyby, their wonder visibly uncontained \u2014 'my palms are sweating just thinking about it.'"
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Australia secured a pledge from Singapore guaranteeing fuel supply continuity, demonstrating that energy security cooperation between nations remains possible even in crisis."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists discovered a hidden waste-removal 'drain' pathway in the human brain using cutting-edge MRI, opening new doors for understanding and treating neurological disease."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "breakthrough",
+        "wonder",
+        "healing",
+        "possible"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a hospital floor, the scene towering overhead in dramatic low-angle perspective. A gleaming University Hospital corridor stretches upward like a cathedral, warm golden afternoon light pouring through tall window panels at the top of the frame, saturated emerald and amber tones flooding the sterile space with impossible vitality. The underside of an IV drip bag hangs in the near foreground, luminous and translucent, its liquid glowing with rich gold as if carrying living sunlight \u2014 engineered CAR T-cells visible as tiny radiant points suspended within it, each threaded with a glowing emerald filament like a genetic ribbon stitched through rounded immune cells. Towering above from this worm's-eye angle, a woman stands fully upright in a hospital gown, one hand trailing free from a disconnected IV line, her face tilted upward toward the window flood of morning gold, her figure framed against the bright rectangle of sky beyond glass. Her shadow falls long and warm across the white floor below the viewer. To one side, a white-coated figure \u2014 a physician \u2014 stands in a doorway, watching her, rendered small against the soaring architecture. Cell culture flasks on a high shelf catch the amber backlight, glowing like lanterns. Rich gold and vibrant emerald dominate every surface, the clinical whites transformed by the saturated living palette of recovery."
+    }
   }
 ]

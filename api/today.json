@@ -1,96 +1,96 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T11:56:08.846304+00:00",
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T11:48:16.843489+00:00",
   "doom": {
-    "percentage": 42.5,
-    "raw_percentage": 41.7,
-    "driver": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says.",
+    "percentage": 40.5,
+    "raw_percentage": 38.7,
+    "driver": "Hormuz choke point persists as Iran halts oil traffic despite Trump ceasefire.",
     "category": "Geopolitics",
-    "blurb": "INK NOT DRY, CEASEFIRE ALREADY CRUMBLING",
-    "summary": "Less than 24 hours after markets threw a party and oil prices plunged, Iran's parliamentary speaker announced the U.S. has already breached the ceasefire terms \u2014 which is either a negotiating tactic or a preview of round two. Meanwhile Israel, apparently uninvited to the peace talks, is conducting 'large waves of strikes' on Lebanon and killing 182 people, which tends to complicate the fragile-truce vibe. Trump, for his part, celebrated by declaring U.S. forces will stay 'ready for the next conquest,' which is not typically how you announce a ceasefire.",
+    "blurb": "CEASEFIRE EXISTS. OIL DOES NOT FLOW.",
+    "summary": "A ceasefire that doesn't actually open the Strait of Hormuz is less a peace deal and more a strongly worded memo. With 3,200 vessels backed up, Iran attacking Saudi pipelines, Brent crude flirting with $100, and Trump publicly accusing Iran of doing 'a very poor job' \u2014 the diplomatic architecture is load-bearing on vibes alone. Meanwhile Xi is cosying up to Taiwan's opposition leader, chimps in Uganda have independently invented civil war, and the Pentagon is apparently threatening the Pope. Normal Friday.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "The Iran-U.S. ceasefire is unraveling within hours, with Iran alleging violations, Israel striking Lebanon independently, and oil prices already climbing back toward $100."
+        "detail": "The ceasefire is structurally hollow \u2014 Hormuz remains closed, Saudi oil infrastructure is damaged, 800 tankers are stuck, and Trump is publicly contradicting the deal's terms."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Trump is simultaneously trashing NATO, eyeing Greenland again, and branding the Iran campaign a win while the public and allies remain deeply skeptical."
+        "detail": "Automatic military draft registration planned by December, GOP lawmakers publicly breaking over Iran war costs, and India censoring social media criticism of Modi \u2014 governance fractures on multiple continents."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Meta's Muse Spark launches under its new Superintelligence Labs banner, and Mustafa Suleyman publicly declares AI development won't hit a wall anytime soon \u2014 confidence is high, oversight conversation is not."
-      },
-      {
-        "name": "Wild Card",
         "signal": "low",
-        "detail": "Germany quietly suspended military approval for men under 45 to take long stays abroad \u2014 a minor but telling signal of European war-footing anxiety."
+        "detail": "Alibaba's mystery AI video model topping global leaderboards, ChatGPT's $100/month Pro tier, and Gemini generating 3D simulations are incremental capability expansions, not alarming jumps."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Anthropic quietly limited access to Mythos, its cybersecurity-focused AI model \u2014 responsible gating, but the existence of a dedicated cyberweapon AI is itself the data point."
+        "detail": "RFK Jr. rewriting the CDC vaccine panel's charter to welcome 'fringe groups' and blocking a COVID shot benefits study represent institutional alignment failures, not AI ones \u2014 but still unsettling."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Xi Jinping hosting Taiwan's opposition leader \u2014 who then suggested slowing Taiwan's military buildup \u2014 is a slow-motion Taiwan Strait move timed suspiciously close to a Trump summit in May."
       }
     ],
     "mood": [
-      "precarious",
-      "unraveling",
-      "defiant",
-      "volatile"
+      "fragile",
+      "simmering",
+      "entangled",
+      "unresolved"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with a single sheet of white official paper \u2014 a printed ceasefire proposal document, dense columns of black text, stamped with the stylized Iranian tulip-sword government seal in deep crimson red at the center, the seal slightly smeared as though pressed in haste. The paper is torn partially down the middle, the jagged rip cutting diagonally through the official text, splitting the seal in two. The document rests on a dark stone surface, and the edges of the frame reveal only fragments of environment \u2014 at the bottom edge, faint reflections of firelight ripple across the dark stone in dark orange and crimson, suggesting something burning just outside the frame. At the very top edge, the ghostly blue-green pixel glow of a smartphone screen casts cold light downward onto the torn paper, Farsi script characters visible as tiny luminous rectangles in the reflection on the document's surface. The paper itself is lit from the left by harsh golden-red light, throwing the torn edges into sharp shadow, each fiber of the rip rendered in high-contrast pixel detail. Color palette locked to deep charcoal, ash white, dark crimson, and smoldering ember orange. No antialiasing, hard pixel edges throughout, 16-bit SNES style, no text rendered legibly, no people, no weapons.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-09.png"
+    "card_image": "doom-card-2026-04-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene over the Strait of Hormuz viewed from a low dramatic angle skimming just above black water \u2014 the geography is the story, the narrow chokepoint visible as a dark throat between two rocky landmasses, the Iranian coastline looming as a jagged silhouette to the north, the Omani peninsula a low shadow to the south. The western approach fills the entire frame with an almost incomprehensible density of anchored vessels stretching to the horizon \u2014 hundreds of VLCC supertankers riding high in the water, their unpainted waterline hulls exposed above the surface, rust-streaked black and dark red hulls packed so tightly the water between them is barely visible, a floating city of dead ships. Every vessel is dark and motionless, no bow waves, only thin wisps of generator exhaust rising from auxiliary stacks catching crimson light. The only illumination comes from scattered orange deck lights on distant tankers casting long blood-red reflections across the black water, a handful of dim anchor lights on masts creating a constellation of trapped vessels, and the faint glow of instrument panels inside a low-profile IRGC fast attack craft in the extreme foreground \u2014 its angular gray hull cutting diagonally across the frame, deck-mounted gun silhouetted against the firelit water, a single crewman a dark olive shape hunched over a radar screen glowing amber. A rocky silhouette of Larak Island sits in the middle distance, completely lightless, a black mass dividing the strait. The sky is deep charcoal with a hazy amber smear on the horizon \u2014 shamal dust caught in distant light. Color palette: dark crimson, charcoal black, amber, deep rust. High contrast, oppressive stillness. No text, no antiali",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-10.png"
   },
   "dawn": {
-    "percentage": 57.5,
-    "driver": "Trapped miner rescued from flooded Mexican tunnel after 14 days.",
-    "category": "Human Spirit",
-    "blurb": "14 DAYS UNDERGROUND. HE MADE IT.",
-    "summary": "Against a backdrop of war, ceasefire fragility, and geopolitical noise, a 42-year-old man stood waist-deep in floodwater for two weeks in a collapsed Mexican tunnel \u2014 and walked out alive. Rescuers refused to give up, and he refused to give up, and that stubbornness is one of the most quietly radical things humans do. On a day when headlines question whether ceasefires can hold and whether institutions can be trusted, this story is a reminder that ordinary people, digging toward each other in the dark, still get it right.",
+    "percentage": 59.5,
+    "driver": "CAR T-cell therapy takes woman from bedridden to 'perfectly fine'. A woman with three different autoimmune conditions had all of them treated simultaneously by genetically modifying her immune cells to kill off the rogue ones causing problems",
+    "category": "Medicine",
+    "blurb": "ONE TREATMENT. THREE DISEASES. ONE WOMAN WALKS FREE.",
+    "summary": "In a world consumed by war headlines and geopolitical dread, a quiet medical miracle landed in today's feeds: a woman suffering from three simultaneous autoimmune conditions \u2014 bedridden, her body attacking itself \u2014 was treated with a single CAR T-cell therapy and is now, in her own words, 'perfectly fine.' This isn't incremental progress; genetically reprogramming immune cells to hunt down the specific cells causing chaos is the kind of breakthrough that rewrites what medicine can do. While the Strait of Hormuz stays closed and ceasefires crumble, science kept its appointment with the future.",
     "factors": [
       {
-        "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "A miner surviving 14 days trapped in a flooded tunnel represents extraordinary human resilience and the refusal of rescuers to abandon one of their own."
-      },
-      {
         "name": "Science",
-        "signal": "bright",
-        "detail": "A new water filter removes 98% of toxic PFAS 'forever chemicals' using nano-sized molecular cages, a genuine breakthrough in clean water technology."
+        "signal": "blazing",
+        "detail": "CAR T-cell therapy simultaneously eliminating three autoimmune conditions in one patient represents a potential paradigm shift in how we treat immune system disorders."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Despite NATO tensions, Pakistan's quiet brokering of the US-Iran ceasefire shows smaller nations can still thread impossible diplomatic needles."
+        "detail": "Russia and Ukraine agreed to a 32-hour Orthodox Easter ceasefire, a small but real pause in a grinding conflict that has resisted diplomacy for years."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Artemis II astronauts are returning home today after a historic lunar flyby, their wonder visibly uncontained \u2014 'my palms are sweating just thinking about it.'"
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Teen birth rates have hit another historical low in 2025, reflecting decades of improved access to education, healthcare, and reproductive choices."
+        "signal": "glimmer",
+        "detail": "Australia secured a pledge from Singapore guaranteeing fuel supply continuity, demonstrating that energy security cooperation between nations remains possible even in crisis."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "John Deere agreed to pay $99M in a right-to-repair settlement, a landmark win for farmers' and consumers' autonomy over the machines they own."
+        "signal": "bright",
+        "detail": "Scientists discovered a hidden waste-removal 'drain' pathway in the human brain using cutting-edge MRI, opening new doors for understanding and treating neurological disease."
       }
     ],
     "mood": [
-      "resilience",
-      "perseverance",
-      "solidarity",
+      "resilient",
       "breakthrough",
-      "survival"
+      "wonder",
+      "healing",
+      "possible"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition with dramatic backlight. The mine shaft entrance cut into the arid Sinaloa scrubland is the focal point \u2014 a dark oval mouth in the earth framed by dust and dry brush, blazing afternoon sun directly behind and above it, flooding the scene with saturated gold and rich emerald where sparse desert vegetation catches the light. Against this radiant backlit glow, a powerful silhouette: a figure wrapped in a crinkled silver thermal blanket emerging upright from the mine opening, the blanket edges catching the sun and gleaming white-gold. Beside the entrance, the dark industrial bulk of a low electric mining cart sits in silhouette. To one side, the chunky outline of a water pump. In the sky above, a rescue helicopter hovers in three-quarter silhouette, its rotors spinning against the saturated golden atmosphere, rotor disc catching amber light. Deep inside the dark tunnel mouth, barely visible in the blackness behind the emerging figure, a single tiny light blinks \u2014 a handheld torch pulsing in the deep dark, its rhythm the only detail surviving in the shadow. The color temperature splits violently: cold black tunnel interior versus explosive warm gold and vibrant emerald outside, the silhouetted figure bridging both worlds at the threshold.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-09.png"
+    "card_image": "dawn-card-2026-04-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a hospital floor, the scene towering overhead in dramatic low-angle perspective. A gleaming University Hospital corridor stretches upward like a cathedral, warm golden afternoon light pouring through tall window panels at the top of the frame, saturated emerald and amber tones flooding the sterile space with impossible vitality. The underside of an IV drip bag hangs in the near foreground, luminous and translucent, its liquid glowing with rich gold as if carrying living sunlight \u2014 engineered CAR T-cells visible as tiny radiant points suspended within it, each threaded with a glowing emerald filament like a genetic ribbon stitched through rounded immune cells. Towering above from this worm's-eye angle, a woman stands fully upright in a hospital gown, one hand trailing free from a disconnected IV line, her face tilted upward toward the window flood of morning gold, her figure framed against the bright rectangle of sky beyond glass. Her shadow falls long and warm across the white floor below the viewer. To one side, a white-coated figure \u2014 a physician \u2014 stands in a doorway, watching her, rendered small against the soaring architecture. Cell culture flasks on a high shelf catch the amber backlight, glowing like lanterns. Rich gold and vibrant emerald dominate every surface, the clinical whites transformed by the saturated living palette of recovery.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-10.png"
   }
 }
