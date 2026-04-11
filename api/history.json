@@ -6050,5 +6050,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a hospital floor, the scene towering overhead in dramatic low-angle perspective. A gleaming University Hospital corridor stretches upward like a cathedral, warm golden afternoon light pouring through tall window panels at the top of the frame, saturated emerald and amber tones flooding the sterile space with impossible vitality. The underside of an IV drip bag hangs in the near foreground, luminous and translucent, its liquid glowing with rich gold as if carrying living sunlight \u2014 engineered CAR T-cells visible as tiny radiant points suspended within it, each threaded with a glowing emerald filament like a genetic ribbon stitched through rounded immune cells. Towering above from this worm's-eye angle, a woman stands fully upright in a hospital gown, one hand trailing free from a disconnected IV line, her face tilted upward toward the window flood of morning gold, her figure framed against the bright rectangle of sky beyond glass. Her shadow falls long and warm across the white floor below the viewer. To one side, a white-coated figure \u2014 a physician \u2014 stands in a doorway, watching her, rendered small against the soaring architecture. Cell culture flasks on a high shelf catch the amber backlight, glowing like lanterns. Rich gold and vibrant emerald dominate every surface, the clinical whites transformed by the saturated living palette of recovery.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-10.png"
     }
+  },
+  {
+    "date": "2026-04-11",
+    "generated_at": "2026-04-11T11:30:16.864377+00:00",
+    "doom": {
+      "percentage": 39.6,
+      "raw_percentage": 37.6,
+      "driver": "Airports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations. Europe's Airport Industry said if the Strait of Hormuz doesn't reopen \"systemic jet fuel shortage is set to become a reality for the EU.\"",
+      "category": "Geopolitics",
+      "blurb": "DIPLOMATS TALK. PLANES MAY NOT FLY.",
+      "summary": "Vance has touched down in Islamabad for what everyone is breathlessly calling 'crucial talks' \u2014 which is diplomatic speak for 'we're not sure this works.' Meanwhile, the Strait of Hormuz remains shut long enough that European airports are now doing the math on a jet fuel crunch inside three weeks, and consumer sentiment just hit an all-time record low. The ceasefire exists in the same way a promise exists: technically, but not usefully.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "U.S.-Iran peace talks are underway in Islamabad but the ceasefire remains disputed, Hormuz stays closed, and Israel is simultaneously rejecting a Hezbollah ceasefire \u2014 three parallel flashpoints with one negotiating team."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "OpenAI backing an Illinois liability-shield bill and the Trump admin subpoenaing Reddit to unmask an ICE critic signal a week of regulatory overreach and corporate self-interest converging."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Anthropic's Mythos model reportedly found security flaws in every major OS and browser \u2014 Vance and Bessent were briefed on its cyber threat potential before release, which is either reassuring or the opposite."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A 20-year-old threw a Molotov cocktail at Sam Altman's house, which is alarming on a human level but mostly confirms that AI backlash has entered its unhinged amateur phase."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "FBI recovering deleted Signal messages via iPhone notification metadata is a quiet but meaningful reminder that 'secure' communication exists on a spectrum that law enforcement keeps quietly narrowing."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "stalling",
+        "tense",
+        "fraying"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside a darkened airport terminal gate lounge looking outward through floor-to-ceiling glass windows \u2014 the massive window frame dominates the composition, its steel mullions casting deep navy shadows across an empty departure hall, scuffed linoleum floor reflecting smoldering orange light from outside, a row of vacant plastic seats in the foreground silhouetted against the glass, an abandoned rolling suitcase tipped on its side near the window, on the tarmac outside a Lufthansa Boeing 747-8 with its distinctive upper-deck hump sits motionless at a retracted jet bridge, no fuel trucks anywhere on the bleached concrete apron, a single yellow JET A-1 refueling vehicle parked far in the distance with its nozzle disconnected and hanging loose, heat shimmer rising off the runway in the heavy midday light, the sky beyond the airport a deep bruised orange filtered through petrochemical haze, in the far background barely visible through the atmospheric murk a departure FIDS board mounted to the terminal wall shows cascading rows of cancelled flights rendered as small dark rectangular stamps, the entire scene bathed in deep navy shadows with threatening warm amber bleeding through the glass, heavy contrast between the cool dark interior and the ominous glowing tarmac outside, 16-bit SNES style, no text, no antialiasing",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-11.png"
+    },
+    "dawn": {
+      "percentage": 60.4,
+      "driver": "Goodbye colonoscopy? New stool test detects 90% of colorectal cancers.",
+      "category": "Medicine",
+      "blurb": "NO SCOPE, NO FEAR \u2014 CANCER CAUGHT EARLY",
+      "summary": "Even as geopolitical tensions grind on and consumer confidence hits record lows, science quietly delivers a genuine breakthrough: a non-invasive stool test using AI-mapped gut microbiome data catches 90% of colorectal cancers \u2014 no procedure, no sedation, no barrier to screening. Colorectal cancer is among the most preventable when detected early, yet colonoscopy avoidance remains one of medicine's stubborn problems. A test people will actually take could save hundreds of thousands of lives annually \u2014 that's the kind of quiet, compounding human progress that doesn't make war-room headlines but reshapes the future.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "AI-assisted microbiome mapping achieving 90% colorectal cancer detection represents a genuine paradigm shift in non-invasive diagnostics."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "U.S. and Iranian delegations have physically arrived in Islamabad for face-to-face peace talks, marking the highest-stakes diplomatic contact of the conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Four Artemis II astronauts splashed down safely after a historic 695,000-mile journey around the Moon, completing what NASA called 'a perfect mission.'"
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "The Great Green Wall project continues its multibillion-dollar push to re-green 250 million acres across Africa, with new reporting on measurable regional progress."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A common nutrient, zeaxanthin, has been found to supercharge T-cells and enhance cancer immunotherapy \u2014 suggesting cheap, accessible treatments may be hiding in plain sight."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "accessible",
+        "hopeful",
+        "lifesaving",
+        "resilient"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Geneva university research laboratory seen from above at a dramatic diagonal, long white sterile benches stretching across the frame like runways bathed in deep golden amber side-lighting that pours through tall windows casting long warm shadows across the lab floor. The enormous room dominates \u2014 a cathedral of science rendered in warm teal and burnished gold, overhead fluorescents softened into honeyed radiance. Glowing computer monitors along the benches blaze electric teal and violet, displaying sprawling phylogenetic tree diagrams that look like luminous forest canopies or galaxies of branching colored nodes \u2014 greens, blues, purples \u2014 the first complete gut bacteria catalogue. Tiny white-coated figures are dwarfed by the vast lab space, one researcher holding a minuscule vial up toward the light at arm's length, the tiny tube catching the golden hour amber like a jewel, its smallness absurd against the enormous implications visualized on every surrounding screen. Petri dishes scattered across benches glow faintly orange and yellow under UV lighting. Heatmap graphs on dark screens show bright upward curves climbing toward ninety percent. A younger figure leans over a senior researcher's shoulder at one monitor. The overall palette radiates warm golden-amber and deep warm teal simultaneously, radiant and precise, the mood of quiet triumph at dawn.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-11.png"
+    }
   }
 ]
