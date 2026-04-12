@@ -6018,5 +6018,99 @@
       "card_image": "dawn-card-2026-04-11.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Geneva university research laboratory seen from above at a dramatic diagonal, long white sterile benches stretching across the frame like runways bathed in deep golden amber side-lighting that pours through tall windows casting long warm shadows across the lab floor. The enormous room dominates \u2014 a cathedral of science rendered in warm teal and burnished gold, overhead fluorescents softened into honeyed radiance. Glowing computer monitors along the benches blaze electric teal and violet, displaying sprawling phylogenetic tree diagrams that look like luminous forest canopies or galaxies of branching colored nodes \u2014 greens, blues, purples \u2014 the first complete gut bacteria catalogue. Tiny white-coated figures are dwarfed by the vast lab space, one researcher holding a minuscule vial up toward the light at arm's length, the tiny tube catching the golden hour amber like a jewel, its smallness absurd against the enormous implications visualized on every surrounding screen. Petri dishes scattered across benches glow faintly orange and yellow under UV lighting. Heatmap graphs on dark screens show bright upward curves climbing toward ninety percent. A younger figure leans over a senior researcher's shoulder at one monitor. The overall palette radiates warm golden-amber and deep warm teal simultaneously, radiant and precise, the mood of quiet triumph at dawn."
     }
+  },
+  {
+    "date": "2026-04-12",
+    "generated_at": "2026-04-12T11:34:38.535246+00:00",
+    "doom": {
+      "percentage": 38.9,
+      "raw_percentage": 37.2,
+      "driver": "No Deal: U.S.-Iran peace talks in Islamabad collapse. The United States and Iran failed to reach an agreement after a day of highly anticipated face-to-face peace talks, Washington's lead negotiator Vice President J.D. Vance announced on Sunday.",
+      "category": "Geopolitics",
+      "blurb": "21 HOURS OF TALKS. ZERO DEALS. WAR CONTINUES.",
+      "summary": "After 21 hours of marathon negotiations in Islamabad, JD Vance flew home empty-handed while both sides immediately blamed each other \u2014 a diplomatic tradition as old as diplomacy itself. Iran says it 'didn't expect a deal at the first meeting,' which is a very calm thing to say about an active shooting war now 44 days old. Meanwhile two American warships quietly threaded the Strait of Hormuz for the first time since hostilities began, which is either a confidence signal or a very large dare.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran talks collapse without a deal after 21 hours; both sides blame each other while the war enters day 44 with no clear off-ramp."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Hungary heads to polls that could end Orb\u00e1n's 16-year rule, reshaping a key Trump-aligned European government; outcome uncertain."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "AI agents broke top benchmarks per Berkeley research, but today's AI headlines are mostly commentary and lifestyle pieces \u2014 no major capability jump."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Artemis II crew splashed down safely \u2014 a rare genuine good-news space story that slightly offsets the geopolitical gloom."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major alignment or AI safety developments today; the war is eating all the oxygen in every newsroom on the planet."
+        }
+      ],
+      "mood": [
+        "stalled",
+        "tense",
+        "unresolved",
+        "weary"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 thick haze and dust-filtered Pakistani spring air press down over Islamabad's diplomatic enclave, the Margalla Hills barely visible as dark brown silhouettes dissolved into smoldering orange atmospheric murk in the far background, the sky a crushing gradient of deep navy overhead bleeding into a smoky, threatening amber near the horizon \u2014 the Serena Hotel's warm sandstone arched facade anchors the left foreground, its colonial-Mughal archways casting heavy dark shadows inward, concrete blast barriers and orange bollards lining the street in front \u2014 a large outdoor billboard mounted on the hotel perimeter wall shows two national flags side by side beneath a faded handshake graphic, the imagery now reading as hollow and ironic, the paper corners visibly curling in dry pre-monsoon heat \u2014 a wide embassy-district boulevard stretches toward the right, jacaranda trees lining the road with sparse purple blooms barely visible through the haze, Pakistani security personnel in olive-green uniforms standing perimeter positions as small silhouetted figures at checkpoint positions \u2014 a cluster of press microphones on a bare podium occupies the boulevard center in harsh bleaching midday light, no document visible, no hands present, only the empty podium and the absence of agreement \u2014 in the far distance through heat shimmer and atmospheric dust, the white swept-concrete curve of Benazir Bhutto International Airport's terminal roof is barely legible, a single blue-and-white aircraft fuselage shape visible on the isolated apron \u2014 deep navy and smoldering orange dominate every surface, haze softening hard edges into threat, no antialiasing, no text."
+    },
+    "dawn": {
+      "percentage": 61.1,
+      "driver": "Artemis II splashdown captures nationwide attention. Fans across the country tuned in to see the Artemis II crew make their splashy return to Earth.",
+      "category": "Discovery",
+      "blurb": "HUMANITY RETURNS FROM THE MOON, UNITED IN AWE",
+      "summary": "Even as US-Iran peace talks collapsed in Islamabad and ceasefire tensions grind on, four human beings just completed a 10-day voyage around the Moon and came home safely \u2014 the first crewed lunar mission in over 50 years. Millions stopped their doomscrolling to watch the splashdown, a reminder that our species still reaches for the stars together. The Artemis II crew's press conference in Houston showed something wars can't erase: the sheer joy of exploration shared across a fractured world.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Artemis II's successful Moon orbit and Pacific splashdown marks humanity's first crewed deep-space mission since Apollo 17 in 1972."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Hungary heads to the polls with record turnout as citizens exercise democratic will against 16 years of authoritarian consolidation."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Teen sprint star Gout Gout ran the 200m in 19.67 seconds, breaking the under-20 world record and surpassing Usain Bolt's marks at the same age."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A Swiss musician performed inside a melting Alpine glacier to dramatize ice loss, drawing global attention to a crisis that science says is still reversible."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "South Korea introduced universal basic mobile data access, ensuring no citizen is left offline regardless of income \u2014 a quiet but profound digital equity win."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "triumphant",
+        "resilient",
+        "inspired",
+        "hopeful"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with the scorched heat shield bottom of NASA's Orion capsule floating on Pacific Ocean water, the surface inches away, occupying every pixel. Deep amber and burnt sienna scorch marks radiate outward from the center in concentric arcs, the physical memory of lunar-return re-entry seared into the metallic cone. Golden hour side-light rakes across the textured ablative surface, casting long dramatic shadows into every groove and crater, the metal glinting warm amber and deep teal where Pacific water laps against the curved edges. At the very margins of the frame, blurred impressions of environment bleed in \u2014 the deep blue-green of the California Pacific at the left edge, a sliver of bright safety orange from the recovery raft at the bottom right corner, the dark silhouette of a Navy diver's wetsuit barely visible in the water's reflection curving across the heat shield's surface. The ocean mirrors back as warped teal ribbons across the scorched gold. Every scorch mark tells the story of the Moon. Radiant. Triumphant. Close enough to touch history."
+    }
   }
 ]
