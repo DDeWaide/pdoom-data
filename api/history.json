@@ -6242,5 +6242,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with the scorched heat shield bottom of NASA's Orion capsule floating on Pacific Ocean water, the surface inches away, occupying every pixel. Deep amber and burnt sienna scorch marks radiate outward from the center in concentric arcs, the physical memory of lunar-return re-entry seared into the metallic cone. Golden hour side-light rakes across the textured ablative surface, casting long dramatic shadows into every groove and crater, the metal glinting warm amber and deep teal where Pacific water laps against the curved edges. At the very margins of the frame, blurred impressions of environment bleed in \u2014 the deep blue-green of the California Pacific at the left edge, a sliver of bright safety orange from the recovery raft at the bottom right corner, the dark silhouette of a Navy diver's wetsuit barely visible in the water's reflection curving across the heat shield's surface. The ocean mirrors back as warped teal ribbons across the scorched gold. Every scorch mark tells the story of the Moon. Radiant. Triumphant. Close enough to touch history.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-12.png"
     }
+  },
+  {
+    "date": "2026-04-13",
+    "generated_at": "2026-04-13T12:03:19.834004+00:00",
+    "doom": {
+      "percentage": 48.9,
+      "raw_percentage": 52.7,
+      "driver": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail.",
+      "category": "Geopolitics",
+      "blurb": "BLOCKADE. OIL OVER $100. ALLIES SAY NO.",
+      "summary": "After 21 hours of failed negotiations, Trump didn't just flip the table \u2014 he blockaded the table, the room, and the entire shipping corridor feeding 20% of the world's oil. The UK, France, Spain, Turkey, and China have all said 'not our blockade,' which raises the charming question of how you enforce a multinational naval operation when none of your multinational partners want to be in the navy. Iran is calling it piracy, China is reportedly shipping weapons, and oil just kissed $100 \u2014 so congratulations, the peace talks failed loudly.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S. naval blockade of Strait of Hormuz begins Monday with zero allied support, oil surges past $100, and Iran calls it an act of piracy."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Congress returning from recess to debate Iran war powers resolutions while Orb\u00e1n's Hungary defeat reshapes the European political landscape."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "OpenAI opens permanent London office and Claude Code quota exhaustion goes viral \u2014 infrastructure noise, not capability alarm."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "China reportedly preparing weapons shipment to Iran as Trump threatens 50% tariffs on Beijing \u2014 a second-front escalation brewing."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Sam Altman targeted in a second attack at his San Francisco residence \u2014 unsettling, but no systemic implications."
+        }
+      ],
+      "mood": [
+        "escalation",
+        "isolated",
+        "combustible",
+        "reckless"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at pre-dawn, the narrow chokepoint geography visible as a dark hourglass channel of deep crimson-black water pinched between the ochre desert ridgelines of opposing coastlines, a hazy amber-crimson glow bleeding up from the horizon where Gulf humidity and desert dust catch the first light, stars still fading in the upper register of a charcoal sky \u2014 against this burning backlight, the massive flat silhouette of an aircraft carrier dominates the center frame, its island superstructure bristling with radar arrays and antennae rendered as pure black geometry, F/A-18 silhouettes parked wingtip-to-wingtip on the flight deck, flanked left and right by the lower sleeker black outlines of Arleigh Burke destroyers, their angular superstructures and bow guns sharp against the glow \u2014 in the middle distance, the enormous black hull of a Very Large Crude Carrier sits low and heavy in the water, rust-streaked silhouette dwarfed by the naval formation blocking its path, bridge superstructure clustered at its stern \u2014 overhead, the distinctive Boeing 737 fuselage shape of a P-8 Poseidon banks in silhouette across the crimson sky \u2014 the water reflects only fire-orange and dark crimson broken by the blinking navigation lights of the formation \u2014 oppressive, high-contrast, no text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-13.png"
+    },
+    "dawn": {
+      "percentage": 51.1,
+      "driver": "Stanford scientists discover \"natural Ozempic\" without side effects. A newly discovered molecule could reshape the future of weight loss treatments by mimicking the powerful appetite-suppressing effects of drugs like Ozempic \u2014 but without many of the unpleasant side effects.",
+      "category": "Science",
+      "blurb": "NATURE CRACKS THE CODE ON WEIGHT LOSS",
+      "summary": "On a day dominated by blockades, collapsed peace talks, and rising oil prices, Stanford's lab delivered something rare: a genuine medical breakthrough. A newly discovered molecule mimics Ozempic's appetite-suppressing power while shedding the nausea and side effects that make the drug intolerable for millions \u2014 potentially democratizing access to effective obesity treatment. With obesity driving cardiovascular disease, diabetes, and cancer risk for hundreds of millions worldwide, a cleaner, body-derived solution could quietly save more lives than any single geopolitical headline threatens to take.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Stanford's discovery of a natural appetite-suppressing molecule without Ozempic's side effects represents a potential paradigm shift in how metabolic disease is treated globally."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Hungary's voters peacefully ended 16 years of authoritarian entrenchment at the ballot box, proving democratic resilience still functions even under sustained institutional pressure."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "France's Macron confirmed multinational diplomatic talks on the Strait of Hormuz crisis, with UK, France, Spain, and Turkey refusing to join the blockade \u2014 coalition diplomacy holding a line."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Seven countries now generate nearly all their electricity from renewables, a Hacker News-surfaced 2024 milestone showing the clean energy transition is already complete in multiple nations."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Australia appointed its first female army chief in history, Lieutenant General Susan Coyle, after a nearly 40-year career \u2014 a quiet institutional milestone amid louder global chaos."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, Stanford Medicine research laboratory bathed entirely in artificial light, deep shadows consuming the corners and ceiling, cool blue-white glow from massive computer monitors dominating one wall where a cascading branching peptide map blazes across the screen like a constellation river delta in electric cobalt and gold. The lab bench stretches across the foreground, stainless steel surfaces catching amber reflections from a single warm overhead instrument light cutting through the darkness. A small clear glass vial sits centered on the bench, catching the monitor's blue light and the overhead amber simultaneously, glowing rich gold from within as if the liquid inside is luminous. A fine-tipped syringe rests beside it. A woman in a white lab coat stands at the computational workstation, silhouetted against the brilliant cascading algorithm display, one hand raised holding the tiny vial up toward the screen light, the gesture of someone examining a jewel extracted from nature. On a secondary lightboard in the deep background, a brain diagram glows warm amber with the hypothalamus lit in saturated gold, contrasted against darker organ outlines. Rich emerald and deep gold dominate the color palette, the blue monitor glow cutting cool highlights across every surface, midnight shadows thick everywhere light does not reach, the quiet electricity of discovery hanging in the darkness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-13.png"
+    }
   }
 ]
