@@ -6206,5 +6206,100 @@
       "card_image": "dawn-card-2026-04-13.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, Stanford Medicine research laboratory bathed entirely in artificial light, deep shadows consuming the corners and ceiling, cool blue-white glow from massive computer monitors dominating one wall where a cascading branching peptide map blazes across the screen like a constellation river delta in electric cobalt and gold. The lab bench stretches across the foreground, stainless steel surfaces catching amber reflections from a single warm overhead instrument light cutting through the darkness. A small clear glass vial sits centered on the bench, catching the monitor's blue light and the overhead amber simultaneously, glowing rich gold from within as if the liquid inside is luminous. A fine-tipped syringe rests beside it. A woman in a white lab coat stands at the computational workstation, silhouetted against the brilliant cascading algorithm display, one hand raised holding the tiny vial up toward the screen light, the gesture of someone examining a jewel extracted from nature. On a secondary lightboard in the deep background, a brain diagram glows warm amber with the hypothalamus lit in saturated gold, contrasted against darker organ outlines. Rich emerald and deep gold dominate the color palette, the blue monitor glow cutting cool highlights across every surface, midnight shadows thick everywhere light does not reach, the quiet electricity of discovery hanging in the darkness."
     }
+  },
+  {
+    "date": "2026-04-14",
+    "generated_at": "2026-04-14T11:58:15.953555+00:00",
+    "doom": {
+      "percentage": 49.1,
+      "raw_percentage": 52.7,
+      "driver": "Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz.",
+      "category": "Geopolitics",
+      "blurb": "BLOCKADE HOLDS. SHIPS WARNED. WORLD ECONOMY BLEEDS.",
+      "summary": "The U.S. blockade of the Strait of Hormuz is no longer a threat \u2014 it's live, and Trump is now promising to sink ships that don't comply. The IEA is calling it 'demand destruction,' the FAO is warning of a food catastrophe, India's fertilizer supply is hanging by a thread, and Lavrov is in Beijing while China calls the blockade 'dangerous and irresponsible.' That's not a crisis forming \u2014 that's a crisis metastasizing across every supply chain on Earth.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active U.S. naval blockade with shoot-to-sink warnings, China-Russia alignment against it, and India's energy supply visibly cracking under dual pressure."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Israel-Lebanon direct talks are the first since 1993, but Hezbollah's rejection and Macron's diplomatic friction with Washington suggest the framework is fragile before it begins."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Zuckerberg building an AI clone of himself to replace him in meetings \u2014 dystopian vibe, but contained to corporate weirdness rather than systemic risk."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "FAO warns of global food catastrophe if Hormuz disruption persists, and India's fertilizer shortage is already deepening \u2014 the humanitarian cascade is beginning."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "A man was charged with attempted murder for a Molotov cocktail attack on Sam Altman's home \u2014 AI backlash is getting physical, but remains an isolated incident."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "combustible",
+        "cascading",
+        "volatile",
+        "siege"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from the hull waterline of a massive U.S. Navy Arleigh Burke-class guided-missile destroyer, looking straight up along the towering grey steel hull wall as it rises and dominates the entire frame \u2014 the ship's angular superstructure, rotating radar arrays, and Phalanx CIWS turret looming overhead against a narrow strip of oppressive sky, dark crimson and deep charcoal tones saturating every surface, firelight-orange reflections rippling across the hull's wet flanks from distant burning horizon glow, the murky blue-black waters of the Strait of Hormuz visible in the extreme foreground as a thin haze-blurred sliver, a queue of stopped oil tankers rendered as silhouetted monoliths stretching toward a heat-hazed vanishing point far below the destroyer's stern, tiny low-profile IRGC fast-attack speedboats visible as dark specks on the water surface seen from this extreme low angle, the narrow strip of sky above compressed between ship superstructure and horizon haze, bleached white sun obscured behind charcoal Gulf humidity, hard contrast shadows cutting across VLS hatch panels and deck gun barrel overhead, oppressive scale and threat conveyed through dramatic vertical compression, no text, no antialiasing, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 50.9,
+      "driver": "Israel and Lebanon set to meet for first direct talks in more than 30 years. An official briefed on Israel's strategy for the talks described Tuesday's meeting as 'preparatory' and aimed at laying out a framework for future negotiations.",
+      "category": "Peace",
+      "blurb": "ENEMIES AT THE TABLE FOR FIRST TIME IN A GENERATION",
+      "summary": "Even as the broader Middle East teeters on the edge \u2014 blockades, oil shocks, a grinding Iran war \u2014 Israel and Lebanon are sitting across from each other for the first time since 1993. That's not nothing. Direct talks, however fragile and preliminary, are the necessary first step before any durable peace can take root, and history shows that 'preparatory' meetings can quietly become turning points. Cameroon separatists announcing a pause in fighting ahead of the Pope's visit adds another small thread of restraint to a fraying world \u2014 reminding us that even hardened combatants sometimes choose to lower their weapons.",
+      "factors": [
+        {
+          "name": "Peace",
+          "signal": "bright",
+          "detail": "Israel and Lebanon meeting directly for the first time in over 30 years is a rare diplomatic opening that defies the region's current trajectory."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Cameroon separatists announced a unilateral pause in fighting out of 'responsibility, restraint and respect for human dignity' ahead of the papal visit."
+        },
+        {
+          "name": "Science",
+          "signal": "quiet",
+          "detail": "New neuroscience research confirms that sight and imagination share the same neural pathways, a discovery with implications for treating neurological conditions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Maradona's childhood home in Buenos Aires has been converted into a community soup kitchen, neighbors feeding neighbors in a struggling suburb."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "European markets rose on renewed hopes that Iran peace talks could resume, suggesting financial markets \u2014 and the people behind them \u2014 still believe diplomacy is possible."
+        }
+      ],
+      "mood": [
+        "dialogue",
+        "resilience",
+        "restraint",
+        "hope",
+        "breakthrough"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a grand State Department conference room looking outward through tall federal windows, warm gold afternoon light pouring in at a low angle across a long polished mahogany diplomatic table, rich emerald and gold color palette saturating every surface, deep mahogany browns of the table gleaming under sunlight, cream and ivory walls catching the warm glow, two name placards facing each other across the table's width, two leather-bound folders laid open with pens resting beside them, glasses of water on the table with one catching the sunlight and throwing a tiny prismatic rainbow onto the wood surface, two figures in formal dark suits seated across from each other at opposite sides of the table, their posture careful and deliberate, one hand reaching slightly forward across the polished wood, aides seated just behind leaning forward with notepads, American and international flags flanking the far wall visible through the interior depth, a wall clock above the windows, outside the tall windows a saturated emerald canopy of trees in full afternoon sun, leaves glowing vivid green against gold sky, the mood hushed and historic, fragile and alive, long shadows stretching across the table, vibrant emerald and rich gold dominating the entire frame."
+    }
   }
 ]
