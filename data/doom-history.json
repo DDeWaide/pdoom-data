@@ -6301,5 +6301,100 @@
       "card_image": "dawn-card-2026-04-14.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a grand State Department conference room looking outward through tall federal windows, warm gold afternoon light pouring in at a low angle across a long polished mahogany diplomatic table, rich emerald and gold color palette saturating every surface, deep mahogany browns of the table gleaming under sunlight, cream and ivory walls catching the warm glow, two name placards facing each other across the table's width, two leather-bound folders laid open with pens resting beside them, glasses of water on the table with one catching the sunlight and throwing a tiny prismatic rainbow onto the wood surface, two figures in formal dark suits seated across from each other at opposite sides of the table, their posture careful and deliberate, one hand reaching slightly forward across the polished wood, aides seated just behind leaning forward with notepads, American and international flags flanking the far wall visible through the interior depth, a wall clock above the windows, outside the tall windows a saturated emerald canopy of trees in full afternoon sun, leaves glowing vivid green against gold sky, the mood hushed and historic, fragile and alive, long shadows stretching across the table, vibrant emerald and rich gold dominating the entire frame."
     }
+  },
+  {
+    "date": "2026-04-15",
+    "generated_at": "2026-04-15T11:56:46.528084+00:00",
+    "doom": {
+      "percentage": 46.0,
+      "raw_percentage": 47.3,
+      "driver": "North Korea rapidly expanding nuclear weapons capability, UN watchdog warns. Pyongyang making 'very serious' progress on producing weapons, with rapid rise in activity at main nuclear complex",
+      "category": "Nuclear",
+      "blurb": "IRAN BURNS. KOREA RELOADS. PERFECT TIMING.",
+      "summary": "While the world's attention is laser-focused on the Strait of Hormuz blockade, North Korea has apparently decided this is an excellent moment to dramatically accelerate its nuclear weapons production \u2014 because nothing says 'opportunistic' like rapid reactor activity at Yongbyon while the IAEA chief is busy issuing warnings nobody has bandwidth to act on. The Iran war is simultaneously strangling Europe's fuel supply, rattling China-India relations, and causing Trump to publicly berate his last remaining European ally, Giorgia Meloni, for lacking 'courage.' It's a lot of plates spinning, and someone just added a radioactive one.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "high",
+          "detail": "North Korea is rapidly expanding nuclear weapons manufacturing capability with a 'very serious' spike in Yongbyon reactor operations, timed perfectly to global distraction."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The US-Iran blockade is now straining relationships with China and India simultaneously, while Russia offers Beijing an energy lifeline and Xi meets Lavrov to discuss the war."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump is publicly attacking one of his last European allies, threatening UK trade deals, and renewing criticism of the Pope \u2014 the coalition for managing any multi-front crisis is shrinking."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "UK government's Mythos AI becomes the first system to complete a difficult multistep cybersecurity infiltration challenge, a quiet but notable capability milestone."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A systemic jet fuel shortage is now brewing in Europe as the Iran war spills into aviation supply chains, with Vietnam and Thailand already seeing flight constraints."
+        }
+      ],
+      "mood": [
+        "opportunistic",
+        "overstretched",
+        "radioactive",
+        "distracted",
+        "fracturing"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down over the Yongbyon Nuclear Scientific Research Center complex in North Korea, vast cold river valley landscape dominating the frame \u2014 the grey-brown Kuryong River curves through the lower third of the composition, bare scrubby hillsides with sparse pine and light snow dusting the ridgelines pressing in from all sides, the facility cluster rendered tiny against the immense austere terrain, overcast white-cold midday light casting hard short shadows across rooftops, dark crimson atmosphere bleeding into charcoal grey sky at the horizon. Within the dense grey Soviet-industrial compound below: the squat rectangular 5MW reactor building with its distinctive square chimney stack exhaling a pale steam plume catching cold light, the massive windowless brutalist reprocessing plant block surrounded by exterior pipe runs, a long fresh-concrete warehouse structure fed by heavy transformer banks and thick cable conduits indicating new uranium enrichment activity, construction cranes arcing over a partially domed light water reactor shell still wrapped in scaffolding, security perimeter walls and corner guard towers visible as tiny geometric details. The entire facility radiates firelight-crimson heat shimmer from within despite the frozen landscape surrounding it, dark charcoal shadows pooling between buildings, high contrast and oppressive, no people visible at this altitude, the complex looking like a glowing ember buried in a grey wasteland."
+    },
+    "dawn": {
+      "percentage": 54.0,
+      "driver": "Blocking a single protein supercharges the immune system against cancer. Scientists have discovered a way to supercharge the immune system's T cells by blocking a protein called Ant2, forcing the cells to rewire how they generate energy. This shift makes them more powerful",
+      "category": "Medicine",
+      "blurb": "YOUR OWN IMMUNE SYSTEM, SUPERCHARGED AGAINST CANCER",
+      "summary": "In a week dominated by blockades and war economics, a quieter revolution is unfolding in the lab: scientists have found that blocking a single protein \u2014 Ant2 \u2014 can rewire T cells to become dramatically more effective cancer killers. This isn't a new drug introduced from outside the body; it's a method to unleash what the immune system was already capable of. Against a backdrop of 46% doom, breakthroughs like this remind us that human ingenuity keeps compounding in the background, indifferent to geopolitics.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Blocking the Ant2 protein forces T cells to rewire their energy metabolism, potentially transforming the immune system into a far more potent anti-cancer weapon."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Israel and Lebanon held their first direct talks since 1993, a fragile but real signal that even decades-long standoffs can crack open."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Fela Kuti became the first African artist inducted into the Rock & Roll Hall of Fame, a posthumous recognition of a lifetime of courageous artistic resistance."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Scientists finally identified where the Colorado River's missing water goes \u2014 a critical step toward managing one of the world's most stressed water systems."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Physicists declared they've put the proton radius puzzle to rest for good, closing a decade-long mystery in fundamental physics with a definitive answer."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "discovery",
+        "hopeful",
+        "galvanizing"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a torrential golden rain falls through a darkened biomedical laboratory at Hebrew University, each raindrop catching amber and emerald light, the downpour visible through tall lab windows where Jerusalem night bleeds in as deep violet-blue fog pressing against the glass, warm mist rising from the floor where the rain meets the heated interior. Inside this rain-soaked glowing chamber, the scene splits between human and cellular scales \u2014 in the foreground, a young researcher leans over a fluorescence microscope, lime-green eyepiece glow illuminating his face through the rainfall haze, a professor standing behind him gesturing toward a monitor showing a molecular pathway diagram blazing with redirected golden light. The rain refracts into the microscopic world dominating the right half of the frame: inside a magnified T cell rendered enormous and radiant, mitochondria pulse like amber furnaces with folded luminous cristae, a single closed gate-valve on the membrane glows dark red and locked shut, forcing a river of gold energy to surge through an alternate channel, the entire T cell bristling with corona spikes like a small sun. Beyond it, dark jagged cancer cells dissolve at their edges in the emerald-gold rain, losing definition, crumbling. Rich gold and saturated emerald saturate every surface, afternoon-sun warmth diffused through rain and fog, alive and triumphant."
+    }
   }
 ]
