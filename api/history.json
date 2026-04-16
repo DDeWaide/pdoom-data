@@ -6532,5 +6532,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a torrential golden rain falls through a darkened biomedical laboratory at Hebrew University, each raindrop catching amber and emerald light, the downpour visible through tall lab windows where Jerusalem night bleeds in as deep violet-blue fog pressing against the glass, warm mist rising from the floor where the rain meets the heated interior. Inside this rain-soaked glowing chamber, the scene splits between human and cellular scales \u2014 in the foreground, a young researcher leans over a fluorescence microscope, lime-green eyepiece glow illuminating his face through the rainfall haze, a professor standing behind him gesturing toward a monitor showing a molecular pathway diagram blazing with redirected golden light. The rain refracts into the microscopic world dominating the right half of the frame: inside a magnified T cell rendered enormous and radiant, mitochondria pulse like amber furnaces with folded luminous cristae, a single closed gate-valve on the membrane glows dark red and locked shut, forcing a river of gold energy to surge through an alternate channel, the entire T cell bristling with corona spikes like a small sun. Beyond it, dark jagged cancer cells dissolve at their edges in the emerald-gold rain, losing definition, crumbling. Rich gold and saturated emerald saturate every surface, afternoon-sun warmth diffused through rain and fog, alive and triumphant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-15.png"
     }
+  },
+  {
+    "date": "2026-04-16",
+    "generated_at": "2026-04-16T11:59:14.587361+00:00",
+    "doom": {
+      "percentage": 43.0,
+      "raw_percentage": 41.7,
+      "driver": "Europe could run out of jet fuel in 6 weeks, IEA chief tells AP.",
+      "category": "Geopolitics",
+      "blurb": "EUROPE GROUNDS ITSELF IN SIX WEEKS",
+      "summary": "The IEA chief warning Europe faces jet fuel exhaustion in six weeks is the Strait of Hormuz crisis graduating from 'expensive inconvenience' to 'civilizational logistics problem.' Meanwhile Russia hammered Ukraine with 700 drones \u2014 its biggest attack in weeks \u2014 just to remind everyone that the other war is still very much on. The Iran ceasefire remains 'fragile' per the BBC's on-the-ground reporting, which is diplomat-speak for 'a stiff breeze could end it.'",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran ceasefire holding but described as fragile, while Europe faces a 6-week jet fuel cliff and the Hormuz blockade traps Gulf energy with no resolution in sight."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump threatening to fire Fed Chair Powell injects new financial instability; IMF flags a global 'guns vs. butter' crisis as defense spending crowds out social investment."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "TSMC posts 58% profit surge on AI demand and Anthropic announces UK expansion \u2014 capability buildout continues at pace but no alarming leaps today."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Maine passes a moratorium on AI data centers and Adobe pivots to conversational AI editing \u2014 governance is lagging capability but no acute alignment crisis visible."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A major Australian refinery fire compounding global fuel shortages, plus Russia's largest drone/missile assault on Ukraine in weeks, add compounding fragility to an already stressed system."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "cascading",
+        "exhausted",
+        "simmering",
+        "fragile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame on a jet fuel gauge mounted on a massive product tanker's deck instrumentation panel, the needle buried hard into the red empty zone, the circular dial face cracked and filmed with salt haze, dark crimson reflections pooling across the scratched glass face of the gauge \u2014 the needle itself cast in deep charcoal shadow with only its tip catching a last sliver of firelight-orange glow, the surrounding panel of riveted grey steel streaked with rust bleeding downward like old wounds, at the extreme edges of the frame the blurred suggestion of the Strait of Hormuz \u2014 a sliver of murky blue-green water caught between brown scorched coastline and heat shimmer haze, the ghost silhouette of an anchored Aframax product tanker riding high and empty on the horizon, its white hull dull and motionless, multiple deck pipe manifolds barely visible as dark horizontal lines, the sky above crushed into dark crimson and charcoal with oppressive petrochemical smog layering the atmosphere, the entire composition drenched in high-contrast shadow with only the gauge needle and the distant water catching any light, no text, no antialiasing, 16-bit SNES pixel art style.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-16.png"
+    },
+    "dawn": {
+      "percentage": 57.0,
+      "driver": "Largest ever map of universe captures 47 million galaxies and quasars. The Dark Energy Spectroscopic Instrument (DESI) has finished the most detailed survey of the universe to date, and the resulting map will help researchers understand an apparent weakening of dark energy.",
+      "category": "Discovery",
+      "blurb": "47 MILLION GALAXIES. HUMANITY MAPS THE COSMOS.",
+      "summary": "Even as geopolitical tensions dominate the headlines, human curiosity pressed relentlessly outward \u2014 DESI has completed the most detailed survey of the universe ever assembled, charting 47 million galaxies and quasars in a single breathtaking map. This isn't incremental science; it may finally crack the mystery of dark energy, the force shaping the fate of everything. On days when the news feels suffocating, it's worth pausing to remember that we are also the species that built an instrument capable of seeing nearly the entire observable universe.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "DESI's 47-million-galaxy map represents the largest cosmic survey in history and could resolve the dark energy mystery driving the universe's expansion."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "More than \u00a31 billion was pledged for Sudan at the Berlin conference, exceeding the humanitarian funding target despite ongoing conflict \u2014 donors showed up."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "South Korea is turning the Iran energy crisis into a national renewables revolution, accelerating solar and wind investment with new urgency and political will."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New research is quantifying humanity's relationship with nature in constructive terms, shifting conservation from misanthropy toward measurable coexistence."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists discovered a gene from yaks and Tibetan antelopes that helps the brain repair itself, opening a surprising new path for treating nerve damage in humans."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "expansive",
+        "persistent",
+        "illuminating",
+        "resilient"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from an enormous glowing wedge-shaped universe map dominating the entire interior of the Mayall Telescope dome at Kitt Peak, the fan-shaped DESI survey map blazing with rich gold and vibrant emerald light, its 47 million galaxy points clustering into luminous filaments and coral-reef structures across the wedge, warm amber and deep green radiance flooding outward and upward through the open dome aperture into the Arizona desert night sky beyond. The dome opening frames an impossibly star-dense sky, real stars bleeding into the map's artificial ones. In pure black silhouette against this golden-emerald blaze: a lone researcher stands before towering monitors displaying the luminous wedge, arms slightly raised toward the screen, their entire figure rimmed in warm gold backlight, unrecognizable as individual, universal as discovery. At the circular focal plane overhead, the disk of 5,000 robotic fiber-optic positioners catches the emerald glow like a mechanical sunflower face suspended in shadow. Bundles of fiber optic cables cascade downward in silhouette. Secondary silhouettes of graduate students at workstations flank the central figure, faces invisible, only the glow of monitors and the great map illuminating their outlines. The observatory floor reflects pools of gold and green light. Saturated, alive, afternoon-sun-through-leaves richness in every photon of the map's impossible reach.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-16.png"
+    }
   }
 ]
