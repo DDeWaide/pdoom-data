@@ -6491,5 +6491,100 @@
       "card_image": "dawn-card-2026-04-16.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from an enormous glowing wedge-shaped universe map dominating the entire interior of the Mayall Telescope dome at Kitt Peak, the fan-shaped DESI survey map blazing with rich gold and vibrant emerald light, its 47 million galaxy points clustering into luminous filaments and coral-reef structures across the wedge, warm amber and deep green radiance flooding outward and upward through the open dome aperture into the Arizona desert night sky beyond. The dome opening frames an impossibly star-dense sky, real stars bleeding into the map's artificial ones. In pure black silhouette against this golden-emerald blaze: a lone researcher stands before towering monitors displaying the luminous wedge, arms slightly raised toward the screen, their entire figure rimmed in warm gold backlight, unrecognizable as individual, universal as discovery. At the circular focal plane overhead, the disk of 5,000 robotic fiber-optic positioners catches the emerald glow like a mechanical sunflower face suspended in shadow. Bundles of fiber optic cables cascade downward in silhouette. Secondary silhouettes of graduate students at workstations flank the central figure, faces invisible, only the glow of monitors and the great map illuminating their outlines. The observatory floor reflects pools of gold and green light. Saturated, alive, afternoon-sun-through-leaves richness in every photon of the map's impossible reach."
     }
+  },
+  {
+    "date": "2026-04-17",
+    "generated_at": "2026-04-17T11:52:52.849996+00:00",
+    "doom": {
+      "percentage": 41.1,
+      "raw_percentage": 38.7,
+      "driver": "Finance ministers and top bankers raise serious concerns about Mythos AI model. Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
+      "category": "AI Capability",
+      "blurb": "THE ALGORITHM THAT EATS FIREWALLS",
+      "summary": "While diplomats celebrate a 10-day Israel-Lebanon ceasefire like it's a permanent peace deal, the financial sector is quietly panicking about an AI model apparently purpose-built to find and weaponize every vulnerability in modern infrastructure. Mythos joins a week where Anthropic dropped Opus 4.7, OpenAI's Codex literally hacked a Samsung TV for fun, and quantum computing edged closer to Q-Day \u2014 suggesting the real arms race isn't in the Strait of Hormuz. The geopolitical situation is arguably de-escalating at the margins; the AI capability situation is very much not.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "Mythos AI raises alarm among finance ministers for unprecedented cyberattack potential, while Claude Opus 4.7, Qwen3.6, and OpenAI Codex all drop in the same week \u2014 capability is compounding fast."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Israel-Lebanon 10-day ceasefire is a genuine de-escalation, but the Iran war continues, spoofed tankers flood the Strait of Hormuz, and the blockade holds with no resolution in sight."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "MIT Technology Review flags that 'humans in the loop' in AI warfare is an illusion, and the Pentagon-Anthropic legal battle is unresolved \u2014 oversight frameworks are lagging capability badly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "An AI model specifically flagged by global finance and banking officials for its ability to exploit cybersecurity weaknesses represents a concrete, near-term alignment-adjacent harm scenario."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Recent advances push Big Tech closer to Q-Day according to Ars Technica, meaning post-quantum crypto transition urgency is rising just as state-level cyber tensions are spiking."
+        }
+      ],
+      "mood": [
+        "ominous",
+        "accelerating",
+        "fragile",
+        "technical",
+        "unsettled"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, deep shadows dominating every corner, all light sourced from artificial glows \u2014 a vast IMF conference room interior viewed in dramatic perspective, long polished obsidian table stretching toward a vanishing point, tiered rows of empty delegate seats fading into darkness at the edges, the far wall dominated by a massive presentation screen casting sickly crimson and white light across the room, the screen displaying a branching exploit tree diagram \u2014 crack-like red lines fracturing outward like broken glass from a central node, beside it a stylized AI interface chat window showing cascading flagged vulnerability outputs in amber and red, the IMF logo visible in deep shadow above the screen, simultaneous translation booths lining the walls rendered as dark glass rectangles reflecting the screen's crimson glow, scattered across the long table open folders stamped with official seals, laptop screens glowing cold white showing terminal outputs, and at the table's center a single pinned specimen \u2014 a glasswing butterfly, wings rendered in translucent pixel shimmer, its see-through wings revealing the fractured exploit tree behind it, the entire scene bathed in dark crimson and charcoal with firelight-warm reflections bleeding across the polished table surface, heavy oppressive shadows pressing in from all sides, no people present \u2014 only the evidence of a crisis meeting recently abandoned, cherry blossom branches faintly visible through a tall darkened window behind the screen, pale pink against black Washington DC night sky, no text, no antialiasing, high contrast, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 58.9,
+      "driver": "Scientists discover natural hormone that reverses obesity. A hormone called FGF21 can reverse obesity in mice by activating a newly identified brain circuit tied to metabolism. Surprisingly, it works in the hindbrain\u2014the same region targeted by GLP-1 drugs like Ozempic.",
+      "category": "Medicine",
+      "blurb": "NATURE'S OWN CURE REWIRES THE BODY",
+      "summary": "Even as geopolitical fires burn from the Strait of Hormuz to Lebanon, scientists quietly delivered a remarkable finding: a naturally occurring hormone can reverse obesity by targeting a newly mapped brain circuit \u2014 no synthetic drug required. This builds on a stunning week of metabolic science, following Stanford's 'natural Ozempic' discovery days ago, suggesting we are entering a golden era of understanding how the body heals itself. In a world where chronic disease burdens billions, breakthroughs like FGF21 represent the kind of quiet, compounding progress that outlasts any news cycle.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Multiple independent teams this week identified natural biological mechanisms \u2014 hormones, proteins, immune circuits \u2014 that combat obesity, cancer, and aging simultaneously."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Israel and Lebanon agreed to a 10-day ceasefire, with Lebanese civilians visibly celebrating their return home \u2014 a fragile but real pause in a devastating conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Elderly Japanese citizens are enrolling in smartphone courses to stay connected, refusing to be left behind by technology \u2014 a small, determined act of adaptation and resilience."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Spain is touting genuine energy resilience built on solar and wind investment, demonstrating that nations can meaningfully reduce fossil fuel dependence even amid war-driven energy shocks."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Japan is successfully extracting rare earth elements from a vast undersea Pacific deposit, quietly reducing global dependence on Chinese supply chains through patient deep-sea engineering."
+        }
+      ],
+      "mood": [
+        "discovery",
+        "resilience",
+        "breakthrough",
+        "renewal",
+        "ingenuity"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the laboratory floor, dramatic low-angle perspective tilting skyward through the interior of a warm university biochemistry lab at late evening, the ceiling receding far above into amber shadow, tall equipment racks and monitor banks rising like towers on either side, their screens casting cool blue-white light downward in dramatic shafts that cut through golden air. Dominating the entire upper center of the composition, suspended and enormous from this worm's-eye view, a massive translucent brain model glows from within, its lower hindbrain region blazing in rich emerald and gold fire while the higher hypothalamus remains completely dark \u2014 the visual story told instantly, the wrong room dark, the right room suddenly ablaze. Two tiny brilliant nodes pulse within the illuminated hindbrain like paired lanterns, connected by glowing signal lines to a third node slightly offset, forming a small luminous constellation against the deep amber ceiling. Far above, silhouetted against the brain's emerald glow, a researcher leans forward in awe, arms outstretched toward the light, face upturned and caught in an expression of stunned delight, body backlit in gold. A second figure below holds a notebook mid-scribble. On a nearby bench visible in low-angle foreshortening, a golden protein ribbon floats above a vial, and a small alert healthy mouse perches at the table edge. Rich saturated emerald and vibrant gold saturate every surface, afternoon-sun warmth bleeding through the cool scientific blue, alive and luminous."
+    }
   }
 ]
