@@ -6586,5 +6586,100 @@
       "card_image": "dawn-card-2026-04-17.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the laboratory floor, dramatic low-angle perspective tilting skyward through the interior of a warm university biochemistry lab at late evening, the ceiling receding far above into amber shadow, tall equipment racks and monitor banks rising like towers on either side, their screens casting cool blue-white light downward in dramatic shafts that cut through golden air. Dominating the entire upper center of the composition, suspended and enormous from this worm's-eye view, a massive translucent brain model glows from within, its lower hindbrain region blazing in rich emerald and gold fire while the higher hypothalamus remains completely dark \u2014 the visual story told instantly, the wrong room dark, the right room suddenly ablaze. Two tiny brilliant nodes pulse within the illuminated hindbrain like paired lanterns, connected by glowing signal lines to a third node slightly offset, forming a small luminous constellation against the deep amber ceiling. Far above, silhouetted against the brain's emerald glow, a researcher leans forward in awe, arms outstretched toward the light, face upturned and caught in an expression of stunned delight, body backlit in gold. A second figure below holds a notebook mid-scribble. On a nearby bench visible in low-angle foreshortening, a golden protein ribbon floats above a vial, and a small alert healthy mouse perches at the table edge. Rich saturated emerald and vibrant gold saturate every surface, afternoon-sun warmth bleeding through the cool scientific blue, alive and luminous."
     }
+  },
+  {
+    "date": "2026-04-18",
+    "generated_at": "2026-04-18T11:34:47.202895+00:00",
+    "doom": {
+      "percentage": 37.4,
+      "raw_percentage": 33.7,
+      "driver": "Iran closes Strait of Hormuz again until US lifts its ports blockade, hours after Trump said he was optimistic of deal.",
+      "category": "Geopolitics",
+      "blurb": "OPEN. CLOSED. OPEN. THE STRAIT THAT COULDN'T DECIDE.",
+      "summary": "In a geopolitical version of a revolving door, Iran declared the Strait of Hormuz open, oil prices cratered 11%, European stocks partied, and then \u2014 plot twist \u2014 Iran closed it again because the U.S. blockade is still very much a thing. Ships were literally caught on video turning around mid-voyage, which is the maritime equivalent of showing up to a party that was cancelled by text you didn't get. The good news: this is chaos, not escalation \u2014 and Pakistan's army chief is apparently everyone's favorite diplomatic errand boy right now.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The Hormuz open/close whiplash in a single day signals neither side has a deal \u2014 just competing PR narratives and very confused oil tanker captains."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Democrats challenging Trump's Iran war authority under the War Powers Act adds institutional friction, but hasn't slowed operations."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "OpenAI losing its Sora boss and a senior exec signals internal churn, not a dangerous capability leap \u2014 for once, AI drama is just HR drama."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Anthropic launching a dedicated cybersecurity AI model while simultaneously in a political spat with the White House is exactly the kind of subplot that ages poorly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Dairy Queen deploying an AI chatbot in drive-thrus is either the most benign AI story of the month or a harbinger of something deeply undignified for humanity."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "murky",
+        "whiplash",
+        "tense",
+        "unresolved"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside the darkened bridge of an Iranian Moudge-class frigate looking outward through the wide rectangular bridge windows, the glass smeared with salt haze and condensation casting everything beyond in a sickly orange-gold atmospheric filter, the Strait of Hormuz filling the entire exterior view at dawn, the water a deep threatening navy blue-black with orange light bleeding across the surface from a sun obscured by hydrocarbon haze on the horizon, the narrow chokepoint geography visible with a low flat scrubby island dead center in the frame bearing a tiny green-white-red Iranian flag snapping in wind, a loose cordon of low-profile dark gray-green fast attack missile boats spreading in swarm formation across the strait's width their white wakes catching orange light like slashes across dark water, barely submerged spherical black contact mines with protruding detonator horns visible just below the foreground water surface their mooring cables vanishing into darkness, on the far horizon through the haze the unmistakable enormous flat silhouette of a Nimitz-class aircraft carrier superstructure rendered in deep shadow, inside the bridge foreground dark instrument panels glow amber and red with Farsi numerals on radar screens casting harsh upward light on anonymous uniformed figures in silhouette, deep navy and smoldering orange dominate every pixel, heavy shadows crush the interior, all warmth feels threatening, no text, no antialiasing"
+    },
+    "dawn": {
+      "percentage": 62.6,
+      "driver": "Electric vehicle owners could earn thousands by supporting power grid. Electric vehicles could store renewable energy when there is excess supply and give it back to the grid when demand peaks.",
+      "category": "Technology",
+      "blurb": "YOUR CAR PAYS YOU TO SAVE THE PLANET",
+      "summary": "Even as oil prices whipsaw and the Hormuz standoff keeps energy markets on edge, a quieter energy revolution is accelerating: the vehicles sitting in millions of driveways may soon function as distributed power banks, absorbing cheap renewable energy and selling it back during peak demand. This vehicle-to-grid model doesn't just help individual owners earn thousands \u2014 it structurally weakens the grip of fossil fuel choke points like the Strait of Hormuz by making energy grids more resilient and decentralized. The friction is real \u2014 automakers still disagree on standards \u2014 but the direction is unmistakable: the clean energy transition is building its own immune system against geopolitical shocks.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New quantum sensing research using chains of atoms can detect electric fields with stunning precision, opening doors for advanced diagnostics and communications."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Vehicle-to-grid technology represents a structural shift toward renewable resilience, making clean energy grids harder to disrupt through geopolitical conflict."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Pakistan's PM and army chief are actively shuttling between Tehran and Ankara pushing for renewed US-Iran talks, keeping diplomatic channels alive despite blockade tensions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "quiet",
+          "detail": "A global animal sanctuary movement marks its first worldwide Sanctuary Day, 40 years after advocates founded the first farm animal refuge in the US."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Oil prices plunged over 9% after Iran signaled the Strait of Hormuz open \u2014 proof that diplomacy, even imperfect and contested, still moves markets faster than missiles."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "transformative",
+        "ingenious",
+        "forward-looking",
+        "empowering"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view at 45-degree angle looking down over a quiet Delaware suburban neighborhood at golden hour, vast amber-lit streetscape dominating the frame, long shadows stretching across driveways and rooftops below. A sleek Ford EV sits plugged into a wall-mounted V2G charger unit on a residential driveway, the charging cable radiating a glowing electric-blue pulse visibly flowing outward from the car toward the house and grid, reversing direction. Dozens of other parked EVs across neighboring driveways emit the same soft blue glow, connected by a faint luminous web of light stretching across rooftops like a constellation of idle energy. Solar panels on nearby rooftops catch the same warm golden-amber sun flooding the scene with deep side-lighting. On the far horizon, tiny wind turbines stand against a teal sky, their blades catching the last warm light. A tiny figure walks toward a front door with coffee in hand, completely unhurried, while the car silently earns behind them. A small digital display on the charger unit glows with climbing numbers. Deep golden hour amber and warm teal palette throughout, radiant side-lighting, long pixel shadows, the enormous scale of a neighborhood-wide energy grid made visible from above in miniature human detail."
+    }
   }
 ]

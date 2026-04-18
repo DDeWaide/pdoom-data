@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-17",
-  "generated_at": "2026-04-17T11:52:52.849996+00:00",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T11:34:47.202895+00:00",
   "doom": {
-    "percentage": 41.1,
-    "raw_percentage": 38.7,
-    "driver": "Finance ministers and top bankers raise serious concerns about Mythos AI model. Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
-    "category": "AI Capability",
-    "blurb": "THE ALGORITHM THAT EATS FIREWALLS",
-    "summary": "While diplomats celebrate a 10-day Israel-Lebanon ceasefire like it's a permanent peace deal, the financial sector is quietly panicking about an AI model apparently purpose-built to find and weaponize every vulnerability in modern infrastructure. Mythos joins a week where Anthropic dropped Opus 4.7, OpenAI's Codex literally hacked a Samsung TV for fun, and quantum computing edged closer to Q-Day \u2014 suggesting the real arms race isn't in the Strait of Hormuz. The geopolitical situation is arguably de-escalating at the margins; the AI capability situation is very much not.",
+    "percentage": 37.4,
+    "raw_percentage": 33.7,
+    "driver": "Iran closes Strait of Hormuz again until US lifts its ports blockade, hours after Trump said he was optimistic of deal.",
+    "category": "Geopolitics",
+    "blurb": "OPEN. CLOSED. OPEN. THE STRAIT THAT COULDN'T DECIDE.",
+    "summary": "In a geopolitical version of a revolving door, Iran declared the Strait of Hormuz open, oil prices cratered 11%, European stocks partied, and then \u2014 plot twist \u2014 Iran closed it again because the U.S. blockade is still very much a thing. Ships were literally caught on video turning around mid-voyage, which is the maritime equivalent of showing up to a party that was cancelled by text you didn't get. The good news: this is chaos, not escalation \u2014 and Pakistan's army chief is apparently everyone's favorite diplomatic errand boy right now.",
     "factors": [
-      {
-        "name": "AI Capability",
-        "signal": "high",
-        "detail": "Mythos AI raises alarm among finance ministers for unprecedented cyberattack potential, while Claude Opus 4.7, Qwen3.6, and OpenAI Codex all drop in the same week \u2014 capability is compounding fast."
-      },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Israel-Lebanon 10-day ceasefire is a genuine de-escalation, but the Iran war continues, spoofed tankers flood the Strait of Hormuz, and the blockade holds with no resolution in sight."
+        "detail": "The Hormuz open/close whiplash in a single day signals neither side has a deal \u2014 just competing PR narratives and very confused oil tanker captains."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "MIT Technology Review flags that 'humans in the loop' in AI warfare is an illusion, and the Pentagon-Anthropic legal battle is unresolved \u2014 oversight frameworks are lagging capability badly."
+        "detail": "Democrats challenging Trump's Iran war authority under the War Powers Act adds institutional friction, but hasn't slowed operations."
       },
       {
-        "name": "Alignment",
-        "signal": "elevated",
-        "detail": "An AI model specifically flagged by global finance and banking officials for its ability to exploit cybersecurity weaknesses represents a concrete, near-term alignment-adjacent harm scenario."
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "OpenAI losing its Sora boss and a senior exec signals internal churn, not a dangerous capability leap \u2014 for once, AI drama is just HR drama."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Recent advances push Big Tech closer to Q-Day according to Ars Technica, meaning post-quantum crypto transition urgency is rising just as state-level cyber tensions are spiking."
+        "detail": "Anthropic launching a dedicated cybersecurity AI model while simultaneously in a political spat with the White House is exactly the kind of subplot that ages poorly."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Dairy Queen deploying an AI chatbot in drive-thrus is either the most benign AI story of the month or a harbinger of something deeply undignified for humanity."
       }
     ],
     "mood": [
-      "ominous",
-      "accelerating",
-      "fragile",
-      "technical",
-      "unsettled"
+      "volatile",
+      "murky",
+      "whiplash",
+      "tense",
+      "unresolved"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, deep shadows dominating every corner, all light sourced from artificial glows \u2014 a vast IMF conference room interior viewed in dramatic perspective, long polished obsidian table stretching toward a vanishing point, tiered rows of empty delegate seats fading into darkness at the edges, the far wall dominated by a massive presentation screen casting sickly crimson and white light across the room, the screen displaying a branching exploit tree diagram \u2014 crack-like red lines fracturing outward like broken glass from a central node, beside it a stylized AI interface chat window showing cascading flagged vulnerability outputs in amber and red, the IMF logo visible in deep shadow above the screen, simultaneous translation booths lining the walls rendered as dark glass rectangles reflecting the screen's crimson glow, scattered across the long table open folders stamped with official seals, laptop screens glowing cold white showing terminal outputs, and at the table's center a single pinned specimen \u2014 a glasswing butterfly, wings rendered in translucent pixel shimmer, its see-through wings revealing the fractured exploit tree behind it, the entire scene bathed in dark crimson and charcoal with firelight-warm reflections bleeding across the polished table surface, heavy oppressive shadows pressing in from all sides, no people present \u2014 only the evidence of a crisis meeting recently abandoned, cherry blossom branches faintly visible through a tall darkened window behind the screen, pale pink against black Washington DC night sky, no text, no antialiasing, high contrast, 16-bit SNES pixel art.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-17.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-04-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene viewed from inside the darkened bridge of an Iranian Moudge-class frigate looking outward through the wide rectangular bridge windows, the glass smeared with salt haze and condensation casting everything beyond in a sickly orange-gold atmospheric filter, the Strait of Hormuz filling the entire exterior view at dawn, the water a deep threatening navy blue-black with orange light bleeding across the surface from a sun obscured by hydrocarbon haze on the horizon, the narrow chokepoint geography visible with a low flat scrubby island dead center in the frame bearing a tiny green-white-red Iranian flag snapping in wind, a loose cordon of low-profile dark gray-green fast attack missile boats spreading in swarm formation across the strait's width their white wakes catching orange light like slashes across dark water, barely submerged spherical black contact mines with protruding detonator horns visible just below the foreground water surface their mooring cables vanishing into darkness, on the far horizon through the haze the unmistakable enormous flat silhouette of a Nimitz-class aircraft carrier superstructure rendered in deep shadow, inside the bridge foreground dark instrument panels glow amber and red with Farsi numerals on radar screens casting harsh upward light on anonymous uniformed figures in silhouette, deep navy and smoldering orange dominate every pixel, heavy shadows crush the interior, all warmth feels threatening, no text, no antialiasing",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-18.png"
   },
   "dawn": {
-    "percentage": 58.9,
-    "driver": "Scientists discover natural hormone that reverses obesity. A hormone called FGF21 can reverse obesity in mice by activating a newly identified brain circuit tied to metabolism. Surprisingly, it works in the hindbrain\u2014the same region targeted by GLP-1 drugs like Ozempic.",
-    "category": "Medicine",
-    "blurb": "NATURE'S OWN CURE REWIRES THE BODY",
-    "summary": "Even as geopolitical fires burn from the Strait of Hormuz to Lebanon, scientists quietly delivered a remarkable finding: a naturally occurring hormone can reverse obesity by targeting a newly mapped brain circuit \u2014 no synthetic drug required. This builds on a stunning week of metabolic science, following Stanford's 'natural Ozempic' discovery days ago, suggesting we are entering a golden era of understanding how the body heals itself. In a world where chronic disease burdens billions, breakthroughs like FGF21 represent the kind of quiet, compounding progress that outlasts any news cycle.",
+    "percentage": 62.6,
+    "driver": "Electric vehicle owners could earn thousands by supporting power grid. Electric vehicles could store renewable energy when there is excess supply and give it back to the grid when demand peaks.",
+    "category": "Technology",
+    "blurb": "YOUR CAR PAYS YOU TO SAVE THE PLANET",
+    "summary": "Even as oil prices whipsaw and the Hormuz standoff keeps energy markets on edge, a quieter energy revolution is accelerating: the vehicles sitting in millions of driveways may soon function as distributed power banks, absorbing cheap renewable energy and selling it back during peak demand. This vehicle-to-grid model doesn't just help individual owners earn thousands \u2014 it structurally weakens the grip of fossil fuel choke points like the Strait of Hormuz by making energy grids more resilient and decentralized. The friction is real \u2014 automakers still disagree on standards \u2014 but the direction is unmistakable: the clean energy transition is building its own immune system against geopolitical shocks.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Multiple independent teams this week identified natural biological mechanisms \u2014 hormones, proteins, immune circuits \u2014 that combat obesity, cancer, and aging simultaneously."
+        "signal": "bright",
+        "detail": "New quantum sensing research using chains of atoms can detect electric fields with stunning precision, opening doors for advanced diagnostics and communications."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "Vehicle-to-grid technology represents a structural shift toward renewable resilience, making clean energy grids harder to disrupt through geopolitical conflict."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Israel and Lebanon agreed to a 10-day ceasefire, with Lebanese civilians visibly celebrating their return home \u2014 a fragile but real pause in a devastating conflict."
+        "detail": "Pakistan's PM and army chief are actively shuttling between Tehran and Ankara pushing for renewed US-Iran talks, keeping diplomatic channels alive despite blockade tensions."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Elderly Japanese citizens are enrolling in smartphone courses to stay connected, refusing to be left behind by technology \u2014 a small, determined act of adaptation and resilience."
-      },
-      {
-        "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Spain is touting genuine energy resilience built on solar and wind investment, demonstrating that nations can meaningfully reduce fossil fuel dependence even amid war-driven energy shocks."
+        "signal": "quiet",
+        "detail": "A global animal sanctuary movement marks its first worldwide Sanctuary Day, 40 years after advocates founded the first farm animal refuge in the US."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Japan is successfully extracting rare earth elements from a vast undersea Pacific deposit, quietly reducing global dependence on Chinese supply chains through patient deep-sea engineering."
+        "signal": "glimmer",
+        "detail": "Oil prices plunged over 9% after Iran signaled the Strait of Hormuz open \u2014 proof that diplomacy, even imperfect and contested, still moves markets faster than missiles."
       }
     ],
     "mood": [
-      "discovery",
-      "resilience",
-      "breakthrough",
-      "renewal",
-      "ingenuity"
+      "resilient",
+      "transformative",
+      "ingenious",
+      "forward-looking",
+      "empowering"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the laboratory floor, dramatic low-angle perspective tilting skyward through the interior of a warm university biochemistry lab at late evening, the ceiling receding far above into amber shadow, tall equipment racks and monitor banks rising like towers on either side, their screens casting cool blue-white light downward in dramatic shafts that cut through golden air. Dominating the entire upper center of the composition, suspended and enormous from this worm's-eye view, a massive translucent brain model glows from within, its lower hindbrain region blazing in rich emerald and gold fire while the higher hypothalamus remains completely dark \u2014 the visual story told instantly, the wrong room dark, the right room suddenly ablaze. Two tiny brilliant nodes pulse within the illuminated hindbrain like paired lanterns, connected by glowing signal lines to a third node slightly offset, forming a small luminous constellation against the deep amber ceiling. Far above, silhouetted against the brain's emerald glow, a researcher leans forward in awe, arms outstretched toward the light, face upturned and caught in an expression of stunned delight, body backlit in gold. A second figure below holds a notebook mid-scribble. On a nearby bench visible in low-angle foreshortening, a golden protein ribbon floats above a vial, and a small alert healthy mouse perches at the table edge. Rich saturated emerald and vibrant gold saturate every surface, afternoon-sun warmth bleeding through the cool scientific blue, alive and luminous.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-17.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-04-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view at 45-degree angle looking down over a quiet Delaware suburban neighborhood at golden hour, vast amber-lit streetscape dominating the frame, long shadows stretching across driveways and rooftops below. A sleek Ford EV sits plugged into a wall-mounted V2G charger unit on a residential driveway, the charging cable radiating a glowing electric-blue pulse visibly flowing outward from the car toward the house and grid, reversing direction. Dozens of other parked EVs across neighboring driveways emit the same soft blue glow, connected by a faint luminous web of light stretching across rooftops like a constellation of idle energy. Solar panels on nearby rooftops catch the same warm golden-amber sun flooding the scene with deep side-lighting. On the far horizon, tiny wind turbines stand against a teal sky, their blades catching the last warm light. A tiny figure walks toward a front door with coffee in hand, completely unhurried, while the car silently earns behind them. A small digital display on the charger unit glows with climbing numbers. Deep golden hour amber and warm teal palette throughout, radiant side-lighting, long pixel shadows, the enormous scale of a neighborhood-wide energy grid made visible from above in miniature human detail.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-18.png"
   }
 }
