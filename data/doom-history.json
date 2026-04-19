@@ -6681,5 +6681,99 @@
       "card_image": "dawn-card-2026-04-18.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view at 45-degree angle looking down over a quiet Delaware suburban neighborhood at golden hour, vast amber-lit streetscape dominating the frame, long shadows stretching across driveways and rooftops below. A sleek Ford EV sits plugged into a wall-mounted V2G charger unit on a residential driveway, the charging cable radiating a glowing electric-blue pulse visibly flowing outward from the car toward the house and grid, reversing direction. Dozens of other parked EVs across neighboring driveways emit the same soft blue glow, connected by a faint luminous web of light stretching across rooftops like a constellation of idle energy. Solar panels on nearby rooftops catch the same warm golden-amber sun flooding the scene with deep side-lighting. On the far horizon, tiny wind turbines stand against a teal sky, their blades catching the last warm light. A tiny figure walks toward a front door with coffee in hand, completely unhurried, while the car silently earns behind them. A small digital display on the charger unit glows with climbing numbers. Deep golden hour amber and warm teal palette throughout, radiant side-lighting, long pixel shadows, the enormous scale of a neighborhood-wide energy grid made visible from above in miniature human detail."
     }
+  },
+  {
+    "date": "2026-04-19",
+    "generated_at": "2026-04-19T11:35:39.637090+00:00",
+    "doom": {
+      "percentage": 37.8,
+      "raw_percentage": 34.7,
+      "driver": "North Korea launches ballistic missiles toward sea.",
+      "category": "Nuclear",
+      "blurb": "PYONGYANG SENDS ANOTHER REMINDER IT EXISTS",
+      "summary": "While the world's eyes remain glued to the Strait of Hormuz soap opera on day 51, North Korea quietly lobbed ballistic missiles into the sea \u2014 the geopolitical equivalent of clearing your throat loudly at a party. Between Kim's missile flex, a French peacekeeper killed in Lebanon (Hezbollah says 'wasn't us,' Macron says 'yes it was'), and humanoid robots outrunning humans in Beijing, the doom is spread thin but wide today. No single escalation, just the steady hum of a world with too many loaded guns and too few adults.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "North Korea's missile launch, a French peacekeeper killed in Lebanon, and the US-Iran ceasefire expiring with no deal in sight add up to a crowded threat board."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Zelensky condemning the US extension of Russian sanctions waivers signals deepening fractures in the Western coalition, even as Wall Street posts a record-setting week."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Humanoid robots beat the human half-marathon world record in Beijing, and Anthropic's Mythos model is serious enough to prompt White House meetings \u2014 capability is accelerating visibly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "The White House-Anthropic meeting being described as 'productive' suggests at least some adults are in the room, though 'productive' is doing a lot of work there."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Traders placed over $1 billion in perfectly timed bets on the Iran war \u2014 either someone has extraordinary intelligence or the information environment around the conflict is already badly compromised."
+        }
+      ],
+      "mood": [
+        "simmering",
+        "scattered",
+        "twitchy",
+        "volatile"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 thick marine fog and cold April haze swallow the jagged North Korean coastline near Sinpo, the Sea of Japan barely visible as a flat steel-grey smear beyond the rocky shoreline, mountains behind reduced to dark silhouettes bleeding into low overcast cloud, the entire scene drained of warmth except for one source \u2014 a colossal deep orange and white exhaust bloom punching upward through the fog from a massive dark-green TEL truck on the coastal lowland, the missile already vanished into the overcast above, only the churning pillar of smoke and fire remaining, grey-black billowing clouds rolling outward across the frozen spring hillside, patches of dirty snow visible on the steep ridgelines, bare brown trees barely budding along the slopes, the smoke column reflected as smoldering amber in the choppy grey-green sea below, a second TEL truck angled skyward visible through the haze to the left, its dark multi-axle silhouette heavy against the scorched earth, deep navy shadows dominating the foreground rocks and shore, the threatening orange warmth of the exhaust bloom the only light source, fog diffusing everything into a cold filtered murk, no figures visible, pure atmosphere of coiled industrial threat, no text, no antialiasing, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 62.2,
+      "driver": "Artificial neurons successfully communicate with living brain cells. Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones.",
+      "category": "Science",
+      "blurb": "PRINTED NEURONS TALK TO LIVING BRAINS",
+      "summary": "Even as the world grapples with blockades, weapons buildups, and AI anxiety, Northwestern's engineers quietly achieved something that would have seemed like science fiction a decade ago: printed artificial neurons that genuinely communicate with living brain cells. This isn't a simulation or a metaphor \u2014 it's a physical, functional bridge between silicon and biology. In a week heavy with geopolitical dread, this breakthrough quietly reminds us that human ingenuity is still running at full tilt, building tools that could one day restore memory, treat neurological disease, and fundamentally expand what it means to be human.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Northwestern's printed artificial neurons communicating with living brain cells represents a genuine milestone in neurotechnology with enormous therapeutic potential."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "White House and Anthropic held a 'productive' meeting amid AI fears, suggesting adversarial government-tech posturing is giving way to cautious dialogue."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Canadian astronaut speaking French from space turned a bitter domestic language spat into a moment of grace, humor, and national reconciliation."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "NIST scientists creating 'any wavelength' lasers in tiny circuits opens new paths for precision environmental sensing and clean energy research."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Walking more significantly lowers risk of death regardless of how much you sit, per a study of 72,000 people \u2014 simple, free, and immediately actionable good news for everyone."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "wonder",
+        "possibility",
+        "resilience",
+        "ingenuity"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single translucent polymer film artificial neuron, gossamer-thin and nearly transparent, its surface printed with glimmering silver-gray graphene and molybdenum disulfide pathways that branch and fork like frost crystals or dendrite trees across the flexible sheet. Deep golden amber light rakes across the film from the side, casting long warm shadows along every nanoscale ridge and channel, while a cool teal glow radiates up from beneath \u2014 the faint illumination of a nutrient solution dish below, the brain tissue's ghostly pink-gray edge barely visible as a soft blur in the lower corner of the frame. The conductive pathways shimmer with iridescent mother-of-pearl quality, amber and teal catching in the metallic flakes like oil on water. One hair-thin electrode probe tip enters from the upper right edge, its silver needle catching the golden sidelight, hovering at the junction point where artificial meets biological. At the extreme edge, a fragment of an oscilloscope monitor screen bleeds in from the left, its single jagged neural spike waveform rendered in glowing teal-white pixels \u2014 the electrical voice of a living brain cell answering back. Radiant, hushed, extraordinary."
+    }
   }
 ]
