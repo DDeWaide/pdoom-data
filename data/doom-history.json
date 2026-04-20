@@ -6775,5 +6775,100 @@
       "card_image": "dawn-card-2026-04-19.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single translucent polymer film artificial neuron, gossamer-thin and nearly transparent, its surface printed with glimmering silver-gray graphene and molybdenum disulfide pathways that branch and fork like frost crystals or dendrite trees across the flexible sheet. Deep golden amber light rakes across the film from the side, casting long warm shadows along every nanoscale ridge and channel, while a cool teal glow radiates up from beneath \u2014 the faint illumination of a nutrient solution dish below, the brain tissue's ghostly pink-gray edge barely visible as a soft blur in the lower corner of the frame. The conductive pathways shimmer with iridescent mother-of-pearl quality, amber and teal catching in the metallic flakes like oil on water. One hair-thin electrode probe tip enters from the upper right edge, its silver needle catching the golden sidelight, hovering at the junction point where artificial meets biological. At the extreme edge, a fragment of an oscilloscope monitor screen bleeds in from the left, its single jagged neural spike waveform rendered in glowing teal-white pixels \u2014 the electrical voice of a living brain cell answering back. Radiant, hushed, extraordinary."
     }
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T12:04:39.007601+00:00",
+    "doom": {
+      "percentage": 41.5,
+      "raw_percentage": 41.7,
+      "driver": "'Resumption of hostilities': Seized ship, vessel attacks push U.S.-Iran ceasefire toward brink.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE EXPIRES WEDNESDAY. SHIPS ON FIRE NOW.",
+      "summary": "The U.S. struck and seized the Iranian-flagged Touska in the Strait of Hormuz, Iran is rebuffing peace talks, and the two-week ceasefire expires Wednesday \u2014 which is to say, the ceasefire is doing ceasefire things. Tehran, which 'will never cede control' of the Strait per a senior politician, is also allegedly running arms to Sudan via Los Angeles, because apparently one war at a time is for quitters. Oil prices are surging, European stocks are sliding, and the window for diplomacy is narrowing faster than a shipping lane.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S. forces struck and seized Iranian cargo ship Touska; Iran rebuffed new peace talks and the ceasefire expires Wednesday with both sides escalating in the Strait of Hormuz."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's tariff refund portal launches after Supreme Court defeat while BBC reports a pattern of insider trading spikes ahead of presidential announcements \u2014 institutional credibility fraying on multiple fronts."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Humanoid robots outpaced the human half-marathon world record in Beijing and BMW is deploying them on factory floors \u2014 the robotic transition from novelty to infrastructure is accelerating quietly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Changes detected between Claude Opus 4.6 and 4.7 system prompts are drawing scrutiny on Hacker News, flagging incremental but opaque shifts in frontier model behavior."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A magnitude 7.5 earthquake off northern Japan triggered a tsunami warning, a Louisiana mass shooting killed eight children, and rat poison was found in Austrian baby food \u2014 the background noise of a world running hot."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "teetering",
+        "escalatory",
+        "fragile",
+        "urgent"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the Strait of Hormuz at last light, the sky behind burning in deep crimson and smoldering amber, a column of black smoke rising from the center of the frame and bleeding upward into a charcoal sky, its base glowing like cooling iron. The arid ochre cliffs of Oman's coastline form a dark jagged silhouette along the lower left horizon, flat and absolute against the infernal backlight. Dead center in the strait, the hard black silhouette of a mid-size container ship sits motionless on the silvery-crimson water, its stacked container geometry unmistakable \u2014 rectangular box towers rising from the deck, the stern flagpole visible with a tricolor flag hanging limp, the entire vessel backlit into pure shadow. To its right, the low sharp silhouette of an Arleigh Burke-class guided-missile destroyer cuts across the glowing water, its flat Aegis radar panels and single forward deck gun recognizable as clean geometric shapes in black. In the foreground, two small low-slung speedboat silhouettes \u2014 fiberglass-hulled, bristling with angular mounted hardware \u2014 sit motionless on the mirror-like water, their reflections perfect dark daggers pointing downward into the crimson glare. The sea surface is glassy and still, reflecting the burning sky in deep blood-red and molten orange. No motion. No text. Pure silhouette tension. Dark crimson, charcoal black, smoldering amber. High contrast. No antialiasing."
+    },
+    "dawn": {
+      "percentage": 58.5,
+      "driver": "After 200 years scientists finally crack the 'dolomite problem'. After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle.",
+      "category": "Science",
+      "blurb": "200-YEAR MYSTERY SOLVED. SCIENCE WINS AGAIN.",
+      "summary": "While geopolitical headlines paint a grim picture of seized ships and strait closures, science quietly delivered a landmark achievement: researchers finally grew dolomite in a laboratory after two centuries of failed attempts. The so-called dolomite problem has stumped geologists since the 1800s, and cracking it unlocks new understanding of Earth's geological history and carbon cycling. On days when human conflict dominates the feed, the patient, persistent work of scientists reminds us that some problems \u2014 even 200-year-old ones \u2014 do eventually yield to human curiosity.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Solving the dolomite problem after two centuries demonstrates that even the most stubborn scientific mysteries are ultimately within humanity's grasp."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran peace talk envoys are still named and preparing to travel, suggesting diplomatic channels have not fully collapsed despite the seized ship crisis."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Goldman Prize winner in Papua New Guinea led community-driven repair of rainforest damage from a copper mine, proving grassroots environmental action can succeed against industrial harm."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists developed a dirt-powered fuel cell using soil microbes to generate electricity, offering a battery-free future for underground environmental sensors."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Simple daily toothbrushing in hospitals was found to significantly reduce pneumonia risk, a low-cost, immediately actionable discovery that could save lives worldwide."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "persistent",
+        "curious",
+        "resilient",
+        "illuminating"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating the frame. A university research laboratory at midnight, dark countertops stretching into shadow, the room defined by pools of cool blue-white glow from monitor screens displaying glowing atomic lattice structures \u2014 alternating rows of warm gold calcium atoms and cool emerald-silver magnesium atoms arranged in perfect repeating layers, saturated and jewel-bright against the darkness. At the room's center, a towering gun-metal gray transmission electron microscope rises nearly floor-to-ceiling, its vacuum column and thick cables disappearing into deep shadow, its beam chamber emitting rhythmic pale blue-white pulses of light that strobe across the surrounding surfaces in short brilliant flashes. On a sample stage beside the instrument, a tiny glass dish holds a shallow pool of milky calcium-magnesium solution, a microscopic dolomite crystal at its center catching the pulsing electron beam light and scattering it into rich gold and vibrant emerald refractions across the dark countertop like scattered gemstones. A young scientist leans forward toward the lattice monitor, face illuminated in cool blue, expression suspended between exhaustion and electric revelation. Through a tall lab window behind the equipment, barely visible in darkness, the jagged silhouette of ancient mountain peaks looms \u2014 pale rose-gray ghost forms dissolving into the night sky, two centuries of unanswered questions fading as emerald and gold light spills forward into the present."
+    }
   }
 ]
