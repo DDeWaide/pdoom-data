@@ -6870,5 +6870,100 @@
       "card_image": "dawn-card-2026-04-20.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating the frame. A university research laboratory at midnight, dark countertops stretching into shadow, the room defined by pools of cool blue-white glow from monitor screens displaying glowing atomic lattice structures \u2014 alternating rows of warm gold calcium atoms and cool emerald-silver magnesium atoms arranged in perfect repeating layers, saturated and jewel-bright against the darkness. At the room's center, a towering gun-metal gray transmission electron microscope rises nearly floor-to-ceiling, its vacuum column and thick cables disappearing into deep shadow, its beam chamber emitting rhythmic pale blue-white pulses of light that strobe across the surrounding surfaces in short brilliant flashes. On a sample stage beside the instrument, a tiny glass dish holds a shallow pool of milky calcium-magnesium solution, a microscopic dolomite crystal at its center catching the pulsing electron beam light and scattering it into rich gold and vibrant emerald refractions across the dark countertop like scattered gemstones. A young scientist leans forward toward the lattice monitor, face illuminated in cool blue, expression suspended between exhaustion and electric revelation. Through a tall lab window behind the equipment, barely visible in darkness, the jagged silhouette of ancient mountain peaks looms \u2014 pale rose-gray ghost forms dissolving into the night sky, two centuries of unanswered questions fading as emerald and gold light spills forward into the present."
     }
+  },
+  {
+    "date": "2026-04-21",
+    "generated_at": "2026-04-21T12:00:48.201752+00:00",
+    "doom": {
+      "percentage": 39.5,
+      "raw_percentage": 38.7,
+      "driver": "US, Iran exchange threats as fragile ceasefire set to expire.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE CLOCK HITS ZERO. TALKS IN DOUBT.",
+      "summary": "The U.S.-Iran ceasefire is expiring today with Tehran openly reluctant to attend peace talks in Pakistan \u2014 and Washington still refusing to lift its Hormuz blockade until a deal is struck. That's a fun negotiating circle: no talks without a deal, no deal without talks. Meanwhile Japan has quietly scrapped its postwar arms export ban, the U.S. is restricting intelligence with South Korea over an NK nuclear site leak, and global food catastrophe fears are quietly growing in the background \u2014 it's a Tuesday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S.-Iran ceasefire expiring with peace talks uncertain, threats being exchanged, and a seized Iranian cargo ship adding fresh friction."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "U.S. restricts intelligence sharing with South Korea after a minister publicly identified a suspected North Korean nuclear site \u2014 allies punished for transparency."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Anthropic's Mythos AI model is drawing fresh alarm over turbocharged hacking capabilities, with cyberdefenses potentially outpaced by the threat."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Japan scrapping its postwar ban on lethal weapons exports is a historic posture shift \u2014 subtle today, potentially load-bearing in any future Pacific escalation."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Science Daily flags AI swarms infiltrating online communities to steer public opinion \u2014 slow-burn influence risk, not an acute event."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "expiring",
+        "fragile",
+        "ratcheting",
+        "historical"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level low-angle view looking straight up from the wet deck of an Arleigh Burke-class guided-missile destroyer, the steel grey hull plates and deck-mounted Mk 45 naval gun barrel looming massive overhead against a pre-dawn Persian Gulf sky bruised deep navy and purple-black, the eastern horizon over the Gulf of Oman just beginning to smolder with a thin threatening line of smoldering orange light, a rust-streaked dark-red tanker hull visible beyond the warship's superstructure with a limp Iranian tricolor flag hanging at its stern, the towering radar mast and communications array silhouetted against the poisoned sky like a black iron cathedral, offshore drilling platform flare stacks burning fierce orange in the far background casting petroleum-orange reflections across the glassy Strait of Hormuz water visible at the frame's edges, a digital countdown clock mounted on a bulkhead overhead glowing cold white numerals in the heavy shadows, the entire scene dominated by deep navy darkness with only the threatening warmth of distant flares and horizon glow cutting through, smoke-hazed air diffusing every light source into smoldering halos, dramatic upward perspective making the warship's superstructure feel crushing and monolithic, no text, no antialiasing, 16-bit SNES pixel art style."
+    },
+    "dawn": {
+      "percentage": 60.5,
+      "driver": "These California bees are beating a killer that's wiping out colonies. A unique hybrid honeybee thriving in Southern California may hold a powerful clue to saving struggling bee populations. While U.S. beekeepers are losing massive numbers of colonies\u2014largely due to destructive parasites\u2014this resilient hybrid is surviving and thriving.",
+      "category": "Science",
+      "blurb": "BEES FIGHT BACK \u2014 AND THEY'RE WINNING",
+      "summary": "At a moment when ceasefire clocks are ticking and global supply chains are fraying, nature is quietly solving one of its own crises. A hybrid honeybee in Southern California has developed resilience against the varroa mite \u2014 the single greatest driver of colony collapse threatening global food security. Bees pollinate roughly one-third of everything we eat, so this discovery isn't just charming; it's a potential turning point for agriculture and ecosystems worldwide.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A naturally evolved hybrid bee population is demonstrating resistance to colony collapse, offering a potential biological solution without genetic engineering or chemical intervention."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Healthy bee populations are a keystone indicator of ecosystem stability \u2014 this discovery ripples outward into food security, biodiversity, and agricultural resilience globally."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Beekeepers who have watched helplessly as colonies died by the millions now have a genuinely promising lead to study and potentially replicate across other regions."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "quiet",
+          "detail": "The research builds on decades of shared scientific data between agricultural researchers, conservation biologists, and amateur beekeepers who documented the crisis together."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Clean electricity meeting all new global demand (per Ember's latest report) and bee resilience emerging simultaneously suggests ecological and energy systems may be stabilizing faster than feared."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "renewal",
+        "breakthrough",
+        "hope",
+        "abundance"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene looking outward through the wide open doorway of a weathered wooden beehive shed at UC Riverside apiary, the doorframe and rough timber walls dominating the foreground in deep amber shadow, golden hour California light flooding in from outside where rows of faded white and blue hive boxes stretch across a sun-drenched field of flowering sage and dry golden hills. From within the cool darkness of the shed interior, a wooden frame of glowing honeycomb sits propped in the foreground, hexagonal brood cells rendered in luminous amber and deep gold, a long-bodied hybrid queen bee moving across the comb surrounded by worker bees alive with subtle variation in their banding. Tiny rust-red varroa mite specks are visible on a separate discarded frame leaning against the dark interior wall \u2014 conspicuously absent from the thriving queen's comb. Through the doorway a young researcher in a white protective veil and jacket crouches beside a hive box in brilliant side-lit golden hour light, long shadows stretching across the apiary field. A eucalyptus tree with a shadowed hollow cavity is visible in the warm middle distance against teal-blue sky. Deep golden amber and warm teal palette, radiant side-lighting, long dramatic shadows, luminous comb glow contrasting cool shed interior."
+    }
   }
 ]
