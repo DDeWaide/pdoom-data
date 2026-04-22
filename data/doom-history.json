@@ -6965,5 +6965,100 @@
       "card_image": "dawn-card-2026-04-21.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene looking outward through the wide open doorway of a weathered wooden beehive shed at UC Riverside apiary, the doorframe and rough timber walls dominating the foreground in deep amber shadow, golden hour California light flooding in from outside where rows of faded white and blue hive boxes stretch across a sun-drenched field of flowering sage and dry golden hills. From within the cool darkness of the shed interior, a wooden frame of glowing honeycomb sits propped in the foreground, hexagonal brood cells rendered in luminous amber and deep gold, a long-bodied hybrid queen bee moving across the comb surrounded by worker bees alive with subtle variation in their banding. Tiny rust-red varroa mite specks are visible on a separate discarded frame leaning against the dark interior wall \u2014 conspicuously absent from the thriving queen's comb. Through the doorway a young researcher in a white protective veil and jacket crouches beside a hive box in brilliant side-lit golden hour light, long shadows stretching across the apiary field. A eucalyptus tree with a shadowed hollow cavity is visible in the warm middle distance against teal-blue sky. Deep golden amber and warm teal palette, radiant side-lighting, long dramatic shadows, luminous comb glow contrasting cool shed interior."
     }
+  },
+  {
+    "date": "2026-04-22",
+    "generated_at": "2026-04-22T12:00:44.174923+00:00",
+    "doom": {
+      "percentage": 39.2,
+      "raw_percentage": 38.7,
+      "driver": "Anthropic's most dangerous AI model just fell into the wrong hands. Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports.",
+      "category": "AI Capability",
+      "blurb": "THE DANGEROUS ONE GOT OUT",
+      "summary": "The AI model Anthropic literally described as 'dangerous in the wrong hands' has now been accessed by... the wrong hands. Meanwhile, Mythos separately found 271 Firefox security vulnerabilities in what appears to be its free time, and Amazon just handed Anthropic $5 billion to make more of it. The Strait of Hormuz ships-on-fire situation continues its exhausting will-they-won't-they arc, but today's real news is that the cyber-capable AI escaped containment before containment was even finished being built.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "Anthropic's Mythos \u2014 a model capable of finding hundreds of zero-day exploits \u2014 was accessed by unauthorized users the same week it publicly humiliated Firefox's security team."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Meta plans to harvest employee keystrokes and mouse movements for AI training, while regulators remain largely absent from the oversight picture."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran seized two ships in the Strait of Hormuz hours after Trump extended the ceasefire, and Singapore's foreign minister called Hormuz a 'dry run' for a potential US-China Pacific war."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "An AI model explicitly flagged by its own creators as too dangerous for broad release has now demonstrated that access controls are insufficient \u2014 a textbook alignment-adjacent containment failure."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "New gas-powered data centers linked to OpenAI, Meta, and xAI could emit more greenhouse gases annually than entire nations, quietly compounding long-term climate risk."
+        }
+      ],
+      "mood": [
+        "breach",
+        "escalating",
+        "uncontained",
+        "ominous",
+        "frantic"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view looking down at a 45-degree angle, vast suburban rooftop landscape dominates the frame \u2014 a grid of identical early-spring American subdivision rooftops stretches to the horizon under a deep navy sky, bare tree branches just beginning to bud poking between houses, blackout curtains visible in one basement window glowing a hot smoldering orange from within, that single lit room the only warmth in a cold sleeping neighborhood, the aerial perspective making every house look identical except this one, this ordinary ranch-style home radiating something wrong from its screens below \u2014 tiny anonymous figure barely visible as a dark hoodie silhouette through the window, hunched over multiple glowing monitors arranged in an arc, the screens casting amber and white terminal-glow light upward through the glass, a corporate lanyard hanging off a monitor corner catching the light like a small flag, a semi-transparent glasswing butterfly sticker barely visible on a laptop lid, elsewhere in the composition a cold fluorescent-blue data center corridor cuts diagonally through the lower third like a slash wound in the earth, rows of black server racks blinking amber and green in geometric precision, deep navy shadows dominate everything, warmth feels threatening, smoke-filtered atmosphere diffuses all light into a heavy orange haze, no text, no antialiasing, 16-bit SNES pixel art."
+    },
+    "dawn": {
+      "percentage": 60.8,
+      "driver": "Domestic workers legally recognised in Indonesia after '22-year struggle'. The country is home to some 4.2 million domestic workers - of which almost 90% are women.",
+      "category": "Human Spirit",
+      "blurb": "22 YEARS LATER, 4.2 MILLION WORKERS FINALLY SEE JUSTICE",
+      "summary": "Against a backdrop of war, seizures in the Strait of Hormuz, and geopolitical chaos, Indonesia just delivered something quietly extraordinary: legal recognition for 4.2 million domestic workers \u2014 mostly women \u2014 after a 22-year campaign. This is what stubborn, sustained human solidarity looks like. It won't make the crisis headlines, but for millions of people who cook, clean, and care for others in legal invisibility, today marks a real and irreversible win that no ceasefire can take away.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A 22-year grassroots labor campaign achieving legal recognition for millions of marginalized women workers is a masterclass in sustained, nonviolent social change."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Indonesia's parliament passing landmark worker protections signals that democratic institutions can still deliver meaningful justice for the most vulnerable."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "JWST discovering water-ice clouds on a distant exoplanet and MIT researchers finding a natural protein that may protect the GI tract from infection show discovery marching on regardless of geopolitics."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New AI-driven ocean current mapping (GOFLOW) gives scientists unprecedented visibility into fast-moving sea dynamics, a quiet tool upgrade for climate resilience."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A final-stage mRNA bird flu vaccine trial has begun \u2014 the same platform technology that defeated COVID is being primed before a potential pandemic even arrives."
+        }
+      ],
+      "mood": [
+        "tenacious",
+        "dignified",
+        "overdue",
+        "transformative",
+        "collective"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene, warm tropical rain falling in golden amber curtains through equatorial morning light, Jakarta visible as a soft haze of domes and pillars dissolving into mist in the background, the downpour catching sunlight and turning every raindrop into a filament of gold and teal. The atmosphere is primary \u2014 thick, luminous, rain-filtered, every element seen through gauze and shimmer. In the middle ground, a group of Indonesian women in simple batik aprons and headscarves stand together in the rain, not sheltering from it, arms around each other, faces tilted upward. The foreground figure holds a crisp legal document pressed to her chest with both worn, calloused hands, eyes closed, a single pixel-bright tear on her cheek catching the amber light. Behind her, a vast soft-focus crowd of women stretches back into the golden rain-haze, faces fading into the weather like a sea dissolving into atmosphere. A broom rests gently against a tiled wall to one side, its handle wet with rain. The number 22 is scratched faintly into the plaster behind it. Deep golden hour amber and warm teal color palette throughout, rain as radiant light, long side-shadows through the downpour, triumphant and tender."
+    }
   }
 ]
