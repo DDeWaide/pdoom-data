@@ -7060,5 +7060,99 @@
       "card_image": "dawn-card-2026-04-22.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene, warm tropical rain falling in golden amber curtains through equatorial morning light, Jakarta visible as a soft haze of domes and pillars dissolving into mist in the background, the downpour catching sunlight and turning every raindrop into a filament of gold and teal. The atmosphere is primary \u2014 thick, luminous, rain-filtered, every element seen through gauze and shimmer. In the middle ground, a group of Indonesian women in simple batik aprons and headscarves stand together in the rain, not sheltering from it, arms around each other, faces tilted upward. The foreground figure holds a crisp legal document pressed to her chest with both worn, calloused hands, eyes closed, a single pixel-bright tear on her cheek catching the amber light. Behind her, a vast soft-focus crowd of women stretches back into the golden rain-haze, faces fading into the weather like a sea dissolving into atmosphere. A broom rests gently against a tiled wall to one side, its handle wet with rain. The number 22 is scratched faintly into the plaster behind it. Deep golden hour amber and warm teal color palette throughout, rain as radiant light, long side-shadows through the downpour, triumphant and tender."
     }
+  },
+  {
+    "date": "2026-04-23",
+    "generated_at": "2026-04-23T12:00:10.029353+00:00",
+    "doom": {
+      "percentage": 39.1,
+      "raw_percentage": 38.7,
+      "driver": "'We are facing the biggest energy security threat in history,' IEA chief tells CNBC.",
+      "category": "Geopolitics",
+      "blurb": "HALF THE WORLD'S OIL SUPPLY IS HAVING A MOMENT",
+      "summary": "The IEA chief doesn't usually reach for superlatives, so 'biggest energy security threat in history' is the kind of quote that should interrupt your scroll. With Lufthansa cutting 20,000 flights, American Airlines slashing earnings forecasts, and LVMH warning of 'world catastrophe,' the Iran war's economic shockwaves are metastasizing from the Strait into every boardroom on the planet. The ceasefire is on 'indefinite' extension with 'no time pressure,' which is diplomat-speak for 'we have absolutely no idea what happens next.'",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran conflict enters economic shock phase \u2014 500M+ barrels disrupted, IEA calling it a historic energy security crisis, Gulf producers scrambling for alternate routes."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "US Navy Secretary fired 'effective immediately,' Lindsey Graham floating a global blockade expansion, and the Pentagon burning through Patriot missile stockpiles with no rebuild timeline."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Google's new 8th-gen TPUs, Qwen3.6-27B flagship coding model, and OpenAI's autonomous workspace agents all drop the same week \u2014 the agentic era is being named openly now."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Senator Warren warns AI failure could trigger the next financial crisis; separately, Anthropic's cybersecurity model is reportedly not reaching CISA, which is precisely the agency that should have it."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A crypto scam lured ships into the Strait of Hormuz with fake safe-passage promises \u2014 information warfare and kinetic conflict now officially have a DeFi component."
+        }
+      ],
+      "mood": [
+        "exhausted",
+        "cascading",
+        "precarious",
+        "overextended"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-04-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the rust-pitted hull of a massive supertanker riding dangerously low in the water, the steel surface dominating every pixel \u2014 deep navy shadows pooling in every dent and weld seam, the barnacled waterline cutting diagonally across the lower third where oil-slicked Persian Gulf water shimmers in threatening smoldering orange and copper, heat distortion visible in the upper edge where bleached pale sky meets scorched metal, the amber late-afternoon light raking hard across the hull's surface turning rivets into tiny molten dots, reflected in the oily water below a fractured mirror image of a small black-hulled fast attack craft barely visible as a silhouette at the extreme right edge of the frame, on the rust-red hull surface a faint stenciled IEA chart graphic implied through the texture \u2014 a sharp red downward line, the reflection in the oil-slicked water also capturing the ghosted outline of a nuclear cooling tower's white steam plume and the distant suggestion of wind turbine blades, heavy shadows dominate three-quarters of the frame, warmth feels threatening not comforting, deep navy and smoldering orange throughout, no text, no antialiasing, no violence."
+    },
+    "dawn": {
+      "percentage": 60.9,
+      "driver": "Scientists create plastic that destroys viruses on contact. A new virus-fighting plastic film could transform everyday surfaces into invisible defenders against disease. Instead of relying on chemicals, this flexible material is covered in microscopic pillars",
+      "category": "Science",
+      "blurb": "SURFACES THAT FIGHT BACK \u2014 NO CHEMICALS NEEDED",
+      "summary": "Even as geopolitical tensions strain the world's nerves, scientists are quietly engineering the future of public health: a flexible plastic film that physically destroys viruses on contact using microscopic pillars rather than chemical treatments. This kind of passive, infrastructure-level protection could one day line hospitals, schools, and transit systems \u2014 defending millions without anyone noticing. It's a reminder that while headlines track war and chaos, laboratories are producing solutions that will outlast both.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Virus-destroying plastic using nanostructured pillars represents a genuine materials science breakthrough with broad public health implications."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A teacher ran 107 miles to raise scholarship funds for students, crossing $100,000 raised since 2016 through sheer endurance and generosity."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Lebanese and Israeli representatives are convening for a second round of historic direct talks at the State Department, a fragile but real diplomatic signal."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A new car-free community in Tempe, Arizona offers a working model of walkable, transit-integrated urban living \u2014 a small but replicable blueprint."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Physicists report solving the longstanding muon anomaly, providing the most precise experimental confirmation of the Standard Model ever achieved."
+        }
+      ],
+      "mood": [
+        "ingenious",
+        "protective",
+        "hopeful",
+        "resilient",
+        "pioneering"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-04-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a tall laboratory window pouring deep golden amber afternoon sunlight into a materials science lab at RMIT University, long dramatic shadows stretching across white benchtops, the entire scene dominated by warm amber and cool teal contrast. A young researcher stands centered against the blazing window, rendered as a clean dark silhouette, arms raised with a small square of transparent plastic film held aloft between both hands \u2014 the film catches the backlight and explodes into a soft prismatic iridescent bloom, a delicate rainbow spectrum radiating outward from the silhouetted hands like a halo of refracted color, golds and teals and soft violet bleeding into the amber glow. Behind the silhouetted figure, the tall cylindrical forms of electron microscopes loom as dark architectural shapes flanking the window. On the benchtop foreground in warm rim light, a smartphone screen and a flat mold tool rest in shallow shadow, their surfaces catching faint teal reflections. A second silhouetted figure works at a bench to the left, suggesting a team. The iridescent burst at the center of the frame \u2014 the film catching and fracturing golden hour light \u2014 is the sole radiant focal point, quietly triumphant, luminous, practical hope made visible in refracted light."
+    }
   }
 ]
