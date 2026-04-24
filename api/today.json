@@ -1,96 +1,97 @@
 {
-  "date": "2026-04-23",
-  "generated_at": "2026-04-23T12:00:10.029353+00:00",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T11:57:40.456487+00:00",
   "doom": {
-    "percentage": 39.1,
-    "raw_percentage": 38.7,
-    "driver": "'We are facing the biggest energy security threat in history,' IEA chief tells CNBC.",
+    "percentage": 37.8,
+    "raw_percentage": 36.7,
+    "driver": "US considers suspending Spain from NATO, reported internal email suggests.",
     "category": "Geopolitics",
-    "blurb": "HALF THE WORLD'S OIL SUPPLY IS HAVING A MOMENT",
-    "summary": "The IEA chief doesn't usually reach for superlatives, so 'biggest energy security threat in history' is the kind of quote that should interrupt your scroll. With Lufthansa cutting 20,000 flights, American Airlines slashing earnings forecasts, and LVMH warning of 'world catastrophe,' the Iran war's economic shockwaves are metastasizing from the Strait into every boardroom on the planet. The ceasefire is on 'indefinite' extension with 'no time pressure,' which is diplomat-speak for 'we have absolutely no idea what happens next.'",
+    "blurb": "AMERICA THREATENS TO BLOW UP ITS OWN ALLIANCE",
+    "summary": "The Pentagon is apparently drafting internal memos about suspending NATO allies as punishment for not joining the Iran war \u2014 a war that is simultaneously stranding thousands of seafarers in the Strait of Hormuz and grounding European airlines for the summer. Meanwhile Trump extended the Israel-Lebanon ceasefire for three weeks, which is either diplomatic progress or kicking a very large can down a very short road.",
     "factors": [
       {
         "name": "Geopolitics",
+        "signal": "high",
+        "detail": "US mulling NATO suspension of Spain and reviewing Falklands sovereignty as Iran war strains Western alliances to their breaking point."
+      },
+      {
+        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "Iran conflict enters economic shock phase \u2014 500M+ barrels disrupted, IEA calling it a historic energy security crisis, Gulf producers scrambling for alternate routes."
+        "detail": "DeepSeek V4 preview drops, GPT-5.5 launches, and a quantum-safe ransomware family emerges \u2014 the AI race and its criminal imitators both accelerated today."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "US Navy Secretary fired 'effective immediately,' Lindsey Graham floating a global blockade expansion, and the Pentagon burning through Patriot missile stockpiles with no rebuild timeline."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Google's new 8th-gen TPUs, Qwen3.6-27B flagship coding model, and OpenAI's autonomous workspace agents all drop the same week \u2014 the agentic era is being named openly now."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Senator Warren warns AI failure could trigger the next financial crisis; separately, Anthropic's cybersecurity model is reportedly not reaching CISA, which is precisely the agency that should have it."
+        "detail": "US accuses China of 'industrial-scale' AI theft while threatening sanctions, and a US soldier is charged for insider-trading classified intel on a prediction market \u2014 governance norms fraying on multiple fronts."
       },
       {
         "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Bitwarden CLI compromised in a supply chain attack and a French government agency confirms a data breach \u2014 the cyber substrate quietly getting worse."
+      },
+      {
+        "name": "Alignment",
         "signal": "low",
-        "detail": "A crypto scam lured ships into the Strait of Hormuz with fake safe-passage promises \u2014 information warfare and kinetic conflict now officially have a DeFi component."
+        "detail": "New Scientist asks whether anyone should worry about Mythos; the answer remains 'unclear,' which is itself a bit worrying."
       }
     ],
     "mood": [
-      "exhausted",
-      "cascading",
-      "precarious",
-      "overextended"
+      "fractious",
+      "overextended",
+      "accelerating",
+      "fraying",
+      "tense"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-04-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the rust-pitted hull of a massive supertanker riding dangerously low in the water, the steel surface dominating every pixel \u2014 deep navy shadows pooling in every dent and weld seam, the barnacled waterline cutting diagonally across the lower third where oil-slicked Persian Gulf water shimmers in threatening smoldering orange and copper, heat distortion visible in the upper edge where bleached pale sky meets scorched metal, the amber late-afternoon light raking hard across the hull's surface turning rivets into tiny molten dots, reflected in the oily water below a fractured mirror image of a small black-hulled fast attack craft barely visible as a silhouette at the extreme right edge of the frame, on the rust-red hull surface a faint stenciled IEA chart graphic implied through the texture \u2014 a sharp red downward line, the reflection in the oil-slicked water also capturing the ghosted outline of a nuclear cooling tower's white steam plume and the distant suggestion of wind turbine blades, heavy shadows dominate three-quarters of the frame, warmth feels threatening not comforting, deep navy and smoldering orange throughout, no text, no antialiasing, no violence.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-23.png"
+    "card_image": "doom-card-2026-04-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, deep navy and smoldering orange palette, heavy shadows dominate. A fluorescent-lit Pentagon corridor stretches into deep perspective darkness \u2014 low grey ceiling, industrial carpet, wall-mounted SIPRNET terminal screens glowing with orange-bordered classified displays, the orange frames the only warm light source in the scene. Centered in frame, a single printed document lies on a grey institutional desk, its SECRET orange header banner burning against white paper, slightly creased, casting a faint amber glow upward onto the ceiling tiles. To one side, a large wall map shows the Iberian Peninsula and southern Spain \u2014 two starred locations marking airbases at Mor\u00f3n and Rota, the stars cold and unlit, engines cold on the tarmac implied by stillness. A second map inset shows the Strait of Hormuz in muted grey-green, eight massive tanker silhouettes sitting motionless on flat water, no destroyer silhouettes flanking them \u2014 the absence of naval presence readable as threat. A NATO compass rose plaque mounted on the corridor wall catches the orange terminal glow, its 32 points casting long spoke-shadows across the grey wall. The far end of the corridor recedes into pure darkness. No natural light anywhere. Fluorescent tubes flicker blue-white overhead, one tube dead. Deep shadows pool in every corner. 16-bit SNES pixel art, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-24.png"
   },
   "dawn": {
-    "percentage": 60.9,
-    "driver": "Scientists create plastic that destroys viruses on contact. A new virus-fighting plastic film could transform everyday surfaces into invisible defenders against disease. Instead of relying on chemicals, this flexible material is covered in microscopic pillars",
-    "category": "Science",
-    "blurb": "SURFACES THAT FIGHT BACK \u2014 NO CHEMICALS NEEDED",
-    "summary": "Even as geopolitical tensions strain the world's nerves, scientists are quietly engineering the future of public health: a flexible plastic film that physically destroys viruses on contact using microscopic pillars rather than chemical treatments. This kind of passive, infrastructure-level protection could one day line hospitals, schools, and transit systems \u2014 defending millions without anyone noticing. It's a reminder that while headlines track war and chaos, laboratories are producing solutions that will outlast both.",
+    "percentage": 62.2,
+    "driver": "Trump announces a 3-week extension of the Israel-Lebanon ceasefire. President Trump said Thursday that Israel and Lebanon have agreed to extend their ceasefire for three weeks after the two sides met at the White House for a high-level negotiation.",
+    "category": "Peace",
+    "blurb": "ENEMIES SIT DOWN. GUNS STAY QUIET THREE MORE WEEKS.",
+    "summary": "Against a backdrop of active war with Iran and stalled peace talks across the region, Israel and Lebanon chose to extend their ceasefire rather than let it expire \u2014 a quiet but real act of restraint that kept one front from reigniting. High-level negotiators physically sat down at the White House and found enough common ground to buy three more weeks of silence on that border. In a news cycle full of blockades, amputees, and energy crises, two parties that have fought repeatedly chose, again, not to fight \u2014 and that matters.",
     "factors": [
+      {
+        "name": "Peace",
+        "signal": "bright",
+        "detail": "Israel and Lebanon extended their ceasefire by three weeks following direct White House negotiations, keeping a volatile front calm amid broader regional war."
+      },
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Virus-destroying plastic using nanostructured pillars represents a genuine materials science breakthrough with broad public health implications."
+        "detail": "AI discovered new physics in plasma \u2014 the fourth state of matter \u2014 suggesting machine intelligence is now capable of uncovering laws of nature humans haven't found on their own."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "A teacher ran 107 miles to raise scholarship funds for students, crossing $100,000 raised since 2016 through sheer endurance and generosity."
-      },
-      {
-        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Lebanese and Israeli representatives are convening for a second round of historic direct talks at the State Department, a fragile but real diplomatic signal."
+        "detail": "Two widows finding friendship on a park bench made NPR headlines today \u2014 a reminder that human connection persists even in grief."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "A new car-free community in Tempe, Arizona offers a working model of walkable, transit-integrated urban living \u2014 a small but replicable blueprint."
+        "detail": "A 'coalition of the willing' gathered in Colombia for the world's first Transitioning Away from Fossil Fuels conference, attempting to bypass petrostate blockages at COP summits."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Physicists report solving the longstanding muon anomaly, providing the most precise experimental confirmation of the Standard Model ever achieved."
+        "detail": "Catching a common cold virus was found to prevent breast cancer from spreading to the lungs in new mouse research, opening an unexpected biological pathway for cancer defense."
       }
     ],
     "mood": [
-      "ingenious",
-      "protective",
-      "hopeful",
       "resilient",
-      "pioneering"
+      "deliberate",
+      "cautious hope",
+      "steadfast",
+      "breathing room"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-04-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight from a tall laboratory window pouring deep golden amber afternoon sunlight into a materials science lab at RMIT University, long dramatic shadows stretching across white benchtops, the entire scene dominated by warm amber and cool teal contrast. A young researcher stands centered against the blazing window, rendered as a clean dark silhouette, arms raised with a small square of transparent plastic film held aloft between both hands \u2014 the film catches the backlight and explodes into a soft prismatic iridescent bloom, a delicate rainbow spectrum radiating outward from the silhouetted hands like a halo of refracted color, golds and teals and soft violet bleeding into the amber glow. Behind the silhouetted figure, the tall cylindrical forms of electron microscopes loom as dark architectural shapes flanking the window. On the benchtop foreground in warm rim light, a smartphone screen and a flat mold tool rest in shallow shadow, their surfaces catching faint teal reflections. A second silhouetted figure works at a bench to the left, suggesting a team. The iridescent burst at the center of the frame \u2014 the film catching and fracturing golden hour light \u2014 is the sole radiant focal point, quietly triumphant, luminous, practical hope made visible in refracted light.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-23.png"
+    "card_image": "dawn-card-2026-04-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the polished mahogany floor of a grand White House diplomatic chamber, the towering coffered ceiling stretching high overhead, tall arched windows on either side pouring deep golden amber afternoon light down in long radiant shafts that streak across the upper air, American flags flanking the space visible from below as enormous sweeping columns of red white and blue, the underside of a long negotiating table dominating the mid-frame like a dark mahogany ceiling of its own, two pairs of formal dress shoes visible on opposite sides of the table edge, one pair angled slightly toward the other, the Israeli blue-and-white flag and Lebanese red-white-cedar flag hanging from poles seen from below as glowing banners backlit by golden hour light, a small phone screen held at the table's edge visible from underneath casting a warm white-gold glow upward onto the table's lacquered surface, the entire scene bathed in deep golden amber and warm teal shadow, long dramatic shadows stretching across the floor below, ceiling moldings glowing radiant amber at their edges, the atmosphere hushed and historic, a single diplomat's hand resting open on the table visible from below, fingers unclenched, the light of a day not yet lost pouring in from every tall window above.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-24.png"
   }
 }
