@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T11:57:40.456487+00:00",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T11:38:45.822247+00:00",
   "doom": {
-    "percentage": 37.8,
-    "raw_percentage": 36.7,
-    "driver": "US considers suspending Spain from NATO, reported internal email suggests.",
-    "category": "Geopolitics",
-    "blurb": "AMERICA THREATENS TO BLOW UP ITS OWN ALLIANCE",
-    "summary": "The Pentagon is apparently drafting internal memos about suspending NATO allies as punishment for not joining the Iran war \u2014 a war that is simultaneously stranding thousands of seafarers in the Strait of Hormuz and grounding European airlines for the summer. Meanwhile Trump extended the Israel-Lebanon ceasefire for three weeks, which is either diplomatic progress or kicking a very large can down a very short road.",
+    "percentage": 36.4,
+    "raw_percentage": 34.7,
+    "driver": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was [powered by Project Maven AI]",
+    "category": "AI Capability",
+    "blurb": "AI CALLED THE SHOTS. A THOUSAND TARGETS IN 24 HOURS.",
+    "summary": "Project Maven \u2014 the Pentagon's AI targeting system \u2014 reportedly helped the US military hit over 1,000 Iranian targets in a single day, nearly doubling the pace of 'shock and awe.' Meanwhile, DeepSeek just dropped V4 with a new architecture and Google is shoveling $40 billion into Anthropic, because apparently the AI arms race and the actual arms race have decided to merge. The mall is open, the missiles are smart, and nobody's sleeping.",
     "factors": [
       {
-        "name": "Geopolitics",
+        "name": "AI Capability",
         "signal": "high",
-        "detail": "US mulling NATO suspension of Spain and reviewing Falklands sovereignty as Iran war strains Western alliances to their breaking point."
+        "detail": "DeepSeek V4 drops with extended context architecture while Google commits $40B to Anthropic \u2014 AI capability acceleration is compressing on multiple fronts simultaneously."
       },
       {
-        "name": "AI Capability",
+        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "DeepSeek V4 preview drops, GPT-5.5 launches, and a quantum-safe ransomware family emerges \u2014 the AI race and its criminal imitators both accelerated today."
+        "detail": "US-Iran talks inch toward Islamabad as Witkoff and Kushner head to Pakistan, but Iran says no meeting is planned \u2014 mixed signals while the Strait of Hormuz is reportedly being mined."
       },
       {
         "name": "Governance",
+        "signal": "medium",
+        "detail": "DOJ moves to shield its lawyers from state bar oversight and expands federal execution methods \u2014 institutional guardrails continue their quiet retreat."
+      },
+      {
+        "name": "Alignment",
         "signal": "elevated",
-        "detail": "US accuses China of 'industrial-scale' AI theft while threatening sanctions, and a US soldier is charged for insider-trading classified intel on a prediction market \u2014 governance norms fraying on multiple fronts."
+        "detail": "Project Maven AI directing 1,000+ military strikes in 24 hours raises urgent questions about the speed and autonomy of AI-assisted lethal targeting decisions."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Bitwarden CLI compromised in a supply chain attack and a French government agency confirms a data breach \u2014 the cyber substrate quietly getting worse."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "New Scientist asks whether anyone should worry about Mythos; the answer remains 'unclear,' which is itself a bit worrying."
+        "detail": "Coordinated multi-city armed attacks across Mali, including near the capital Bamako, signal a fracturing Sahel that no one is paying attention to while everyone watches Islamabad."
       }
     ],
     "mood": [
-      "fractious",
-      "overextended",
       "accelerating",
-      "fraying",
-      "tense"
+      "militarized",
+      "tense",
+      "algorithmic",
+      "volatile"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-04-24.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, deep navy and smoldering orange palette, heavy shadows dominate. A fluorescent-lit Pentagon corridor stretches into deep perspective darkness \u2014 low grey ceiling, industrial carpet, wall-mounted SIPRNET terminal screens glowing with orange-bordered classified displays, the orange frames the only warm light source in the scene. Centered in frame, a single printed document lies on a grey institutional desk, its SECRET orange header banner burning against white paper, slightly creased, casting a faint amber glow upward onto the ceiling tiles. To one side, a large wall map shows the Iberian Peninsula and southern Spain \u2014 two starred locations marking airbases at Mor\u00f3n and Rota, the stars cold and unlit, engines cold on the tarmac implied by stillness. A second map inset shows the Strait of Hormuz in muted grey-green, eight massive tanker silhouettes sitting motionless on flat water, no destroyer silhouettes flanking them \u2014 the absence of naval presence readable as threat. A NATO compass rose plaque mounted on the corridor wall catches the orange terminal glow, its 32 points casting long spoke-shadows across the grey wall. The far end of the corridor recedes into pure darkness. No natural light anywhere. Fluorescent tubes flicker blue-white overhead, one tube dead. Deep shadows pool in every corner. 16-bit SNES pixel art, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-24.png"
+    "card_image": "doom-card-2026-04-25.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene \u2014 we are deep inside a darkened Pentagon operations room looking outward through a massive floor-to-ceiling reinforced window that frames the night sky beyond, deep navy darkness pressing against the glass. The foreground fills with banks of glowing monitors arranged in curved rows, each screen tiling drone-camera feeds showing ochre Iranian desert plateau geography from above, red-orange targeting bounding boxes drawn algorithmically over rocky mountain terrain, GPS grid coordinates scrolling in white text, timestamp counters ticking upward toward four digits. The room interior drowns in smoldering amber and monitor-glow, heavy shadows pooling between workstations where silhouetted operator figures in mixed civilian and military clothing lean over keyboards, their faces invisible, only the orange reflection of screens catching helmet visors and glasses. Through the framing window, the outside sky is scored by dozens of slim white cruise missile contrail arcs climbing in parallel curves, a bat-wing flying-wing silhouette barely visible as an absence of stars in the deep navy above, and far on the horizon a desert ridge glows with the smoldering orange bloom of distant explosions reflected in low smoke haze. A tally board rendered in pixel hash-marks climbs toward one thousand on a side monitor. No antialiasing, 16-bit SNES color depth, deep navy and smoldering orange dominate, warmth feels threatening, heavy shadows.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-25.png"
   },
   "dawn": {
-    "percentage": 62.2,
-    "driver": "Trump announces a 3-week extension of the Israel-Lebanon ceasefire. President Trump said Thursday that Israel and Lebanon have agreed to extend their ceasefire for three weeks after the two sides met at the White House for a high-level negotiation.",
-    "category": "Peace",
-    "blurb": "ENEMIES SIT DOWN. GUNS STAY QUIET THREE MORE WEEKS.",
-    "summary": "Against a backdrop of active war with Iran and stalled peace talks across the region, Israel and Lebanon chose to extend their ceasefire rather than let it expire \u2014 a quiet but real act of restraint that kept one front from reigniting. High-level negotiators physically sat down at the White House and found enough common ground to buy three more weeks of silence on that border. In a news cycle full of blockades, amputees, and energy crises, two parties that have fought repeatedly chose, again, not to fight \u2014 and that matters.",
+    "percentage": 63.6,
+    "driver": "Symptoms of early dementia reversed by bespoke treatment plans. People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted their personal nutritional deficiencies, ongoing infections and environmental factors.",
+    "category": "Medicine",
+    "blurb": "DEMENTIA SYMPTOMS REVERSED BY PERSONALIZED TREATMENT",
+    "summary": "In a week dominated by geopolitical tension and conflict, quietly extraordinary news arrived from medical research: early dementia symptoms are being reversed through personalized, targeted treatment plans. This isn't a distant promise \u2014 it's working now, for real patients, addressing root causes rather than masking decline. When the headlines scream chaos, science continues its patient, compassionate work of giving people back their minds.",
     "factors": [
-      {
-        "name": "Peace",
-        "signal": "bright",
-        "detail": "Israel and Lebanon extended their ceasefire by three weeks following direct White House negotiations, keeping a volatile front calm amid broader regional war."
-      },
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "AI discovered new physics in plasma \u2014 the fourth state of matter \u2014 suggesting machine intelligence is now capable of uncovering laws of nature humans haven't found on their own."
+        "detail": "Reversing early dementia symptoms through bespoke treatment is a paradigm shift \u2014 treating the whole person rather than the disease label alone."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "US and Iran envoys are converging on Islamabad for direct talks, a fragile but real diplomatic thread still being pulled despite ongoing hostilities."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "Two widows finding friendship on a park bench made NPR headlines today \u2014 a reminder that human connection persists even in grief."
+        "signal": "bright",
+        "detail": "Good Samaritans in Florida pulled a baby, grandmother, and father from a flipped car \u2014 ordinary people choosing extraordinary courage in an ordinary moment."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "A 'coalition of the willing' gathered in Colombia for the world's first Transitioning Away from Fossil Fuels conference, attempting to bypass petrostate blockages at COP summits."
+        "signal": "bright",
+        "detail": "A Sumatran orangutan crossed a canopy bridge above a road for the first time on film, proving that habitat connectivity projects can work for critically endangered species."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Catching a common cold virus was found to prevent breast cancer from spreading to the lungs in new mouse research, opening an unexpected biological pathway for cancer defense."
+        "signal": "glimmer",
+        "detail": "Trump's attempt to gut the Endangered Species Act hit an unexpected roadblock in the House, buying conservationists more time to protect vulnerable wildlife."
       }
     ],
     "mood": [
+      "breakthrough",
       "resilient",
-      "deliberate",
-      "cautious hope",
-      "steadfast",
-      "breathing room"
+      "hopeful",
+      "compassionate",
+      "persistent"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-04-24.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the polished mahogany floor of a grand White House diplomatic chamber, the towering coffered ceiling stretching high overhead, tall arched windows on either side pouring deep golden amber afternoon light down in long radiant shafts that streak across the upper air, American flags flanking the space visible from below as enormous sweeping columns of red white and blue, the underside of a long negotiating table dominating the mid-frame like a dark mahogany ceiling of its own, two pairs of formal dress shoes visible on opposite sides of the table edge, one pair angled slightly toward the other, the Israeli blue-and-white flag and Lebanese red-white-cedar flag hanging from poles seen from below as glowing banners backlit by golden hour light, a small phone screen held at the table's edge visible from underneath casting a warm white-gold glow upward onto the table's lacquered surface, the entire scene bathed in deep golden amber and warm teal shadow, long dramatic shadows stretching across the floor below, ceiling moldings glowing radiant amber at their edges, the atmosphere hushed and historic, a single diplomat's hand resting open on the table visible from below, fingers unclenched, the light of a day not yet lost pouring in from every tall window above.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-24.png"
+    "card_image": "dawn-card-2026-04-25.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Northern California landscape stretching across the frame \u2014 warm Walnut Creek hills rolling in deep golden amber light, eucalyptus trees casting long side-lit shadows across a sun-drenched wellness clinic courtyard below. Tiny figures rendered in warm teal and gold occupy distinct zones of a sprawling scene: a bright clinic interior visible through large windows where two small figures lean across a desk over an open color-coded binder, a kitchen table spread with neat rows of amber supplement bottles and a glowing laptop screen, a California park path where a tiny figure walks briskly in long morning shadow, and a backyard corner with a yoga mat and light dumbbells. The landscape dominates \u2014 golden hills, eucalyptus canopy, warm teal sky \u2014 with the scattered domestic and clinical scenes embedded like small illuminated islands of purposeful recovery. Deep golden hour amber saturates the terrain, warm teal bleeds into shadows and sky, side-lighting rakes long dramatic shadows across every surface. Radiant, quietly triumphant atmosphere, the vast landscape making the tiny human scenes feel precious and deliberate against the California expanse.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-25.png"
   }
 }
