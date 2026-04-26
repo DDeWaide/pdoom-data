@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-25",
-  "generated_at": "2026-04-25T11:38:45.822247+00:00",
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T11:39:46.454787+00:00",
   "doom": {
-    "percentage": 36.4,
-    "raw_percentage": 34.7,
-    "driver": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was [powered by Project Maven AI]",
-    "category": "AI Capability",
-    "blurb": "AI CALLED THE SHOTS. A THOUSAND TARGETS IN 24 HOURS.",
-    "summary": "Project Maven \u2014 the Pentagon's AI targeting system \u2014 reportedly helped the US military hit over 1,000 Iranian targets in a single day, nearly doubling the pace of 'shock and awe.' Meanwhile, DeepSeek just dropped V4 with a new architecture and Google is shoveling $40 billion into Anthropic, because apparently the AI arms race and the actual arms race have decided to merge. The mall is open, the missiles are smart, and nobody's sleeping.",
+    "percentage": 38.5,
+    "raw_percentage": 38.7,
+    "driver": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'.",
+    "category": "Geopolitics",
+    "blurb": "PEACE TALKS CANCELLED. IRAN WAR CONTINUES.",
+    "summary": "With Witkoff and Kushner grounded and Iran's FM already having left Islamabad, the diplomatic off-ramp just got a lot narrower. Meanwhile, someone literally tried to shoot the President at a dinner party, Mali's Defence Minister was killed in the largest jihadist attack in years, and Netanyahu is 'vigorously attacking' Hezbollah despite a ceasefire he agreed to three weeks ago. The world is not having a quiet Saturday.",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "high",
-        "detail": "DeepSeek V4 drops with extended context architecture while Google commits $40B to Anthropic \u2014 AI capability acceleration is compressing on multiple fronts simultaneously."
-      },
-      {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "US-Iran talks inch toward Islamabad as Witkoff and Kushner head to Pakistan, but Iran says no meeting is planned \u2014 mixed signals while the Strait of Hormuz is reportedly being mined."
+        "signal": "high",
+        "detail": "Iran peace talks collapse as US cancels envoy trip, Mali suffers its largest coordinated jihadist attack in years killing the Defence Minister, and Israel resumes strikes in Lebanon mid-ceasefire."
       },
       {
         "name": "Governance",
+        "signal": "elevated",
+        "detail": "An armed suspect stormed the White House Correspondents' Dinner targeting the President, while Trump fires the NSF's oversight board, further hollowing out scientific accountability structures."
+      },
+      {
+        "name": "AI Capability",
         "signal": "medium",
-        "detail": "DOJ moves to shield its lawyers from state bar oversight and expands federal execution methods \u2014 institutional guardrails continue their quiet retreat."
+        "detail": "OpenAI CEO apologizes after failing to report a user to police before a fatal shooting, raising serious questions about AI platform accountability and abuse-detection thresholds."
       },
       {
         "name": "Alignment",
-        "signal": "elevated",
-        "detail": "Project Maven AI directing 1,000+ military strikes in 24 hours raises urgent questions about the speed and autonomy of AI-assisted lethal targeting decisions."
+        "signal": "medium",
+        "detail": "Public backlash against the AI industry is growing, per multiple analyses, suggesting the social contract between AI companies and the public is fraying faster than governance can keep up."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Coordinated multi-city armed attacks across Mali, including near the capital Bamako, signal a fracturing Sahel that no one is paying attention to while everyone watches Islamabad."
+        "signal": "elevated",
+        "detail": "A sitting US President was evacuated under fire at a major press event \u2014 the kind of political destabilization event that historically reshapes foreign policy calculus in unpredictable ways."
       }
     ],
     "mood": [
-      "accelerating",
-      "militarized",
-      "tense",
-      "algorithmic",
-      "volatile"
+      "volatile",
+      "fragmented",
+      "escalatory",
+      "unnerving",
+      "fractious"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-04-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene \u2014 we are deep inside a darkened Pentagon operations room looking outward through a massive floor-to-ceiling reinforced window that frames the night sky beyond, deep navy darkness pressing against the glass. The foreground fills with banks of glowing monitors arranged in curved rows, each screen tiling drone-camera feeds showing ochre Iranian desert plateau geography from above, red-orange targeting bounding boxes drawn algorithmically over rocky mountain terrain, GPS grid coordinates scrolling in white text, timestamp counters ticking upward toward four digits. The room interior drowns in smoldering amber and monitor-glow, heavy shadows pooling between workstations where silhouetted operator figures in mixed civilian and military clothing lean over keyboards, their faces invisible, only the orange reflection of screens catching helmet visors and glasses. Through the framing window, the outside sky is scored by dozens of slim white cruise missile contrail arcs climbing in parallel curves, a bat-wing flying-wing silhouette barely visible as an absence of stars in the deep navy above, and far on the horizon a desert ridge glows with the smoldering orange bloom of distant explosions reflected in low smoke haze. A tally board rendered in pixel hash-marks climbs toward one thousand on a side monitor. No antialiasing, 16-bit SNES color depth, deep navy and smoldering orange dominate, warmth feels threatening, heavy shadows.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-25.png"
+    "card_image": "doom-card-2026-04-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a dense curtain of monsoon rain falls across Islamabad's ceremonial boulevard, the Margalla Hills dissolved entirely into smoldering orange-grey haze behind the Faisal Mosque's white needle minarets barely visible as ghost shapes through the atmospheric murk, deep navy shadows drowning the wide empty boulevard below. Rain hammers a rain-slicked tarmac in the foreground where a massive blue-and-white 747 sits motionless, boarding stairs extended but empty, American flag livery catching the only warm light in the scene \u2014 a threatening amber glow filtered through rain and smoke. The aircraft faces away from the terminal, engines cold, going nowhere. In the middle distance, an empty diplomatic meeting room is visible through floor-to-ceiling rain-streaked glass windows \u2014 chairs pushed in, water glasses full, unsigned papers stacked neatly on an untouched conference table, a single unused secure telephone sitting on the table's edge. The Strait of Hormuz is implied in a rain-hazed illustrated inset panel bleeding into the upper corner \u2014 dark oil-slicked water, grey destroyer silhouettes sitting in blockade formation, idle rust-streaked supertanker hulls anchored with no wake. Everything filtered through oppressive rainfall and heavy shadow. Deep navy and smoldering orange palette. No people, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-26.png"
   },
   "dawn": {
-    "percentage": 63.6,
-    "driver": "Symptoms of early dementia reversed by bespoke treatment plans. People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted their personal nutritional deficiencies, ongoing infections and environmental factors.",
-    "category": "Medicine",
-    "blurb": "DEMENTIA SYMPTOMS REVERSED BY PERSONALIZED TREATMENT",
-    "summary": "In a week dominated by geopolitical tension and conflict, quietly extraordinary news arrived from medical research: early dementia symptoms are being reversed through personalized, targeted treatment plans. This isn't a distant promise \u2014 it's working now, for real patients, addressing root causes rather than masking decline. When the headlines scream chaos, science continues its patient, compassionate work of giving people back their minds.",
+    "percentage": 61.5,
+    "driver": "Amateur armed with ChatGPT solves an Erd\u0151s problem.",
+    "category": "Discovery",
+    "blurb": "EVERYDAY HUMAN CRACKS A LEGENDARY MATH PUZZLE",
+    "summary": "On a day when geopolitical headlines feel overwhelming \u2014 shootings, stalled peace talks, fresh conflicts in Mali \u2014 a quiet signal cuts through: an amateur mathematician used AI as a thinking partner to solve one of Paul Erd\u0151s's long-standing unsolved problems, a feat that has stumped professionals for decades. This is precisely the kind of human-machine collaboration optimists imagined: not AI replacing thought, but amplifying it in unexpected hands. It's a reminder that the tools of this era, whatever their dangers, are also genuinely democratizing discovery.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Reversing early dementia symptoms through bespoke treatment is a paradigm shift \u2014 treating the whole person rather than the disease label alone."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "US and Iran envoys are converging on Islamabad for direct talks, a fragile but real diplomatic thread still being pulled despite ongoing hostilities."
+        "detail": "An amateur solving an Erd\u0151s problem represents a genuine mathematical breakthrough, the kind that expands what we believe is possible for non-specialists."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Good Samaritans in Florida pulled a baby, grandmother, and father from a flipped car \u2014 ordinary people choosing extraordinary courage in an ordinary moment."
+        "detail": "The story is fundamentally about curiosity and persistence \u2014 someone outside the academy refusing to accept that hard problems belong only to credentialed experts."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "bright",
+        "detail": "Human-AI collaboration here modeled its best-case form: a person steering inquiry, a tool amplifying capability, and a community open-sourcing the result on a public problems registry."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "A Sumatran orangutan crossed a canopy bridge above a road for the first time on film, proving that habitat connectivity projects can work for critically endangered species."
+        "signal": "quiet",
+        "detail": "No strong environmental signal today, though Science Daily's groundbreaking dark matter and exotic particle findings hint at a week of deep physics progress."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Trump's attempt to gut the Endangered Species Act hit an unexpected roadblock in the House, buying conservationists more time to protect vulnerable wildlife."
+        "detail": "Mississippi middle schoolers stopped a runaway bus after their driver lost consciousness \u2014 a small, luminous act of young people rising to the moment under pressure."
       }
     ],
     "mood": [
+      "curious",
+      "empowered",
       "breakthrough",
-      "resilient",
-      "hopeful",
-      "compassionate",
-      "persistent"
+      "unexpected",
+      "democratizing"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-04-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Northern California landscape stretching across the frame \u2014 warm Walnut Creek hills rolling in deep golden amber light, eucalyptus trees casting long side-lit shadows across a sun-drenched wellness clinic courtyard below. Tiny figures rendered in warm teal and gold occupy distinct zones of a sprawling scene: a bright clinic interior visible through large windows where two small figures lean across a desk over an open color-coded binder, a kitchen table spread with neat rows of amber supplement bottles and a glowing laptop screen, a California park path where a tiny figure walks briskly in long morning shadow, and a backyard corner with a yoga mat and light dumbbells. The landscape dominates \u2014 golden hills, eucalyptus canopy, warm teal sky \u2014 with the scattered domestic and clinical scenes embedded like small illuminated islands of purposeful recovery. Deep golden hour amber saturates the terrain, warm teal bleeds into shadows and sky, side-lighting rakes long dramatic shadows across every surface. Radiant, quietly triumphant atmosphere, the vast landscape making the tiny human scenes feel precious and deliberate against the California expanse.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-25.png"
+    "card_image": "dawn-card-2026-04-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a laptop keyboard and trackpad, late afternoon golden amber sunlight raking across the keys from a window just off-frame left, casting long warm shadows between each key row. The trackpad surface reflects a cool blue-white ChatGPT chat window glowing from the screen above, its scroll of dense mathematical text visible as a ghostly mirror shimmer in the brushed surface. One finger hovers motionless above the Enter key, caught mid-breath, the skin lit half in warm amber and half in screen-cool teal. At the very edge of the trackpad reflection, the luminous number 1.6 floats like a tiny lighthouse beacon, rendered in bright white pixels with a soft teal halo. In the extreme upper-right corner of the frame, just barely visible at the screen's base, a cascade of tiny prime number glyphs \u2014 2, 3, 5, 7 \u2014 tumbles downward in deep golden pixels, dissolving into the warm shadow of the desk surface. The overall palette is deep molten amber and warm teal, side-lit, radiant, intimate \u2014 a miracle compressed into the space between one finger and one key.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-26.png"
   }
 }
