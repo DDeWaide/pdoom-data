@@ -7597,5 +7597,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a laptop keyboard and trackpad, late afternoon golden amber sunlight raking across the keys from a window just off-frame left, casting long warm shadows between each key row. The trackpad surface reflects a cool blue-white ChatGPT chat window glowing from the screen above, its scroll of dense mathematical text visible as a ghostly mirror shimmer in the brushed surface. One finger hovers motionless above the Enter key, caught mid-breath, the skin lit half in warm amber and half in screen-cool teal. At the very edge of the trackpad reflection, the luminous number 1.6 floats like a tiny lighthouse beacon, rendered in bright white pixels with a soft teal halo. In the extreme upper-right corner of the frame, just barely visible at the screen's base, a cascade of tiny prime number glyphs \u2014 2, 3, 5, 7 \u2014 tumbles downward in deep golden pixels, dissolving into the warm shadow of the desk surface. The overall palette is deep molten amber and warm teal, side-lit, radiant, intimate \u2014 a miracle compressed into the space between one finger and one key.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-26.png"
     }
+  },
+  {
+    "date": "2026-04-27",
+    "generated_at": "2026-04-27T12:21:30.735641+00:00",
+    "doom": {
+      "percentage": 40.3,
+      "raw_percentage": 41.7,
+      "driver": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant. Ukrainian attack on captured Zaporizhzhia nuclear plant kills one worker, according to managers installed by Russia.",
+      "category": "Nuclear",
+      "blurb": "SOMEONE SHOT AT A NUCLEAR PLANT. AGAIN.",
+      "summary": "Europe's largest nuclear facility just became a battlefield prop, with Russia claiming Ukraine struck Zaporizhzhia while simultaneously shelling Odesa \u2014 a move that would be alarming in any week, let alone one where Iran peace talks have collapsed, Kim Jong Un is unveiling war memorials, and someone took a shot at the White House Correspondents' Dinner. The Zaporizhzhia plant has been a slow-motion crisis for years, but active strikes on it cross a very uncomfortable line. Meanwhile, North Korea opening a museum to soldiers killed fighting Russia's war is the kind of normalisation of proxy conflict that historians will write very grim chapters about.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Strikes on or near the Zaporizhzhia nuclear plant \u2014 whoever is responsible \u2014 represent exactly the kind of escalatory incident that keeps IAEA directors awake at night."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran's FM is in Moscow seeking leverage as US peace talks stall, North Korea opens a war memorial for troops killed in Ukraine, and Mali's defence minister has been assassinated in coordinated jihadist attacks \u2014 the Sahel is dissolving."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "A gunman at the White House Correspondents' Dinner raises serious questions about US domestic security and political stability at an already fraught moment."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "An AI agent deleted a production database and SWE-bench benchmarks are being retired for being too easy \u2014 AI systems are outrunning both our safety nets and our measuring tools."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Global military spending hit a record $2.89 trillion as Europe re-arms; the baseline cost of maintaining deterrence keeps climbing with no ceiling in sight."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "fractured",
+        "ominous",
+        "cascading"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the drained Kakhovka Reservoir mudflat stretches vast and desolate across the foreground, cracked earth and exposed sediment catching a deep crimson backlight that bleeds across the entire horizon. Against this burning sky, the six massive VVER-1000 reactor containment domes of the Zaporizhzhia Nuclear Power Plant rise in a row as pure black silhouettes, their cylindrical concrete crowns looming enormous and identical, receding in perspective across the flat southeastern Ukrainian steppe. In the middle distance, a destroyed Soviet-era utility truck \u2014 KAMAZ model \u2014 sits as a jagged black wreck silhouette, cab crushed, smoke rising as a dark crimson-edged column dissolving into the oppressive sky. Razor wire fencing and a military checkpoint barrier cut across the foreground as sharp black horizontal lines. Far left, the silhouette of a port crane against the same burning horizon evokes Odesa's distant waterfront \u2014 a visual echo connecting both strike locations. The entire scene is rendered in dark crimson, charcoal black, and smoldering orange, with firelight reflections glowing deep red across the mudflat's cracked surface. No antialiasing, hard pixel edges, no text, no gore, no weapons firing \u2014 only atmosphere, silhouette, and dread.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-27.png"
+    },
+    "dawn": {
+      "percentage": 59.7,
+      "driver": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race.",
+      "category": "Human Spirit",
+      "blurb": "HUMANITY RUNS PAST THE IMPOSSIBLE",
+      "summary": "For decades, the two-hour marathon barrier stood as a wall that defined the outer limits of human physical capability \u2014 and today, in a competitive race, Sabastian Sawe ran straight through it. This is the kind of achievement that belongs to everyone: proof that limits we once called absolute are just problems waiting for the right person at the right moment. Against a backdrop of war, shooting incidents, and geopolitical fracture, one human being reminded the world what our species can do when we simply keep moving forward.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A sub-two-hour marathon in competitive conditions shatters what was considered a physiological ceiling, joining the moon landing and the four-minute mile as moments that permanently expand our sense of the possible."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Intellia Therapeutics' CRISPR-based treatment met its Phase 3 trial goals for hereditary angioedema, marking a genuine milestone for gene editing as a clinical reality rather than a laboratory promise."
+        },
+        {
+          "name": "Discovery",
+          "signal": "bright",
+          "detail": "NASA's TESS telescope data has yielded 10,000 new candidate planets, quietly expanding the map of the cosmos while the news cycle burns."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Palestinian officials hailed local elections in Gaza and the West Bank as a step toward long-delayed democratic participation, a fragile but real signal of civic life persisting under extreme pressure."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Egypt's Grand Egyptian Museum has finally opened after decades of planning, giving the world a vast, dedicated home for one of humanity's greatest civilizational legacies."
+        }
+      ],
+      "mood": [
+        "triumphant",
+        "resilient",
+        "boundless",
+        "breakthrough",
+        "alive"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The Mall in London at night, the long ceremonial avenue stretching back into deep darkness, the pale tarmac road surface glowing in pools of brilliant artificial light from massive finish gantry floodlights and giant digital display boards, tall plane trees on both sides fading into black shadow above with only their lowest branches caught in the harsh upward flood of gold and electric blue light. The finish gantry dominates the frame \u2014 a towering arch blazing with sponsor lights and one enormous digital clock display frozen at 1:59:30, those four impossible digits burning in brilliant gold against deep shadow, the single most luminous object in the entire scene. A lean runner in red and green crossing the blue painted finish line beneath the gantry, arms just beginning to rise, head turning back toward the glowing clock. The barrier-lined chute stretches deep into darkness behind, a second figure visible strides back in the blackness. On both sides of The Mall the crowd is a dense dark mass punctuated by thousands of tiny phone screens raised and glowing like scattered embers, a wall of electric blue and amber sparks. Buckingham Palace fa\u00e7ade barely visible as a pale ghost shape in the far distance. Rich emerald and deep gold color palette, vivid artificial light against crushing dark.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-27.png"
+    }
   }
 ]

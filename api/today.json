@@ -1,97 +1,96 @@
 {
-  "date": "2026-04-26",
-  "generated_at": "2026-04-26T11:39:46.454787+00:00",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T12:21:30.735641+00:00",
   "doom": {
-    "percentage": 38.5,
-    "raw_percentage": 38.7,
-    "driver": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'.",
-    "category": "Geopolitics",
-    "blurb": "PEACE TALKS CANCELLED. IRAN WAR CONTINUES.",
-    "summary": "With Witkoff and Kushner grounded and Iran's FM already having left Islamabad, the diplomatic off-ramp just got a lot narrower. Meanwhile, someone literally tried to shoot the President at a dinner party, Mali's Defence Minister was killed in the largest jihadist attack in years, and Netanyahu is 'vigorously attacking' Hezbollah despite a ceasefire he agreed to three weeks ago. The world is not having a quiet Saturday.",
+    "percentage": 40.3,
+    "raw_percentage": 41.7,
+    "driver": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant. Ukrainian attack on captured Zaporizhzhia nuclear plant kills one worker, according to managers installed by Russia.",
+    "category": "Nuclear",
+    "blurb": "SOMEONE SHOT AT A NUCLEAR PLANT. AGAIN.",
+    "summary": "Europe's largest nuclear facility just became a battlefield prop, with Russia claiming Ukraine struck Zaporizhzhia while simultaneously shelling Odesa \u2014 a move that would be alarming in any week, let alone one where Iran peace talks have collapsed, Kim Jong Un is unveiling war memorials, and someone took a shot at the White House Correspondents' Dinner. The Zaporizhzhia plant has been a slow-motion crisis for years, but active strikes on it cross a very uncomfortable line. Meanwhile, North Korea opening a museum to soldiers killed fighting Russia's war is the kind of normalisation of proxy conflict that historians will write very grim chapters about.",
     "factors": [
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "Strikes on or near the Zaporizhzhia nuclear plant \u2014 whoever is responsible \u2014 represent exactly the kind of escalatory incident that keeps IAEA directors awake at night."
+      },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran peace talks collapse as US cancels envoy trip, Mali suffers its largest coordinated jihadist attack in years killing the Defence Minister, and Israel resumes strikes in Lebanon mid-ceasefire."
+        "detail": "Iran's FM is in Moscow seeking leverage as US peace talks stall, North Korea opens a war memorial for troops killed in Ukraine, and Mali's defence minister has been assassinated in coordinated jihadist attacks \u2014 the Sahel is dissolving."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "An armed suspect stormed the White House Correspondents' Dinner targeting the President, while Trump fires the NSF's oversight board, further hollowing out scientific accountability structures."
+        "detail": "A gunman at the White House Correspondents' Dinner raises serious questions about US domestic security and political stability at an already fraught moment."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "OpenAI CEO apologizes after failing to report a user to police before a fatal shooting, raising serious questions about AI platform accountability and abuse-detection thresholds."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Public backlash against the AI industry is growing, per multiple analyses, suggesting the social contract between AI companies and the public is fraying faster than governance can keep up."
+        "detail": "An AI agent deleted a production database and SWE-bench benchmarks are being retired for being too easy \u2014 AI systems are outrunning both our safety nets and our measuring tools."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "A sitting US President was evacuated under fire at a major press event \u2014 the kind of political destabilization event that historically reshapes foreign policy calculus in unpredictable ways."
+        "signal": "medium",
+        "detail": "Global military spending hit a record $2.89 trillion as Europe re-arms; the baseline cost of maintaining deterrence keeps climbing with no ceiling in sight."
       }
     ],
     "mood": [
       "volatile",
-      "fragmented",
-      "escalatory",
-      "unnerving",
-      "fractious"
+      "fractured",
+      "ominous",
+      "cascading"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-04-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a dense curtain of monsoon rain falls across Islamabad's ceremonial boulevard, the Margalla Hills dissolved entirely into smoldering orange-grey haze behind the Faisal Mosque's white needle minarets barely visible as ghost shapes through the atmospheric murk, deep navy shadows drowning the wide empty boulevard below. Rain hammers a rain-slicked tarmac in the foreground where a massive blue-and-white 747 sits motionless, boarding stairs extended but empty, American flag livery catching the only warm light in the scene \u2014 a threatening amber glow filtered through rain and smoke. The aircraft faces away from the terminal, engines cold, going nowhere. In the middle distance, an empty diplomatic meeting room is visible through floor-to-ceiling rain-streaked glass windows \u2014 chairs pushed in, water glasses full, unsigned papers stacked neatly on an untouched conference table, a single unused secure telephone sitting on the table's edge. The Strait of Hormuz is implied in a rain-hazed illustrated inset panel bleeding into the upper corner \u2014 dark oil-slicked water, grey destroyer silhouettes sitting in blockade formation, idle rust-streaked supertanker hulls anchored with no wake. Everything filtered through oppressive rainfall and heavy shadow. Deep navy and smoldering orange palette. No people, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-26.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-04-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition \u2014 the drained Kakhovka Reservoir mudflat stretches vast and desolate across the foreground, cracked earth and exposed sediment catching a deep crimson backlight that bleeds across the entire horizon. Against this burning sky, the six massive VVER-1000 reactor containment domes of the Zaporizhzhia Nuclear Power Plant rise in a row as pure black silhouettes, their cylindrical concrete crowns looming enormous and identical, receding in perspective across the flat southeastern Ukrainian steppe. In the middle distance, a destroyed Soviet-era utility truck \u2014 KAMAZ model \u2014 sits as a jagged black wreck silhouette, cab crushed, smoke rising as a dark crimson-edged column dissolving into the oppressive sky. Razor wire fencing and a military checkpoint barrier cut across the foreground as sharp black horizontal lines. Far left, the silhouette of a port crane against the same burning horizon evokes Odesa's distant waterfront \u2014 a visual echo connecting both strike locations. The entire scene is rendered in dark crimson, charcoal black, and smoldering orange, with firelight reflections glowing deep red across the mudflat's cracked surface. No antialiasing, hard pixel edges, no text, no gore, no weapons firing \u2014 only atmosphere, silhouette, and dread.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-27.png"
   },
   "dawn": {
-    "percentage": 61.5,
-    "driver": "Amateur armed with ChatGPT solves an Erd\u0151s problem.",
-    "category": "Discovery",
-    "blurb": "EVERYDAY HUMAN CRACKS A LEGENDARY MATH PUZZLE",
-    "summary": "On a day when geopolitical headlines feel overwhelming \u2014 shootings, stalled peace talks, fresh conflicts in Mali \u2014 a quiet signal cuts through: an amateur mathematician used AI as a thinking partner to solve one of Paul Erd\u0151s's long-standing unsolved problems, a feat that has stumped professionals for decades. This is precisely the kind of human-machine collaboration optimists imagined: not AI replacing thought, but amplifying it in unexpected hands. It's a reminder that the tools of this era, whatever their dangers, are also genuinely democratizing discovery.",
+    "percentage": 59.7,
+    "driver": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race.",
+    "category": "Human Spirit",
+    "blurb": "HUMANITY RUNS PAST THE IMPOSSIBLE",
+    "summary": "For decades, the two-hour marathon barrier stood as a wall that defined the outer limits of human physical capability \u2014 and today, in a competitive race, Sabastian Sawe ran straight through it. This is the kind of achievement that belongs to everyone: proof that limits we once called absolute are just problems waiting for the right person at the right moment. Against a backdrop of war, shooting incidents, and geopolitical fracture, one human being reminded the world what our species can do when we simply keep moving forward.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "An amateur solving an Erd\u0151s problem represents a genuine mathematical breakthrough, the kind that expands what we believe is possible for non-specialists."
+        "detail": "A sub-two-hour marathon in competitive conditions shatters what was considered a physiological ceiling, joining the moon landing and the four-minute mile as moments that permanently expand our sense of the possible."
       },
       {
-        "name": "Human Spirit",
+        "name": "Science",
         "signal": "bright",
-        "detail": "The story is fundamentally about curiosity and persistence \u2014 someone outside the academy refusing to accept that hard problems belong only to credentialed experts."
+        "detail": "Intellia Therapeutics' CRISPR-based treatment met its Phase 3 trial goals for hereditary angioedema, marking a genuine milestone for gene editing as a clinical reality rather than a laboratory promise."
+      },
+      {
+        "name": "Discovery",
+        "signal": "bright",
+        "detail": "NASA's TESS telescope data has yielded 10,000 new candidate planets, quietly expanding the map of the cosmos while the news cycle burns."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Human-AI collaboration here modeled its best-case form: a person steering inquiry, a tool amplifying capability, and a community open-sourcing the result on a public problems registry."
-      },
-      {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "No strong environmental signal today, though Science Daily's groundbreaking dark matter and exotic particle findings hint at a week of deep physics progress."
+        "signal": "glimmer",
+        "detail": "Palestinian officials hailed local elections in Gaza and the West Bank as a step toward long-delayed democratic participation, a fragile but real signal of civic life persisting under extreme pressure."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Mississippi middle schoolers stopped a runaway bus after their driver lost consciousness \u2014 a small, luminous act of young people rising to the moment under pressure."
+        "detail": "Egypt's Grand Egyptian Museum has finally opened after decades of planning, giving the world a vast, dedicated home for one of humanity's greatest civilizational legacies."
       }
     ],
     "mood": [
-      "curious",
-      "empowered",
+      "triumphant",
+      "resilient",
+      "boundless",
       "breakthrough",
-      "unexpected",
-      "democratizing"
+      "alive"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-04-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a laptop keyboard and trackpad, late afternoon golden amber sunlight raking across the keys from a window just off-frame left, casting long warm shadows between each key row. The trackpad surface reflects a cool blue-white ChatGPT chat window glowing from the screen above, its scroll of dense mathematical text visible as a ghostly mirror shimmer in the brushed surface. One finger hovers motionless above the Enter key, caught mid-breath, the skin lit half in warm amber and half in screen-cool teal. At the very edge of the trackpad reflection, the luminous number 1.6 floats like a tiny lighthouse beacon, rendered in bright white pixels with a soft teal halo. In the extreme upper-right corner of the frame, just barely visible at the screen's base, a cascade of tiny prime number glyphs \u2014 2, 3, 5, 7 \u2014 tumbles downward in deep golden pixels, dissolving into the warm shadow of the desk surface. The overall palette is deep molten amber and warm teal, side-lit, radiant, intimate \u2014 a miracle compressed into the space between one finger and one key.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-26.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-04-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The Mall in London at night, the long ceremonial avenue stretching back into deep darkness, the pale tarmac road surface glowing in pools of brilliant artificial light from massive finish gantry floodlights and giant digital display boards, tall plane trees on both sides fading into black shadow above with only their lowest branches caught in the harsh upward flood of gold and electric blue light. The finish gantry dominates the frame \u2014 a towering arch blazing with sponsor lights and one enormous digital clock display frozen at 1:59:30, those four impossible digits burning in brilliant gold against deep shadow, the single most luminous object in the entire scene. A lean runner in red and green crossing the blue painted finish line beneath the gantry, arms just beginning to rise, head turning back toward the glowing clock. The barrier-lined chute stretches deep into darkness behind, a second figure visible strides back in the blackness. On both sides of The Mall the crowd is a dense dark mass punctuated by thousands of tiny phone screens raised and glowing like scattered embers, a wall of electric blue and amber sparks. Buckingham Palace fa\u00e7ade barely visible as a pale ghost shape in the far distance. Rich emerald and deep gold color palette, vivid artificial light against crushing dark.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-27.png"
   }
 }
