@@ -7693,5 +7693,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The Mall in London at night, the long ceremonial avenue stretching back into deep darkness, the pale tarmac road surface glowing in pools of brilliant artificial light from massive finish gantry floodlights and giant digital display boards, tall plane trees on both sides fading into black shadow above with only their lowest branches caught in the harsh upward flood of gold and electric blue light. The finish gantry dominates the frame \u2014 a towering arch blazing with sponsor lights and one enormous digital clock display frozen at 1:59:30, those four impossible digits burning in brilliant gold against deep shadow, the single most luminous object in the entire scene. A lean runner in red and green crossing the blue painted finish line beneath the gantry, arms just beginning to rise, head turning back toward the glowing clock. The barrier-lined chute stretches deep into darkness behind, a second figure visible strides back in the blackness. On both sides of The Mall the crowd is a dense dark mass punctuated by thousands of tiny phone screens raised and glowing like scattered embers, a wall of electric blue and amber sparks. Buckingham Palace fa\u00e7ade barely visible as a pale ghost shape in the far distance. Rich emerald and deep gold color palette, vivid artificial light against crushing dark.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-27.png"
     }
+  },
+  {
+    "date": "2026-04-28",
+    "generated_at": "2026-04-28T12:24:59.755235+00:00",
+    "doom": {
+      "percentage": 40.5,
+      "raw_percentage": 41.7,
+      "driver": "U.S. is 'being humiliated by Iran,' says Germany's Merz, as Europe's patience wanes.",
+      "category": "Geopolitics",
+      "blurb": "ALLIES LOSING PATIENCE. OIL HITS $100. HORMUZ STILL CLOSED.",
+      "summary": "Two months into a shooting war with Iran, the U.S. can't close the deal, oil just cracked $100 a barrel, and Germany's chancellor is publicly calling America humiliated \u2014 which is not the kind of ally feedback you want during an active conflict. Meanwhile Iran's foreign minister is in Moscow collecting diplomatic chips, Rubio just dismissed Tehran's latest peace proposal, and the Strait of Hormuz remains a very expensive bottleneck. The war isn't escalating dramatically today, but it's calcifying into something potentially worse: a prolonged stalemate with $100 oil, fraying alliances, and no exit ramp in sight.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran war enters stalemate phase \u2014 oil tops $100, Hormuz still blocked, Germany openly calling out American humiliation, and Iran's FM courts Moscow for leverage."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Musk v. Altman trial begins over OpenAI's future; Microsoft-OpenAI exclusive deal collapses; Google signs classified Pentagon AI deal while 600+ employees revolt \u2014 AI governance is genuinely in flux."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "China blocks Meta's Manus acquisition, deepening US-China AI decoupling; DeepSeek posts new breakthrough; OpenAI reportedly missing its own revenue targets despite the hype."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Assassination attempt on Trump at White House Correspondents' Dinner charged; Colombia highway bombing kills 21; IS claims Nigeria football pitch massacre \u2014 political violence spiking across multiple continents."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "The Musk-Altman trial centers partly on OpenAI's original safety mission versus commercial pivot \u2014 a public airing of alignment-vs-profit tensions, even if mostly legal theater."
+        }
+      ],
+      "mood": [
+        "grinding",
+        "calcifying",
+        "fractious",
+        "expensive",
+        "unresolved"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from the dark water surface of the Strait of Hormuz looking up along the rust-streaked hull of a massive VLCC oil tanker that towers impossibly overhead like a steel cliff face, the enormous vessel's barnacled underbelly and anchor chain filling the upper frame, a second idle supertanker visible beyond it against a sky choked with crimson-tinged haze and heat shimmer, the jagged rust-red limestone cliffs of the Musandam Peninsula rising sharply to the left in dark silhouette, the flat Iranian coastline a low oppressive smear on the right horizon, the narrow strait's dark blue-green water reflecting broken firelight oranges and deep crimsons from the haze above, below the waterline suggestion of tanker shadow swallowing the frame, a wall-mounted projected map of the Middle East visible as if reflected ghostlike in the water's surface with a red circle pulsing over the strait's chokepoint, distant spherical LNG carrier tanks on the horizon glowing like cold silver moons through the smoky atmosphere, the entire scene color-graded in dark crimson and charcoal with high contrast oppressive shadows, no text, no antialiasing, dramatic low-angle perspective.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-28.png"
+    },
+    "dawn": {
+      "percentage": 59.5,
+      "driver": "Coral reefs on a remote archipelago shrugged off a massive heatwave. Scientists were shocked to find that the Houtman Abrolhos Islands' coral reefs survived a prolonged extreme heatwave in 2025 virtually unharmed, which may reveal how to protect corals elsewhere",
+      "category": "Environment",
+      "blurb": "THE REEF THAT REFUSED TO DIE",
+      "summary": "In a week dominated by war, nuclear anxiety, and energy collapse, nature quietly delivered a genuine surprise: coral reefs off Western Australia survived a prolonged extreme heatwave in 2025 virtually unharmed \u2014 stunning the scientists who expected the worst. This isn't just good news for one archipelago; it's a potential roadmap for reef resilience at a time when ocean temperatures keep breaking records. When the world is burning, finding ecosystems that shrug it off and teaching us why matters enormously.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Discovering heat-resilient coral populations gives marine biologists a live template for studying and potentially replicating natural reef survival mechanisms globally."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "The Houtman Abrolhos reefs emerging unharmed from a 2025 heatwave challenges the assumption that coral bleaching collapse is now inevitable under climate change."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "King Charles III's historic address to Congress opens a rare diplomatic channel at a moment when US-UK relations are strained by the Iran war and trade tensions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Hero middle school students took control of their school bus after the driver suffered a medical episode, keeping every passenger safe through calm, decisive action."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Undergraduate students built their own dark matter detector from limited resources and used it to probe one of physics' deepest mysteries \u2014 citizen science at its most inspiring."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "wonder",
+        "discovery",
+        "hope",
+        "tenacity"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a marine research vessel cabin or underwater observation chamber, warm amber and gold light from above illuminating the space, a large rectangular porthole window dominating the frame and looking directly out into clear blue-green Indian Ocean water \u2014 beyond the glass the Houtman Abrolhos reef stretches in impossible vivid life, rich emerald and gold coral colonies glowing in dappled underwater light, brain corals and staghorn corals and massive boulder corals all saturated and thriving, not a trace of bleaching white. Inside the cabin a researcher in a wetsuit sits at the window with a waterproof survey slate resting forgotten in her lap, body turned toward the porthole, posture radiating stunned disbelief, one hand pressed flat against the glass. Behind her a lab bench holds a lit aquarium tank containing a small coral fragment glowing warm gold-orange, a digital temperature gauge beside it reading a number that should mean death, a degree-heating-week chart on a clipboard showing a line climbing catastrophically high. Afternoon gold light filters through the porthole in long diagonal shafts, catching suspended particles in the water, the outside reef world saturated in emerald and warm amber, alive and miraculous against all expectation.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-28.png"
+    }
   }
 ]
