@@ -7628,5 +7628,100 @@
       "card_image": "dawn-card-2026-04-28.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene inside a marine research vessel cabin or underwater observation chamber, warm amber and gold light from above illuminating the space, a large rectangular porthole window dominating the frame and looking directly out into clear blue-green Indian Ocean water \u2014 beyond the glass the Houtman Abrolhos reef stretches in impossible vivid life, rich emerald and gold coral colonies glowing in dappled underwater light, brain corals and staghorn corals and massive boulder corals all saturated and thriving, not a trace of bleaching white. Inside the cabin a researcher in a wetsuit sits at the window with a waterproof survey slate resting forgotten in her lap, body turned toward the porthole, posture radiating stunned disbelief, one hand pressed flat against the glass. Behind her a lab bench holds a lit aquarium tank containing a small coral fragment glowing warm gold-orange, a digital temperature gauge beside it reading a number that should mean death, a degree-heating-week chart on a clipboard showing a line climbing catastrophically high. Afternoon gold light filters through the porthole in long diagonal shafts, catching suspended particles in the water, the outside reef world saturated in emerald and warm amber, alive and miraculous against all expectation."
     }
+  },
+  {
+    "date": "2026-04-29",
+    "generated_at": "2026-04-29T12:18:13.999077+00:00",
+    "doom": {
+      "percentage": 41.9,
+      "raw_percentage": 43.7,
+      "driver": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'. Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.",
+      "category": "Geopolitics",
+      "blurb": "PRESIDENT POSTS GUN MEME. OIL HITS $114.",
+      "summary": "The Commander-in-Chief is conducting foreign policy via AI-generated gun selfies on TruthSocial, which is either a bold intimidation tactic or the most alarming use of image generation software since deepfakes. Meanwhile Brent crude punched through $114 a barrel, the Pentagon just signed 'any lawful use' AI deal with Google, and Kim Jong Un is publicly praising soldiers who grenaded themselves rather than surrender \u2014 so the backdrop to Trump's meme diplomacy is, shall we say, lively. The Hormuz blockade is starving aid shipments, the UAE just rage-quit OPEC, and somehow a seashell Instagram post got a former FBI director indicted. Totally normal Wednesday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Trump posting AI gun imagery at Iran while Brent tops $114, Hormuz remains blocked, and the UAE's OPEC exit signals Gulf alliance fragmentation."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Google-Pentagon 'any lawful use' AI deal confirmed, Pentagon AI chief acknowledges expanded DOD reliance on Gemini for military applications."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "FCC ordered review of ABC broadcast licences over a late-night joke; Comey indicted over a seashell photo \u2014 institutional norms under sustained pressure."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Musk on the stand claiming he founded OpenAI to prevent a 'Terminator outcome' \u2014 the men who built the thing are now litigating who gets to control it."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Somali piracy resurging as naval assets shift to the Middle East, and North Korean troops confirmed to be self-destructing rather than face capture in Ukraine."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "farcical",
+        "escalating",
+        "unhinged",
+        "fragmented"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-04-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down \u2014 a vast pre-dawn scene dominated by the dark oil-slicked waters of the Strait of Hormuz stretching across the full frame, the narrow chokepoint between shadowed coastlines glowing with distant port crane silhouettes and blinking navigation lights on the Iranian northern shore. The landscape swallows everything in deep crimson and charcoal tones, firelight-orange reflections shimmering across the black water in jagged pixel streaks. Three massive VLCC supertankers sit low and heavy in the strait, their rust-streaked hulls tiny against the enormous geographic chokepoint, red and green navigation lights pulsing in the darkness. A smartphone screen glows on the water's surface like a fallen star \u2014 its display showing a pixelated AI-generated image artifact with symmetrical amber-and-charcoal explosion gradients and bold impact-font text block rendering, the Truth Social red header bar visible as a thin crimson stripe, the whole device impossibly small against the vastness of the strait. On the far left edge, tiny IRGC fast-attack craft churn white pixel wakes in tight arcs around the tanker hulls. On the far right, barely visible, a glowing trading monitor cluster renders WTI and Brent price numbers in hot green pixels. The entire scene is crushed in high-contrast pre-dawn darkness, oppressive and tense, firelight orange and deep crimson reflecting off every wet surface. No text, no antialiasing, pure 16-bit SNES pixel palette."
+    },
+    "dawn": {
+      "percentage": 58.1,
+      "driver": "Afghanistan women footballers can return to competition after FIFA rule changes. Afghanistan women will become a 'symbol of resilience' after Fifa approved their return to international competition, says former captain Khalida Popal.",
+      "category": "Human Spirit",
+      "blurb": "AFGHAN WOMEN RETURN TO THE PITCH",
+      "summary": "Against a backdrop of war, authoritarianism, and global fracture, FIFA's rule change allowing Afghan women footballers to compete internationally is a quiet but profound act of defiance. Women who were erased from public life under Taliban rule will now represent their nation \u2014 and something larger than their nation \u2014 on a world stage. Former captain Khalida Popal called them a 'symbol of resilience,' and on a week this heavy, that symbol matters.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Afghan women athletes, barred from sport under Taliban rule, are returning to international competition \u2014 a direct rebuke to erasure, backed by a global institution."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "FIFA's rule change represents rare institutional action that prioritizes human dignity over political convenience, with support from the refugee football community."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "A forgotten drug originally treating sleeping sickness is showing early promise against the rare and fatal Bachmann-Bupp syndrome in children, reviving hope from old medicine."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Global rainforest loss slowed in 2025, with researchers crediting Brazil's Lula administration policies as a meaningful brake on deforestation after a record-breaking year."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Endangered mountain bongo antelopes \u2014 fewer than 100 left in the wild \u2014 were flown from a Czech zoo back to their native Kenyan highlands in what conservationists called a historic homecoming."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "defiance",
+        "restoration",
+        "solidarity",
+        "perseverance"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-04-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a football pitch in Morocco shrouded in a warm golden haze, thick amber dust and heat shimmer rolling across the field from the direction of the Atlas Mountains, the air saturated with suspended ochre particles that filter the late afternoon sun into rich emerald and gold beams cutting diagonally through the atmospheric fog. The pitch itself glows through the haze, green grass luminous beneath layers of warm mist, long shadows stretching across the center circle. Within this golden atmospheric veil, several women in red, black, and green Afghan national jerseys emerge as silhouettes and half-lit figures \u2014 one kneeling at the edge of the pitch pulling on worn football boots with quiet deliberate focus, another standing tall with a captain's armband visible on her raised arm gesturing outward toward the horizon, a third mid-sprint through the haze her form dissolving into the golden light. A worn black and white football rests on the center circle catching a shaft of emerald-tinted sunlight through the dust. At the far edge of the pitch, barely visible through the atmospheric layers, the soft silhouette of a small screen glows faintly \u2014 a tiny figure watching from somewhere far away. The entire scene breathes through the weather, saturated gold and vibrant emerald dominating, deep amber shadows at the edges, the haze itself feeling like a held breath finally exhaled into open air."
+    }
   }
 ]
