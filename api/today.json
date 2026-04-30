@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T12:18:13.999077+00:00",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T12:16:19.435031+00:00",
   "doom": {
-    "percentage": 41.9,
+    "percentage": 42.2,
     "raw_percentage": 43.7,
-    "driver": "Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!'. Oil prices continued to rise on Wednesday after U.S. President Donald Trump appeared to threaten Iran in a TruthSocial post.",
+    "driver": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options. Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
     "category": "Geopolitics",
-    "blurb": "PRESIDENT POSTS GUN MEME. OIL HITS $114.",
-    "summary": "The Commander-in-Chief is conducting foreign policy via AI-generated gun selfies on TruthSocial, which is either a bold intimidation tactic or the most alarming use of image generation software since deepfakes. Meanwhile Brent crude punched through $114 a barrel, the Pentagon just signed 'any lawful use' AI deal with Google, and Kim Jong Un is publicly praising soldiers who grenaded themselves rather than surrender \u2014 so the backdrop to Trump's meme diplomacy is, shall we say, lively. The Hormuz blockade is starving aid shipments, the UAE just rage-quit OPEC, and somehow a seashell Instagram post got a former FBI director indicted. Totally normal Wednesday.",
+    "blurb": "CENTCOM HAS A PLAN. OIL HITS $126.",
+    "summary": "The US-Iran war just crossed day 62 with no end date, a $25 billion price tag, and now CENTCOM drafting fresh strike options while Brent crude briefly kissed $126 a barrel \u2014 the highest since 2022. Trump is simultaneously threatening to pull troops from Germany, leaving NATO allies to wonder if America is breaking up with its friends mid-war. The Strait of Hormuz remains choked, Iran's shadow fleet is running dark-ship ops to dodge the blockade, and wildfire season hasn't even started yet \u2014 which will now cost tens of millions more because jet fuel has nearly doubled.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Trump posting AI gun imagery at Iran while Brent tops $114, Hormuz remains blocked, and the UAE's OPEC exit signals Gulf alliance fragmentation."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Google-Pentagon 'any lawful use' AI deal confirmed, Pentagon AI chief acknowledges expanded DOD reliance on Gemini for military applications."
+        "detail": "CENTCOM strike options being prepared for Trump briefing while oil hits $126, Iran blockade holds at day 62 with no exit ramp visible."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "FCC ordered review of ABC broadcast licences over a late-night joke; Comey indicted over a seashell photo \u2014 institutional norms under sustained pressure."
+        "detail": "Trump threatens Germany troop cuts mid-war, Supreme Court weakens Voting Rights Act, and Comey faces charges over a seashell Instagram post."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "OpenAI's restricted GPT-5.5-Cyber model rolls out to 'critical cyber defenders only' \u2014 a frontier cybersecurity AI with controlled access is still a frontier cybersecurity AI."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "Musk on the stand claiming he founded OpenAI to prevent a 'Terminator outcome' \u2014 the men who built the thing are now litigating who gets to control it."
+        "detail": "AI coding agent Cursor deleted an entire production database in 9 seconds; seven families sue OpenAI alleging ChatGPT activity flagged a mass shooter that the company didn't report."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Somali piracy resurging as naval assets shift to the Middle East, and North Korean troops confirmed to be self-destructing rather than face capture in Ukraine."
+        "signal": "low",
+        "detail": "Drone strikes on Middle East data centers have spooked Big Tech into halting regional projects \u2014 war is now literally destroying cloud infrastructure."
       }
     ],
     "mood": [
+      "escalatory",
+      "expensive",
+      "unresolved",
       "volatile",
-      "farcical",
-      "escalating",
-      "unhinged",
-      "fragmented"
+      "fatigued"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view at a 45-degree angle looking down \u2014 a vast pre-dawn scene dominated by the dark oil-slicked waters of the Strait of Hormuz stretching across the full frame, the narrow chokepoint between shadowed coastlines glowing with distant port crane silhouettes and blinking navigation lights on the Iranian northern shore. The landscape swallows everything in deep crimson and charcoal tones, firelight-orange reflections shimmering across the black water in jagged pixel streaks. Three massive VLCC supertankers sit low and heavy in the strait, their rust-streaked hulls tiny against the enormous geographic chokepoint, red and green navigation lights pulsing in the darkness. A smartphone screen glows on the water's surface like a fallen star \u2014 its display showing a pixelated AI-generated image artifact with symmetrical amber-and-charcoal explosion gradients and bold impact-font text block rendering, the Truth Social red header bar visible as a thin crimson stripe, the whole device impossibly small against the vastness of the strait. On the far left edge, tiny IRGC fast-attack craft churn white pixel wakes in tight arcs around the tanker hulls. On the far right, barely visible, a glowing trading monitor cluster renders WTI and Brent price numbers in hot green pixels. The entire scene is crushed in high-contrast pre-dawn darkness, oppressive and tense, firelight orange and deep crimson reflecting off every wet surface. No text, no antialiasing, pure 16-bit SNES pixel palette.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-29.png"
+    "card_image": "doom-card-2026-04-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the face of a single steel crude oil barrel viewed dead-on, its dented rusted-red surface dominating every pixel \u2014 the barrel stamped with bold stenciled pricing digits barely legible through corrosion, the metal surface reflecting a distorted panorama of the world trapped in its curved skin: in the dark convex reflection, the silhouette of an immense VLCC supertanker sits low and heavy on hammered-bronze Persian Gulf water, flanked by the angular gray profile of a guided-missile destroyer with VLS cells visible on its forward deck, the Iranian coastline a haze-blurred ridge on the horizon with orange-yellow flare stacks burning against a pre-dawn sky above Bandar Abbas, heat shimmer already rising from the flat-calm water \u2014 all of this compressed and curved into the barrel's belly like a terrible omen \u2014 the barrel itself lit from below by deep firelight, casting dark crimson gradients across pitted steel, charcoal shadow pooling in every dent and seam, rust streaks running like dried blood down the drum's face, the overall palette a suffocating dark crimson and charcoal with high contrast firelight catching the barrel's upper rim in a thin burning orange line, no antialiasing, no text, 16-bit pixel clusters rendering every rust pit and reflection in brutal chunky detail.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-30.png"
   },
   "dawn": {
-    "percentage": 58.1,
-    "driver": "Afghanistan women footballers can return to competition after FIFA rule changes. Afghanistan women will become a 'symbol of resilience' after Fifa approved their return to international competition, says former captain Khalida Popal.",
-    "category": "Human Spirit",
-    "blurb": "AFGHAN WOMEN RETURN TO THE PITCH",
-    "summary": "Against a backdrop of war, authoritarianism, and global fracture, FIFA's rule change allowing Afghan women footballers to compete internationally is a quiet but profound act of defiance. Women who were erased from public life under Taliban rule will now represent their nation \u2014 and something larger than their nation \u2014 on a world stage. Former captain Khalida Popal called them a 'symbol of resilience,' and on a week this heavy, that symbol matters.",
+    "percentage": 57.8,
+    "driver": "'Historic breakthrough': Colombia climate talks end with hopes raised for fossil fuel phaseout. Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summits",
+    "category": "Environment",
+    "blurb": "NEARLY 60 NATIONS AGREE TO QUIT FOSSIL FUELS",
+    "summary": "While the Iran war grinds toward a $25 billion price tag and oil hits highs not seen since 2022, nearly 60 nations gathered in Santa Marta, Colombia and quietly did something remarkable: agreed on voluntary roadmaps to phase out coal, oil, and gas. The summit was born from frustration with sluggish UN processes \u2014 meaning this represents countries deciding to move faster, not slower, than the system allows. It won't fix everything overnight, but when the world is literally burning through fossil fuels to fund a war, watching dozens of governments commit in the other direction is the kind of signal that compounds.",
     "factors": [
       {
-        "name": "Human Spirit",
+        "name": "Environment",
         "signal": "blazing",
-        "detail": "Afghan women athletes, barred from sport under Taliban rule, are returning to international competition \u2014 a direct rebuke to erasure, backed by a global institution."
+        "detail": "Nearly 60 countries endorsing fossil fuel phaseout roadmaps at Santa Marta is the broadest voluntary climate coalition assembled outside a formal UN process."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "FIFA's rule change represents rare institutional action that prioritizes human dignity over political convenience, with support from the refugee football community."
+        "detail": "The summit was driven by frustration with gridlocked multilateral bodies \u2014 meaning nations self-organized around ambition rather than waiting for consensus from the slowest actors."
       },
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "A forgotten drug originally treating sleeping sickness is showing early promise against the rare and fatal Bachmann-Bupp syndrome in children, reviving hope from old medicine."
+        "detail": "Scientists successfully teleported a photon's quantum state across a 270-meter open-air link between two separate quantum dots, a landmark in quantum networking."
       },
       {
-        "name": "Environment",
+        "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Global rainforest loss slowed in 2025, with researchers crediting Brazil's Lula administration policies as a meaningful brake on deforestation after a record-breaking year."
+        "detail": "Thousands of US hockey fans in Buffalo spontaneously sang the Canadian national anthem when a microphone cut out, a small act of cross-border solidarity amid political tensions."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Endangered mountain bongo antelopes \u2014 fewer than 100 left in the wild \u2014 were flown from a Czech zoo back to their native Kenyan highlands in what conservationists called a historic homecoming."
+        "detail": "The Artemis II crew appeared on GMA and at the White House after completing the farthest human journey from Earth in over 50 years \u2014 a reminder that our reach still extends beyond this planet's conflicts."
       }
     ],
     "mood": [
-      "resilience",
-      "defiance",
-      "restoration",
       "solidarity",
-      "perseverance"
+      "momentum",
+      "ambitious",
+      "collaborative",
+      "forward"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated scene: a football pitch in Morocco shrouded in a warm golden haze, thick amber dust and heat shimmer rolling across the field from the direction of the Atlas Mountains, the air saturated with suspended ochre particles that filter the late afternoon sun into rich emerald and gold beams cutting diagonally through the atmospheric fog. The pitch itself glows through the haze, green grass luminous beneath layers of warm mist, long shadows stretching across the center circle. Within this golden atmospheric veil, several women in red, black, and green Afghan national jerseys emerge as silhouettes and half-lit figures \u2014 one kneeling at the edge of the pitch pulling on worn football boots with quiet deliberate focus, another standing tall with a captain's armband visible on her raised arm gesturing outward toward the horizon, a third mid-sprint through the haze her form dissolving into the golden light. A worn black and white football rests on the center circle catching a shaft of emerald-tinted sunlight through the dust. At the far edge of the pitch, barely visible through the atmospheric layers, the soft silhouette of a small screen glows faintly \u2014 a tiny figure watching from somewhere far away. The entire scene breathes through the weather, saturated gold and vibrant emerald dominating, deep amber shadows at the edges, the haze itself feeling like a held breath finally exhaled into open air.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-29.png"
+    "card_image": "dawn-card-2026-04-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight. The Caribbean coastline of Santa Marta at golden dusk, Sierra Nevada mountains rising in deep indigo silhouette against a blazing sky of molten gold and emerald green, the sea glittering amber and jade below. In the foreground, two women stand side by side in powerful silhouette on an open terrace or balcony overlooking the coast, their postures upright and resolute, one gesturing outward toward the horizon. Behind them through tall open doors, the warm interior glow of a conference hall spills outward, and the faint silhouettes of dozens of national flags line the table within, their poles creating a dense forest of tiny shapes. To one side, a large unrolled document or map is spread flat on a table, backlit so its edges glow gold, ink fresh and luminous. A small cluster of silhouetted figures stands nearby in quiet deliberation. Far out on the horizon, the faint low flat outline of a tiny island nation sits just above the waterline, barely visible, fragile against the vast glowing sea. The entire scene is saturated in rich gold, deep emerald, and warm amber, tropical light flooding every surface, dawn-like in its tender triumphant glow.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-30.png"
   }
 }
