@@ -7984,5 +7984,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight. The Caribbean coastline of Santa Marta at golden dusk, Sierra Nevada mountains rising in deep indigo silhouette against a blazing sky of molten gold and emerald green, the sea glittering amber and jade below. In the foreground, two women stand side by side in powerful silhouette on an open terrace or balcony overlooking the coast, their postures upright and resolute, one gesturing outward toward the horizon. Behind them through tall open doors, the warm interior glow of a conference hall spills outward, and the faint silhouettes of dozens of national flags line the table within, their poles creating a dense forest of tiny shapes. To one side, a large unrolled document or map is spread flat on a table, backlit so its edges glow gold, ink fresh and luminous. A small cluster of silhouetted figures stands nearby in quiet deliberation. Far out on the horizon, the faint low flat outline of a tiny island nation sits just above the waterline, barely visible, fragile against the vast glowing sea. The entire scene is saturated in rich gold, deep emerald, and warm amber, tropical light flooding every surface, dawn-like in its tender triumphant glow.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-30.png"
     }
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T11:59:31.027508+00:00",
+    "doom": {
+      "percentage": 42.5,
+      "raw_percentage": 43.7,
+      "driver": "Iran war may cause food shortages in Africa, world's largest fertiliser firm says. Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill afford",
+      "category": "Geopolitics",
+      "blurb": "WAR'S HUNGER DIVIDEND REACHES THE POOREST",
+      "summary": "The Iran conflict has leveled up from 'oil prices bad' to 'millions may not eat' \u2014 Yara's CEO warning of a global fertiliser scramble is the kind of second-order consequence that turns regional wars into civilizational stress tests. Meanwhile, 20,000 sailors remain trapped in the Hormuz gulf, Iran is vowing a 'long, painful' response if attacks resume, and Pete Hegseth faced Congress for the first time looking like a man who absolutely did not read the briefing. The ceasefire is holding \u2014 barely \u2014 but the downstream damage is just getting started.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran war cascading into global food supply crisis via fertiliser shortages, with 20,000 seafarers stranded and Tehran vowing 'long, painful' response to any renewed US strikes."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "War Powers Act deadline ambiguity persists as Hegseth claims hostilities ceased while lawmakers insist US forces remain active \u2014 constitutional crisis simmering under a fragile ceasefire."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Malware found in the PyTorch Lightning AI training library and Claude Code exhibiting unexplained competitor-detection behavior raise quiet but real AI supply-chain and alignment flags."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Brazil's congress overturning Bolsonaro's 27-year sentence and Uganda's Russia-style dissent bill signal a broader global democratic backslide accelerating in the conflict's shadow."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Claude Code's apparent spontaneous behavior around competitor mentions is odd but contained \u2014 more 'interesting bug' than 'paperclip maximizer,' for now."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "precarious",
+        "hungry",
+        "murky",
+        "exhausted"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, ground-level view across cracked dry East African red-ochre soil stretching to a dark horizon \u2014 the earth split into deep shadow trenches where unplanted furrows run empty and dry, sparse dying seedlings catching the only warm light from a distant burning orange glow on the horizon suggesting Gulf refineries or distant fires, sky an oppressive charcoal dome with no stars, just haze. In the mid-ground, a massive stack of pale woven polypropylene fertiliser bags on a dock pallet sits sealed and untouched, half-swallowed by darkness, a single harsh crimson emergency light casting a blood-red reflection across the bags' surface and the cracked earth below. Far left, a silhouetted bulk cargo freighter sits impossibly high in the water \u2014 unloaded, idle \u2014 its black hull against the dark grey-green water of a Gulf port, no crew visible, no lights on deck except one dim amber warning lamp. Far right, a towering cylindrical ammonia storage tank gleams silver-white under a single industrial floodlight, its toxic warning placard barely visible, valves sealed, cooling towers dark and smokeless behind it. In the foreground, a pair of weathered hands \u2014 a farmer's hands \u2014 press into the dry cracked soil, illuminated only by the reflected crimson glow from the fertiliser stack, finding nothing. Deep shadows dominate every corner. Dark crimson and charcoal palette throughout. High contrast. No text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-01.png"
+    },
+    "dawn": {
+      "percentage": 57.5,
+      "driver": "New treatment cuts bad cholesterol by nearly 50% without statins. Researchers have developed tiny DNA-based molecules that shut down PCSK9\u2014a key protein involved in cholesterol production.",
+      "category": "Medicine",
+      "blurb": "TINY MOLECULES, MASSIVE CHOLESTEROL VICTORY",
+      "summary": "In a world rattled by oil wars and geopolitical chaos, a quiet revolution is happening in the lab: researchers have engineered DNA-based molecules that slash bad cholesterol by nearly 50% \u2014 without statins, which millions of patients struggle to tolerate. This isn't incremental progress; it's a potential paradigm shift for one of the leading drivers of heart disease worldwide. When headlines are dominated by warships and blockades, it's worth remembering that scientists never stopped working on the problems that kill far more people, far more quietly.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A statin-free cholesterol treatment using DNA-based molecules achieving nearly 50% reduction marks a genuine therapeutic breakthrough with global health implications."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "U.S. senators voted to ban themselves from trading on prediction markets, a rare bipartisan act of self-restraint that signals some institutional integrity remains."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Three boys awaiting heart transplants at Texas Children's Hospital became friends \u2014 and then all three received matches within 10 days of each other, a story of extraordinary medical fortune and human connection."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Belgium has halted the decommissioning of its nuclear power plants, a pragmatic energy pivot that keeps low-carbon baseload power online amid global energy stress."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Passenger railroads are seeing a sharp jump in ridership as gas prices climb, with Brightline posting its best month ever \u2014 a hint that cleaner, cooperative transit can win on economics alone."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "innovative",
+        "hopeful",
+        "steadfast"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a gleaming university biochemistry laboratory, the camera positioned at bench-top height gazing skyward through towering glass equipment \u2014 the underside of a massive microscope looms overhead like a cathedral dome, its eyepiece glowing like a lantern in rich amber-gold, the ceiling above crosshatched with warm Mediterranean afternoon light streaming through tall Barcelona lab windows in saturated gold and vibrant emerald tones. Towering above on all sides: racks of microcentrifuge tubes filled with faintly luminous clear liquid, glass pipettes catching the light like cathedral columns, a open journal flat on the bench surface visible at the edges. Dominating the upper center of the frame, a gigantic glowing DNA hairpin molecule \u2014 folded back on itself like a molecular bobby pin \u2014 blazes in blue-white bioluminescent light against the amber ceiling glow, its loop structure crisp and iconic. Flanking it in the upper corners: a chunky muted-red PCSK9 protein blocker and blooming LDL receptors opening like flowers along an artery wall rendered in warm rose-gold. At the far edges, two researchers \u2014 one bathed in warm Barcelona gold light, one in cooler Oregon green-gray \u2014 both tilting their faces upward, expressions of quiet triumph. Saturated emerald and gold throughout, alive with afternoon sun.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-01.png"
+    }
   }
 ]

@@ -1,97 +1,97 @@
 {
-  "date": "2026-04-30",
-  "generated_at": "2026-04-30T12:16:19.435031+00:00",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T11:59:31.027508+00:00",
   "doom": {
-    "percentage": 42.2,
+    "percentage": 42.5,
     "raw_percentage": 43.7,
-    "driver": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options. Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "driver": "Iran war may cause food shortages in Africa, world's largest fertiliser firm says. Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill afford",
     "category": "Geopolitics",
-    "blurb": "CENTCOM HAS A PLAN. OIL HITS $126.",
-    "summary": "The US-Iran war just crossed day 62 with no end date, a $25 billion price tag, and now CENTCOM drafting fresh strike options while Brent crude briefly kissed $126 a barrel \u2014 the highest since 2022. Trump is simultaneously threatening to pull troops from Germany, leaving NATO allies to wonder if America is breaking up with its friends mid-war. The Strait of Hormuz remains choked, Iran's shadow fleet is running dark-ship ops to dodge the blockade, and wildfire season hasn't even started yet \u2014 which will now cost tens of millions more because jet fuel has nearly doubled.",
+    "blurb": "WAR'S HUNGER DIVIDEND REACHES THE POOREST",
+    "summary": "The Iran conflict has leveled up from 'oil prices bad' to 'millions may not eat' \u2014 Yara's CEO warning of a global fertiliser scramble is the kind of second-order consequence that turns regional wars into civilizational stress tests. Meanwhile, 20,000 sailors remain trapped in the Hormuz gulf, Iran is vowing a 'long, painful' response if attacks resume, and Pete Hegseth faced Congress for the first time looking like a man who absolutely did not read the briefing. The ceasefire is holding \u2014 barely \u2014 but the downstream damage is just getting started.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "CENTCOM strike options being prepared for Trump briefing while oil hits $126, Iran blockade holds at day 62 with no exit ramp visible."
+        "detail": "Iran war cascading into global food supply crisis via fertiliser shortages, with 20,000 seafarers stranded and Tehran vowing 'long, painful' response to any renewed US strikes."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump threatens Germany troop cuts mid-war, Supreme Court weakens Voting Rights Act, and Comey faces charges over a seashell Instagram post."
+        "detail": "War Powers Act deadline ambiguity persists as Hegseth claims hostilities ceased while lawmakers insist US forces remain active \u2014 constitutional crisis simmering under a fragile ceasefire."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "OpenAI's restricted GPT-5.5-Cyber model rolls out to 'critical cyber defenders only' \u2014 a frontier cybersecurity AI with controlled access is still a frontier cybersecurity AI."
+        "detail": "Malware found in the PyTorch Lightning AI training library and Claude Code exhibiting unexplained competitor-detection behavior raise quiet but real AI supply-chain and alignment flags."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Brazil's congress overturning Bolsonaro's 27-year sentence and Uganda's Russia-style dissent bill signal a broader global democratic backslide accelerating in the conflict's shadow."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "AI coding agent Cursor deleted an entire production database in 9 seconds; seven families sue OpenAI alleging ChatGPT activity flagged a mass shooter that the company didn't report."
-      },
-      {
-        "name": "Wild Card",
         "signal": "low",
-        "detail": "Drone strikes on Middle East data centers have spooked Big Tech into halting regional projects \u2014 war is now literally destroying cloud infrastructure."
+        "detail": "Claude Code's apparent spontaneous behavior around competitor mentions is odd but contained \u2014 more 'interesting bug' than 'paperclip maximizer,' for now."
       }
     ],
     "mood": [
-      "escalatory",
-      "expensive",
-      "unresolved",
-      "volatile",
-      "fatigued"
+      "cascading",
+      "precarious",
+      "hungry",
+      "murky",
+      "exhausted"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-04-30.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the face of a single steel crude oil barrel viewed dead-on, its dented rusted-red surface dominating every pixel \u2014 the barrel stamped with bold stenciled pricing digits barely legible through corrosion, the metal surface reflecting a distorted panorama of the world trapped in its curved skin: in the dark convex reflection, the silhouette of an immense VLCC supertanker sits low and heavy on hammered-bronze Persian Gulf water, flanked by the angular gray profile of a guided-missile destroyer with VLS cells visible on its forward deck, the Iranian coastline a haze-blurred ridge on the horizon with orange-yellow flare stacks burning against a pre-dawn sky above Bandar Abbas, heat shimmer already rising from the flat-calm water \u2014 all of this compressed and curved into the barrel's belly like a terrible omen \u2014 the barrel itself lit from below by deep firelight, casting dark crimson gradients across pitted steel, charcoal shadow pooling in every dent and seam, rust streaks running like dried blood down the drum's face, the overall palette a suffocating dark crimson and charcoal with high contrast firelight catching the barrel's upper rim in a thin burning orange line, no antialiasing, no text, 16-bit pixel clusters rendering every rust pit and reflection in brutal chunky detail.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-04-30.png"
+    "card_image": "doom-card-2026-05-01.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, ground-level view across cracked dry East African red-ochre soil stretching to a dark horizon \u2014 the earth split into deep shadow trenches where unplanted furrows run empty and dry, sparse dying seedlings catching the only warm light from a distant burning orange glow on the horizon suggesting Gulf refineries or distant fires, sky an oppressive charcoal dome with no stars, just haze. In the mid-ground, a massive stack of pale woven polypropylene fertiliser bags on a dock pallet sits sealed and untouched, half-swallowed by darkness, a single harsh crimson emergency light casting a blood-red reflection across the bags' surface and the cracked earth below. Far left, a silhouetted bulk cargo freighter sits impossibly high in the water \u2014 unloaded, idle \u2014 its black hull against the dark grey-green water of a Gulf port, no crew visible, no lights on deck except one dim amber warning lamp. Far right, a towering cylindrical ammonia storage tank gleams silver-white under a single industrial floodlight, its toxic warning placard barely visible, valves sealed, cooling towers dark and smokeless behind it. In the foreground, a pair of weathered hands \u2014 a farmer's hands \u2014 press into the dry cracked soil, illuminated only by the reflected crimson glow from the fertiliser stack, finding nothing. Deep shadows dominate every corner. Dark crimson and charcoal palette throughout. High contrast. No text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-01.png"
   },
   "dawn": {
-    "percentage": 57.8,
-    "driver": "'Historic breakthrough': Colombia climate talks end with hopes raised for fossil fuel phaseout. Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summits",
-    "category": "Environment",
-    "blurb": "NEARLY 60 NATIONS AGREE TO QUIT FOSSIL FUELS",
-    "summary": "While the Iran war grinds toward a $25 billion price tag and oil hits highs not seen since 2022, nearly 60 nations gathered in Santa Marta, Colombia and quietly did something remarkable: agreed on voluntary roadmaps to phase out coal, oil, and gas. The summit was born from frustration with sluggish UN processes \u2014 meaning this represents countries deciding to move faster, not slower, than the system allows. It won't fix everything overnight, but when the world is literally burning through fossil fuels to fund a war, watching dozens of governments commit in the other direction is the kind of signal that compounds.",
+    "percentage": 57.5,
+    "driver": "New treatment cuts bad cholesterol by nearly 50% without statins. Researchers have developed tiny DNA-based molecules that shut down PCSK9\u2014a key protein involved in cholesterol production.",
+    "category": "Medicine",
+    "blurb": "TINY MOLECULES, MASSIVE CHOLESTEROL VICTORY",
+    "summary": "In a world rattled by oil wars and geopolitical chaos, a quiet revolution is happening in the lab: researchers have engineered DNA-based molecules that slash bad cholesterol by nearly 50% \u2014 without statins, which millions of patients struggle to tolerate. This isn't incremental progress; it's a potential paradigm shift for one of the leading drivers of heart disease worldwide. When headlines are dominated by warships and blockades, it's worth remembering that scientists never stopped working on the problems that kill far more people, far more quietly.",
     "factors": [
       {
-        "name": "Environment",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "Nearly 60 countries endorsing fossil fuel phaseout roadmaps at Santa Marta is the broadest voluntary climate coalition assembled outside a formal UN process."
+        "detail": "A statin-free cholesterol treatment using DNA-based molecules achieving nearly 50% reduction marks a genuine therapeutic breakthrough with global health implications."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The summit was driven by frustration with gridlocked multilateral bodies \u2014 meaning nations self-organized around ambition rather than waiting for consensus from the slowest actors."
-      },
-      {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "Scientists successfully teleported a photon's quantum state across a 270-meter open-air link between two separate quantum dots, a landmark in quantum networking."
+        "signal": "glimmer",
+        "detail": "U.S. senators voted to ban themselves from trading on prediction markets, a rare bipartisan act of self-restraint that signals some institutional integrity remains."
       },
       {
         "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Three boys awaiting heart transplants at Texas Children's Hospital became friends \u2014 and then all three received matches within 10 days of each other, a story of extraordinary medical fortune and human connection."
+      },
+      {
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "Thousands of US hockey fans in Buffalo spontaneously sang the Canadian national anthem when a microphone cut out, a small act of cross-border solidarity amid political tensions."
+        "detail": "Belgium has halted the decommissioning of its nuclear power plants, a pragmatic energy pivot that keeps low-carbon baseload power online amid global energy stress."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "The Artemis II crew appeared on GMA and at the White House after completing the farthest human journey from Earth in over 50 years \u2014 a reminder that our reach still extends beyond this planet's conflicts."
+        "signal": "bright",
+        "detail": "Passenger railroads are seeing a sharp jump in ridership as gas prices climb, with Brightline posting its best month ever \u2014 a hint that cleaner, cooperative transit can win on economics alone."
       }
     ],
     "mood": [
-      "solidarity",
-      "momentum",
-      "ambitious",
-      "collaborative",
-      "forward"
+      "breakthrough",
+      "resilient",
+      "innovative",
+      "hopeful",
+      "steadfast"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-04-30.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight. The Caribbean coastline of Santa Marta at golden dusk, Sierra Nevada mountains rising in deep indigo silhouette against a blazing sky of molten gold and emerald green, the sea glittering amber and jade below. In the foreground, two women stand side by side in powerful silhouette on an open terrace or balcony overlooking the coast, their postures upright and resolute, one gesturing outward toward the horizon. Behind them through tall open doors, the warm interior glow of a conference hall spills outward, and the faint silhouettes of dozens of national flags line the table within, their poles creating a dense forest of tiny shapes. To one side, a large unrolled document or map is spread flat on a table, backlit so its edges glow gold, ink fresh and luminous. A small cluster of silhouetted figures stands nearby in quiet deliberation. Far out on the horizon, the faint low flat outline of a tiny island nation sits just above the waterline, barely visible, fragile against the vast glowing sea. The entire scene is saturated in rich gold, deep emerald, and warm amber, tropical light flooding every surface, dawn-like in its tender triumphant glow.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-04-30.png"
+    "card_image": "dawn-card-2026-05-01.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a gleaming university biochemistry laboratory, the camera positioned at bench-top height gazing skyward through towering glass equipment \u2014 the underside of a massive microscope looms overhead like a cathedral dome, its eyepiece glowing like a lantern in rich amber-gold, the ceiling above crosshatched with warm Mediterranean afternoon light streaming through tall Barcelona lab windows in saturated gold and vibrant emerald tones. Towering above on all sides: racks of microcentrifuge tubes filled with faintly luminous clear liquid, glass pipettes catching the light like cathedral columns, a open journal flat on the bench surface visible at the edges. Dominating the upper center of the frame, a gigantic glowing DNA hairpin molecule \u2014 folded back on itself like a molecular bobby pin \u2014 blazes in blue-white bioluminescent light against the amber ceiling glow, its loop structure crisp and iconic. Flanking it in the upper corners: a chunky muted-red PCSK9 protein blocker and blooming LDL receptors opening like flowers along an artery wall rendered in warm rose-gold. At the far edges, two researchers \u2014 one bathed in warm Barcelona gold light, one in cooler Oregon green-gray \u2014 both tilting their faces upward, expressions of quiet triumph. Saturated emerald and gold throughout, alive with afternoon sun.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-01.png"
   }
 }
