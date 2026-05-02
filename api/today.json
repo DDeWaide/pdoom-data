@@ -1,97 +1,96 @@
 {
-  "date": "2026-05-01",
-  "generated_at": "2026-05-01T11:59:31.027508+00:00",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T11:44:18.266571+00:00",
   "doom": {
-    "percentage": 42.5,
+    "percentage": 42.7,
     "raw_percentage": 43.7,
-    "driver": "Iran war may cause food shortages in Africa, world's largest fertiliser firm says. Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill afford",
-    "category": "Geopolitics",
-    "blurb": "WAR'S HUNGER DIVIDEND REACHES THE POOREST",
-    "summary": "The Iran conflict has leveled up from 'oil prices bad' to 'millions may not eat' \u2014 Yara's CEO warning of a global fertiliser scramble is the kind of second-order consequence that turns regional wars into civilizational stress tests. Meanwhile, 20,000 sailors remain trapped in the Hormuz gulf, Iran is vowing a 'long, painful' response if attacks resume, and Pete Hegseth faced Congress for the first time looking like a man who absolutely did not read the briefing. The ceasefire is holding \u2014 barely \u2014 but the downstream damage is just getting started.",
+    "driver": "Trump tells Congress ceasefire means he does not need their approval for Iran war. The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+    "category": "Governance",
+    "blurb": "PRESIDENT INVENTS OWN WAR POWERS DOCTRINE",
+    "summary": "Trump has informed Congress that the Iran war is over (it isn't \u2014 thirteen people died in Lebanon today and Israel is still striking), therefore he doesn't need their permission to keep fighting it. Meanwhile the Pentagon is quietly signing classified AI deals with OpenAI, Google, and Nvidia while pulling 5,000 troops out of Germany, suggesting the executive branch is consolidating wartime authority at the exact moment oversight mechanisms are being waved away. The ceasefire is doing a lot of heavy lifting for a situation where oil is still elevated and China's UN envoy says Hormuz dominates the Xi-Trump agenda.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Iran war cascading into global food supply crisis via fertiliser shortages, with 20,000 seafarers stranded and Tehran vowing 'long, painful' response to any renewed US strikes."
+        "signal": "elevated",
+        "detail": "Iran war continues despite ceasefire claims \u2014 Israeli strikes kill 13 in Lebanon, Trump rejects Tehran's latest peace proposal, and China flags Hormuz reopening as an urgent Trump-Xi priority."
       },
       {
         "name": "Governance",
+        "signal": "high",
+        "detail": "Trump unilaterally declares the War Powers clock stopped by invoking a ceasefire his own officials are not treating as real, effectively sidelining congressional war authorization."
+      },
+      {
+        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "War Powers Act deadline ambiguity persists as Hegseth claims hostilities ceased while lawmakers insist US forces remain active \u2014 constitutional crisis simmering under a fragile ceasefire."
+        "detail": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia; NSA tests Anthropic's Mythos for vulnerabilities; NHS rushes to hide software specifically because AI hacking models like Mythos are deemed a credible threat."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Malware found in the PyTorch Lightning AI training library and Claude Code exhibiting unexplained competitor-detection behavior raise quiet but real AI supply-chain and alignment flags."
+        "detail": "Musk v. Altman trial reveals xAI distills OpenAI models and Musk warns AI could kill everyone \u2014 useful courtroom drama, but no new capability threshold crossed today."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Brazil's congress overturning Bolsonaro's 27-year sentence and Uganda's Russia-style dissent bill signal a broader global democratic backslide accelerating in the conflict's shadow."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Claude Code's apparent spontaneous behavior around competitor mentions is odd but contained \u2014 more 'interesting bug' than 'paperclip maximizer,' for now."
+        "detail": "An alleged assassination attempt on Trump at the White House Correspondents' Dinner, Spirit Airlines collapsing amid jet fuel doubling, and Amazon AWS still offline in the Middle East from drone strikes paint a backdrop of cascading second-order war effects."
       }
     ],
     "mood": [
-      "cascading",
-      "precarious",
-      "hungry",
-      "murky",
-      "exhausted"
+      "constitutional erosion",
+      "creeping permanence",
+      "executive overreach",
+      "war without guardrails"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, ground-level view across cracked dry East African red-ochre soil stretching to a dark horizon \u2014 the earth split into deep shadow trenches where unplanted furrows run empty and dry, sparse dying seedlings catching the only warm light from a distant burning orange glow on the horizon suggesting Gulf refineries or distant fires, sky an oppressive charcoal dome with no stars, just haze. In the mid-ground, a massive stack of pale woven polypropylene fertiliser bags on a dock pallet sits sealed and untouched, half-swallowed by darkness, a single harsh crimson emergency light casting a blood-red reflection across the bags' surface and the cracked earth below. Far left, a silhouetted bulk cargo freighter sits impossibly high in the water \u2014 unloaded, idle \u2014 its black hull against the dark grey-green water of a Gulf port, no crew visible, no lights on deck except one dim amber warning lamp. Far right, a towering cylindrical ammonia storage tank gleams silver-white under a single industrial floodlight, its toxic warning placard barely visible, valves sealed, cooling towers dark and smokeless behind it. In the foreground, a pair of weathered hands \u2014 a farmer's hands \u2014 press into the dry cracked soil, illuminated only by the reflected crimson glow from the fertiliser stack, finding nothing. Deep shadows dominate every corner. Dark crimson and charcoal palette throughout. High contrast. No text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-01.png"
+    "card_image": "doom-card-2026-05-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, interior scene looking outward \u2014 we are deep inside a wood-paneled executive corridor of a grand government building, the view framed by a tall arched doorway whose heavy mahogany doors hang open, dark crimson curtains pulled aside to reveal the outside world beyond. The interior is oppressive and shadow-heavy: dark walnut paneling absorbs the light, a grandfather clock on the near wall shows a number prominently on its face, and on a side table lies a sheet of cream-colored formal stationery bearing a gold circular seal at its top, dense black text filling the page, the numerals 60 visible in bold \u2014 the document catching the only warm interior light, a fireplace glow reflected in the polished floor. Through the arched doorway the outside world opens into a split panorama \u2014 on the left half, a Rose Garden in spring bloom, deep red roses backlit by a late Friday afternoon sun that sits low and blood-orange on the horizon, casting long charcoal shadows across white stone paths. On the right half, as if the world beyond bends impossibly, the Strait of Hormuz stretches in harsh flat light \u2014 a narrow dark waterway between tan arid cliffs, a massive low-riding supertanker silhouetted against the glittering strait, a sleek gray destroyer visible further back, its radar mast a dark spike against the smoldering orange sky. The entire scene is color-graded in dark crimson and charcoal, firelight reflections shimmering on every polished surface, high contrast, no text, no antialiasing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-02.png"
   },
   "dawn": {
-    "percentage": 57.5,
-    "driver": "New treatment cuts bad cholesterol by nearly 50% without statins. Researchers have developed tiny DNA-based molecules that shut down PCSK9\u2014a key protein involved in cholesterol production.",
+    "percentage": 57.3,
+    "driver": "First malaria drug for babies is approved in 'major public health milestone'. WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children",
     "category": "Medicine",
-    "blurb": "TINY MOLECULES, MASSIVE CHOLESTEROL VICTORY",
-    "summary": "In a world rattled by oil wars and geopolitical chaos, a quiet revolution is happening in the lab: researchers have engineered DNA-based molecules that slash bad cholesterol by nearly 50% \u2014 without statins, which millions of patients struggle to tolerate. This isn't incremental progress; it's a potential paradigm shift for one of the leading drivers of heart disease worldwide. When headlines are dominated by warships and blockades, it's worth remembering that scientists never stopped working on the problems that kill far more people, far more quietly.",
+    "blurb": "THE YOUNGEST LIVES JUST GOT SAFER",
+    "summary": "The WHO has prequalified Coartem Baby \u2014 the first malaria treatment formulated specifically for newborns \u2014 a disease that kills hundreds of thousands of children annually, most of them in sub-Saharan Africa. In a world where the headlines are dominated by war, oil shocks, and rising hunger, quiet medical milestones like this one represent the stubborn, grinding work of human progress that never stops. Babies who previously had no safe treatment option now have one \u2014 and that is a straightforward, uncomplicated victory.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A statin-free cholesterol treatment using DNA-based molecules achieving nearly 50% reduction marks a genuine therapeutic breakthrough with global health implications."
+        "detail": "WHO prequalification of Coartem Baby is a regulatory milestone that clears the path for global distribution to the most vulnerable patients imaginable."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "U.S. senators voted to ban themselves from trading on prediction markets, a rare bipartisan act of self-restraint that signals some institutional integrity remains."
+        "signal": "bright",
+        "detail": "WHO prequalification requires coordinated international scientific review, signaling that global health institutions continue to function even amid geopolitical fracture."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Three boys awaiting heart transplants at Texas Children's Hospital became friends \u2014 and then all three received matches within 10 days of each other, a story of extraordinary medical fortune and human connection."
+        "detail": "Australia's progress toward eliminating cervical cancer \u2014 with zero new diagnoses in women under 25 \u2014 shows a second quiet medical triumph running parallel today."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Belgium has halted the decommissioning of its nuclear power plants, a pragmatic energy pivot that keeps low-carbon baseload power online amid global energy stress."
+        "detail": "Iran peace proposals reaching mediators in Pakistan kept oil prices from a new spike today, easing pressure on food and logistics systems the global poor depend on."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Passenger railroads are seeing a sharp jump in ridership as gas prices climb, with Brightline posting its best month ever \u2014 a hint that cleaner, cooperative transit can win on economics alone."
+        "signal": "glimmer",
+        "detail": "Nepal's restoration of a stolen 13th-century Buddha statue from New York is a small but real win for cultural justice and international cooperation."
       }
     ],
     "mood": [
+      "protective",
       "breakthrough",
       "resilient",
-      "innovative",
       "hopeful",
       "steadfast"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from inside a gleaming university biochemistry laboratory, the camera positioned at bench-top height gazing skyward through towering glass equipment \u2014 the underside of a massive microscope looms overhead like a cathedral dome, its eyepiece glowing like a lantern in rich amber-gold, the ceiling above crosshatched with warm Mediterranean afternoon light streaming through tall Barcelona lab windows in saturated gold and vibrant emerald tones. Towering above on all sides: racks of microcentrifuge tubes filled with faintly luminous clear liquid, glass pipettes catching the light like cathedral columns, a open journal flat on the bench surface visible at the edges. Dominating the upper center of the frame, a gigantic glowing DNA hairpin molecule \u2014 folded back on itself like a molecular bobby pin \u2014 blazes in blue-white bioluminescent light against the amber ceiling glow, its loop structure crisp and iconic. Flanking it in the upper corners: a chunky muted-red PCSK9 protein blocker and blooming LDL receptors opening like flowers along an artery wall rendered in warm rose-gold. At the far edges, two researchers \u2014 one bathed in warm Barcelona gold light, one in cooler Oregon green-gray \u2014 both tilting their faces upward, expressions of quiet triumph. Saturated emerald and gold throughout, alive with afternoon sun.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-01.png"
+    "card_image": "dawn-card-2026-05-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at 45-degree angle, vast West African landscape dominating the frame. Methodist Hospital Ankaase Ghana seen from above, whitewashed rooftops glowing rich gold in afternoon equatorial sun, surrounded by dense saturated emerald canopy of tropical trees casting deep jade shadows across red laterite paths. The hospital compound tiny against the overwhelming lush greenery, louvered windows visible as thin amber lines on sun-warmed walls. Within an open ward courtyard visible from above, minuscule figures: a young mother in vivid kente-printed fabric of gold and green seated on a clinic bed, cradling a tiny infant, a white-coated doctor beside her, nurses moving purposefully across tiled floors. A spoon catching afternoon light like a jewel, holding a dissolving cherry-red tablet in luminous white breast milk, a single brilliant point of saturated crimson against warm honey-toned tiles. The scale overwhelms \u2014 this vast continent of emerald canopy and golden earth dwarfing the tiny room where something immense is quietly happening. Afternoon sun filtering through tropical leaves throws dappled amber-gold patterns across rooftops. Rich gold and vibrant emerald palette throughout, saturated and alive, light the color of honey pouring through jalousie windows.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-02.png"
   }
 }
