@@ -8007,5 +8007,100 @@
       "card_image": "dawn-card-2026-05-02.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at 45-degree angle, vast West African landscape dominating the frame. Methodist Hospital Ankaase Ghana seen from above, whitewashed rooftops glowing rich gold in afternoon equatorial sun, surrounded by dense saturated emerald canopy of tropical trees casting deep jade shadows across red laterite paths. The hospital compound tiny against the overwhelming lush greenery, louvered windows visible as thin amber lines on sun-warmed walls. Within an open ward courtyard visible from above, minuscule figures: a young mother in vivid kente-printed fabric of gold and green seated on a clinic bed, cradling a tiny infant, a white-coated doctor beside her, nurses moving purposefully across tiled floors. A spoon catching afternoon light like a jewel, holding a dissolving cherry-red tablet in luminous white breast milk, a single brilliant point of saturated crimson against warm honey-toned tiles. The scale overwhelms \u2014 this vast continent of emerald canopy and golden earth dwarfing the tiny room where something immense is quietly happening. Afternoon sun filtering through tropical leaves throws dappled amber-gold patterns across rooftops. Rich gold and vibrant emerald palette throughout, saturated and alive, light the color of honey pouring through jalousie windows."
     }
+  },
+  {
+    "date": "2026-05-03",
+    "generated_at": "2026-05-03T11:41:54.316972+00:00",
+    "doom": {
+      "percentage": 42.9,
+      "raw_percentage": 43.6,
+      "driver": "Iran submits 14-point response to U.S. proposal to end war.",
+      "category": "Geopolitics",
+      "blurb": "IRAN BLINKS \u2014 BUT TRUST IS THE MISSING POINT",
+      "summary": "Iran has submitted a 14-point peace proposal, which sounds promising until you remember these are two sides that spent the last 65 days firing things at each other. Al Jazeera notes 'mistrust between the two sides is a big obstacle' \u2014 diplomatic understatement of the decade. Meanwhile NATO is quietly fraying: the U.S. is pulling 5,000 troops from Germany, Spain and Italy could be next, and two senior Republican senators are publicly alarmed \u2014 which means even the hawks are nervous.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran's 14-point proposal represents a potential off-ramp from the war, but deep mutual mistrust and ongoing Israel-Hezbollah exchanges keep the situation volatile."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "U.S. troop withdrawals from Germany \u2014 with Spain and Italy potentially next \u2014 are rattling NATO cohesion at a moment when European security architecture is under strain."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Kimi K2.6, an open-weights Chinese model, reportedly beat Claude, GPT-5.5, and Gemini in a coding benchmark, marking another frontier capability leap from a non-Western lab."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A second oil tanker hijacked near Yemen in 10 days and Somali pirates resurging suggest maritime chaos is quietly compounding the Hormuz crisis and global shipping risk."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "VS Code quietly inserting 'Co-Authored-by Copilot' into commits regardless of actual AI usage is a small but telling sign that AI provenance controls are already eroding in the wild."
+        }
+      ],
+      "mood": [
+        "tense",
+        "diplomatic",
+        "fragile",
+        "unraveling",
+        "cautious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, weather-dominated scene \u2014 a dense acrid smog haze swallows a Tehran boulevard at midday, the Alborz mountain foothills barely a ghost silhouette dissolved into charcoal murk behind layers of brown-yellow atmospheric haze, rain beginning to streak diagonally across the frame in thin dark crimson-tinted lines catching the oppressive filtered light \u2014 the entire scene color-graded in deep crimson and charcoal with firelight-orange undertones glowing through the smog layer \u2014 dominating the left half of the frame a massive propaganda billboard mounted on a Tehran intersection structure looms through the haze, its surface depicting a stylized flat-color map of the Strait of Hormuz rendered in high-contrast IRI propaganda aesthetic, the narrow waterway shown in steel-blue with silhouetted supertanker shapes and small aggressive speedboat forms clustered at the chokepoint \u2014 rain streaks run down the billboard face distorting the image \u2014 below the billboard Tehran street traffic moves ghostlike through the wet haze, Iranian-market Peugeot 405 sedans and weaving motorbikes reduced to dark shapes with amber headlights smearing through rain \u2014 in the right foreground a formal multi-page diplomatic document with an Islamic Republic tulip-and-sword emblem letterhead sits on a rain-wet surface, its pages curling at edges from moisture, 14 numbered lines barely visible \u2014 distant right background a carrier group silhouette sits at the horizon through impenetrable brown smog, massive gray hull shapes dissolving into atmosphere \u2014 no text, no antialiasing, 16-bit SNES pixel grid, dark crimson and charcoal palette throughout"
+    },
+    "dawn": {
+      "percentage": 57.1,
+      "driver": "Golden Tempo takes the Kentucky Derby as Cherie DeVaux becomes the 1st woman to train its winner.",
+      "category": "Human Spirit",
+      "blurb": "FIRST WOMAN TRAINS A DERBY WINNER",
+      "summary": "In a sport steeped in 152 years of tradition, Cherie DeVaux just rewrote the record books \u2014 becoming the first woman ever to train a Kentucky Derby winner. On days when geopolitics feels relentlessly grim, sport hands us these clean, undeniable moments of historic first-ness. DeVaux didn't nudge open a door; she walked through one that had been closed for a century and a half, and Golden Tempo carried her there at 23-1 odds.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Cherie DeVaux's Derby win is the kind of barrier-breaking that outlasts the news cycle \u2014 it becomes the answer to a trivia question for generations."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iran's submission of a formal 14-point peace proposal to the U.S. signals that diplomatic back-channels, however strained, remain open on day 65 of the war."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists have discovered that boosting the Sox9 protein enables the brain's own support cells to clear Alzheimer's plaques \u2014 a promising endogenous therapy pathway."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "The Stillaguamish Tribe is purchasing and deliberately flooding former farmland to restore Chinook salmon habitat, a patient, long-horizon act of ecological repair."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Timmy the stranded humpback whale was successfully rescued after a weeks-long community effort that captured global attention \u2014 a small, warm proof that collective care works."
+        }
+      ],
+      "mood": [
+        "historic",
+        "breakthrough",
+        "resilience",
+        "possibility",
+        "tenacity"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single red rose from the Derby blanket, its deep crimson petals rendered in rich saturated pixel clusters, dewdrops catching warm golden afternoon light in tiny glinting pixel squares. The rose dominates the composition completely, its velvety layers of petals built from careful dithering in scarlet, burgundy, and bright vermillion. At the very edges of the frame, implied environment bleeds in: the blurred pixel suggestion of chestnut horse coat in warm amber at the bottom border, a sliver of Churchill Downs twin spires rendered in soft ivory against a saturated emerald-gold sky in the upper corner, and at one petal's edge a ghostly reflection \u2014 a tiny dithered figure of a woman, arms raised, mouth open in joy, rendered in just enough pixels to read as pure triumphant emotion. The ground dust catches the low May sun, turning the background haze into liquid gold and emerald light. Every pixel of the rose glows as though lit from within, saturated and alive, the entire history of eight years crystallized in one perfect bloom."
+    }
   }
 ]
