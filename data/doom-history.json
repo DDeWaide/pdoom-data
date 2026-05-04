@@ -8102,5 +8102,100 @@
       "card_image": "dawn-card-2026-05-03.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single red rose from the Derby blanket, its deep crimson petals rendered in rich saturated pixel clusters, dewdrops catching warm golden afternoon light in tiny glinting pixel squares. The rose dominates the composition completely, its velvety layers of petals built from careful dithering in scarlet, burgundy, and bright vermillion. At the very edges of the frame, implied environment bleeds in: the blurred pixel suggestion of chestnut horse coat in warm amber at the bottom border, a sliver of Churchill Downs twin spires rendered in soft ivory against a saturated emerald-gold sky in the upper corner, and at one petal's edge a ghostly reflection \u2014 a tiny dithered figure of a woman, arms raised, mouth open in joy, rendered in just enough pixels to read as pure triumphant emotion. The ground dust catches the low May sun, turning the background haze into liquid gold and emerald light. Every pixel of the rose glows as though lit from within, saturated and alive, the entire history of eight years crystallized in one perfect bloom."
     }
+  },
+  {
+    "date": "2026-05-04",
+    "generated_at": "2026-05-04T12:22:32.454976+00:00",
+    "doom": {
+      "percentage": 45.3,
+      "raw_percentage": 47.3,
+      "driver": "Iran says it fired missiles at US warship to prevent it entering Hormuz.",
+      "category": "Geopolitics",
+      "blurb": "MISSILES MEET 'PROJECT FREEDOM' IN THE STRAIT",
+      "summary": "Iran just fired missiles at a US Navy destroyer \u2014 the kind of escalation that turns 'diplomatic stalemate' into 'accidental world war.' Meanwhile, Trump launched 'Project Freedom' to guide stranded ships through Hormuz, which Iran promptly threatened to turn into Project Wreckage. With oil already at $126 and India burning extra coal, the economic blast radius of this strait is now a full-spectrum global crisis.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran firing missiles at a US warship in Hormuz is a direct military engagement \u2014 one misfire away from a whole new chapter of this war."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's unilateral 'Project Freedom' naval escort mission bypasses Congress again while Fed chair nominee Warsh rattles markets with unorthodox Fed independence views."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI misallocating healthcare resources in Kenya and outperforming ER triage doctors in the same week \u2014 capability racing ahead of accountability, as usual."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Hantavirus kills three on a cruise ship in the Atlantic; WHO confirms one case with five more suspected \u2014 small outbreak, large psychological footprint post-COVID."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Ukraine's Sky Map drone-intercept AI being repurposed for Gulf operations is a quiet reminder that battlefield AI proliferation has no off switch."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "escalating",
+        "fragile",
+        "anxious",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, silhouette composition, pre-dawn Strait of Hormuz \u2014 the narrow chokepoint geography dominates the frame, the rocky ochre cliffs of the Iranian coastline rising as a jagged black mass along the upper left, the Musandam Peninsula's limestone teeth barely visible as a dark smear along the opposite horizon, the dark teal-green water filling the lower two-thirds of the frame with choppy pixel waves catching deep crimson light from an unseen source low on the horizon \u2014 everything rendered as stark black silhouettes against a bruised sky of dark crimson bleeding into charcoal purple, a sliver of violent orange-red glow separating sea from sky at the horizon line \u2014 in the mid-ground, the unmistakable angular silhouette of an Arleigh Burke-class destroyer, its flat-faced SPY-1D radar panels and VLS deck hatches recognizable against the glow, hull cutting the dark water, American flag a tiny pixel detail at the stern \u2014 beyond it, the enormous black rectangle silhouettes of VLCC supertankers clogging the shipping lane, dwarfing everything \u2014 on the Iranian cliffside in the far left foreground, the dark outline of a hardened coastal battery structure with launch rails angled seaward, camouflage netting draping the bunker edge \u2014 low across the water surface, two thin white contrail streaks barely above the waves converging toward the center frame, firelight reflections shimmering in broken crimson fragments on the dark chop below \u2014 oppressive, high contrast, no text, no antialiasing."
+    },
+    "dawn": {
+      "percentage": 54.7,
+      "driver": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds.",
+      "category": "Discovery",
+      "blurb": "AI UNLOCKS A HUNDRED NEW WORLDS",
+      "summary": "Even as geopolitical crises dominate the headlines, humanity's curiosity reaches deeper into the cosmos. A new AI tool called RAVEN has combed through NASA's TESS mission data and confirmed over 100 previously hidden planets \u2014 including rare and extreme worlds we never knew existed. At a moment when Earth feels dangerously small and fractious, it's worth pausing on the fact that we just expanded our map of the universe.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "RAVEN's AI-driven planetary sweep of NASA TESS data confirms 100+ hidden worlds, demonstrating that space science continues accelerating regardless of earthly turmoil."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Canada's historic invitation to the European Political Community summit signals that new alliances are forming organically to fill the vacuum left by fractured old orders."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Rescuers defied warnings and carried a stranded humpback whale named Timmy by barge into the North Sea, racing against time in an act of sheer collective compassion."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Amsterdam has banned public advertising for meat and fossil fuels, a small but symbolically powerful municipal commitment to its own environmental targets."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "North Korean women footballers will make a rare trip to South Korea for a continental semifinal \u2014 sport quietly opening a door that diplomacy has kept shut for years."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "expansive",
+        "curious",
+        "hopeful",
+        "resilient"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The vast cosmos fills the frame as an infinite night backdrop \u2014 an impossibly dense river of emerald-gold stars cascading across deep space like a glittering Milky Way band rendered in rich saturated greens and warm amber pixels. At the scene's heart, NASA's TESS satellite floats in deep space, its boxy silver-gold foil body and twin rectangular solar panel wings catching vivid golden light, four wide-angle camera eyes glowing outward, Earth a tiny blue-green crescent receding in the far dark distance. Dominating the upper canvas, a blazing amber-gold star burns with saturated warmth as a tiny silhouetted disc \u2014 a transiting exoplanet \u2014 crosses its surface, the classic dimming event rendered as a perfect dark circle against fierce orange-white fire. Surrounding the satellite, streams of luminous light curves cascade like emerald rain, thousands of thin glowing lines representing 2.2 million stars sorted by an unseen AI intelligence. In the lower foreground, three small human silhouettes sit at glowing monitors in a pitch-dark computational lab, their faces lit from below by cool blue-white screen glow contrasting against the warm gold and vibrant emerald of the cosmos above \u2014 dwarfed by the universe they are mapping, one small figure leaning forward in a moment of quiet, sacred wonder."
+    }
   }
 ]
