@@ -8197,5 +8197,99 @@
       "card_image": "dawn-card-2026-05-04.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The vast cosmos fills the frame as an infinite night backdrop \u2014 an impossibly dense river of emerald-gold stars cascading across deep space like a glittering Milky Way band rendered in rich saturated greens and warm amber pixels. At the scene's heart, NASA's TESS satellite floats in deep space, its boxy silver-gold foil body and twin rectangular solar panel wings catching vivid golden light, four wide-angle camera eyes glowing outward, Earth a tiny blue-green crescent receding in the far dark distance. Dominating the upper canvas, a blazing amber-gold star burns with saturated warmth as a tiny silhouetted disc \u2014 a transiting exoplanet \u2014 crosses its surface, the classic dimming event rendered as a perfect dark circle against fierce orange-white fire. Surrounding the satellite, streams of luminous light curves cascade like emerald rain, thousands of thin glowing lines representing 2.2 million stars sorted by an unseen AI intelligence. In the lower foreground, three small human silhouettes sit at glowing monitors in a pitch-dark computational lab, their faces lit from below by cool blue-white screen glow contrasting against the warm gold and vibrant emerald of the cosmos above \u2014 dwarfed by the universe they are mapping, one small figure leaning forward in a moment of quiet, sacred wonder."
     }
+  },
+  {
+    "date": "2026-05-05",
+    "generated_at": "2026-05-05T12:01:40.624309+00:00",
+    "doom": {
+      "percentage": 43.5,
+      "raw_percentage": 43.7,
+      "driver": "CNBC Daily Open: Ceasefire at risk of collapse. An escalation in attacks in the Middle East puts the fragile ceasefire at risk, but market activity remains muted, with earnings keeping investors' attention.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE WOBBLES AS IRAN ATTACKS UAE",
+      "summary": "Yesterday's hopeful Iran ceasefire is today's crumbling fiction: Iran fired on the UAE, the U.S. Navy sank six boats in the Strait, and Sen. Lindsey Graham is already shopping for new targets. Markets, apparently bored, are watching Ferrari earnings instead. The story has shifted from 'will they negotiate?' to 'who fired first this time?' \u2014 a subtle but meaningful escalation in a conflict everyone agreed was over.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran attacked the UAE and exchanged fire with U.S. forces in the Strait of Hormuz, directly threatening a ceasefire that was barely a week old."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Sen. Lindsey Graham is publicly floating further U.S. military strikes on Iran while Canada's Carney declares Europe \u2014 not the U.S. \u2014 will anchor the world order."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Google Chrome silently installed a 4GB AI model without user consent, and Google faces a $1.5M lawsuit for AI Overview defamation \u2014 capability outpacing guardrails again."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A suspected hantavirus outbreak on the MV Hondius cruise ship has killed three and prompted WHO monitoring \u2014 rare pathogen, contained setting, watching carefully."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "The Musk v. Altman trial continues with Greg Brockman on the stand, surfacing uncomfortable journal entries about OpenAI's original mission drift."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "combustible",
+        "fatigued",
+        "watchful"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from the wet tarmac of an Abu Dhabi rooftop lot \u2014 the camera pressed almost flat to the ground looking steeply skyward, the underbelly of a Patriot PAC-3 battery dominating the foreground, its angular launch tubes aimed at sharp angles against a sky choked with dark crimson and charcoal \u2014 far above, delta-winged Shahed-136 silhouettes swarm in loose formation, their beige khaki shapes tiny against the oppressive overcast, exhaust trails of interceptor missiles streaking upward from below frame in hard white-orange bursts \u2014 the glass towers of Abu Dhabi's corniche rise at dramatic foreshortened angles on either side, their mirrored facades reflecting firelight in deep crimson pools, the Burj Khalifa a slim dark needle barely visible in the far background haze \u2014 gas flare amber bleeds across the low cloud ceiling from the direction of the Gulf, casting the entire scene in oppressive orange-crimson underlighting \u2014 on the nearest tower's glass face a faint reflection shows flat Bloomberg candlestick charts barely moving, green and red lines almost frozen \u2014 the radar dish of an air defense unit spins mid-rotation directly overhead, its underside catching firelight \u2014 high contrast, dark crimson and charcoal throughout, no antialiasing, no text, dramatic low-angle perspective, 16-bit SNES pixel art"
+    },
+    "dawn": {
+      "percentage": 56.5,
+      "driver": "Scientists turn plastic waste into clean hydrogen fuel using sunlight.",
+      "category": "Science",
+      "blurb": "TRASH INTO TOMORROW'S CLEAN FUEL",
+      "summary": "While the headlines scream of missile strikes and strained ceasefires, scientists quietly achieved something remarkable: using nothing but sunlight to transform plastic pollution into clean hydrogen fuel \u2014 tackling two of civilization's most stubborn problems at once. It's early-stage research, yes, but breakthroughs always start somewhere, and this one sits at the intersection of waste, energy, and climate \u2014 exactly where humanity needs wins most. On a day when the world feels combustible in the worst ways, it's worth pausing to note that some combustion is being replaced by something cleaner.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Converting plastic waste into hydrogen via photocatalysis represents a genuine dual-solution breakthrough \u2014 addressing pollution and clean energy in a single process."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "The approach could reduce plastic waste accumulation while simultaneously generating zero-emission fuel, offering compounding environmental benefits if scaled."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Canada's PM Carney rallying European leaders around a shared vision of a stable world order signals that multilateral cooperation hasn't collapsed entirely."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Portland's neon-clad mall-walking group is a small but genuine reminder that communities still find joyful, inventive ways to connect across generations."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Quantum computers and supercomputers teaming up to simulate the largest molecule yet shows that hybrid human-machine collaboration is steadily expanding what's computationally possible."
+        }
+      ],
+      "mood": [
+        "ingenious",
+        "regenerative",
+        "hopeful",
+        "transformative",
+        "tenacious"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior laboratory scene, warm golden afternoon sunlight pouring through tall windows, viewed from inside the lab looking outward through glass panes toward a sun-drenched outdoor solar test rig visible beyond. Rich gold and vibrant emerald dominate \u2014 amber light saturating every surface, catching on glass vessels and liquid, deep green tones in the shadows and equipment. The lab bench fills the foreground, cluttered with recognizable plastic waste \u2014 crumpled translucent water bottles and torn packaging in pale blue and white \u2014 sitting beside a glowing glass photoreactor vessel filled with luminous iridescent liquid, pale gold and pearl-white, sunlight refracting through it like a prism. Delicate columns of tiny pearl-white hydrogen bubbles rise visibly through the glowing liquid in elegant streams. A young woman in a white lab coat and safety glasses leans forward, holding a glass vial up toward the window light, the luminous catalytic solution catching the sun and casting prismatic golden reflections across her face and the bench. A visible shaft of warm amber sunlight beams directly through the window onto the reactor, sunlight itself an active character. In the background a collaborator reviews data on a glowing screen. Outside the window the outdoor solar rig basks in saturated afternoon gold."
+    }
   }
 ]
