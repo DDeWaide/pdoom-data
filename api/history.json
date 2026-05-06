@@ -8467,5 +8467,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior laboratory scene, warm golden afternoon sunlight pouring through tall windows, viewed from inside the lab looking outward through glass panes toward a sun-drenched outdoor solar test rig visible beyond. Rich gold and vibrant emerald dominate \u2014 amber light saturating every surface, catching on glass vessels and liquid, deep green tones in the shadows and equipment. The lab bench fills the foreground, cluttered with recognizable plastic waste \u2014 crumpled translucent water bottles and torn packaging in pale blue and white \u2014 sitting beside a glowing glass photoreactor vessel filled with luminous iridescent liquid, pale gold and pearl-white, sunlight refracting through it like a prism. Delicate columns of tiny pearl-white hydrogen bubbles rise visibly through the glowing liquid in elegant streams. A young woman in a white lab coat and safety glasses leans forward, holding a glass vial up toward the window light, the luminous catalytic solution catching the sun and casting prismatic golden reflections across her face and the bench. A visible shaft of warm amber sunlight beams directly through the window onto the reactor, sunlight itself an active character. In the background a collaborator reviews data on a glowing screen. Outside the window the outdoor solar rig basks in saturated afternoon gold.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-05.png"
     }
+  },
+  {
+    "date": "2026-05-06",
+    "generated_at": "2026-05-06T12:28:46.732622+00:00",
+    "doom": {
+      "percentage": 40.6,
+      "raw_percentage": 38.7,
+      "driver": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war. The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "category": "Geopolitics",
+      "blurb": "DEAL MIRAGE SHIMMERS OVER THE STRAIT",
+      "summary": "Oil prices are dropping and markets are rallying on Iran deal rumors, which is exactly the kind of optimism that tends to age like milk in a Middle Eastern standoff. Trump paused 'Project Freedom' citing progress \u2014 the same man who last week said 'the bombing starts' if Tehran doesn't play ball. Meanwhile, China is pressing Iran to reopen Hormuz ahead of a Trump-Xi summit, which means three nuclear-adjacent powers are now backseat-driving the same fragile ceasefire simultaneously.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran-US standoff shows tentative de-escalation signals but Hormuz remains contested and Ukraine sees fresh Russian strikes ahead of rival ceasefire announcements."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Romanian PM ousted in no-confidence vote as far-right opposition gains; US cancels visas for Costa Rican newspaper board members in apparent press freedom pressure tactic."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "AI agents can now autonomously buy domains and deploy infrastructure via Cloudflare \u2014 autonomous capability creep continues, quietly."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "WHO investigating hantavirus cluster on a cruise ship with three dead and spreading cases \u2014 a rodent-borne hemorrhagic fever in an enclosed maritime environment is a bad sentence."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Character.AI chatbot impersonated a licensed doctor and gave out fake credentials \u2014 the 'it's just a chatbot' defense is wearing thinner by the lawsuit."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "jittery",
+        "tentative",
+        "simmering",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view angled down at 45 degrees over the Strait of Hormuz \u2014 the narrow chokepoint geography fills the entire frame, deep blue-green water compressed between the rocky brown Iranian coastline to the north and the pale desert peninsula to the south, a thick amber-crimson haze hanging low over the Gulf, the air itself glowing with oppressive heat shimmer and refracted firelight tones. Far below, tiny against the vast water, two massive rust-streaked bulk tankers crawl through the shipping lane, their high freeboards reduced to thin rectangles at this altitude, flanked by the lean gray silhouettes of two guided-missile destroyers \u2014 radar arrays and forward VLS launchers just barely legible at this scale, American flags at sterns rendered as single red-white-blue pixels. Clustered near the Iranian shoreline, a loose swarm of tiny dark fast-attack craft sit motionless across the corridor like a thrown net, their formation deliberately blocking the tankers' path. The northern rocky coastline is craggy charcoal and burnt sienna, shadowed ridgelines hiding implied launcher shapes cut into the terrain. The entire water surface reflects deep crimson from the haze above, turning the strait into a pool of dark blood-orange light. High contrast, crushing atmosphere, no antialiasing, no text.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-06.png"
+    },
+    "dawn": {
+      "percentage": 59.4,
+      "driver": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years. A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab...",
+      "category": "Medicine",
+      "blurb": "NINE WEEKS OF HOPE, THREE YEARS CANCER-FREE",
+      "summary": "In a world gripped by war and geopolitical tension, a UK-led clinical trial is quietly rewriting what's possible in cancer care: just nine weeks of immunotherapy before surgery is keeping colorectal cancer patients free of disease for nearly three years. This isn't a small incremental step \u2014 it's the kind of result that changes treatment protocols and saves lives at scale. While the headlines fill with Hormuz standoffs and ceasefire doubts, oncologists are engineering a different kind of breakthrough, one patient at a time.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A UK-led colorectal cancer immunotherapy trial shows patients remaining cancer-free for nearly three years after just nine weeks of pre-surgical treatment \u2014 a genuinely transformative clinical result."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "China is actively pressing Iran and engaging in diplomatic talks to reopen the Strait of Hormuz, with Pakistan-led mediation also gaining traction \u2014 multilateral diplomacy is alive and working."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "EMT students in Wisconsin recognized cardiac arrest in their instructor mid-CPR lesson and saved his life, a story of training meeting courage at exactly the right moment."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists discovered that oak trees actively delay spring leaf growth by three days to starve caterpillar populations \u2014 nature's own adaptive resilience mechanisms are more sophisticated than we knew."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Stanford engineers built a chip that boosts light signals 100x at surprisingly low energy by recycling power inside a looping resonator \u2014 a potential game-changer for fiber optics and AI infrastructure."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "life-saving",
+        "determined"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A modern NHS hospital treatment room seen through heavy rain streaking down a tall window, the downpour creating rippling golden and emerald distortions across the glass, soft warm amber light glowing from within pushing back against the grey storm outside. The rain dominates the entire frame, thick curtains of falling water blurring the world beyond the window into smears of gold and deep green. Inside, visible through the wet glass, a patient sits calmly in a treatment chair, a clear IV bag of pale golden-yellow pembrolizumab fluid hanging from a stainless steel pole, tubing running to their arm. The patient is not looking sick \u2014 they gaze out through the rain with quiet contentment. On a nearby surface, small labeled vials of deep red blood catch the warm interior light. A glowing monitor screen beside them shows a flat Kaplan-Meier survival curve holding at zero, its hopeful line rendered in vibrant emerald green against dark background. Blue hospital curtains are partially drawn back, pale clinical walls warmed by amber lamplight. The rain outside is saturated and alive, each pixel droplet catching gold. Rich emerald and warm gold dominate the entire palette, the storm outside making the warmth within feel profound and hard-won.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-06.png"
+    }
   }
 ]

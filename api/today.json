@@ -1,96 +1,97 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05T12:01:40.624309+00:00",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T12:28:46.732622+00:00",
   "doom": {
-    "percentage": 43.5,
-    "raw_percentage": 43.7,
-    "driver": "CNBC Daily Open: Ceasefire at risk of collapse. An escalation in attacks in the Middle East puts the fragile ceasefire at risk, but market activity remains muted, with earnings keeping investors' attention.",
+    "percentage": 40.6,
+    "raw_percentage": 38.7,
+    "driver": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war. The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
     "category": "Geopolitics",
-    "blurb": "CEASEFIRE WOBBLES AS IRAN ATTACKS UAE",
-    "summary": "Yesterday's hopeful Iran ceasefire is today's crumbling fiction: Iran fired on the UAE, the U.S. Navy sank six boats in the Strait, and Sen. Lindsey Graham is already shopping for new targets. Markets, apparently bored, are watching Ferrari earnings instead. The story has shifted from 'will they negotiate?' to 'who fired first this time?' \u2014 a subtle but meaningful escalation in a conflict everyone agreed was over.",
+    "blurb": "DEAL MIRAGE SHIMMERS OVER THE STRAIT",
+    "summary": "Oil prices are dropping and markets are rallying on Iran deal rumors, which is exactly the kind of optimism that tends to age like milk in a Middle Eastern standoff. Trump paused 'Project Freedom' citing progress \u2014 the same man who last week said 'the bombing starts' if Tehran doesn't play ball. Meanwhile, China is pressing Iran to reopen Hormuz ahead of a Trump-Xi summit, which means three nuclear-adjacent powers are now backseat-driving the same fragile ceasefire simultaneously.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Iran attacked the UAE and exchanged fire with U.S. forces in the Strait of Hormuz, directly threatening a ceasefire that was barely a week old."
+        "signal": "elevated",
+        "detail": "Iran-US standoff shows tentative de-escalation signals but Hormuz remains contested and Ukraine sees fresh Russian strikes ahead of rival ceasefire announcements."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Sen. Lindsey Graham is publicly floating further U.S. military strikes on Iran while Canada's Carney declares Europe \u2014 not the U.S. \u2014 will anchor the world order."
+        "detail": "Romanian PM ousted in no-confidence vote as far-right opposition gains; US cancels visas for Costa Rican newspaper board members in apparent press freedom pressure tactic."
       },
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "Google Chrome silently installed a 4GB AI model without user consent, and Google faces a $1.5M lawsuit for AI Overview defamation \u2014 capability outpacing guardrails again."
+        "detail": "AI agents can now autonomously buy domains and deploy infrastructure via Cloudflare \u2014 autonomous capability creep continues, quietly."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "A suspected hantavirus outbreak on the MV Hondius cruise ship has killed three and prompted WHO monitoring \u2014 rare pathogen, contained setting, watching carefully."
+        "signal": "medium",
+        "detail": "WHO investigating hantavirus cluster on a cruise ship with three dead and spreading cases \u2014 a rodent-borne hemorrhagic fever in an enclosed maritime environment is a bad sentence."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "The Musk v. Altman trial continues with Greg Brockman on the stand, surfacing uncomfortable journal entries about OpenAI's original mission drift."
+        "detail": "Character.AI chatbot impersonated a licensed doctor and gave out fake credentials \u2014 the 'it's just a chatbot' defense is wearing thinner by the lawsuit."
       }
     ],
     "mood": [
-      "precarious",
-      "combustible",
-      "fatigued",
-      "watchful"
+      "fragile",
+      "jittery",
+      "tentative",
+      "simmering",
+      "precarious"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-05.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, ground-level upward view from the wet tarmac of an Abu Dhabi rooftop lot \u2014 the camera pressed almost flat to the ground looking steeply skyward, the underbelly of a Patriot PAC-3 battery dominating the foreground, its angular launch tubes aimed at sharp angles against a sky choked with dark crimson and charcoal \u2014 far above, delta-winged Shahed-136 silhouettes swarm in loose formation, their beige khaki shapes tiny against the oppressive overcast, exhaust trails of interceptor missiles streaking upward from below frame in hard white-orange bursts \u2014 the glass towers of Abu Dhabi's corniche rise at dramatic foreshortened angles on either side, their mirrored facades reflecting firelight in deep crimson pools, the Burj Khalifa a slim dark needle barely visible in the far background haze \u2014 gas flare amber bleeds across the low cloud ceiling from the direction of the Gulf, casting the entire scene in oppressive orange-crimson underlighting \u2014 on the nearest tower's glass face a faint reflection shows flat Bloomberg candlestick charts barely moving, green and red lines almost frozen \u2014 the radar dish of an air defense unit spins mid-rotation directly overhead, its underside catching firelight \u2014 high contrast, dark crimson and charcoal throughout, no antialiasing, no text, dramatic low-angle perspective, 16-bit SNES pixel art",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-05.png"
+    "card_image": "doom-card-2026-05-06.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view angled down at 45 degrees over the Strait of Hormuz \u2014 the narrow chokepoint geography fills the entire frame, deep blue-green water compressed between the rocky brown Iranian coastline to the north and the pale desert peninsula to the south, a thick amber-crimson haze hanging low over the Gulf, the air itself glowing with oppressive heat shimmer and refracted firelight tones. Far below, tiny against the vast water, two massive rust-streaked bulk tankers crawl through the shipping lane, their high freeboards reduced to thin rectangles at this altitude, flanked by the lean gray silhouettes of two guided-missile destroyers \u2014 radar arrays and forward VLS launchers just barely legible at this scale, American flags at sterns rendered as single red-white-blue pixels. Clustered near the Iranian shoreline, a loose swarm of tiny dark fast-attack craft sit motionless across the corridor like a thrown net, their formation deliberately blocking the tankers' path. The northern rocky coastline is craggy charcoal and burnt sienna, shadowed ridgelines hiding implied launcher shapes cut into the terrain. The entire water surface reflects deep crimson from the haze above, turning the strait into a pool of dark blood-orange light. High contrast, crushing atmosphere, no antialiasing, no text.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-06.png"
   },
   "dawn": {
-    "percentage": 56.5,
-    "driver": "Scientists turn plastic waste into clean hydrogen fuel using sunlight.",
-    "category": "Science",
-    "blurb": "TRASH INTO TOMORROW'S CLEAN FUEL",
-    "summary": "While the headlines scream of missile strikes and strained ceasefires, scientists quietly achieved something remarkable: using nothing but sunlight to transform plastic pollution into clean hydrogen fuel \u2014 tackling two of civilization's most stubborn problems at once. It's early-stage research, yes, but breakthroughs always start somewhere, and this one sits at the intersection of waste, energy, and climate \u2014 exactly where humanity needs wins most. On a day when the world feels combustible in the worst ways, it's worth pausing to note that some combustion is being replaced by something cleaner.",
+    "percentage": 59.4,
+    "driver": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years. A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab...",
+    "category": "Medicine",
+    "blurb": "NINE WEEKS OF HOPE, THREE YEARS CANCER-FREE",
+    "summary": "In a world gripped by war and geopolitical tension, a UK-led clinical trial is quietly rewriting what's possible in cancer care: just nine weeks of immunotherapy before surgery is keeping colorectal cancer patients free of disease for nearly three years. This isn't a small incremental step \u2014 it's the kind of result that changes treatment protocols and saves lives at scale. While the headlines fill with Hormuz standoffs and ceasefire doubts, oncologists are engineering a different kind of breakthrough, one patient at a time.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Converting plastic waste into hydrogen via photocatalysis represents a genuine dual-solution breakthrough \u2014 addressing pollution and clean energy in a single process."
-      },
-      {
-        "name": "Environment",
-        "signal": "bright",
-        "detail": "The approach could reduce plastic waste accumulation while simultaneously generating zero-emission fuel, offering compounding environmental benefits if scaled."
+        "detail": "A UK-led colorectal cancer immunotherapy trial shows patients remaining cancer-free for nearly three years after just nine weeks of pre-surgical treatment \u2014 a genuinely transformative clinical result."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "Canada's PM Carney rallying European leaders around a shared vision of a stable world order signals that multilateral cooperation hasn't collapsed entirely."
+        "signal": "bright",
+        "detail": "China is actively pressing Iran and engaging in diplomatic talks to reopen the Strait of Hormuz, with Pakistan-led mediation also gaining traction \u2014 multilateral diplomacy is alive and working."
       },
       {
         "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Portland's neon-clad mall-walking group is a small but genuine reminder that communities still find joyful, inventive ways to connect across generations."
+        "detail": "EMT students in Wisconsin recognized cardiac arrest in their instructor mid-CPR lesson and saved his life, a story of training meeting courage at exactly the right moment."
+      },
+      {
+        "name": "Environment",
+        "signal": "glimmer",
+        "detail": "Scientists discovered that oak trees actively delay spring leaf growth by three days to starve caterpillar populations \u2014 nature's own adaptive resilience mechanisms are more sophisticated than we knew."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Quantum computers and supercomputers teaming up to simulate the largest molecule yet shows that hybrid human-machine collaboration is steadily expanding what's computationally possible."
+        "detail": "Stanford engineers built a chip that boosts light signals 100x at surprisingly low energy by recycling power inside a looping resonator \u2014 a potential game-changer for fiber optics and AI infrastructure."
       }
     ],
     "mood": [
-      "ingenious",
-      "regenerative",
+      "breakthrough",
+      "resilient",
       "hopeful",
-      "transformative",
-      "tenacious"
+      "life-saving",
+      "determined"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-05.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior laboratory scene, warm golden afternoon sunlight pouring through tall windows, viewed from inside the lab looking outward through glass panes toward a sun-drenched outdoor solar test rig visible beyond. Rich gold and vibrant emerald dominate \u2014 amber light saturating every surface, catching on glass vessels and liquid, deep green tones in the shadows and equipment. The lab bench fills the foreground, cluttered with recognizable plastic waste \u2014 crumpled translucent water bottles and torn packaging in pale blue and white \u2014 sitting beside a glowing glass photoreactor vessel filled with luminous iridescent liquid, pale gold and pearl-white, sunlight refracting through it like a prism. Delicate columns of tiny pearl-white hydrogen bubbles rise visibly through the glowing liquid in elegant streams. A young woman in a white lab coat and safety glasses leans forward, holding a glass vial up toward the window light, the luminous catalytic solution catching the sun and casting prismatic golden reflections across her face and the bench. A visible shaft of warm amber sunlight beams directly through the window onto the reactor, sunlight itself an active character. In the background a collaborator reviews data on a glowing screen. Outside the window the outdoor solar rig basks in saturated afternoon gold.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-05.png"
+    "card_image": "dawn-card-2026-05-06.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A modern NHS hospital treatment room seen through heavy rain streaking down a tall window, the downpour creating rippling golden and emerald distortions across the glass, soft warm amber light glowing from within pushing back against the grey storm outside. The rain dominates the entire frame, thick curtains of falling water blurring the world beyond the window into smears of gold and deep green. Inside, visible through the wet glass, a patient sits calmly in a treatment chair, a clear IV bag of pale golden-yellow pembrolizumab fluid hanging from a stainless steel pole, tubing running to their arm. The patient is not looking sick \u2014 they gaze out through the rain with quiet contentment. On a nearby surface, small labeled vials of deep red blood catch the warm interior light. A glowing monitor screen beside them shows a flat Kaplan-Meier survival curve holding at zero, its hopeful line rendered in vibrant emerald green against dark background. Blue hospital curtains are partially drawn back, pale clinical walls warmed by amber lamplight. The rain outside is saturated and alive, each pixel droplet catching gold. Rich emerald and warm gold dominate the entire palette, the storm outside making the warmth within feel profound and hard-won.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-06.png"
   }
 }
