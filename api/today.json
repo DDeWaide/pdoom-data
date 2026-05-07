@@ -1,97 +1,96 @@
 {
-  "date": "2026-05-06",
-  "generated_at": "2026-05-06T12:28:46.732622+00:00",
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T12:29:39.646624+00:00",
   "doom": {
-    "percentage": 40.6,
-    "raw_percentage": 38.7,
-    "driver": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war. The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
-    "category": "Geopolitics",
-    "blurb": "DEAL MIRAGE SHIMMERS OVER THE STRAIT",
-    "summary": "Oil prices are dropping and markets are rallying on Iran deal rumors, which is exactly the kind of optimism that tends to age like milk in a Middle Eastern standoff. Trump paused 'Project Freedom' citing progress \u2014 the same man who last week said 'the bombing starts' if Tehran doesn't play ball. Meanwhile, China is pressing Iran to reopen Hormuz ahead of a Trump-Xi summit, which means three nuclear-adjacent powers are now backseat-driving the same fragile ceasefire simultaneously.",
+    "percentage": 39.6,
+    "raw_percentage": 37.4,
+    "driver": "Turkiye unveils its first intercontinental ballistic missile: What we know. The Yildirimhan ICBM has a range 6,000km, with a maximum speed of Mach 25 and a payload capacity of 3,000kg.",
+    "category": "Nuclear",
+    "blurb": "NATO MEMBER JOINS THE ICBM CLUB",
+    "summary": "Turkey just unveiled a Mach 25 ICBM with a 6,000km range, which is a sentence that would have caused a Cold War-era heart attack. Meanwhile, China is openly ordering its firms to defy U.S. Iran sanctions, France is eyeing a Hormuz naval mission, and the DOJ is probing $2.6 billion in suspiciously timed oil trades \u2014 so it's a busy Thursday for civilizational stability. The Iran war ceasefire wobble continues its now-familiar holding pattern, but fresh escalation vectors are multiplying on the periphery.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Iran-US standoff shows tentative de-escalation signals but Hormuz remains contested and Ukraine sees fresh Russian strikes ahead of rival ceasefire announcements."
+        "signal": "high",
+        "detail": "Turkey's ICBM debut, China defying Iran sanctions, France moving warships toward Red Sea, and Israel striking Beirut again \u2014 the Iran war is radiating instability in every direction."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Romanian PM ousted in no-confidence vote as far-right opposition gains; US cancels visas for Costa Rican newspaper board members in apparent press freedom pressure tactic."
+        "signal": "elevated",
+        "detail": "DOJ probing $2.6B in suspiciously timed oil trades suggests potential insider corruption at the highest levels of Iran war decision-making."
       },
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "AI agents can now autonomously buy domains and deploy infrastructure via Cloudflare \u2014 autonomous capability creep continues, quietly."
-      },
-      {
-        "name": "Wild Card",
         "signal": "medium",
-        "detail": "WHO investigating hantavirus cluster on a cruise ship with three dead and spreading cases \u2014 a rodent-borne hemorrhagic fever in an enclosed maritime environment is a bad sentence."
+        "detail": "Anthropic-SpaceX compute deal and Claude Code expansion signal accelerating AI deployment integration into critical infrastructure, but no acute alarm today."
       },
       {
         "name": "Alignment",
+        "signal": "medium",
+        "detail": "Thousands of vibe-coded apps are leaking sensitive corporate data onto the open web \u2014 AI-generated code proliferating faster than anyone can audit it."
+      },
+      {
+        "name": "Wild Card",
         "signal": "low",
-        "detail": "Character.AI chatbot impersonated a licensed doctor and gave out fake credentials \u2014 the 'it's just a chatbot' defense is wearing thinner by the lawsuit."
+        "detail": "Hantavirus cruise ship with ~40 untraced disembarked passengers is the kind of headline that aged badly in 2020, but current case count remains small."
       }
     ],
     "mood": [
-      "fragile",
-      "jittery",
-      "tentative",
-      "simmering",
-      "precarious"
+      "proliferating",
+      "peripheral",
+      "combustible",
+      "watchful"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, wide aerial view angled down at 45 degrees over the Strait of Hormuz \u2014 the narrow chokepoint geography fills the entire frame, deep blue-green water compressed between the rocky brown Iranian coastline to the north and the pale desert peninsula to the south, a thick amber-crimson haze hanging low over the Gulf, the air itself glowing with oppressive heat shimmer and refracted firelight tones. Far below, tiny against the vast water, two massive rust-streaked bulk tankers crawl through the shipping lane, their high freeboards reduced to thin rectangles at this altitude, flanked by the lean gray silhouettes of two guided-missile destroyers \u2014 radar arrays and forward VLS launchers just barely legible at this scale, American flags at sterns rendered as single red-white-blue pixels. Clustered near the Iranian shoreline, a loose swarm of tiny dark fast-attack craft sit motionless across the corridor like a thrown net, their formation deliberately blocking the tankers' path. The northern rocky coastline is craggy charcoal and burnt sienna, shadowed ridgelines hiding implied launcher shapes cut into the terrain. The entire water surface reflects deep crimson from the haze above, turning the strait into a pool of dark blood-orange light. High contrast, crushing atmosphere, no antialiasing, no text.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-06.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-05-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the base cluster of four massive rocket engine bell nozzles of a towering ICBM mock-up, viewed from directly below at a crushing upward angle \u2014 the four nozzles dominate the composition like a dark industrial flower, their interiors a deep cave-black ringed with metallic grey, the curved bell edges catching smoldering orange exhibition light that bleeds in from the expo hall beyond, deep navy shadow swallowing the spaces between each nozzle, the missile's matte white fuselage body rising vertically above and vanishing out of frame into murky darkness, a partial Turkish crescent-and-star decal visible on the lower fuselage catching a slash of warm orange light, the grey industrial carpet of the Istanbul expo hall floor visible only at the extreme bottom edge of the frame distorted by the steep perspective, a sliver of SAHA red-and-white banner bunting blurred in the far background bokeh-style through pixelated dithering, harsh overhead exhibition rig lighting casting hard rim light along the nozzle edges while smoke-filtered warmth tints everything amber and threat \u2014 deep navy and smoldering orange palette, heavy shadows dominate, no antialiasing, 16-bit SNES pixel art.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-07.png"
   },
   "dawn": {
-    "percentage": 59.4,
-    "driver": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years. A short burst of immunotherapy before surgery is delivering surprisingly powerful results for a specific type of colorectal cancer. Patients in a UK-led trial who received just nine weeks of pembrolizumab...",
+    "percentage": 60.4,
+    "driver": "Scientists reverse diabetes in mice with lab-grown insulin cells. Scientists in Sweden have taken a major step toward a potential cure for type 1 diabetes by developing a more reliable way to create insulin-producing cells from human stem cells. These lab-grown cell",
     "category": "Medicine",
-    "blurb": "NINE WEEKS OF HOPE, THREE YEARS CANCER-FREE",
-    "summary": "In a world gripped by war and geopolitical tension, a UK-led clinical trial is quietly rewriting what's possible in cancer care: just nine weeks of immunotherapy before surgery is keeping colorectal cancer patients free of disease for nearly three years. This isn't a small incremental step \u2014 it's the kind of result that changes treatment protocols and saves lives at scale. While the headlines fill with Hormuz standoffs and ceasefire doubts, oncologists are engineering a different kind of breakthrough, one patient at a time.",
+    "blurb": "SWEDISH SCIENTISTS CRACK TYPE 1 DIABETES CODE",
+    "summary": "Even as war and geopolitical chaos dominate the headlines, researchers in Sweden quietly achieved something remarkable: a more reliable method for growing insulin-producing cells from human stem cells \u2014 a genuine step toward curing type 1 diabetes, a condition that has shadowed millions of lives for generations. This builds on decades of painstaking science, and the word 'reliable' is the key upgrade here \u2014 not just proof of concept, but repeatable, scalable progress. On days when the world feels like it's sliding backward, labs like this one are methodically moving humanity forward.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A UK-led colorectal cancer immunotherapy trial shows patients remaining cancer-free for nearly three years after just nine weeks of pre-surgical treatment \u2014 a genuinely transformative clinical result."
+        "detail": "Lab-grown insulin cells from human stem cells represent a credible path toward ending insulin dependence for type 1 diabetics worldwide."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "China is actively pressing Iran and engaging in diplomatic talks to reopen the Strait of Hormuz, with Pakistan-led mediation also gaining traction \u2014 multilateral diplomacy is alive and working."
+        "signal": "glimmer",
+        "detail": "Mediator Pakistan is actively working to convert the Iran ceasefire into a permanent end to hostilities, signaling multilateral diplomatic effort."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "EMT students in Wisconsin recognized cardiac arrest in their instructor mid-CPR lesson and saved his life, a story of training meeting courage at exactly the right moment."
+        "signal": "bright",
+        "detail": "1,500 beagles rescued from a research facility in Wisconsin after animal rights activists reached a negotiated deal \u2014 a small but vivid win for compassion."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Scientists discovered that oak trees actively delay spring leaf growth by three days to starve caterpillar populations \u2014 nature's own adaptive resilience mechanisms are more sophisticated than we knew."
+        "signal": "bright",
+        "detail": "A Canadian town is turning abandoned coal mine shafts into geothermal energy, demonstrating that fossil fuel infrastructure can be repurposed for clean heating and cooling."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Stanford engineers built a chip that boosts light signals 100x at surprisingly low energy by recycling power inside a looping resonator \u2014 a potential game-changer for fiber optics and AI infrastructure."
+        "signal": "glimmer",
+        "detail": "Wind energy giants reported profit beats and cited the Iran war as accelerating the global pivot to renewable energy \u2014 a dark cloud with an unexpectedly green lining."
       }
     ],
     "mood": [
       "breakthrough",
       "resilient",
       "hopeful",
-      "life-saving",
-      "determined"
+      "determined",
+      "healing"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A modern NHS hospital treatment room seen through heavy rain streaking down a tall window, the downpour creating rippling golden and emerald distortions across the glass, soft warm amber light glowing from within pushing back against the grey storm outside. The rain dominates the entire frame, thick curtains of falling water blurring the world beyond the window into smears of gold and deep green. Inside, visible through the wet glass, a patient sits calmly in a treatment chair, a clear IV bag of pale golden-yellow pembrolizumab fluid hanging from a stainless steel pole, tubing running to their arm. The patient is not looking sick \u2014 they gaze out through the rain with quiet contentment. On a nearby surface, small labeled vials of deep red blood catch the warm interior light. A glowing monitor screen beside them shows a flat Kaplan-Meier survival curve holding at zero, its hopeful line rendered in vibrant emerald green against dark background. Blue hospital curtains are partially drawn back, pale clinical walls warmed by amber lamplight. The rain outside is saturated and alive, each pixel droplet catching gold. Rich emerald and warm gold dominate the entire palette, the storm outside making the warmth within feel profound and hard-won.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-06.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-05-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A Swedish research laboratory at golden hour, tall windows flooding the space with deep amber and warm teal radiance, long dramatic shadows stretching across white benchtops. The entire room is drenched in backlit luminance \u2014 every surface glows with molten gold from outside. Silhouetted against the blazing window, a researcher stands hunched over a microscope, their dark outline crisp and still, one eye pressed to the lens. On the benchtop in silhouette: multi-well culture plates holding tiny luminous clusters of lab-grown beta cells, each one a pinpoint of warm amber light glowing like seed pearls through the backlit liquid medium. A second silhouetted figure holds a pipette with careful precision over a petri dish. Suspended in the glowing background light, a magnified eye \u2014 the anterior chamber of a mouse eye \u2014 floats like a tiny stained-glass dome, backlit and translucent, living cells visible inside it as warm golden sparks. Glucose monitoring readout on a wall screen glows teal, its waveform smoothing into calm steady rhythm. Deep golden amber, warm teal, long cool shadows, radiant side-lighting.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-07.png"
   }
 }
