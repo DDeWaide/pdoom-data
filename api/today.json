@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-07",
-  "generated_at": "2026-05-07T12:29:39.646624+00:00",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T12:09:44.289518+00:00",
   "doom": {
-    "percentage": 39.6,
-    "raw_percentage": 37.4,
-    "driver": "Turkiye unveils its first intercontinental ballistic missile: What we know. The Yildirimhan ICBM has a range 6,000km, with a maximum speed of Mach 25 and a payload capacity of 3,000kg.",
+    "percentage": 39.1,
+    "raw_percentage": 37.2,
+    "driver": "Iran live updates: Trump says without ceasefire, 'one big glow' will come out of Iran. The U.S. conducted \"self-defense\" strikes against Iranian targets after Iran fired at U.S. destroyers in the Strait of Hormuz on Thursday, according to CENTCOM.",
     "category": "Nuclear",
-    "blurb": "NATO MEMBER JOINS THE ICBM CLUB",
-    "summary": "Turkey just unveiled a Mach 25 ICBM with a 6,000km range, which is a sentence that would have caused a Cold War-era heart attack. Meanwhile, China is openly ordering its firms to defy U.S. Iran sanctions, France is eyeing a Hormuz naval mission, and the DOJ is probing $2.6 billion in suspiciously timed oil trades \u2014 so it's a busy Thursday for civilizational stability. The Iran war ceasefire wobble continues its now-familiar holding pattern, but fresh escalation vectors are multiplying on the periphery.",
+    "blurb": "TRUMP THREATENS IRAN WITH NUCLEAR GLOW",
+    "summary": "The President of the United States casually invoked what sounds very much like nuclear annihilation \u2014 'one big glow' \u2014 as a negotiating tactic with Iran, while both sides are already exchanging live fire in the Strait of Hormuz despite a supposedly active ceasefire. Wall Street's traders have already coined the 'NACHO' trade betting Hormuz stays closed, which is the kind of thing that happens when financial professionals conclude the adults have definitively left the building. The ceasefire isn't ceasing, the fire is very much firing, and the rhetoric just escalated from 'deal or else' to something involving radioactive light.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Turkey's ICBM debut, China defying Iran sanctions, France moving warships toward Red Sea, and Israel striking Beirut again \u2014 the Iran war is radiating instability in every direction."
+        "detail": "Active military exchange in Hormuz, a shattered ceasefire, Trump's 'big glow' nuclear rhetoric, and North Korea deploying new long-range artillery targeting Seoul \u2014 multiple fronts lit up simultaneously."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "DOJ probing $2.6B in suspiciously timed oil trades suggests potential insider corruption at the highest levels of Iran war decision-making."
+        "detail": "NATO allies are rethinking the alliance after Trump left them in the dark before striking Iran, while the EU faces a July 4 tariff ultimatum and the UK's Reform party surges in local elections."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Anthropic-SpaceX compute deal and Claude Code expansion signal accelerating AI deployment integration into critical infrastructure, but no acute alarm today."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "Thousands of vibe-coded apps are leaking sensitive corporate data onto the open web \u2014 AI-generated code proliferating faster than anyone can audit it."
+        "detail": "Google's AlphaEvolve coding agent is scaling impact across scientific fields, and the 'agentic wars' between Meta and Google are heating up \u2014 capability is advancing faster than anyone is governing it."
       },
       {
         "name": "Wild Card",
+        "signal": "medium",
+        "detail": "A Dirtyfrag universal Linux local privilege escalation exploit dropped publicly, and ShinyHunters ransomware paralyzed thousands of US schools via the Canvas breach \u2014 cyber chaos is background noise now."
+      },
+      {
+        "name": "Alignment",
         "signal": "low",
-        "detail": "Hantavirus cruise ship with ~40 untraced disembarked passengers is the kind of headline that aged badly in 2020, but current case count remains small."
+        "detail": "Anthropic published research on natural language autoencoders that peek inside Claude's reasoning \u2014 more interpretability work is quietly proceeding, which is one of the few genuinely reassuring signals today."
       }
     ],
     "mood": [
-      "proliferating",
-      "peripheral",
-      "combustible",
-      "watchful"
+      "incendiary",
+      "unraveling",
+      "reckless",
+      "volatile"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-07.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, extreme close-up filling the entire frame with the base cluster of four massive rocket engine bell nozzles of a towering ICBM mock-up, viewed from directly below at a crushing upward angle \u2014 the four nozzles dominate the composition like a dark industrial flower, their interiors a deep cave-black ringed with metallic grey, the curved bell edges catching smoldering orange exhibition light that bleeds in from the expo hall beyond, deep navy shadow swallowing the spaces between each nozzle, the missile's matte white fuselage body rising vertically above and vanishing out of frame into murky darkness, a partial Turkish crescent-and-star decal visible on the lower fuselage catching a slash of warm orange light, the grey industrial carpet of the Istanbul expo hall floor visible only at the extreme bottom edge of the frame distorted by the steep perspective, a sliver of SAHA red-and-white banner bunting blurred in the far background bokeh-style through pixelated dithering, harsh overhead exhibition rig lighting casting hard rim light along the nozzle edges while smoke-filtered warmth tints everything amber and threat \u2014 deep navy and smoldering orange palette, heavy shadows dominate, no antialiasing, 16-bit SNES pixel art.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-07.png"
+    "card_image": "doom-card-2026-05-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, night scene, no text, no antialiasing \u2014 vast darkness over the Strait of Hormuz at night, the narrow chokepoint water rendered in deep navy black, the hazy brown silhouette of the Iranian coastline a dim ridge on the northern horizon lit by distant orange smoldering glow \u2014 a single Arleigh Burke-class guided-missile destroyer sits dead center in the frame, its gray steel hull low on the ink-black water, the distinctive boxy SPY-1D radar array and forward 5-inch gun turret rendered in precise pixel detail, lit only by the ship's own running lights casting pale amber reflections on the water below \u2014 from the deck, twin white exhaust contrails of interceptor missiles curve upward into a sky thick with dark smoke, the trails fading into heavy shadow above \u2014 triangular delta-wing drone silhouettes hang motionless against the smoky sky, backlit by a massive deep orange fireball explosion blooming on the far right horizon where the Iranian coast meets the sea, the explosion casting the only warm light in the entire scene, painting the water surface in smoldering amber and copper \u2014 deep navy dominates everywhere, shadows swallow the water's edges, the smoke-filtered sky pressing down, warmth feels threatening \u2014 the reflected glow of the distant explosion shimmers broken across the destroyer's hull, the ship small against the enormous dark geography surrounding it.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-08.png"
   },
   "dawn": {
-    "percentage": 60.4,
-    "driver": "Scientists reverse diabetes in mice with lab-grown insulin cells. Scientists in Sweden have taken a major step toward a potential cure for type 1 diabetes by developing a more reliable way to create insulin-producing cells from human stem cells. These lab-grown cell",
-    "category": "Medicine",
-    "blurb": "SWEDISH SCIENTISTS CRACK TYPE 1 DIABETES CODE",
-    "summary": "Even as war and geopolitical chaos dominate the headlines, researchers in Sweden quietly achieved something remarkable: a more reliable method for growing insulin-producing cells from human stem cells \u2014 a genuine step toward curing type 1 diabetes, a condition that has shadowed millions of lives for generations. This builds on decades of painstaking science, and the word 'reliable' is the key upgrade here \u2014 not just proof of concept, but repeatable, scalable progress. On days when the world feels like it's sliding backward, labs like this one are methodically moving humanity forward.",
+    "percentage": 60.9,
+    "driver": "Child marriages plunged when girls stayed in school in Nigeria.",
+    "category": "Human Spirit",
+    "blurb": "EDUCATION BREAKS THE CHAIN FOR NIGERIA'S GIRLS",
+    "summary": "In a world of warring straits and missile exchanges, this finding cuts through the noise with quiet, durable hope: keeping girls in school directly collapsed child marriage rates in Nigeria. It's not a headline about a treaty or a summit \u2014 it's evidence that investing in education rewrites the future, one classroom at a time. Against a backdrop where pDoom sits at 39.1%, this is the kind of structural human progress that compounds across generations.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Lab-grown insulin cells from human stem cells represent a credible path toward ending insulin dependence for type 1 diabetics worldwide."
+        "signal": "bright",
+        "detail": "Rigorous research published in Nature links school enrollment directly to plummeting child marriage rates, giving policymakers a clear, evidence-based lever for change."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Mediator Pakistan is actively working to convert the Iran ceasefire into a permanent end to hostilities, signaling multilateral diplomatic effort."
+        "detail": "The study reflects sustained collaboration between Nigerian institutions, international researchers, and education advocates working across borders."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "1,500 beagles rescued from a research facility in Wisconsin after animal rights activists reached a negotiated deal \u2014 a small but vivid win for compassion."
+        "signal": "blazing",
+        "detail": "Every girl who stayed in school and avoided early marriage represents an act of resilience against entrenched social pressure \u2014 multiplied across thousands of communities."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "A Canadian town is turning abandoned coal mine shafts into geothermal energy, demonstrating that fossil fuel infrastructure can be repurposed for clean heating and cooling."
+        "signal": "quiet",
+        "detail": "Educated girls grow into women who make more sustainable household and community resource decisions, with long-term ecological co-benefits."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Wind energy giants reported profit beats and cited the Iran war as accelerating the global pivot to renewable energy \u2014 a dark cloud with an unexpectedly green lining."
+        "signal": "bright",
+        "detail": "David Attenborough turns 100 today \u2014 a century of one human being dedicated to making the world care about life on Earth, still going strong."
       }
     ],
     "mood": [
+      "empowerment",
       "breakthrough",
-      "resilient",
-      "hopeful",
-      "determined",
-      "healing"
+      "resilience",
+      "progress",
+      "hope"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-07.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A Swedish research laboratory at golden hour, tall windows flooding the space with deep amber and warm teal radiance, long dramatic shadows stretching across white benchtops. The entire room is drenched in backlit luminance \u2014 every surface glows with molten gold from outside. Silhouetted against the blazing window, a researcher stands hunched over a microscope, their dark outline crisp and still, one eye pressed to the lens. On the benchtop in silhouette: multi-well culture plates holding tiny luminous clusters of lab-grown beta cells, each one a pinpoint of warm amber light glowing like seed pearls through the backlit liquid medium. A second silhouetted figure holds a pipette with careful precision over a petri dish. Suspended in the glowing background light, a magnified eye \u2014 the anterior chamber of a mouse eye \u2014 floats like a tiny stained-glass dome, backlit and translucent, living cells visible inside it as warm golden sparks. Glucose monitoring readout on a wall screen glows teal, its waveform smoothing into calm steady rhythm. Deep golden amber, warm teal, long cool shadows, radiant side-lighting.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-07.png"
+    "card_image": "dawn-card-2026-05-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level worm's-eye view looking straight up from the red laterite earth of a Northern Nigerian village school morning, the camera pressed low to the dirt road, gazing upward at a dramatic convergence of sky and life. The scene is dominated by towering acacia trees whose lacy canopies fracture deep golden amber dawn light into shards and speckles overhead, the sky behind them a radiant warm teal deepening toward the zenith. A modest concrete school building rises at the left edge, its corrugated iron roof catching the low side-lighting in sheets of burnished ochre, faded blue paint on its walls glowing in the early sun. Seen from below, a group of Nigerian schoolgirls aged twelve to seventeen walk directly overhead in silhouette and warm rim-lit detail \u2014 white blouses blazing in the amber backlight, deep blue skirts catching teal sky reflections \u2014 their worn notebooks and pencils clutched to their chests, the paper edges catching the light like little white flames. A younger sister walks among them, her small school bag strap visible against her shoulder, one hand wrapped around an older girl's fingers. The undersides of the girls' chins are lit gold by the rising sun. Long dramatic shadows stretch across the red earth toward the viewer. In the far background, receding and desaturated, a muted vignette of a traditional ceremony dissolves into shadow while the foreground blazes with forward momentum. Side-lighting with long shadows. Radiant.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-08.png"
   }
 }
