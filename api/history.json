@@ -8759,98 +8759,97 @@
   },
   {
     "date": "2026-05-09",
-    "generated_at": "2026-05-09T11:51:46.940784+00:00",
+    "generated_at": "2026-05-09T12:59:24.951641+00:00",
     "doom": {
-      "percentage": 36.7,
-      "raw_percentage": 33.7,
-      "driver": "The shaky U.S. ceasefire with Iran has been repeatedly undermined this week, even as President Donald Trump insists it remains in effect.",
+      "percentage": 32.2,
+      "raw_percentage": 28.4,
+      "driver": "As Trump forces NATO to pay up, alliance races to close military gap with US.",
       "category": "Geopolitics",
-      "blurb": "CEASEFIRE IN NAME ONLY AS TANKERS BURN",
-      "summary": "The U.S. struck two Iranian oil tankers trying to skirt its Hormuz blockade \u2014 a ceasefire so shaky it makes a Jenga tower look load-bearing. Meanwhile, Iran is accusing the U.S. of a 'reckless military adventure' every time diplomacy gets close, and Toyota just quietly absorbed a \u00a33bn war bill, suggesting the conflict is now pricing itself into quarterly earnings reports. The situation hasn't escalated beyond yesterday's 'big glow' rhetoric, but it hasn't de-escalated either \u2014 just grinding along at a steady simmer.",
+      "blurb": "WESTERN ALLIANCE SCRAMBLES TO PLUG DECADES-LONG HOLE",
+      "summary": "NATO allies are frantically trying to backfill a military capability gap that apparently nobody noticed for thirty years of comfortable promises \u2014 a fun thing to discover now, while the Iran situation simmers and Turkiye is building ICBMs. The good news is the ceasefire hasn't collapsed today, which is essentially the bar we're clearing in 2026. The bad news is 'racing to close a military gap' is not the same as actually closing one.",
       "factors": [
         {
           "name": "Geopolitics",
           "signal": "elevated",
-          "detail": "U.S.-Iran ceasefire is functionally a fiction as tanker strikes and counter-attacks continue despite official insistence it holds."
+          "detail": "NATO structural underinvestment story surfaces alongside unresolved Iran negotiations, painting a picture of a Western alliance long on rhetoric and short on readiness."
         },
         {
           "name": "Governance",
           "signal": "medium",
-          "detail": "Hungary's democratic reset with Magyar's new government offers a rare positive signal, while Trump's FCC vs. ABC fight shows domestic pressure on free press."
+          "detail": "Far-right One Nation winning its first lower-house seat in Australia signals continued global drift toward populist, nationalist governance structures."
         },
         {
           "name": "AI Capability",
-          "signal": "medium",
-          "detail": "Anthropic's Mythos has reportedly triggered a cybersecurity reckoning at banks and governments, signaling AI-enabled threats are crossing from theoretical to operational."
+          "signal": "low",
+          "detail": "No significant AI capability or deployment headlines in today's feed \u2014 a rare quiet patch in the machine uprising."
         },
         {
           "name": "Alignment",
           "signal": "low",
-          "detail": "Musk v. Altman trial reveals petty corporate intrigue more than existential risk \u2014 soap opera, not singularity."
+          "detail": "Nothing today suggests AI systems are actively plotting; the biggest blunder in the headlines was Fernando Tatis Jr.'s fielding error."
         },
         {
           "name": "Wild Card",
           "signal": "low",
-          "detail": "Pentagon UFO document dump is maximally distracting and minimally threatening \u2014 the files contain hovering lights, not hovering warships."
+          "detail": "A Bahamas alcohol ban causing cruise passenger chaos is technically a societal destabilization event, but we're choosing not to escalate on that basis."
         }
       ],
       "mood": [
-        "grinding",
-        "smoldering",
-        "exhausted",
-        "fragile",
-        "cynical"
+        "restless",
+        "simmering",
+        "distracted",
+        "overextended"
       ],
       "tier": 4,
       "tier_name": "Storm Brewing",
       "card_image": "doom-card-2026-05-09.png",
-      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior of the White House Situation Room viewed from behind a figure seated at the far end of a long briefing table, looking outward through a wide rectangular window cut into the opposite wall, the glass smeared with condensation and bureaucratic fingerprints, beyond which the Persian Gulf stretches into deep navy darkness, the water's surface reflecting smoldering orange from a distant tanker fire burning on the horizon, the haze-blurred strait compressed between the flat Iranian coastline to the north and brown limestone cliffs barely visible to the south, the room itself lit in cold fluorescent blue-white that bleaches the map-covered walls and casts heavy shadows beneath the table, a cluster of glowing monitor screens along the side wall displaying radar sweep patterns in pale green, through the window silhouettes of two low gray Arleigh Burke-class destroyer hulls are visible mid-channel, their flat SPY-1 radar arrays catching the orange firelight, and in the far distance a swarm of tiny delta-wing shapes \u2014 Shahed-136 loitering munitions \u2014 visible only as dark specks against the smoldering orange glow, the entire palette locked to deep navy and threatening amber with no clean light anywhere, heat shimmer rising off the Gulf water even in darkness, heavy shadows dominating every corner of the room, warmth feeling like danger not comfort",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior of a sparse German Bundeswehr barracks room viewed from inside looking outward through a wide rectangular window, the camera positioned at mid-height as if standing near a metal-framed bunk bed stripped of its mattress, olive drab wool blanket folded on the floor beside a pair of worn military boots, the room behind the viewer implied by the cold fluorescent light casting a pale rectangle on a dusty concrete floor \u2014 through the window the outside world opens onto a flat Rhine valley plain under a heavy smoldering orange-tinged overcast sky, deep navy storm clouds pressing low over the horizon, a long convoy of flatbed railcars visible on tracks cutting diagonally across the middle distance, each car carrying a shrouded M1A2 tank shape under dark canvas lashing straps, the convoy diminishing toward a vanishing point in the grey-orange haze, a single NATO compass-rose flag on a pole beside the tracks hanging completely limp in still air, the barracks window frame itself painted over many times in institutional grey-green, a crack running diagonally across the lower pane, the glass slightly fogged with condensation at its edges \u2014 color palette dominated by deep navy blues and smoldering amber-orange atmospheric glow filtered through industrial haze, heavy shadows filling the room interior, the warmth outside feeling threatening rather than welcoming, the emptiness of the stripped bunk and departing convoy communicating abandonment and strategic vacuum without showing any specific figure or event.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-09.png"
     },
     "dawn": {
-      "percentage": 63.3,
-      "driver": "Scientists found the \"holy grail\" gene that could one day help humans regrow limbs.",
-      "category": "Science",
-      "blurb": "HUMANITY INCHES CLOSER TO REGROWING LOST LIMBS",
-      "summary": "In a world rattled by conflict and geopolitical tension, science quietly delivered one of its most astonishing dispatches: researchers studying axolotls, zebrafish, and mice have identified a shared set of 'SP genes' that govern biological regeneration \u2014 the kind that lets some creatures regrow entire limbs. The discovery, described by scientists themselves as a 'holy grail,' suggests the machinery for regeneration may already exist dormant within human biology. Against a backdrop where headlines are dominated by warfare and blockades, this is a reminder that human curiosity and cooperation across species biology is still pushing toward the extraordinary.",
+      "percentage": 67.8,
+      "driver": "William Shatner says he's 'taking care of business' at 95: 'The least of all I want do is die'",
+      "category": "Human Spirit",
+      "blurb": "AT 95, STILL CHOOSING LIFE EVERY SINGLE DAY",
+      "summary": "In a news cycle dominated by ceasefire collapses and geopolitical dread, William Shatner at 95 offers a quietly radical message: befriend the pain, keep moving, never stop doing what you love. It's not headline-grabbing science or a peace treaty, but there's something deeply grounding about a human being nine and a half decades in still refusing to coast. On days when pDoom sits at 32.2%, that stubborn, joyful insistence on living fully is its own kind of signal.",
       "factors": [
         {
-          "name": "Science",
+          "name": "Human Spirit",
           "signal": "blazing",
-          "detail": "Identifying shared regeneration genes across multiple species is a foundational breakthrough that opens a genuine pathway toward human limb regrowth therapies."
+          "detail": "At 95, Shatner's philosophy of embracing discomfort and staying engaged is a lived demonstration that resilience isn't a young person's game."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "The fact that a person can be active, vocal, and purposeful at 95 reflects decades of advances in medicine, nutrition, and geriatric care quietly paying off."
         },
         {
           "name": "Cooperation",
-          "signal": "bright",
-          "detail": "Trump and Zelenskyy both confirmed a three-day Russia-Ukraine ceasefire and prisoner exchange, a fragile but real diplomatic signal amid ongoing war."
-        },
-        {
-          "name": "Human Spirit",
-          "signal": "bright",
-          "detail": "Displaced Lebanese children are still attending classes in Sidon despite being uprooted from their homes, a quiet testament to resilience and the hunger for education."
+          "signal": "quiet",
+          "detail": "Iran negotiations continue, however fragile \u2014 diplomatic channels remain open despite the week's pessimism."
         },
         {
           "name": "Environment",
-          "signal": "glimmer",
-          "detail": "Research into a Bering Strait dam intervention to prevent AMOC collapse shows scientists are actively engineering bold solutions to climate tipping points rather than accepting them."
+          "signal": "quiet",
+          "detail": "No major environmental catastrophe headlines today, suggesting incremental stabilization efforts are holding in some regions."
         },
         {
           "name": "Wild Card",
-          "signal": "bright",
-          "detail": "David Attenborough's 100th birthday drew global celebration, a unifying moment of gratitude for a man who made the natural world feel worth protecting."
+          "signal": "glimmer",
+          "detail": "Beet superfood demand surging may be trivial news, but mass public interest in preventive health and nutrition is a quiet long-term win for population wellness."
         }
       ],
       "mood": [
-        "breakthrough",
-        "regenerative",
-        "hopeful",
-        "resilient",
-        "pioneering"
+        "resilience",
+        "vitality",
+        "defiance",
+        "presence",
+        "endurance"
       ],
       "tier": 7,
       "tier_name": "Golden Hour",
       "card_image": "dawn-card-2026-05-09.png",
-      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast university research laboratory floor seen from high above, the camera pulled back to reveal the full sweep of the wet lab environment below \u2014 long stainless steel benchtops stretching in parallel rows like golden ribbons across the frame, bathed in deep amber sidelight pouring from tall windows at the far wall, casting long dramatic shadows across every surface. The dominant visual anchors from above are three glowing axolotl tanks arranged in a loose triangle across the lab floor, each one a luminous teal-blue rectangle radiating warm aquamarine light upward, their glow pooling across the surrounding benchtops in overlapping halos of deep golden-teal. Inside each tank, tiny pale pink axolotl forms are visible from above, their feathery gill crowns rendered as delicate red-pink pixel clusters fanning outward. Between the tanks: miniature PCR machines with glowing amber readouts, cold metal racks holding tiny glass vials catching the golden sidelight, and petri dish arrays arranged in precise grids. A large monitor on one bench displays cascading gene sequence data in gold and white pixels. Three tiny scientist figures \u2014 one at each tank \u2014 are dwarfed by the vast lab floor, their lab coats bright white against the deep amber shadows. At the far edge of the scene, a single small standing figure faces a tall window, backlit by radiant golden hour light, one hand raised and open toward the glow.",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast California ranch landscape seen from high above, golden-hour amber light flooding a sprawling equestrian property with riding arenas, fence-lined paddocks, and long parallel shadows stretching across rust-colored earth below \u2014 the camera pulled far back so the entire ranch complex fills the frame like a patchwork of warm ochre and deep teal. Tiny figures move through the arena below, one compact white-haired figure mounted tall on a gleaming chestnut horse caught mid-canter, hooves barely touching the ground, the horse and rider a bright focal point amid the vast dusty ring. Rows of wooden fence rails cast long ladder-like shadows across the sawdust floor. A small grandstand at the arena's edge holds a scattering of tiny standing figures, arms raised. In the far distance, the landscape opens to a wide valley floor fading into deep violet-blue dusk, the sky transitioning from warm amber at the horizon upward to indigo where faint pixel stars begin to emerge. A ghostly rocket silhouette hovers dreamlike against the darkening sky at the very edge of the frame, barely larger than a toothpick from this height. Deep golden amber and warm teal color grade throughout, long side-lit shadows, radiant and triumphant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-09.png"
     }
   }
