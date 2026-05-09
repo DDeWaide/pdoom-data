@@ -8756,5 +8756,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level worm's-eye view looking straight up from the red laterite earth of a Northern Nigerian village school morning, the camera pressed low to the dirt road, gazing upward at a dramatic convergence of sky and life. The scene is dominated by towering acacia trees whose lacy canopies fracture deep golden amber dawn light into shards and speckles overhead, the sky behind them a radiant warm teal deepening toward the zenith. A modest concrete school building rises at the left edge, its corrugated iron roof catching the low side-lighting in sheets of burnished ochre, faded blue paint on its walls glowing in the early sun. Seen from below, a group of Nigerian schoolgirls aged twelve to seventeen walk directly overhead in silhouette and warm rim-lit detail \u2014 white blouses blazing in the amber backlight, deep blue skirts catching teal sky reflections \u2014 their worn notebooks and pencils clutched to their chests, the paper edges catching the light like little white flames. A younger sister walks among them, her small school bag strap visible against her shoulder, one hand wrapped around an older girl's fingers. The undersides of the girls' chins are lit gold by the rising sun. Long dramatic shadows stretch across the red earth toward the viewer. In the far background, receding and desaturated, a muted vignette of a traditional ceremony dissolves into shadow while the foreground blazes with forward momentum. Side-lighting with long shadows. Radiant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-08.png"
     }
+  },
+  {
+    "date": "2026-05-09",
+    "generated_at": "2026-05-09T11:51:46.940784+00:00",
+    "doom": {
+      "percentage": 36.7,
+      "raw_percentage": 33.7,
+      "driver": "The shaky U.S. ceasefire with Iran has been repeatedly undermined this week, even as President Donald Trump insists it remains in effect.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE IN NAME ONLY AS TANKERS BURN",
+      "summary": "The U.S. struck two Iranian oil tankers trying to skirt its Hormuz blockade \u2014 a ceasefire so shaky it makes a Jenga tower look load-bearing. Meanwhile, Iran is accusing the U.S. of a 'reckless military adventure' every time diplomacy gets close, and Toyota just quietly absorbed a \u00a33bn war bill, suggesting the conflict is now pricing itself into quarterly earnings reports. The situation hasn't escalated beyond yesterday's 'big glow' rhetoric, but it hasn't de-escalated either \u2014 just grinding along at a steady simmer.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "U.S.-Iran ceasefire is functionally a fiction as tanker strikes and counter-attacks continue despite official insistence it holds."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Hungary's democratic reset with Magyar's new government offers a rare positive signal, while Trump's FCC vs. ABC fight shows domestic pressure on free press."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic's Mythos has reportedly triggered a cybersecurity reckoning at banks and governments, signaling AI-enabled threats are crossing from theoretical to operational."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Musk v. Altman trial reveals petty corporate intrigue more than existential risk \u2014 soap opera, not singularity."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Pentagon UFO document dump is maximally distracting and minimally threatening \u2014 the files contain hovering lights, not hovering warships."
+        }
+      ],
+      "mood": [
+        "grinding",
+        "smoldering",
+        "exhausted",
+        "fragile",
+        "cynical"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior of the White House Situation Room viewed from behind a figure seated at the far end of a long briefing table, looking outward through a wide rectangular window cut into the opposite wall, the glass smeared with condensation and bureaucratic fingerprints, beyond which the Persian Gulf stretches into deep navy darkness, the water's surface reflecting smoldering orange from a distant tanker fire burning on the horizon, the haze-blurred strait compressed between the flat Iranian coastline to the north and brown limestone cliffs barely visible to the south, the room itself lit in cold fluorescent blue-white that bleaches the map-covered walls and casts heavy shadows beneath the table, a cluster of glowing monitor screens along the side wall displaying radar sweep patterns in pale green, through the window silhouettes of two low gray Arleigh Burke-class destroyer hulls are visible mid-channel, their flat SPY-1 radar arrays catching the orange firelight, and in the far distance a swarm of tiny delta-wing shapes \u2014 Shahed-136 loitering munitions \u2014 visible only as dark specks against the smoldering orange glow, the entire palette locked to deep navy and threatening amber with no clean light anywhere, heat shimmer rising off the Gulf water even in darkness, heavy shadows dominating every corner of the room, warmth feeling like danger not comfort",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-09.png"
+    },
+    "dawn": {
+      "percentage": 63.3,
+      "driver": "Scientists found the \"holy grail\" gene that could one day help humans regrow limbs.",
+      "category": "Science",
+      "blurb": "HUMANITY INCHES CLOSER TO REGROWING LOST LIMBS",
+      "summary": "In a world rattled by conflict and geopolitical tension, science quietly delivered one of its most astonishing dispatches: researchers studying axolotls, zebrafish, and mice have identified a shared set of 'SP genes' that govern biological regeneration \u2014 the kind that lets some creatures regrow entire limbs. The discovery, described by scientists themselves as a 'holy grail,' suggests the machinery for regeneration may already exist dormant within human biology. Against a backdrop where headlines are dominated by warfare and blockades, this is a reminder that human curiosity and cooperation across species biology is still pushing toward the extraordinary.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Identifying shared regeneration genes across multiple species is a foundational breakthrough that opens a genuine pathway toward human limb regrowth therapies."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Trump and Zelenskyy both confirmed a three-day Russia-Ukraine ceasefire and prisoner exchange, a fragile but real diplomatic signal amid ongoing war."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Displaced Lebanese children are still attending classes in Sidon despite being uprooted from their homes, a quiet testament to resilience and the hunger for education."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Research into a Bering Strait dam intervention to prevent AMOC collapse shows scientists are actively engineering bold solutions to climate tipping points rather than accepting them."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "David Attenborough's 100th birthday drew global celebration, a unifying moment of gratitude for a man who made the natural world feel worth protecting."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "regenerative",
+        "hopeful",
+        "resilient",
+        "pioneering"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast university research laboratory floor seen from high above, the camera pulled back to reveal the full sweep of the wet lab environment below \u2014 long stainless steel benchtops stretching in parallel rows like golden ribbons across the frame, bathed in deep amber sidelight pouring from tall windows at the far wall, casting long dramatic shadows across every surface. The dominant visual anchors from above are three glowing axolotl tanks arranged in a loose triangle across the lab floor, each one a luminous teal-blue rectangle radiating warm aquamarine light upward, their glow pooling across the surrounding benchtops in overlapping halos of deep golden-teal. Inside each tank, tiny pale pink axolotl forms are visible from above, their feathery gill crowns rendered as delicate red-pink pixel clusters fanning outward. Between the tanks: miniature PCR machines with glowing amber readouts, cold metal racks holding tiny glass vials catching the golden sidelight, and petri dish arrays arranged in precise grids. A large monitor on one bench displays cascading gene sequence data in gold and white pixels. Three tiny scientist figures \u2014 one at each tank \u2014 are dwarfed by the vast lab floor, their lab coats bright white against the deep amber shadows. At the far edge of the scene, a single small standing figure faces a tall window, backlit by radiant golden hour light, one hand raised and open toward the glow.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-09.png"
+    }
   }
 ]
