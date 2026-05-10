@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-09",
-  "generated_at": "2026-05-09T12:59:24.951641+00:00",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T11:04:34.850930+00:00",
   "doom": {
-    "percentage": 32.2,
-    "raw_percentage": 28.4,
-    "driver": "As Trump forces NATO to pay up, alliance races to close military gap with US.",
-    "category": "Geopolitics",
-    "blurb": "WESTERN ALLIANCE SCRAMBLES TO PLUG DECADES-LONG HOLE",
-    "summary": "NATO allies are frantically trying to backfill a military capability gap that apparently nobody noticed for thirty years of comfortable promises \u2014 a fun thing to discover now, while the Iran situation simmers and Turkiye is building ICBMs. The good news is the ceasefire hasn't collapsed today, which is essentially the bar we're clearing in 2026. The bad news is 'racing to close a military gap' is not the same as actually closing one.",
+    "percentage": 36.3,
+    "raw_percentage": 34.7,
+    "driver": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report.",
+    "category": "Nuclear",
+    "blurb": "DEAD DICTATOR TRIGGERS END OF WORLD, AUTOMATICALLY",
+    "summary": "North Korea has apparently decided that human judgment is too slow for nuclear war and hardwired 'Kim dies = everyone dies' directly into their constitution. Meanwhile, the Iran war grinds on with cargo ships catching fire off Qatar and the Strait of Hormuz swallowing roughly a billion barrels of oil, so we're juggling multiple live grenades today. The hantavirus cruise ship chaos is genuinely unpleasant but the CDC assures us it won't go pandemic \u2014 which is exactly what you'd say right before it goes pandemic.",
     "factors": [
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "North Korea constitutionally mandating an automatic nuclear strike on Kim's death removes human deliberation from the most consequential decision imaginable."
+      },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "NATO structural underinvestment story surfaces alongside unresolved Iran negotiations, painting a picture of a Western alliance long on rhetoric and short on readiness."
+        "detail": "Iran war continues to roil energy markets, with Aramco profit surging 26% while the Hormuz blockade swallows a billion barrels and a cargo ship burns off Qatar."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Far-right One Nation winning its first lower-house seat in Australia signals continued global drift toward populist, nationalist governance structures."
+        "detail": "Trump-Xi summit looms with crude oil as a covert bargaining chip, and Starmer survives a crushing Labour defeat while facing an internal leadership threat by Monday."
       },
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "No significant AI capability or deployment headlines in today's feed \u2014 a rare quiet patch in the machine uprising."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Nothing today suggests AI systems are actively plotting; the biggest blunder in the headlines was Fernando Tatis Jr.'s fielding error."
+        "detail": "AI news is mostly internal Meta misery and LLM document-corruption research \u2014 concerning for the long run, quiet for today."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "A Bahamas alcohol ban causing cruise passenger chaos is technically a societal destabilization event, but we're choosing not to escalate on that basis."
+        "signal": "medium",
+        "detail": "Hantavirus cruise ship evacuation dominates headlines; CDC says low pandemic risk, but person-to-person transmission and global travel routes keep it on the board."
       }
     ],
     "mood": [
-      "restless",
-      "simmering",
-      "distracted",
-      "overextended"
+      "automated",
+      "combustible",
+      "queasy",
+      "lurching"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior of a sparse German Bundeswehr barracks room viewed from inside looking outward through a wide rectangular window, the camera positioned at mid-height as if standing near a metal-framed bunk bed stripped of its mattress, olive drab wool blanket folded on the floor beside a pair of worn military boots, the room behind the viewer implied by the cold fluorescent light casting a pale rectangle on a dusty concrete floor \u2014 through the window the outside world opens onto a flat Rhine valley plain under a heavy smoldering orange-tinged overcast sky, deep navy storm clouds pressing low over the horizon, a long convoy of flatbed railcars visible on tracks cutting diagonally across the middle distance, each car carrying a shrouded M1A2 tank shape under dark canvas lashing straps, the convoy diminishing toward a vanishing point in the grey-orange haze, a single NATO compass-rose flag on a pole beside the tracks hanging completely limp in still air, the barracks window frame itself painted over many times in institutional grey-green, a crack running diagonally across the lower pane, the glass slightly fogged with condensation at its edges \u2014 color palette dominated by deep navy blues and smoldering amber-orange atmospheric glow filtered through industrial haze, heavy shadows filling the room interior, the warmth outside feeling threatening rather than welcoming, the emptiness of the stripped bunk and departing convoy communicating abandonment and strategic vacuum without showing any specific figure or event.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-09.png"
+    "card_image": "doom-card-2026-05-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated interior scene viewed through the rain-lashed tall windows of the Mansudae Assembly Hall, Pyongyang, the camera positioned outside in the cold looking inward through streaked glass thick with condensation and running rivulets, the massive red-and-gold DPRK state emblem dominating the far wall of the chamber \u2014 hydroelectric dam, mountain peak, red star wreathed in rice stalks \u2014 rendered in deep smoldering orange against dark wood paneling, the fluorescent overhead lights cutting cold white columns through the heavy shadow of the interior, a heavy red-covered document lying open on a legislative podium in the foreground with a gold state seal embossed on its cover, a rubber stamp suspended mid-descent above it catching the orange light, the tiered rows of institutional seating stretching back in shadow behind, outside the glass a grey Pyongyang ceremonial boulevard dissolves into driving winter rain, the pavement mirror-black with standing water reflecting smears of orange and red light from the hall windows, dense low cloud pressing down over the pale brutalist towers in the distance, deep navy sky bleeding into charcoal, the entire scene filtered through rain and fog and threat, warmth present only as warning.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-10.png"
   },
   "dawn": {
-    "percentage": 67.8,
-    "driver": "William Shatner says he's 'taking care of business' at 95: 'The least of all I want do is die'",
-    "category": "Human Spirit",
-    "blurb": "AT 95, STILL CHOOSING LIFE EVERY SINGLE DAY",
-    "summary": "In a news cycle dominated by ceasefire collapses and geopolitical dread, William Shatner at 95 offers a quietly radical message: befriend the pain, keep moving, never stop doing what you love. It's not headline-grabbing science or a peace treaty, but there's something deeply grounding about a human being nine and a half decades in still refusing to coast. On days when pDoom sits at 32.2%, that stubborn, joyful insistence on living fully is its own kind of signal.",
+    "percentage": 63.7,
+    "driver": "Scientists just sent unhackable quantum keys across 120 kilometers. Scientists have taken a major step toward ultra-secure quantum communication by demonstrating a remarkably stable quantum encryption system that worked across more than 120 kilometers of optical fiber",
+    "category": "Science",
+    "blurb": "HUMANITY LOCKS THE DOOR ON SURVEILLANCE FOREVER",
+    "summary": "In a world where digital trust is eroding on every front \u2014 AI manipulation, VPN crackdowns, encryption rollbacks \u2014 scientists have quietly achieved something remarkable: genuinely unhackable communication across 120 kilometers of fiber, the longest stable quantum key distribution yet demonstrated. This isn't theoretical. The laws of physics themselves make interception detectable, meaning this technology, once scaled, could make mass surveillance cryptographically impossible. Against a backdrop of geopolitical instability and rising authoritarian digital control, the fact that researchers are handing the world this gift \u2014 privacy as a law of nature, not a policy \u2014 is a genuine reason for optimism.",
     "factors": [
       {
-        "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "At 95, Shatner's philosophy of embracing discomfort and staying engaged is a lived demonstration that resilience isn't a young person's game."
-      },
-      {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "The fact that a person can be active, vocal, and purposeful at 95 reflects decades of advances in medicine, nutrition, and geriatric care quietly paying off."
+        "signal": "blazing",
+        "detail": "Quantum key distribution across 120km of fiber marks a major practical milestone toward unbreakable real-world communications infrastructure."
       },
       {
         "name": "Cooperation",
-        "signal": "quiet",
-        "detail": "Iran negotiations continue, however fragile \u2014 diplomatic channels remain open despite the week's pessimism."
+        "signal": "glimmer",
+        "detail": "Hungary's new PM P\u00e9ter Magyar pledges service over rule after sweeping out 16 years of authoritarian governance \u2014 democratic renewal still happens."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Cape Verde's tiny nation is transforming lives through World Cup qualification, showing sport as a genuine engine of communal hope."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "No major environmental catastrophe headlines today, suggesting incremental stabilization efforts are holding in some regions."
+        "signal": "glimmer",
+        "detail": "The 2022 Hunga Tonga eruption cloud unexpectedly destroyed atmospheric methane, stunning scientists and hinting at poorly understood natural climate feedback mechanisms."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Beet superfood demand surging may be trivial news, but mass public interest in preventive health and nutrition is a quiet long-term win for population wellness."
+        "signal": "bright",
+        "detail": "Scientists reversed liver aging in mice using young gut bacteria, opening a credible new front in the effort to extend healthy human lifespan."
       }
     ],
     "mood": [
-      "resilience",
-      "vitality",
-      "defiance",
-      "presence",
-      "endurance"
+      "breakthrough",
+      "resilient",
+      "secure",
+      "ingenious",
+      "hopeful"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast California ranch landscape seen from high above, golden-hour amber light flooding a sprawling equestrian property with riding arenas, fence-lined paddocks, and long parallel shadows stretching across rust-colored earth below \u2014 the camera pulled far back so the entire ranch complex fills the frame like a patchwork of warm ochre and deep teal. Tiny figures move through the arena below, one compact white-haired figure mounted tall on a gleaming chestnut horse caught mid-canter, hooves barely touching the ground, the horse and rider a bright focal point amid the vast dusty ring. Rows of wooden fence rails cast long ladder-like shadows across the sawdust floor. A small grandstand at the arena's edge holds a scattering of tiny standing figures, arms raised. In the far distance, the landscape opens to a wide valley floor fading into deep violet-blue dusk, the sky transitioning from warm amber at the horizon upward to indigo where faint pixel stars begin to emerge. A ghostly rocket silhouette hovers dreamlike against the darkening sky at the very edge of the frame, barely larger than a toothpick from this height. Deep golden amber and warm teal color grade throughout, long side-lit shadows, radiant and triumphant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-09.png"
+    "card_image": "dawn-card-2026-05-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single ornate skeleton key, its bow and blade rendered in deep warm amber and molten gold pixel-light, the metal surface alive with a faint inner luminescence as though photons are trapped inside the brass itself. The key floats against pure darkness, but its polished shaft reflects two ghostly teal-green glowing lines \u2014 thin as fiber threads \u2014 that curve along its surface and vanish into the black edges of the frame, implying vast invisible distance beyond the composition. The key's teeth are impossibly precise, geometric, catching side-light from a deep golden source at hard left, casting one long dramatic shadow rightward across the dark void. A single pixel-bright amber spark sits at the very tip of the blade, small as a quantum ember, radiating a soft halo of warm gold into the surrounding black. The key's surface shows faint interference patterns in deep teal and violet \u2014 wavelike, mathematical, unhackable. Radiant side-lighting, long shadows, deep golden hour amber and warm teal palette, bioluminescent glow quality, hushed and monumental.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-10.png"
   }
 }
