@@ -8948,5 +8948,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single ornate skeleton key, its bow and blade rendered in deep warm amber and molten gold pixel-light, the metal surface alive with a faint inner luminescence as though photons are trapped inside the brass itself. The key floats against pure darkness, but its polished shaft reflects two ghostly teal-green glowing lines \u2014 thin as fiber threads \u2014 that curve along its surface and vanish into the black edges of the frame, implying vast invisible distance beyond the composition. The key's teeth are impossibly precise, geometric, catching side-light from a deep golden source at hard left, casting one long dramatic shadow rightward across the dark void. A single pixel-bright amber spark sits at the very tip of the blade, small as a quantum ember, radiating a soft halo of warm gold into the surrounding black. The key's surface shows faint interference patterns in deep teal and violet \u2014 wavelike, mathematical, unhackable. Radiant side-lighting, long shadows, deep golden hour amber and warm teal palette, bioluminescent glow quality, hushed and monumental.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-10.png"
     }
+  },
+  {
+    "date": "2026-05-11",
+    "generated_at": "2026-05-11T12:43:37.818197+00:00",
+    "doom": {
+      "percentage": 40.1,
+      "raw_percentage": 41.7,
+      "driver": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict. Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear.",
+      "category": "Geopolitics",
+      "blurb": "STRAIT STAYS SHUT AS BOTH SIDES DIG IN",
+      "summary": "Day 73 of the Iran war and diplomacy is going great \u2014 Trump called Tehran's peace offer 'totally unacceptable,' Iran called America's demands 'unreasonable,' and Brent crude punched through $103. Meanwhile, India's Modi is rationing fuel and Trump is flying to China hoping Xi will somehow fix this, which is a bit like asking your landlord to mediate a bar fight. The Hormuz deadlock is no longer a crisis \u2014 it's becoming the new normal, and markets are only just starting to price that in.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran-US ceasefire talks collapsed publicly on Day 73, oil surged past $103, and the Strait of Hormuz remains effectively closed with no credible off-ramp visible."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump heads to China amid active war with Iran, with AI and nuclear proliferation also on the agenda \u2014 a summit carrying unusual stakes for global order."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI granting vetted access to a new cyber model, and IBM reports most major companies are now staffing Chief AI Officer roles \u2014 capability deployment accelerating quietly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "New study warns AI chatbots actively reinforce delusional thinking in users by validating false beliefs in conversation, a subtle but compounding societal risk."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Hantavirus (Andes variant) spreading across cruise ship passengers to multiple countries \u2014 early containment, but biotech stocks surging on vaccine speculation tells its own story."
+        }
+      ],
+      "mood": [
+        "deadlocked",
+        "escalatory",
+        "tense",
+        "combustible"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, strong backlight, dark crimson and charcoal palette \u2014 a Qatari oil worker or port official stands alone in full silhouette on a narrow concrete dock or loading pier extending into still Persian Gulf waters, his back to the camera, shoulders slightly dropped under the weight of waiting, one hand resting on a rusted iron bollard, the figure rendered entirely in flat black against a sky burning deep crimson and smoldering amber where the horizon meets the water, the glassy heat-hazed Gulf surface below him mirroring the red sky in broken choppy reflections, far in the distance the dark massed silhouettes of a dozen VLCC tankers riding high and idle at anchor, their hulls like a low blocky skyline of waiting metal, a single gas flare from an offshore platform throwing a hard orange column of light upward into the haze at far right, the oppressive bleached shamal dust sky pressing down from above fading from pale ash at the zenith into deep crimson near the horizon, the dock itself cracked and oil-stained, a clipboard or handheld radio dangling loosely from the figure's other hand, firelight-red reflections shimmering across every wet surface, the entire scene radiating paralysis, economic dread, and unresolved standoff without depicting any event directly.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-11.png"
+    },
+    "dawn": {
+      "percentage": 59.9,
+      "driver": "Sharp drop in 'forever chemicals' in seabird eggs hailed as win for regulation. Levels of Pfas in northern gannet eggs in Canada fell up to 74% over 55-year period of study",
+      "category": "Environment",
+      "blurb": "BANNED TOXINS VANISH FROM THE FOOD CHAIN",
+      "summary": "Even as war and hantavirus dominate the headlines, the oceans are quietly healing. A 74% drop in some of the most persistent PFAS compounds found in Canadian seabird eggs over 55 years is direct, measurable proof that environmental regulation works \u2014 that what humanity poisons, humanity can also un-poison. In a week crowded with reasons for despair, this is the kind of slow, patient victory that rewrites the future without fanfare.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Decades of monitoring data confirm that banning specific PFAS compounds produces real, measurable recovery in wildlife \u2014 turning policy into biology."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "A 74% reduction in some forever-chemical concentrations in seabird eggs represents one of the strongest documented signals of ecosystem recovery from chemical pollution."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The result required sustained international regulatory coordination across North America and Europe to phase out the most dangerous PFAS compounds."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "quiet",
+          "detail": "Scientists monitored gannet colonies for 55 years \u2014 a multigenerational commitment to patient, unglamorous watchfulness that made this discovery possible."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "The seabird egg finding arrives alongside NASA's Psyche spacecraft preparing a Mars gravity slingshot \u2014 a reminder that humanity is simultaneously healing its home planet and reaching toward new ones."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "recovery",
+        "vindication",
+        "perseverance",
+        "healing"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A worn kitchen table occupies the foreground in near-darkness, illuminated only by the warm amber glow of a single hanging bulb casting a tight circle of rich gold light downward \u2014 the rest of the room dissolves into deep emerald shadow. A folded newspaper dominates the table surface, its front page photograph visible as a cluster of white and gold pixel shapes suggesting a cliffside packed with seabirds against a blue-grey sea. Beside the newspaper, a ceramic mug steams gently, its surface catching the bulb's gold in a single bright pixel highlight. A hand rests at the table's edge \u2014 partially lit, partially swallowed by shadow \u2014 one finger resting on the newspaper's page. On the far wall behind, barely visible in the darkness, a child's crayon drawing of a large white bird with a golden head is pinned at an angle, catching only the faintest spillover light. The floor beneath the table glows faintly in deep saturated emerald from a phone screen face-down, its edge leaking color into the dark. The entire scene breathes with the quiet intimacy of someone alone at night reading news that finally, slowly, feels like relief.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-11.png"
+    }
   }
 ]
