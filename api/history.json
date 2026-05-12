@@ -9044,5 +9044,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A worn kitchen table occupies the foreground in near-darkness, illuminated only by the warm amber glow of a single hanging bulb casting a tight circle of rich gold light downward \u2014 the rest of the room dissolves into deep emerald shadow. A folded newspaper dominates the table surface, its front page photograph visible as a cluster of white and gold pixel shapes suggesting a cliffside packed with seabirds against a blue-grey sea. Beside the newspaper, a ceramic mug steams gently, its surface catching the bulb's gold in a single bright pixel highlight. A hand rests at the table's edge \u2014 partially lit, partially swallowed by shadow \u2014 one finger resting on the newspaper's page. On the far wall behind, barely visible in the darkness, a child's crayon drawing of a large white bird with a golden head is pinned at an angle, catching only the faintest spillover light. The floor beneath the table glows faintly in deep saturated emerald from a phone screen face-down, its edge leaking color into the dark. The entire scene breathes with the quiet intimacy of someone alone at night reading news that finally, slowly, feels like relief.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-11.png"
     }
+  },
+  {
+    "date": "2026-05-12",
+    "generated_at": "2026-05-12T12:02:14.081980+00:00",
+    "doom": {
+      "percentage": 40.2,
+      "raw_percentage": 41.7,
+      "driver": "Trump reportedly eyes renewed military action as Iran negotiations break down and more top headlines.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE ON LIFE SUPPORT, WARPLANES ON STANDBY",
+      "summary": "The month-long Iran ceasefire is now officially described as being on 'massive life support' by the man who created the crisis in the first place \u2014 which is either reassuring or terrifying depending on your threshold for irony. Meanwhile, Trump is simultaneously flying to Beijing to ask Xi Jinping for help ending a war while putting Taiwan arms sales on the negotiating table, which is a bit like setting your neighbor's house on fire and then asking to borrow their garden hose. The Strait of Hormuz remains strangled enough that a Japanese snack company can't afford colored ink, which may be the most mundane harbinger of civilizational stress ever recorded.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran ceasefire collapsing in real time, Trump eyeing renewed military action, and a high-stakes Trump-Xi summit with Taiwan on the agenda \u2014 three intersecting crises on one diplomatic dance card."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "UK PM Starmer facing 80 MPs calling for resignation and analysts saying he won't last the year, while South Africa's Ramaphosa weathers his own impeachment call \u2014 Western democratic stability looking frayed at both ends."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Google confirms it stopped a zero-day exploit developed with AI \u2014 first documented case of AI-assisted cyberattack being caught in the wild, a meaningful capability threshold crossed."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Hantavirus cluster grows to 16 cases at a Nebraska facility with patients in biocontainment; WHO says no larger outbreak yet, but 'yet' is doing a lot of work in that sentence."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Mira Murati's Thinking Machines unveils 'interaction models' and OpenAI launches Daybreak security initiative \u2014 AI labs building faster than safety frameworks can follow, but no acute alignment event today."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "fraying",
+        "combustible",
+        "exhausted"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt pavement of a Tehran bazaar district, camera pressed nearly flat to the ground looking steeply skyward, the underside of a corrugated metal market awning fills the foreground in deep shadow, its rusted rivets and bent edges rendered in charcoal and dark rust-brown detail \u2014 a long queue of Iranian civilians stretches upward away from the camera, their legs and feet dominating the lower frame, worn shoes and sandals on cracked pavement, figures receding into forced perspective toward a shuttered currency exchange storefront with iron security grating pulled down and padlocked, the grating casting hard diagonal shadow bars across the scene \u2014 the sky above is a compressed band of dark crimson bleeding into charcoal grey at the top of the frame, no sun visible, only oppressive overcast \u2014 a single bare fluorescent tube flickers beneath the awning casting cold sickly light across upturned anxious faces visible mid-frame \u2014 a knocked-over vegetable cart lies on its side in the middle distance, scattered pomegranates rolling across the pavement rendered in deep red against the dark ground \u2014 far above the queue a torn fabric banner sags between two crumbling plaster buildings, its pattern unreadable, edges fraying in a hot desert wind \u2014 dark crimson and charcoal throughout, firelight-warm reflections on the underside of the metal awning, high contrast, oppressive stillness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-12.png"
+    },
+    "dawn": {
+      "percentage": 59.8,
+      "driver": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope. Pancreatic cancer is notoriously lethal. But new treatments mean that may be changing, and people with the disease now have more reason to hope than ever before.",
+      "category": "Medicine",
+      "blurb": "SCIENCE TURNS THE TIDE ON A RUTHLESS KILLER",
+      "summary": "Pancreatic cancer has long been among medicine's most devastating diagnoses \u2014 a disease that once meant almost certain death within months. New treatments are quietly rewriting that story, giving patients genuine reason to believe in more time, more life. On a day shadowed by war and displacement, this is the kind of steady human progress that doesn't make headlines loudly enough \u2014 but matters most.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Breakthrough therapies are shifting pancreatic cancer from near-certain death sentence toward a survivable illness, representing one of oncology's most meaningful advances in decades."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The story of patients outrunning a lethal diagnosis \u2014 and the researchers who made it possible \u2014 captures the stubborn refusal to accept that some battles can't be won."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "France's $27bn Africa investment summit in Kenya signals at least one major power attempting to rebuild relationships through economics rather than coercion."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "James Webb's clearest-ever map of the cosmic web reminds humanity that curiosity and international science infrastructure still reach far beyond earthly conflicts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A 17-year-old LA student accepted to 65 colleges with over a million in scholarships is a small but luminous reminder that young people are still reaching, still achieving, still dreaming big."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "breakthrough",
+        "hope",
+        "perseverance",
+        "possibility"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a quiet hospital infusion room at dawn looking outward through a large window, the glass framing a sun-dappled outdoor running trail where golden morning light filters through emerald canopy leaves, rich gold and deep green saturating every surface. The aftermath of a treatment session fills the foreground in calm stillness: a reclining chair sits empty but slightly reclined, a small side table holds a single spent IV line coiled beside a tiny amber glass vial catching the early light like a jewel, and a worn pair of running shoes with frayed laces rests on the floor beside the chair \u2014 left there, ready for tomorrow. On the window ledge a race bib is folded neatly, its edges catching the gold light. Outside through the glass the trail glows with dappled emerald and honey light, leaves trembling in early breeze, the path stretching forward and unobstructed into warm distance. Mitochondrial branching filaments rendered as golden tree-root patterns creep softly along the lower frame edges, biological and hopeful. The room is still, the patient gone, the horizon outside wide open.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-12.png"
+    }
   }
 ]
