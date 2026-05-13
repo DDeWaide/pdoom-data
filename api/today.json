@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12T12:02:14.081980+00:00",
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T12:10:50.469451+00:00",
   "doom": {
-    "percentage": 40.2,
-    "raw_percentage": 41.7,
-    "driver": "Trump reportedly eyes renewed military action as Iran negotiations break down and more top headlines.",
-    "category": "Geopolitics",
-    "blurb": "CEASEFIRE ON LIFE SUPPORT, WARPLANES ON STANDBY",
-    "summary": "The month-long Iran ceasefire is now officially described as being on 'massive life support' by the man who created the crisis in the first place \u2014 which is either reassuring or terrifying depending on your threshold for irony. Meanwhile, Trump is simultaneously flying to Beijing to ask Xi Jinping for help ending a war while putting Taiwan arms sales on the negotiating table, which is a bit like setting your neighbor's house on fire and then asking to borrow their garden hose. The Strait of Hormuz remains strangled enough that a Japanese snack company can't afford colored ink, which may be the most mundane harbinger of civilizational stress ever recorded.",
+    "percentage": 38.5,
+    "raw_percentage": 38.7,
+    "driver": "Putin hails Russia's test launch of a new ballistic missile.",
+    "category": "Nuclear",
+    "blurb": "PUTIN FIRES WORLD'S MOST POWERFUL MISSILE. FOR FUN.",
+    "summary": "Russia decided today was a great day to test-fire a new intercontinental ballistic missile \u2014 the Sarmat, which Putin is calling the world's most powerful \u2014 while Trump is literally on a plane to Beijing to talk about a separate ongoing war with Iran. The timing is either a coincidence or a masterclass in geopolitical trolling. With nuclear modernization accelerating, a U.S.-Iran war in month three, Trump-Xi summit stakes at maximum, and UK bond markets in meltdown, today's chaos is impressively multi-threaded.",
     "factors": [
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "Russia's Sarmat ICBM test-launch \u2014 entering combat service by year-end \u2014 is a deliberate signal of nuclear capability during a period of maximum geopolitical tension."
+      },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran ceasefire collapsing in real time, Trump eyeing renewed military action, and a high-stakes Trump-Xi summit with Taiwan on the agenda \u2014 three intersecting crises on one diplomatic dance card."
+        "detail": "Trump arrives in Beijing for a summit with Xi as the Iran war enters day 75, with Gulf tensions rising, a UN resolution on Hormuz, and Taiwan and tariffs all on the table."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "UK PM Starmer facing 80 MPs calling for resignation and analysts saying he won't last the year, while South Africa's Ramaphosa weathers his own impeachment call \u2014 Western democratic stability looking frayed at both ends."
+        "detail": "UK Prime Minister Starmer faces potential ouster, causing gilts sell-off and bond market panic \u2014 democratic instability in a G7 nation is never a great look."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Google confirms it stopped a zero-day exploit developed with AI \u2014 first documented case of AI-assisted cyberattack being caught in the wild, a meaningful capability threshold crossed."
+        "detail": "Silicon Valley giants deepening war-contractor roles (Palantir, Anduril, Google) while Nvidia's Jensen Huang joins Trump's China trip \u2014 AI and geopolitics are now fully fused."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Hantavirus cluster grows to 16 cases at a Nebraska facility with patients in biocontainment; WHO says no larger outbreak yet, but 'yet' is doing a lot of work in that sentence."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Mira Murati's Thinking Machines unveils 'interaction models' and OpenAI launches Daybreak security initiative \u2014 AI labs building faster than safety frameworks can follow, but no acute alignment event today."
+        "detail": "A growing hantavirus outbreak on a cruise ship (now 11 cases, one critically ill on an artificial lung) and a QR code conspiracy theory disrupting Georgia's election infrastructure are both quietly unsettling."
       }
     ],
     "mood": [
-      "precarious",
-      "fraying",
-      "combustible",
-      "exhausted"
+      "bellicose",
+      "frenetic",
+      "anxious",
+      "escalatory"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-12.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt pavement of a Tehran bazaar district, camera pressed nearly flat to the ground looking steeply skyward, the underside of a corrugated metal market awning fills the foreground in deep shadow, its rusted rivets and bent edges rendered in charcoal and dark rust-brown detail \u2014 a long queue of Iranian civilians stretches upward away from the camera, their legs and feet dominating the lower frame, worn shoes and sandals on cracked pavement, figures receding into forced perspective toward a shuttered currency exchange storefront with iron security grating pulled down and padlocked, the grating casting hard diagonal shadow bars across the scene \u2014 the sky above is a compressed band of dark crimson bleeding into charcoal grey at the top of the frame, no sun visible, only oppressive overcast \u2014 a single bare fluorescent tube flickers beneath the awning casting cold sickly light across upturned anxious faces visible mid-frame \u2014 a knocked-over vegetable cart lies on its side in the middle distance, scattered pomegranates rolling across the pavement rendered in deep red against the dark ground \u2014 far above the queue a torn fabric banner sags between two crumbling plaster buildings, its pattern unreadable, edges fraying in a hot desert wind \u2014 dark crimson and charcoal throughout, firelight-warm reflections on the underside of the metal awning, high contrast, oppressive stillness.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-12.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-05-13.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast flat steppe landscape rendered in deep navy shadow and smoldering orange haze, the enormous treeless terrain dominating the entire frame \u2014 at the symbolic center of the composition, a massive stone chessboard has been carved directly into the scorched earth itself, its alternating squares of dark graphite and pale concrete stretching across the barren ground like a scar, the board mid-collapse, the far edge of it cracking and tilting downward into a circular void in the earth, a perfectly cylindrical silo-shaped hole blasted open in the steppe below \u2014 heavy black smoke billows upward and outward from the void in a wide lateral skirt, catching the threatening orange warmth from below and turning the smoke columns deep amber and rust at their cores \u2014 the chess pieces themselves are colossal, monolithic, carved from the same dark gray stone as the board, and several have toppled, lying at angles across the cracking squares \u2014 the sky above is a suffocating deep navy, filtered through smoke haze, no horizon visible, just oppressive darkness pressing down \u2014 tiny anonymous figures stand at the very edge of the board's perimeter, dwarfed by the landscape, observing \u2014 smoldering orange rimlight edges every cracked stone surface, warmth feeling entirely threatening.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-13.png"
   },
   "dawn": {
-    "percentage": 59.8,
-    "driver": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope. Pancreatic cancer is notoriously lethal. But new treatments mean that may be changing, and people with the disease now have more reason to hope than ever before.",
-    "category": "Medicine",
-    "blurb": "SCIENCE TURNS THE TIDE ON A RUTHLESS KILLER",
-    "summary": "Pancreatic cancer has long been among medicine's most devastating diagnoses \u2014 a disease that once meant almost certain death within months. New treatments are quietly rewriting that story, giving patients genuine reason to believe in more time, more life. On a day shadowed by war and displacement, this is the kind of steady human progress that doesn't make headlines loudly enough \u2014 but matters most.",
+    "percentage": 61.5,
+    "driver": "Scientists make old blood stem cells young again in major anti-aging breakthrough.",
+    "category": "Science",
+    "blurb": "SCIENTISTS TURN BACK THE CLOCK ON AGING BLOOD",
+    "summary": "Researchers have identified how overactive lysosomes drive aging in blood stem cells \u2014 and found a way to calm them, effectively rejuvenating the immune system in older adults. This is the kind of foundational biology breakthrough that quietly rewrites the ceiling on human health, with implications for everything from cancer treatment to immune decline. Even as geopolitical headlines grind on, science moves forward on its own relentless, hopeful schedule.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Breakthrough therapies are shifting pancreatic cancer from near-certain death sentence toward a survivable illness, representing one of oncology's most meaningful advances in decades."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "The story of patients outrunning a lethal diagnosis \u2014 and the researchers who made it possible \u2014 captures the stubborn refusal to accept that some battles can't be won."
+        "detail": "Reversing biological aging in blood stem cells represents a genuine mechanistic breakthrough, not just a correlation study \u2014 researchers identified and targeted a specific cellular pathway."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "France's $27bn Africa investment summit in Kenya signals at least one major power attempting to rebuild relationships through economics rather than coercion."
+        "detail": "Brazil's 27-year process to officially demarcate 410,000 hectares for the Kawahiva people finally begins, a rare win for indigenous land rights and legal persistence."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Gaza sisters Farah and Tala turned rubble into reusable bricks, winning a prize and embodying resilience and ingenuity under unimaginable hardship."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "James Webb's clearest-ever map of the cosmic web reminds humanity that curiosity and international science infrastructure still reach far beyond earthly conflicts."
+        "detail": "Scientists engineered algae that can magnetically bind and remove microplastics from drinking water, offering a low-cost, scalable path to cleaner water supplies globally."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A 17-year-old LA student accepted to 65 colleges with over a million in scholarships is a small but luminous reminder that young people are still reaching, still achieving, still dreaming big."
+        "detail": "A commencement speaker at NC State paid off all graduating seniors' final-year student loans, delivering a genuinely debt-free start to hundreds of young lives."
       }
     ],
     "mood": [
-      "resilience",
+      "resilient",
       "breakthrough",
-      "hope",
-      "perseverance",
-      "possibility"
+      "regenerative",
+      "hopeful",
+      "ingenious"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-12.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a quiet hospital infusion room at dawn looking outward through a large window, the glass framing a sun-dappled outdoor running trail where golden morning light filters through emerald canopy leaves, rich gold and deep green saturating every surface. The aftermath of a treatment session fills the foreground in calm stillness: a reclining chair sits empty but slightly reclined, a small side table holds a single spent IV line coiled beside a tiny amber glass vial catching the early light like a jewel, and a worn pair of running shoes with frayed laces rests on the floor beside the chair \u2014 left there, ready for tomorrow. On the window ledge a race bib is folded neatly, its edges catching the gold light. Outside through the glass the trail glows with dappled emerald and honey light, leaves trembling in early breeze, the path stretching forward and unobstructed into warm distance. Mitochondrial branching filaments rendered as golden tree-root patterns creep softly along the lower frame edges, biological and hopeful. The room is still, the patient gone, the horizon outside wide open.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-12.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-05-13.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A fog-drenched hospital geriatric ward corridor at golden hour, seen from mid-distance, dense amber haze rolling in through tall windows along the left wall, the mist softening every edge into warm teal and gold gradients, long diffuse shadows stretching across pale linoleum tiles. The atmosphere is primary \u2014 thick, luminous fog fills the upper two-thirds of the frame, backlit by dying amber sun filtering through condensation-fogged glass panes. Within this weather-veiled scene: an elderly patient sitting upright in a bedside chair near the window, hands resting on knees, face tilted slightly upward toward the amber light breaking through the fog as if sensing something shift, a faint warm glow emanating from their chest in deep violet-purple hues suggesting cellular renewal within. Beside them on a rolling tray table, a small glass vial of faintly blue liquid catches the golden light. Through the fog-blurred window glass, the suggestion of a city beyond \u2014 soft teal outlines of buildings dissolving into haze. A single nurse pauses mid-corridor in the background, silhouetted against glowing window light, head slightly turned. The overall palette is deep amber, warm burgundy, and luminous teal, fog refracting every light source into soft radiant halos, quietly triumphant.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-13.png"
   }
 }

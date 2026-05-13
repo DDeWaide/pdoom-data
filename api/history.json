@@ -9140,5 +9140,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a quiet hospital infusion room at dawn looking outward through a large window, the glass framing a sun-dappled outdoor running trail where golden morning light filters through emerald canopy leaves, rich gold and deep green saturating every surface. The aftermath of a treatment session fills the foreground in calm stillness: a reclining chair sits empty but slightly reclined, a small side table holds a single spent IV line coiled beside a tiny amber glass vial catching the early light like a jewel, and a worn pair of running shoes with frayed laces rests on the floor beside the chair \u2014 left there, ready for tomorrow. On the window ledge a race bib is folded neatly, its edges catching the gold light. Outside through the glass the trail glows with dappled emerald and honey light, leaves trembling in early breeze, the path stretching forward and unobstructed into warm distance. Mitochondrial branching filaments rendered as golden tree-root patterns creep softly along the lower frame edges, biological and hopeful. The room is still, the patient gone, the horizon outside wide open.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-12.png"
     }
+  },
+  {
+    "date": "2026-05-13",
+    "generated_at": "2026-05-13T12:10:50.469451+00:00",
+    "doom": {
+      "percentage": 38.5,
+      "raw_percentage": 38.7,
+      "driver": "Putin hails Russia's test launch of a new ballistic missile.",
+      "category": "Nuclear",
+      "blurb": "PUTIN FIRES WORLD'S MOST POWERFUL MISSILE. FOR FUN.",
+      "summary": "Russia decided today was a great day to test-fire a new intercontinental ballistic missile \u2014 the Sarmat, which Putin is calling the world's most powerful \u2014 while Trump is literally on a plane to Beijing to talk about a separate ongoing war with Iran. The timing is either a coincidence or a masterclass in geopolitical trolling. With nuclear modernization accelerating, a U.S.-Iran war in month three, Trump-Xi summit stakes at maximum, and UK bond markets in meltdown, today's chaos is impressively multi-threaded.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Russia's Sarmat ICBM test-launch \u2014 entering combat service by year-end \u2014 is a deliberate signal of nuclear capability during a period of maximum geopolitical tension."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Trump arrives in Beijing for a summit with Xi as the Iran war enters day 75, with Gulf tensions rising, a UN resolution on Hormuz, and Taiwan and tariffs all on the table."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "UK Prime Minister Starmer faces potential ouster, causing gilts sell-off and bond market panic \u2014 democratic instability in a G7 nation is never a great look."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Silicon Valley giants deepening war-contractor roles (Palantir, Anduril, Google) while Nvidia's Jensen Huang joins Trump's China trip \u2014 AI and geopolitics are now fully fused."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A growing hantavirus outbreak on a cruise ship (now 11 cases, one critically ill on an artificial lung) and a QR code conspiracy theory disrupting Georgia's election infrastructure are both quietly unsettling."
+        }
+      ],
+      "mood": [
+        "bellicose",
+        "frenetic",
+        "anxious",
+        "escalatory"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast flat steppe landscape rendered in deep navy shadow and smoldering orange haze, the enormous treeless terrain dominating the entire frame \u2014 at the symbolic center of the composition, a massive stone chessboard has been carved directly into the scorched earth itself, its alternating squares of dark graphite and pale concrete stretching across the barren ground like a scar, the board mid-collapse, the far edge of it cracking and tilting downward into a circular void in the earth, a perfectly cylindrical silo-shaped hole blasted open in the steppe below \u2014 heavy black smoke billows upward and outward from the void in a wide lateral skirt, catching the threatening orange warmth from below and turning the smoke columns deep amber and rust at their cores \u2014 the chess pieces themselves are colossal, monolithic, carved from the same dark gray stone as the board, and several have toppled, lying at angles across the cracking squares \u2014 the sky above is a suffocating deep navy, filtered through smoke haze, no horizon visible, just oppressive darkness pressing down \u2014 tiny anonymous figures stand at the very edge of the board's perimeter, dwarfed by the landscape, observing \u2014 smoldering orange rimlight edges every cracked stone surface, warmth feeling entirely threatening.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-13.png"
+    },
+    "dawn": {
+      "percentage": 61.5,
+      "driver": "Scientists make old blood stem cells young again in major anti-aging breakthrough.",
+      "category": "Science",
+      "blurb": "SCIENTISTS TURN BACK THE CLOCK ON AGING BLOOD",
+      "summary": "Researchers have identified how overactive lysosomes drive aging in blood stem cells \u2014 and found a way to calm them, effectively rejuvenating the immune system in older adults. This is the kind of foundational biology breakthrough that quietly rewrites the ceiling on human health, with implications for everything from cancer treatment to immune decline. Even as geopolitical headlines grind on, science moves forward on its own relentless, hopeful schedule.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Reversing biological aging in blood stem cells represents a genuine mechanistic breakthrough, not just a correlation study \u2014 researchers identified and targeted a specific cellular pathway."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Brazil's 27-year process to officially demarcate 410,000 hectares for the Kawahiva people finally begins, a rare win for indigenous land rights and legal persistence."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Gaza sisters Farah and Tala turned rubble into reusable bricks, winning a prize and embodying resilience and ingenuity under unimaginable hardship."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists engineered algae that can magnetically bind and remove microplastics from drinking water, offering a low-cost, scalable path to cleaner water supplies globally."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A commencement speaker at NC State paid off all graduating seniors' final-year student loans, delivering a genuinely debt-free start to hundreds of young lives."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "breakthrough",
+        "regenerative",
+        "hopeful",
+        "ingenious"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A fog-drenched hospital geriatric ward corridor at golden hour, seen from mid-distance, dense amber haze rolling in through tall windows along the left wall, the mist softening every edge into warm teal and gold gradients, long diffuse shadows stretching across pale linoleum tiles. The atmosphere is primary \u2014 thick, luminous fog fills the upper two-thirds of the frame, backlit by dying amber sun filtering through condensation-fogged glass panes. Within this weather-veiled scene: an elderly patient sitting upright in a bedside chair near the window, hands resting on knees, face tilted slightly upward toward the amber light breaking through the fog as if sensing something shift, a faint warm glow emanating from their chest in deep violet-purple hues suggesting cellular renewal within. Beside them on a rolling tray table, a small glass vial of faintly blue liquid catches the golden light. Through the fog-blurred window glass, the suggestion of a city beyond \u2014 soft teal outlines of buildings dissolving into haze. A single nurse pauses mid-corridor in the background, silhouetted against glowing window light, head slightly turned. The overall palette is deep amber, warm burgundy, and luminous teal, fog refracting every light source into soft radiant halos, quietly triumphant.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-13.png"
+    }
   }
 ]
