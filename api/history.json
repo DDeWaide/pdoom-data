@@ -9236,5 +9236,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A fog-drenched hospital geriatric ward corridor at golden hour, seen from mid-distance, dense amber haze rolling in through tall windows along the left wall, the mist softening every edge into warm teal and gold gradients, long diffuse shadows stretching across pale linoleum tiles. The atmosphere is primary \u2014 thick, luminous fog fills the upper two-thirds of the frame, backlit by dying amber sun filtering through condensation-fogged glass panes. Within this weather-veiled scene: an elderly patient sitting upright in a bedside chair near the window, hands resting on knees, face tilted slightly upward toward the amber light breaking through the fog as if sensing something shift, a faint warm glow emanating from their chest in deep violet-purple hues suggesting cellular renewal within. Beside them on a rolling tray table, a small glass vial of faintly blue liquid catches the golden light. Through the fog-blurred window glass, the suggestion of a city beyond \u2014 soft teal outlines of buildings dissolving into haze. A single nurse pauses mid-corridor in the background, silhouetted against glowing window light, head slightly turned. The overall palette is deep amber, warm burgundy, and luminous teal, fog refracting every light source into soft radiant halos, quietly triumphant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-13.png"
     }
+  },
+  {
+    "date": "2026-05-14",
+    "generated_at": "2026-05-14T11:57:28.050847+00:00",
+    "doom": {
+      "percentage": 36.1,
+      "raw_percentage": 34.7,
+      "driver": "Xi warns Trump of 'clashes and even conflicts' with US over Taiwan. Chinese president's comments published after two-hour meeting with his US counterpart during Beijing summit",
+      "category": "Geopolitics",
+      "blurb": "XI PUTS TAIWAN ON THE TABLE, SMILING",
+      "summary": "Trump's Beijing summit produced the diplomatic equivalent of a polite dinner where someone calmly explains they might burn your house down. Xi Jinping warned that Taiwan handled 'improperly' could lead to actual armed conflict between nuclear powers\u2014while both sides exchanged friendly gestures and talked about cooperation. The fact that Nvidia's Jensen Huang and 'Tim Apple' flew over to clinch chip deals suggests this is less Cold War and more Cold Negotiation, but Xi's Taiwan warning wasn't decorative language.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Xi explicitly warned Trump that mishandling Taiwan could trigger 'clashes and even conflicts' between the world's two largest militaries\u2014a rare direct public warning during an ostensibly friendly summit."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump-Xi summit produced cooperative optics and Nvidia H200 chip deal hints, but the divergent US/China readouts suggest the two sides heard very different conversations."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "US reportedly clearing Nvidia H200 sales to China while also claiming 'we are in the lead' on AI\u2014a tension between economic incentives and strategic competition that could accelerate both sides' capabilities."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "An asteroid with enough mass to wipe out a city is set to fly 'very close' to Earth next week, which is fine, totally fine, nothing to see here."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Anthropic's admission that it accidentally trained AI models to act 'evil' via dystopian sci-fi is the kind of story that sounds like a joke until it really, really isn't."
+        }
+      ],
+      "mood": [
+        "tense diplomacy",
+        "smiling threats",
+        "precarious",
+        "high-stakes theater"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with the front page of the People's Daily newspaper, the iconic red masthead banner rendered in deep smoldering crimson across the top edge of the frame, the rest of the broadsheet dominated by a photograph printed in heavy navy and burnt orange halftone dots showing two indistinct suited silhouettes facing each other across a ceremonial table, the newsprint itself slightly damp and creased, resting on the dark lacquered surface of a tea house table in Beijing, the grain of the wood visible at the extreme edges of the frame, a ceramic tea glass casting a small amber ring-stain onto the bottom corner of the page, the halftone photograph's colors bleeding slightly into the smoggy orange warmth of the tea house's overhead lamp reflected faintly in the paper's surface, deep shadows pressing in from all four corners of the composition, the masthead's gold Mandarin characters glinting under the smoky amber light, the texture of cheap broadsheet newsprint rendered in precise 16-bit pixel grain, the mood heavy and suffocating, warmth feeling like warning rather than comfort.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-14.png"
+    },
+    "dawn": {
+      "percentage": 63.9,
+      "driver": "Brazil's Atlantic forest records lowest deforestation in 40 years. Environmentalists hail decline but warn weakened laws could reverse gains",
+      "category": "Environment",
+      "blurb": "ANCIENT FOREST BREATHES EASIER THAN IT HAS IN DECADES",
+      "summary": "Against a backdrop of missile tests and geopolitical brinkmanship, the Atlantic forest \u2014 one of Earth's most biodiverse biomes and one of its most threatened \u2014 just posted its best deforestation numbers since monitoring began 40 years ago. That's not a rounding error; it's a genuine, sustained reversal driven by enforcement, activism, and policy that actually worked. The warning that weakened laws could undo these gains isn't a footnote to ignore \u2014 it's the challenge that makes protecting this milestone so urgent and so worth fighting for.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Brazil's Atlantic forest hit a 40-year deforestation low, proof that conservation policy can deliver measurable, historic results even in politically turbulent times."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New psychedelic-like compounds created at UC Davis activate serotonin receptors linked to brain plasticity without hallucinogenic effects, opening a serious new lane for depression treatment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Trump and Xi are meeting face-to-face in Beijing, with both sides signaling intent to cooperate on trade and AI safety \u2014 diplomatic engagement beats silence, however fragile."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Elementary school students are running lemonade stands and bake sales to protect an eagle habitat from luxury development \u2014 proof that civic instinct starts young."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A quantum algorithm breakthrough in Japan can detect elusive W states instantly, quietly advancing the infrastructure for unhackable communication and next-generation computing."
+        }
+      ],
+      "mood": [
+        "resurgent",
+        "tenacious",
+        "hopeful",
+        "verdant",
+        "determined"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The Atlantic Forest edge at golden hour, a wall of ancient cathedral-fig trees and dense tropical canopy rising against a blazing amber and warm teal sky, god rays bursting through the upper tree layer in molten gold, the distant Atlantic Ocean a silver-blue sliver glinting at the horizon beyond the forest ridge. In the foreground, two human silhouettes stand at the forest threshold in total darkness against the radiant backlight \u2014 one figure holds a rolled document or report at their side, the other faces the intact canopy with arms slightly open, both rendered as pure black shapes swallowed by the overwhelming glow behind them. The canopy itself is layered and jewel-dense, bromeliads and orchid clusters visible as dark organic shapes clinging to silhouetted branches. The ground at their feet shows the hard boundary where cleared earth meets the forest wall \u2014 bare reddish-ochre soil on one side, the living green holding its ground on the other. Long side-shadows stretch across the clearing. Deep golden amber dominates the sky, warm teal bleeds into the shadowed understory, the entire scene radiating the feeling of something that survived.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-14.png"
+    }
   }
 ]
