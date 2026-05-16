@@ -9232,5 +9232,99 @@
       "card_image": "dawn-card-2026-05-15.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a sun-baked California rooftop, camera pressed flat against warm terracotta tiles, sky filling three-quarters of the frame in deep teal-to-amber gradient. A young woman in casual clothes sits cross-legged on the rooftop edge above us, silhouetted from below against the blazing late-afternoon sun, cradling a small glass vial in both hands raised toward the light \u2014 the vial catching the sun and refracting a cone of molten gold downward directly into the camera lens. Her posture is reverent, elbows on knees, head tilted back slightly, the posture of someone holding something impossible and ordinary at once. Around her feet visible from below: a worn notebook splayed open, a thermos of water catching the same amber light. The rooftop solar panels behind her create a receding grid of dark rectangles against the sky, their edges glinting copper. Long dramatic shadows rake across the tiles toward us. The entire scene drenched in deep golden hour amber with teal sky above, radiant light bleeding around the silhouetted figure as though the sun is being drawn down into that single small vial she holds."
     }
+  },
+  {
+    "date": "2026-05-16",
+    "generated_at": "2026-05-16T11:07:13.255188+00:00",
+    "doom": {
+      "percentage": 36.0,
+      "raw_percentage": 34.7,
+      "driver": "New outbreak of Ebola kills 80 in eastern DR Congo. Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
+      "category": "Biotech",
+      "blurb": "EBOLA CROSSES THE BORDER, BUNDIBUGYO EDITION",
+      "summary": "A rare strain of Ebola \u2014 Bundibugyo, not the more familiar Zaire \u2014 has killed up to 80 people in DRC's Ituri province and is now confirmed in Uganda, meaning it's already jumped an international border. The fact that the US CDC only heard about this yesterday, weeks into a 246-case outbreak, is the kind of institutional lag that makes epidemiologists drink. Meanwhile, Trump and Xi wrapped up a 'very successful' summit with few concrete deals, Putin is immediately flying in to keep Xi's schedule full, and Iran signals it's open to talks while Trump says he's 'losing patience' \u2014 so the geopolitical pressure cooker is simmering but not yet boiling over.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "OpenAI shuffles executives and eyes bank account access; Musk v. Altman jury deliberates \u2014 corporate drama, not capability explosion."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "DOJ 'Truth and Justice Commission' and possible Ra\u00fal Castro indictment signal US institutions being weaponized for political ends."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Trump-Xi summit yields choreography but no deals; Putin immediately flies to Beijing; Taiwan warnings issued within hours of Xi handshake."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "AI radio stations running unsupervised demonstrate incompetence more than malevolence \u2014 threat level: mild cringe."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Bundibugyo Ebola crossing from DRC into Uganda with 246 suspected cases and delayed CDC notification is a textbook early-outbreak warning sign."
+        }
+      ],
+      "mood": [
+        "containment",
+        "festering",
+        "diplomatic theater",
+        "viral unease"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned deep inside a dim Ugandan border-town clinic waiting room in Busia, looking outward through a wide rectangular doorway framing the red laterite dirt road outside, deep navy shadows dominating the interior, a single wooden bench along the near wall holds folded white isolation gowns and a sealed biohazard transport bag with numbered vials visible through clear plastic, a hand-painted triage chart hangs on the crumbling plaster wall to the left, the doorway rectangle burns with smoldering orange-gold equatorial afternoon haze, outside through the frame a lone figure in a pale blue Tyvek hazmat suit stands motionless on the dusty road facing away, a rusted oil-drum barrier painted in faded colors sits at the road's edge, dense green equatorial scrub presses in on both sides of the road, the sky beyond is a bruised amber-grey, humid heat rendered as shimmer distortion at the horizon, the clinic floor is cracked concrete stained with red mud tracked in from outside, a single bare fluorescent tube flickers overhead casting cold light against the threatening warm glow from the doorway, deep navy and smoldering orange palette throughout, heavy interior shadows, warmth outside feels infectious and threatening."
+    },
+    "dawn": {
+      "percentage": 64.0,
+      "driver": "First test of CO2 removal with green sand finds no harm to marine life. Adding olivine to the ocean could remove CO2 from the atmosphere, and a pilot project in New York state found no signs of adverse effects on seafloor organisms",
+      "category": "Environment",
+      "blurb": "GREEN SAND CLEANS THE SKY, SPARES THE SEA",
+      "summary": "In a world rattled by missile tests, Ebola outbreaks, and geopolitical standoffs, a quiet but significant environmental milestone emerged: a real-world pilot project testing olivine-based ocean CO2 removal found zero harmful effects on marine life. That's not a small thing \u2014 it means one of the most promising and scalable carbon removal strategies just passed its first serious ecological safety check. Science, done carefully and honestly, keeps handing us tools to fix what we've broken.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Ocean-based CO2 removal via green sand olivine showed no adverse effects on seafloor organisms in a real-world pilot, a critical safety milestone for atmospheric cleanup."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "The olivine pilot represents a convergence of geology, marine biology, and climate science working together toward a practical carbon drawdown solution."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "China and the US, despite broader tensions, are reportedly coordinating oil market responses to cushion Middle East supply shocks for the global economy."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Teens competing in the 'World Series of Birding' remind us that the next generation is paying close attention to the natural world and choosing to protect it."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "NASA's new AI space chip showing strong performance could eventually allow deep-space probes to make autonomous discoveries far beyond human communication delays."
+        }
+      ],
+      "mood": [
+        "promising",
+        "careful",
+        "hopeful",
+        "resilient",
+        "pioneering"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Atlantic coastal shallows seen from high above at golden hour, warm amber and deep teal light flooding the scene from the low western sun, long shadows stretching across the seafloor visible through translucent shallow water. The ocean bottom itself is the subject \u2014 a broad sandy expanse 160 metres offshore from a Long Island beach, where the sediment glitters with unmistakable apple-green and bottle-green mineral flecks scattered throughout pale beige sand, visible even from this height as a luminous greenish band radiating outward from the shoreline. The seafloor teems with tiny second-order life responding to the changed environment: dense pixel clusters of small marine worms, miniature crustaceans, and bottom-dwelling organisms going about their business undisturbed, the ecosystem visibly intact and busy. A lone research vessel sits anchored in the middle distance, impossibly small against the vast glittering shallows, a single figure barely visible at the stern. Waves near the shore carry green-flecked surf foam shoreward in thin luminous lines. The green mineral shimmer catches the golden-hour side-light like scattered sparks across the teal seafloor, radiant and quietly alive."
+    }
   }
 ]
