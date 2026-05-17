@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-16",
-  "generated_at": "2026-05-16T11:07:13.255188+00:00",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T11:14:24.787845+00:00",
   "doom": {
-    "percentage": 36.0,
+    "percentage": 35.9,
     "raw_percentage": 34.7,
-    "driver": "New outbreak of Ebola kills 80 in eastern DR Congo. Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
+    "driver": "WHO declares Ebola outbreak in DR Congo a global health emergency. The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
     "category": "Biotech",
-    "blurb": "EBOLA CROSSES THE BORDER, BUNDIBUGYO EDITION",
-    "summary": "A rare strain of Ebola \u2014 Bundibugyo, not the more familiar Zaire \u2014 has killed up to 80 people in DRC's Ituri province and is now confirmed in Uganda, meaning it's already jumped an international border. The fact that the US CDC only heard about this yesterday, weeks into a 246-case outbreak, is the kind of institutional lag that makes epidemiologists drink. Meanwhile, Trump and Xi wrapped up a 'very successful' summit with few concrete deals, Putin is immediately flying in to keep Xi's schedule full, and Iran signals it's open to talks while Trump says he's 'losing patience' \u2014 so the geopolitical pressure cooker is simmering but not yet boiling over.",
+    "blurb": "EBOLA GETS THE OFFICIAL SCARY STAMP",
+    "summary": "The WHO has upgraded the DRC Ebola outbreak to a global health emergency \u2014 the highest alarm bell short of 'pandemic emergency,' which is apparently a different, even scarier bell. With 246 cases, 80 deaths, and a strain that has no known vaccine, this is the outbreak that crossed the border from last week's local tragedy into international bureaucratic panic. Meanwhile hantavirus is making cruise ships interesting, and rivers are running out of oxygen \u2014 it's giving 'nature's revenge arc.'",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "OpenAI shuffles executives and eyes bank account access; Musk v. Altman jury deliberates \u2014 corporate drama, not capability explosion."
+        "detail": "DeepSeek-V4-Flash reignites interest in LLM steering vectors, but no alarming capability jumps today."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "DOJ 'Truth and Justice Commission' and possible Ra\u00fal Castro indictment signal US institutions being weaponized for political ends."
+        "detail": "Trump ousts another dissenting Republican senator, consolidating political loyalty at the cost of institutional checks."
       },
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Trump-Xi summit yields choreography but no deals; Putin immediately flies to Beijing; Taiwan warnings issued within hours of Xi handshake."
+        "signal": "medium",
+        "detail": "Taiwan pushes back on Trump's post-Beijing warnings, while Hormuz shipping concerns keep oil stockpile anxiety elevated."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "AI radio stations running unsupervised demonstrate incompetence more than malevolence \u2014 threat level: mild cringe."
+        "detail": "Musk vs. Altman trial enters final week \u2014 entertaining but no systemic AI risk signals."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Bundibugyo Ebola crossing from DRC into Uganda with 246 suspected cases and delayed CDC notification is a textbook early-outbreak warning sign."
+        "detail": "WHO formal PHEIC declaration on Bundibugyo Ebola strain with no vaccine, plus hantavirus on a cruise ship \u2014 two novel outbreak vectors active simultaneously."
       }
     ],
     "mood": [
-      "containment",
-      "festering",
-      "diplomatic theater",
-      "viral unease"
+      "infectious",
+      "escalating",
+      "bureaucratic dread",
+      "cautionary"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned deep inside a dim Ugandan border-town clinic waiting room in Busia, looking outward through a wide rectangular doorway framing the red laterite dirt road outside, deep navy shadows dominating the interior, a single wooden bench along the near wall holds folded white isolation gowns and a sealed biohazard transport bag with numbered vials visible through clear plastic, a hand-painted triage chart hangs on the crumbling plaster wall to the left, the doorway rectangle burns with smoldering orange-gold equatorial afternoon haze, outside through the frame a lone figure in a pale blue Tyvek hazmat suit stands motionless on the dusty road facing away, a rusted oil-drum barrier painted in faded colors sits at the road's edge, dense green equatorial scrub presses in on both sides of the road, the sky beyond is a bruised amber-grey, humid heat rendered as shimmer distortion at the horizon, the clinic floor is cracked concrete stained with red mud tracked in from outside, a single bare fluorescent tube flickers overhead casting cold light against the threatening warm glow from the doorway, deep navy and smoldering orange palette throughout, heavy interior shadows, warmth outside feels infectious and threatening.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-16.png"
+    "card_image": "doom-card-2026-05-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated exterior scene, heavy equatorial downpour filtering everything through diagonal sheets of rain, camera positioned at mid-height looking across a red laterite dirt road in Bunia, Ituri Province, northeastern DR Congo, deep navy sky bruised with storm clouds pressing low over corrugated iron clinic rooftops and banana palms bending under the weight of rain \u2014 in the foreground a white WHO-marked Toyota Land Cruiser sits half-submerged in a rust-red puddle, its blue roundel logo barely visible through the rain-streaked windshield, headlights on and cutting orange cones through the downpour \u2014 two figures in full white Tyvek PPE suits with yellow rubber boots and full-face respirator masks move through the mud toward an inflatable orange isolation tent, its biohazard tape strung between wooden stakes sagging under pooled rainwater \u2014 a portable chlorine spray canister sits abandoned on a wooden bench under a clinic awning, rain splashing off its metal cylinder \u2014 deep shadows dominate every overhang and doorway, the equatorial green of palm fronds turned to dark teal under the storm light \u2014 smoldering orange bleeds only from the clinic tent seams and headlights, all other warmth extinguished by rain and navy shadow, atmosphere oppressive and catastrophic.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-17.png"
   },
   "dawn": {
-    "percentage": 64.0,
-    "driver": "First test of CO2 removal with green sand finds no harm to marine life. Adding olivine to the ocean could remove CO2 from the atmosphere, and a pilot project in New York state found no signs of adverse effects on seafloor organisms",
-    "category": "Environment",
-    "blurb": "GREEN SAND CLEANS THE SKY, SPARES THE SEA",
-    "summary": "In a world rattled by missile tests, Ebola outbreaks, and geopolitical standoffs, a quiet but significant environmental milestone emerged: a real-world pilot project testing olivine-based ocean CO2 removal found zero harmful effects on marine life. That's not a small thing \u2014 it means one of the most promising and scalable carbon removal strategies just passed its first serious ecological safety check. Science, done carefully and honestly, keeps handing us tools to fix what we've broken.",
+    "percentage": 64.1,
+    "driver": "North Korean footballers arrive in Seoul for first time in eight years. Naegohyang FC due to play Suwon FC in semi-final of Asian Women's Champions League on Wednesday",
+    "category": "Peace",
+    "blurb": "RIVALS MEET ON THE PITCH, NOT THE BATTLEFIELD",
+    "summary": "In a world where geopolitical walls feel higher every day, North Korean women's footballers crossing into South Korea for the first time in eight years is quietly extraordinary. Sport did what diplomacy rarely manages: it moved people across one of the world's most fortified borders under a banner of fair play. Against a backdrop of Ebola emergencies, Hormuz tensions, and missile tests, this small act of athletic cooperation is a reminder that human beings consistently find ways to reach each other.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Peace",
         "signal": "blazing",
-        "detail": "Ocean-based CO2 removal via green sand olivine showed no adverse effects on seafloor organisms in a real-world pilot, a critical safety milestone for atmospheric cleanup."
-      },
-      {
-        "name": "Environment",
-        "signal": "bright",
-        "detail": "The olivine pilot represents a convergence of geology, marine biology, and climate science working together toward a practical carbon drawdown solution."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "China and the US, despite broader tensions, are reportedly coordinating oil market responses to cushion Middle East supply shocks for the global economy."
+        "detail": "North and South Korea sharing a stadium for a women's football semi-final is the kind of quiet diplomacy that history books later call a turning point."
       },
       {
         "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "The players themselves \u2014 young women who trained hard and simply want to compete \u2014 are doing what politicians could not, crossing a border through sheer athletic merit."
+      },
+      {
+        "name": "Science",
+        "signal": "bright",
+        "detail": "Scientists reversed memory loss by recharging malfunctioning mitochondria, a potential breakthrough for neurodegenerative diseases that affect millions worldwide."
+      },
+      {
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "Teens competing in the 'World Series of Birding' remind us that the next generation is paying close attention to the natural world and choosing to protect it."
+        "detail": "A first-ever direct image of the cosmic web reveals the universe's hidden structure, expanding our sense of context and shared cosmic home."
       },
       {
         "name": "Wild Card",
         "signal": "quiet",
-        "detail": "NASA's new AI space chip showing strong performance could eventually allow deep-space probes to make autonomous discoveries far beyond human communication delays."
+        "detail": "Bulgaria's first-ever Eurovision win, powered by an unknown performer and a crowd-storming anthem, is a small, joyful proof that underdogs still triumph."
       }
     ],
     "mood": [
-      "promising",
-      "careful",
-      "hopeful",
-      "resilient",
-      "pioneering"
+      "breakthrough",
+      "connection",
+      "resilience",
+      "unity",
+      "hope"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Atlantic coastal shallows seen from high above at golden hour, warm amber and deep teal light flooding the scene from the low western sun, long shadows stretching across the seafloor visible through translucent shallow water. The ocean bottom itself is the subject \u2014 a broad sandy expanse 160 metres offshore from a Long Island beach, where the sediment glitters with unmistakable apple-green and bottle-green mineral flecks scattered throughout pale beige sand, visible even from this height as a luminous greenish band radiating outward from the shoreline. The seafloor teems with tiny second-order life responding to the changed environment: dense pixel clusters of small marine worms, miniature crustaceans, and bottom-dwelling organisms going about their business undisturbed, the ecosystem visibly intact and busy. A lone research vessel sits anchored in the middle distance, impossibly small against the vast glittering shallows, a single figure barely visible at the stern. Waves near the shore carry green-flecked surf foam shoreward in thin luminous lines. The green mineral shimmer catches the golden-hour side-light like scattered sparks across the teal seafloor, radiant and quietly alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-16.png"
+    "card_image": "dawn-card-2026-05-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single football pressed against a chain-link fence, the ball's black-and-white hexagonal panels catching deep golden amber sidelight from the right, long shadows striping across the leather surface, the fence links rendered in warm teal pixel lines casting a crosshatch shadow lattice across the ball's face, one hexagonal panel sitting precisely over a gap in the fence where the mesh has been pushed open wide enough for the ball to pass through, the gap edges bent back and glowing with warm backlit gold as if light itself is flooding through the breach, the ground below implied by a thin strip of vivid green pixel grass at the frame's lower edge, the fence receding into soft teal shadow at the frame's periphery, the football half-through the gap, mid-crossing, suspended in the act of passage, radiant amber and deep teal, side-lit, long shadows, no flags, no figures, just the universal object moving through the opened threshold.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-17.png"
   }
 }

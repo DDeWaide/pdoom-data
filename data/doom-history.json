@@ -9326,5 +9326,99 @@
       "card_image": "dawn-card-2026-05-16.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Atlantic coastal shallows seen from high above at golden hour, warm amber and deep teal light flooding the scene from the low western sun, long shadows stretching across the seafloor visible through translucent shallow water. The ocean bottom itself is the subject \u2014 a broad sandy expanse 160 metres offshore from a Long Island beach, where the sediment glitters with unmistakable apple-green and bottle-green mineral flecks scattered throughout pale beige sand, visible even from this height as a luminous greenish band radiating outward from the shoreline. The seafloor teems with tiny second-order life responding to the changed environment: dense pixel clusters of small marine worms, miniature crustaceans, and bottom-dwelling organisms going about their business undisturbed, the ecosystem visibly intact and busy. A lone research vessel sits anchored in the middle distance, impossibly small against the vast glittering shallows, a single figure barely visible at the stern. Waves near the shore carry green-flecked surf foam shoreward in thin luminous lines. The green mineral shimmer catches the golden-hour side-light like scattered sparks across the teal seafloor, radiant and quietly alive."
     }
+  },
+  {
+    "date": "2026-05-17",
+    "generated_at": "2026-05-17T11:14:24.787845+00:00",
+    "doom": {
+      "percentage": 35.9,
+      "raw_percentage": 34.7,
+      "driver": "WHO declares Ebola outbreak in DR Congo a global health emergency. The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "category": "Biotech",
+      "blurb": "EBOLA GETS THE OFFICIAL SCARY STAMP",
+      "summary": "The WHO has upgraded the DRC Ebola outbreak to a global health emergency \u2014 the highest alarm bell short of 'pandemic emergency,' which is apparently a different, even scarier bell. With 246 cases, 80 deaths, and a strain that has no known vaccine, this is the outbreak that crossed the border from last week's local tragedy into international bureaucratic panic. Meanwhile hantavirus is making cruise ships interesting, and rivers are running out of oxygen \u2014 it's giving 'nature's revenge arc.'",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "DeepSeek-V4-Flash reignites interest in LLM steering vectors, but no alarming capability jumps today."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump ousts another dissenting Republican senator, consolidating political loyalty at the cost of institutional checks."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "Taiwan pushes back on Trump's post-Beijing warnings, while Hormuz shipping concerns keep oil stockpile anxiety elevated."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Musk vs. Altman trial enters final week \u2014 entertaining but no systemic AI risk signals."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "WHO formal PHEIC declaration on Bundibugyo Ebola strain with no vaccine, plus hantavirus on a cruise ship \u2014 two novel outbreak vectors active simultaneously."
+        }
+      ],
+      "mood": [
+        "infectious",
+        "escalating",
+        "bureaucratic dread",
+        "cautionary"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated exterior scene, heavy equatorial downpour filtering everything through diagonal sheets of rain, camera positioned at mid-height looking across a red laterite dirt road in Bunia, Ituri Province, northeastern DR Congo, deep navy sky bruised with storm clouds pressing low over corrugated iron clinic rooftops and banana palms bending under the weight of rain \u2014 in the foreground a white WHO-marked Toyota Land Cruiser sits half-submerged in a rust-red puddle, its blue roundel logo barely visible through the rain-streaked windshield, headlights on and cutting orange cones through the downpour \u2014 two figures in full white Tyvek PPE suits with yellow rubber boots and full-face respirator masks move through the mud toward an inflatable orange isolation tent, its biohazard tape strung between wooden stakes sagging under pooled rainwater \u2014 a portable chlorine spray canister sits abandoned on a wooden bench under a clinic awning, rain splashing off its metal cylinder \u2014 deep shadows dominate every overhang and doorway, the equatorial green of palm fronds turned to dark teal under the storm light \u2014 smoldering orange bleeds only from the clinic tent seams and headlights, all other warmth extinguished by rain and navy shadow, atmosphere oppressive and catastrophic."
+    },
+    "dawn": {
+      "percentage": 64.1,
+      "driver": "North Korean footballers arrive in Seoul for first time in eight years. Naegohyang FC due to play Suwon FC in semi-final of Asian Women's Champions League on Wednesday",
+      "category": "Peace",
+      "blurb": "RIVALS MEET ON THE PITCH, NOT THE BATTLEFIELD",
+      "summary": "In a world where geopolitical walls feel higher every day, North Korean women's footballers crossing into South Korea for the first time in eight years is quietly extraordinary. Sport did what diplomacy rarely manages: it moved people across one of the world's most fortified borders under a banner of fair play. Against a backdrop of Ebola emergencies, Hormuz tensions, and missile tests, this small act of athletic cooperation is a reminder that human beings consistently find ways to reach each other.",
+      "factors": [
+        {
+          "name": "Peace",
+          "signal": "blazing",
+          "detail": "North and South Korea sharing a stadium for a women's football semi-final is the kind of quiet diplomacy that history books later call a turning point."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The players themselves \u2014 young women who trained hard and simply want to compete \u2014 are doing what politicians could not, crossing a border through sheer athletic merit."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists reversed memory loss by recharging malfunctioning mitochondria, a potential breakthrough for neurodegenerative diseases that affect millions worldwide."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A first-ever direct image of the cosmic web reveals the universe's hidden structure, expanding our sense of context and shared cosmic home."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "Bulgaria's first-ever Eurovision win, powered by an unknown performer and a crowd-storming anthem, is a small, joyful proof that underdogs still triumph."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "connection",
+        "resilience",
+        "unity",
+        "hope"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single football pressed against a chain-link fence, the ball's black-and-white hexagonal panels catching deep golden amber sidelight from the right, long shadows striping across the leather surface, the fence links rendered in warm teal pixel lines casting a crosshatch shadow lattice across the ball's face, one hexagonal panel sitting precisely over a gap in the fence where the mesh has been pushed open wide enough for the ball to pass through, the gap edges bent back and glowing with warm backlit gold as if light itself is flooding through the breach, the ground below implied by a thin strip of vivid green pixel grass at the frame's lower edge, the fence receding into soft teal shadow at the frame's periphery, the football half-through the gap, mid-crossing, suspended in the act of passage, radiant amber and deep teal, side-lit, long shadows, no flags, no figures, just the universal object moving through the opened threshold."
+    }
   }
 ]
