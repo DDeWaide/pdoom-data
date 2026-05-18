@@ -9420,5 +9420,99 @@
       "card_image": "dawn-card-2026-05-17.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single football pressed against a chain-link fence, the ball's black-and-white hexagonal panels catching deep golden amber sidelight from the right, long shadows striping across the leather surface, the fence links rendered in warm teal pixel lines casting a crosshatch shadow lattice across the ball's face, one hexagonal panel sitting precisely over a gap in the fence where the mesh has been pushed open wide enough for the ball to pass through, the gap edges bent back and glowing with warm backlit gold as if light itself is flooding through the breach, the ground below implied by a thin strip of vivid green pixel grass at the frame's lower edge, the fence receding into soft teal shadow at the frame's periphery, the football half-through the gap, mid-crossing, suspended in the act of passage, radiant amber and deep teal, side-lit, long shadows, no flags, no figures, just the universal object moving through the opened threshold."
     }
+  },
+  {
+    "date": "2026-05-18",
+    "generated_at": "2026-05-18T12:54:02.298988+00:00",
+    "doom": {
+      "percentage": 39.9,
+      "raw_percentage": 41.7,
+      "driver": "UAE reports strike near Abu Dhabi nuclear power plant. The country is investigating the source of the strike, which it calls a 'dangerous escalation'.",
+      "category": "Nuclear",
+      "blurb": "SOMEONE SHOT AT A NUCLEAR PLANT. CASUALLY.",
+      "summary": "A drone strike near Abu Dhabi's sole nuclear power plant \u2014 while Trump warns Iran the 'clock is ticking' and the U.S. and Israel prep for renewed full-scale war \u2014 is the kind of news that makes energy markets and actuaries weep simultaneously. Meanwhile, Putin is flying to Beijing to meet Xi four days after Xi met Trump, which is either diplomacy or the world's most ominous game of telephone. Throw in Americans exposed to Ebola and Ukraine's largest drone salvo of the war, and today's board is alarmingly full.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "UAE nuclear plant struck by drone as US-Israel war preparations against Iran intensify, Trump convenes Situation Room meeting, and oil markets spike on escalation fears."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Strike near Abu Dhabi nuclear facility called a 'dangerous escalation' while Iran insists enrichment rights are non-negotiable and a deal remains out of reach."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Xi-Putin summit following Xi-Trump meeting signals competing great-power alignment signals being sent simultaneously, complicating any coherent western response."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Google I/O previews and Meta layoffs reflect ongoing AI restructuring, but no capability leap headlines today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "At least six Americans exposed to Ebola during DR Congo outbreak with one symptomatic, adding a slow-burn biocontainment concern to an already crowded threat board."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "volatile",
+        "combustible",
+        "fraught"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, strong backlight from a deep smoldering orange and amber glow emanating from the western horizon where the sun has collapsed below the Saudi desert edge, camera positioned low and ground-level on the flat gravel pan outside a residential compound in Ruwais, Abu Dhabi emirate, looking westward \u2014 a single figure, a woman in an abaya, stands motionless on a concrete doorstep, her entire form rendered as a pure black silhouette against the burning orange sky, her face turned upward and slightly to the west, one hand pressed flat against the door frame, the other hanging rigid at her side \u2014 behind her through the open doorway a faint blue television glow spills onto the threshold tile, the only cool color in the frame \u2014 the sky above grades from deep bruised navy at the top to smoldering copper and rust at the horizon, threaded with thin horizontal bands of smoke-haze that diffuse the last light into something sickly and unnatural \u2014 in the far distance the rounded pale dome silhouettes of the Barakah reactor containment structures are just barely legible against the glow, small and squat on the flat coastline, dark against dark \u2014 the foreground gravel is cast in heavy shadow, heat shimmer rendered as wavering pixel distortion near the ground \u2014 deep navy and smoldering orange dominate every pixel, warmth feels threatening, silence feels like a held breath."
+    },
+    "dawn": {
+      "percentage": 60.1,
+      "driver": "A revolutionary cancer treatment could transform autoimmune disease. Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "category": "Medicine",
+      "blurb": "ONE CANCER CURE MAY HEAL MILLIONS MORE",
+      "summary": "CAR T cell therapy \u2014 already a breakthrough in blood cancer treatment \u2014 is now showing promise as a way to fundamentally reset the immune system in autoimmune disease patients. This means a single platform could potentially address conditions like lupus, multiple sclerosis, and rheumatoid arthritis that affect hundreds of millions worldwide. On a day heavy with conflict and contagion, this is the kind of quiet, compounding medical progress that rewrites the horizon.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "CAR T cell immunotherapy repurposing represents a paradigm shift \u2014 one treatment modality potentially treating dozens of distinct diseases simultaneously."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Mikala Sposito is set to become the first woman to represent the United States in a global welding competition, a quiet milestone in breaking trade barriers."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Montana's Confederated Salish and Kootenai Tribes are merging traditional ecological knowledge with Western climate science, modeling a rare and meaningful collaboration."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "A plant believed extinct for 60 years was rediscovered in the Australian outback via a smartphone photo, showing that biodiversity loss is not always irreversible."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists have developed a cheaper, durable platinum-free catalyst for clean hydrogen fuel production, potentially unlocking affordable renewable energy at scale."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "breakthrough",
+        "renewal",
+        "discovery",
+        "hope"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A worn kitchen table in near-darkness, the surrounding room swallowed in deep amber shadow, a single smartphone lying face-up at the center of the frame casting cool blue-white glow upward onto the underside of a coffee mug and scattered prescription pill bottles, the phone screen displaying a glowing news article with a vivid illustration of a luminous golden cell with a small key-shaped receptor on its surface, warm teal light bleeding from the screen edges across the dark tabletop grain, a half-empty glass of water catching the glow like a tiny lantern, a sticky note pressed to the table edge fluttering slightly, deep shadows pooling in every corner of the kitchen, the window behind the table showing only a dark Nebraska night sky with a single distant streetlight, color palette of deep amber and warm teal with electric blue from the screen, mood of quiet midnight revelation, a solitary person reading in the dark and feeling something shift."
+    }
   }
 ]

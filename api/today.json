@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-17",
-  "generated_at": "2026-05-17T11:14:24.787845+00:00",
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T12:54:02.298988+00:00",
   "doom": {
-    "percentage": 35.9,
-    "raw_percentage": 34.7,
-    "driver": "WHO declares Ebola outbreak in DR Congo a global health emergency. The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-    "category": "Biotech",
-    "blurb": "EBOLA GETS THE OFFICIAL SCARY STAMP",
-    "summary": "The WHO has upgraded the DRC Ebola outbreak to a global health emergency \u2014 the highest alarm bell short of 'pandemic emergency,' which is apparently a different, even scarier bell. With 246 cases, 80 deaths, and a strain that has no known vaccine, this is the outbreak that crossed the border from last week's local tragedy into international bureaucratic panic. Meanwhile hantavirus is making cruise ships interesting, and rivers are running out of oxygen \u2014 it's giving 'nature's revenge arc.'",
+    "percentage": 39.9,
+    "raw_percentage": 41.7,
+    "driver": "UAE reports strike near Abu Dhabi nuclear power plant. The country is investigating the source of the strike, which it calls a 'dangerous escalation'.",
+    "category": "Nuclear",
+    "blurb": "SOMEONE SHOT AT A NUCLEAR PLANT. CASUALLY.",
+    "summary": "A drone strike near Abu Dhabi's sole nuclear power plant \u2014 while Trump warns Iran the 'clock is ticking' and the U.S. and Israel prep for renewed full-scale war \u2014 is the kind of news that makes energy markets and actuaries weep simultaneously. Meanwhile, Putin is flying to Beijing to meet Xi four days after Xi met Trump, which is either diplomacy or the world's most ominous game of telephone. Throw in Americans exposed to Ebola and Ukraine's largest drone salvo of the war, and today's board is alarmingly full.",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "DeepSeek-V4-Flash reignites interest in LLM steering vectors, but no alarming capability jumps today."
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "UAE nuclear plant struck by drone as US-Israel war preparations against Iran intensify, Trump convenes Situation Room meeting, and oil markets spike on escalation fears."
+      },
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "Strike near Abu Dhabi nuclear facility called a 'dangerous escalation' while Iran insists enrichment rights are non-negotiable and a deal remains out of reach."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Trump ousts another dissenting Republican senator, consolidating political loyalty at the cost of institutional checks."
+        "detail": "Xi-Putin summit following Xi-Trump meeting signals competing great-power alignment signals being sent simultaneously, complicating any coherent western response."
       },
       {
-        "name": "Geopolitics",
-        "signal": "medium",
-        "detail": "Taiwan pushes back on Trump's post-Beijing warnings, while Hormuz shipping concerns keep oil stockpile anxiety elevated."
-      },
-      {
-        "name": "Alignment",
+        "name": "AI Capability",
         "signal": "low",
-        "detail": "Musk vs. Altman trial enters final week \u2014 entertaining but no systemic AI risk signals."
+        "detail": "Google I/O previews and Meta layoffs reflect ongoing AI restructuring, but no capability leap headlines today."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "WHO formal PHEIC declaration on Bundibugyo Ebola strain with no vaccine, plus hantavirus on a cruise ship \u2014 two novel outbreak vectors active simultaneously."
+        "detail": "At least six Americans exposed to Ebola during DR Congo outbreak with one symptomatic, adding a slow-burn biocontainment concern to an already crowded threat board."
       }
     ],
     "mood": [
-      "infectious",
-      "escalating",
-      "bureaucratic dread",
-      "cautionary"
+      "escalatory",
+      "volatile",
+      "combustible",
+      "fraught"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated exterior scene, heavy equatorial downpour filtering everything through diagonal sheets of rain, camera positioned at mid-height looking across a red laterite dirt road in Bunia, Ituri Province, northeastern DR Congo, deep navy sky bruised with storm clouds pressing low over corrugated iron clinic rooftops and banana palms bending under the weight of rain \u2014 in the foreground a white WHO-marked Toyota Land Cruiser sits half-submerged in a rust-red puddle, its blue roundel logo barely visible through the rain-streaked windshield, headlights on and cutting orange cones through the downpour \u2014 two figures in full white Tyvek PPE suits with yellow rubber boots and full-face respirator masks move through the mud toward an inflatable orange isolation tent, its biohazard tape strung between wooden stakes sagging under pooled rainwater \u2014 a portable chlorine spray canister sits abandoned on a wooden bench under a clinic awning, rain splashing off its metal cylinder \u2014 deep shadows dominate every overhang and doorway, the equatorial green of palm fronds turned to dark teal under the storm light \u2014 smoldering orange bleeds only from the clinic tent seams and headlights, all other warmth extinguished by rain and navy shadow, atmosphere oppressive and catastrophic.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-17.png"
+    "card_image": "doom-card-2026-05-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, strong backlight from a deep smoldering orange and amber glow emanating from the western horizon where the sun has collapsed below the Saudi desert edge, camera positioned low and ground-level on the flat gravel pan outside a residential compound in Ruwais, Abu Dhabi emirate, looking westward \u2014 a single figure, a woman in an abaya, stands motionless on a concrete doorstep, her entire form rendered as a pure black silhouette against the burning orange sky, her face turned upward and slightly to the west, one hand pressed flat against the door frame, the other hanging rigid at her side \u2014 behind her through the open doorway a faint blue television glow spills onto the threshold tile, the only cool color in the frame \u2014 the sky above grades from deep bruised navy at the top to smoldering copper and rust at the horizon, threaded with thin horizontal bands of smoke-haze that diffuse the last light into something sickly and unnatural \u2014 in the far distance the rounded pale dome silhouettes of the Barakah reactor containment structures are just barely legible against the glow, small and squat on the flat coastline, dark against dark \u2014 the foreground gravel is cast in heavy shadow, heat shimmer rendered as wavering pixel distortion near the ground \u2014 deep navy and smoldering orange dominate every pixel, warmth feels threatening, silence feels like a held breath.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-18.png"
   },
   "dawn": {
-    "percentage": 64.1,
-    "driver": "North Korean footballers arrive in Seoul for first time in eight years. Naegohyang FC due to play Suwon FC in semi-final of Asian Women's Champions League on Wednesday",
-    "category": "Peace",
-    "blurb": "RIVALS MEET ON THE PITCH, NOT THE BATTLEFIELD",
-    "summary": "In a world where geopolitical walls feel higher every day, North Korean women's footballers crossing into South Korea for the first time in eight years is quietly extraordinary. Sport did what diplomacy rarely manages: it moved people across one of the world's most fortified borders under a banner of fair play. Against a backdrop of Ebola emergencies, Hormuz tensions, and missile tests, this small act of athletic cooperation is a reminder that human beings consistently find ways to reach each other.",
+    "percentage": 60.1,
+    "driver": "A revolutionary cancer treatment could transform autoimmune disease. Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+    "category": "Medicine",
+    "blurb": "ONE CANCER CURE MAY HEAL MILLIONS MORE",
+    "summary": "CAR T cell therapy \u2014 already a breakthrough in blood cancer treatment \u2014 is now showing promise as a way to fundamentally reset the immune system in autoimmune disease patients. This means a single platform could potentially address conditions like lupus, multiple sclerosis, and rheumatoid arthritis that affect hundreds of millions worldwide. On a day heavy with conflict and contagion, this is the kind of quiet, compounding medical progress that rewrites the horizon.",
     "factors": [
       {
-        "name": "Peace",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "North and South Korea sharing a stadium for a women's football semi-final is the kind of quiet diplomacy that history books later call a turning point."
+        "detail": "CAR T cell immunotherapy repurposing represents a paradigm shift \u2014 one treatment modality potentially treating dozens of distinct diseases simultaneously."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "The players themselves \u2014 young women who trained hard and simply want to compete \u2014 are doing what politicians could not, crossing a border through sheer athletic merit."
+        "detail": "Mikala Sposito is set to become the first woman to represent the United States in a global welding competition, a quiet milestone in breaking trade barriers."
       },
       {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "Scientists reversed memory loss by recharging malfunctioning mitochondria, a potential breakthrough for neurodegenerative diseases that affect millions worldwide."
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Montana's Confederated Salish and Kootenai Tribes are merging traditional ecological knowledge with Western climate science, modeling a rare and meaningful collaboration."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "A first-ever direct image of the cosmic web reveals the universe's hidden structure, expanding our sense of context and shared cosmic home."
+        "signal": "bright",
+        "detail": "A plant believed extinct for 60 years was rediscovered in the Australian outback via a smartphone photo, showing that biodiversity loss is not always irreversible."
       },
       {
         "name": "Wild Card",
-        "signal": "quiet",
-        "detail": "Bulgaria's first-ever Eurovision win, powered by an unknown performer and a crowd-storming anthem, is a small, joyful proof that underdogs still triumph."
+        "signal": "bright",
+        "detail": "Scientists have developed a cheaper, durable platinum-free catalyst for clean hydrogen fuel production, potentially unlocking affordable renewable energy at scale."
       }
     ],
     "mood": [
-      "breakthrough",
-      "connection",
       "resilience",
-      "unity",
+      "breakthrough",
+      "renewal",
+      "discovery",
       "hope"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single football pressed against a chain-link fence, the ball's black-and-white hexagonal panels catching deep golden amber sidelight from the right, long shadows striping across the leather surface, the fence links rendered in warm teal pixel lines casting a crosshatch shadow lattice across the ball's face, one hexagonal panel sitting precisely over a gap in the fence where the mesh has been pushed open wide enough for the ball to pass through, the gap edges bent back and glowing with warm backlit gold as if light itself is flooding through the breach, the ground below implied by a thin strip of vivid green pixel grass at the frame's lower edge, the fence receding into soft teal shadow at the frame's periphery, the football half-through the gap, mid-crossing, suspended in the act of passage, radiant amber and deep teal, side-lit, long shadows, no flags, no figures, just the universal object moving through the opened threshold.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-17.png"
+    "card_image": "dawn-card-2026-05-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A worn kitchen table in near-darkness, the surrounding room swallowed in deep amber shadow, a single smartphone lying face-up at the center of the frame casting cool blue-white glow upward onto the underside of a coffee mug and scattered prescription pill bottles, the phone screen displaying a glowing news article with a vivid illustration of a luminous golden cell with a small key-shaped receptor on its surface, warm teal light bleeding from the screen edges across the dark tabletop grain, a half-empty glass of water catching the glow like a tiny lantern, a sticky note pressed to the table edge fluttering slightly, deep shadows pooling in every corner of the kitchen, the window behind the table showing only a dark Nebraska night sky with a single distant streetlight, color palette of deep amber and warm teal with electric blue from the screen, mood of quiet midnight revelation, a solitary person reading in the dark and feeling something shift.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-18.png"
   }
 }
