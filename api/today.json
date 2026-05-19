@@ -1,96 +1,97 @@
 {
-  "date": "2026-05-18",
-  "generated_at": "2026-05-18T12:54:02.298988+00:00",
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T12:46:39.962023+00:00",
   "doom": {
-    "percentage": 39.9,
-    "raw_percentage": 41.7,
-    "driver": "UAE reports strike near Abu Dhabi nuclear power plant. The country is investigating the source of the strike, which it calls a 'dangerous escalation'.",
-    "category": "Nuclear",
-    "blurb": "SOMEONE SHOT AT A NUCLEAR PLANT. CASUALLY.",
-    "summary": "A drone strike near Abu Dhabi's sole nuclear power plant \u2014 while Trump warns Iran the 'clock is ticking' and the U.S. and Israel prep for renewed full-scale war \u2014 is the kind of news that makes energy markets and actuaries weep simultaneously. Meanwhile, Putin is flying to Beijing to meet Xi four days after Xi met Trump, which is either diplomacy or the world's most ominous game of telephone. Throw in Americans exposed to Ebola and Ukraine's largest drone salvo of the war, and today's board is alarmingly full.",
+    "percentage": 40.7,
+    "raw_percentage": 42.7,
+    "driver": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request. The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
+    "category": "Geopolitics",
+    "blurb": "IRAN STRIKE POSTPONED, NOT CANCELLED",
+    "summary": "The phrase 'scheduled attack' doing a lot of heavy lifting in today's news cycle \u2014 turns out the US had a Tuesday Iran strike on the calendar like a dentist appointment, and Gulf state leaders politely asked to reschedule. Meanwhile Xi is hosting Putin four days after hosting Trump, which is either masterful diplomacy or the world's most dangerous hot potato tournament. Ebola continues its grim upward trajectory at 131 dead, Treasury yields are testing 1999 highs, and Japan is quietly dumping US bonds \u2014 it's a full-spectrum bad day dressed in negotiation language.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "UAE nuclear plant struck by drone as US-Israel war preparations against Iran intensify, Trump convenes Situation Room meeting, and oil markets spike on escalation fears."
-      },
-      {
-        "name": "Nuclear",
-        "signal": "elevated",
-        "detail": "Strike near Abu Dhabi nuclear facility called a 'dangerous escalation' while Iran insists enrichment rights are non-negotiable and a deal remains out of reach."
+        "detail": "A US strike on Iran was literally scheduled for Tuesday and only postponed at Gulf state request, while Xi hosts Putin days after Trump in a breathtaking display of great-power triangulation."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Xi-Putin summit following Xi-Trump meeting signals competing great-power alignment signals being sent simultaneously, complicating any coherent western response."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "Google I/O previews and Meta layoffs reflect ongoing AI restructuring, but no capability leap headlines today."
+        "signal": "elevated",
+        "detail": "Trump treating an Iran military strike as a negotiating chip \u2014 postponable on request \u2014 signals a level of crisis improvisation that keeps allies and enemies equally off-balance."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "At least six Americans exposed to Ebola during DR Congo outbreak with one symptomatic, adding a slow-burn biocontainment concern to an already crowded threat board."
+        "detail": "Iran has started Bitcoin-backed ship insurance for Hormuz strait transits, which is either creative sanctions evasion or the most cyberpunk geopolitical development of 2026."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Anduril and Meta's smart glasses prototype enabling drone strikes via eye-tracking represents a meaningful leap in AI-enabled lethal autonomy, quietly buried under the Musk-Altman verdict headlines."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Musk losing his OpenAI suit resolves one governance distraction, but the underlying question of who should control frontier AI remains as unsettled as ever."
       }
     ],
     "mood": [
-      "escalatory",
       "volatile",
+      "teetering",
+      "overcrowded",
       "combustible",
-      "fraught"
+      "improvised"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, strong backlight from a deep smoldering orange and amber glow emanating from the western horizon where the sun has collapsed below the Saudi desert edge, camera positioned low and ground-level on the flat gravel pan outside a residential compound in Ruwais, Abu Dhabi emirate, looking westward \u2014 a single figure, a woman in an abaya, stands motionless on a concrete doorstep, her entire form rendered as a pure black silhouette against the burning orange sky, her face turned upward and slightly to the west, one hand pressed flat against the door frame, the other hanging rigid at her side \u2014 behind her through the open doorway a faint blue television glow spills onto the threshold tile, the only cool color in the frame \u2014 the sky above grades from deep bruised navy at the top to smoldering copper and rust at the horizon, threaded with thin horizontal bands of smoke-haze that diffuse the last light into something sickly and unnatural \u2014 in the far distance the rounded pale dome silhouettes of the Barakah reactor containment structures are just barely legible against the glow, small and squat on the flat coastline, dark against dark \u2014 the foreground gravel is cast in heavy shadow, heat shimmer rendered as wavering pixel distortion near the ground \u2014 deep navy and smoldering orange dominate every pixel, warmth feels threatening, silence feels like a held breath.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-18.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-05-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt, camera pressed nearly flat to the pavement of a gas station forecourt somewhere in coastal Oman or the UAE, looking steeply skyward past the underside of an empty canopy overhang, its fluorescent tube lights dead and dark, the price sign above blank and unlit, every pump nozzle hanging limp and idle in its cradle, a long queue of cars stretching back into the deep background, headlights burning amber in the dusk, exhaust fumes rising in crimson-tinged columns against a bruised purple and charcoal sky, the underside of the forecourt canopy dominating the upper frame in deep shadow with rusted seams and flickering electrical conduit, a single emergency generator light casting a harsh cone of red-orange on the nearest pump casting long pixel-stepped shadows across the tarmac, crumpled receipts and a crushed plastic bottle skittering in a dry wind beneath the canopy's edge, the horizon behind the car queue glowing a deep smoldering amber as if the entire Gulf is backlit by something not quite sunset, color palette locked to dark crimson, charcoal grey, and burnt amber throughout, oppressive high-contrast lighting with no softness, firelight quality to every surface.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-19.png"
   },
   "dawn": {
-    "percentage": 60.1,
-    "driver": "A revolutionary cancer treatment could transform autoimmune disease. Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+    "percentage": 59.3,
+    "driver": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%. A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes.",
     "category": "Medicine",
-    "blurb": "ONE CANCER CURE MAY HEAL MILLIONS MORE",
-    "summary": "CAR T cell therapy \u2014 already a breakthrough in blood cancer treatment \u2014 is now showing promise as a way to fundamentally reset the immune system in autoimmune disease patients. This means a single platform could potentially address conditions like lupus, multiple sclerosis, and rheumatoid arthritis that affect hundreds of millions worldwide. On a day heavy with conflict and contagion, this is the kind of quiet, compounding medical progress that rewrites the horizon.",
+    "blurb": "ONE DIET CHOICE CUTS DIABETES RISK BY A THIRD",
+    "summary": "In a world where headlines tilt dark \u2014 Ebola emergencies, military standoffs, mosque shootings \u2014 a large European study quietly delivered a landmark result: pair a Mediterranean diet with modest exercise and coaching, and type 2 diabetes risk drops by 31%. That's not a supplement company's claim; that's a rigorous population-level finding that could reshape how hundreds of millions of people eat and live. When the tools to prevent one of the planet's most burdensome chronic diseases turn out to be olive oil, vegetables, and a walk \u2014 that's genuinely good news worth sitting with.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "CAR T cell immunotherapy repurposing represents a paradigm shift \u2014 one treatment modality potentially treating dozens of distinct diseases simultaneously."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Mikala Sposito is set to become the first woman to represent the United States in a global welding competition, a quiet milestone in breaking trade barriers."
+        "detail": "A 31% reduction in diabetes risk through diet and lifestyle is among the most actionable public-health findings in years, reproducible without pharmaceuticals or expensive interventions."
       },
       {
         "name": "Cooperation",
+        "signal": "bright",
+        "detail": "The study was a large-scale European collaboration, demonstrating that cross-border research partnerships continue to produce meaningful results even amid geopolitical friction."
+      },
+      {
+        "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Montana's Confederated Salish and Kootenai Tribes are merging traditional ecological knowledge with Western climate science, modeling a rare and meaningful collaboration."
+        "detail": "The San Diego mosque security guard Amin Abdullah died protecting his community from a shooter, a quiet act of selfless courage that cut through a brutal day."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "A plant believed extinct for 60 years was rediscovered in the Australian outback via a smartphone photo, showing that biodiversity loss is not always irreversible."
+        "signal": "glimmer",
+        "detail": "Conservative Utah cities and towns are building renewable energy coalitions, proving clean energy transitions can happen across political divides when local economics align."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Scientists have developed a cheaper, durable platinum-free catalyst for clean hydrogen fuel production, potentially unlocking affordable renewable energy at scale."
+        "detail": "Researchers discovered a hidden 'sugar code' on human cell surfaces using Glycan Atlasing \u2014 a potential early-detection breakthrough for cancer and other diseases hiding in plain sight."
       }
     ],
     "mood": [
-      "resilience",
-      "breakthrough",
-      "renewal",
-      "discovery",
-      "hope"
+      "empowering",
+      "preventable",
+      "accessible",
+      "hopeful",
+      "resilient"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A worn kitchen table in near-darkness, the surrounding room swallowed in deep amber shadow, a single smartphone lying face-up at the center of the frame casting cool blue-white glow upward onto the underside of a coffee mug and scattered prescription pill bottles, the phone screen displaying a glowing news article with a vivid illustration of a luminous golden cell with a small key-shaped receptor on its surface, warm teal light bleeding from the screen edges across the dark tabletop grain, a half-empty glass of water catching the glow like a tiny lantern, a sticky note pressed to the table edge fluttering slightly, deep shadows pooling in every corner of the kitchen, the window behind the table showing only a dark Nebraska night sky with a single distant streetlight, color palette of deep amber and warm teal with electric blue from the screen, mood of quiet midnight revelation, a solitary person reading in the dark and feeling something shift.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-18.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-05-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a modest Spanish kitchen at mid-morning looking outward through a wide open doorway, warm golden Mediterranean light flooding in from a sun-drenched terracotta courtyard beyond, rich emerald herb pots framing the doorframe. The aftermath of a shared meal: a wooden kitchen table in the foreground holds the remnants of a Mediterranean spread \u2014 a near-empty glass bottle of olive oil catching amber light, a small terracotta bowl with a few remaining olives, scattered walnut shells, a halved lemon, torn whole-grain bread crust. A soft tape measure lies loosely coiled beside a handwritten food journal left open, small checkmarks visible on the page. A pair of well-worn colorful walking shoes sit neatly by the doorstep, angled toward the sunlit courtyard outside where the blurred suggestion of two older figures walk away together down a dappled stone path into warm emerald garden shade. The kitchen walls are warm ochre plaster, a hanging bunch of dried herbs casting a long shadow. Light is saturated golden afternoon honey, deep emerald shadows, the whole scene quiet and settled \u2014 not the meal itself but its peaceful, satisfied morning-after.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-19.png"
   }
 }
