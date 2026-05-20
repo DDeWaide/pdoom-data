@@ -1,97 +1,96 @@
 {
-  "date": "2026-05-19",
-  "generated_at": "2026-05-19T12:46:39.962023+00:00",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T12:30:29.666860+00:00",
   "doom": {
-    "percentage": 40.7,
-    "raw_percentage": 42.7,
-    "driver": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request. The U.S. and Iran are in a stalemate centered on the Strait of Hormuz, the global oil pathway whose closure due to the war has caused an energy supply shock.",
+    "percentage": 38.5,
+    "raw_percentage": 38.6,
+    "driver": "Iran's Revolutionary Guard on Wednesday threatened to extend the Middle East conflict \"beyond the region\" if the U.S. and Israel resume attacks against Tehran.",
     "category": "Geopolitics",
-    "blurb": "IRAN STRIKE POSTPONED, NOT CANCELLED",
-    "summary": "The phrase 'scheduled attack' doing a lot of heavy lifting in today's news cycle \u2014 turns out the US had a Tuesday Iran strike on the calendar like a dentist appointment, and Gulf state leaders politely asked to reschedule. Meanwhile Xi is hosting Putin four days after hosting Trump, which is either masterful diplomacy or the world's most dangerous hot potato tournament. Ebola continues its grim upward trajectory at 131 dead, Treasury yields are testing 1999 highs, and Japan is quietly dumping US bonds \u2014 it's a full-spectrum bad day dressed in negotiation language.",
+    "blurb": "IRAN THREATENS TO EXPORT THE WAR",
+    "summary": "Just days after Trump 'postponed' a scheduled Iran strike like a dentist appointment, Iran's Revolutionary Guard is now threatening to take the conflict 'beyond the region' \u2014 which is diplomatic speak for 'we have friends and missiles.' Meanwhile, Putin landed in Beijing hours after Trump left, Xi is hosting everyone like a geopolitical Airbnb, and the Power of Siberia 2 pipeline is suddenly back on the agenda. The axis of 'not America' is having a very productive week.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "A US strike on Iran was literally scheduled for Tuesday and only postponed at Gulf state request, while Xi hosts Putin days after Trump in a breathtaking display of great-power triangulation."
+        "detail": "Iran threatening regional escalation while Putin-Xi summit revives energy partnerships and Chinese supertankers quietly exit the Strait of Hormuz \u2014 three simultaneous pressure points."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump treating an Iran military strike as a negotiating chip \u2014 postponable on request \u2014 signals a level of crisis improvisation that keeps allies and enemies equally off-balance."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Iran has started Bitcoin-backed ship insurance for Hormuz strait transits, which is either creative sanctions evasion or the most cyberpunk geopolitical development of 2026."
+        "detail": "CISA admin leaked AWS GovCloud keys on GitHub and secret credentials sat exposed since November 2025 \u2014 the US cybersecurity agency has a cybersecurity problem."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Anduril and Meta's smart glasses prototype enabling drone strikes via eye-tracking represents a meaningful leap in AI-enabled lethal autonomy, quietly buried under the Musk-Altman verdict headlines."
+        "signal": "elevated",
+        "detail": "Google I/O unveiled Gemini 3.5 Flash and DeepMind's Hassabis invoked the 'foothills of the singularity' \u2014 either inspiring or the most ominous keynote closer in tech history."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "Musk losing his OpenAI suit resolves one governance distraction, but the underlying question of who should control frontier AI remains as unsettled as ever."
+        "signal": "medium",
+        "detail": "Andrej Karpathy joining Anthropic signals top talent is consolidating at safety-focused labs, which is directionally good but underscores how fast the capability race is moving."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Ebola case count hit 600 suspected cases and 139 deaths as WHO warns numbers will rise further, while the US cuts public health funding and criticizes the WHO's response speed."
       }
     ],
     "mood": [
-      "volatile",
-      "teetering",
-      "overcrowded",
       "combustible",
-      "improvised"
+      "sprawling",
+      "accelerating",
+      "precarious"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt, camera pressed nearly flat to the pavement of a gas station forecourt somewhere in coastal Oman or the UAE, looking steeply skyward past the underside of an empty canopy overhang, its fluorescent tube lights dead and dark, the price sign above blank and unlit, every pump nozzle hanging limp and idle in its cradle, a long queue of cars stretching back into the deep background, headlights burning amber in the dusk, exhaust fumes rising in crimson-tinged columns against a bruised purple and charcoal sky, the underside of the forecourt canopy dominating the upper frame in deep shadow with rusted seams and flickering electrical conduit, a single emergency generator light casting a harsh cone of red-orange on the nearest pump casting long pixel-stepped shadows across the tarmac, crumpled receipts and a crushed plastic bottle skittering in a dry wind beneath the canopy's edge, the horizon behind the car queue glowing a deep smoldering amber as if the entire Gulf is backlit by something not quite sunset, color palette locked to dark crimson, charcoal grey, and burnt amber throughout, oppressive high-contrast lighting with no softness, firelight quality to every surface.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-19.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-05-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy shadow and smoldering orange: a colossal stone chessboard stretching across a scorched desert plateau, the arid ochre terrain of the Iranian highland visible at the edges where the board's borders dissolve into cracked earth and pale dust, the Alborz mountain range's white-capped silhouette ghosting along the upper horizon beneath a smoggy amber sky \u2014 the board itself is mid-collapse, its center squares fracturing and tilting downward into a dark void below, fissures radiating outward from the middle like cracks in ancient stone, deep navy shadow pooling in the gaps \u2014 chess pieces rendered as squat chunky 16-bit figures scatter and tumble at the collapse point, some already fallen into the darkness, others teetering at the crumbling rim, the pieces extending in unbroken rows far beyond the board's broken center toward every edge of the frame, implying a conflict spilling outward in all directions \u2014 smoldering orange embers glow from deep within the fissures below, casting dramatic upward light against the underside of the tilting stone squares, warmth feeling deeply threatening \u2014 heavy shadows dominate three-quarters of the frame, the collapsing center the only source of light.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-20.png"
   },
   "dawn": {
-    "percentage": 59.3,
-    "driver": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%. A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes.",
+    "percentage": 61.5,
+    "driver": "Breakthrough drug reverses aging in skin and dramatically speeds healing. Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged 'senescent' cells that accumulate",
     "category": "Medicine",
-    "blurb": "ONE DIET CHOICE CUTS DIABETES RISK BY A THIRD",
-    "summary": "In a world where headlines tilt dark \u2014 Ebola emergencies, military standoffs, mosque shootings \u2014 a large European study quietly delivered a landmark result: pair a Mediterranean diet with modest exercise and coaching, and type 2 diabetes risk drops by 31%. That's not a supplement company's claim; that's a rigorous population-level finding that could reshape how hundreds of millions of people eat and live. When the tools to prevent one of the planet's most burdensome chronic diseases turn out to be olive oil, vegetables, and a walk \u2014 that's genuinely good news worth sitting with.",
+    "blurb": "SCIENTISTS FOUND THE SWITCH THAT REVERSES SKIN AGING",
+    "summary": "In a week heavy with Ebola escalations and geopolitical friction, a quiet but profound discovery landed in the labs: a topical drug that clears out the body's 'zombie cells' \u2014 the senescent cells that accumulate with age and slow healing \u2014 dramatically restoring wound repair in older skin. This isn't cosmetic vanity science; it points toward a genuine mechanism for reversing age-related biological decline. The same cellular pathway implicated here underlies chronic inflammation across the body, meaning the implications stretch far beyond skin.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A 31% reduction in diabetes risk through diet and lifestyle is among the most actionable public-health findings in years, reproducible without pharmaceuticals or expensive interventions."
+        "detail": "Senolytic therapy targeting aging cells is one of the most promising fronts in longevity medicine, and a working topical drug marks a meaningful translational step from lab to clinic."
       },
       {
-        "name": "Cooperation",
+        "name": "Medicine",
         "signal": "bright",
-        "detail": "The study was a large-scale European collaboration, demonstrating that cross-border research partnerships continue to produce meaningful results even amid geopolitical friction."
+        "detail": "Faster wound healing in elderly patients could prevent millions of deaths and amputations annually from chronic wounds \u2014 a largely invisible epidemic in aging populations."
       },
       {
         "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "The San Diego mosque security guard Amin Abdullah died protecting his community from a shooter, a quiet act of selfless courage that cut through a brutal day."
+        "detail": "A gray wolf was spotted in Sequoia National Park for the first time in over 100 years, a small but stirring signal that nature's resilience can outpace our damage."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Conservative Utah cities and towns are building renewable energy coalitions, proving clean energy transitions can happen across political divides when local economics align."
+        "signal": "bright",
+        "detail": "Wind-assisted cargo ships could cut shipping fuel use by more than half if routes are optimized for prevailing winds \u2014 a scalable, low-tech answer to one of shipping's hardest emissions problems."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Researchers discovered a hidden 'sugar code' on human cell surfaces using Glycan Atlasing \u2014 a potential early-detection breakthrough for cancer and other diseases hiding in plain sight."
+        "signal": "glimmer",
+        "detail": "'Taiwan Travelogue' won the 2026 International Booker Prize \u2014 the first Mandarin-language work ever to do so \u2014 a reminder that literature still crosses the borders that politics can't."
       }
     ],
     "mood": [
-      "empowering",
-      "preventable",
-      "accessible",
+      "regenerative",
+      "resilient",
       "hopeful",
-      "resilient"
+      "pioneering",
+      "healing"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a modest Spanish kitchen at mid-morning looking outward through a wide open doorway, warm golden Mediterranean light flooding in from a sun-drenched terracotta courtyard beyond, rich emerald herb pots framing the doorframe. The aftermath of a shared meal: a wooden kitchen table in the foreground holds the remnants of a Mediterranean spread \u2014 a near-empty glass bottle of olive oil catching amber light, a small terracotta bowl with a few remaining olives, scattered walnut shells, a halved lemon, torn whole-grain bread crust. A soft tape measure lies loosely coiled beside a handwritten food journal left open, small checkmarks visible on the page. A pair of well-worn colorful walking shoes sit neatly by the doorstep, angled toward the sunlit courtyard outside where the blurred suggestion of two older figures walk away together down a dappled stone path into warm emerald garden shade. The kitchen walls are warm ochre plaster, a hanging bunch of dried herbs casting a long shadow. Light is saturated golden afternoon honey, deep emerald shadows, the whole scene quiet and settled \u2014 not the meal itself but its peaceful, satisfied morning-after.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-19.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-05-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A fog-drenched nursing home common room seen from mid-distance through a rain-streaked window, the glass itself dominating the foreground, fat amber droplets running down the pane in slow rivers, the scene inside filtered soft and impressionistic through the wet haze. Deep golden amber light pools from a single floor lamp inside, warm teal shadows filling the corners and the fog-blurred corridor beyond. An elderly person's forearm rests palm-up on a blanket draped over a wheelchair armrest, the skin rendered in translucent pixel layers \u2014 fine creases, faint sun spots \u2014 and at the wrist a small glowing patch of faintly warmer pink-gold pixels, barely perceptible, a wound site beginning to close. On a side table beside them a tiny dropper bottle catches the amber lamplight, its pale gold liquid a single bright pixel cluster against the cool teal shadows. Outside the rain-blurred window the street is soft grey dissolution, headlights smearing into long golden streaks through the downpour. The mood is intimate and radiant, tender quietness inside, weather-erased world outside, the healing happening in stillness while the storm presses against the glass.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-20.png"
   }
 }
