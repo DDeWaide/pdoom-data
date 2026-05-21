@@ -9909,5 +9909,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A fog-drenched nursing home common room seen from mid-distance through a rain-streaked window, the glass itself dominating the foreground, fat amber droplets running down the pane in slow rivers, the scene inside filtered soft and impressionistic through the wet haze. Deep golden amber light pools from a single floor lamp inside, warm teal shadows filling the corners and the fog-blurred corridor beyond. An elderly person's forearm rests palm-up on a blanket draped over a wheelchair armrest, the skin rendered in translucent pixel layers \u2014 fine creases, faint sun spots \u2014 and at the wrist a small glowing patch of faintly warmer pink-gold pixels, barely perceptible, a wound site beginning to close. On a side table beside them a tiny dropper bottle catches the amber lamplight, its pale gold liquid a single bright pixel cluster against the cool teal shadows. Outside the rain-blurred window the street is soft grey dissolution, headlights smearing into long golden streaks through the downpour. The mood is intimate and radiant, tender quietness inside, weather-erased world outside, the healing happening in stillness while the storm presses against the glass.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-20.png"
     }
+  },
+  {
+    "date": "2026-05-21",
+    "generated_at": "2026-05-21T12:49:57.149993+00:00",
+    "doom": {
+      "percentage": 37.7,
+      "raw_percentage": 37.2,
+      "driver": "An OpenAI model has disproved a central conjecture in discrete geometry.",
+      "category": "AI Capability",
+      "blurb": "THE MACHINE REWRITES MATHEMATICS",
+      "summary": "An OpenAI model just invalidated a long-standing conjecture in discrete geometry \u2014 the kind of thing that takes human mathematicians years and a sabbatical in the Alps. Meanwhile, Ebola-exposed Americans are being quietly rerouted to Berlin and Prague rather than home, the US is 'simply choosing not to stop' an outbreak, and the IEA is warning oil markets could hit a 'red zone' by July as the Iran situation simmers. It's a day where the slow disasters keep compounding and the fast ones sneak up from the direction of a research lab.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "An OpenAI model independently disproving a discrete geometry conjecture signals AI crossing into autonomous mathematical reasoning \u2014 a qualitative capability jump, not just a benchmark."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "US actively declining to engage with Ebola response after USAID dismantlement, rerouting exposed American citizens to European cities rather than managing a public health threat at home."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran reviews US peace proposal while IEA warns oil markets enter 'red zone' by July; Strait of Hormuz closure threat makes every barrel of oil a geopolitical chess piece."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "AI autonomously advancing in formal reasoning domains without human guidance raises quiet questions about where the capability ceiling actually is."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "GitHub breach of 3,800 repos via malicious VSCode extension plus Google publishing an exploit threatening millions of Chromium users in the same news cycle suggests the cyber substrate is having a bad week."
+        }
+      ],
+      "mood": [
+        "unsettling",
+        "accelerating",
+        "quietly-alarming",
+        "pivotal"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single printed academic paper lying on a dark desk surface, camera pressed directly overhead looking straight down, the page rendered in deep navy shadow with smoldering orange light raking across it from one edge, the dense LaTeX typography of a mathematics paper visible as tight rows of illegible symbols and equations, a hand-drawn unit distance graph scrawled in pencil across the margin showing nodes as small dots connected by precise lines, several conjecture statements crossed out with a single emphatic diagonal stroke in orange marker, a coffee ring stain bleeding amber warmth into the lower left corner of the page, the paper's white surface picking up deep blue shadow from above while the crossed-out sections glow faintly orange as if the erasure itself is smoldering, the desk surface visible at the extreme edges of the frame as near-black wood grain, a dry uncapped marker resting at the very bottom edge of the frame catching a single amber highlight, the overall mood cold and unsettling, the crossed-out mathematics suggesting something irreversible has just happened off-screen, deep navy and smoldering orange palette throughout, heavy shadows dominating every corner of the frame.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-21.png"
+    },
+    "dawn": {
+      "percentage": 62.3,
+      "driver": "An OpenAI model has disproved a central conjecture in discrete geometry.",
+      "category": "Science",
+      "blurb": "AI SOLVES WHAT HUMANS COULDN'T FOR DECADES",
+      "summary": "In a landmark moment for both mathematics and artificial intelligence, an OpenAI model has disproved a long-standing central conjecture in discrete geometry \u2014 the kind of breakthrough that professional mathematicians spend careers chasing. Fields Medalist Timothy Gowers flagged this publicly, lending it serious credibility. Yes, the world is navigating Ebola outbreaks, regional conflicts, and geopolitical friction \u2014 but this is a reminder that our tools for understanding reality are quietly becoming extraordinary, and the partnership between human mathematical intuition and AI capability may be unlocking a genuinely new era of discovery.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "An AI model disproving a central conjecture in discrete geometry \u2014 validated by a Fields Medalist \u2014 represents a qualitative leap in machine-assisted mathematical reasoning."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Liberal U.S. mayors are formally partnering with European counterparts to defend democratic values, showing transatlantic civil society bonds strengthening even as governments fracture."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Gaza sisters Tala and Farah Mousa won the Earth Prize for converting the rubble of their bombed home into reusable bricks \u2014 a profound act of creation amid destruction."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Britain is reintroducing beavers as flood-mitigation partners, with early results showing their dam-building instincts are a surprisingly effective natural defence against worsening climate-driven floods."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists discovered massive natural hydrogen production beneath Canadian bedrock, potentially pointing toward a geological clean-energy source that requires no manufacturing at all."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "ingenious",
+        "resilient",
+        "transcendent",
+        "collaborative"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A vast abstract plane of pure mathematics rendered as infinite deep space, warm amber and golden light radiating from a distant horizon source behind the scene, casting everything in front into sharp dark silhouette. The entire background glows with a luminous teal-to-amber gradient as if a geometric sun is rising at the edge of a flat Euclidean universe. In stark black silhouette against this radiance: a precise constellation of twenty or so discrete points arranged in a grid-like lattice, connected by thin radiating lines, the entire configuration floating as a two-dimensional diagram in void space. One cluster of the point arrangement deviates unexpectedly, lines branching in an impossible pattern that breaks the symmetry of the whole \u2014 the counterexample, tiny and world-breaking, its silhouette shape wrong in a way that feels electric. In the lower foreground, the dark silhouette of a single seated researcher, head tilted back slightly, one hand raised toward the floating diagram, posture caught between disbelief and revelation. Long shadows stretch forward from every point of the lattice toward the viewer. The light source behind everything pulses amber-gold, warm and radiant, making the cold geometric truth feel sacred.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-21.png"
+    }
   }
 ]
