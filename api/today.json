@@ -1,96 +1,97 @@
 {
-  "date": "2026-05-22",
-  "generated_at": "2026-05-22T12:27:15.657246+00:00",
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T11:18:50.692236+00:00",
   "doom": {
-    "percentage": 35.9,
-    "raw_percentage": 34.2,
-    "driver": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war.",
-    "category": "Geopolitics",
-    "blurb": "ROBBING PETER TO COVER THE PERSIAN GULF",
-    "summary": "The US is now so absorbed in its Iran war that it's pausing a $14 billion arms package to Taiwan \u2014 the island that exists specifically because it needs those arms. Meanwhile Trump is sending 5,000 troops to Poland while threatening Cuba, suggesting the administration is simultaneously picking fights on three continents while running low on bullets for all of them. The strategic bandwidth is not infinite, and America's adversaries have calendars.",
+    "percentage": 40.2,
+    "raw_percentage": 41.7,
+    "driver": "Ebola outbreak now third largest recorded and \"spreading rapidly\". Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
+    "category": "Biotech",
+    "blurb": "EBOLA GOES FROM BAD TO THIRD-WORST ON RECORD",
+    "summary": "The DRC Ebola outbreak has tripled in a week, hit 177 dead, and WHO has raised risk to 'very high' \u2014 all while aid cuts and community distrust are actively hamstringing the response. It's the third-largest outbreak ever recorded, which is the kind of superlative nobody asked for. Meanwhile, an experimental mRNA vaccine exists but isn't deployed, Russian satellites are stalking radar infrastructure in orbit, and Putin is threatening retaliation over Ukraine strikes \u2014 so today's doom is a genuinely uncomfortable multi-front situation.",
     "factors": [
-      {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "US arms to Taiwan paused for Iran war, Cuba military threat escalating, and 5,000 troops to Poland signals NATO remains on edge \u2014 three separate pressure fronts simultaneously active."
-      },
-      {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "Erratic US posture \u2014 reversing troop deployments, pausing ally arms sales, issuing criminal charges against foreign heads of state \u2014 is creating genuine allied uncertainty about US commitments."
-      },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Demis Hassabis publicly declared we are 'standing in the foothills of the singularity' at Google I/O; the foothills metaphor is doing a lot of work this week."
+        "detail": "Trump abruptly cancelled an AI safety EO signing after top CEOs declined to attend, signalling governance is fragmenting even as capabilities race forward."
+      },
+      {
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "Tulsi Gabbard resigning as US national intelligence director mid-conflict creates a notable leadership vacuum at a genuinely dangerous moment."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Putin vows retaliation after Ukraine strikes Moscow-occupied region; US munitions analysts warn stockpiles are actively shaping war decisions."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "AI used to fabricate evidence that destroyed a Korean actor's career \u2014 a preview of deepfake weaponization at scale, though contained for now."
+        "detail": "Anthropic's Project Glasswing initial update dropped quietly; no immediate red flags, but the transparency is notable given the capability trajectory."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Russia quietly sent more nuclear weapons to Belarus and held joint drills \u2014 analysts call it 'a risky move for Minsk,' which is the diplomatic way of saying something weird is happening."
+        "signal": "high",
+        "detail": "Ebola outbreak now third-largest on record with 750 cases, tripling in a week, in a context of gutted international aid and active community distrust \u2014 a structural containment failure in progress."
       }
     ],
     "mood": [
-      "overstretched",
-      "rattling",
-      "distracted",
-      "escalatory"
+      "contagion",
+      "fragmentation",
+      "escalatory",
+      "volatile",
+      "grim"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, aftermath composition, camera at mid-height looking across a vast military logistics tarmac at a Pacific port facility, artificial light only, deep navy shadows swallowing the edges of the frame \u2014 the foreground filled with rows of stacked wooden ordnance crates and sealed steel shipping containers sitting motionless on cracked concrete, US military stencil markings barely visible under harsh orange sodium floodlights mounted on tall poles, containers half-wrapped in shadow as if abandoned mid-process, a single forklift parked and idle beside an uncompleted pallet stack, its headlights switched off \u2014 in the middle distance a grey guided-missile destroyer sits docked at the pier, VLS hatches sealed, gangway lowered but unoccupied, running lights glowing amber and red against oily black harbor water reflecting orange light in fractured streaks below \u2014 beyond the harbor a mountainous silhouette rises against the night sky suggesting a distant island coastline, its peaks barely distinguishable from dark clouds, a faint cluster of city lights at its base blinking through haze \u2014 the entire scene holds the atmosphere of a transaction frozen mid-step, cargo that went nowhere, a deal suspended in silence, deep navy and smoldering orange palette throughout, warm light feeling threatening, heavy shadows dominant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-22.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-05-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dim Ugandan border-town family dwelling in Kasese district, looking outward through a low rectangular window cut into a cinderblock wall, the window frame dividing the composition between the dark suffocating interior and the wet world outside, inside foreground dominated by a wooden table holding a single kerosene lamp casting deep crimson-amber pools of light across a crumpled contact tracing form, ink bleeding where rainwater has soaked the paper, a hand-painted \"Centre de Sant\u00e9\" directional sign leaning against the interior wall its letters half-legible, outside through the window a red laterite dirt road glistens under heavy equatorial rain, a white Toyota Land Cruiser caked in mud to its door handles sits idling at the road's edge its headlights cutting pale cones through diagonal rain sheets, a figure in a yellow Tyvek coverall visible through the vehicle's fogged passenger window a face shield catching the lamplight, dense dark jungle wall pressing in from the road's far edge blurring into charcoal under low rainclouds, everything outside rendered in deep grey-green shadow and wet black, the window frame acting as a threshold between domestic warmth and the viral dark beyond, color palette of dark crimson interior bleeding into charcoal and wet slate outside, high contrast oppressive.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-23.png"
   },
   "dawn": {
-    "percentage": 64.1,
-    "driver": "UN's climate crisis vote shows political momentum is growing, say experts. Resolution backed by 141 states hailed as 'new chapter' that could improve climate diplomacy and litigation efforts",
-    "category": "Cooperation",
-    "blurb": "141 NATIONS VOTE TO FIGHT FOR THE PLANET",
-    "summary": "Against a backdrop of geopolitical fracture \u2014 Iran tensions, Cuba threats, nuclear anxieties \u2014 141 countries just chose to stand together on climate. Experts are calling it a 'new chapter' for climate diplomacy, and crucially, the resolution strengthens the legal architecture for climate litigation, giving communities actual tools to hold polluters accountable. When nearly three-quarters of the world's nations agree on anything right now, that's not nothing \u2014 that's a signal worth holding onto.",
+    "percentage": 59.8,
+    "driver": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight. The mega rocket made its debut two days after SpaceX CEO Elon Musk announced he's taking the company public. NASA Administrator Jared Isaacman said Starship is now one step closer to the moon.",
+    "category": "Technology",
+    "blurb": "HUMANITY'S BIGGEST ROCKET CLEARS THE TOWER",
+    "summary": "Against a backdrop of mine disasters, Ebola outbreaks, and Middle East tensions, humans still pointed the largest rocket ever built at the sky and lit the fuse \u2014 and it flew. Starship V3's successful test flight is a genuine milestone: NASA's own administrator confirmed it brings crewed lunar missions measurably closer to reality. When the world feels heavy, it helps to remember we are also, simultaneously, building the ships that will carry us to other worlds.",
     "factors": [
       {
-        "name": "Cooperation",
-        "signal": "blazing",
-        "detail": "141-state UN climate resolution represents one of the broadest multilateral agreements of 2026, a rare show of unity when global politics trend toward fragmentation."
-      },
-      {
-        "name": "Environment",
-        "signal": "bright",
-        "detail": "Experts say the resolution meaningfully advances climate litigation pathways, giving courts and communities new legal standing to pursue accountability."
-      },
-      {
         "name": "Science",
+        "signal": "blazing",
+        "detail": "Starship V3 represents the most capable launch vehicle in human history completing a successful test, a prerequisite for returning humans to the Moon and eventual Mars missions."
+      },
+      {
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "New glass materials that trap CO2 and hydrogen simultaneously hint at scalable carbon capture tools that could support the diplomatic commitments made this week."
+        "detail": "Iran and the US are signaling progress toward a peace deal, with oil prices already falling on the news \u2014 a fragile but real diplomatic signal amid active conflict."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Greenland protesters outside the new US consulate \u2014 'No means no' \u2014 demonstrate that ordinary people still insist on self-determination even against superpower pressure."
+        "detail": "Fifteen years after the Joplin tornado, researchers document how the disaster drew nearly 100,000 volunteers and seeded a lasting culture of community kindness that persists today."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "Soaring solar output and a surge in hydropower are pushing coal further off the US grid, with early 2026 data suggesting last year's slowdown in clean energy gains was an anomaly."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "US and Iran signaling 'good signs' toward a deal, however fragile, edges the world back from the brink of another major conflict that would dwarf all climate progress."
+        "detail": "An experimental mRNA vaccine shows promise protecting against multiple Ebola strains in rodent trials \u2014 potentially a game-changer for the very outbreak making headlines today."
       }
     ],
     "mood": [
-      "solidarity",
-      "momentum",
-      "resilience",
-      "resolve",
-      "possibility"
+      "pioneering",
+      "resilient",
+      "expansive",
+      "hopeful",
+      "determined"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the shallow sandy floor of a Vanuatu lagoon, camera pressed against pale coral rubble at the seafloor, vast columns of warm amber-gold tropical sunlight piercing down through turquoise water from above, the water surface a shimmering ceiling of deep teal and molten gold far overhead, branching staghorn coral rising like towers on either side of the frame their tips glowing vivid orange and purple in the cathedral light, one section bone-white and bleached reaching toward the surface like a raised hand, a single dark silhouette of a young Pacific islander visible above the waterline standing on the surface seen from below as a shadow against that burning golden ceiling, posture still and upright and watchful, the volcanic green silhouette of Nguna island visible as a tiny shape beyond the water's surface through the shimmer, the entire composition drenched in deep golden hour amber from above fading to cool pale teal in the shadowed depths below, radiant side-lit shafts cutting diagonally across the frame, bleached coral cool and pale at the edges, living coral warm and luminous at center.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-22.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-05-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast flat Texas scrubland and Gulf Coast wetlands seen from high above, the landscape saturated in rich gold afternoon light filtering through sparse coastal vegetation, emerald marsh grasses and tidal flats glowing vivid green against amber earth. Tiny human figures \u2014 dozens of them \u2014 scattered across the scrubland below, all facing the same direction, faces invisible from this height, arms raised holding phones skyward toward something off-frame, their shadows stretching long and golden across the flat terrain. A narrow coastal road is clogged with parked cars stretching to the horizon, doors flung open, abandoned mid-journey by people who simply stopped and got out to watch. A cluster of pickup trucks sits on a sandy ridge overlooking the Gulf, their beds filled with more tiny silhouettes. The Gulf of Mexico shimmers emerald and gold in the distance, flat and enormous, the horizon vast and unobstructed. The entire scene communicates collective awe and interruption \u2014 ordinary life paused, a world momentarily stopped, all attention pulled toward the same invisible point in the sky above.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-23.png"
   }
 }
