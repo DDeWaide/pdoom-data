@@ -10198,5 +10198,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast flat Texas scrubland and Gulf Coast wetlands seen from high above, the landscape saturated in rich gold afternoon light filtering through sparse coastal vegetation, emerald marsh grasses and tidal flats glowing vivid green against amber earth. Tiny human figures \u2014 dozens of them \u2014 scattered across the scrubland below, all facing the same direction, faces invisible from this height, arms raised holding phones skyward toward something off-frame, their shadows stretching long and golden across the flat terrain. A narrow coastal road is clogged with parked cars stretching to the horizon, doors flung open, abandoned mid-journey by people who simply stopped and got out to watch. A cluster of pickup trucks sits on a sandy ridge overlooking the Gulf, their beds filled with more tiny silhouettes. The Gulf of Mexico shimmers emerald and gold in the distance, flat and enormous, the horizon vast and unobstructed. The entire scene communicates collective awe and interruption \u2014 ordinary life paused, a world momentarily stopped, all attention pulled toward the same invisible point in the sky above.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-23.png"
     }
+  },
+  {
+    "date": "2026-05-24",
+    "generated_at": "2026-05-24T11:21:21.720195+00:00",
+    "doom": {
+      "percentage": 38.6,
+      "raw_percentage": 38.7,
+      "driver": "Severe global food crisis could come within the year, says UN agency. Maximo Torero, Chief Economist at The Food and Agriculture Organization of the United Nations, warns that the war in Iran is choking the global supply of fertilizer and a food crisis could follow with",
+      "category": "Geopolitics",
+      "blurb": "THE IRAN WAR COMES FOR YOUR DINNER PLATE",
+      "summary": "The FAO's chief economist is warning that the Iran conflict strangling fertilizer supply chains could trigger a severe global food crisis within twelve months \u2014 right as a separate analysis documents 20,000 attacks on food infrastructure worldwide since 2018. Meanwhile Trump says an Iran deal is 'largely negotiated,' which is the diplomatic equivalent of saying your house fire is 'largely extinguished' while one room is still ablaze. Russia chose this moment to drop a hypersonic Oreshnik missile on Kyiv, because apparently the world needed another active front.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran war day 86 with cascading effects: fertilizer shortages threatening global food supply, Strait of Hormuz still contested, and a fragile MOU that Iran's own state media is partially contradicting."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "NATO allies are 'confused' by Trump's contradictory statements on troop deployments to Poland, while the Iran deal announcement came via social media before any official confirmation from Tehran."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "AI headlines today are largely benign \u2014 robot meal prep in San Francisco and an AI body-mapping system \u2014 nothing that moves the needle on existential risk."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No significant AI safety or alignment developments in today's feeds; the frontier-model news cycle has quieted since last week's geometry conjecture story."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Russia firing a hypersonic Oreshnik missile at Kyiv while simultaneously inching toward an Iran peace deal creates a chaotic signal environment where escalation and de-escalation are happening in parallel on different fronts."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "fragile",
+        "hungry",
+        "hypersonic",
+        "unsettled"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, dense coastal fog and heat haze merging into a single oppressive wall of atmosphere, camera positioned at mid-distance on the Iranian shore of the Persian Gulf looking outward across the water, visibility collapsing within a hundred meters into smoldering orange murk, the Strait of Hormuz reduced to a ghost of itself, only the dark silhouettes of two Handymax bulk carriers visible as flat black shapes riding high and empty in the water, their cargo holds open and vacant, hulls riding far too high \u2014 ships that should be heavy with urea and fertilizer granules but are not, stranded or waiting, a third vessel barely visible as a suggestion of superstructure disappearing into the haze, the foreground dominated by the cracked desert scrubland of the Iranian coastline, pale limestone and sand the color of bone, a cluster of enormous white urea storage domes at the port edge half-swallowed by the atmospheric murk, their smooth curved forms ghostly and inert, loading cranes frozen mid-reach like skeletal arms against the orange-filtered sky, the water itself barely distinguishable from the air, both the same deep navy fading to sulfurous amber at the horizon, color palette locked to smoldering orange and deep navy throughout, heavy shadows consuming all detail, heat and stillness reading as threat, the emptiness of the idle ships communicating the crisis more than any action could.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-24.png"
+    },
+    "dawn": {
+      "percentage": 61.4,
+      "driver": "Scientists just found a faster, cleaner way to extract lithium for EV batteries. A breakthrough lithium-extraction method could help solve one of clean energy's dirtiest problems. Researchers at Columbia Engineering have developed a fast new technique that pulls lithium directly f",
+      "category": "Science",
+      "blurb": "CLEAN ENERGY GETS CLEANER AT THE SOURCE",
+      "summary": "On a day dominated by war, disaster, and disease, Columbia Engineering researchers quietly solved one of green energy's most stubborn contradictions: lithium extraction has always been messy and slow, undermining the clean promise of EV batteries. This new method pulls lithium faster and without the toxic waste of conventional mining \u2014 meaning the full supply chain of the energy transition gets greener. With the Iran war squeezing global energy markets and food systems alike, breakthroughs that accelerate our escape from fossil fuel dependency matter more than ever.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Columbia Engineering's new lithium extraction technique directly addresses one of the dirtiest bottlenecks in the clean energy supply chain."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Cleaner lithium sourcing could meaningfully reduce the environmental cost of EV batteries, closing a painful irony in green technology."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Torn by war, some Israeli and Palestinian entrepreneurs are still partnering across the divide, per NPR, proving human connection persists even in the darkest contexts."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A nurse convicted of a fatal medication error now tours the country as a national speaker on hospital safety, turning personal tragedy into systemic protection for future patients."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "NASA's Psyche spacecraft captured stunning Mars images during a precision flyby, a reminder that humanity is actively exploring the solar system even amid earthly chaos."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "ingenuity",
+        "resilience",
+        "possibility",
+        "forward"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glass vial held up to warm golden-amber light, the vial itself dominating every pixel, its curved glass surface catching and bending deep teal and molten amber reflections across the frame. Inside the vial, a luminous crimson-red liquid glows from within, the color of lithium flame, radiant and clarified, lit from one side by warm golden-hour sidelight casting long curved shadows across the glass cylinder. The surface of the liquid shimmers with a faint iridescent halo, tiny bright crimson specks suspended in perfect suspension against a darker amber-tinted brine below, the two layers visibly separating \u2014 dirty murky brown settling to the bottom, pure glowing red rising above. The curved glass edges catch the environment in distorted reflection: a ghost-image of cracked desert salt flat and distant shimmering heat haze bent and compressed into the vial's convex surface, implying vast open landscape without showing it directly. The stopper or lip of the vial catches a hard bright highlight. Deep golden-hour amber dominates, warm teal lives in the shadows and reflections, radiant side-lighting, long shadows stretching across the glass.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-24.png"
+    }
   }
 ]
