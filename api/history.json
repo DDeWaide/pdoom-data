@@ -10295,5 +10295,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame with a single glass vial held up to warm golden-amber light, the vial itself dominating every pixel, its curved glass surface catching and bending deep teal and molten amber reflections across the frame. Inside the vial, a luminous crimson-red liquid glows from within, the color of lithium flame, radiant and clarified, lit from one side by warm golden-hour sidelight casting long curved shadows across the glass cylinder. The surface of the liquid shimmers with a faint iridescent halo, tiny bright crimson specks suspended in perfect suspension against a darker amber-tinted brine below, the two layers visibly separating \u2014 dirty murky brown settling to the bottom, pure glowing red rising above. The curved glass edges catch the environment in distorted reflection: a ghost-image of cracked desert salt flat and distant shimmering heat haze bent and compressed into the vial's convex surface, implying vast open landscape without showing it directly. The stopper or lip of the vial catches a hard bright highlight. Deep golden-hour amber dominates, warm teal lives in the shadows and reflections, radiant side-lighting, long shadows stretching across the glass.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-24.png"
     }
+  },
+  {
+    "date": "2026-05-25",
+    "generated_at": "2026-05-25T13:33:57.456821+00:00",
+    "doom": {
+      "percentage": 36.2,
+      "raw_percentage": 34.7,
+      "driver": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie.",
+      "category": "Geopolitics",
+      "blurb": "THE HORMUZ HANGOVER REACHES THE TANK FLOOR",
+      "summary": "Jeff Currie is warning that Asian oil markets are scraping minimum operating levels, Europe is next, and the U.S. could face shortages by July \u2014 all while Trump and Iran are doing their ritual 'deal or no deal' dance. The good news is Iran appears to be blinking; the bad news is the global economy may run dry before the ink dries. A peace deal that arrives in August doesn't help refineries that went critical in June.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran peace signals are cautiously encouraging but Currie's 'tank bottoms' warning means the economic damage clock is ticking regardless of diplomatic progress."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump's mixed messaging \u2014 'not rushing' while blockade stays in place \u2014 is structurally indistinguishable from chaos, which markets hate and adversaries exploit."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Pope Leo XIV's first encyclical calling for robust AI regulation signals the governance gap is now a Vatican-level concern, which is either reassuring or very late."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "DeepSeek slashing flagship model prices by 75% permanently accelerates AI commoditization, compressing the window for safety infrastructure to catch up."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Tokyo mall chemical incident \u2014 one man, a smell, 19 hospitalizations \u2014 is exactly the kind of small-scale event that deserves watching before it gets a name."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "liminal",
+        "exhausted",
+        "tense"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy sky bleeding into smoldering orange at the horizon, camera positioned at ground level inside a vast Asian fuel terminal depot at dusk, looking outward toward the glowing sky where the sun is collapsing behind a row of massive cylindrical storage tanks whose floating roof seals are visibly sunken near the bottom, the tanks rendered as enormous dark silhouettes with rust-streaked geometry and pressure gauge clusters outlined against the amber glow, in the immediate foreground two diesel tanker truck drivers stand side by side as stark black silhouettes, shoulders slightly slumped, one leaning against the cab door of his empty rig, both figures facing the tanks and the dying light as if waiting for something that isn't coming, their posture carrying exhaustion and uncertainty, thick black pipeline infrastructure runs low along the cracked concrete ground between them and the tanks, valves and junction boxes visible as dark mechanical shapes, a chain-link fence cuts diagonally across the mid-ground casting long shadow bars across the pavement, the entire scene bathed in smoke-filtered orange warmth that feels threatening rather than beautiful, heavy shadows dominating the lower half of the frame, the emptiness of the tanks and the stillness of the drivers communicating scarcity without depicting it directly.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-25.png"
+    },
+    "dawn": {
+      "percentage": 63.8,
+      "driver": "Scientists supercharge natural killer cells to fight aggressive cancers. Scientists at McGill University have found a way to supercharge the immune system's natural killer (NK) cells, helping them break through the defenses tumors use to stay alive. By temporarily blocking...",
+      "category": "Medicine",
+      "blurb": "OUR OWN IMMUNE CELLS LEARN TO OUTFIGHT CANCER",
+      "summary": "Against a backdrop of war, outbreak, and geopolitical strain, McGill University scientists have found a way to turbocharge the body's own natural killer cells \u2014 enabling them to punch through the molecular shields that aggressive tumors hide behind. This is the kind of quiet, painstaking science that doesn't make front pages during wartime but will save lives long after headlines fade. The human immune system, it turns out, was always capable of more \u2014 we just needed to learn how to unlock it.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "McGill researchers found a way to temporarily disable tumor defense mechanisms, letting the immune system's natural killer cells destroy cancers that previously evaded treatment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "U.S.-Iran peace deal negotiations are actively progressing, with multiple parties signaling openness to ending the Strait of Hormuz conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Hong Kong's first astronaut \u2014 a 43-year-old mother of three \u2014 launched into space aboard China's Shenzhou mission, breaking barriers in a single flight."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "A newly identified tiny blue octopus species discovered 6,000 feet beneath the Gal\u00e1pagos reminds us that Earth's biodiversity still holds wonders yet unmapped."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists discovered the oldest known hand-held wooden tools ever used by humans \u2014 430,000 years old \u2014 deepening our understanding of how far human ingenuity stretches back."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "pioneering",
+        "alive"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped home office desk at midnight, the surrounding room swallowed in near-total darkness, warm teal and deep amber the only colors alive in the frame. A glowing laptop screen dominates the left third of the composition, its cold blue-white light spilling across a cluttered desk surface and casting long amber shadows into the darkness behind. On the screen, a science news article is barely readable as a glowing rectangle of light, its header image showing a faint cellular diagram \u2014 luminous spheres approaching dark irregular masses. A half-drunk mug of tea sits in the warm amber glow of a small desk lamp to the right, the lamp itself just out of frame, its cone of gold light catching the rim of the mug and the edge of a printed journal article lying flat on the desk, pages slightly curled. A phone face-up beside the mug glows with a matching headline notification, a second light source adding warm teal reflection to the desk surface. Deep shadows consume the bookshelves and walls beyond, broken only by the faintest amber edge-light along a window frame suggesting late-night Montreal winter outside. The entire scene radiates quiet midnight discovery \u2014 someone reading news that changes what tomorrow might mean.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-25.png"
+    }
   }
 ]
