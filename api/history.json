@@ -10391,5 +10391,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped home office desk at midnight, the surrounding room swallowed in near-total darkness, warm teal and deep amber the only colors alive in the frame. A glowing laptop screen dominates the left third of the composition, its cold blue-white light spilling across a cluttered desk surface and casting long amber shadows into the darkness behind. On the screen, a science news article is barely readable as a glowing rectangle of light, its header image showing a faint cellular diagram \u2014 luminous spheres approaching dark irregular masses. A half-drunk mug of tea sits in the warm amber glow of a small desk lamp to the right, the lamp itself just out of frame, its cone of gold light catching the rim of the mug and the edge of a printed journal article lying flat on the desk, pages slightly curled. A phone face-up beside the mug glows with a matching headline notification, a second light source adding warm teal reflection to the desk surface. Deep shadows consume the bookshelves and walls beyond, broken only by the faintest amber edge-light along a window frame suggesting late-night Montreal winter outside. The entire scene radiates quiet midnight discovery \u2014 someone reading news that changes what tomorrow might mean.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-25.png"
     }
+  },
+  {
+    "date": "2026-05-26",
+    "generated_at": "2026-05-26T13:52:19.459918+00:00",
+    "doom": {
+      "percentage": 40.2,
+      "raw_percentage": 41.7,
+      "driver": "Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital.",
+      "category": "Geopolitics",
+      "blurb": "TWO WARS, ZERO CEASEFIRES, ONE VERY TIRED PLANET",
+      "summary": "Russia is telling Americans to flee Kyiv while simultaneously the U.S. is shooting at Iran during peace talks \u2014 a diplomatic multitasking achievement that would be impressive if it weren't terrifying. The Iran war is somehow both escalating (fresh 'self-defense strikes' on missile sites and boats) and allegedly nearing a deal, which is the geopolitical equivalent of lighting something on fire while assuring everyone the sprinklers work. Meanwhile Ebola is 'outpacing' the response in DRC, Israel is intensifying strikes in Lebanon, and the vibes are firmly in 'controlled chaos' territory.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active U.S.-Iran military exchanges during negotiations, Russia threatening 'systematic' strikes on Kyiv, and Israel intensifying Lebanon operations \u2014 three separate escalation tracks running simultaneously."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Peace talks for the Iran war continue in Doha but fresh strikes mid-negotiation signal profound fragility in any emerging deal framework."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "AI news today is mostly economic hand-wringing \u2014 Uber questioning ROI, job displacement debates \u2014 no capability leaps to worry about today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola outbreak in DRC is now officially 'outpacing' response efforts with healthcare facilities under attack, adding a serious biological wildcard to an already crowded crisis board."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Pope Leo's papal document on AI and autonomous weapons coverage at the UN are notable as cultural signals, but no alignment-threatening developments today."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "frantic",
+        "besieged",
+        "unraveling"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-05-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked Kyiv pavement, camera pressed flat to the base of Maidan Nezalezhnosti's granite independence column, looking straight up its towering dark shaft toward the winged female figure silhouetted far above against a crimson-smeared charcoal sky, the column's stone surface catching deep firelight reflections from somewhere off-frame to the right, the second-order effect dominating the foreground: a scattered trail of abandoned objects left behind by departing U.S. embassy personnel \u2014 a tipped-over folding table, a cardboard box spilling manila folders, a coffee cup rolling on its side, a single black dress shoe \u2014 all rendered in high-contrast crimson and charcoal shadow on the broad empty plaza stones, the Khreshchatyk Boulevard stretching away into smoky darkness behind, chestnut trees lining the boulevard reduced to dark oppressive silhouettes with their leafy canopies disappearing into haze above, the plaza itself eerily vacant where it would normally be crowded, distant apartment tower windows glowing amber-orange in the firelit murk, the entire scene lit by the flat gray-orange glow of a smoke-particulate-choked pre-dawn sky pressing down from above, deep crimson reflections pooling in the wet granite plaza surface below the column's base.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-26.png"
+    },
+    "dawn": {
+      "percentage": 59.8,
+      "driver": "Scientists say they've reversed brain aging with a simple nasal spray. Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain's energy systems. After just two doses, memory and cognitive f",
+      "category": "Medicine",
+      "blurb": "TWO SPRAYS AND YOUR BRAIN TURNS BACK THE CLOCK",
+      "summary": "Against a backdrop of war, disease, and geopolitical strain, a Texas A&M team has quietly delivered something extraordinary: a nasal spray that appears to reverse brain aging by reducing inflammation and restoring neural energy systems \u2014 with measurable memory improvements after just two doses. This isn't a distant pipeline dream; it's a working prototype targeting the biological root causes of cognitive decline. In a world where Alzheimer's and dementia rob millions of their identity, a simple, non-invasive delivery mechanism like this could democratize brain health in ways that expensive infusions or surgical interventions never could.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Reversing brain aging via nasal spray represents a genuine mechanistic breakthrough \u2014 calming neuroinflammation and restoring energy metabolism simultaneously, not merely masking symptoms."
+        },
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "USC researchers also identified new drug compounds targeting APOE4-linked Alzheimer's inflammation today, suggesting a remarkable convergence of dementia-fighting science in a single news cycle."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "More than 1.5 million pilgrims began Hajj despite active regional war \u2014 a reminder that human ritual, community, and shared meaning persist even under extreme geopolitical pressure."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Thai cave rescue divers from the 2018 mission \u2014 already legends of human courage \u2014 answered the call again, joining efforts to free seven people trapped in a flooded Laos cave."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "The Large Hadron Collider has detected particle behavior that may signal physics beyond the Standard Model, hinting that humanity's map of reality is about to get a new continent."
+        }
+      ],
+      "mood": [
+        "restorative",
+        "pioneering",
+        "tenacious",
+        "hopeful",
+        "convergent"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-05-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warm neuroscience research office at dawn, looking outward through a wide lab window toward a campus courtyard bathed in rich morning gold, emerald trees catching early sun beyond the glass, the window frame dominant in the foreground. The room behind us is in gentle aftermath stillness \u2014 a modest wooden desk holds a single small frosted nasal spray bottle resting on its side near an open scientific journal, pages splayed, a coffee mug still steaming beside it. On the inner wall to one side, a printed brain scan image is pinned up, its neural pathways rendered in warm amber and gold pixels, glowing like lit ember filaments. The courtyard outside pulses with saturated emerald greens, sunlight filtering through broad leaves casting dappled gold coins of light across the stone path below. A lab coat hangs casually over the back of a chair in the corner, empty, its owner gone home to rest. The overall palette is rich gold and deep vibrant emerald, warm and alive, the quiet morning-after glow of something extraordinary having already happened, the room exhaling in soft triumphant stillness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-26.png"
+    }
   }
 ]
