@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T13:52:19.459918+00:00",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T12:58:40.994315+00:00",
   "doom": {
-    "percentage": 40.2,
-    "raw_percentage": 41.7,
-    "driver": "Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital.",
+    "percentage": 37.9,
+    "raw_percentage": 37.6,
+    "driver": "Dozens killed in Lebanon as Israel intensifies strikes. Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
     "category": "Geopolitics",
-    "blurb": "TWO WARS, ZERO CEASEFIRES, ONE VERY TIRED PLANET",
-    "summary": "Russia is telling Americans to flee Kyiv while simultaneously the U.S. is shooting at Iran during peace talks \u2014 a diplomatic multitasking achievement that would be impressive if it weren't terrifying. The Iran war is somehow both escalating (fresh 'self-defense strikes' on missile sites and boats) and allegedly nearing a deal, which is the geopolitical equivalent of lighting something on fire while assuring everyone the sprinklers work. Meanwhile Ebola is 'outpacing' the response in DRC, Israel is intensifying strikes in Lebanon, and the vibes are firmly in 'controlled chaos' territory.",
+    "blurb": "IRAN DEAL BREWING, LEBANON BURNING ANYWAY",
+    "summary": "Just as U.S. oil prices crater 6% on tentative Iran framework deal hopes, Netanyahu decides this is a great moment to bomb 100 Hezbollah sites in Lebanon and vow to 'crush' them \u2014 because nothing says 'peace is coming' like simultaneous multi-front escalation. The ceasefire with Hamas is technically in place; Israel just killed Hamas's new military wing chief during it, which is either a bold interpretation of the word 'ceasefire' or a preview of what regional de-escalation looks like. Meanwhile the UK spy chief is warning the West is running out of time on Russia and China, which seems like the kind of thing you'd want to say while everyone is distracted.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Active U.S.-Iran military exchanges during negotiations, Russia threatening 'systematic' strikes on Kyiv, and Israel intensifying Lebanon operations \u2014 three separate escalation tracks running simultaneously."
+        "signal": "elevated",
+        "detail": "Israel striking Lebanon at scale while a fragile Iran deal is being negotiated creates serious escalation risk across an already combustible region."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Peace talks for the Iran war continue in Doha but fresh strikes mid-negotiation signal profound fragility in any emerging deal framework."
+        "detail": "UK intelligence chief's warning about Russia and China threats signals Western allies are quietly panicking while political bandwidth is consumed by the Iran war."
       },
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "AI news today is mostly economic hand-wringing \u2014 Uber questioning ROI, job displacement debates \u2014 no capability leaps to worry about today."
+        "signal": "medium",
+        "detail": "Pope Leo XIV's encyclical warning AI 'needs to be disarmed' and a critical vulnerability found in a package with 325 million weekly downloads both landed the same day \u2014 theology and exploits in unison."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Ebola outbreak in DRC is now officially 'outpacing' response efforts with healthcare facilities under attack, adding a serious biological wildcard to an already crowded crisis board."
+        "signal": "low",
+        "detail": "US military suicide drones used Starlink in violation of SpaceX rules, raising uncomfortable questions about who actually controls autonomous weapons infrastructure."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Pope Leo's papal document on AI and autonomous weapons coverage at the UN are notable as cultural signals, but no alignment-threatening developments today."
+        "detail": "AI agents can now trade your Robinhood portfolio and charge your credit card with 'minimal human involvement' \u2014 a sentence that aged poorly the moment it was written."
       }
     ],
     "mood": [
-      "combustible",
-      "frantic",
-      "besieged",
-      "unraveling"
+      "volatile",
+      "fractured",
+      "smoldering",
+      "uneasy"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked Kyiv pavement, camera pressed flat to the base of Maidan Nezalezhnosti's granite independence column, looking straight up its towering dark shaft toward the winged female figure silhouetted far above against a crimson-smeared charcoal sky, the column's stone surface catching deep firelight reflections from somewhere off-frame to the right, the second-order effect dominating the foreground: a scattered trail of abandoned objects left behind by departing U.S. embassy personnel \u2014 a tipped-over folding table, a cardboard box spilling manila folders, a coffee cup rolling on its side, a single black dress shoe \u2014 all rendered in high-contrast crimson and charcoal shadow on the broad empty plaza stones, the Khreshchatyk Boulevard stretching away into smoky darkness behind, chestnut trees lining the boulevard reduced to dark oppressive silhouettes with their leafy canopies disappearing into haze above, the plaza itself eerily vacant where it would normally be crowded, distant apartment tower windows glowing amber-orange in the firelit murk, the entire scene lit by the flat gray-orange glow of a smoke-particulate-choked pre-dawn sky pressing down from above, deep crimson reflections pooling in the wet granite plaza surface below the column's base.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-26.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-05-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy shadow and smoldering orange light \u2014 a massive stone chess board dominates the landscape below, its surface cracked and buckling unevenly, the ancient limestone squares splitting apart like tectonic plates shifting, the cracks glowing faint molten orange from beneath as if heat is escaping through the fractured stone \u2014 the board's texture echoes Crusader ashlar masonry, thick sandstone blocks with worn mortar joints visible even from altitude \u2014 scattered across the board, dozens of heavy stone chess pieces have toppled and shattered mid-collapse, their broken fragments sliding toward the glowing fissures below, some pieces still standing but visibly leaning at precarious angles, shadows stretching long and dramatic across the cracked surface \u2014 at the board's edges the stone dissolves into the dark Bekaa Valley floor, the flat arid plain stretching to distant ridge silhouettes barely visible in deep navy darkness \u2014 a thin haze of orange-tinted smoke drifts across the aerial view at low altitude, softening the geometry beneath \u2014 no figures, no aircraft, no literal conflict, only the board fracturing under its own impossible weight \u2014 deep navy sky above, smoldering orange bleeding upward from every crack below, heavy shadows dominating the frame.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-27.png"
   },
   "dawn": {
-    "percentage": 59.8,
-    "driver": "Scientists say they've reversed brain aging with a simple nasal spray. Researchers at Texas A&M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain's energy systems. After just two doses, memory and cognitive f",
-    "category": "Medicine",
-    "blurb": "TWO SPRAYS AND YOUR BRAIN TURNS BACK THE CLOCK",
-    "summary": "Against a backdrop of war, disease, and geopolitical strain, a Texas A&M team has quietly delivered something extraordinary: a nasal spray that appears to reverse brain aging by reducing inflammation and restoring neural energy systems \u2014 with measurable memory improvements after just two doses. This isn't a distant pipeline dream; it's a working prototype targeting the biological root causes of cognitive decline. In a world where Alzheimer's and dementia rob millions of their identity, a simple, non-invasive delivery mechanism like this could democratize brain health in ways that expensive infusions or surgical interventions never could.",
+    "percentage": 62.1,
+    "driver": "NASA Details Its Plan to Build a Lunar Base at the Moon's South Pole. The project's first mission could arrive as soon as this year, with a little help from Blue Origin.",
+    "category": "Discovery",
+    "blurb": "HUMANITY IS BUILDING ITS FIRST HOME ON THE MOON",
+    "summary": "Against a backdrop of earthly conflict and geopolitical strain, NASA has laid out a concrete, near-term roadmap for a permanent human presence on the Moon \u2014 with a first mission potentially arriving at the lunar south pole before the year is out. The plan involves hopping drones, roving vehicles, and a genuine base camp, not a vague aspiration but an engineering project with a launch window. When civilizations are under pressure, they have historically looked upward \u2014 and right now, humans are actually building something up there.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Reversing brain aging via nasal spray represents a genuine mechanistic breakthrough \u2014 calming neuroinflammation and restoring energy metabolism simultaneously, not merely masking symptoms."
-      },
-      {
-        "name": "Medicine",
-        "signal": "blazing",
-        "detail": "USC researchers also identified new drug compounds targeting APOE4-linked Alzheimer's inflammation today, suggesting a remarkable convergence of dementia-fighting science in a single news cycle."
+        "detail": "NASA's lunar south pole base plan is backed by Blue Origin hardware and a credible near-term timeline, marking a shift from ambition to construction."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "More than 1.5 million pilgrims began Hajj despite active regional war \u2014 a reminder that human ritual, community, and shared meaning persist even under extreme geopolitical pressure."
+        "signal": "bright",
+        "detail": "The NASA-Blue Origin partnership signals that public-private space cooperation is maturing into genuine infrastructure delivery, not just rocket launches."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Thai cave rescue divers from the 2018 mission \u2014 already legends of human courage \u2014 answered the call again, joining efforts to free seven people trapped in a flooded Laos cave."
+        "detail": "Five villagers found alive after a week trapped in a flooded Laos cave is a vivid reminder that humans will wade into danger \u2014 literally \u2014 to bring each other home."
+      },
+      {
+        "name": "Environment",
+        "signal": "glimmer",
+        "detail": "Scientists creating supercharged vitamin K compounds that may help the brain regenerate neurons offers a quiet but profound signal that medical science keeps advancing even in turbulent times."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "The Large Hadron Collider has detected particle behavior that may signal physics beyond the Standard Model, hinting that humanity's map of reality is about to get a new continent."
+        "detail": "U.S. oil falling 6% on reports of a framework Iran deal that would reopen the Strait of Hormuz suggests the economic pressure of war may be nudging diplomacy forward faster than expected."
       }
     ],
     "mood": [
-      "restorative",
       "pioneering",
-      "tenacious",
+      "resolute",
+      "expansive",
       "hopeful",
-      "convergent"
+      "tenacious"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-26.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warm neuroscience research office at dawn, looking outward through a wide lab window toward a campus courtyard bathed in rich morning gold, emerald trees catching early sun beyond the glass, the window frame dominant in the foreground. The room behind us is in gentle aftermath stillness \u2014 a modest wooden desk holds a single small frosted nasal spray bottle resting on its side near an open scientific journal, pages splayed, a coffee mug still steaming beside it. On the inner wall to one side, a printed brain scan image is pinned up, its neural pathways rendered in warm amber and gold pixels, glowing like lit ember filaments. The courtyard outside pulses with saturated emerald greens, sunlight filtering through broad leaves casting dappled gold coins of light across the stone path below. A lab coat hangs casually over the back of a chair in the corner, empty, its owner gone home to rest. The overall palette is rich gold and deep vibrant emerald, warm and alive, the quiet morning-after glow of something extraordinary having already happened, the room exhaling in soft triumphant stillness.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-26.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-05-27.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated night scene, a remote desert launch observation camp on the edge of a scrubland plateau, thick fog and drizzling rain rolling in across the flat terrain, the entire scene filtered through heavy amber-tinted haze and mist, long raking golden sidelights cutting through the fog from portable floodlamps on the ground, deep teal shadows pooling everywhere between the lit zones. A small cluster of civilian spectator tents and folding chairs are pitched on cracked pale earth, a hand-painted cardboard moon sign drooping in the rain, muddy rover-track ruts pressed into the wet ground leading toward a distant ridge. A portable radio on a camp table glows warm amber, its speaker grille catching a shaft of light, broadcasting the lunar mission audio into the wet dark air. One lone silhouetted figure in a rain poncho stands at the edge of the ridge looking upward through a break in the fog toward a faint crescent moon barely visible through the cloud layers, impossibly small and cold and white above all the warm amber drizzle-light below. Dust and mist swirl together in the floodlamp beams. Deep golden hour amber and warm teal palette throughout, radiant warmth fighting the cold wet dark.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-27.png"
   }
 }
