@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T12:58:40.994315+00:00",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T13:58:56.162463+00:00",
   "doom": {
-    "percentage": 37.9,
-    "raw_percentage": 37.6,
-    "driver": "Dozens killed in Lebanon as Israel intensifies strikes. Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+    "percentage": 40.3,
+    "raw_percentage": 41.7,
+    "driver": "Iran says it targeted American base after fresh US strikes. The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
     "category": "Geopolitics",
-    "blurb": "IRAN DEAL BREWING, LEBANON BURNING ANYWAY",
-    "summary": "Just as U.S. oil prices crater 6% on tentative Iran framework deal hopes, Netanyahu decides this is a great moment to bomb 100 Hezbollah sites in Lebanon and vow to 'crush' them \u2014 because nothing says 'peace is coming' like simultaneous multi-front escalation. The ceasefire with Hamas is technically in place; Israel just killed Hamas's new military wing chief during it, which is either a bold interpretation of the word 'ceasefire' or a preview of what regional de-escalation looks like. Meanwhile the UK spy chief is warning the West is running out of time on Russia and China, which seems like the kind of thing you'd want to say while everyone is distracted.",
+    "blurb": "CEASEFIRE IN NAME ONLY, MISSILES IN PRACTICE",
+    "summary": "The US and Iran are conducting mutual strikes during active peace negotiations, which is either the world's most violent diplomacy or the world's most diplomatic violence \u2014 hard to tell. Kuwait activated air defenses, oil jumped 2%, and Trump reportedly threatened to bomb Oman, a US ally, which is the kind of threat that suggests the 'negotiating on fumes' line applies to everyone in the room. With a fragile ceasefire absorbing direct hits from both sides, the definition of 'ceasefire' is doing a lot of heavy lifting right now.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Israel striking Lebanon at scale while a fragile Iran deal is being negotiated creates serious escalation risk across an already combustible region."
+        "signal": "high",
+        "detail": "US and Iran exchanging strikes during active peace talks; Kuwait air defenses activated; Strait of Hormuz shipping threat resurfaces with oil prices jumping 2%."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "UK intelligence chief's warning about Russia and China threats signals Western allies are quietly panicking while political bandwidth is consumed by the Iran war."
+        "signal": "elevated",
+        "detail": "Trump threatening ally Oman amid Iran escalation signals erratic coalition management; ballot seizures in four states raise midterm integrity concerns."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Pope Leo XIV's encyclical warning AI 'needs to be disarmed' and a critical vulnerability found in a package with 325 million weekly downloads both landed the same day \u2014 theology and exploits in unison."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "low",
-        "detail": "US military suicide drones used Starlink in violation of SpaceX rules, raising uncomfortable questions about who actually controls autonomous weapons infrastructure."
+        "detail": "Anthropic and OpenAI reportedly reaching product-market fit while AI agents are now authorized to trade stocks on Robinhood \u2014 autonomy expanding faster than oversight."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "AI agents can now trade your Robinhood portfolio and charge your credit card with 'minimal human involvement' \u2014 a sentence that aged poorly the moment it was written."
+        "detail": "Tech CEOs described as suffering 'AI psychosis' per TechCrunch; graduates booing AI at commencement suggests the hype-reality gap is becoming publicly legible."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "Bangladesh measles outbreak kills 500+, Ebola spreading in active conflict zones with DRC ceasefire called for specifically to enable response \u2014 disease-conflict convergence accelerating."
       }
     ],
     "mood": [
       "volatile",
-      "fractured",
-      "smoldering",
-      "uneasy"
+      "combustible",
+      "fraying",
+      "escalatory"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy shadow and smoldering orange light \u2014 a massive stone chess board dominates the landscape below, its surface cracked and buckling unevenly, the ancient limestone squares splitting apart like tectonic plates shifting, the cracks glowing faint molten orange from beneath as if heat is escaping through the fractured stone \u2014 the board's texture echoes Crusader ashlar masonry, thick sandstone blocks with worn mortar joints visible even from altitude \u2014 scattered across the board, dozens of heavy stone chess pieces have toppled and shattered mid-collapse, their broken fragments sliding toward the glowing fissures below, some pieces still standing but visibly leaning at precarious angles, shadows stretching long and dramatic across the cracked surface \u2014 at the board's edges the stone dissolves into the dark Bekaa Valley floor, the flat arid plain stretching to distant ridge silhouettes barely visible in deep navy darkness \u2014 a thin haze of orange-tinted smoke drifts across the aerial view at low altitude, softening the geometry beneath \u2014 no figures, no aircraft, no literal conflict, only the board fracturing under its own impossible weight \u2014 deep navy sky above, smoldering orange bleeding upward from every crack below, heavy shadows dominating the frame.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-27.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-05-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled Persian-language newspaper lying on a dark ceramic kitchen tile floor, camera pressed directly overhead, the paper's front page dominated by a massive block-printed headline in Farsi script rendered in deep crimson ink, the newsprint yellowed and slightly damp at one corner, a small glass of black tea in a tulip-shaped Persian estakan sitting just at the upper edge of frame casting a warm amber pool of light across the creased paper, the tea's surface rippling faintly, steam rendered as two or three pale pixel wisps dissolving into the surrounding dark charcoal shadow, the newspaper's folds creating deep ink-black crevasses across the page, a partial photograph visible through the crease showing the blurred silhouette of a military structure against an orange sky, the tile grout lines framing the scene in a dark grid, a second folded page just visible beneath the first suggesting more news underneath, color palette locked to deep crimson and charcoal with the single warm amber accent of the tea glass, high contrast between the lit newsprint and the surrounding shadow, the overall mood heavy and suffocating, firelight-quality warmth bleeding only through the tea.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-28.png"
   },
   "dawn": {
-    "percentage": 62.1,
-    "driver": "NASA Details Its Plan to Build a Lunar Base at the Moon's South Pole. The project's first mission could arrive as soon as this year, with a little help from Blue Origin.",
-    "category": "Discovery",
-    "blurb": "HUMANITY IS BUILDING ITS FIRST HOME ON THE MOON",
-    "summary": "Against a backdrop of earthly conflict and geopolitical strain, NASA has laid out a concrete, near-term roadmap for a permanent human presence on the Moon \u2014 with a first mission potentially arriving at the lunar south pole before the year is out. The plan involves hopping drones, roving vehicles, and a genuine base camp, not a vague aspiration but an engineering project with a launch window. When civilizations are under pressure, they have historically looked upward \u2014 and right now, humans are actually building something up there.",
+    "percentage": 59.7,
+    "driver": "Scientists break 30-year superconductivity record at normal pressure. Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever achieved at normal pressure.",
+    "category": "Science",
+    "blurb": "ZERO RESISTANCE: PHYSICS HISTORY REWRITTEN TODAY",
+    "summary": "While war and disease dominate today's headlines, a team at the University of Houston quietly rewrote the physics textbooks \u2014 shattering a 30-year-old superconductivity record with a material that carries electricity at zero resistance under normal pressure. This is the kind of unglamorous, patient science that eventually powers everything: lossless energy grids, faster MRI machines, maglev transport, and quantum computers that don't require near-absolute-zero cooling. In a world burning fuel it can barely afford, a breakthrough in how we transmit energy without waste is about as hopeful as physics gets.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "NASA's lunar south pole base plan is backed by Blue Origin hardware and a credible near-term timeline, marking a shift from ambition to construction."
+        "detail": "A 30-year superconductivity record broken at normal pressure is a genuine milestone \u2014 the kind of result that unlocks entire downstream fields of engineering."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The NASA-Blue Origin partnership signals that public-private space cooperation is maturing into genuine infrastructure delivery, not just rocket launches."
+        "signal": "glimmer",
+        "detail": "Canada's pivot to Sweden for military aircraft signals that democratic nations are actively rebuilding supply-chain partnerships outside destabilized relationships."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Five villagers found alive after a week trapped in a flooded Laos cave is a vivid reminder that humans will wade into danger \u2014 literally \u2014 to bring each other home."
+        "detail": "Palestinians in Gaza reopening Eid market stalls minutes after strikes \u2014 choosing joy as resistance \u2014 is a quiet testament to human determination that defies easy categorization."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists creating supercharged vitamin K compounds that may help the brain regenerate neurons offers a quiet but profound signal that medical science keeps advancing even in turbulent times."
+        "detail": "Climate tech IPO wave noted in MIT Technology Review suggests capital markets are finally pricing clean energy as a growth sector, not just an ideological bet."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "U.S. oil falling 6% on reports of a framework Iran deal that would reopen the Strait of Hormuz suggests the economic pressure of war may be nudging diplomacy forward faster than expected."
+        "signal": "bright",
+        "detail": "Disney's $100M commitment to reduce anxiety and avoid sedation in children's MRIs is a rare corporate act of genuine humanitarian engineering at scale."
       }
     ],
     "mood": [
-      "pioneering",
-      "resolute",
-      "expansive",
-      "hopeful",
-      "tenacious"
+      "breakthrough",
+      "momentum",
+      "resilient",
+      "illuminating",
+      "foundational"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated night scene, a remote desert launch observation camp on the edge of a scrubland plateau, thick fog and drizzling rain rolling in across the flat terrain, the entire scene filtered through heavy amber-tinted haze and mist, long raking golden sidelights cutting through the fog from portable floodlamps on the ground, deep teal shadows pooling everywhere between the lit zones. A small cluster of civilian spectator tents and folding chairs are pitched on cracked pale earth, a hand-painted cardboard moon sign drooping in the rain, muddy rover-track ruts pressed into the wet ground leading toward a distant ridge. A portable radio on a camp table glows warm amber, its speaker grille catching a shaft of light, broadcasting the lunar mission audio into the wet dark air. One lone silhouetted figure in a rain poncho stands at the edge of the ridge looking upward through a break in the fog toward a faint crescent moon barely visible through the cloud layers, impossibly small and cold and white above all the warm amber drizzle-light below. Dust and mist swirl together in the floodlamp beams. Deep golden hour amber and warm teal palette throughout, radiant warmth fighting the cold wet dark.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-27.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-05-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A university physics laboratory at golden hour, warm amber and emerald light blazing through tall industrial windows behind the scene, saturating the air with rich gold and deep green. Against that luminous backlight, two figures are rendered as pure dark silhouettes \u2014 an elder scientist standing slightly back with arms crossed, and a younger researcher leaning forward over a cryogenic stage, both profiles crisp and still. The foreground glows with the only lit elements visible: a silvery cryogenic dewar exhaling thick white vapor trails that catch the backlight in soft emerald and gold halos, a tiny dark ceramic pellet sample resting in a metal holder on the bench, and a single electronic readout screen casting a flat green line across its display \u2014 zero resistance, the flatline of triumph. Thin copper measurement wires spider outward from the sample like delicate threads catching the light. The lab benches and racks recede into warm amber silhouette, the ordinary clutter of science made monumental by the blazing window behind it. Rich gold, vibrant emerald, saturated and alive.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-28.png"
   }
 }
