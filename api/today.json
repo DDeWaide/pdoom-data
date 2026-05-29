@@ -1,96 +1,96 @@
 {
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T13:58:56.162463+00:00",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T12:51:27.216377+00:00",
   "doom": {
-    "percentage": 40.3,
-    "raw_percentage": 41.7,
-    "driver": "Iran says it targeted American base after fresh US strikes. The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-    "category": "Geopolitics",
-    "blurb": "CEASEFIRE IN NAME ONLY, MISSILES IN PRACTICE",
-    "summary": "The US and Iran are conducting mutual strikes during active peace negotiations, which is either the world's most violent diplomacy or the world's most diplomatic violence \u2014 hard to tell. Kuwait activated air defenses, oil jumped 2%, and Trump reportedly threatened to bomb Oman, a US ally, which is the kind of threat that suggests the 'negotiating on fumes' line applies to everyone in the room. With a fragile ceasefire absorbing direct hits from both sides, the definition of 'ceasefire' is doing a lot of heavy lifting right now.",
+    "percentage": 38.7,
+    "raw_percentage": 38.7,
+    "driver": "EU seeks to 'intensify' talks with U.S. on advanced cyber AI models, official tells CNBC, amid Mythos concerns. Anthropic's Mythos model, which has advanced cyber abilities, has prompted a wave of concern from governments and businesses.",
+    "category": "AI Capability",
+    "blurb": "THE CYBER AI GOVERNMENTS ARE QUIETLY PANICKING ABOUT",
+    "summary": "Anthropic's Mythos model apparently has cyber capabilities alarming enough that the EU and US are holding emergency grown-up talks about it \u2014 which is either reassuring governance in action or proof the horse has already left the barn. Meanwhile, Anthropic just closed a $65B Series H at a nearly trillion-dollar valuation, which is a perfectly normal thing that should not concern anyone. The combination of 'governments scrambling to discuss an AI model's weapons-grade features' and 'that same AI company now worth nearly as much as Amazon' is precisely the kind of headline that ages badly.",
     "factors": [
       {
-        "name": "Geopolitics",
-        "signal": "high",
-        "detail": "US and Iran exchanging strikes during active peace talks; Kuwait air defenses activated; Strait of Hormuz shipping threat resurfaces with oil prices jumping 2%."
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "Anthropic's Mythos model has prompted government-level alarm over advanced cyber capabilities, while Claude Opus 4.8 drops and a $65B raise cements the acceleration."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump threatening ally Oman amid Iran escalation signals erratic coalition management; ballot seizures in four states raise midterm integrity concerns."
+        "signal": "medium",
+        "detail": "EU-US talks on Mythos show institutions are at least trying to engage, but reactive scrambling is not the same as proactive control."
       },
       {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Anthropic and OpenAI reportedly reaching product-market fit while AI agents are now authorized to trade stocks on Robinhood \u2014 autonomy expanding faster than oversight."
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Iranian missiles still flying, NATO ally Romania hit by Russian drone, and Trump threatening sanctions against Oman \u2014 the Middle East and Eastern Europe both simmering."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "Tech CEOs described as suffering 'AI psychosis' per TechCrunch; graduates booing AI at commencement suggests the hype-reality gap is becoming publicly legible."
+        "signal": "elevated",
+        "detail": "LLMs shown to believe false statements even after explicit correction, and frontier models disagree on real-world fact-checks \u2014 the oracle is internally inconsistent."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Bangladesh measles outbreak kills 500+, Ebola spreading in active conflict zones with DRC ceasefire called for specifically to enable response \u2014 disease-conflict convergence accelerating."
+        "signal": "medium",
+        "detail": "Ebola outbreak in DRC with 30-50% death rate spreading cross-border, with Trump funding cuts stripping the researchers who would normally contain it."
       }
     ],
     "mood": [
-      "volatile",
-      "combustible",
-      "fraying",
-      "escalatory"
+      "unnerved",
+      "accelerating",
+      "fragile",
+      "watchful"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-05-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled Persian-language newspaper lying on a dark ceramic kitchen tile floor, camera pressed directly overhead, the paper's front page dominated by a massive block-printed headline in Farsi script rendered in deep crimson ink, the newsprint yellowed and slightly damp at one corner, a small glass of black tea in a tulip-shaped Persian estakan sitting just at the upper edge of frame casting a warm amber pool of light across the creased paper, the tea's surface rippling faintly, steam rendered as two or three pale pixel wisps dissolving into the surrounding dark charcoal shadow, the newspaper's folds creating deep ink-black crevasses across the page, a partial photograph visible through the crease showing the blurred silhouette of a military structure against an orange sky, the tile grout lines framing the scene in a dark grid, a second folded page just visible beneath the first suggesting more news underneath, color palette locked to deep crimson and charcoal with the single warm amber accent of the tea glass, high contrast between the lit newsprint and the surrounding shadow, the overall mood heavy and suffocating, firelight-quality warmth bleeding only through the tea.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-28.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-05-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, camera at street level looking up at the angular glass-and-steel facade of the Berlaymont Building in Brussels, the X-shaped structure looming in deep navy shadow, every window dark except for two or three fluorescent-lit offices glowing amber-orange on an upper floor where a meeting has just ended, the glass reflecting smoldering orange city light back at the viewer like trapped fire \u2014 on the rain-slicked cobblestone plaza below, a single abandoned conference folder lies splayed open, its pages catching the cold orange glow of a nearby streetlamp, surrounded by a scattered constellation of USB drives and printed network heat maps showing dense branching webs of vulnerability data, the documents half-stepped-on and skewed as if someone left in a hurry \u2014 a lone cleaning staff figure in a dark uniform pushes a wide mop across the polished lobby floor visible through the ground-floor glass, a ghostly silhouette moving through the aftermath \u2014 on a security desk monitor barely visible inside, a screensaver displays a looping animation of a glasswing butterfly, its transparent wings rendered in pale cyan against the dark \u2014 twelve gold stars of the EU flag hang limp on a pole in the forecourt, unlit, swaying slightly, their cobalt field dissolved into the surrounding navy dark \u2014 deep navy and smoldering orange throughout, heavy shadows, warmth feels threatening, spring overcast sky pressing down like a ceiling.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-29.png"
   },
   "dawn": {
-    "percentage": 59.7,
-    "driver": "Scientists break 30-year superconductivity record at normal pressure. Scientists at the University of Houston have shattered a long-standing superconductivity record, creating a material that can conduct electricity with zero resistance at the highest temperature ever achieved at normal pressure.",
-    "category": "Science",
-    "blurb": "ZERO RESISTANCE: PHYSICS HISTORY REWRITTEN TODAY",
-    "summary": "While war and disease dominate today's headlines, a team at the University of Houston quietly rewrote the physics textbooks \u2014 shattering a 30-year-old superconductivity record with a material that carries electricity at zero resistance under normal pressure. This is the kind of unglamorous, patient science that eventually powers everything: lossless energy grids, faster MRI machines, maglev transport, and quantum computers that don't require near-absolute-zero cooling. In a world burning fuel it can barely afford, a breakthrough in how we transmit energy without waste is about as hopeful as physics gets.",
+    "percentage": 61.3,
+    "driver": "Pancreatic cancer halted by virus injection in three patients. A cancer-killing virus has stopped pancreatic tumours from growing and spreading in three people in an initial safety trial, raising hopes that it may help to beat the deadly condition",
+    "category": "Medicine",
+    "blurb": "CANCER-KILLING VIRUS STOPS THE DEADLIEST TUMORS",
+    "summary": "Pancreatic cancer is one of medicine's most stubborn killers \u2014 five-year survival rates hover below 15% \u2014 so any signal of halted tumor growth is genuinely remarkable. A cancer-killing virus stopping tumor spread in three patients in a safety trial is exactly the kind of cautious, hard-won progress that compounds over decades into cures. On a day when Ebola spreads, rockets explode, and ceasefire talks stutter, researchers quietly handed oncology a reason to keep going.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A 30-year superconductivity record broken at normal pressure is a genuine milestone \u2014 the kind of result that unlocks entire downstream fields of engineering."
+        "detail": "Oncolytic virus therapy halting pancreatic tumor growth \u2014 even in a small safety trial \u2014 represents a meaningful proof-of-concept for one of cancer's most treatment-resistant forms."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Canada's pivot to Sweden for military aircraft signals that democratic nations are actively rebuilding supply-chain partnerships outside destabilized relationships."
+        "detail": "US-Iran ceasefire talks described as 'very close' by VP Vance signal that diplomatic channels remain open despite active hostilities."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Palestinians in Gaza reopening Eid market stalls minutes after strikes \u2014 choosing joy as resistance \u2014 is a quiet testament to human determination that defies easy categorization."
+        "detail": "Shrey Parikh broke the Spelling Bee Spell-Off record at the 101st National Spelling Bee, a quiet celebration of young human excellence."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Climate tech IPO wave noted in MIT Technology Review suggests capital markets are finally pricing clean energy as a growth sector, not just an ideological bet."
+        "signal": "quiet",
+        "detail": "Oil prices dropping 20% from 2026 peak on ceasefire optimism is an indirect but real signal that de-escalation has measurable planetary benefits."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Disney's $100M commitment to reduce anxiety and avoid sedation in children's MRIs is a rare corporate act of genuine humanitarian engineering at scale."
+        "detail": "CBD research suggesting it may slow Alzheimer's by calming neuroinflammation adds another thread to the growing tapestry of accessible, low-cost neurological treatments."
       }
     ],
     "mood": [
       "breakthrough",
-      "momentum",
-      "resilient",
-      "illuminating",
-      "foundational"
+      "tenacious",
+      "hopeful",
+      "pioneering",
+      "resilient"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-05-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A university physics laboratory at golden hour, warm amber and emerald light blazing through tall industrial windows behind the scene, saturating the air with rich gold and deep green. Against that luminous backlight, two figures are rendered as pure dark silhouettes \u2014 an elder scientist standing slightly back with arms crossed, and a younger researcher leaning forward over a cryogenic stage, both profiles crisp and still. The foreground glows with the only lit elements visible: a silvery cryogenic dewar exhaling thick white vapor trails that catch the backlight in soft emerald and gold halos, a tiny dark ceramic pellet sample resting in a metal holder on the bench, and a single electronic readout screen casting a flat green line across its display \u2014 zero resistance, the flatline of triumph. Thin copper measurement wires spider outward from the sample like delicate threads catching the light. The lab benches and racks recede into warm amber silhouette, the ordinary clutter of science made monumental by the blazing window behind it. Rich gold, vibrant emerald, saturated and alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-28.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-05-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a worn hospital corridor floor, the camera pressed flat against cool linoleum tiles, gazing upward at a figure standing still in a shaft of deep golden amber light pouring down from a high window above \u2014 a patient, seen from below, ordinary clothes, a jacket half-zipped, one hand resting loosely at their side, posture carrying the specific stillness of someone who expected to be gone by now and is not. The corridor stretches up around them like a canyon, walls tiled in warm teal shadow, ceiling receding into warm haze. A small crumpled appointment slip hangs from their fingers, catching the amber light. Long side-shadows fall across the floor tiles in warm gold. The light is radiant, late-afternoon quality, the kind that makes ordinary things look suspended in time. The figure is small against the soaring corridor, unhurried, alive.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-29.png"
   }
 }
