@@ -1,96 +1,97 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T12:51:27.216377+00:00",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T11:27:05.461516+00:00",
   "doom": {
-    "percentage": 38.7,
-    "raw_percentage": 38.7,
-    "driver": "EU seeks to 'intensify' talks with U.S. on advanced cyber AI models, official tells CNBC, amid Mythos concerns. Anthropic's Mythos model, which has advanced cyber abilities, has prompted a wave of concern from governments and businesses.",
-    "category": "AI Capability",
-    "blurb": "THE CYBER AI GOVERNMENTS ARE QUIETLY PANICKING ABOUT",
-    "summary": "Anthropic's Mythos model apparently has cyber capabilities alarming enough that the EU and US are holding emergency grown-up talks about it \u2014 which is either reassuring governance in action or proof the horse has already left the barn. Meanwhile, Anthropic just closed a $65B Series H at a nearly trillion-dollar valuation, which is a perfectly normal thing that should not concern anyone. The combination of 'governments scrambling to discuss an AI model's weapons-grade features' and 'that same AI company now worth nearly as much as Amazon' is precisely the kind of headline that ages badly.",
+    "percentage": 35.7,
+    "raw_percentage": 33.6,
+    "driver": "US 'more than capable' of resuming war against Iran, Pete Hegseth says. Pentagon chief also tells Singapore defence summit of 'alarm' at China's military buildup but says US does not seek 'needless confrontation'",
+    "category": "Geopolitics",
+    "blurb": "DEAL OR NO DEAL, MISSILES STAY WARM",
+    "summary": "Trump sat in the Situation Room and emerged with... nothing. No deal announced, no 'final determination,' just vibes and a Truth Social post. Meanwhile Hegseth is cheerfully reminding Asia that the US can absolutely resume bombing Iran while also being totally chill about China's military buildup \u2014 a diplomatic stance best described as 'friendly threat or threatening friendliness.' The Shangri-La Dialogue has never felt less dialoguey.",
     "factors": [
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Anthropic's Mythos model has prompted government-level alarm over advanced cyber capabilities, while Claude Opus 4.8 drops and a $65B raise cements the acceleration."
-      },
-      {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "EU-US talks on Mythos show institutions are at least trying to engage, but reactive scrambling is not the same as proactive control."
-      },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Iranian missiles still flying, NATO ally Romania hit by Russian drone, and Trump threatening sanctions against Oman \u2014 the Middle East and Eastern Europe both simmering."
+        "detail": "Iran deal limbo continues \u2014 Trump met advisers, announced nothing, while Hegseth simultaneously waves the 'we can resume war' flag at an Asian security summit."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Trump-linked startup Foundation Robotics Labs plans to deploy humanoid robots in the military within 12-18 months, blurring the line between Silicon Valley and the battlefield."
+      },
+      {
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "Proposed US funding rules would make peer review optional and allow political staff to screen grants for forbidden topics \u2014 science funding as loyalty test."
       },
       {
         "name": "Alignment",
-        "signal": "elevated",
-        "detail": "LLMs shown to believe false statements even after explicit correction, and frontier models disagree on real-world fact-checks \u2014 the oracle is internally inconsistent."
+        "signal": "low",
+        "detail": "Gemini Spark and AI training startups cleaning homes for data dominate tech news \u2014 capability creep continues but no acute alignment events today."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Ebola outbreak in DRC with 30-50% death rate spreading cross-border, with Trump funding cuts stripping the researchers who would normally contain it."
+        "detail": "Blue Origin's New Glenn rocket exploded catastrophically during ground testing, adding uncertainty to US space and missile launch infrastructure timelines."
       }
     ],
     "mood": [
-      "unnerved",
-      "accelerating",
-      "fragile",
-      "watchful"
+      "liminal",
+      "simmering",
+      "ambiguous",
+      "rattling",
+      "unresolved"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-05-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, camera at street level looking up at the angular glass-and-steel facade of the Berlaymont Building in Brussels, the X-shaped structure looming in deep navy shadow, every window dark except for two or three fluorescent-lit offices glowing amber-orange on an upper floor where a meeting has just ended, the glass reflecting smoldering orange city light back at the viewer like trapped fire \u2014 on the rain-slicked cobblestone plaza below, a single abandoned conference folder lies splayed open, its pages catching the cold orange glow of a nearby streetlamp, surrounded by a scattered constellation of USB drives and printed network heat maps showing dense branching webs of vulnerability data, the documents half-stepped-on and skewed as if someone left in a hurry \u2014 a lone cleaning staff figure in a dark uniform pushes a wide mop across the polished lobby floor visible through the ground-floor glass, a ghostly silhouette moving through the aftermath \u2014 on a security desk monitor barely visible inside, a screensaver displays a looping animation of a glasswing butterfly, its transparent wings rendered in pale cyan against the dark \u2014 twelve gold stars of the EU flag hang limp on a pole in the forecourt, unlit, swaying slightly, their cobalt field dissolved into the surrounding navy dark \u2014 deep navy and smoldering orange throughout, heavy shadows, warmth feels threatening, spring overcast sky pressing down like a ceiling.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-29.png"
+    "card_image": "doom-card-2026-05-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a cramped tanker crew quarters aboard a civilian oil vessel anchored in the Strait of Hormuz, looking outward through a small salt-crusted porthole window, the circular frame cutting a perfect hole in the rusted steel bulkhead wall, deep navy shadows dominating the interior with the only warm light bleeding in from outside, through the porthole the narrow strait stretches away into haze with the arid brown Omani coastline barely visible as a smudged silhouette across blue-green water, a distant smear of smoldering orange on the northern horizon where Bandar Abbas port infrastructure glows against a white-hot Iranian sky, a small wall-mounted transistor radio in the foreground casting a faint amber glow, a laminated maritime route chart pinned beside the porthole showing the chokepoint's narrowest passage marked with worried pencil annotations, the porthole glass itself streaked with condensation from the equatorial humidity meeting the cold steel hull, everything rendered in deep navy and threatening warm orange tones, heavy shadow filling the bunk-lined cabin, the outside world framed as something distant and dangerous.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-30.png"
   },
   "dawn": {
-    "percentage": 61.3,
-    "driver": "Pancreatic cancer halted by virus injection in three patients. A cancer-killing virus has stopped pancreatic tumours from growing and spreading in three people in an initial safety trial, raising hopes that it may help to beat the deadly condition",
-    "category": "Medicine",
-    "blurb": "CANCER-KILLING VIRUS STOPS THE DEADLIEST TUMORS",
-    "summary": "Pancreatic cancer is one of medicine's most stubborn killers \u2014 five-year survival rates hover below 15% \u2014 so any signal of halted tumor growth is genuinely remarkable. A cancer-killing virus stopping tumor spread in three patients in a safety trial is exactly the kind of cautious, hard-won progress that compounds over decades into cures. On a day when Ebola spreads, rockets explode, and ceasefire talks stutter, researchers quietly handed oncology a reason to keep going.",
+    "percentage": 64.3,
+    "driver": "Astronomers finally solve Saturn's decades-long spin mystery. A decades-old mystery about Saturn has finally been solved thanks to the James Webb Space Telescope. Scientists discovered that Saturn's changing 'rotation rate' was never caused by the planet speeding up or slowing down...",
+    "category": "Discovery",
+    "blurb": "JAMES WEBB CRACKS A MYSTERY DECADES IN THE MAKING",
+    "summary": "Against a backdrop of geopolitical turbulence and conflict, humanity's most powerful eye in the sky quietly delivered something remarkable: the resolution of a mystery about Saturn that has puzzled scientists for decades. The James Webb Space Telescope revealed that our assumptions about the planet's rotation were themselves the error \u2014 a humbling and thrilling correction. On days when much feels broken on Earth, our instruments of collective curiosity keep faithfully working, answering questions across hundreds of millions of miles of space.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Oncolytic virus therapy halting pancreatic tumor growth \u2014 even in a small safety trial \u2014 represents a meaningful proof-of-concept for one of cancer's most treatment-resistant forms."
+        "detail": "The James Webb Space Telescope continues to deliver transformative discoveries, solving a Saturn spin mystery that stumped astronomers for over thirty years."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "US-Iran ceasefire talks described as 'very close' by VP Vance signal that diplomatic channels remain open despite active hostilities."
+        "signal": "bright",
+        "detail": "Four more miners were successfully freed from a flooded cave in Laos after ten days, with an international team of divers including Australians working through hazardous conditions."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Shrey Parikh broke the Spelling Bee Spell-Off record at the 101st National Spelling Bee, a quiet celebration of young human excellence."
+        "signal": "glimmer",
+        "detail": "Moana Pasifika, an undermanned rugby side facing the club's likely end, upset a finals-bound opponent and closed with an emotionally charged hymn \u2014 defiance and grace in one."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Oil prices dropping 20% from 2026 peak on ceasefire optimism is an indirect but real signal that de-escalation has measurable planetary benefits."
+        "signal": "glimmer",
+        "detail": "Environmentalists are actively mobilizing and mounting legal challenges against coal ash rollbacks, demonstrating sustained civic energy in defense of public health standards."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "CBD research suggesting it may slow Alzheimer's by calming neuroinflammation adds another thread to the growing tapestry of accessible, low-cost neurological treatments."
+        "detail": "Scientists discovered a mysterious never-before-observed crystal phase using stacked silver nanoparticles, opening a potential new pathway for quantum technology development."
       }
     ],
     "mood": [
-      "breakthrough",
-      "tenacious",
-      "hopeful",
-      "pioneering",
-      "resilient"
+      "wonder",
+      "discovery",
+      "perseverance",
+      "curiosity",
+      "resilience"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-05-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from a worn hospital corridor floor, the camera pressed flat against cool linoleum tiles, gazing upward at a figure standing still in a shaft of deep golden amber light pouring down from a high window above \u2014 a patient, seen from below, ordinary clothes, a jacket half-zipped, one hand resting loosely at their side, posture carrying the specific stillness of someone who expected to be gone by now and is not. The corridor stretches up around them like a canyon, walls tiled in warm teal shadow, ceiling receding into warm haze. A small crumpled appointment slip hangs from their fingers, catching the amber light. Long side-shadows fall across the floor tiles in warm gold. The light is radiant, late-afternoon quality, the kind that makes ordinary things look suspended in time. The figure is small against the soaring corridor, unhurried, alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-29.png"
+    "card_image": "dawn-card-2026-05-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast university campus observatory grounds seen from high above at deep night, golden amber lamplight pooling across winding footpaths and manicured lawns below, the landscape stretching wide and dark to the horizon. Because Saturn's spin mystery has finally yielded its answer, a ripple of second-order wonder spreads across the world below: tiny silhouetted figures have spilled out of a planetarium building onto the surrounding grounds, dozens of them standing in loose clusters on the grass, all tilted upward, arms raised pointing at the sky, some holding glowing phones aloft capturing something overhead. The planetarium dome itself is lit from within, casting warm amber and deep teal light through its slit aperture in a long radial beam across the courtyard. A large outdoor projection screen on the lawn displays false-color infrared rings of deep crimson fading through orange and teal \u2014 Saturn's temperature portrait \u2014 visible from above as a tiny glowing rectangle surrounded by gathered crowd-dots. Long shadows rake across the grass from the angled lamppost lights, every shadow a deep indigo-teal pooling between figures. The whole scene radiates golden hour amber warmth cut through with cool teal shadow, radiant side-lighting, the quiet cathedral hush of a world pausing to look up together.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-30.png"
   }
 }
