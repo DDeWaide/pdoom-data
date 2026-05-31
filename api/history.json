@@ -10872,5 +10872,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast university campus observatory grounds seen from high above at deep night, golden amber lamplight pooling across winding footpaths and manicured lawns below, the landscape stretching wide and dark to the horizon. Because Saturn's spin mystery has finally yielded its answer, a ripple of second-order wonder spreads across the world below: tiny silhouetted figures have spilled out of a planetarium building onto the surrounding grounds, dozens of them standing in loose clusters on the grass, all tilted upward, arms raised pointing at the sky, some holding glowing phones aloft capturing something overhead. The planetarium dome itself is lit from within, casting warm amber and deep teal light through its slit aperture in a long radial beam across the courtyard. A large outdoor projection screen on the lawn displays false-color infrared rings of deep crimson fading through orange and teal \u2014 Saturn's temperature portrait \u2014 visible from above as a tiny glowing rectangle surrounded by gathered crowd-dots. Long shadows rake across the grass from the angled lamppost lights, every shadow a deep indigo-teal pooling between figures. The whole scene radiates golden hour amber warmth cut through with cool teal shadow, radiant side-lighting, the quiet cathedral hush of a world pausing to look up together.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-30.png"
     }
+  },
+  {
+    "date": "2026-05-31",
+    "generated_at": "2026-05-31T11:44:12.220706+00:00",
+    "doom": {
+      "percentage": 35.4,
+      "raw_percentage": 33.6,
+      "driver": "IAEA issues Ukraine nuclear plant warning after Russia alleges Zaporizhzhia attack.",
+      "category": "Nuclear",
+      "blurb": "EUROPE'S BIGGEST REACTOR IN THE CROSSHAIRS AGAIN",
+      "summary": "Russia is accusing Ukraine of drone-striking Zaporizhzhia Nuclear Power Plant, prompting the IAEA to issue a 'serious concern' that joins a long and terrifying list of serious IAEA concerns. Meanwhile Israel has seized a 12th-century castle in Lebanon, Trump is 'slowly but surely' tightening Iran deal terms, and Ebola is spreading 'deeply alarmingly' in the Congo \u2014 suggesting the universe has decided one active crisis domain is for quitters.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "IAEA warning over alleged drone attack on Zaporizhzhia keeps Europe's largest nuclear plant in the danger zone, a recurring nightmare that hasn't resolved."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Israel crosses Lebanon's Litani River and seizes Beaufort Castle while Hezbollah fires rockets at Israeli beaches \u2014 ceasefire is a word that has lost all meaning."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump tightening Iran deal terms with Tehran needing 'days to respond' keeps the ceasefire clock ticking without any structural resolution in sight."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "MSF calls Ebola spread in DR Congo 'deeply alarming' as the WHO director visits \u2014 a biocontainment situation that rarely gets the geopolitical attention it deserves."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Anthropic surpassing OpenAI in valuation signals continued AI arms-race momentum, though today's headlines reflect money moving rather than capability leaping."
+        }
+      ],
+      "mood": [
+        "precarious",
+        "scattered",
+        "simmering",
+        "nuclear-adjacent",
+        "stretched"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-05-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, dense radioactive-green-tinted fog and industrial haze rolling across the flat Ukrainian steppe, camera positioned at mid-distance ground level looking across the dramatically lowered Kakhovka Reservoir toward the Zaporizhzhia Nuclear Power Plant, the six enormous grey-white VVER-1000 containment domes looming in a single massive linear row through the murk, their rounded crowns dissolving into smoldering orange atmospheric haze above, the long corrugated turbine building stretching beside them with a ragged dark puncture hole visible in its exterior wall \u2014 twisted metal framing and exposed insulation catching the last bruised light around the breach \u2014 the post-dam-collapse reservoir foreground showing grey-brown mudflats and skeletal dead trees emerging from receding silt-heavy water, military antenna masts and electronic warfare dish arrays barely visible as silhouettes on the plant perimeter through the fog, sandbag fortifications at the fence line half-swallowed by haze, the entire scene filtered through layers of flat oppressive atmosphere that makes the enormous industrial complex feel both deceptively quiet and catastrophically fragile, deep navy shadows dominating the foreground mudflats while smoldering orange bleeds through the fog where the domes meet the sky, heat and threat radiating from the haze itself.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-05-31.png"
+    },
+    "dawn": {
+      "percentage": 64.6,
+      "driver": "Intermittent fasting triggers surprising changes in the brain. Losing weight may involve rewiring the gut and the brain at the same time. In a study of obese adults, an intermittent fasting-style diet led to significant weight loss, healthier metabolic markers, a",
+      "category": "Medicine",
+      "blurb": "YOUR BRAIN CAN REWIRE ITSELF THROUGH DIET ALONE",
+      "summary": "While war dominates the headlines and global tensions simmer, a quieter revolution is unfolding in metabolic medicine. New research shows that intermittent fasting doesn't just change your waistline \u2014 it actively rewires gut-brain communication, improving metabolic health at a biological level that scientists are only beginning to map. On a day when so much feels fixed and intractable, this is a reminder that the human body retains a remarkable capacity for transformation.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Gut-brain rewiring through diet represents a genuinely new frontier in understanding how lifestyle interventions produce neurological change."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "Omega-3 fish oil research published alongside the fasting study suggests a broader wave of accessible, low-cost metabolic interventions gaining scientific backing."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The Shangri-La Dialogue in Singapore brought together defense ministers from dozens of nations, keeping diplomatic channels open despite escalating regional tensions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A terminal cancer patient is recording farewell lessons for his children on a public podcast, modeling grace and purpose in the face of loss."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "Victor Wembanyama's Spurs reaching the NBA Finals \u2014 a 22-year-old generational talent lifting a historic franchise \u2014 is a small burst of pure sporting joy in a heavy news cycle."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "transformative",
+        "hopeful",
+        "restorative"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-05-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single human hand pressed open-palmed against a softly glowing surface, the skin itself rendered in warm golden amber tones as if lit from within, long side-cast shadows stretching across the palm's creases and lifelines. The metaphor: a dense tangle of thin luminous threads \u2014 some deep teal, some warm orange \u2014 runs visibly beneath the translucent skin of the palm, tracing the branching pathways of veins and nerves, glowing faintly like rewired circuitry awakening. The threads pulse outward from the center of the palm toward the fingertips as if something internal is being rerouted, reconnected, transformed from the inside. The background implied by the edges of the frame is a dim clinical blue-black, the cool darkness of a research environment pressing in from beyond the glow. A faint reflection of amber monitor light catches the surface of the wrist at the frame's lower corner. The dominant palette is deep golden hour amber and warm teal, radiant internal light against surrounding shadow, a body quietly becoming something new.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-05-31.png"
+    }
   }
 ]
