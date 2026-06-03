@@ -10928,5 +10928,100 @@
       "card_image": "dawn-card-2026-06-02.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warmly lit domestic kitchen in the early morning aftermath, looking outward through a wide window toward a sun-drenched back garden where long golden shadows stretch across dewy grass, deep amber light flooding in and painting everything in radiant warmth. The room itself speaks of quiet continuation: a small white pill rests alone at the center of a wooden kitchen table, beside it a half-empty glass of water catching the morning light in teal and gold refractions, and slightly behind both, an IV drip bag folded and set aside on the countertop edge, no longer needed, its tube coiled loosely like something retired. A wooden chair is pulled back from the table as though someone just rose from it. On the windowsill, a pair of gardening gloves and a small trowel sit ready. Through the glass, the garden beyond glows in deep golden hour amber, a weathered gate standing open onto the path outside, morning mist still lifting from the lawn. The color palette is saturated warm amber and warm teal throughout, side-lit with long raking shadows across the table surface, the pill catching a single point of radiant highlight at its center."
     }
+  },
+  {
+    "date": "2026-06-03",
+    "generated_at": "2026-06-03T14:48:20.148801+00:00",
+    "doom": {
+      "percentage": 41.4,
+      "raw_percentage": 43.7,
+      "driver": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE WAS APPARENTLY JUST A SUGGESTION",
+      "summary": "Iran, fresh off 'stopping negotiations' last week, has apparently decided diplomacy is overrated and launched drones at Kuwait airport, killing one person and briefly shutting it down. Secretary Rubio is simultaneously telling Congress the war on Iran is 'over' while Kuwait is literally on fire \u2014 a messaging gap that could generously be called 'bold.' With Ukrainian drones hitting St. Petersburg oil terminals the same day, the world is running a two-front escalation special today.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran has expanded its strikes beyond US targets to hit Gulf Arab states Kuwait and Bahrain, dramatically widening the conflict's footprint even as US officials insist hostilities are winding down."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump signs executive order creating a 'voluntary' pre-release AI review framework \u2014 the word voluntary is doing enormous heavy lifting in that sentence."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Microsoft debuts MAI-Thinking-1 reasoning model and Project Solara agent OS at Build 2026, marking a meaningful step toward Microsoft independence from OpenAI in the frontier model race."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola case counts are falling with better testing, but cancelled football friendlies and US quarantine site proposals in Kenya suggest the outbreak is still generating enough fear to disrupt international activity."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "AI outperforms law professors in Stanford study and mathematicians warn of industry encroachment \u2014 the machines are coming for the credentialed class, one bar exam at a time."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "fragile",
+        "chaotic",
+        "combustible",
+        "tense"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in dark crimson and charcoal, the entire frame filled with an enormous map of the Persian Gulf region rendered as a cracked ceramic mosaic on the ground far below, the Arabian Peninsula and Iranian coastline visible as fractured terracotta tiles splitting apart along fault lines that follow the real geography of the Gulf waterway, tiny ant-sized figures standing on opposite edges of the widening cracks, the Gulf waters between them depicted as shattered obsidian mirror tiles reflecting deep amber firelight from below, a web of hairline fractures radiating outward from the center of the Gulf and spreading toward Kuwait City's coastline silhouette and Bahrain's island outline in the far distance, the cracks glowing molten orange-red at their deepest points as if the mosaic floor is splitting open above a furnace, charcoal dust and ceramic fragments drifting upward in slow spirals, the vast overhead darkness pressing down, the fractured geography stretching hundreds of pixels in every direction, oppressive high-contrast firelight catching the raised edges of each broken tile fragment, the whole composition radiating irreversible structural collapse across the region's ancient fault lines."
+    },
+    "dawn": {
+      "percentage": 58.6,
+      "driver": "Scientists reverse anxiety by fixing a tiny brain circuit. A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in",
+      "category": "Science",
+      "blurb": "SCIENTISTS FIND THE OFF SWITCH FOR ANXIETY",
+      "summary": "On a day when Gulf tensions and drone strikes dominate the feed, neuroscientists quietly landed something remarkable: a specific cluster of amygdala neurons linked to anxiety and social withdrawal can be identified, targeted, and effectively reversed. This isn't a correlation study or a lifestyle tip \u2014 it's a mechanistic breakthrough pointing toward genuinely new treatment pathways for anxiety disorders that affect hundreds of millions of people worldwide. The brain, long treated as a black box for mental suffering, is giving up its secrets faster than the headlines give it credit for.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Identifying and reversing a specific anxiety circuit in the amygdala represents the kind of precise, mechanistic neuroscience that makes real therapies possible."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "GLP-1 drugs now show promise against addiction in a 600,000-person study, while a new diabetes pill activates metabolism without appetite suppression \u2014 the treatment pipeline is unusually full."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "San Diego's water conservation success is so complete the city may now have surplus Colorado River water to sell to struggling neighbors \u2014 a quiet triumph of long-term planning."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A cruise passenger dove into open water without hesitation to rescue an 84-year-old stranger who fell from a pier \u2014 the reflex toward courage still runs deep."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Suspected Ebola cases dropped from over 1,100 to 437 as testing ramped up, suggesting the outbreak's true scale may be far more manageable than initial fears indicated."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "precise",
+        "hopeful",
+        "resilient",
+        "illuminating"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber fog and warm drizzling rain rolling across a narrow Mediterranean residential street in Elche, Spain, late afternoon golden light diffused and scattered through heavy mist into rich emerald and gold, the air itself luminous and alive with suspended moisture. We are outside, looking toward a small apartment window glowing warm from within, rain streaking down the glass in pixel-perfect vertical lines, a figure barely visible through the fogged pane \u2014 a person sitting still at a kitchen table, hands wrapped around a cup, a small mouse in a glass habitat on the counter beside them freely exploring its enclosure rather than cowering in a corner. On the rain-slicked cobblestone street below, a golden puddle reflects the amber window light, a single almond fallen from a nearby tree resting at the puddle's edge, its warm brown shell gleaming. Overhead, terracotta rooftiles vanish into rolling fog banks tinted deep purple-blue at the edges, the mist catching every photon of late sun and turning the whole scene into saturated emerald and molten gold. The mood is hushed liberation \u2014 something locked inside a small warm creature has quietly, tenderly come undone, and the rain-soaked street outside hums with it."
+    }
   }
 ]
