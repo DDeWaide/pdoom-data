@@ -11257,5 +11257,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber fog and warm drizzling rain rolling across a narrow Mediterranean residential street in Elche, Spain, late afternoon golden light diffused and scattered through heavy mist into rich emerald and gold, the air itself luminous and alive with suspended moisture. We are outside, looking toward a small apartment window glowing warm from within, rain streaking down the glass in pixel-perfect vertical lines, a figure barely visible through the fogged pane \u2014 a person sitting still at a kitchen table, hands wrapped around a cup, a small mouse in a glass habitat on the counter beside them freely exploring its enclosure rather than cowering in a corner. On the rain-slicked cobblestone street below, a golden puddle reflects the amber window light, a single almond fallen from a nearby tree resting at the puddle's edge, its warm brown shell gleaming. Overhead, terracotta rooftiles vanish into rolling fog banks tinted deep purple-blue at the edges, the mist catching every photon of late sun and turning the whole scene into saturated emerald and molten gold. The mood is hushed liberation \u2014 something locked inside a small warm creature has quietly, tenderly come undone, and the rain-soaked street outside hums with it.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-03.png"
     }
+  },
+  {
+    "date": "2026-06-04",
+    "generated_at": "2026-06-04T12:48:46.794884+00:00",
+    "doom": {
+      "percentage": 38.7,
+      "raw_percentage": 38.7,
+      "driver": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse.",
+      "category": "Climate",
+      "blurb": "BLIND TO THE CONVEYOR BELT OF DOOM",
+      "summary": "The Trump administration is dismantling the ocean monitoring system that tracks AMOC \u2014 the Atlantic current whose collapse would redraw agriculture, weather, and coastlines across the Northern Hemisphere. We're not just ignoring the warning light; we're ripping it out of the dashboard. Meanwhile, Japan is running short of plastic bags because Iran's war disrupted naphtha supplies, which is a preview of how civilizational unraveling actually feels: mundane, cascading, and weird.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran-Gulf tensions persist \u2014 Kuwait's airport hit by drones again \u2014 even as an Israel-Lebanon ceasefire framework offers a rare flicker of de-escalation."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Dismantling AMOC monitoring infrastructure is a governance failure with multi-century consequences; the US House's symbolic Iran war rebuke signals real but toothless discord."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Gemma 4 12B runs on any laptop with 16GB RAM and AI-generated lawsuits are flooding federal courts \u2014 capability diffusion accelerating faster than legal frameworks can absorb."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "AI leaders publish open letter calling for tougher bioweapon safeguards, implicitly acknowledging the current guardrails are inadequate."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Flesh-eating screwworm confirmed crossing the US-Mexico border into South Texas \u2014 a slow-moving biological threat that wasn't on most people's bingo cards."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "myopic",
+        "quietly catastrophic",
+        "unmoored"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled scientific journal or oceanographic report lying on a dark wet surface, camera pressed flat and looking straight down, the pages soaked and curling at the edges, deep navy shadows bleeding across the paper, a detailed diagram of the Atlantic meridional overturning circulation visible on the open page \u2014 concentric arrows showing the great current loop from tropics to Greenland rendered in faded teal and orange ink \u2014 the paper punctured by a single bureaucratic hole-punch in the upper corner, a torn NSF funding notice partially overlapping it, the institutional seal barely legible through water damage, the smoldering orange of a nearby work lamp reflecting off the wet surface in broken pixel fragments, barnacle-encrusted rope coiled at the extreme edge of the frame, the entire composition drowning in heavy shadow with only the circulation diagram catching the threatening amber light, implying vast cold ocean darkness beyond the document's edges.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-04.png"
+    },
+    "dawn": {
+      "percentage": 61.3,
+      "driver": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue. Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
+      "category": "Human Spirit",
+      "blurb": "SIX DAYS ALONE IN THE DEATH ZONE \u2014 AND HE WALKED OUT",
+      "summary": "Against a backdrop of wars, drone strikes, and geopolitical brinkmanship, Dawa Sherpa's survival on Everest is a stunning reminder of what the human body and will can endure. Missing for six days at extreme altitude \u2014 no food, no water, no supplemental oxygen \u2014 he was found crawling toward Base Camp under his own power, while his family had already begun funeral rites. It's a small story in the grand ledger of today's news, but it carries something the headlines rarely offer: proof that people can survive the unsurvivable.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Dawa Sherpa's six-day survival in Everest's death zone without food, water, or oxygen, and his self-rescue, defies medical expectation and stands as a rare beacon of resilience."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Israel and Lebanon have agreed to a ceasefire framework in US-led talks, a fragile but real diplomatic signal amid an otherwise escalating regional conflict."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "NASA's James Webb Space Telescope detected methane on interstellar comet 3I/ATLAS \u2014 the first such detection on a visitor from another star system, expanding our understanding of interstellar chemistry."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "India's monsoon rains reached Kerala \u2014 three days late but in time to protect harvests and support the nation's $4 trillion economy through another growing season."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Cancer's own immune evasion trick may be its undoing \u2014 new research overturns a core immunology belief and opens a surprising new avenue for killing tumor cells."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "survival",
+        "wonder",
+        "perseverance",
+        "hope"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The Khumbu Icefall on Mount Everest at golden hour, towering seracs and fractured glacial blocks rendered in deep teal and shadow-blue rising on all sides, the iconic Everest summit pyramid visible in the far upper background with a wind-blown snow plume streaming from its peak, the entire scene backlit by a blazing amber and gold horizon sky above Base Camp visible as tiny warm-colored tent specks glowing in the far distance below. In the foreground, a lone figure in a down suit crawls forward across the ice in full silhouette, body low and exhausted but pointed toward the light, a backpack still strapped to his back, an ice axe dragging beside him, a long groove carved into the snow behind him stretching back into darkness showing the distance already crossed alone. Two smaller silhouetted figures stand further down the slope, one arm raised and pointing toward the crawling man, their bodies frozen mid-stride in shock. Warm amber sidelight catches the ice crystal edges in scattered gold sparks, cold deep teal shadows fill the crevasses, the contrast between deadly blue environment and warm golden backlight making the crawling survivor glow as if lit from within.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-04.png"
+    }
   }
 ]
