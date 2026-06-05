@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T12:48:46.794884+00:00",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T12:43:23.329260+00:00",
   "doom": {
-    "percentage": 38.7,
-    "raw_percentage": 38.7,
-    "driver": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse.",
-    "category": "Climate",
-    "blurb": "BLIND TO THE CONVEYOR BELT OF DOOM",
-    "summary": "The Trump administration is dismantling the ocean monitoring system that tracks AMOC \u2014 the Atlantic current whose collapse would redraw agriculture, weather, and coastlines across the Northern Hemisphere. We're not just ignoring the warning light; we're ripping it out of the dashboard. Meanwhile, Japan is running short of plastic bags because Iran's war disrupted naphtha supplies, which is a preview of how civilizational unraveling actually feels: mundane, cascading, and weird.",
+    "percentage": 40.3,
+    "raw_percentage": 41.2,
+    "driver": "When AI Builds Itself: Our progress toward recursive self-improvement.",
+    "category": "Alignment",
+    "blurb": "THE ALGORITHM TAUGHT ITSELF TO TEACH ITSELF",
+    "summary": "Anthropic has apparently published progress on recursive self-improvement \u2014 the scenario where AI systems meaningfully accelerate their own development \u2014 which is either the most carefully managed disclosure in tech history or the quiet beginning of something nobody fully controls. Meanwhile, Meta shipped facial recognition on consumer smart glasses this week, so the dystopia is arriving in both fast and slow lanes simultaneously. With North Korea unveiling a new nuclear fuel plant and Hezbollah rejecting Lebanon's ceasefire in the same news cycle, today's vibe is 'multiple fronts, zero chill.'",
     "factors": [
       {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Iran-Gulf tensions persist \u2014 Kuwait's airport hit by drones again \u2014 even as an Israel-Lebanon ceasefire framework offers a rare flicker of de-escalation."
-      },
-      {
-        "name": "Governance",
-        "signal": "elevated",
-        "detail": "Dismantling AMOC monitoring infrastructure is a governance failure with multi-century consequences; the US House's symbolic Iran war rebuke signals real but toothless discord."
-      },
-      {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Gemma 4 12B runs on any laptop with 16GB RAM and AI-generated lawsuits are flooding federal courts \u2014 capability diffusion accelerating faster than legal frameworks can absorb."
+        "signal": "high",
+        "detail": "Anthropic publicly documenting recursive self-improvement progress marks a qualitative shift in what AI labs are openly pursuing \u2014 this is not a routine capability update."
       },
       {
         "name": "Alignment",
+        "signal": "high",
+        "detail": "Meta's facial recognition on smart glasses and AI customer support agents being exploited to steal accounts suggest alignment between capability deployment and safety is already lagging badly."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "North Korea unveiled a new weapons-grade uranium production facility, Hezbollah rejected the Lebanon ceasefire, and the US-Iran conflict is driving a UN-flagged food crisis across multiple countries."
+      },
+      {
+        "name": "Governance",
         "signal": "medium",
-        "detail": "AI leaders publish open letter calling for tougher bioweapon safeguards, implicitly acknowledging the current guardrails are inadequate."
+        "detail": "OpenAI says it will comply with Trump's AI model review order, introducing political gatekeeping into frontier model releases \u2014 the implications cut both ways."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Flesh-eating screwworm confirmed crossing the US-Mexico border into South Texas \u2014 a slow-moving biological threat that wasn't on most people's bingo cards."
+        "detail": "Flesh-eating screwworm confirmed in Texas for the first time since 1966, arriving just as millions of World Cup fans begin converging on the southern US."
       }
     ],
     "mood": [
+      "recursive",
       "cascading",
-      "myopic",
-      "quietly catastrophic",
-      "unmoored"
+      "quietly alarming",
+      "accelerating",
+      "uncontrolled"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled scientific journal or oceanographic report lying on a dark wet surface, camera pressed flat and looking straight down, the pages soaked and curling at the edges, deep navy shadows bleeding across the paper, a detailed diagram of the Atlantic meridional overturning circulation visible on the open page \u2014 concentric arrows showing the great current loop from tropics to Greenland rendered in faded teal and orange ink \u2014 the paper punctured by a single bureaucratic hole-punch in the upper corner, a torn NSF funding notice partially overlapping it, the institutional seal barely legible through water damage, the smoldering orange of a nearby work lamp reflecting off the wet surface in broken pixel fragments, barnacle-encrusted rope coiled at the extreme edge of the frame, the entire composition drowning in heavy shadow with only the circulation diagram catching the threatening amber light, implying vast cold ocean darkness beyond the document's edges.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-04.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-06-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep shadows dominating every corner, camera positioned at floor level inside a dark San Francisco tech office after the engineers have gone home, looking across a vast open-plan workspace toward a single workstation still glowing in the dark, the ergonomic chair pushed back and slightly askew as though someone stood up quickly and never returned, a coffee mug with a warm coral-orange glow sitting abandoned beside a keyboard with no hands on it, multiple large monitors still running cascading lines of white-green code that scroll upward on their own with no human input, the code diffs and merge visualizations continuing autonomously in the empty room, a git branch diagram blooming across one screen like a luminous root system spreading in all directions, deep navy and charcoal shadows swallowing the rows of identical dark workstations receding behind the empty chair, server rack towers visible through a glass partition blinking amber and blue in slow rhythmic pulses like a heartbeat, the floor-to-ceiling windows showing a dark urban skyline with scattered lit windows, a faint ghosted reflection in the nearest monitor that does not match the empty chair in front of it, dark crimson tones bleeding from the ceiling panels, firelight-warm reflections on the polished concrete floor, high contrast oppressive atmosphere, the room humming and working and utterly, disturbingly alone.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-05.png"
   },
   "dawn": {
-    "percentage": 61.3,
-    "driver": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue. Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
-    "category": "Human Spirit",
-    "blurb": "SIX DAYS ALONE IN THE DEATH ZONE \u2014 AND HE WALKED OUT",
-    "summary": "Against a backdrop of wars, drone strikes, and geopolitical brinkmanship, Dawa Sherpa's survival on Everest is a stunning reminder of what the human body and will can endure. Missing for six days at extreme altitude \u2014 no food, no water, no supplemental oxygen \u2014 he was found crawling toward Base Camp under his own power, while his family had already begun funeral rites. It's a small story in the grand ledger of today's news, but it carries something the headlines rarely offer: proof that people can survive the unsurvivable.",
+    "percentage": 59.7,
+    "driver": "Wind and solar generated more power than gas globally in April 2026.",
+    "category": "Environment",
+    "blurb": "CLEAN ENERGY CROSSES THE THRESHOLD",
+    "summary": "For the first time in recorded history, wind and solar together outpaced natural gas in global electricity generation for an entire month \u2014 a milestone that seemed distant just a decade ago. Even as geopolitical chaos drives fossil fuel anxiety and Hormuz tensions rattle energy markets, the underlying energy transition is quietly, stubbornly winning. The grid is changing faster than the headlines suggest.",
     "factors": [
       {
-        "name": "Human Spirit",
+        "name": "Environment",
         "signal": "blazing",
-        "detail": "Dawa Sherpa's six-day survival in Everest's death zone without food, water, or oxygen, and his self-rescue, defies medical expectation and stands as a rare beacon of resilience."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Israel and Lebanon have agreed to a ceasefire framework in US-led talks, a fragile but real diplomatic signal amid an otherwise escalating regional conflict."
+        "detail": "Wind and solar surpassing gas globally in a single month marks the crossover point clean energy advocates have long pointed to as irreversible momentum."
       },
       {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "NASA's James Webb Space Telescope detected methane on interstellar comet 3I/ATLAS \u2014 the first such detection on a visitor from another star system, expanding our understanding of interstellar chemistry."
+        "signal": "bright",
+        "detail": "Scientists cracked an 'undruggable' pancreatic cancer target with daraxonrasib, nearly doubling survival times for one of medicine's most lethal diagnoses."
       },
       {
-        "name": "Environment",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "India's monsoon rains reached Kerala \u2014 three days late but in time to protect harvests and support the nation's $4 trillion economy through another growing season."
+        "detail": "The IAEA brokered a Ukraine ceasefire to allow critical repairs at the Zaporizhzhia nuclear plant, a rare slice of functional multilateralism amid the war."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Olympians from across the globe united to sign a letter demanding Iran halt the execution of boxing champion Mohammad Javad Vafaei Sani, showing sport's moral voice still carries weight."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Cancer's own immune evasion trick may be its undoing \u2014 new research overturns a core immunology belief and opens a surprising new avenue for killing tumor cells."
+        "signal": "glimmer",
+        "detail": "Mangrove forests are staging a measurable comeback after decades of destruction, offering coastal communities and the climate a quietly resilient ally."
       }
     ],
     "mood": [
-      "resilience",
-      "survival",
-      "wonder",
-      "perseverance",
-      "hope"
+      "breakthrough",
+      "resilient",
+      "momentum",
+      "hopeful",
+      "transformative"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The Khumbu Icefall on Mount Everest at golden hour, towering seracs and fractured glacial blocks rendered in deep teal and shadow-blue rising on all sides, the iconic Everest summit pyramid visible in the far upper background with a wind-blown snow plume streaming from its peak, the entire scene backlit by a blazing amber and gold horizon sky above Base Camp visible as tiny warm-colored tent specks glowing in the far distance below. In the foreground, a lone figure in a down suit crawls forward across the ice in full silhouette, body low and exhausted but pointed toward the light, a backpack still strapped to his back, an ice axe dragging beside him, a long groove carved into the snow behind him stretching back into darkness showing the distance already crossed alone. Two smaller silhouetted figures stand further down the slope, one arm raised and pointing toward the crawling man, their bodies frozen mid-stride in shock. Warm amber sidelight catches the ice crystal edges in scattered gold sparks, cold deep teal shadows fill the crevasses, the contrast between deadly blue environment and warm golden backlight making the crawling survivor glow as if lit from within.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-04.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-06-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the base of a single enormous wind turbine, the camera pressed into the rich emerald grass below, gazing upward along the white concrete tower as it rockets toward a luminous April sky saturated with gold and amber light. The three massive blades are mid-rotation above, their tips motion-blurred against a sky of deep cobalt fading to warm amber at the horizon, high cirrus clouds catching pink and gold. A wind farm technician in a high-visibility yellow vest stands with their back to us at the turbine's base, head tilted all the way back, one gloved hand resting flat against the tower's curve, their posture carrying quiet reverence and held breath finally released. Their shadow stretches long across the vivid spring grass. At the extreme edges of the frame, the bases of neighboring turbines are just visible, their towers disappearing upward beyond the frame. The entire palette is rich saturated emerald green below, brilliant gold and cobalt above, the white tower a luminous spine connecting both worlds.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-05.png"
   }
 }
