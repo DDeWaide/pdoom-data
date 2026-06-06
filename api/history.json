@@ -11450,5 +11450,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from the base of a single enormous wind turbine, the camera pressed into the rich emerald grass below, gazing upward along the white concrete tower as it rockets toward a luminous April sky saturated with gold and amber light. The three massive blades are mid-rotation above, their tips motion-blurred against a sky of deep cobalt fading to warm amber at the horizon, high cirrus clouds catching pink and gold. A wind farm technician in a high-visibility yellow vest stands with their back to us at the turbine's base, head tilted all the way back, one gloved hand resting flat against the tower's curve, their posture carrying quiet reverence and held breath finally released. Their shadow stretches long across the vivid spring grass. At the extreme edges of the frame, the bases of neighboring turbines are just visible, their towers disappearing upward beyond the frame. The entire palette is rich saturated emerald green below, brilliant gold and cobalt above, the white tower a luminous spine connecting both worlds.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-05.png"
     }
+  },
+  {
+    "date": "2026-06-06",
+    "generated_at": "2026-06-06T11:39:22.417735+00:00",
+    "doom": {
+      "percentage": 41.9,
+      "raw_percentage": 43.7,
+      "driver": "Xi Jinping will travel to North Korea next week in first visit since 2019. The announcement was made by both countries Friday a day after North Korea unveiled a new facility to produce nuclear fuel.",
+      "category": "Nuclear",
+      "blurb": "DICTATORS COMPARING NUCLEAR NOTES AGAIN",
+      "summary": "Xi visits Pyongyang the day after Kim unveils a shiny new nuclear fuel facility \u2014 timing that feels less like diplomacy and less like coincidence. Meanwhile, U.S.-Iran exchanges continue in the Gulf (seven ballistic missiles toward Kuwait and Bahrain, radar sites struck in return), Ukraine is carpet-bombing St. Petersburg with drones, and Ebola is on a 'dangerous trajectory' in central Africa. It's the kind of news day where you open four tabs and immediately want to close the browser entirely.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S.-Iran strike exchanges continue in the Gulf, Ukraine's 'unprecedented' drone attack hits St. Petersburg, Putin rules out Zelensky talks, and Xi-Kim summit follows North Korea's nuclear fuel facility reveal \u2014 four simultaneous flashpoints."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "North Korea's new nuclear fuel production facility unveiled just before Xi's visit signals both capability expansion and potential great-power coordination on nuclear matters."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "SoftBank's Masayoshi Son tells CNBC AI is already designing OpenAI's next model, calling superintelligence arrival 'conservative' at 10 years \u2014 hype or genuine acceleration signal, neither is reassuring."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump moves to slash the intelligence community's oversight apparatus while Ebola modeling shows a 'dangerous trajectory' and the U.S. CDC is the one raising the alarm \u2014 institutional capacity fraying on multiple fronts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola outbreak in central Africa could match the catastrophic 2014 record, with border shutdowns already disrupting commerce and Virunga rangers fighting both the virus and conflict-related violence simultaneously."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "converging",
+        "ominous",
+        "kinetic",
+        "uncontained"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dim Seoul apartment living room looking outward through a sliding glass balcony door, the door frame cutting the composition into inside darkness and outside city glow, dark crimson and charcoal palette throughout, the room interior showing a small television set in the near-left corner casting cold blue-white light across a low wooden coffee table covered in scattered newspapers and an untouched bowl of rice, a single figure silhouetted from behind seated on the floor in front of the TV, the screen showing two pixelated dark-suited figures standing side by side in a formal tableau, beyond the balcony glass the Seoul cityscape stretches into a hazy summer night, apartment towers receding into smoky orange-grey horizon, one distant tower's windows forming an unintentional grid of light, the Namsan communications tower visible as a red-tipped dark spire against the charcoal sky in the far distance, firelight-orange reflections pooling on the glass door surface mixing with the cold TV glow from behind, a half-open newspaper visible on the floor beside the seated figure its pages fanned wide, the balcony railing casting hard shadow bars across the apartment floor, oppressive stillness, high contrast deep shadows swallowing every corner, warm haze pressing against the glass from outside.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-06.png"
+    },
+    "dawn": {
+      "percentage": 58.1,
+      "driver": "AI-designed universal coronavirus vaccine passes first human trial. Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronavirus variants.",
+      "category": "Medicine",
+      "blurb": "AI DESIGNS A SHIELD AGAINST ALL CORONAVIRUSES",
+      "summary": "In a world rattled by conflict and geopolitical brinkmanship, a quieter revolution just cleared a critical threshold: an AI-designed vaccine capable of targeting multiple coronavirus variants has passed its first human safety trial. This is the convergence of two of humanity's most powerful tools \u2014 artificial intelligence and immunology \u2014 working in concert rather than in competition. Where headlines scream about missiles and market drops, laboratories are methodically building defenses against the pandemics we haven't faced yet.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "An AI-designed pan-coronavirus vaccine reaching human trials marks the first time machine-designed immunology has cleared the safety bar in people."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Canadian Walmart warehouse workers secured the first-ever collective agreement with the retail giant, a landmark for labor rights in a major global employer."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "South Africa is rolling out a twice-yearly HIV prevention injection that could transform the fight against an epidemic that has claimed millions of African lives."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Researchers demonstrated that controlled fire whirls can clean up oil spills consuming up to 95% of oil while drastically cutting soot emissions versus traditional burning."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Iran's football team was granted US visas for the World Cup \u2014 sport quietly threading a needle of human connection through diplomatic hostility."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "ingenious",
+        "hopeful",
+        "pioneering"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling open-air public health clinic in a sun-drenched tropical city, hundreds of tiny human figures forming long serpentine queues across a wide plaza paved in warm ochre stone, rich emerald palm trees and flowering vines framing the edges of the scene, golden afternoon light saturating every surface in amber and jade. The queues wind past rows of white canvas canopy tents, each glowing softly from within with blue-white light from tablet screens, tiny medical workers in white moving between patients. Surrounding buildings show weathered facades hung with green vegetation, suggesting a city that has lived through epidemic fear before. At the far edge of the plaza a massive courtyard wall is covered in climbing emerald vines. The mood is patient, hopeful, quietly historic \u2014 ordinary people waiting calmly in warm golden light to receive something that may end the cycle forever. Rich gold and vibrant emerald dominate every surface, afternoon sun filtering through palm canopies in dappled pools, the scene saturated and alive with the quiet weight of a world that has stopped fearing what comes next.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-06.png"
+    }
   }
 ]
