@@ -11307,5 +11307,99 @@
       "card_image": "dawn-card-2026-06-06.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling open-air public health clinic in a sun-drenched tropical city, hundreds of tiny human figures forming long serpentine queues across a wide plaza paved in warm ochre stone, rich emerald palm trees and flowering vines framing the edges of the scene, golden afternoon light saturating every surface in amber and jade. The queues wind past rows of white canvas canopy tents, each glowing softly from within with blue-white light from tablet screens, tiny medical workers in white moving between patients. Surrounding buildings show weathered facades hung with green vegetation, suggesting a city that has lived through epidemic fear before. At the far edge of the plaza a massive courtyard wall is covered in climbing emerald vines. The mood is patient, hopeful, quietly historic \u2014 ordinary people waiting calmly in warm golden light to receive something that may end the cycle forever. Rich gold and vibrant emerald dominate every surface, afternoon sun filtering through palm canopies in dappled pools, the scene saturated and alive with the quiet weight of a world that has stopped fearing what comes next."
     }
+  },
+  {
+    "date": "2026-06-07",
+    "generated_at": "2026-06-07T11:53:44.798892+00:00",
+    "doom": {
+      "percentage": 38.9,
+      "raw_percentage": 38.2,
+      "driver": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say.",
+      "category": "Geopolitics",
+      "blurb": "ALLIES SPYING ON ALLIES AT MAXIMUM INTENSITY",
+      "summary": "The Pentagon quietly elevated Israel's espionage threat designation to its highest tier, which is either a shocking diplomatic grenade or the most predictable headline in the history of intelligence \u2014 probably both. Meanwhile, the US-Israel war on Iran hits 100 days with no peace deal in sight, Pope Leo is calling it an unjust war from his popemobile in Madrid, and Pete Hegseth chose D-Day's 82nd anniversary to compare European migrants to Nazi invaders. The vibes are extremely off.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Israel war on Iran at 100 days with no ceasefire, plus Pentagon flagging allied espionage at maximum threat level \u2014 the alliance architecture is quietly fracturing."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Iran denied World Cup visas for technical staff amid active war, and PEPFAR funding cuts are now being directly linked to preventable deaths in Africa."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Meta's AI chatbot was weaponized to hack thousands of Instagram accounts, a mundane but telling sign of AI-assisted cyberattacks going mainstream."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Scientists warning that climate-spreading dangerous amoebae may be a seriously underappreciated public health threat \u2014 quietly filed under 'things nobody is preparing for.'"
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major new AI alignment developments today; the recursive self-improvement concern from earlier this week continues to simmer without fresh escalation."
+        }
+      ],
+      "mood": [
+        "fractured",
+        "simmering",
+        "duplicitous",
+        "exhausted"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, torrential rain sheeting across the Pentagon's outer facade at night, camera positioned at street level on the rain-slicked access road looking up at the massive limestone west face, deep navy sky churning with low storm clouds backlit in smoldering orange from Washington's ambient glow, heavy rain rendered as diagonal silver streaks dominating the entire frame, the five-sided building's brutalist silhouette barely visible through the downpour, a single lit window in the E-Ring casting cold blue-white monitor light outward through the storm, in the foreground a puddle on wet tarmac reflecting a fragmented classified document with a bold red CRITICAL warning bar visible in the reflection, the document's edges dissolving in the rain, a black hard-sided suitcase sitting abandoned on the wet concrete beside a security bollard, rain hammering its surface, shadows so thick the corners of the frame are pure black, the Pentagon seal on a guardhouse wall barely legible through the fog and water, warm orange light feeling dangerous rather than welcoming, the entire atmosphere conveying institutional paranoia and buried secrets bleeding through impenetrable walls."
+    },
+    "dawn": {
+      "percentage": 61.1,
+      "driver": "Ozempic and similar weight-loss drugs linked to 30% lower breast cancer risk. A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer.",
+      "category": "Medicine",
+      "blurb": "DIABETES DRUGS NOW FIGHTING CANCER TOO",
+      "summary": "In a week shadowed by war, geopolitical brinkmanship, and cascading crises, a large-scale study quietly delivered one of the most significant cancer findings in recent memory: GLP-1 drugs already prescribed to millions appear to slash breast cancer risk by nearly a third. This isn't a lab hypothesis \u2014 it's a real-world signal emerging from a massive patient population. The same drugs reshaping how we treat obesity and diabetes may be building an unexpected second front against one of the world's most common cancers, a reminder that science often surprises us with grace.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A large study linking GLP-1 drugs to 30% lower breast cancer risk represents a potential paradigm shift in how we understand these already-transformative medications."
+        },
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "Breast cancer affects millions globally, and a 30% risk reduction from an already-approved drug class could translate to hundreds of thousands of lives saved annually."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A million people gathering peacefully in Madrid for Pope Leo's Mass \u2014 including his public stance that the Iran war is not a 'just war' \u2014 signals global civil society still hungers for moral leadership."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Surviving 'Rosie the Riveters' honored at the WWII Museum on D-Day anniversary remind us that ordinary people have always risen to extraordinary moments."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Bumblebees shown to solve problems like chimps and elephants suggests intelligence is far more widespread in nature than we assumed \u2014 a quiet wonder on a heavy news day."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "hopeful",
+        "unexpected",
+        "resilient",
+        "illuminating"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single slim clinical auto-injector pen lying on its side, the barrel rendered in cool white with warm amber highlights catching its cylindrical surface, the entire frame dominated by this one object pressed impossibly close so the pen's smooth casing becomes a landscape. Environment implied only through reflections warping across the pen's surface \u2014 distorted golden teal light suggesting an institutional window somewhere beyond the frame, the faint ghosted curve of a mammogram's gray-white topographic swirl reflected in the barrel's gloss like a world seen through a crystal ball. The pen's tip points toward the right edge of the frame where the image brightens into radiant amber, a slow sunrise bleeding in from outside the composition. Deep teal shadows pool in the left third, long and slanted, while warm golden light rakes across the pen's length from the right, casting a single dramatic side-lit highlight ridge down the center. The overall mood is quiet revelation \u2014 a small ordinary object holding an enormous secret, the reflection of breast tissue imagery in its surface reframed as something luminous and hopeful rather than clinical. Deep golden hour amber and warm teal throughout, radiant side-lighting, long shadows stretching left."
+    }
   }
 ]
