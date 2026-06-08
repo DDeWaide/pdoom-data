@@ -11643,5 +11643,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single slim clinical auto-injector pen lying on its side, the barrel rendered in cool white with warm amber highlights catching its cylindrical surface, the entire frame dominated by this one object pressed impossibly close so the pen's smooth casing becomes a landscape. Environment implied only through reflections warping across the pen's surface \u2014 distorted golden teal light suggesting an institutional window somewhere beyond the frame, the faint ghosted curve of a mammogram's gray-white topographic swirl reflected in the barrel's gloss like a world seen through a crystal ball. The pen's tip points toward the right edge of the frame where the image brightens into radiant amber, a slow sunrise bleeding in from outside the composition. Deep teal shadows pool in the left third, long and slanted, while warm golden light rakes across the pen's length from the right, casting a single dramatic side-lit highlight ridge down the center. The overall mood is quiet revelation \u2014 a small ordinary object holding an enormous secret, the reflection of breast tissue imagery in its surface reframed as something luminous and hopeful rather than clinical. Deep golden hour amber and warm teal throughout, radiant side-lighting, long shadows stretching left.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-07.png"
     }
+  },
+  {
+    "date": "2026-06-08",
+    "generated_at": "2026-06-08T14:15:36.092016+00:00",
+    "doom": {
+      "percentage": 42.2,
+      "raw_percentage": 43.7,
+      "driver": "Israel and Iran exchange missile fire threatening Middle East truce. The exchange marked a major escalation in the already tense region. It came on the 100th day of a war that began on Feb. 28, further complicating efforts to end Middle East fighting.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE DOING CEASEFIRE THINGS AGAIN",
+      "summary": "Iran and Israel spent Sunday night lobbing missiles at each other \u2014 petrochemical complexes, West Bank settlements, Beirut suburbs, the works \u2014 before Iran announced an 'end of military operations,' which is a diplomatic way of saying 'we'll be back.' Meanwhile stock markets are tumbling, oil is climbing, and Zelensky's European allies are quietly listing peace conditions while Trump is busy rage-quitting NBC interviews. The region is holding together with the structural integrity of wet tissue paper.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran-Israel missile exchanges threaten a ceasefire that was already described as 'fragile,' with Lebanon now re-entering the picture via Hezbollah drone strikes."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump storming out of a national security interview and installing an unqualified acting intelligence chief are not confidence-inspiring governance signals."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "DeepSeek V4 Pro reportedly beating GPT-5.5 Pro and Microsoft's AI chief announcing superintelligence is 'near' keep the capability race humming along."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola spreading at an unprecedented pace in DRC, while USAID \u2014 which would normally coordinate the response \u2014 has been substantially dismantled."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major new alignment-specific developments today; the AI governance discourse remains background noise against louder kinetic crises."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "escalatory",
+        "chaotic",
+        "rattled",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, camera positioned at ground level inside a modest West Bank home looking outward through a single open doorway, the doorframe acting as a stark dark rectangle, a lone elderly Palestinian woman silhouetted in the doorway standing motionless with one hand pressed flat against the doorframe, her posture rigid and listening, the world outside her door rendered in deep burning amber and crimson \u2014 the pale ochre desert flatlands of the Jordan Valley stretching away toward the Dead Sea basin, the low silhouette of Jericho's palm trees and minaret just visible on the horizon, the dawn sky above slashed with multiple long white contrail arcs curving and crossing chaotically against the dark indigo-to-blood-orange gradient, the characteristic scratch-mark pattern of a mass intercept event glowing faintly overhead, the ground outside cracked pale tan desert soil, a single distant column of black smoke rising thin and vertical at the far left edge of the frame, firelight from somewhere unseen casting a faint orange glow along the base of the horizon, the interior behind the woman pitch black, her shadow stretching forward across the threshold into the dust, the entire scene saturated in oppressive dark crimson and charcoal with high contrast silhouette framing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-08.png"
+    },
+    "dawn": {
+      "percentage": 57.8,
+      "driver": "New drug 'functionally cures' many hepatitis B virus infections.",
+      "category": "Medicine",
+      "blurb": "HUMANITY CRACKS A VIRUS THAT KILLS 1.1 MILLION A YEAR",
+      "summary": "Hepatitis B chronically infects roughly 250 million people worldwide and kills over a million annually \u2014 and until now, existing antivirals could suppress it but almost never eliminate it. A new drug has achieved what researchers call a 'functional cure' in many patients, clearing the infection in a way the field has chased for decades. On a day when Iran and Israel are trading missiles and markets are rattling, the quiet persistence of biomedical science delivering a genuine cure is exactly the kind of signal worth holding onto.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A functional cure for hepatitis B \u2014 long considered a near-impossible target \u2014 represents one of the most significant antiviral breakthroughs in years."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Armenia's pro-Western government won a decisive election despite sustained Russian pressure, affirming democratic resilience in a contested region."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Hundreds of captives, including women and children, were freed from a Boko Haram mountain hideout, returning to families after months of captivity."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New ship-alert camera systems are being deployed in San Francisco Bay to protect whales driven inshore by climate change, turning a vulnerability into a conservation intervention."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Gut microbiome research is revealing that healthy bacteria may protect against severe sepsis, opening a new and accessible front in one of medicine's deadliest challenges."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "liberation",
+        "hope",
+        "perseverance"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped night-shift nurses' station in a Southeast Asian hospital corridor, darkness pressing in from all sides, the only illumination a single glowing desktop monitor casting rich gold and emerald light across a cluttered desk, the screen displaying a viral load graph with a dramatic plummeting line bottoming out to zero rendered in vibrant green pixels, a printed lab result sheet curling off the edge of the desk catching the monitor's amber glow, a small blister pack of antiviral pills pushed to the corner as if set aside for the last time, a half-drunk cup of tea steaming faintly in the cool darkness, the corridor beyond dissolving into deep shadow punctuated by a single distant exit sign glowing red, the monitor's emerald and gold light painting everything in saturated alive warmth against the surrounding dark, the scene radiating quiet awe \u2014 the numbers have changed, everything has changed, and no one is here yet to see it.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-08.png"
+    }
   }
 ]
