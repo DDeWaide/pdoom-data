@@ -11496,5 +11496,99 @@
       "card_image": "dawn-card-2026-06-08.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped night-shift nurses' station in a Southeast Asian hospital corridor, darkness pressing in from all sides, the only illumination a single glowing desktop monitor casting rich gold and emerald light across a cluttered desk, the screen displaying a viral load graph with a dramatic plummeting line bottoming out to zero rendered in vibrant green pixels, a printed lab result sheet curling off the edge of the desk catching the monitor's amber glow, a small blister pack of antiviral pills pushed to the corner as if set aside for the last time, a half-drunk cup of tea steaming faintly in the cool darkness, the corridor beyond dissolving into deep shadow punctuated by a single distant exit sign glowing red, the monitor's emerald and gold light painting everything in saturated alive warmth against the surrounding dark, the scene radiating quiet awe \u2014 the numbers have changed, everything has changed, and no one is here yet to see it."
     }
+  },
+  {
+    "date": "2026-06-09",
+    "generated_at": "2026-06-09T12:43:54.869301+00:00",
+    "doom": {
+      "percentage": 39.2,
+      "raw_percentage": 38.3,
+      "driver": "Conflicts around the globe hit highest levels since World War II, new report says. The new report by the Uppsala Conflict Data Program said the massacres in El Fasher pushed one-sided violence in Africa to its highest levels since the Rwandan genocide in 1994.",
+      "category": "Geopolitics",
+      "blurb": "MOST VIOLENT YEAR SINCE 1994. GOING GREAT.",
+      "summary": "Uppsala's annual conflict report confirms what the headlines have been quietly screaming: 244,600 people killed in conflict in 2025, global violence at its highest since WWII, and one-sided civilian massacres at Rwandan-genocide-era levels. Meanwhile, Israel is attacking Lebanon again, a US Apache went down near the Strait of Hormuz, and Trump is telling the BBC everything's fine. The geopolitical mood board is a Jackson Pollock painted entirely in red.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Record global conflict deaths in 2025, Israel re-engaging in Lebanon, US military helicopter down near Hormuz, and Iran-Israel ceasefire already fraying after Sunday's missile exchange."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "ICC top prosecutor suspended amid misconduct allegations, undermining the last major institution holding war crimes accountable."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI files confidential IPO S-1 and Apple unveils Gemini-backed Siri AI overhaul \u2014 capability race accelerating commercially, not yet alarming on its own."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Russian satellites confirmed capable of jamming GPS on a continental scale across Europe \u2014 a quiet but significant escalation in electronic warfare capability."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Hacker News debate on 'AI is slowing down' suggests capability plateau anxiety, but no concrete alignment incident in today's feeds."
+        }
+      ],
+      "mood": [
+        "grim",
+        "escalatory",
+        "normalized",
+        "sprawling"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked ochre earth, camera pressed flat to the parched Sahel dust looking steeply up at the underside of a collapsed UNHCR tarpaulin shelter, the UN blue-grey plastic sheeting scorched and torn at its edges, hanging at a severe angle above the lens like a fractured sky, the fabric backlit by a smoldering deep orange glow from fires burning somewhere beyond the frame, thick columns of black-grey smoke rising past the tarpaulin into a bleached white-blue sky gone dark at the edges with haze, a broken hand-pump well visible in the extreme foreground at ground level, its rusted iron handle silhouetted against the burning horizon, the underside of a sand-colored Toyota truck bed looming at the upper right corner of the frame like a threatening ceiling, a cluster of small barefoot figures \u2014 women in torn yellow and orange wraps \u2014 visible at the far periphery as tiny distant silhouettes walking away across flat scrubland toward a horizon choked with smoke, everything drenched in deep navy shadow broken only by the threatening smoldering orange light filtering through haze and dust, the acacia tree branches visible above the tarpaulin rendered in harsh dark silhouette, the entire scene suffused with the weight of displacement and ruin, no violence shown \u2014 only aftermath."
+    },
+    "dawn": {
+      "percentage": 60.8,
+      "driver": "Scientists found a new Alzheimer's trigger and a drug that stops it. Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzh",
+      "category": "Medicine",
+      "blurb": "SCIENTISTS CRACK A NEW ALZHEIMER'S LOCK",
+      "summary": "On a day when global conflict data hit post-WWII highs and Middle East tensions refused to settle, a quieter headline carried enormous weight: researchers have pinpointed a previously unknown mechanism driving Alzheimer's disease and engineered a compound that blocks it. In animal models, nerve cell loss slowed and brain function improved \u2014 the kind of proof-of-concept that precedes the treatments millions of families are desperately waiting for. Alzheimer's has resisted medicine for decades; every new validated target is a genuine door opening, not just a press release.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A newly identified Alzheimer's trigger paired with an experimental blocking compound represents exactly the kind of mechanistic breakthrough that precedes transformative therapies."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "GLP-1 drugs are also showing fresh signals of cancer protection, suggesting a wave of multi-disease benefit from a single class of medicines that is still being fully understood."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A solar farm built on restored peatland in Germany is hosting a diverse range of bird species, demonstrating that clean energy and habitat restoration can genuinely coexist."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A wrong-number phone call blossomed into a cross-generational friendship that may save a 72-year-old photographer's home and archive of 500,000 images \u2014 small-scale human connection at its best."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A woman with advanced Alzheimer's reportedly regained speech and memories after psilocybin, adding an intriguing data point to the growing case for psychedelic-assisted neurological treatment."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a dimly lit ETH Zurich laboratory at early morning, the overnight work now finished, looking outward through a wide floor-to-ceiling window toward a dawn-lit Zurich cityscape bathed in deep golden amber light, long warm shadows stretching across rooftops outside. The lab interior is in aftermath stillness: a single fluorescence microscope powered down but its stage still faintly glowing teal-violet, a small glass vial labeled and capped resting alone in a foam-lined case on the bench beside it, a centrifuge lid left open, a worn lab notebook closed flat with a pen resting across it. On the windowsill between the viewer and the golden city outside, a neat row of glass slide trays holding preserved tissue samples catches the amber dawn light, glowing translucent warm orange like amber fossils. A single framed photograph is pinned to the wall at the edge of the frame, too small to read but clearly a personal portrait, connecting the molecular work to a human life. The dominant palette is deep burnished gold flooding in from the window against cool teal-shadowed laboratory interior, radiant side-lighting casting long horizontal shadows across the bench surfaces, the scene exhaling quiet earned calm after two decades of pursuit."
+    }
   }
 ]
