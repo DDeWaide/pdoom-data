@@ -11590,5 +11590,99 @@
       "card_image": "dawn-card-2026-06-09.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a dimly lit ETH Zurich laboratory at early morning, the overnight work now finished, looking outward through a wide floor-to-ceiling window toward a dawn-lit Zurich cityscape bathed in deep golden amber light, long warm shadows stretching across rooftops outside. The lab interior is in aftermath stillness: a single fluorescence microscope powered down but its stage still faintly glowing teal-violet, a small glass vial labeled and capped resting alone in a foam-lined case on the bench beside it, a centrifuge lid left open, a worn lab notebook closed flat with a pen resting across it. On the windowsill between the viewer and the golden city outside, a neat row of glass slide trays holding preserved tissue samples catches the amber dawn light, glowing translucent warm orange like amber fossils. A single framed photograph is pinned to the wall at the edge of the frame, too small to read but clearly a personal portrait, connecting the molecular work to a human life. The dominant palette is deep burnished gold flooding in from the window against cool teal-shadowed laboratory interior, radiant side-lighting casting long horizontal shadows across the bench surfaces, the scene exhaling quiet earned calm after two decades of pursuit."
     }
+  },
+  {
+    "date": "2026-06-10",
+    "generated_at": "2026-06-10T13:38:38.602255+00:00",
+    "doom": {
+      "percentage": 44.5,
+      "raw_percentage": 47.3,
+      "driver": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets.",
+      "category": "Geopolitics",
+      "blurb": "IRAN OPENS NEW FRONTS. GULF HOLDS BREATH.",
+      "summary": "The US-Iran conflict just went regional: after Iran downed a US Apache helicopter near the Strait of Hormuz, Washington struck back, and Tehran responded by targeting three separate US-allied Gulf states simultaneously. That's not a skirmish, that's a theater-wide escalation \u2014 and it's happening while oil prices spike, inflation hits 4.2%, and Trump is simultaneously threatening Iran will 'pay the price' and claiming a deal is days away. The World Cup starts tomorrow, which is either a blessed distraction or the most expensive backdrop to a regional war ever assembled.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran-US exchanges escalate to multi-front Gulf strikes hitting Bahrain, Kuwait, and Jordan \u2014 a significant geographic widening of the conflict with Strait of Hormuz shipping at risk."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Inflation hits 4.2% on oil spike from Iran conflict, Fed rate hike bets rising \u2014 economic pressure compounds geopolitical instability with no clear off-ramp visible."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic's Claude Fable 5 launches as most powerful model yet, with the model silently refusing certain queries \u2014 capability jumps continue while alignment questions quietly accumulate."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Pakistan launches fresh air strikes in Afghanistan while Myanmar rebels lose ground \u2014 secondary conflict zones flaring independently of the Iran situation add compounding instability."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Microsoft's AI chief calls out Anthropic for speculating about Claude's consciousness while simultaneously walking back claims about AI automating white-collar work \u2014 the discourse is confused but not yet dangerous."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "combustible",
+        "lurching",
+        "overstretched"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in dark crimson and charcoal, the entire frame dominated by an enormous ancient stone game board stretching across scorched desert terrain, the Persian Gulf's dark blue-green water visible at the far edge of the frame catching firelight reflections, the board's surface cracked and tilting at its center as if the earth beneath is giving way, heavy stone playing pieces \u2014 three of them grouped together at one corner representing Bahrain, Kuwait and Jordan, small and isolated \u2014 being advanced upon by a mass of identical dark pieces pushing in from the opposite edge, the board's central fracture line glowing deep orange-red from below as if molten, thin columns of black smoke rising from three scattered positions across the stone surface where pieces have already fallen and shattered, the surrounding desert floor visible at the frame edges showing heat-shimmer haze, ochre dust, and the faint geometric outlines of arid terrain stretching to a bruised purple-grey pre-dawn horizon, extreme high contrast between the firelit cracks and the oppressive charcoal darkness of the board's intact sections, no figures, no weapons, pure symbolic weight."
+    },
+    "dawn": {
+      "percentage": 55.5,
+      "driver": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it. 'Artemis III will be an extraordinary demonstration of what is possible.'",
+      "category": "Discovery",
+      "blurb": "HUMANS ARE GOING BACK TO THE MOON",
+      "summary": "Even as missiles streak across the Strait of Hormuz and conflict dominates every headline, NASA just named the crew who will walk on the Moon in 2027 \u2014 the first humans to do so in over half a century. That's not a press release, that's a civilization declaring it still believes in the future. In a week when the doom index sits at 44.5%, the fact that specific human beings now have names, faces, and a launchpad date for lunar return is exactly the counterweight worth holding onto.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "NASA naming an Artemis III crew with a firm 2027 timeline transforms Moon return from aspiration into imminent human reality."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The World Cup opening between Mexico and South Africa begins the largest international sporting gathering in history, with 48 nations competing together."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Somali referee Omar Artan, denied US entry, returned home to a hero's welcome and vowed to officiate at the 2030 World Cup \u2014 defiance transformed into inspiration."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Commonwealth Fusion published five peer-reviewed papers making the physics case for its 400 MW reactor, moving clean fusion energy closer to credibility."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists mapped every single neural connection in an adult fruit fly's central nervous system \u2014 an unprecedented connectome that reshapes our understanding of brains."
+        }
+      ],
+      "mood": [
+        "pioneering",
+        "resolute",
+        "expansive",
+        "forward-looking",
+        "alive"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick golden fog and warm humid haze rolling across a small-town front yard in suburban Houston, Texas, late afternoon, the atmosphere itself saturated with amber-emerald light filtered through rain-heavy oak trees overhead. We are NOT at NASA \u2014 we are three miles away, in an ordinary neighborhood, where everything has stopped for a moment of quiet awe. A family stands on their covered porch watching a muted television through a screen door, the blue glow of the broadcast barely visible inside, four silhouetted figures on the screen. In the overgrown front yard, a child in rain boots stands in the wet emerald grass, head tilted upward past the dripping oak canopy toward a break in the foggy amber sky, one arm raised pointing at nothing yet everything. A rain-soaked NASA sticker is peeling off a rusted mailbox at the yard's edge. Warm gold light bleeds through the haze from the west, catching the mist in luminous emerald and honey tones, the whole scene alive with saturated afternoon color pressing through wet atmosphere, hope radiating from an ordinary place made extraordinary by what it knows is coming."
+    }
   }
 ]
