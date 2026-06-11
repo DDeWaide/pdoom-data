@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-10",
-  "generated_at": "2026-06-10T13:38:38.602255+00:00",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T14:05:14.837525+00:00",
   "doom": {
-    "percentage": 44.5,
-    "raw_percentage": 47.3,
-    "driver": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets.",
+    "percentage": 48.9,
+    "raw_percentage": 52.7,
+    "driver": "Trump vows to hit Iran 'very hard tonight' and later take over its oil and gas sectors.",
     "category": "Geopolitics",
-    "blurb": "IRAN OPENS NEW FRONTS. GULF HOLDS BREATH.",
-    "summary": "The US-Iran conflict just went regional: after Iran downed a US Apache helicopter near the Strait of Hormuz, Washington struck back, and Tehran responded by targeting three separate US-allied Gulf states simultaneously. That's not a skirmish, that's a theater-wide escalation \u2014 and it's happening while oil prices spike, inflation hits 4.2%, and Trump is simultaneously threatening Iran will 'pay the price' and claiming a deal is days away. The World Cup starts tomorrow, which is either a blessed distraction or the most expensive backdrop to a regional war ever assembled.",
+    "blurb": "DAY TWO. OIL SEIZED. STRAIT CLOSED. WORLD CUP UNDERWAY.",
+    "summary": "The U.S. and Iran are now trading strikes for the second consecutive day, Trump is threatening to seize Kharg Island (Iran's main oil export terminal), and the Strait of Hormuz \u2014 through which 20% of global oil and gas flows \u2014 is reportedly shut. The ECB just hiked rates because of this war, Kuwait has closed its airspace, and oil is back above $90. Meanwhile, autonomous drones have apparently already killed human soldiers for the first time, which feels like a footnote only because the main story is a potential hot war over the Persian Gulf.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran-US exchanges escalate to multi-front Gulf strikes hitting Bahrain, Kuwait, and Jordan \u2014 a significant geographic widening of the conflict with Strait of Hormuz shipping at risk."
+        "detail": "Second consecutive day of U.S.-Iran strikes, Hormuz closure, Kharg Island seizure threatened, Kuwait airspace shut, and Lebanon launches warming \u2014 full regional escalation ladder being climbed."
       },
       {
-        "name": "Governance",
+        "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Inflation hits 4.2% on oil spike from Iran conflict, Fed rate hike bets rising \u2014 economic pressure compounds geopolitical instability with no clear off-ramp visible."
+        "detail": "Fully autonomous drones have reportedly killed human soldiers for the first time in a confirmed test, a threshold crossed with almost no public debate or governance framework in place."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Anthropic's Claude Fable 5 launches as most powerful model yet, with the model silently refusing certain queries \u2014 capability jumps continue while alignment questions quietly accumulate."
+        "detail": "Anthropic's Claude Fable launched with hidden guardrails, secret data retention requirements baked into AWS Bedrock, and an AI agent reportedly running amok in Fedora \u2014 governance gaps visible at every layer."
       },
       {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Pakistan launches fresh air strikes in Afghanistan while Myanmar rebels lose ground \u2014 secondary conflict zones flaring independently of the Iran situation add compounding instability."
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "Trump's pick for intel chief threatens to kneecap FISA 702 renewal, Britain's Defence Secretary just quit over spending disputes, and Cuba is being blockaded into a potential flashpoint during the World Cup in Miami."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Microsoft's AI chief calls out Anthropic for speculating about Claude's consciousness while simultaneously walking back claims about AI automating white-collar work \u2014 the discourse is confused but not yet dangerous."
+        "detail": "Google DeepMind is funding research into dangers of millions of AI agents interacting at scale \u2014 someone at least noticed the problem, even if nobody has solved it."
       }
     ],
     "mood": [
-      "escalatory",
+      "escalating",
       "combustible",
-      "lurching",
-      "overstretched"
+      "teetering",
+      "kinetic",
+      "oily"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-06-10.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in dark crimson and charcoal, the entire frame dominated by an enormous ancient stone game board stretching across scorched desert terrain, the Persian Gulf's dark blue-green water visible at the far edge of the frame catching firelight reflections, the board's surface cracked and tilting at its center as if the earth beneath is giving way, heavy stone playing pieces \u2014 three of them grouped together at one corner representing Bahrain, Kuwait and Jordan, small and isolated \u2014 being advanced upon by a mass of identical dark pieces pushing in from the opposite edge, the board's central fracture line glowing deep orange-red from below as if molten, thin columns of black smoke rising from three scattered positions across the stone surface where pieces have already fallen and shattered, the surrounding desert floor visible at the frame edges showing heat-shimmer haze, ochre dust, and the faint geometric outlines of arid terrain stretching to a bruised purple-grey pre-dawn horizon, extreme high contrast between the firelit cracks and the oppressive charcoal darkness of the board's intact sections, no figures, no weapons, pure symbolic weight.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-10.png"
+    "card_image": "doom-card-2026-06-11.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked and oil-smeared smartphone screen lying on a dark concrete surface, camera pressed inches away looking straight down, the screen's glow the only light source casting deep crimson and charcoal shadows across the surrounding darkness, the display showing a social media post rendered in blocky pixel typography with all-caps characters in white against a black background, the glass surface spiderwebbed with a single hairline crack running diagonally across the upper corner, a thick thumbprint smear catching the screen-light and refracting it into a faint orange halo, at the very edge of the frame a crude map visible on the screen beneath the post showing the Persian Gulf coastline as a jagged pixel outline with a small flame icon positioned over a rectangular landmass, the concrete beneath the phone stained with what reads as dark motor oil pooled in the grout lines between tiles, a faint reflection of distant flickering orange light visible in the cracked glass as if firelight from somewhere far off-screen, the entire image drenched in high-contrast dark crimson and charcoal with only the cold blue-white screen glow and that distant warm orange reflection providing color counterpoint, oppressive and airless.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-11.png"
   },
   "dawn": {
-    "percentage": 55.5,
-    "driver": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it. 'Artemis III will be an extraordinary demonstration of what is possible.'",
-    "category": "Discovery",
-    "blurb": "HUMANS ARE GOING BACK TO THE MOON",
-    "summary": "Even as missiles streak across the Strait of Hormuz and conflict dominates every headline, NASA just named the crew who will walk on the Moon in 2027 \u2014 the first humans to do so in over half a century. That's not a press release, that's a civilization declaring it still believes in the future. In a week when the doom index sits at 44.5%, the fact that specific human beings now have names, faces, and a launchpad date for lunar return is exactly the counterweight worth holding onto.",
+    "percentage": 51.1,
+    "driver": "Number of people forced to flee their homes has dropped, U.N. report finds. A U.N. report finds the number of people uprooted by conflicts around the world has fallen and the number of refugees returning home is reaching record numbers.",
+    "category": "Human Spirit",
+    "blurb": "RECORD NUMBERS OF REFUGEES FINALLY COMING HOME",
+    "summary": "Against a backdrop of escalating U.S.-Iran strikes and headlines screaming of the most violent year since 1994, a quiet but profound counter-signal has emerged: the U.N. reports that forced displacement is actually falling, with record numbers of refugees returning to their home countries. This isn't a small statistical blip \u2014 it represents millions of real human lives stitching themselves back together, families crossing back over borders they once fled in fear. The world is still burning in too many places, but the evidence that people are finding their way home \u2014 in record numbers \u2014 is exactly the kind of stubborn human resilience that pDawn is built to track.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "NASA naming an Artemis III crew with a firm 2027 timeline transforms Moon return from aspiration into imminent human reality."
+        "detail": "Record numbers of refugees returning home signals that even amid historic conflict levels, displacement is not a permanent condition for millions of families."
+      },
+      {
+        "name": "Science",
+        "signal": "bright",
+        "detail": "Scientists discovered that declining phosphatidylcholine may drive cellular aging \u2014 and that restoring it reverses mitochondrial dysfunction, opening a new front in longevity research."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The World Cup opening between Mexico and South Africa begins the largest international sporting gathering in history, with 48 nations competing together."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Somali referee Omar Artan, denied US entry, returned home to a hero's welcome and vowed to officiate at the 2030 World Cup \u2014 defiance transformed into inspiration."
+        "signal": "glimmer",
+        "detail": "Pope Leo's visit to the Canary Islands to personally advocate for humane migrant treatment represents a globally visible moral voice choosing solidarity over silence."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Commonwealth Fusion published five peer-reviewed papers making the physics case for its 400 MW reactor, moving clean fusion energy closer to credibility."
+        "detail": "Scientists built a battery-free artificial photosynthesis device that converts sunlight directly into fuel, removing a key barrier to scalable clean energy."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Scientists mapped every single neural connection in an adult fruit fly's central nervous system \u2014 an unprecedented connectome that reshapes our understanding of brains."
+        "detail": "A 5-million-year-old whale graveyard discovered in the deep Indian Ocean \u2014 'far beyond anything we had imagined' \u2014 reminds us the planet still holds wonders we haven't begun to understand."
       }
     ],
     "mood": [
-      "pioneering",
-      "resolute",
-      "expansive",
-      "forward-looking",
-      "alive"
+      "resilience",
+      "homecoming",
+      "recovery",
+      "hope",
+      "renewal"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-06-10.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick golden fog and warm humid haze rolling across a small-town front yard in suburban Houston, Texas, late afternoon, the atmosphere itself saturated with amber-emerald light filtered through rain-heavy oak trees overhead. We are NOT at NASA \u2014 we are three miles away, in an ordinary neighborhood, where everything has stopped for a moment of quiet awe. A family stands on their covered porch watching a muted television through a screen door, the blue glow of the broadcast barely visible inside, four silhouetted figures on the screen. In the overgrown front yard, a child in rain boots stands in the wet emerald grass, head tilted upward past the dripping oak canopy toward a break in the foggy amber sky, one arm raised pointing at nothing yet everything. A rain-soaked NASA sticker is peeling off a rusted mailbox at the yard's edge. Warm gold light bleeds through the haze from the west, catching the mist in luminous emerald and honey tones, the whole scene alive with saturated afternoon color pressing through wet atmosphere, hope radiating from an ordinary place made extraordinary by what it knows is coming.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-10.png"
+    "card_image": "dawn-card-2026-06-11.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A wide dirt road at the edge of an East African village at golden hour, the last amber light of afternoon blazing low on the horizon behind the scene, saturated gold and deep emerald saturating every surface \u2014 acacia trees lining the road rendered in rich dark silhouette against a vivid burning sky of ochre and coral, cooking fire smoke rising in thin columns from village rooftops visible in the mid-distance. Against the blazing horizon, a long procession of returning figures in pure silhouette \u2014 a grandmother being helped down from a transport truck, children running ahead with legs blurred mid-stride toward familiar rooftops, a young mother lifting a toddler onto her shoulders so the child sees home first, a crowd at the threshold facing inward not outward, scale conveying record numbers returning. In the foreground silhouette: worn bundled parcels tied with rope, a UNHCR tent arch framing the threshold, footprints in the dust leading toward the village. A single swift bird flies upper-right in the same direction as the crowd. Backlight creates lens flare halos around every figure. Colors: deep burnt sienna earth, blazing warm gold sky, vivid emerald canopy, bright white-blue UNHCR materials glowing against the light.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-11.png"
   }
 }

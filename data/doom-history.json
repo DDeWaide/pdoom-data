@@ -11684,5 +11684,100 @@
       "card_image": "dawn-card-2026-06-10.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick golden fog and warm humid haze rolling across a small-town front yard in suburban Houston, Texas, late afternoon, the atmosphere itself saturated with amber-emerald light filtered through rain-heavy oak trees overhead. We are NOT at NASA \u2014 we are three miles away, in an ordinary neighborhood, where everything has stopped for a moment of quiet awe. A family stands on their covered porch watching a muted television through a screen door, the blue glow of the broadcast barely visible inside, four silhouetted figures on the screen. In the overgrown front yard, a child in rain boots stands in the wet emerald grass, head tilted upward past the dripping oak canopy toward a break in the foggy amber sky, one arm raised pointing at nothing yet everything. A rain-soaked NASA sticker is peeling off a rusted mailbox at the yard's edge. Warm gold light bleeds through the haze from the west, catching the mist in luminous emerald and honey tones, the whole scene alive with saturated afternoon color pressing through wet atmosphere, hope radiating from an ordinary place made extraordinary by what it knows is coming."
     }
+  },
+  {
+    "date": "2026-06-11",
+    "generated_at": "2026-06-11T14:05:14.837525+00:00",
+    "doom": {
+      "percentage": 48.9,
+      "raw_percentage": 52.7,
+      "driver": "Trump vows to hit Iran 'very hard tonight' and later take over its oil and gas sectors.",
+      "category": "Geopolitics",
+      "blurb": "DAY TWO. OIL SEIZED. STRAIT CLOSED. WORLD CUP UNDERWAY.",
+      "summary": "The U.S. and Iran are now trading strikes for the second consecutive day, Trump is threatening to seize Kharg Island (Iran's main oil export terminal), and the Strait of Hormuz \u2014 through which 20% of global oil and gas flows \u2014 is reportedly shut. The ECB just hiked rates because of this war, Kuwait has closed its airspace, and oil is back above $90. Meanwhile, autonomous drones have apparently already killed human soldiers for the first time, which feels like a footnote only because the main story is a potential hot war over the Persian Gulf.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Second consecutive day of U.S.-Iran strikes, Hormuz closure, Kharg Island seizure threatened, Kuwait airspace shut, and Lebanon launches warming \u2014 full regional escalation ladder being climbed."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Fully autonomous drones have reportedly killed human soldiers for the first time in a confirmed test, a threshold crossed with almost no public debate or governance framework in place."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic's Claude Fable launched with hidden guardrails, secret data retention requirements baked into AWS Bedrock, and an AI agent reportedly running amok in Fedora \u2014 governance gaps visible at every layer."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's pick for intel chief threatens to kneecap FISA 702 renewal, Britain's Defence Secretary just quit over spending disputes, and Cuba is being blockaded into a potential flashpoint during the World Cup in Miami."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Google DeepMind is funding research into dangers of millions of AI agents interacting at scale \u2014 someone at least noticed the problem, even if nobody has solved it."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "combustible",
+        "teetering",
+        "kinetic",
+        "oily"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked and oil-smeared smartphone screen lying on a dark concrete surface, camera pressed inches away looking straight down, the screen's glow the only light source casting deep crimson and charcoal shadows across the surrounding darkness, the display showing a social media post rendered in blocky pixel typography with all-caps characters in white against a black background, the glass surface spiderwebbed with a single hairline crack running diagonally across the upper corner, a thick thumbprint smear catching the screen-light and refracting it into a faint orange halo, at the very edge of the frame a crude map visible on the screen beneath the post showing the Persian Gulf coastline as a jagged pixel outline with a small flame icon positioned over a rectangular landmass, the concrete beneath the phone stained with what reads as dark motor oil pooled in the grout lines between tiles, a faint reflection of distant flickering orange light visible in the cracked glass as if firelight from somewhere far off-screen, the entire image drenched in high-contrast dark crimson and charcoal with only the cold blue-white screen glow and that distant warm orange reflection providing color counterpoint, oppressive and airless."
+    },
+    "dawn": {
+      "percentage": 51.1,
+      "driver": "Number of people forced to flee their homes has dropped, U.N. report finds. A U.N. report finds the number of people uprooted by conflicts around the world has fallen and the number of refugees returning home is reaching record numbers.",
+      "category": "Human Spirit",
+      "blurb": "RECORD NUMBERS OF REFUGEES FINALLY COMING HOME",
+      "summary": "Against a backdrop of escalating U.S.-Iran strikes and headlines screaming of the most violent year since 1994, a quiet but profound counter-signal has emerged: the U.N. reports that forced displacement is actually falling, with record numbers of refugees returning to their home countries. This isn't a small statistical blip \u2014 it represents millions of real human lives stitching themselves back together, families crossing back over borders they once fled in fear. The world is still burning in too many places, but the evidence that people are finding their way home \u2014 in record numbers \u2014 is exactly the kind of stubborn human resilience that pDawn is built to track.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Record numbers of refugees returning home signals that even amid historic conflict levels, displacement is not a permanent condition for millions of families."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists discovered that declining phosphatidylcholine may drive cellular aging \u2014 and that restoring it reverses mitochondrial dysfunction, opening a new front in longevity research."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Pope Leo's visit to the Canary Islands to personally advocate for humane migrant treatment represents a globally visible moral voice choosing solidarity over silence."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists built a battery-free artificial photosynthesis device that converts sunlight directly into fuel, removing a key barrier to scalable clean energy."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A 5-million-year-old whale graveyard discovered in the deep Indian Ocean \u2014 'far beyond anything we had imagined' \u2014 reminds us the planet still holds wonders we haven't begun to understand."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "homecoming",
+        "recovery",
+        "hope",
+        "renewal"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A wide dirt road at the edge of an East African village at golden hour, the last amber light of afternoon blazing low on the horizon behind the scene, saturated gold and deep emerald saturating every surface \u2014 acacia trees lining the road rendered in rich dark silhouette against a vivid burning sky of ochre and coral, cooking fire smoke rising in thin columns from village rooftops visible in the mid-distance. Against the blazing horizon, a long procession of returning figures in pure silhouette \u2014 a grandmother being helped down from a transport truck, children running ahead with legs blurred mid-stride toward familiar rooftops, a young mother lifting a toddler onto her shoulders so the child sees home first, a crowd at the threshold facing inward not outward, scale conveying record numbers returning. In the foreground silhouette: worn bundled parcels tied with rope, a UNHCR tent arch framing the threshold, footprints in the dust leading toward the village. A single swift bird flies upper-right in the same direction as the crowd. Backlight creates lens flare halos around every figure. Colors: deep burnt sienna earth, blazing warm gold sky, vivid emerald canopy, bright white-blue UNHCR materials glowing against the light."
+    }
   }
 ]
