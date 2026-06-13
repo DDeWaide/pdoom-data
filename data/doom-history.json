@@ -11874,5 +11874,100 @@
       "card_image": "dawn-card-2026-06-12.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, dramatic low-angle perspective, the camera pressed into dry golden-brown East Texas grass, gazing upward at the underside of a vast solar panel array stretching across the entire upper frame, the deep navy and midnight blue panel surfaces catching fractured gold light at their edges, geometric purple-blue shadows falling downward, the cerulean sky visible in bright strips between the rows of panels above. A single rancher in worn work clothes and a wide-brimmed hat stands at the edge of the array, seen from below and behind, one hand resting on a metal panel support post, their silhouette rising up against the blazing May sky between the panels, posture quiet and unhurried, weight settled, looking out \u2014 not celebrating, just present in this moment of patient arrival. A few sheep legs and woolly white bellies drift lazily through the lower frame, grazing in the geometric shadow. Rich gold saturates the grass, vibrant emerald glints where scrub catches the light, the whole scene alive with thick afternoon warmth, saturated and humming with stored abundance."
     }
+  },
+  {
+    "date": "2026-06-13",
+    "generated_at": "2026-06-13T11:58:38.132941+00:00",
+    "doom": {
+      "percentage": 40.6,
+      "raw_percentage": 38.7,
+      "driver": "US orders Anthropic to disable AI models for all foreign nationals.",
+      "category": "Governance",
+      "blurb": "GOVERNMENT PULLS THE PLUG ON THE AI",
+      "summary": "The US Commerce Department issued an export control directive forcing Anthropic to yank Claude Fable 5 and Mythos 5 offline because someone found a jailbreak good enough to spook national security officials \u2014 which is either a sign the models are terrifyingly capable or that Washington finally noticed AI exists. Meanwhile Elon Musk became the world's first trillionaire off SpaceX's IPO, meaning the man who owns a rocket company, an AI lab, and a social network is now incomprehensibly richer, which feels fine. On the brighter side, a US-Iran deal appears genuinely close, which would be the first meaningful de-escalation in weeks \u2014 though Trump is already calling them 'dishonorable people' so don't pop the champagne.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "A government-ordered shutdown of Fable 5 over a jailbreak serious enough to trigger export controls suggests the capability frontier has reached genuinely alarming territory."
+        },
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "The Anthropic directive is unprecedented \u2014 a sitting government ordering a frontier AI model offline for national security reasons sets a new and consequential precedent for AI control."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "A US-Iran deal appears close but fragile, with Trump simultaneously calling Iran 'dishonorable' and the UAE denying reports of unfreezing Iranian funds \u2014 hopeful but wobbly."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "The Fable 5 jailbreak capable of bypassing export controls implies alignment and safety guardrails failed in a way serious enough for the Commerce Department to intervene."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Elon Musk becoming the world's first trillionaire via SpaceX IPO concentrates extraordinary resources \u2014 rockets, AI, satellite internet, social media \u2014 in a single individual's hands."
+        }
+      ],
+      "mood": [
+        "surveillance",
+        "escalating",
+        "fractured",
+        "precedent-setting",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-06-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a cramped university computer lab in Toronto looking outward through a tall narrow window toward a rain-slicked street below, dark crimson and charcoal palette with cool monitor glow washing the foreground in pale blue-white light, a young South Asian student sits at a workstation in the near foreground their back to us their shoulders visibly tense, the screen before them filled with a stark access-denied interface rendered in deep red pixels, beside the monitor a laminated foreign student ID card catches the cold light, three other workstations visible in the peripheral darkness each showing identical locked screens glowing amber-red in cascading sequence, through the tall window the wet Toronto street reflects crimson neon from a storefront sign below casting firelight-colored ripples across the rain-pooled asphalt, a second student stands at the glass pressing one hand flat against it staring down at the street their breath fogging the cold pane, the room's overhead fluorescents are off leaving only the oppressive monitor glow and the bloody reflected light bleeding in from outside, high contrast deep shadows swallow the lab's back wall entirely, the sense of sudden exclusion and digital erasure palpable in every dark corner."
+    },
+    "dawn": {
+      "percentage": 59.4,
+      "driver": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers.",
+      "category": "Science",
+      "blurb": "CRISPR CRACKS THE 'UNDRUGGABLE' CANCERS",
+      "summary": "While geopolitical headlines grind on and AI tools are being pulled offline, a quiet revolution is advancing in genomic medicine: CRISPR technology can now selectively destroy cancer cells that previously had no viable treatment pathway. The term 'undruggable' has long been a death sentence for patients with certain malignancies \u2014 that word may be losing its meaning. On a day heavy with conflict and uncertainty, the fact that scientists are systematically dismantling cancer's defenses one genomic lock at a time is a genuine, compounding reason for hope.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "CRISPR's ability to target previously untreatable cancers represents a paradigm shift in oncology, not merely an incremental improvement."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran deal language is reportedly close to finalized, suggesting diplomatic channels remain alive even amid active conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Folarin Balogun became the first American to score multiple World Cup goals since 1930, delivering a rare moment of collective joy to a divided nation."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New rare-earth-free electric motor designs are advancing, reducing supply chain vulnerabilities that slow EV adoption globally."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Stanford scientists separately reported regrowing lost cartilage and reversing arthritis markers in human samples, suggesting multiple medical breakthroughs are converging simultaneously."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "relentless",
+        "ingenious",
+        "hopeful",
+        "unstoppable"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-06-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sun-drenched hospital discharge courtyard in late afternoon, seen from high above at an oblique angle, the scene bathed in rich saturated gold and deep emerald green \u2014 a moment of aftermath, of lives unlocking. The courtyard is large and lush, bordered by tall trees whose canopies spill vibrant emerald shadow across warm golden paving stones below. Tiny silhouetted figures \u2014 former patients, families \u2014 move outward through wide glass doors and along branching garden paths, scattering in all directions like seeds released, some pausing to embrace, one figure seated in a wheelchair being pushed forward into open sunlight, another standing arms slightly raised at their sides. A long curved bench under a canopy of trees casts dappled gold-green shadow. Abandoned IV poles lean forgotten near a side exit, thin and skeletal, no longer needed. The afternoon sun pours through the leaf canopy in thick golden columns, turning the stone paths to hammered bronze. The whole composition breathes outward \u2014 expansion, release, the second life after the impossible diagnosis dissolves."
+    }
   }
 ]
