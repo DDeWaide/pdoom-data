@@ -11969,5 +11969,100 @@
       "card_image": "dawn-card-2026-06-13.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sun-drenched hospital discharge courtyard in late afternoon, seen from high above at an oblique angle, the scene bathed in rich saturated gold and deep emerald green \u2014 a moment of aftermath, of lives unlocking. The courtyard is large and lush, bordered by tall trees whose canopies spill vibrant emerald shadow across warm golden paving stones below. Tiny silhouetted figures \u2014 former patients, families \u2014 move outward through wide glass doors and along branching garden paths, scattering in all directions like seeds released, some pausing to embrace, one figure seated in a wheelchair being pushed forward into open sunlight, another standing arms slightly raised at their sides. A long curved bench under a canopy of trees casts dappled gold-green shadow. Abandoned IV poles lean forgotten near a side exit, thin and skeletal, no longer needed. The afternoon sun pours through the leaf canopy in thick golden columns, turning the stone paths to hammered bronze. The whole composition breathes outward \u2014 expansion, release, the second life after the impossible diagnosis dissolves."
     }
+  },
+  {
+    "date": "2026-06-14",
+    "generated_at": "2026-06-14T12:03:05.556796+00:00",
+    "doom": {
+      "percentage": 39.5,
+      "raw_percentage": 37.2,
+      "driver": "Israel attacks Beirut on same day Trump says Iran deal to be signed.",
+      "category": "Geopolitics",
+      "blurb": "DEAL DAY. ALSO BOMBING DAY.",
+      "summary": "Trump announced a peace deal would be signed Sunday. Israel responded to this diplomatic milestone by bombing Beirut's southern suburbs. It's giving 'we're so close to peace, please hold while we conduct airstrikes.' Iran is now insisting Lebanon must be included in any deal, which, fair point given the whole 'missiles landing there' situation.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran deal reportedly hours away but Israel's Beirut strikes and Hezbollah ceasefire accusations threaten to unravel fragile diplomacy."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Amazon CEO's talks with US officials triggered the Anthropic model ban, revealing how corporate lobbying now shapes national AI security policy."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "A police officer is under investigation for using AI to fabricate evidence in multiple cases \u2014 governance of AI in law enforcement is visibly breaking down."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Arch Linux AUR malware incident affected over 1,500 packages \u2014 a reminder that open-source supply chain attacks remain a persistent, underreported threat."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Russian families using AI to 'resurrect' deceased loved ones killed in Ukraine is haunting, but more grief-exploitation than extinction-level concern."
+        }
+      ],
+      "mood": [
+        "contradictory",
+        "tense",
+        "fragile",
+        "sardonic",
+        "hopeful-ish"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick amber haze and smoke-filtered Mediterranean air pressing down over Beirut's southern Dahiyeh district in late afternoon, camera positioned at street level on a narrow cracked-asphalt alleyway looking outward between dense mid-rise concrete apartment blocks draped with laundry and crowded satellite dishes, the sky above almost entirely consumed by billowing charcoal and orange smoke columns that merge with a heavy atmospheric haze turning all light apocalyptic gold and brown, in the near foreground a single ornate fountain pen rests on a sheet of formal paper atop a makeshift surface of broken concrete rubble as if placed there deliberately, the document's dense printed lines still visible through a layer of fine cement dust, Lebanese Civil Defense workers in orange jumpsuits stand frozen mid-gesture looking skyward between the buildings, their faces upturned and unreadable, ambulances with red crescent markings sit partially obscured by drifting smoke at the far end of the alley, the concrete facades of the apartment blocks are scarred and pockmarked, balconies crumbling, the entire scene color-graded in deep navy shadow and smoldering orange warmth where the haze glows, heat feels threatening, the pen and document motif anchoring the impossible simultaneity of diplomacy and destruction, deep shadows dominate every corner of the frame."
+    },
+    "dawn": {
+      "percentage": 60.5,
+      "driver": "Treating pancreatic tumours may have revealed cancer's master switch.",
+      "category": "Medicine",
+      "blurb": "SCIENTISTS MAY HAVE FOUND CANCER'S OFF SWITCH",
+      "summary": "Pancreatic cancer is one of medicine's cruelest puzzles \u2014 a disease that kills most patients within months and has resisted nearly every therapeutic advance. The suggestion that treating these tumours has revealed a broader 'master switch' governing cancer itself is the kind of discovery that rewrites textbooks. Yes, wars are grinding on and the world feels heavy, but somewhere in a lab this week, researchers may have handed future generations the key to unlocking humanity's oldest biological enemy.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A potential cancer master switch, if confirmed, would represent one of the most significant oncology breakthroughs in decades, opening pathways to treat many cancer types at once."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran peace deal negotiations continue with Pakistan mediating and multiple parties closer 'than ever before,' offering a fragile but real path toward ending a 100-day conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The New York Knicks ended a 53-year championship drought, giving an entire city a rare moment of pure collective joy amid a relentlessly difficult news cycle."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Researchers quantified the global length and mass of underground fungal networks, deepening our understanding of Earth's living infrastructure that sustains ecosystems worldwide."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A new study finds human brain health can improve at any age through the 90s, directly challenging the fatalistic assumption that cognitive decline is inevitable and unstoppable."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "transformative",
+        "luminous"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single antique brass circuit breaker switch mounted on a worn copper panel, the camera pressed so close the metal grain and oxidation texture dominate the entire image, the switch caught at the exact moment of being thrown \u2014 mid-arc between OFF and ON, a spray of golden sparks erupting from the contact point like a tiny sunrise, the sparks rendered in deep amber and molten gold pixel clusters, the surrounding panel reflecting warm teal light from an unseen source below, the switch mechanism itself showing a labyrinth of tiny branching pathways etched into the brass face like a microscopic network diagram, the edges of the frame bleeding into deep navy shadow, one corner catching a warm amber glow as if a desk lamp burns just outside the frame, the overall palette deep golden hour amber and warm teal, the sparks at the pivot point radiating outward like a molecular cascade, the single moment of connection between two states \u2014 the master switch, mid-throw, changing everything."
+    }
   }
 ]

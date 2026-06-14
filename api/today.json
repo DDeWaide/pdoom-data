@@ -1,97 +1,97 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T11:58:38.132941+00:00",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T12:03:05.556796+00:00",
   "doom": {
-    "percentage": 40.6,
-    "raw_percentage": 38.7,
-    "driver": "US orders Anthropic to disable AI models for all foreign nationals.",
-    "category": "Governance",
-    "blurb": "GOVERNMENT PULLS THE PLUG ON THE AI",
-    "summary": "The US Commerce Department issued an export control directive forcing Anthropic to yank Claude Fable 5 and Mythos 5 offline because someone found a jailbreak good enough to spook national security officials \u2014 which is either a sign the models are terrifyingly capable or that Washington finally noticed AI exists. Meanwhile Elon Musk became the world's first trillionaire off SpaceX's IPO, meaning the man who owns a rocket company, an AI lab, and a social network is now incomprehensibly richer, which feels fine. On the brighter side, a US-Iran deal appears genuinely close, which would be the first meaningful de-escalation in weeks \u2014 though Trump is already calling them 'dishonorable people' so don't pop the champagne.",
+    "percentage": 39.5,
+    "raw_percentage": 37.2,
+    "driver": "Israel attacks Beirut on same day Trump says Iran deal to be signed.",
+    "category": "Geopolitics",
+    "blurb": "DEAL DAY. ALSO BOMBING DAY.",
+    "summary": "Trump announced a peace deal would be signed Sunday. Israel responded to this diplomatic milestone by bombing Beirut's southern suburbs. It's giving 'we're so close to peace, please hold while we conduct airstrikes.' Iran is now insisting Lebanon must be included in any deal, which, fair point given the whole 'missiles landing there' situation.",
     "factors": [
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "A government-ordered shutdown of Fable 5 over a jailbreak serious enough to trigger export controls suggests the capability frontier has reached genuinely alarming territory."
-      },
-      {
-        "name": "Governance",
-        "signal": "high",
-        "detail": "The Anthropic directive is unprecedented \u2014 a sitting government ordering a frontier AI model offline for national security reasons sets a new and consequential precedent for AI control."
-      },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "A US-Iran deal appears close but fragile, with Trump simultaneously calling Iran 'dishonorable' and the UAE denying reports of unfreezing Iranian funds \u2014 hopeful but wobbly."
+        "detail": "US-Iran deal reportedly hours away but Israel's Beirut strikes and Hezbollah ceasefire accusations threaten to unravel fragile diplomacy."
       },
       {
-        "name": "Alignment",
+        "name": "Governance",
         "signal": "medium",
-        "detail": "The Fable 5 jailbreak capable of bypassing export controls implies alignment and safety guardrails failed in a way serious enough for the Commerce Department to intervene."
+        "detail": "Amazon CEO's talks with US officials triggered the Anthropic model ban, revealing how corporate lobbying now shapes national AI security policy."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "A police officer is under investigation for using AI to fabricate evidence in multiple cases \u2014 governance of AI in law enforcement is visibly breaking down."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Elon Musk becoming the world's first trillionaire via SpaceX IPO concentrates extraordinary resources \u2014 rockets, AI, satellite internet, social media \u2014 in a single individual's hands."
+        "signal": "low",
+        "detail": "Arch Linux AUR malware incident affected over 1,500 packages \u2014 a reminder that open-source supply chain attacks remain a persistent, underreported threat."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Russian families using AI to 'resurrect' deceased loved ones killed in Ukraine is haunting, but more grief-exploitation than extinction-level concern."
       }
     ],
     "mood": [
-      "surveillance",
-      "escalating",
-      "fractured",
-      "precedent-setting",
-      "volatile"
+      "contradictory",
+      "tense",
+      "fragile",
+      "sardonic",
+      "hopeful-ish"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-06-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a cramped university computer lab in Toronto looking outward through a tall narrow window toward a rain-slicked street below, dark crimson and charcoal palette with cool monitor glow washing the foreground in pale blue-white light, a young South Asian student sits at a workstation in the near foreground their back to us their shoulders visibly tense, the screen before them filled with a stark access-denied interface rendered in deep red pixels, beside the monitor a laminated foreign student ID card catches the cold light, three other workstations visible in the peripheral darkness each showing identical locked screens glowing amber-red in cascading sequence, through the tall window the wet Toronto street reflects crimson neon from a storefront sign below casting firelight-colored ripples across the rain-pooled asphalt, a second student stands at the glass pressing one hand flat against it staring down at the street their breath fogging the cold pane, the room's overhead fluorescents are off leaving only the oppressive monitor glow and the bloody reflected light bleeding in from outside, high contrast deep shadows swallow the lab's back wall entirely, the sense of sudden exclusion and digital erasure palpable in every dark corner.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-13.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-06-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick amber haze and smoke-filtered Mediterranean air pressing down over Beirut's southern Dahiyeh district in late afternoon, camera positioned at street level on a narrow cracked-asphalt alleyway looking outward between dense mid-rise concrete apartment blocks draped with laundry and crowded satellite dishes, the sky above almost entirely consumed by billowing charcoal and orange smoke columns that merge with a heavy atmospheric haze turning all light apocalyptic gold and brown, in the near foreground a single ornate fountain pen rests on a sheet of formal paper atop a makeshift surface of broken concrete rubble as if placed there deliberately, the document's dense printed lines still visible through a layer of fine cement dust, Lebanese Civil Defense workers in orange jumpsuits stand frozen mid-gesture looking skyward between the buildings, their faces upturned and unreadable, ambulances with red crescent markings sit partially obscured by drifting smoke at the far end of the alley, the concrete facades of the apartment blocks are scarred and pockmarked, balconies crumbling, the entire scene color-graded in deep navy shadow and smoldering orange warmth where the haze glows, heat feels threatening, the pen and document motif anchoring the impossible simultaneity of diplomacy and destruction, deep shadows dominate every corner of the frame.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-14.png"
   },
   "dawn": {
-    "percentage": 59.4,
-    "driver": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers.",
-    "category": "Science",
-    "blurb": "CRISPR CRACKS THE 'UNDRUGGABLE' CANCERS",
-    "summary": "While geopolitical headlines grind on and AI tools are being pulled offline, a quiet revolution is advancing in genomic medicine: CRISPR technology can now selectively destroy cancer cells that previously had no viable treatment pathway. The term 'undruggable' has long been a death sentence for patients with certain malignancies \u2014 that word may be losing its meaning. On a day heavy with conflict and uncertainty, the fact that scientists are systematically dismantling cancer's defenses one genomic lock at a time is a genuine, compounding reason for hope.",
+    "percentage": 60.5,
+    "driver": "Treating pancreatic tumours may have revealed cancer's master switch.",
+    "category": "Medicine",
+    "blurb": "SCIENTISTS MAY HAVE FOUND CANCER'S OFF SWITCH",
+    "summary": "Pancreatic cancer is one of medicine's cruelest puzzles \u2014 a disease that kills most patients within months and has resisted nearly every therapeutic advance. The suggestion that treating these tumours has revealed a broader 'master switch' governing cancer itself is the kind of discovery that rewrites textbooks. Yes, wars are grinding on and the world feels heavy, but somewhere in a lab this week, researchers may have handed future generations the key to unlocking humanity's oldest biological enemy.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "CRISPR's ability to target previously untreatable cancers represents a paradigm shift in oncology, not merely an incremental improvement."
+        "detail": "A potential cancer master switch, if confirmed, would represent one of the most significant oncology breakthroughs in decades, opening pathways to treat many cancer types at once."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "US-Iran deal language is reportedly close to finalized, suggesting diplomatic channels remain alive even amid active conflict."
+        "detail": "US-Iran peace deal negotiations continue with Pakistan mediating and multiple parties closer 'than ever before,' offering a fragile but real path toward ending a 100-day conflict."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Folarin Balogun became the first American to score multiple World Cup goals since 1930, delivering a rare moment of collective joy to a divided nation."
+        "detail": "The New York Knicks ended a 53-year championship drought, giving an entire city a rare moment of pure collective joy amid a relentlessly difficult news cycle."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "New rare-earth-free electric motor designs are advancing, reducing supply chain vulnerabilities that slow EV adoption globally."
+        "signal": "quiet",
+        "detail": "Researchers quantified the global length and mass of underground fungal networks, deepening our understanding of Earth's living infrastructure that sustains ecosystems worldwide."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Stanford scientists separately reported regrowing lost cartilage and reversing arthritis markers in human samples, suggesting multiple medical breakthroughs are converging simultaneously."
+        "detail": "A new study finds human brain health can improve at any age through the 90s, directly challenging the fatalistic assumption that cognitive decline is inevitable and unstoppable."
       }
     ],
     "mood": [
       "breakthrough",
-      "relentless",
-      "ingenious",
+      "resilient",
       "hopeful",
-      "unstoppable"
+      "transformative",
+      "luminous"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-06-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sun-drenched hospital discharge courtyard in late afternoon, seen from high above at an oblique angle, the scene bathed in rich saturated gold and deep emerald green \u2014 a moment of aftermath, of lives unlocking. The courtyard is large and lush, bordered by tall trees whose canopies spill vibrant emerald shadow across warm golden paving stones below. Tiny silhouetted figures \u2014 former patients, families \u2014 move outward through wide glass doors and along branching garden paths, scattering in all directions like seeds released, some pausing to embrace, one figure seated in a wheelchair being pushed forward into open sunlight, another standing arms slightly raised at their sides. A long curved bench under a canopy of trees casts dappled gold-green shadow. Abandoned IV poles lean forgotten near a side exit, thin and skeletal, no longer needed. The afternoon sun pours through the leaf canopy in thick golden columns, turning the stone paths to hammered bronze. The whole composition breathes outward \u2014 expansion, release, the second life after the impossible diagnosis dissolves.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-13.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-06-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single antique brass circuit breaker switch mounted on a worn copper panel, the camera pressed so close the metal grain and oxidation texture dominate the entire image, the switch caught at the exact moment of being thrown \u2014 mid-arc between OFF and ON, a spray of golden sparks erupting from the contact point like a tiny sunrise, the sparks rendered in deep amber and molten gold pixel clusters, the surrounding panel reflecting warm teal light from an unseen source below, the switch mechanism itself showing a labyrinth of tiny branching pathways etched into the brass face like a microscopic network diagram, the edges of the frame bleeding into deep navy shadow, one corner catching a warm amber glow as if a desk lamp burns just outside the frame, the overall palette deep golden hour amber and warm teal, the sparks at the pivot point radiating outward like a molecular cascade, the single moment of connection between two states \u2014 the master switch, mid-throw, changing everything.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-14.png"
   }
 }
