@@ -12320,5 +12320,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single antique brass circuit breaker switch mounted on a worn copper panel, the camera pressed so close the metal grain and oxidation texture dominate the entire image, the switch caught at the exact moment of being thrown \u2014 mid-arc between OFF and ON, a spray of golden sparks erupting from the contact point like a tiny sunrise, the sparks rendered in deep amber and molten gold pixel clusters, the surrounding panel reflecting warm teal light from an unseen source below, the switch mechanism itself showing a labyrinth of tiny branching pathways etched into the brass face like a microscopic network diagram, the edges of the frame bleeding into deep navy shadow, one corner catching a warm amber glow as if a desk lamp burns just outside the frame, the overall palette deep golden hour amber and warm teal, the sparks at the pivot point radiating outward like a molecular cascade, the single moment of connection between two states \u2014 the master switch, mid-throw, changing everything.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-14.png"
     }
+  },
+  {
+    "date": "2026-06-15",
+    "generated_at": "2026-06-15T15:51:28.561336+00:00",
+    "doom": {
+      "percentage": 35.4,
+      "raw_percentage": 31.7,
+      "driver": "Record increase in DRC Ebola cases raises death toll to 181. The Ebola outbreak, caused by the rare Bundibugyo virus strain, has reached 782 confirmed cases.",
+      "category": "Biotech",
+      "blurb": "EBOLA SURGES. WORLD CUP ARRIVES. EXPERTS SAY 'FINE.'",
+      "summary": "An Ebola outbreak in eastern DRC has hit 782 confirmed cases with a record single-day increase \u2014 and the World Cup, drawing millions of international travelers to the US, is already underway. Experts are gamely assuring everyone the risk is 'extremely low,' which is exactly what experts say before it isn't. Meanwhile the US-Iran deal is real, oil is falling, and the Strait of Hormuz is reopening \u2014 genuine de-escalation that takes some heat off the doom dial, but Ebola at a World Cup moment is the kind of coincidence that ages poorly.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "low",
+          "detail": "US-Iran deal announced, Strait of Hormuz reopening \u2014 a genuine de-escalation after weeks of elevated tension, though Israel's non-compliance remains a wild card."
+        },
+        {
+          "name": "Biotech",
+          "signal": "elevated",
+          "detail": "DRC Ebola outbreak hits 782 cases with record daily increase, caused by rare Bundibugyo strain, as millions of international travelers converge on World Cup host cities."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "China may have accessed Anthropic's Mythos model before export restrictions; Zhipu surges 33% as Wall Street pivots to Chinese AI alternatives post-Anthropic curbs."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "G7 opens amid sharp US-Europe tensions, with Trump threatening 100% wine tariffs on France days before the summit \u2014 multilateral governance fraying at an awkward moment."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Russian strikes set a historic Kyiv cathedral ablaze and kill 11 \u2014 war continues grinding but no new escalation; the Iran deal news dominated the weekend."
+        }
+      ],
+      "mood": [
+        "cautiously optimistic",
+        "viral unease",
+        "fragile relief",
+        "watchful"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned low at ground level behind a lone Congolese woman standing motionless in the open doorway of a mud-brick home at the edge of dense equatorial forest, her silhouette rendered in pure black against a hazy orange twilight burning through humid Ituri air, her posture bowed forward with one hand pressed flat against the rough clay doorframe, a wooden coffin visible as a dark rectangular shape resting on red-orange laterite earth in the middle distance, pallbearers' silhouettes frozen in the background against the smoldering sky, a single chlorine bucket with a plastic tap sitting just inside the doorway catching the last orange light, the forest canopy behind the scene a dark jagged wall of near-black green pressing down from above, heavy shadows consuming the foreground entirely, the threatening warmth of the sky contrasting with the cold darkness swallowing the figures, smoke-filtered diffuse light flattening depth and making the distant tree line feel suffocating and close.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-15.png"
+    },
+    "dawn": {
+      "percentage": 64.6,
+      "driver": "This man with ALS is 'the first power user' of a brain implant that lets him speak.",
+      "category": "Medicine",
+      "blurb": "SILENCED NO MORE: ALS PATIENT FINDS HIS VOICE",
+      "summary": "Casey Harrell has lived with ALS for years, paralyzed and unable to speak \u2014 yet for nearly three years his brain-computer interface has let him communicate directly through thought, making him what researchers are calling 'the first power user' of the technology. On a day when headlines are dominated by war deals and geopolitical uncertainty, this story is a quiet reminder that in labs and hospitals, brilliant people are dismantling the walls that disease builds around human beings. The brain is talking to machines, and the machines are talking back \u2014 and that is genuinely extraordinary.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A paralyzed ALS patient has used a brain-computer interface for nearly three years to communicate, marking a landmark milestone in neural engineering."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Casey Harrell's continued engagement with the technology \u2014 earning the title 'first power user' \u2014 reflects remarkable human determination in the face of devastating illness."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The US-Iran preliminary peace deal, however fragile, ended active fighting and began reopening the Strait of Hormuz, representing rare diplomatic progress after months of conflict."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New solid-state AC technology is under development, promising to dramatically cut the carbon emissions of cooling as global temperatures rise."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A new oral GLP-1 pill delivered major weight loss and blood sugar control in a major clinical trial, potentially making life-changing diabetes treatment far more accessible than injections."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "possibility",
+        "connection",
+        "wonder"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped nighttime kitchen, deep amber and warm teal shadows pooling across worn linoleum and cluttered countertops, a single overhead fixture casting a tight cone of warm yellow light downward onto a small kitchen table. The scene is anchored by a folded newspaper lying open on the table, its front page catching the overhead light directly, the printed photograph visible as a small pixelated figure seated at a desk with two tiny dome-like points on the skull connected by a thin line to a glowing screen. Beside the newspaper, a ceramic mug steams faintly, its vapor catching the warm light. A smartphone face-up on the table glows blue-white with the same article pulled up on its screen, the cool digital light bleeding across the table edge and contrasting against the amber overhead warmth. The kitchen window behind is pure black night, the world outside invisible, only the interior glow defining the space. A chair pulled out slightly as if someone just stood up. Long shadows stretch across the floor from table legs. Radiant, intimate, quietly triumphant.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-15.png"
+    }
   }
 ]
