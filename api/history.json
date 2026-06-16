@@ -12416,5 +12416,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped nighttime kitchen, deep amber and warm teal shadows pooling across worn linoleum and cluttered countertops, a single overhead fixture casting a tight cone of warm yellow light downward onto a small kitchen table. The scene is anchored by a folded newspaper lying open on the table, its front page catching the overhead light directly, the printed photograph visible as a small pixelated figure seated at a desk with two tiny dome-like points on the skull connected by a thin line to a glowing screen. Beside the newspaper, a ceramic mug steams faintly, its vapor catching the warm light. A smartphone face-up on the table glows blue-white with the same article pulled up on its screen, the cool digital light bleeding across the table edge and contrasting against the amber overhead warmth. The kitchen window behind is pure black night, the world outside invisible, only the interior glow defining the space. A chair pulled out slightly as if someone just stood up. Long shadows stretch across the floor from table legs. Radiant, intimate, quietly triumphant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-15.png"
     }
+  },
+  {
+    "date": "2026-06-16",
+    "generated_at": "2026-06-16T15:14:37.127956+00:00",
+    "doom": {
+      "percentage": 35.0,
+      "raw_percentage": 31.7,
+      "driver": "Inside the fight over Claude Mythos 5. As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
+      "category": "Governance",
+      "blurb": "GOVERNMENT VS. FRONTIER AI: ROUND TWO",
+      "summary": "The White House vs. Anthropic saga has a sequel: now it's not just about blocking foreign access, it's about whether the government can dictate which models ship at all. Meanwhile, the Iran deal is technically good news \u2014 oil cheaper, Hormuz reopening \u2014 but Israel is loudly refusing to cooperate, which is the geopolitical equivalent of someone agreeing to a ceasefire and then immediately loading their gun. The net result: one crisis cautiously de-escalating while AI governance enters genuinely uncharted territory.",
+      "factors": [
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The Trump administration is now actively intervening in which AI models Anthropic can release, extending the foreign-access order into a broader model-release dispute."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "US-Iran deal is marginally stabilizing \u2014 oil prices falling, Hormuz framework agreed \u2014 but Israel's refusal to exit Lebanon keeps the region structurally fragile."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "SpaceX's $60B acquisition of Cursor and Nvidia's $20B+ debt raise signal AI infrastructure is still accelerating hard, governance drama notwithstanding."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "A Critical Copilot vulnerability let hackers steal 2FA codes via LLM search \u2014 a reminder that deployed AI systems remain an attack surface even before AGI arrives."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A B-52 bomber crashed in California on a routine test mission, killing eight \u2014 unsettling but assessed as an accident rather than a systemic military risk signal."
+        }
+      ],
+      "mood": [
+        "tense",
+        "contested",
+        "cautiously-thawing",
+        "surveillance",
+        "fragile"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt, camera pressed flat to a rain-slicked Washington DC sidewalk looking steeply up at the colossal limestone colonnade of the Herbert C. Hoover Building, its French Renaissance facade rising like a cliff face into a deep navy sky smoldering at the edges with threatening orange light, the columns casting enormous shadow bars down toward the camera, a muted television visible through a ground-floor window showing a golden World Cup trophy held aloft in celebration while ticker-tape rains down in orange and blue Knicks colors on a second screen beside it, the festive glow from those screens spilling weakly onto the wet pavement below, a single government courier bag abandoned on the bottom step of the building's entrance \u2014 thick manila envelope stamped with a Commerce Department eagle seal visible from below, corners dog-eared and urgent \u2014 the surrounding streets conspicuously empty of the celebrating crowds visible on those muted screens, the celebratory world existing only as a flicker of warmth trapped behind glass while the building's shadow swallows everything beneath it, smoke-filtered orange haze pressing down from above, heavy shadows dominating the foreground, the geometry of power and bureaucracy filling ninety percent of the frame.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-16.png"
+    },
+    "dawn": {
+      "percentage": 65.0,
+      "driver": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "category": "Medicine",
+      "blurb": "MEMORY RESTORED. ALZHEIMER'S PROTEINS CLEARED.",
+      "summary": "In a week shadowed by geopolitical chaos and Ebola surges, a Monash University research team has quietly achieved something remarkable: a copper transport drug that restores memory and clears the toxic protein buildups at the heart of Alzheimer's disease. This is the kind of foundational breakthrough that rarely makes front pages but changes millions of lives \u2014 Alzheimer's affects over 55 million people worldwide, and meaningful disease-modifying treatments have eluded medicine for decades. The fact that this signal is emerging from the noise of war and diplomacy headlines is itself a reason for hope.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A copper-transport drug clearing toxic Alzheimer's proteins in research represents a potential paradigm shift in treating humanity's most feared neurological disease."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G7 leaders are convening in France with Ukraine, Qatar, and UAE also present \u2014 multilateral diplomacy, however imperfect, remains alive and in motion."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Cape Verde's 40-year-old goalkeeper Vozinha held Spain's star-studded World Cup lineup to a 0-0 draw with seven saves, a testament to individual excellence defying all odds."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Crude oil prices are falling as Hormuz reopening talks progress, reducing pressure on economies to burn emergency reserves and easing short-term carbon emission spikes."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Hundreds of beagles are being rescued and rehomed as a longtime animal testing facility permanently closes, a small but genuine win for both science ethics and living creatures."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "determined",
+        "luminous"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a small university animal research facility at early morning, looking outward through a wide wire-mesh observation window into a warmly lit maze chamber beyond, the overnight experiment now concluded. Deep golden amber light floods the maze room from a low west-facing window, long warm shadows stretching across the white floor tiles. The water maze tank sits empty and still, its surface catching copper-gold reflections. A single laboratory mouse sits calmly on a dry platform at the maze center, relaxed and unhurried, the posture of an animal that remembered exactly where to go. On the windowsill between us and the maze room, a small open vial glows faintly amber-orange, a copper-toned residue coating its interior walls. A clipboard rests against the glass, its pages curled at the corner, covered in handwritten tick marks suggesting completed trials. The near room is dim and blue-teal in shadow, empty lab stools pushed in, pipette racks neatly aligned, the workday not yet begun, the discovery already made in the night. Warm teal shadows pool in the foreground corners. Radiant golden-copper glow dominates everything beyond the glass.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-16.png"
+    }
   }
 ]

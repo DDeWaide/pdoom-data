@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T15:51:28.561336+00:00",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T15:14:37.127956+00:00",
   "doom": {
-    "percentage": 35.4,
+    "percentage": 35.0,
     "raw_percentage": 31.7,
-    "driver": "Record increase in DRC Ebola cases raises death toll to 181. The Ebola outbreak, caused by the rare Bundibugyo virus strain, has reached 782 confirmed cases.",
-    "category": "Biotech",
-    "blurb": "EBOLA SURGES. WORLD CUP ARRIVES. EXPERTS SAY 'FINE.'",
-    "summary": "An Ebola outbreak in eastern DRC has hit 782 confirmed cases with a record single-day increase \u2014 and the World Cup, drawing millions of international travelers to the US, is already underway. Experts are gamely assuring everyone the risk is 'extremely low,' which is exactly what experts say before it isn't. Meanwhile the US-Iran deal is real, oil is falling, and the Strait of Hormuz is reopening \u2014 genuine de-escalation that takes some heat off the doom dial, but Ebola at a World Cup moment is the kind of coincidence that ages poorly.",
+    "driver": "Inside the fight over Claude Mythos 5. As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release.",
+    "category": "Governance",
+    "blurb": "GOVERNMENT VS. FRONTIER AI: ROUND TWO",
+    "summary": "The White House vs. Anthropic saga has a sequel: now it's not just about blocking foreign access, it's about whether the government can dictate which models ship at all. Meanwhile, the Iran deal is technically good news \u2014 oil cheaper, Hormuz reopening \u2014 but Israel is loudly refusing to cooperate, which is the geopolitical equivalent of someone agreeing to a ceasefire and then immediately loading their gun. The net result: one crisis cautiously de-escalating while AI governance enters genuinely uncharted territory.",
     "factors": [
       {
-        "name": "Geopolitics",
-        "signal": "low",
-        "detail": "US-Iran deal announced, Strait of Hormuz reopening \u2014 a genuine de-escalation after weeks of elevated tension, though Israel's non-compliance remains a wild card."
+        "name": "Governance",
+        "signal": "elevated",
+        "detail": "The Trump administration is now actively intervening in which AI models Anthropic can release, extending the foreign-access order into a broader model-release dispute."
       },
       {
-        "name": "Biotech",
-        "signal": "elevated",
-        "detail": "DRC Ebola outbreak hits 782 cases with record daily increase, caused by rare Bundibugyo strain, as millions of international travelers converge on World Cup host cities."
+        "name": "Geopolitics",
+        "signal": "medium",
+        "detail": "US-Iran deal is marginally stabilizing \u2014 oil prices falling, Hormuz framework agreed \u2014 but Israel's refusal to exit Lebanon keeps the region structurally fragile."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "China may have accessed Anthropic's Mythos model before export restrictions; Zhipu surges 33% as Wall Street pivots to Chinese AI alternatives post-Anthropic curbs."
+        "detail": "SpaceX's $60B acquisition of Cursor and Nvidia's $20B+ debt raise signal AI infrastructure is still accelerating hard, governance drama notwithstanding."
       },
       {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "G7 opens amid sharp US-Europe tensions, with Trump threatening 100% wine tariffs on France days before the summit \u2014 multilateral governance fraying at an awkward moment."
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "A Critical Copilot vulnerability let hackers steal 2FA codes via LLM search \u2014 a reminder that deployed AI systems remain an attack surface even before AGI arrives."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Russian strikes set a historic Kyiv cathedral ablaze and kill 11 \u2014 war continues grinding but no new escalation; the Iran deal news dominated the weekend."
+        "detail": "A B-52 bomber crashed in California on a routine test mission, killing eight \u2014 unsettling but assessed as an accident rather than a systemic military risk signal."
       }
     ],
     "mood": [
-      "cautiously optimistic",
-      "viral unease",
-      "fragile relief",
-      "watchful"
+      "tense",
+      "contested",
+      "cautiously-thawing",
+      "surveillance",
+      "fragile"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned low at ground level behind a lone Congolese woman standing motionless in the open doorway of a mud-brick home at the edge of dense equatorial forest, her silhouette rendered in pure black against a hazy orange twilight burning through humid Ituri air, her posture bowed forward with one hand pressed flat against the rough clay doorframe, a wooden coffin visible as a dark rectangular shape resting on red-orange laterite earth in the middle distance, pallbearers' silhouettes frozen in the background against the smoldering sky, a single chlorine bucket with a plastic tap sitting just inside the doorway catching the last orange light, the forest canopy behind the scene a dark jagged wall of near-black green pressing down from above, heavy shadows consuming the foreground entirely, the threatening warmth of the sky contrasting with the cold darkness swallowing the figures, smoke-filtered diffuse light flattening depth and making the distant tree line feel suffocating and close.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-15.png"
+    "card_image": "doom-card-2026-06-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level upward view from cracked asphalt, camera pressed flat to a rain-slicked Washington DC sidewalk looking steeply up at the colossal limestone colonnade of the Herbert C. Hoover Building, its French Renaissance facade rising like a cliff face into a deep navy sky smoldering at the edges with threatening orange light, the columns casting enormous shadow bars down toward the camera, a muted television visible through a ground-floor window showing a golden World Cup trophy held aloft in celebration while ticker-tape rains down in orange and blue Knicks colors on a second screen beside it, the festive glow from those screens spilling weakly onto the wet pavement below, a single government courier bag abandoned on the bottom step of the building's entrance \u2014 thick manila envelope stamped with a Commerce Department eagle seal visible from below, corners dog-eared and urgent \u2014 the surrounding streets conspicuously empty of the celebrating crowds visible on those muted screens, the celebratory world existing only as a flicker of warmth trapped behind glass while the building's shadow swallows everything beneath it, smoke-filtered orange haze pressing down from above, heavy shadows dominating the foreground, the geometry of power and bureaucracy filling ninety percent of the frame.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-16.png"
   },
   "dawn": {
-    "percentage": 64.6,
-    "driver": "This man with ALS is 'the first power user' of a brain implant that lets him speak.",
+    "percentage": 65.0,
+    "driver": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
     "category": "Medicine",
-    "blurb": "SILENCED NO MORE: ALS PATIENT FINDS HIS VOICE",
-    "summary": "Casey Harrell has lived with ALS for years, paralyzed and unable to speak \u2014 yet for nearly three years his brain-computer interface has let him communicate directly through thought, making him what researchers are calling 'the first power user' of the technology. On a day when headlines are dominated by war deals and geopolitical uncertainty, this story is a quiet reminder that in labs and hospitals, brilliant people are dismantling the walls that disease builds around human beings. The brain is talking to machines, and the machines are talking back \u2014 and that is genuinely extraordinary.",
+    "blurb": "MEMORY RESTORED. ALZHEIMER'S PROTEINS CLEARED.",
+    "summary": "In a week shadowed by geopolitical chaos and Ebola surges, a Monash University research team has quietly achieved something remarkable: a copper transport drug that restores memory and clears the toxic protein buildups at the heart of Alzheimer's disease. This is the kind of foundational breakthrough that rarely makes front pages but changes millions of lives \u2014 Alzheimer's affects over 55 million people worldwide, and meaningful disease-modifying treatments have eluded medicine for decades. The fact that this signal is emerging from the noise of war and diplomacy headlines is itself a reason for hope.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A paralyzed ALS patient has used a brain-computer interface for nearly three years to communicate, marking a landmark milestone in neural engineering."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "Casey Harrell's continued engagement with the technology \u2014 earning the title 'first power user' \u2014 reflects remarkable human determination in the face of devastating illness."
+        "detail": "A copper-transport drug clearing toxic Alzheimer's proteins in research represents a potential paradigm shift in treating humanity's most feared neurological disease."
       },
       {
         "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "G7 leaders are convening in France with Ukraine, Qatar, and UAE also present \u2014 multilateral diplomacy, however imperfect, remains alive and in motion."
+      },
+      {
+        "name": "Human Spirit",
         "signal": "bright",
-        "detail": "The US-Iran preliminary peace deal, however fragile, ended active fighting and began reopening the Strait of Hormuz, representing rare diplomatic progress after months of conflict."
+        "detail": "Cape Verde's 40-year-old goalkeeper Vozinha held Spain's star-studded World Cup lineup to a 0-0 draw with seven saves, a testament to individual excellence defying all odds."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "New solid-state AC technology is under development, promising to dramatically cut the carbon emissions of cooling as global temperatures rise."
+        "signal": "quiet",
+        "detail": "Crude oil prices are falling as Hormuz reopening talks progress, reducing pressure on economies to burn emergency reserves and easing short-term carbon emission spikes."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A new oral GLP-1 pill delivered major weight loss and blood sugar control in a major clinical trial, potentially making life-changing diabetes treatment far more accessible than injections."
+        "detail": "Hundreds of beagles are being rescued and rehomed as a longtime animal testing facility permanently closes, a small but genuine win for both science ethics and living creatures."
       }
     ],
     "mood": [
       "breakthrough",
-      "resilience",
-      "possibility",
-      "connection",
-      "wonder"
+      "resilient",
+      "hopeful",
+      "determined",
+      "luminous"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped nighttime kitchen, deep amber and warm teal shadows pooling across worn linoleum and cluttered countertops, a single overhead fixture casting a tight cone of warm yellow light downward onto a small kitchen table. The scene is anchored by a folded newspaper lying open on the table, its front page catching the overhead light directly, the printed photograph visible as a small pixelated figure seated at a desk with two tiny dome-like points on the skull connected by a thin line to a glowing screen. Beside the newspaper, a ceramic mug steams faintly, its vapor catching the warm light. A smartphone face-up on the table glows blue-white with the same article pulled up on its screen, the cool digital light bleeding across the table edge and contrasting against the amber overhead warmth. The kitchen window behind is pure black night, the world outside invisible, only the interior glow defining the space. A chair pulled out slightly as if someone just stood up. Long shadows stretch across the floor from table legs. Radiant, intimate, quietly triumphant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-15.png"
+    "card_image": "dawn-card-2026-06-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a small university animal research facility at early morning, looking outward through a wide wire-mesh observation window into a warmly lit maze chamber beyond, the overnight experiment now concluded. Deep golden amber light floods the maze room from a low west-facing window, long warm shadows stretching across the white floor tiles. The water maze tank sits empty and still, its surface catching copper-gold reflections. A single laboratory mouse sits calmly on a dry platform at the maze center, relaxed and unhurried, the posture of an animal that remembered exactly where to go. On the windowsill between us and the maze room, a small open vial glows faintly amber-orange, a copper-toned residue coating its interior walls. A clipboard rests against the glass, its pages curled at the corner, covered in handwritten tick marks suggesting completed trials. The near room is dim and blue-teal in shadow, empty lab stools pushed in, pipette racks neatly aligned, the workday not yet begun, the discovery already made in the night. Warm teal shadows pool in the foreground corners. Radiant golden-copper glow dominates everything beyond the glass.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-16.png"
   }
 }
