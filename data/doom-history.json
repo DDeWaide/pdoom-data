@@ -12253,5 +12253,99 @@
       "card_image": "dawn-card-2026-06-16.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a small university animal research facility at early morning, looking outward through a wide wire-mesh observation window into a warmly lit maze chamber beyond, the overnight experiment now concluded. Deep golden amber light floods the maze room from a low west-facing window, long warm shadows stretching across the white floor tiles. The water maze tank sits empty and still, its surface catching copper-gold reflections. A single laboratory mouse sits calmly on a dry platform at the maze center, relaxed and unhurried, the posture of an animal that remembered exactly where to go. On the windowsill between us and the maze room, a small open vial glows faintly amber-orange, a copper-toned residue coating its interior walls. A clipboard rests against the glass, its pages curled at the corner, covered in handwritten tick marks suggesting completed trials. The near room is dim and blue-teal in shadow, empty lab stools pushed in, pipette racks neatly aligned, the workday not yet begun, the discovery already made in the night. Warm teal shadows pool in the foreground corners. Radiant golden-copper glow dominates everything beyond the glass."
     }
+  },
+  {
+    "date": "2026-06-17",
+    "generated_at": "2026-06-17T13:46:03.211528+00:00",
+    "doom": {
+      "percentage": 35.7,
+      "raw_percentage": 33.7,
+      "driver": "Trump says U.S. will 'go right back to dropping bombs' if he doesn't like Iran deal.",
+      "category": "Geopolitics",
+      "blurb": "PEACE DEAL, WITH ASTERISK THE SIZE OF A BUNKER BUSTER",
+      "summary": "The US-Iran 'deal' is less a ceasefire and more a strongly-worded pause, with Trump openly reserving the right to resume bombing at his discretion \u2014 which is not typically how binding international agreements work. Meanwhile Israel is still striking Lebanon despite the MOU, the Strait of Hormuz threat level was quietly 'downgraded' rather than eliminated, and BMW is issuing profit warnings from the economic blast radius. A deal that requires the dealmaker to continuously threaten the other party is called something else entirely.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran MOU exists on paper but Trump's 'go right back to dropping bombs' framing and continued Israeli strikes on Lebanon suggest the ceasefire is structurally fragile."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Pentagon confirms 1.5 million personnel using generative AI tools for report-writing; SpaceX acquires Cursor for $60B, consolidating AI coding capability inside a defense-adjacent empire."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "OpenAI, Anthropic, and Google joined world leaders at G7 to discuss frontier AI risks \u2014 a signal of industry power, not necessarily of meaningful oversight."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Russian warship fired warning shots near a civilian yacht in the English Channel; UK's Starmer called it 'reckless' \u2014 a minor but symbolically charged provocation in European waters."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major alignment incidents today; Anthropic paused token billing changes, suggesting internal prioritization of user trust over revenue extraction \u2014 faint positive signal."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "saber-rattling",
+        "provisional",
+        "combustible"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy and smoldering orange, the entire frame dominated by an enormous ornate mahogany table seen from above as if suspended in open air between two worlds, one half of the table surface draped in crisp cream diplomatic cloth with a thick formal document lying open at the center, signature lines visible, official seals pressed into the paper, the other half of the table scorched and crumbling away into ash and cinders, its wood blackening and dissolving into trailing smoke that drifts downward into an abyss of smoldering orange light below, the table balanced on a single fulcrum point at its center like a seesaw mid-tip, heavy shadows pooling beneath the scorched half, the cream document sliding slowly toward the burning edge, Belle \u00c9poque wrought-iron balcony railings visible at the extreme upper corners of the frame suggesting a grand lakeside palace hotel, distant Alpine snowfields catching cold blue-white light at the top of the image contrasting violently with the volcanic orange glow rising from below, smoke-filtered amber haze pressing through the entire scene, the table's reflection shimmering in smoke as though Lake Geneva itself has turned to embers beneath it."
+    },
+    "dawn": {
+      "percentage": 64.3,
+      "driver": "Superconductivity breakthrough could unlock ultra-efficient electronics. A clever nanoscale redesign may have solved one of superconductivity's biggest problems. Researchers in Sweden discovered that by subtly sculpting the surface beneath an ultrathin superconducting mate",
+      "category": "Science",
+      "blurb": "SWEDISH LABS CRACK SUPERCONDUCTIVITY'S BIGGEST PUZZLE",
+      "summary": "Against a backdrop of war deals and geopolitical friction, Swedish researchers quietly achieved something that could reshape how humanity powers its technology: a nanoscale fix for one of superconductivity's most stubborn engineering obstacles. If this holds, it's a step toward electronics that waste almost no energy \u2014 a profound gain for computing, medicine, and clean power infrastructure. On a day when the headlines skew heavy, a lab bench in Sweden reminds us that patient, methodical science keeps delivering.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Swedish researchers solved a core superconductivity engineering problem through nanoscale surface redesign, potentially unlocking ultra-efficient electronics at scale."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G7 leaders signaled collective support for the US-Iran memorandum of understanding, representing rare multilateral alignment on de-escalation."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "World Cup fans from Mexico and South Korea were spotted partying together before their match, calling each other 'brother' \u2014 spontaneous human warmth across borders."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Trump administration legal battles against wind energy are faltering as clean energy output continues to surge despite political headwinds."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A daily probiotic showed measurable relief for depression and anxiety in older adults in a small clinical trial, adding a low-barrier tool to mental health care."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "ingenious",
+        "resilient",
+        "energized",
+        "illuminating"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-tinted fog and warm teal mist rolling through a narrow residential street in Gothenburg, Sweden, winter dusk, the atmosphere itself the dominant presence, wet cobblestones reflecting deep golden and teal light from apartment windows above. A small electronics repair shop visible through the haze, its warm amber interior glow bleeding through a fogged window, a single ceiling fan frozen mid-spin where it hangs from the ceiling, power tools resting idle on a workbench visible through the glass. On the wet street outside, a bicycle leans against a lamp post, its small dynamo headlight glowing impossibly bright and steady despite no rider, a faint ring of golden light around the bulb suggesting effortless, unbroken current. The fog softens every edge, halos every light source into radiant bloom, teal shadows pooling in doorways and under eaves while amber warmth pours from the shop window. A power line overhead vanishes into the mist, its cable perfectly taut and dry against the wet grey-blue winter sky, suggesting clean transmission through the murk. Deep golden hour amber and warm teal throughout, side-lighting casting long soft shadows across wet stone, radiant and still."
+    }
   }
 ]
