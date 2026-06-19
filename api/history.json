@@ -12705,5 +12705,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A school vaccination clinic corridor in England at golden hour, warm amber light blazing through tall institutional windows at the far end of the hallway, flooding the entire space with radiant deep gold and warm teal shadow, the scene backlit so intensely that everything in the foreground dissolves into rich dark silhouettes. A young girl, 12 or 13 years old, sits on a chair with her sleeve rolled up, her small silhouetted profile turned slightly toward a nurse beside her, the nurse's gentle arm extended in the act of giving the injection, both figures rendered as pure dark cutouts against the blazing amber glow behind them. A row of folding chairs lines the corridor wall, empty except for a few waiting silhouetted figures. A vaccination tray with small vials rests on a table, its glass catching a single sliver of warm teal light. On the illuminated window glass behind the figures, the pixel art renders the faintest ghost of a large luminous zero hanging in the amber haze, not as text but as a radiant circular absence, a glowing emptiness where grief used to live. Long dramatic shadows stretch across the tiled floor toward the viewer. Deep golden hour amber and warm teal dominate every surface, side-lighting with long shadows, radiant.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-18.png"
     }
+  },
+  {
+    "date": "2026-06-19",
+    "generated_at": "2026-06-19T13:39:05.917301+00:00",
+    "doom": {
+      "percentage": 37.0,
+      "raw_percentage": 37.6,
+      "driver": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack.",
+      "category": "Geopolitics",
+      "blurb": "LARGEST DRONE STRIKE YET. RUSSIA SAYS: YOUR TURN.",
+      "summary": "Ukraine just launched its biggest-ever drone assault on Moscow, hitting an oil refinery and sending residents fleeing from literal black rain. Russia has responded by promising 'massive group strikes' \u2014 which is diplomatic language for 'we are very cross and have rockets.' Meanwhile, US-Iran Swiss talks collapsed, Hegseth called NATO a paper tiger again, and Afghanistan is lobbing strikes into Pakistan, suggesting the world's conflict management software is running several critical errors simultaneously.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Ukraine's largest-ever drone strike on Moscow triggers Russian escalation threats; Afghanistan-Pakistan cross-border strikes threaten fragile ceasefire; Niger airport attacked by jihadists \u2014 three separate hot conflicts ticking up in one day."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Hegseth formally launches 6-month NATO review and calls alliance a 'paper tiger,' signaling potential US troop drawdown from Europe precisely when Russia is threatening massive retaliation."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "DeepSeek launches vision capabilities and a startup claims to have solved LLM's core mathematical bottleneck \u2014 incremental but steady capability gains on multiple fronts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "US-Iran Swiss talks abruptly canceled hours after a preliminary deal was signed, with Trump simultaneously claiming 'unconditional surrender' and 'no limits' on his power \u2014 deal coherence remains deeply unclear."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "10,000 GitHub repositories found distributing trojan malware and AMD silently removed memory encryption from consumer CPUs \u2014 the baseline security environment continues its quiet degradation."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "chaotic",
+        "volatile",
+        "smoke-filled",
+        "precarious"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep shadows dominating, camera positioned at ground level inside the Kapotnya refinery district looking outward across a wide industrial yard in the hours after the strike, deep navy sky pressing down overhead still streaked with thin dissipating smoke trails catching the amber glow of emergency floodlights mounted on tall poles, the massive silver distillation columns of the Gazprom refinery rising into the frame with rust-streaked flanks and scorch marks on lower pipework, a single red-and-yellow KAMAZ fire engine parked at an oblique angle with its roof lights still cycling in slow orange pulses casting rhythmic shadows across the asphalt, a coiled fire hose abandoned mid-yard still dripping dark water into a spreading reflective puddle that mirrors the floodlit smoke above, the Gazprom blue-flame logo on a facility sign partially obscured by soot, Soviet-era apartment tower silhouettes visible beyond the perimeter fence with a handful of lit windows glowing warm amber where residents stand watching, no active flames visible but the air itself rendered in haze and heat distortion, smoldering orange and deep navy throughout, heavy shadows between every structure, the exhausted stillness of a scene where the worst has just passed.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-19.png"
+    },
+    "dawn": {
+      "percentage": 63.0,
+      "driver": "Swiss parliament lifts ban on new nuclear power plants.",
+      "category": "Environment",
+      "blurb": "SWITZERLAND LIGHTS THE WAY BACK TO CLEAN POWER",
+      "summary": "In a significant democratic reversal, Switzerland's parliament has lifted its decade-long ban on new nuclear power plants \u2014 a signal that pragmatic clean energy thinking is overcoming old fears. As climate pressures mount and Europe scrambles for energy independence, this vote represents exactly the kind of courageous, evidence-based policymaking the world needs more of. Against a backdrop of geopolitical turbulence and environmental strain, Switzerland just chose a lower-carbon future.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Hospitals and universities are repurposing existing drugs at 90% lower cost, quietly expanding access to treatments for millions."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Switzerland's parliamentary vote to lift its nuclear ban marks a major shift toward carbon-free baseload energy in the heart of Europe."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A US official confirmed an Israel-Hezbollah ceasefire agreement, offering a fragile but real pause in one of the region's most destructive conflicts."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Craig Newmark, founder of Craigslist, has quietly donated half a billion dollars to causes ranging from journalism integrity to veterans' support."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Remarkable new fossils are rewriting the story of how land animals evolved, deepening our understanding of life's most audacious transition."
+        }
+      ],
+      "mood": [
+        "renewal",
+        "resolve",
+        "pragmatic",
+        "forward-thinking",
+        "courageous"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed into cold stone pavement outside the Federal Palace in Bern, gazing up at the massive copper-green dome overhead catching deep amber June morning light, the curved neoclassical facade towering above like a cliff face, warm golden stone columns rising to dizzy height against a clear teal Alpine sky. A single figure \u2014 a middle-aged Swiss engineer in a dark jacket, a rolled sheaf of technical documents tucked under one arm \u2014 stands at the base of the palace steps, head tilted back, looking up at that dome with an expression of quiet, private relief, not triumph but exhale, the weight of years briefly lifted. The underside of the stone steps jut into the lower frame, the red-and-white Swiss cross carved into a balustrade catches sideways amber light. Long shadows rake across pale limestone. The Alps are an impossibly thin blue silhouette visible at the very edge of the sky between columns. Deep golden hour amber saturates the stonework, warm teal pools in the dome's shadow and the open sky beyond. Radiant side-lighting. Still morning air after consequence.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-19.png"
+    }
   }
 ]
