@@ -1,97 +1,96 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T13:39:05.917301+00:00",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T12:02:13.189306+00:00",
   "doom": {
-    "percentage": 37.0,
-    "raw_percentage": 37.6,
-    "driver": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack.",
-    "category": "Geopolitics",
-    "blurb": "LARGEST DRONE STRIKE YET. RUSSIA SAYS: YOUR TURN.",
-    "summary": "Ukraine just launched its biggest-ever drone assault on Moscow, hitting an oil refinery and sending residents fleeing from literal black rain. Russia has responded by promising 'massive group strikes' \u2014 which is diplomatic language for 'we are very cross and have rockets.' Meanwhile, US-Iran Swiss talks collapsed, Hegseth called NATO a paper tiger again, and Afghanistan is lobbing strikes into Pakistan, suggesting the world's conflict management software is running several critical errors simultaneously.",
+    "percentage": 33.2,
+    "raw_percentage": 31.4,
+    "driver": "Australia confirms first case of H5N1 bird flu as virus reaches every continent.",
+    "category": "Biotech",
+    "blurb": "BIRD FLU COMPLETES ITS WORLD TOUR",
+    "summary": "H5N1 has now touched every continent, which is either a footnote or a foreshadowing depending on how the next few months go. Meanwhile Lebanon's ceasefire is doing that thing ceasefires do \u2014 existing mostly on paper while Israeli strikes and Hezbollah rockets continue to trade visits. And with an Ebola vaccine sitting unused on a shelf for 15 years while families storm quarantine centres in the DRC, humanity's relationship with 'being prepared' remains complicated.",
     "factors": [
       {
-        "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Ukraine's largest-ever drone strike on Moscow triggers Russian escalation threats; Afghanistan-Pakistan cross-border strikes threaten fragile ceasefire; Niger airport attacked by jihadists \u2014 three separate hot conflicts ticking up in one day."
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "The biggest AI story today is that Amazon dropped a Sam Altman biopic \u2014 concerning for cinema, not civilization."
       },
       {
         "name": "Governance",
+        "signal": "medium",
+        "detail": "US cutting HIV funding to South Africa and Italy's Meloni publicly rebuking Trump signals Western alliance fractures continuing to widen."
+      },
+      {
+        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Hegseth formally launches 6-month NATO review and calls alliance a 'paper tiger,' signaling potential US troop drawdown from Europe precisely when Russia is threatening massive retaliation."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "DeepSeek launches vision capabilities and a startup claims to have solved LLM's core mathematical bottleneck \u2014 incremental but steady capability gains on multiple fronts."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "US-Iran Swiss talks abruptly canceled hours after a preliminary deal was signed, with Trump simultaneously claiming 'unconditional surrender' and 'no limits' on his power \u2014 deal coherence remains deeply unclear."
+        "detail": "Lebanon ceasefire is collapsing in real time with seven killed in Israeli strikes and MSF calling Nabatieh a 'death trap.'"
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "10,000 GitHub repositories found distributing trojan malware and AMD silently removed memory encryption from consumer CPUs \u2014 the baseline security environment continues its quiet degradation."
+        "detail": "Nothing in today's feeds suggests AI systems are getting meaningfully more dangerous \u2014 quiet day on this front."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "H5N1 completing its continental sweep and a 15-year-old Ebola vaccine still undeployed are quiet alarms ringing at the same time."
       }
     ],
     "mood": [
-      "escalatory",
-      "chaotic",
-      "volatile",
-      "smoke-filled",
-      "precarious"
+      "ominous",
+      "scattered",
+      "festering",
+      "uneasy"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep shadows dominating, camera positioned at ground level inside the Kapotnya refinery district looking outward across a wide industrial yard in the hours after the strike, deep navy sky pressing down overhead still streaked with thin dissipating smoke trails catching the amber glow of emergency floodlights mounted on tall poles, the massive silver distillation columns of the Gazprom refinery rising into the frame with rust-streaked flanks and scorch marks on lower pipework, a single red-and-yellow KAMAZ fire engine parked at an oblique angle with its roof lights still cycling in slow orange pulses casting rhythmic shadows across the asphalt, a coiled fire hose abandoned mid-yard still dripping dark water into a spreading reflective puddle that mirrors the floodlit smoke above, the Gazprom blue-flame logo on a facility sign partially obscured by soot, Soviet-era apartment tower silhouettes visible beyond the perimeter fence with a handful of lit windows glowing warm amber where residents stand watching, no active flames visible but the air itself rendered in haze and heat distortion, smoldering orange and deep navy throughout, heavy shadows between every structure, the exhausted stillness of a scene where the worst has just passed.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-19.png"
+    "card_image": "doom-card-2026-06-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dim Australian farmhouse kitchen on the Esperance hinterland looking outward through a wide flyscreen door toward a vast flat paddock under a smoke-filtered deep navy sky, the wire mesh of the screen door dominating the foreground in dark silhouette, smoldering orange light bleeding along the horizon where the Southern Ocean meets dusk, a dead white cockatoo lying motionless on the dry ochre dirt of the back step just beyond the threshold, its wings loosely splayed against cracked red earth, a second bird collapsed further out in the paddock barely visible as a grey-brown smear against the pale bleached grass, inside the kitchen a half-eaten breakfast sits abandoned on a laminate table lit by a single overhead bulb casting sickly warm orange against deep shadows, a government biosecurity flyer pinned to the fridge door glows faintly under that light, the flyscreen mesh casting a grid of shadow across everything, heavy darkness pressing in from the paddock edges, the silence and stillness of the scene carrying the weight of ecological threshold, deep navy and smoldering orange palette throughout, warmth threatening rather than comforting.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-20.png"
   },
   "dawn": {
-    "percentage": 63.0,
-    "driver": "Swiss parliament lifts ban on new nuclear power plants.",
-    "category": "Environment",
-    "blurb": "SWITZERLAND LIGHTS THE WAY BACK TO CLEAN POWER",
-    "summary": "In a significant democratic reversal, Switzerland's parliament has lifted its decade-long ban on new nuclear power plants \u2014 a signal that pragmatic clean energy thinking is overcoming old fears. As climate pressures mount and Europe scrambles for energy independence, this vote represents exactly the kind of courageous, evidence-based policymaking the world needs more of. Against a backdrop of geopolitical turbulence and environmental strain, Switzerland just chose a lower-carbon future.",
+    "percentage": 66.8,
+    "driver": "Scientists reprogram brain immune cells to fight Alzheimer's. A newly identified molecule called OLE helped restore the brain's immune cells to a more protective state in Alzheimer's models. The treatment reduced toxic plaque buildup and improved memory, raising",
+    "category": "Medicine",
+    "blurb": "BRAIN'S OWN DEFENSES TURNED AGAINST ALZHEIMER'S",
+    "summary": "In a week heavy with conflict and disease headlines, researchers have identified a molecule called OLE that reprograms the brain's own immune cells into active defenders against Alzheimer's disease \u2014 reducing toxic plaques and restoring memory in animal models. This is a meaningfully different approach from previous Alzheimer's work: rather than attacking the disease from outside, it recruits the brain's native machinery. With tens of millions of families worldwide affected by dementia, a therapy that works with the brain rather than against it represents genuine, hard-won cause for hope.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Hospitals and universities are repurposing existing drugs at 90% lower cost, quietly expanding access to treatments for millions."
-      },
-      {
-        "name": "Environment",
         "signal": "blazing",
-        "detail": "Switzerland's parliamentary vote to lift its nuclear ban marks a major shift toward carbon-free baseload energy in the heart of Europe."
+        "detail": "Reprogramming microglia \u2014 the brain's resident immune cells \u2014 is a novel mechanistic pathway that opens an entirely new therapeutic front in Alzheimer's research."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "A US official confirmed an Israel-Hezbollah ceasefire agreement, offering a fragile but real pause in one of the region's most destructive conflicts."
+        "detail": "The global reparatory justice framework adopted in Ghana marks a rare moment of multilateral consensus on a historically intractable issue."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Craig Newmark, founder of Craigslist, has quietly donated half a billion dollars to causes ranging from journalism integrity to veterans' support."
+        "detail": "Palestinian-American children are finding community and escape through soccer just miles from the World Cup, turning sport into genuine refuge."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Scientists mapping the surprising cosmic neutrino source in 'Shadow Blaster' galaxy reflect a steady, undimmed human drive to understand the universe."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Remarkable new fossils are rewriting the story of how land animals evolved, deepening our understanding of life's most audacious transition."
+        "detail": "A Wired-tested espresso method using ultrasonic waves cuts energy consumption by 75 percent \u2014 a small but real signal that low-carbon innovation is finding its way into everyday life."
       }
     ],
     "mood": [
-      "renewal",
-      "resolve",
-      "pragmatic",
-      "forward-thinking",
-      "courageous"
+      "breakthrough",
+      "resilience",
+      "discovery",
+      "hope",
+      "ingenuity"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed into cold stone pavement outside the Federal Palace in Bern, gazing up at the massive copper-green dome overhead catching deep amber June morning light, the curved neoclassical facade towering above like a cliff face, warm golden stone columns rising to dizzy height against a clear teal Alpine sky. A single figure \u2014 a middle-aged Swiss engineer in a dark jacket, a rolled sheaf of technical documents tucked under one arm \u2014 stands at the base of the palace steps, head tilted back, looking up at that dome with an expression of quiet, private relief, not triumph but exhale, the weight of years briefly lifted. The underside of the stone steps jut into the lower frame, the red-and-white Swiss cross carved into a balustrade catches sideways amber light. Long shadows rake across pale limestone. The Alps are an impossibly thin blue silhouette visible at the very edge of the sky between columns. Deep golden hour amber saturates the stonework, warm teal pools in the dome's shadow and the open sky beyond. Radiant side-lighting. Still morning air after consequence.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-19.png"
+    "card_image": "dawn-card-2026-06-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A memory care facility courtyard in southern Spain at golden hour, warm amber light flooding dusty terracotta pathways between low whitewashed buildings, long shadows stretching across the ground. From this height the scene feels expansive and quietly transformed \u2014 tiny elderly residents moving with unexpected steadiness along garden paths, a few pausing to tend terracotta pots of silver-leafed olive trees, their movements unhurried but purposeful. A courtyard chessboard is mid-game, two small figures bent over it with visible engagement. Caregivers stand nearby in small clusters, not intervening, simply watching with arms loosely folded \u2014 the posture of people who expected to be needed more. The tile rooftops glow deep amber, long cast shadows in warm teal cutting across the pale gravel. A distant hillside of olive groves frames the horizon in muted gold-green. The whole scene radiates the second-order effect of restored cognition \u2014 not a lab, not a breakthrough moment, but a courtyard full of people living more fully because something invisible changed inside them.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-20.png"
   }
 }
