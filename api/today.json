@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T12:02:13.189306+00:00",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T12:14:34.349395+00:00",
   "doom": {
-    "percentage": 33.2,
-    "raw_percentage": 31.4,
-    "driver": "Australia confirms first case of H5N1 bird flu as virus reaches every continent.",
-    "category": "Biotech",
-    "blurb": "BIRD FLU COMPLETES ITS WORLD TOUR",
-    "summary": "H5N1 has now touched every continent, which is either a footnote or a foreshadowing depending on how the next few months go. Meanwhile Lebanon's ceasefire is doing that thing ceasefires do \u2014 existing mostly on paper while Israeli strikes and Hezbollah rockets continue to trade visits. And with an Ebola vaccine sitting unused on a shelf for 15 years while families storm quarantine centres in the DRC, humanity's relationship with 'being prepared' remains complicated.",
+    "percentage": 33.1,
+    "raw_percentage": 31.7,
+    "driver": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz. The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+    "category": "Geopolitics",
+    "blurb": "WORLD'S MOST IMPORTANT CHOKEPOINT: OPEN? CLOSED? YES.",
+    "summary": "Iran says the Strait of Hormuz is shut. The U.S. says ships are sailing through just fine. Both cannot be right, which means either someone is bluffing or someone is about to find out they weren't. Meanwhile, JD Vance has flown to Switzerland, which is either a sign that these talks are serious or that Switzerland is having a very stressful weekend. Twenty percent of global oil transits the Strait daily \u2014 a fun fact that tends to focus the mind.",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "The biggest AI story today is that Amazon dropped a Sam Altman biopic \u2014 concerning for cinema, not civilization."
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Conflicting claims over Strait of Hormuz closure inject fresh uncertainty into already fragile US-Iran diplomacy, with Vance, Kushner, and Witkoff all wheels-down in Geneva."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "US cutting HIV funding to South Africa and Italy's Meloni publicly rebuking Trump signals Western alliance fractures continuing to widen."
+        "detail": "Colombia's presidential runoff pits a hardliner vowing full military confrontation with cartels against a leftist backing talks \u2014 either outcome reshapes a major narco-conflict zone."
       },
       {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Lebanon ceasefire is collapsing in real time with seven killed in Israeli strikes and MSF calling Nabatieh a 'death trap.'"
+        "name": "AI Capability",
+        "signal": "low",
+        "detail": "Booz Allen report warning that Chinese AI models may produce more vulnerable code for U.S. government users is concerning but still in the 'red flag' rather than 'red alert' tier."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "low",
+        "detail": "Bolivia declares state of emergency with military deployed against protesters \u2014 Latin America adding a third country to its instability column this week."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Nothing in today's feeds suggests AI systems are getting meaningfully more dangerous \u2014 quiet day on this front."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "H5N1 completing its continental sweep and a 15-year-old Ebola vaccine still undeployed are quiet alarms ringing at the same time."
+        "detail": "Quiet day on the AI frontier \u2014 the most alarming AI story involves plagiarized dictionary definitions, which is bad but not extinction-adjacent."
       }
     ],
     "mood": [
-      "ominous",
-      "scattered",
-      "festering",
-      "uneasy"
+      "tense",
+      "murky",
+      "diplomatic",
+      "volatile",
+      "watchful"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-20.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dim Australian farmhouse kitchen on the Esperance hinterland looking outward through a wide flyscreen door toward a vast flat paddock under a smoke-filtered deep navy sky, the wire mesh of the screen door dominating the foreground in dark silhouette, smoldering orange light bleeding along the horizon where the Southern Ocean meets dusk, a dead white cockatoo lying motionless on the dry ochre dirt of the back step just beyond the threshold, its wings loosely splayed against cracked red earth, a second bird collapsed further out in the paddock barely visible as a grey-brown smear against the pale bleached grass, inside the kitchen a half-eaten breakfast sits abandoned on a laminate table lit by a single overhead bulb casting sickly warm orange against deep shadows, a government biosecurity flyer pinned to the fridge door glows faintly under that light, the flyscreen mesh casting a grid of shadow across everything, heavy darkness pressing in from the paddock edges, the silence and stillness of the scene carrying the weight of ecological threshold, deep navy and smoldering orange palette throughout, warmth threatening rather than comforting.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-20.png"
+    "card_image": "doom-card-2026-06-21.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick fog rolling off Lac L\u00e9man pressing against the stone facade of a grand Geneva lakeside building in pre-dawn darkness, camera positioned at mid-distance across frost-glazed cobblestones looking toward tall arched windows glowing amber from within, deep navy sky pressing down with near-zero visibility, bare winter trees dissolved into grey murk at the edges of the frame, three flagpoles rising from the entrance steps bearing the Stars and Stripes, Iranian green-white-red tricolor, and Pakistani crescent flag, all hanging limp and heavy with moisture in the still foggy air, a row of black Mercedes S-Class vehicles idling at the kerb with exhaust vapour rising and dissolving into the fog, their headlights cutting weak orange cones into the murk, and far beyond the building's silhouette barely visible through the haze a massive dark hull of a crude oil tanker sits motionless on the flat grey-green water of the strait rendered as a ghostly smudge on the horizon, smoldering orange light bleeding upward from somewhere behind the Alpine ridge as if distant fires are the only warmth in a frozen world, deep navy and threatening amber dominating every shadow.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-21.png"
   },
   "dawn": {
-    "percentage": 66.8,
-    "driver": "Scientists reprogram brain immune cells to fight Alzheimer's. A newly identified molecule called OLE helped restore the brain's immune cells to a more protective state in Alzheimer's models. The treatment reduced toxic plaque buildup and improved memory, raising",
-    "category": "Medicine",
-    "blurb": "BRAIN'S OWN DEFENSES TURNED AGAINST ALZHEIMER'S",
-    "summary": "In a week heavy with conflict and disease headlines, researchers have identified a molecule called OLE that reprograms the brain's own immune cells into active defenders against Alzheimer's disease \u2014 reducing toxic plaques and restoring memory in animal models. This is a meaningfully different approach from previous Alzheimer's work: rather than attacking the disease from outside, it recruits the brain's native machinery. With tens of millions of families worldwide affected by dementia, a therapy that works with the brain rather than against it represents genuine, hard-won cause for hope.",
+    "percentage": 66.9,
+    "driver": "Yale study finds nearly half of older adults improved with age. A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means decline.",
+    "category": "Science",
+    "blurb": "AGING IS NOT WHAT WE THOUGHT",
+    "summary": "On a day dominated by war talks, geopolitical friction, and cascading crises, Yale researchers quietly detonated one of medicine's most stubborn myths: that growing old means inevitable decline. Nearly half of adults over 65 actually improved \u2014 physically, mentally, or both \u2014 over the study period. That's not a rounding error; that's a fundamental rewrite of how we understand human resilience across a lifetime. In a feed full of doom, this finding lands differently: the bodies and minds carrying us through hard times are more capable of renewal than we ever assumed.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Reprogramming microglia \u2014 the brain's resident immune cells \u2014 is a novel mechanistic pathway that opens an entirely new therapeutic front in Alzheimer's research."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "The global reparatory justice framework adopted in Ghana marks a rare moment of multilateral consensus on a historically intractable issue."
+        "detail": "A long-term Yale study found nearly half of adults over 65 improved physically or mentally over time, overturning decades of assumptions about aging as inevitable decline."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Palestinian-American children are finding community and escape through soccer just miles from the World Cup, turning sport into genuine refuge."
+        "detail": "20,000 runners united across South Africa's deep racial divides at the world's largest ultramarathon, with one reporter noting inequality seemed to 'melt away' at the starting line."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "US and Iranian delegations arrived in Switzerland to begin direct peace talks, with technical-level negotiations representing the most substantive diplomatic contact in years."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Scientists mapping the surprising cosmic neutrino source in 'Shadow Blaster' galaxy reflect a steady, undimmed human drive to understand the universe."
+        "signal": "bright",
+        "detail": "Scientists discovered that thawing permafrost triggers increased rock weathering that absorbs CO2, with some regions fully offsetting their own carbon emissions through this hidden geological process."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "A Wired-tested espresso method using ultrasonic waves cuts energy consumption by 75 percent \u2014 a small but real signal that low-carbon innovation is finding its way into everyday life."
+        "detail": "Research published in Cell found that slow breathing measurably modulates brain function and risk behavior, offering a simple, free tool for mental resilience that anyone can use today."
       }
     ],
     "mood": [
-      "breakthrough",
       "resilience",
+      "renewal",
       "discovery",
-      "hope",
-      "ingenuity"
+      "defiant",
+      "hopeful"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-20.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A memory care facility courtyard in southern Spain at golden hour, warm amber light flooding dusty terracotta pathways between low whitewashed buildings, long shadows stretching across the ground. From this height the scene feels expansive and quietly transformed \u2014 tiny elderly residents moving with unexpected steadiness along garden paths, a few pausing to tend terracotta pots of silver-leafed olive trees, their movements unhurried but purposeful. A courtyard chessboard is mid-game, two small figures bent over it with visible engagement. Caregivers stand nearby in small clusters, not intervening, simply watching with arms loosely folded \u2014 the posture of people who expected to be needed more. The tile rooftops glow deep amber, long cast shadows in warm teal cutting across the pale gravel. A distant hillside of olive groves frames the horizon in muted gold-green. The whole scene radiates the second-order effect of restored cognition \u2014 not a lab, not a breakthrough moment, but a courtyard full of people living more fully because something invisible changed inside them.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-20.png"
+    "card_image": "dawn-card-2026-06-21.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single aged paper graph scroll pressed flat against a warm amber-lit wooden surface, the camera pressed so close that individual trajectory lines dominate everything. Deep golden hour amber light rakes across the paper from the left, casting long warm shadows that make the texture of the aged document glow like honey. The central visual fact: while one thick faded line slopes gently downward across the scroll, four or five individual trajectory lines branch and curve unmistakably upward like saplings bending toward light, diverging from the average in defiance of gravity. The paper itself is warm ivory yellowed at the edges, slightly curled, suggesting years of handling across a long study. At the extreme edges of the frame, out of focus in soft bokeh, the warm teal shadow of an open window and the blurred amber glow of afternoon sun bleed into the corners. The upward-branching lines are rendered in warm copper and soft teal pixel strokes, precise and deliberate. The downward average line is thin and gray, visually subordinate, almost apologetic beside the rising individual paths. The emotional register is quiet revelation \u2014 the paper itself seems to be the source of the warm light, as if the data is illuminating the room.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-21.png"
   }
 }
