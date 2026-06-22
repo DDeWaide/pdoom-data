@@ -12725,5 +12725,99 @@
       "card_image": "dawn-card-2026-06-21.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single aged paper graph scroll pressed flat against a warm amber-lit wooden surface, the camera pressed so close that individual trajectory lines dominate everything. Deep golden hour amber light rakes across the paper from the left, casting long warm shadows that make the texture of the aged document glow like honey. The central visual fact: while one thick faded line slopes gently downward across the scroll, four or five individual trajectory lines branch and curve unmistakably upward like saplings bending toward light, diverging from the average in defiance of gravity. The paper itself is warm ivory yellowed at the edges, slightly curled, suggesting years of handling across a long study. At the extreme edges of the frame, out of focus in soft bokeh, the warm teal shadow of an open window and the blurred amber glow of afternoon sun bleed into the corners. The upward-branching lines are rendered in warm copper and soft teal pixel strokes, precise and deliberate. The downward average line is thin and gray, visually subordinate, almost apologetic beside the rising individual paths. The emotional register is quiet revelation \u2014 the paper itself seems to be the source of the warm light, as if the data is illuminating the room."
     }
+  },
+  {
+    "date": "2026-06-22",
+    "generated_at": "2026-06-22T14:06:09.356975+00:00",
+    "doom": {
+      "percentage": 32.8,
+      "raw_percentage": 31.7,
+      "driver": "Ebola cases surpass 1,000 in DR Congo amid violence and displacement.",
+      "category": "Biotech",
+      "blurb": "EBOLA CROSSES FOUR DIGITS. DISPLACEMENT DOES THE REST.",
+      "summary": "Ebola has now surpassed 1,000 cases in DR Congo, where overcrowded displacement camps are doing their best impression of a virus incubator. Meanwhile Science Daily helpfully reminds us that Ebola 'can start like the flu but turn deadly fast' \u2014 which is the kind of thing that's comforting to read while the case count ticks upward. The good news: this isn't a new outbreak, and containment efforts exist. The bad news: 'containment' and 'overcrowded displacement camp' are not words that enjoy each other's company.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Workers training next-gen AI models are just using other chatbots to do it \u2014 a recursion problem that is funny until it isn't."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "The UK is about to install its seventh prime minister in ten years, which is either a sign of democratic resilience or a revolving door someone forgot to oil."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran talks produced a 60-day roadmap and IAEA access \u2014 genuine progress, though the Strait of Hormuz remains a daily cliffhanger with shipping still stalled."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Anthropic is now doing identity verification on Claude, which raises more questions than it answers about what Claude has been getting up to."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola crossing 1,000 cases in a conflict zone with mass displacement is the kind of compounding risk that historically precedes things getting much worse."
+        }
+      ],
+      "mood": [
+        "simmering",
+        "precarious",
+        "grimly routine",
+        "cautious"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned low at ground level inside a Kigonze displacement camp corridor at dusk, looking outward between two rows of UNHCR-blue tarpaulin shelters on wooden poles toward a bruised orange sky, where a lone Congolese nun in full habit stands at the far end of the corridor with her back to the camera, her white robes rendered as pure black silhouette against the burning horizon, her hands clasped at her waist, head bowed slightly, the red earth path between the shelters wet with rain and catching orange reflections, a devastatingly small wooden shape resting on the ground near her feet implied in deep shadow, the tarpaulin walls on either side casting heavy navy shadow inward, distant smoke from cooking fires rising against the orange glow, the entire scene heavy with stillness and unspoken grief, warm light feels threatening not comforting, equatorial overcast pressing down from above."
+    },
+    "dawn": {
+      "percentage": 67.2,
+      "driver": "A common vitamin could help fight one of the deadliest brain cancers. A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i",
+      "category": "Medicine",
+      "blurb": "CHEAP VITAMIN MAY CRACK DEADLIEST BRAIN CANCER",
+      "summary": "Glioblastoma is one of medicine's most brutal diagnoses \u2014 median survival under 15 months, and decades of research yielding little. The news that niacin, a widely available B vitamin, may help revive immune response against this cancer is the kind of quietly revolutionary finding that deserves more attention than it gets. Against a week of Hormuz tensions, Ebola surges, and political upheaval, a clinical trial quietly pursuing a $0.10-a-day solution to one of oncology's hardest problems is exactly the signal pDawn is built to amplify.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A clinical trial testing high-dose vitamin B3 against glioblastoma represents a low-cost, accessible potential breakthrough in a disease that has resisted treatment for generations."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "US-Iran talks in Switzerland produced an agreed roadmap for a final deal within 60 days, with Tehran allowing IAEA inspectors back in \u2014 a meaningful diplomatic step forward."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ukrainian soldiers marched in Kyiv's Pride parade mid-war, pushing for the right to marry \u2014 an act of stubborn, joyful defiance against erasure."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Heliconius butterflies show negligible aging across extended lifespans, giving longevity researchers a new biological model to study how organisms escape senescence."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Cape Verde scored its first ever World Cup goal against Uruguay live on BBC News, sparking pure, unscripted joy that briefly united millions of viewers across the globe."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "resilient",
+        "determined",
+        "breakthrough",
+        "joyful"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital break room at 2am, deep amber glow from a single overhead fluorescent tube flickering warm over a formica table, cool teal light bleeding in from a monitor screen in the background casting long shadows across the room. On the table, a folded newspaper lies open, its printed headline and a grainy photograph of a brain scan visible on the page, the paper's white surface catching the amber light and glowing faintly against the dark tabletop. Beside the newspaper, a small orange pharmacy pill bottle rests on its side, cap loosened, a few small white tablets spilled onto the table surface, catching warm amber highlights on their curved edges. A half-drunk paper coffee cup sits nearby, steam rendered as faint teal wisps curling upward into the shadow-heavy ceiling. In the deep background, a wall-mounted TV screen glows cool blue-white, its pixelated display showing a silhouetted brain scan image, a dark mass within the brain form surrounded by lighter tones. Long dramatic shadows stretch across the linoleum floor, the room feeling intimate and significant, the scene suffused with deep golden amber warmth meeting cool teal darkness, radiant and quietly triumphant."
+    }
   }
 ]
