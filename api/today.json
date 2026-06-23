@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-22",
-  "generated_at": "2026-06-22T14:06:09.356975+00:00",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T12:38:48.894265+00:00",
   "doom": {
-    "percentage": 32.8,
-    "raw_percentage": 31.7,
-    "driver": "Ebola cases surpass 1,000 in DR Congo amid violence and displacement.",
-    "category": "Biotech",
-    "blurb": "EBOLA CROSSES FOUR DIGITS. DISPLACEMENT DOES THE REST.",
-    "summary": "Ebola has now surpassed 1,000 cases in DR Congo, where overcrowded displacement camps are doing their best impression of a virus incubator. Meanwhile Science Daily helpfully reminds us that Ebola 'can start like the flu but turn deadly fast' \u2014 which is the kind of thing that's comforting to read while the case count ticks upward. The good news: this isn't a new outbreak, and containment efforts exist. The bad news: 'containment' and 'overcrowded displacement camp' are not words that enjoy each other's company.",
+    "percentage": 30.8,
+    "raw_percentage": 28.7,
+    "driver": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back.",
+    "category": "Nuclear",
+    "blurb": "DEAL OR NO DEAL: TEHRAN PLAYS BOTH SIDES",
+    "summary": "The US lifted Iranian oil sanctions and JD Vance announced inspectors are coming back, but Iran's foreign ministry immediately clarified it made 'no new commitments' \u2014 which is either diplomatic face-saving or a very expensive misunderstanding. Meanwhile Iran's president flew to Pakistan and technical teams are apparently still hammering out details of a war-ending deal, suggesting the whole thing is simultaneously more and less resolved than anyone is saying. Progress on nuclear diplomacy is genuinely good news, but 'we agreed to nothing' from Tehran keeps the uncertainty premium alive.",
     "factors": [
       {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "US-Iran deal framework progressing but Tehran's denial of new inspection commitments creates ambiguity about actual verification gains."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "medium",
+        "detail": "Iran oil sanctions lifted, Keir Starmer resigned triggering UK political instability, and far-right election win in Colombia reshapes Latin American alignment."
+      },
+      {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "Workers training next-gen AI models are just using other chatbots to do it \u2014 a recursion problem that is funny until it isn't."
+        "signal": "medium",
+        "detail": "3B parameter VibeThinker model claims to beat Claude Opus 4.5 on reasoning \u2014 capability-per-parameter efficiency curves keep compressing uncomfortably fast."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "The UK is about to install its seventh prime minister in ten years, which is either a sign of democratic resilience or a revolving door someone forgot to oil."
-      },
-      {
-        "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "US-Iran talks produced a 60-day roadmap and IAEA access \u2014 genuine progress, though the Strait of Hormuz remains a daily cliffhanger with shipping still stalled."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Anthropic is now doing identity verification on Claude, which raises more questions than it answers about what Claude has been getting up to."
+        "detail": "Anthropic's feud with the government over AI export controls highlights deepening tension between frontier labs and regulatory frameworks."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Ebola crossing 1,000 cases in a conflict zone with mass displacement is the kind of compounding risk that historically precedes things getting much worse."
+        "signal": "low",
+        "detail": "Ebola facility construction halted in Kenya by court order, adding friction to outbreak containment infrastructure as case count exceeds 1,000."
       }
     ],
     "mood": [
+      "ambiguous",
       "simmering",
+      "diplomatic",
       "precarious",
-      "grimly routine",
-      "cautious"
+      "watchful"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned low at ground level inside a Kigonze displacement camp corridor at dusk, looking outward between two rows of UNHCR-blue tarpaulin shelters on wooden poles toward a bruised orange sky, where a lone Congolese nun in full habit stands at the far end of the corridor with her back to the camera, her white robes rendered as pure black silhouette against the burning horizon, her hands clasped at her waist, head bowed slightly, the red earth path between the shelters wet with rain and catching orange reflections, a devastatingly small wooden shape resting on the ground near her feet implied in deep shadow, the tarpaulin walls on either side casting heavy navy shadow inward, distant smoke from cooking fires rising against the orange glow, the entire scene heavy with stillness and unspoken grief, warm light feels threatening not comforting, equatorial overcast pressing down from above.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-22.png"
+    "card_image": "doom-card-2026-06-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked desert hardpan, camera pressed flat to the scorched earth outside a chain-link perimeter fence topped with razor wire, the fence posts looming enormous against a deep navy sky smeared with smoldering orange at the horizon, a heavy reinforced concrete bunker entrance built into a mountainside dominating the upper frame, its blast doors sealed and welded shut with thick oxidized steel bars bolted across them, a radiation hazard inspection case lying abandoned and unopened in the foreground dirt just inside the fence line, its latches corroded and unused, dust devils spiraling through the empty compound between the camera and the sealed entrance, a single flickering security floodlight casting threatening amber light down the fence line from a crooked pole overhead, the underside of dense petrochemical smoke drifting across the frame blocking stars, deep shadows swallowing the base of the mountain while the sealed bunker face catches the only harsh orange glow, no humans present, the emptiness itself the subject \u2014 inspectors who never came, doors that will not open, a compound holding its silence.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-23.png"
   },
   "dawn": {
-    "percentage": 67.2,
-    "driver": "A common vitamin could help fight one of the deadliest brain cancers. A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i",
+    "percentage": 69.2,
+    "driver": "Woman with Alzheimer's starts conversing again after taking psilocybin. A woman with severe Alzheimer's disease who hadn't spoken more than monosyllables in years began initiating conversation after a single dose of psilocybin",
     "category": "Medicine",
-    "blurb": "CHEAP VITAMIN MAY CRACK DEADLIEST BRAIN CANCER",
-    "summary": "Glioblastoma is one of medicine's most brutal diagnoses \u2014 median survival under 15 months, and decades of research yielding little. The news that niacin, a widely available B vitamin, may help revive immune response against this cancer is the kind of quietly revolutionary finding that deserves more attention than it gets. Against a week of Hormuz tensions, Ebola surges, and political upheaval, a clinical trial quietly pursuing a $0.10-a-day solution to one of oncology's hardest problems is exactly the signal pDawn is built to amplify.",
+    "blurb": "SILENCE BROKEN: PSILOCYBIN GIVES A VOICE BACK",
+    "summary": "In a news cycle heavy with conflict and catastrophe, this single case report from New Scientist carries extraordinary weight: a woman with severe Alzheimer's who had been reduced to near-silence for years began initiating conversation after just one dose of psilocybin. It's a preliminary finding, not a cure \u2014 but after decades of Alzheimer's drug failures, even a glimmer of restored personhood is profound. Combined with the broader momentum in psychedelic medicine research, this signals that science may be approaching dementia from a genuinely new angle.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A clinical trial testing high-dose vitamin B3 against glioblastoma represents a low-cost, accessible potential breakthrough in a disease that has resisted treatment for generations."
+        "detail": "A single psilocybin dose restoring conversational capacity in severe Alzheimer's is the kind of unexpected result that reshapes entire research programs."
       },
       {
-        "name": "Cooperation",
+        "name": "Medicine",
         "signal": "bright",
-        "detail": "US-Iran talks in Switzerland produced an agreed roadmap for a final deal within 60 days, with Tehran allowing IAEA inspectors back in \u2014 a meaningful diplomatic step forward."
+        "detail": "Psychedelic-assisted therapies continue advancing into conditions once considered completely beyond their reach, expanding the therapeutic frontier dramatically."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Ukrainian soldiers marched in Kyiv's Pride parade mid-war, pushing for the right to marry \u2014 an act of stubborn, joyful defiance against erasure."
+        "detail": "Behind every data point is a family that heard their loved one speak again \u2014 a reminder of why this research matters beyond the science."
       },
       {
-        "name": "Science",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Heliconius butterflies show negligible aging across extended lifespans, giving longevity researchers a new biological model to study how organisms escape senescence."
+        "detail": "US-Iran technical teams are reportedly making progress toward a war-ending deal, with oil sanctions lifted and frozen assets unlocking \u2014 cautious but real diplomatic movement."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Cape Verde scored its first ever World Cup goal against Uruguay live on BBC News, sparking pure, unscripted joy that briefly united millions of viewers across the globe."
+        "detail": "Canada's plan for up to 10 new nuclear reactors by 2040 signals a serious clean-energy commitment from a G7 nation, building on last week's Swiss nuclear revival."
       }
     ],
     "mood": [
-      "hopeful",
-      "resilient",
-      "determined",
       "breakthrough",
-      "joyful"
+      "renewal",
+      "wonder",
+      "resilience",
+      "possibility"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-22.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital break room at 2am, deep amber glow from a single overhead fluorescent tube flickering warm over a formica table, cool teal light bleeding in from a monitor screen in the background casting long shadows across the room. On the table, a folded newspaper lies open, its printed headline and a grainy photograph of a brain scan visible on the page, the paper's white surface catching the amber light and glowing faintly against the dark tabletop. Beside the newspaper, a small orange pharmacy pill bottle rests on its side, cap loosened, a few small white tablets spilled onto the table surface, catching warm amber highlights on their curved edges. A half-drunk paper coffee cup sits nearby, steam rendered as faint teal wisps curling upward into the shadow-heavy ceiling. In the deep background, a wall-mounted TV screen glows cool blue-white, its pixelated display showing a silhouetted brain scan image, a dark mass within the brain form surrounded by lighter tones. Long dramatic shadows stretch across the linoleum floor, the room feeling intimate and significant, the scene suffused with deep golden amber warmth meeting cool teal darkness, radiant and quietly triumphant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-22.png"
+    "card_image": "dawn-card-2026-06-23.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warm holistic healing room in S\u00e3o Paulo looking outward through a wide open doorway into a sun-drenched garden courtyard, deep golden amber morning light pouring through the frame and casting long soft shadows across a low wooden floor. The aftermath of a long night: a worn linen cushion still holds the impression of someone who sat there for hours, a small ceramic bowl on a low table holds a few pale ivory dried fragments, a simple glass of water catches the amber light beside it. Through the doorway, golden hour teal-tinged garden air, lush green plants catching the early sun, light suggesting dawn breaking after a very long darkness. A folded woman's cardigan draped neatly over a low stool in the foreground \u2014 buttons fastened, placed with care, as if set out for morning. The color palette is deep amber gold and warm teal, organic and radiant, side-lit with long diagonal shadows stretching across the floor tiles toward the open door. The room is empty now, hushed, the conversation over, the miracle already happened \u2014 everything quiet and luminous.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-23.png"
   }
 }

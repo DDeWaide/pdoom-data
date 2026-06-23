@@ -12819,5 +12819,100 @@
       "card_image": "dawn-card-2026-06-22.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital break room at 2am, deep amber glow from a single overhead fluorescent tube flickering warm over a formica table, cool teal light bleeding in from a monitor screen in the background casting long shadows across the room. On the table, a folded newspaper lies open, its printed headline and a grainy photograph of a brain scan visible on the page, the paper's white surface catching the amber light and glowing faintly against the dark tabletop. Beside the newspaper, a small orange pharmacy pill bottle rests on its side, cap loosened, a few small white tablets spilled onto the table surface, catching warm amber highlights on their curved edges. A half-drunk paper coffee cup sits nearby, steam rendered as faint teal wisps curling upward into the shadow-heavy ceiling. In the deep background, a wall-mounted TV screen glows cool blue-white, its pixelated display showing a silhouetted brain scan image, a dark mass within the brain form surrounded by lighter tones. Long dramatic shadows stretch across the linoleum floor, the room feeling intimate and significant, the scene suffused with deep golden amber warmth meeting cool teal darkness, radiant and quietly triumphant."
     }
+  },
+  {
+    "date": "2026-06-23",
+    "generated_at": "2026-06-23T12:38:48.894265+00:00",
+    "doom": {
+      "percentage": 30.8,
+      "raw_percentage": 28.7,
+      "driver": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back.",
+      "category": "Nuclear",
+      "blurb": "DEAL OR NO DEAL: TEHRAN PLAYS BOTH SIDES",
+      "summary": "The US lifted Iranian oil sanctions and JD Vance announced inspectors are coming back, but Iran's foreign ministry immediately clarified it made 'no new commitments' \u2014 which is either diplomatic face-saving or a very expensive misunderstanding. Meanwhile Iran's president flew to Pakistan and technical teams are apparently still hammering out details of a war-ending deal, suggesting the whole thing is simultaneously more and less resolved than anyone is saying. Progress on nuclear diplomacy is genuinely good news, but 'we agreed to nothing' from Tehran keeps the uncertainty premium alive.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "US-Iran deal framework progressing but Tehran's denial of new inspection commitments creates ambiguity about actual verification gains."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "Iran oil sanctions lifted, Keir Starmer resigned triggering UK political instability, and far-right election win in Colombia reshapes Latin American alignment."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "3B parameter VibeThinker model claims to beat Claude Opus 4.5 on reasoning \u2014 capability-per-parameter efficiency curves keep compressing uncomfortably fast."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Anthropic's feud with the government over AI export controls highlights deepening tension between frontier labs and regulatory frameworks."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Ebola facility construction halted in Kenya by court order, adding friction to outbreak containment infrastructure as case count exceeds 1,000."
+        }
+      ],
+      "mood": [
+        "ambiguous",
+        "simmering",
+        "diplomatic",
+        "precarious",
+        "watchful"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked desert hardpan, camera pressed flat to the scorched earth outside a chain-link perimeter fence topped with razor wire, the fence posts looming enormous against a deep navy sky smeared with smoldering orange at the horizon, a heavy reinforced concrete bunker entrance built into a mountainside dominating the upper frame, its blast doors sealed and welded shut with thick oxidized steel bars bolted across them, a radiation hazard inspection case lying abandoned and unopened in the foreground dirt just inside the fence line, its latches corroded and unused, dust devils spiraling through the empty compound between the camera and the sealed entrance, a single flickering security floodlight casting threatening amber light down the fence line from a crooked pole overhead, the underside of dense petrochemical smoke drifting across the frame blocking stars, deep shadows swallowing the base of the mountain while the sealed bunker face catches the only harsh orange glow, no humans present, the emptiness itself the subject \u2014 inspectors who never came, doors that will not open, a compound holding its silence."
+    },
+    "dawn": {
+      "percentage": 69.2,
+      "driver": "Woman with Alzheimer's starts conversing again after taking psilocybin. A woman with severe Alzheimer's disease who hadn't spoken more than monosyllables in years began initiating conversation after a single dose of psilocybin",
+      "category": "Medicine",
+      "blurb": "SILENCE BROKEN: PSILOCYBIN GIVES A VOICE BACK",
+      "summary": "In a news cycle heavy with conflict and catastrophe, this single case report from New Scientist carries extraordinary weight: a woman with severe Alzheimer's who had been reduced to near-silence for years began initiating conversation after just one dose of psilocybin. It's a preliminary finding, not a cure \u2014 but after decades of Alzheimer's drug failures, even a glimmer of restored personhood is profound. Combined with the broader momentum in psychedelic medicine research, this signals that science may be approaching dementia from a genuinely new angle.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A single psilocybin dose restoring conversational capacity in severe Alzheimer's is the kind of unexpected result that reshapes entire research programs."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "Psychedelic-assisted therapies continue advancing into conditions once considered completely beyond their reach, expanding the therapeutic frontier dramatically."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Behind every data point is a family that heard their loved one speak again \u2014 a reminder of why this research matters beyond the science."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran technical teams are reportedly making progress toward a war-ending deal, with oil sanctions lifted and frozen assets unlocking \u2014 cautious but real diplomatic movement."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Canada's plan for up to 10 new nuclear reactors by 2040 signals a serious clean-energy commitment from a G7 nation, building on last week's Swiss nuclear revival."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "renewal",
+        "wonder",
+        "resilience",
+        "possibility"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warm holistic healing room in S\u00e3o Paulo looking outward through a wide open doorway into a sun-drenched garden courtyard, deep golden amber morning light pouring through the frame and casting long soft shadows across a low wooden floor. The aftermath of a long night: a worn linen cushion still holds the impression of someone who sat there for hours, a small ceramic bowl on a low table holds a few pale ivory dried fragments, a simple glass of water catches the amber light beside it. Through the doorway, golden hour teal-tinged garden air, lush green plants catching the early sun, light suggesting dawn breaking after a very long darkness. A folded woman's cardigan draped neatly over a low stool in the foreground \u2014 buttons fastened, placed with care, as if set out for morning. The color palette is deep amber gold and warm teal, organic and radiant, side-lit with long diagonal shadows stretching across the floor tiles toward the open door. The room is empty now, hushed, the conversation over, the miracle already happened \u2014 everything quiet and luminous."
+    }
   }
 ]
