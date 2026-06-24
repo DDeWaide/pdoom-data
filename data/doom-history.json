@@ -12914,5 +12914,99 @@
       "card_image": "dawn-card-2026-06-23.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a warm holistic healing room in S\u00e3o Paulo looking outward through a wide open doorway into a sun-drenched garden courtyard, deep golden amber morning light pouring through the frame and casting long soft shadows across a low wooden floor. The aftermath of a long night: a worn linen cushion still holds the impression of someone who sat there for hours, a small ceramic bowl on a low table holds a few pale ivory dried fragments, a simple glass of water catches the amber light beside it. Through the doorway, golden hour teal-tinged garden air, lush green plants catching the early sun, light suggesting dawn breaking after a very long darkness. A folded woman's cardigan draped neatly over a low stool in the foreground \u2014 buttons fastened, placed with care, as if set out for morning. The color palette is deep amber gold and warm teal, organic and radiant, side-lit with long diagonal shadows stretching across the floor tiles toward the open door. The room is empty now, hushed, the conversation over, the miracle already happened \u2014 everything quiet and luminous."
     }
+  },
+  {
+    "date": "2026-06-24",
+    "generated_at": "2026-06-24T12:24:01.524348+00:00",
+    "doom": {
+      "percentage": 34.0,
+      "raw_percentage": 34.7,
+      "driver": "North Korea commissions warship as Kim eyes nuclear navy. Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.",
+      "category": "Nuclear",
+      "blurb": "KIM WANTS NUKES AT SEA NOW TOO",
+      "summary": "As if land-based nukes weren't enough, Kim Jong Un has decided the ocean also needs his personal touch \u2014 commissioning North Korea's largest-ever warship with explicit plans for a nuclear-armed navy. Meanwhile, Europe is literally on fire (London Climate Action Week cancelled due to climate), Ebola has landed in France, and the Iran nuclear inspection saga continues its daily game of 'will they won't they.' Today's vibe is 'several slow-motion disasters happening simultaneously, none of them quite exploding yet.'",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "North Korea commissioning its largest warship with stated nuclear navy ambitions represents a genuine strategic escalation, not just rhetoric."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran nuclear inspections remain unresolved despite an interim deal, Congress passed a war powers rebuke of Trump, and the Strait of Hormuz situation is fragile but marginally stabilizing."
+        },
+        {
+          "name": "Biotech",
+          "signal": "elevated",
+          "detail": "Ebola has now reached France via a returning doctor from DRC, marking the virus's first European foothold in the current outbreak of 1,000+ cases."
+        },
+        {
+          "name": "Climate",
+          "signal": "medium",
+          "detail": "Record European heatwave knocked out power to 68,000 French homes and forced a climate conference to cancel due to dangerous heat \u2014 the irony is not lost on anyone."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Unapproved longevity gene therapy going on sale overseas to bypass FDA rules, and Madison Square Garden compiling dossiers on facial recognition activists \u2014 surveillance capitalism is getting creative."
+        }
+      ],
+      "mood": [
+        "proliferating",
+        "feverish",
+        "scattered",
+        "grimly ironic"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy and smoldering orange, a massive stone chessboard occupies the entirety of a smoke-hazed Yellow Sea coastline, the board's squares alternating between dark slate and rust-orange, seen from high above at a steep diagonal, the board's far edge dissolving into shallow muddy tidal flats and pale gray-green water, a single enormous black chess king piece at the center of the board casting a long distorted shadow across a dozen surrounding pieces that are visibly cracking and toppling outward in a radiating pattern, the fallen pieces fragmenting into sharp pixel shards, smoldering orange light bleeding upward from the cracks between the board's stone squares as if heat or fire presses from beneath, thick industrial haze softens the horizon where the river mouth meets the sea, the entire scene bathed in heavy shadow with warmth concentrated at the cracking fault lines between squares, a faint red glow pulses beneath the king piece itself, flat muddy coastline stretching beyond the board's edge, washed-out hazy summer sky pressing down, deep navy dominates all shadow areas, threatening amber light only where things break."
+    },
+    "dawn": {
+      "percentage": 66.0,
+      "driver": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries. Congress has passed the largest housing affordability bill in decades.",
+      "category": "Cooperation",
+      "blurb": "LARGEST HOUSING BILL IN DECADES SIGNED INTO LAW",
+      "summary": "In a moment that cuts against the doom narrative, Congress has passed the largest housing affordability bill in decades \u2014 a genuine bipartisan achievement on one of America's most stubborn crises. On a day when Ebola reaches France and the Strait of Hormuz remains contested, lawmakers actually cooperated to make shelter more accessible for millions of Americans. It won't fix everything overnight, but legislation this significant is proof that democratic institutions can still deliver for ordinary people.",
+      "factors": [
+        {
+          "name": "Cooperation",
+          "signal": "blazing",
+          "detail": "A divided Congress found enough common ground to pass the largest housing affordability legislation in decades, a rare feat in the current political climate."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Archaeologists uncovered a massive Viking Age textile production site in Denmark, reminding us that human ingenuity and complexity stretch back more than a thousand years."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Dozens of ships moved through the Strait of Hormuz after the US-Iran interim deal, a sign that diplomacy \u2014 however fragile \u2014 can still move the world back from the brink."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Climate.us, a nonprofit, relaunched the full climate.gov site taken down by the Trump administration, preserving critical public climate data through citizen action."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Stripe, Anthropic, and OpenAI are backing a new effort to develop prevention for respiratory infections, potentially ending the common cold as a seasonal inevitability."
+        }
+      ],
+      "mood": [
+        "constructive",
+        "resilient",
+        "hopeful",
+        "collaborative",
+        "persistent"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick warm amber rain falling in diagonal sheets through golden-hour light, deep teal shadows pooling on wet pavement. We are on a narrow residential block in the Bronx, far from any capitol or campaign stage, the street lined with modest five-story brick apartment buildings, their fire escapes dripping, windows glowing amber from within. The rain is the dominant presence, softening every edge, refracting the streetlights into long golden smears across the wet sidewalk. In the foreground, pressed under the shallow overhang of a bodega awning, a young mother crouches to show her two small children something on her phone, the screen casting a cool teal glow upward onto three faces caught mid-reaction \u2014 wide eyes, the beginning of a smile, disbelief tipping into relief. On the brick wall behind them, a weathered rental notice is half-peeled away, curling in the rain. A single brass key sits in the mother's palm, catching the amber streetlight. Across the street, an old man stands in an open second-floor window watching the rain fall, his silhouette backlit by warm interior light. Deep golden amber and warm teal palette throughout, rain streaks dominating the frame, radiant side-lighting from a low unseen sun."
+    }
   }
 ]
