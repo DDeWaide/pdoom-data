@@ -1,96 +1,96 @@
 {
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T12:24:01.524348+00:00",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T12:27:16.855718+00:00",
   "doom": {
-    "percentage": 34.0,
-    "raw_percentage": 34.7,
-    "driver": "North Korea commissions warship as Kim eyes nuclear navy. Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.",
-    "category": "Nuclear",
-    "blurb": "KIM WANTS NUKES AT SEA NOW TOO",
-    "summary": "As if land-based nukes weren't enough, Kim Jong Un has decided the ocean also needs his personal touch \u2014 commissioning North Korea's largest-ever warship with explicit plans for a nuclear-armed navy. Meanwhile, Europe is literally on fire (London Climate Action Week cancelled due to climate), Ebola has landed in France, and the Iran nuclear inspection saga continues its daily game of 'will they won't they.' Today's vibe is 'several slow-motion disasters happening simultaneously, none of them quite exploding yet.'",
+    "percentage": 32.1,
+    "raw_percentage": 31.4,
+    "driver": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities.",
+    "category": "AI Capability",
+    "blurb": "CHINA ALLEGEDLY JAILBREAKS THE WORLD'S SAFEST AI",
+    "summary": "Anthropic, the lab that built its entire brand on AI safety, is accusing Alibaba of using fraudulent accounts to steal Claude's capabilities \u2014 which is either corporate espionage or a masterclass in irony. Meanwhile, OpenAI just dropped its own custom inference chip called 'Jalape\u00f1o,' because apparently the AI arms race needed more spice. The geopolitical AI extraction story lands on a day when Iran is still playing games with Hormuz transit authorization and Venezuela is literally shaking apart, but it's the quiet theft of frontier model capabilities that keeps the long-game doomers up at night.",
     "factors": [
       {
-        "name": "Nuclear",
+        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "North Korea commissioning its largest warship with stated nuclear navy ambitions represents a genuine strategic escalation, not just rhetoric."
+        "detail": "Anthropic alleges state-adjacent Chinese firm Alibaba illicitly extracted Claude capabilities via fraudulent accounts, while OpenAI simultaneously unveiled its first custom inference chip \u2014 two signals that the frontier AI race is accelerating by any means necessary."
+      },
+      {
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "Trump is sparring with his own party over Iran war funding and blew up a bipartisan housing bill, suggesting executive branch coherence on major policy is shaky at best."
       },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Iran nuclear inspections remain unresolved despite an interim deal, Congress passed a war powers rebuke of Trump, and the Strait of Hormuz situation is fragile but marginally stabilizing."
+        "detail": "Iran is warning ships that transiting the Strait of Hormuz without its authorization is 'unacceptable and dangerous,' even as oil prices ease \u2014 the strait is technically open but Tehran hasn't relinquished the threat lever."
       },
       {
-        "name": "Biotech",
+        "name": "Alignment",
         "signal": "elevated",
-        "detail": "Ebola has now reached France via a returning doctor from DRC, marking the virus's first European foothold in the current outbreak of 1,000+ cases."
-      },
-      {
-        "name": "Climate",
-        "signal": "medium",
-        "detail": "Record European heatwave knocked out power to 68,000 French homes and forced a climate conference to cancel due to dangerous heat \u2014 the irony is not lost on anyone."
+        "detail": "The alleged Alibaba extraction of Claude capabilities represents exactly the scenario alignment researchers fear: safety-focused model development being circumvented to harvest capabilities without the guardrails."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Unapproved longevity gene therapy going on sale overseas to bypass FDA rules, and Madison Square Garden compiling dossiers on facial recognition activists \u2014 surveillance capitalism is getting creative."
+        "detail": "Venezuela's 7.5-magnitude earthquake \u2014 strongest since 1900 \u2014 is a humanitarian catastrophe but not a systemic civilizational risk; the swift US offer of assistance even hints at unexpected diplomatic thaw."
       }
     ],
     "mood": [
-      "proliferating",
-      "feverish",
-      "scattered",
-      "grimly ironic"
+      "espionage",
+      "escalatory",
+      "fragile",
+      "anxious"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-24.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, camera looking steeply down at a vast symbolic scene rendered in deep navy and smoldering orange, a massive stone chessboard occupies the entirety of a smoke-hazed Yellow Sea coastline, the board's squares alternating between dark slate and rust-orange, seen from high above at a steep diagonal, the board's far edge dissolving into shallow muddy tidal flats and pale gray-green water, a single enormous black chess king piece at the center of the board casting a long distorted shadow across a dozen surrounding pieces that are visibly cracking and toppling outward in a radiating pattern, the fallen pieces fragmenting into sharp pixel shards, smoldering orange light bleeding upward from the cracks between the board's stone squares as if heat or fire presses from beneath, thick industrial haze softens the horizon where the river mouth meets the sea, the entire scene bathed in heavy shadow with warmth concentrated at the cracking fault lines between squares, a faint red glow pulses beneath the king piece itself, flat muddy coastline stretching beyond the board's edge, washed-out hazy summer sky pressing down, deep navy dominates all shadow areas, threatening amber light only where things break.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-24.png"
+    "card_image": "doom-card-2026-06-25.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked tablet screen lying face-up on a dark desk, camera pressed inches above the glass surface at a slight angle, the screen displaying a cascade of identical ghost-white profile avatar icons multiplying in endless grid rows across a glowing interface window tinted in Claude's distinctive amber-orange, the avatars slightly distorted and flickering as if being siphoned, the tablet's shattered corner casting fractured light across the dark lacquered desk surface below, a half-drunk coffee cup blurred at the extreme edge of frame, the desk reflecting twin smoldering orange screen-glow columns back upward through the crack lines in the glass, deep navy shadows consuming three-quarters of the frame, the avatar grid visibly draining toward one corner of the screen where the pixels dissolve into darkness, warm threatening amber bleeding into cold blue at the fracture points, heavy vignette pressing in from all edges, mood paranoid and covert, the feeling of something being quietly emptied in the dead of night.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-25.png"
   },
   "dawn": {
-    "percentage": 66.0,
-    "driver": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries. Congress has passed the largest housing affordability bill in decades.",
-    "category": "Cooperation",
-    "blurb": "LARGEST HOUSING BILL IN DECADES SIGNED INTO LAW",
-    "summary": "In a moment that cuts against the doom narrative, Congress has passed the largest housing affordability bill in decades \u2014 a genuine bipartisan achievement on one of America's most stubborn crises. On a day when Ebola reaches France and the Strait of Hormuz remains contested, lawmakers actually cooperated to make shelter more accessible for millions of Americans. It won't fix everything overnight, but legislation this significant is proof that democratic institutions can still deliver for ordinary people.",
+    "percentage": 67.9,
+    "driver": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's previous state-of-the-art technology announced i",
+    "category": "Technology",
+    "blurb": "IBM BREAKS THE NANOMETER BARRIER",
+    "summary": "IBM has achieved what many physicists thought was physically impossible: chip transistors below one nanometer, packing 100 billion onto a fingernail-sized surface. On a day dominated by earthquake devastation and nuclear posturing, this quiet engineering triumph represents humanity at its most tenacious \u2014 pushing the frontier of what matter itself will allow. More efficient chips mean less energy consumed, faster medical diagnostics, and AI tools that cost less to run \u2014 a compounding gift that will outlast today's headlines.",
     "factors": [
       {
-        "name": "Cooperation",
+        "name": "Science",
         "signal": "blazing",
-        "detail": "A divided Congress found enough common ground to pass the largest housing affordability legislation in decades, a rare feat in the current political climate."
+        "detail": "IBM's sub-1 nanometer 'nanostack' transistor architecture doubles chip density and could extend Moore's Law by another decade, a milestone once considered physically unreachable."
       },
       {
-        "name": "Science",
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Archaeologists uncovered a massive Viking Age textile production site in Denmark, reminding us that human ingenuity and complexity stretch back more than a thousand years."
+        "detail": "Trump pledged rapid U.S. assistance to Venezuela after historic twin earthquakes, signaling a rare diplomatic opening between Washington and Caracas amid humanitarian crisis."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Dozens of ships moved through the Strait of Hormuz after the US-Iran interim deal, a sign that diplomacy \u2014 however fragile \u2014 can still move the world back from the brink."
+        "detail": "Kelsey Pfendler is rowing solo from California to Hawaii, aiming to become the first American woman to complete the crossing \u2014 a quiet feat of endurance getting almost no airtime."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Climate.us, a nonprofit, relaunched the full climate.gov site taken down by the Trump administration, preserving critical public climate data through citizen action."
+        "detail": "NVIDIA's new 45\u00b0C liquid cooling design cuts data center water use to near zero, a meaningful step toward making the AI infrastructure boom dramatically less resource-intensive."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Stripe, Anthropic, and OpenAI are backing a new effort to develop prevention for respiratory infections, potentially ending the common cold as a seasonal inevitability."
+        "detail": "Lost books by ancient philosophers have been recovered from carbonized Herculaneum scrolls using AI-assisted scanning, returning voices silenced for 2,000 years to human knowledge."
       }
     ],
     "mood": [
-      "constructive",
+      "breakthrough",
       "resilient",
-      "hopeful",
-      "collaborative",
-      "persistent"
+      "ingenious",
+      "tenacious",
+      "expansive"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-24.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick warm amber rain falling in diagonal sheets through golden-hour light, deep teal shadows pooling on wet pavement. We are on a narrow residential block in the Bronx, far from any capitol or campaign stage, the street lined with modest five-story brick apartment buildings, their fire escapes dripping, windows glowing amber from within. The rain is the dominant presence, softening every edge, refracting the streetlights into long golden smears across the wet sidewalk. In the foreground, pressed under the shallow overhang of a bodega awning, a young mother crouches to show her two small children something on her phone, the screen casting a cool teal glow upward onto three faces caught mid-reaction \u2014 wide eyes, the beginning of a smile, disbelief tipping into relief. On the brick wall behind them, a weathered rental notice is half-peeled away, curling in the rain. A single brass key sits in the mother's palm, catching the amber streetlight. Across the street, an old man stands in an open second-floor window watching the rain fall, his silhouette backlit by warm interior light. Deep golden amber and warm teal palette throughout, rain streaks dominating the frame, radiant side-lighting from a low unseen sun.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-24.png"
+    "card_image": "dawn-card-2026-06-25.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A semiconductor fabrication cleanroom rendered as a cathedral of golden-amber light blazing from behind enormous wall-length windows, the entire scene backlit to burning radiance, deep teal shadows flooding the foreground. Silhouetted against the blinding amber glow, an engineer in a full cleanroom bunny suit holds a silicon wafer aloft at arm's length, the circular disc catching the backlight and exploding into an iridescent halo of rainbow interference colors \u2014 violet, gold, teal \u2014 radiating outward like a stained glass rose window. A second silhouetted figure leans over a workstation, tweezers raised, a microscopic chip between the tips, its fingernail-sized form glinting as a single brilliant gold pinpoint against the amber blaze. Overhead fab room safelight strips glow warm amber-yellow, their reflections pooling in long golden streaks across a mirrored floor. In the deep background, rows of silicon wafer trays catch the backlight as luminous silver discs fading into teal darkness. The whole scene pulses with the feeling of something impossibly small containing something historically enormous.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-25.png"
   }
 }

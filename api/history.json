@@ -13284,5 +13284,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick warm amber rain falling in diagonal sheets through golden-hour light, deep teal shadows pooling on wet pavement. We are on a narrow residential block in the Bronx, far from any capitol or campaign stage, the street lined with modest five-story brick apartment buildings, their fire escapes dripping, windows glowing amber from within. The rain is the dominant presence, softening every edge, refracting the streetlights into long golden smears across the wet sidewalk. In the foreground, pressed under the shallow overhang of a bodega awning, a young mother crouches to show her two small children something on her phone, the screen casting a cool teal glow upward onto three faces caught mid-reaction \u2014 wide eyes, the beginning of a smile, disbelief tipping into relief. On the brick wall behind them, a weathered rental notice is half-peeled away, curling in the rain. A single brass key sits in the mother's palm, catching the amber streetlight. Across the street, an old man stands in an open second-floor window watching the rain fall, his silhouette backlit by warm interior light. Deep golden amber and warm teal palette throughout, rain streaks dominating the frame, radiant side-lighting from a low unseen sun.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-24.png"
     }
+  },
+  {
+    "date": "2026-06-25",
+    "generated_at": "2026-06-25T12:27:16.855718+00:00",
+    "doom": {
+      "percentage": 32.1,
+      "raw_percentage": 31.4,
+      "driver": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities.",
+      "category": "AI Capability",
+      "blurb": "CHINA ALLEGEDLY JAILBREAKS THE WORLD'S SAFEST AI",
+      "summary": "Anthropic, the lab that built its entire brand on AI safety, is accusing Alibaba of using fraudulent accounts to steal Claude's capabilities \u2014 which is either corporate espionage or a masterclass in irony. Meanwhile, OpenAI just dropped its own custom inference chip called 'Jalape\u00f1o,' because apparently the AI arms race needed more spice. The geopolitical AI extraction story lands on a day when Iran is still playing games with Hormuz transit authorization and Venezuela is literally shaking apart, but it's the quiet theft of frontier model capabilities that keeps the long-game doomers up at night.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Anthropic alleges state-adjacent Chinese firm Alibaba illicitly extracted Claude capabilities via fraudulent accounts, while OpenAI simultaneously unveiled its first custom inference chip \u2014 two signals that the frontier AI race is accelerating by any means necessary."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump is sparring with his own party over Iran war funding and blew up a bipartisan housing bill, suggesting executive branch coherence on major policy is shaky at best."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran is warning ships that transiting the Strait of Hormuz without its authorization is 'unacceptable and dangerous,' even as oil prices ease \u2014 the strait is technically open but Tehran hasn't relinquished the threat lever."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "The alleged Alibaba extraction of Claude capabilities represents exactly the scenario alignment researchers fear: safety-focused model development being circumvented to harvest capabilities without the guardrails."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Venezuela's 7.5-magnitude earthquake \u2014 strongest since 1900 \u2014 is a humanitarian catastrophe but not a systemic civilizational risk; the swift US offer of assistance even hints at unexpected diplomatic thaw."
+        }
+      ],
+      "mood": [
+        "espionage",
+        "escalatory",
+        "fragile",
+        "anxious"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked tablet screen lying face-up on a dark desk, camera pressed inches above the glass surface at a slight angle, the screen displaying a cascade of identical ghost-white profile avatar icons multiplying in endless grid rows across a glowing interface window tinted in Claude's distinctive amber-orange, the avatars slightly distorted and flickering as if being siphoned, the tablet's shattered corner casting fractured light across the dark lacquered desk surface below, a half-drunk coffee cup blurred at the extreme edge of frame, the desk reflecting twin smoldering orange screen-glow columns back upward through the crack lines in the glass, deep navy shadows consuming three-quarters of the frame, the avatar grid visibly draining toward one corner of the screen where the pixels dissolve into darkness, warm threatening amber bleeding into cold blue at the fracture points, heavy vignette pressing in from all edges, mood paranoid and covert, the feeling of something being quietly emptied in the dead of night.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-25.png"
+    },
+    "dawn": {
+      "percentage": 67.9,
+      "driver": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's previous state-of-the-art technology announced i",
+      "category": "Technology",
+      "blurb": "IBM BREAKS THE NANOMETER BARRIER",
+      "summary": "IBM has achieved what many physicists thought was physically impossible: chip transistors below one nanometer, packing 100 billion onto a fingernail-sized surface. On a day dominated by earthquake devastation and nuclear posturing, this quiet engineering triumph represents humanity at its most tenacious \u2014 pushing the frontier of what matter itself will allow. More efficient chips mean less energy consumed, faster medical diagnostics, and AI tools that cost less to run \u2014 a compounding gift that will outlast today's headlines.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "IBM's sub-1 nanometer 'nanostack' transistor architecture doubles chip density and could extend Moore's Law by another decade, a milestone once considered physically unreachable."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Trump pledged rapid U.S. assistance to Venezuela after historic twin earthquakes, signaling a rare diplomatic opening between Washington and Caracas amid humanitarian crisis."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Kelsey Pfendler is rowing solo from California to Hawaii, aiming to become the first American woman to complete the crossing \u2014 a quiet feat of endurance getting almost no airtime."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "NVIDIA's new 45\u00b0C liquid cooling design cuts data center water use to near zero, a meaningful step toward making the AI infrastructure boom dramatically less resource-intensive."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Lost books by ancient philosophers have been recovered from carbonized Herculaneum scrolls using AI-assisted scanning, returning voices silenced for 2,000 years to human knowledge."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "ingenious",
+        "tenacious",
+        "expansive"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A semiconductor fabrication cleanroom rendered as a cathedral of golden-amber light blazing from behind enormous wall-length windows, the entire scene backlit to burning radiance, deep teal shadows flooding the foreground. Silhouetted against the blinding amber glow, an engineer in a full cleanroom bunny suit holds a silicon wafer aloft at arm's length, the circular disc catching the backlight and exploding into an iridescent halo of rainbow interference colors \u2014 violet, gold, teal \u2014 radiating outward like a stained glass rose window. A second silhouetted figure leans over a workstation, tweezers raised, a microscopic chip between the tips, its fingernail-sized form glinting as a single brilliant gold pinpoint against the amber blaze. Overhead fab room safelight strips glow warm amber-yellow, their reflections pooling in long golden streaks across a mirrored floor. In the deep background, rows of silicon wafer trays catch the backlight as luminous silver discs fading into teal darkness. The whole scene pulses with the feeling of something impossibly small containing something historically enormous.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-25.png"
+    }
   }
 ]
