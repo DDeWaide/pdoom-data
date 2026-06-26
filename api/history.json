@@ -13380,5 +13380,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A semiconductor fabrication cleanroom rendered as a cathedral of golden-amber light blazing from behind enormous wall-length windows, the entire scene backlit to burning radiance, deep teal shadows flooding the foreground. Silhouetted against the blinding amber glow, an engineer in a full cleanroom bunny suit holds a silicon wafer aloft at arm's length, the circular disc catching the backlight and exploding into an iridescent halo of rainbow interference colors \u2014 violet, gold, teal \u2014 radiating outward like a stained glass rose window. A second silhouetted figure leans over a workstation, tweezers raised, a microscopic chip between the tips, its fingernail-sized form glinting as a single brilliant gold pinpoint against the amber blaze. Overhead fab room safelight strips glow warm amber-yellow, their reflections pooling in long golden streaks across a mirrored floor. In the deep background, rows of silicon wafer trays catch the backlight as luminous silver discs fading into teal darkness. The whole scene pulses with the feeling of something impossibly small containing something historically enormous.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-25.png"
     }
+  },
+  {
+    "date": "2026-06-26",
+    "generated_at": "2026-06-26T12:16:32.230422+00:00",
+    "doom": {
+      "percentage": 32.0,
+      "raw_percentage": 31.4,
+      "driver": "UN agency pauses Strait of Hormuz evacuation plan after cargo ship attacked.",
+      "category": "Geopolitics",
+      "blurb": "PEACE DEAL. FIRST ATTACK. SAME WEEK.",
+      "summary": "The ink on the US-Iran interim deal is barely dry and someone \u2014 a US official fingers Iran \u2014 has already put a hole in a cargo ship near Oman. The UN has paused its Hormuz evacuation corridor, oil dipped below $70, and 'fragile confidence' is doing a lot of diplomatic heavy lifting right now. Meanwhile Venezuela is burying hundreds, Ebola's missing nearly 300 patients, and Europe is literally cooking \u2014 but the Hormuz situation is the one that could unravel a geopolitical win into a very fast escalation.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "A cargo ship attacked in the Strait of Hormuz within days of the US-Iran peace deal threatens to collapse the ceasefire before it's properly established."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "SCOTUS green-lights Trump's TPS terminations for Haitians and Syrians, expanding executive deportation authority to hundreds of thousands of long-term residents."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Venezuela's deadliest earthquake in over a century \u2014 235 confirmed dead, thousands feared missing \u2014 hits a country with a shattered economy and collapsed health infrastructure."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Trump administration asks OpenAI to delay GPT-5.6 release over security concerns \u2014 a rare instance of the White House pumping the brakes on frontier AI."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Ebola contact tracing collapses as nearly 300 confirmed cases go untracked in DR Congo, with modelling predicting thousands of deaths by September."
+        }
+      ],
+      "mood": [
+        "fragile",
+        "simmering",
+        "unraveling",
+        "precarious"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep navy and smoldering orange palette, camera positioned at dock-level on a deserted Omani coastal maintenance pier looking outward across the glassy black Strait of Hormuz, the water surface reflecting orange instrument-glow from a single anchored harbor tender vessel whose running lights cast wobbling columns of amber across the oily water, in the far middle distance a massive Evergreen-green container ship hull sits motionless and dark against the night, its starboard side bearing a long black soot streak above the waterline where the paint has blistered and buckled, no movement aboard, emergency floodlamps mounted on the pier's rusted iron crossbeam throwing harsh orange pools onto the empty concrete below where a single coiled rope and an abandoned clipboard lie undisturbed, the rocky desert-tan Omani cliffline rising as a black silhouette against a deep navy sky behind the ship, a maritime tracking terminal mounted inside the pier's open-sided control shed glows blue-green in the background showing a frozen dotted route line curving along the southern Omani corridor with a single stationary vessel icon pulsing motionless \u2014 everything still, everything paused, the strait holding its breath.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-26.png"
+    },
+    "dawn": {
+      "percentage": 68.0,
+      "driver": "An entire Herculaneum scroll has been read for the first time.",
+      "category": "Discovery",
+      "blurb": "2,000-YEAR-OLD WORDS FINALLY SPEAK AGAIN",
+      "summary": "In a world full of noise about nuclear standoffs and earthquake devastation, a team of scholars just cracked open a scroll carbonized by Vesuvius in 79 AD \u2014 reading it in full for the first time in human history. The Vesuvius Challenge brought together AI, imaging scientists, and classicists in one of the most beautiful examples of human collaboration and persistence: we waited two millennia for these words, and we got them. Against the backdrop of a 32% doom reading, this is a reminder that curiosity, patience, and ingenuity across disciplines can recover what was thought lost forever.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "AI-assisted imaging technology enabled the first complete reading of a Herculaneum scroll, a breakthrough that unlocks an entire ancient library thought permanently destroyed."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The Vesuvius Challenge united machine learning engineers, papyrologists, and imaging scientists across continents in open, collaborative science."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Venezuelans in Houston organized donation drives within hours of the earthquake, demonstrating that human solidarity activates faster than disaster spreads."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A marine expedition off Brazil discovered 31 new species in just two weeks, suggesting ocean biodiversity remains richer than current models predict."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "New effort by Colossal Biosciences will genome-sequence and biobank every species on the Endangered Species list, creating a biological insurance policy for life on Earth."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "perseverance",
+        "discovery",
+        "ingenuity",
+        "resilience"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed into the cold stone floor of a grand Italian library, gazing up at towering dark wooden shelving units rising like canyon walls toward an ornate gilded ceiling lost in amber shadow above, warm teal darkness pooling in the deep shelf recesses between ancient bound volumes, a single papyrologist visible from below as a silhouette crouched at the base of a rolling library ladder, shoulders curved inward in reverent stillness, one hand pressed flat against an open folio on their knee, face tilted downward and bathed in the warm amber glow of a small desk lamp that throws long dramatic shadows up the towering shelves, the underside of the ladder's wooden rungs framing the figure from below like a gate, golden hour light raking in at a steep angle from a high unseen window and catching suspended dust motes drifting slowly downward through the teal-shadowed air, a single small dark object \u2014 a blackened cylindrical fragment \u2014 resting on the floor beside the scholar's foot, the entire composition radiating the hush of something enormous and ancient finally yielding its silence.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-26.png"
+    }
   }
 ]
