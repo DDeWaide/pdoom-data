@@ -13291,5 +13291,99 @@
       "card_image": "dawn-card-2026-06-27.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A limestone karst plateau in the Iberian Peninsula stretches across the entire frame, golden-amber late light raking across pale grey-beige rock at a low angle, casting long teal shadows into every crevice and hollow, the terrain ancient and pitted and enormous. Far below, scattered across the plateau like seeds, tiny crowds of people have gathered outside a dozen cave entrances \u2014 dark oval mouths in the rock face, each one glowing faintly warm from within, amber light bleeding out from deep inside the earth. The cave openings are the emotional centers of the image, small but radiating, like embers set into stone. Thin trails of people wind across the landscape toward these entrances, miniature figures dwarfed by the immensity of rock and time. A few figures crouch at a cave mouth examining something on the ground, invisible at this scale but purposeful. The ochre-red of the plateau's iron-rich soil glows warmly against deep teal pooling in the valleys and shadow-crevices. The sky is a deep radiant amber-teal gradient, long horizontal clouds catching last light. The whole world feels ancient, breathing, and newly cracked open."
     }
+  },
+  {
+    "date": "2026-06-28",
+    "generated_at": "2026-06-28T11:50:50.625743+00:00",
+    "doom": {
+      "percentage": 38.6,
+      "raw_percentage": 41.7,
+      "driver": "Iran attacks Kuwait and Bahrain in response to US strikes. US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE SPREADS. SO DOES THE WAR.",
+      "summary": "Yesterday's US-Iran ceasefire has aged like milk in a Kuwaiti summer \u2014 Iran has now struck US military facilities in Kuwait and Bahrain, two countries that had nothing to do with this fight but are now very much in it. Trump responded by threatening Iran with 'annihilation,' which is the kind of escalatory rhetoric that makes diplomats physically ill and ratings algorithms very happy. The conflict is metastasizing: what started as a Strait of Hormuz spat now has Gulf states activating air defenses and wondering how they got on this particular guest list.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran striking US military bases in Kuwait and Bahrain marks a geographic expansion of the conflict beyond Iran itself, pulling new nations into the crossfire."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump threatening Iran with 'annihilation' while a signed ceasefire MoU technically still exists represents a near-total collapse of diplomatic credibility on both sides."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Asian AI startups launching Mythos-like models as Anthropic's export ban drags on signals the proliferation of frontier-adjacent AI is proceeding despite US restrictions."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "An anonymous GitHub account mass-dropping undisclosed zero-days is the kind of chaotic cyber wildcard that tends to get exploited faster when geopolitical tensions are already elevated."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Margaret Atwood's 'garbage in, garbage out' AI critique is philosophically apt but today's AI news is background noise compared to the active shooting war in the Gulf."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "fragmented",
+        "combustible",
+        "sprawling"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick acrid haze and smoke-laden humid air pressing down over the dense low-rise concrete rooftops of Muharraq Island at pre-dawn, camera positioned mid-height looking across a flat residential streetscape of sand-colored apartment blocks with satellite dishes and Arabic script on shopfronts below, date palms barely visible through the murk, the entire scene filtered through a choking atmospheric haze that turns the pre-dawn sky a deep bruised navy-purple bleeding into smoldering orange at the horizon where fires reflect upward into the smoke layer, a scorched and blackened impact scar gouged into the upper floors of a concrete apartment block dominating the middle-ground with blown-out window frames and rubble cascading down the facade into the street below, three Shahed delta-wing silhouettes visible as dark shapes hanging frozen in the haze-filtered sky overhead \u2014 their exhaust trails smearing orange streaks through the purple murk \u2014 while far beyond across the causeway the grey radar mast and flat superstructure of a US Fifth Fleet destroyer sits ghost-like at its pier barely distinguishable through the smoke and salt haze, deep navy and smoldering orange palette throughout, heavy shadows swallowing the street level while the burning horizon light feels threatening and oppressive."
+    },
+    "dawn": {
+      "percentage": 61.4,
+      "driver": "American rescue teams pull infant alive from rubble in Venezuela days after devastating twin earthquakes.",
+      "category": "Human Spirit",
+      "blurb": "HANDS ACROSS BORDERS PULL LIFE FROM RUBBLE",
+      "summary": "Against a backdrop of diplomatic rupture and geopolitical hostility, American search-and-rescue teams reached into the wreckage of Venezuela's earthquake disaster and pulled a living infant free \u2014 more than 72 hours after the twin strikes that killed over 1,400 people. That moment cuts through every headline about ceasefire violations and severed ties: when catastrophe demands it, humans still reach for each other. The infant's survival is a small, undeniable light in one of the darkest news cycles in recent memory.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "U.S. rescuers saved an infant from Venezuelan rubble past the critical 72-hour window, proving human endurance and the will to save strangers transcends political enmity."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "International rescue teams from multiple nations are working alongside Venezuelan crews in La Guaira despite the countries' deeply fractured diplomatic relationship."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Hawaii researchers are successfully integrating recycled ocean plastic and fishing nets into asphalt roads without increasing microplastic runoff, turning waste into infrastructure."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "The Hawaii road-plastic project represents a scalable model for removing ocean pollution while reducing demand for virgin petroleum-based road materials."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "DR Congo and Uzbekistan both made historic World Cup knockout-round debuts, with fans from nations rarely celebrated on the world stage reveling in a rare moment of pure national joy."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "compassion",
+        "perseverance",
+        "solidarity",
+        "hope"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single dusty concrete slab cracked clean through its center, the fracture line splitting the gray mass apart to reveal a narrow cavity of warm amber light blazing upward from within the darkness below, deep teal shadows pooling in the jagged crevice walls, a tiny hand \u2014 soft pink, impossibly small \u2014 reaching upward through the gap toward the light, the concrete surface coated in fine pale dust that catches the golden-hour glow like scattered embers, a fragment of vivid orange helmet strap visible at the very edge of the frame implying the rescuer above, long dramatic side-lighting raking across the broken stone surface casting deep ridged shadows, radiant warm amber and deep teal color grade, the whole composition a visual metaphor for life emerging from collapse, survival breaking through devastation."
+    }
   }
 ]

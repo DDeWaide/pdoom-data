@@ -1,97 +1,96 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T11:40:16.898219+00:00",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T11:50:50.625743+00:00",
   "doom": {
-    "percentage": 38.2,
+    "percentage": 38.6,
     "raw_percentage": 41.7,
-    "driver": "US strikes Iran in response to a drone attack on a ship. The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by",
+    "driver": "Iran attacks Kuwait and Bahrain in response to US strikes. US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
     "category": "Geopolitics",
-    "blurb": "CEASEFIRE HOLDS. MISSILES DON'T.",
-    "summary": "The US-Iran 'interim understanding' \u2014 a diplomatic euphemism for 'please stop shooting at each other' \u2014 lasted approximately one week before both sides were trading strikes again. Iran says the US violated their deal; the US says Iran violated it first; the IRGC is now threatening 'broader' future responses, which is exactly the kind of escalatory language that makes geopolitical analysts reach for antacids. Meanwhile, the government model restrictions story (US deciding who gets GPT-5.6) adds a quietly unsettling AI governance subplot to an already messy Friday.",
+    "blurb": "CEASEFIRE SPREADS. SO DOES THE WAR.",
+    "summary": "Yesterday's US-Iran ceasefire has aged like milk in a Kuwaiti summer \u2014 Iran has now struck US military facilities in Kuwait and Bahrain, two countries that had nothing to do with this fight but are now very much in it. Trump responded by threatening Iran with 'annihilation,' which is the kind of escalatory rhetoric that makes diplomats physically ill and ratings algorithms very happy. The conflict is metastasizing: what started as a Strait of Hormuz spat now has Gulf states activating air defenses and wondering how they got on this particular guest list.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US and Iran are trading direct military strikes while simultaneously blaming each other for breaking a ceasefire \u2014 a fragile arrangement that now looks like it's unraveling in real time."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "The US government is gatekeeping access to GPT-5.6 and Anthropic's Mythos, signaling that frontier AI is now officially a strategic national security asset with restricted distribution."
+        "detail": "Iran striking US military bases in Kuwait and Bahrain marks a geographic expansion of the conflict beyond Iran itself, pulling new nations into the crossfire."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "OpenAI limiting model access to 'trusted partners' at US government request represents an unprecedented fusion of state power and AI deployment decisions."
+        "detail": "Trump threatening Iran with 'annihilation' while a signed ceasefire MoU technically still exists represents a near-total collapse of diplomatic credibility on both sides."
       },
       {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "No major alignment-specific developments today; the big AI news is about access control rather than capability safety."
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Asian AI startups launching Mythos-like models as Anthropic's export ban drags on signals the proliferation of frontier-adjacent AI is proceeding despite US restrictions."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "A plane crashing into Beijing's tallest building with unverified cause and no official statement is the kind of ambiguous incident that could mean nothing \u2014 or a great deal more."
+        "detail": "An anonymous GitHub account mass-dropping undisclosed zero-days is the kind of chaotic cyber wildcard that tends to get exploited faster when geopolitical tensions are already elevated."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "Margaret Atwood's 'garbage in, garbage out' AI critique is philosophically apt but today's AI news is background noise compared to the active shooting war in the Gulf."
       }
     ],
     "mood": [
       "escalating",
-      "fragile",
-      "volatile",
-      "tense",
-      "combustible"
+      "fragmented",
+      "combustible",
+      "sprawling"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a cramped Omani fishing family's concrete home on the Musandam peninsula looking outward through a single salt-crusted window, deep navy and smoldering orange palette, the window frame filling most of the composition with its peeling white paint and rusted iron latch, outside the window the Strait of Hormuz stretches across the middle distance rendered in threatening deep blue-green, the narrow water channel choked with the dark silhouettes of dozens of anchored supertankers sitting motionless on the horizon like a city of black monoliths, the far Iranian coastline visible as a dark brown mountain ridge beneath a sky smeared orange-amber with smoke haze, inside the room a small battery-powered radio sits on a cracked concrete sill casting faint amber light upward, beside it a glass of tea gone cold, the walls of the room are bare rough concrete with a hanging calendar page fluttering slightly, on the window glass a child's handprint smudge catches the orange glow from outside, the entire outdoor scene filtered through the dirty glass giving the tankers and smoky horizon a ghostly distorted quality, heavy shadows pool in the room's corners, warmth from outside feels like threat not comfort, heat shimmer visible above the water between the stranded ships.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-27.png"
+    "card_image": "doom-card-2026-06-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick acrid haze and smoke-laden humid air pressing down over the dense low-rise concrete rooftops of Muharraq Island at pre-dawn, camera positioned mid-height looking across a flat residential streetscape of sand-colored apartment blocks with satellite dishes and Arabic script on shopfronts below, date palms barely visible through the murk, the entire scene filtered through a choking atmospheric haze that turns the pre-dawn sky a deep bruised navy-purple bleeding into smoldering orange at the horizon where fires reflect upward into the smoke layer, a scorched and blackened impact scar gouged into the upper floors of a concrete apartment block dominating the middle-ground with blown-out window frames and rubble cascading down the facade into the street below, three Shahed delta-wing silhouettes visible as dark shapes hanging frozen in the haze-filtered sky overhead \u2014 their exhaust trails smearing orange streaks through the purple murk \u2014 while far beyond across the causeway the grey radar mast and flat superstructure of a US Fifth Fleet destroyer sits ghost-like at its pier barely distinguishable through the smoke and salt haze, deep navy and smoldering orange palette throughout, heavy shadows swallowing the street level while the burning horizon light feels threatening and oppressive.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-28.png"
   },
   "dawn": {
-    "percentage": 61.8,
-    "driver": "Ancient human DNA found on cave art for the first time. DNA from ancient humans has been found on a prehistoric cave painting and on cave walls, demonstrating the potential to one day identify individual artists and resolve the debate over Neanderthals' artistic contribution.",
-    "category": "Discovery",
-    "blurb": "WE FOUND THE ARTIST BEHIND THE ANCIENT HAND",
-    "summary": "In a week scarred by earthquakes, airstrikes, and a heatwave breaking German records, science quietly delivered something extraordinary: ancient human DNA recovered directly from prehistoric cave paintings, connecting us across tens of thousands of years to the hands that made them. This isn't just archaeology \u2014 it's the potential to finally answer whether Neanderthals were artists, to put individual names (or at least genetic identities) to the people who first felt the urge to create. On days when humanity seems determined to break itself apart, it's worth pausing on the fact that we're also the species that painted caves, wondered who painted them, and then figured out how to ask the rock itself.",
+    "percentage": 61.4,
+    "driver": "American rescue teams pull infant alive from rubble in Venezuela days after devastating twin earthquakes.",
+    "category": "Human Spirit",
+    "blurb": "HANDS ACROSS BORDERS PULL LIFE FROM RUBBLE",
+    "summary": "Against a backdrop of diplomatic rupture and geopolitical hostility, American search-and-rescue teams reached into the wreckage of Venezuela's earthquake disaster and pulled a living infant free \u2014 more than 72 hours after the twin strikes that killed over 1,400 people. That moment cuts through every headline about ceasefire violations and severed ties: when catastrophe demands it, humans still reach for each other. The infant's survival is a small, undeniable light in one of the darkest news cycles in recent memory.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "Recovering readable ancient human DNA from cave art surfaces is a methodological breakthrough that opens an entirely new field of archaeogenetic investigation."
+        "detail": "U.S. rescuers saved an infant from Venezuelan rubble past the critical 72-hour window, proving human endurance and the will to save strangers transcends political enmity."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "Israel and Lebanon signed a US-brokered framework agreement, a fragile but real diplomatic signal amid an extraordinarily volatile regional moment."
+        "detail": "International rescue teams from multiple nations are working alongside Venezuelan crews in La Guaira despite the countries' deeply fractured diplomatic relationship."
       },
       {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "International rescue teams poured into Venezuela within 48 hours of the earthquakes, with China, the US, and regional neighbors all sending aid in a rare moment of convergent goodwill."
+        "name": "Science",
+        "signal": "glimmer",
+        "detail": "Hawaii researchers are successfully integrating recycled ocean plastic and fishing nets into asphalt roads without increasing microplastic runoff, turning waste into infrastructure."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "California's ban on obnoxiously loud streaming ads \u2014 a small but genuine quality-of-life win \u2014 takes effect July 1, with Illinois following, showing consumer protection governance still functions."
+        "detail": "The Hawaii road-plastic project represents a scalable model for removing ocean pollution while reducing demand for virgin petroleum-based road materials."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "African soccer teams are outperforming expectations at the World Cup, with Cape Verde making history and Egypt advancing, signaling a genuine shift in the global game's power balance."
+        "detail": "DR Congo and Uzbekistan both made historic World Cup knockout-round debuts, with fans from nations rarely celebrated on the world stage reveling in a rare moment of pure national joy."
       }
     ],
     "mood": [
-      "wonder",
-      "connection",
-      "resilient",
-      "enduring",
-      "curious"
+      "resilience",
+      "compassion",
+      "perseverance",
+      "solidarity",
+      "hope"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A limestone karst plateau in the Iberian Peninsula stretches across the entire frame, golden-amber late light raking across pale grey-beige rock at a low angle, casting long teal shadows into every crevice and hollow, the terrain ancient and pitted and enormous. Far below, scattered across the plateau like seeds, tiny crowds of people have gathered outside a dozen cave entrances \u2014 dark oval mouths in the rock face, each one glowing faintly warm from within, amber light bleeding out from deep inside the earth. The cave openings are the emotional centers of the image, small but radiating, like embers set into stone. Thin trails of people wind across the landscape toward these entrances, miniature figures dwarfed by the immensity of rock and time. A few figures crouch at a cave mouth examining something on the ground, invisible at this scale but purposeful. The ochre-red of the plateau's iron-rich soil glows warmly against deep teal pooling in the valleys and shadow-crevices. The sky is a deep radiant amber-teal gradient, long horizontal clouds catching last light. The whole world feels ancient, breathing, and newly cracked open.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-27.png"
+    "card_image": "dawn-card-2026-06-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single dusty concrete slab cracked clean through its center, the fracture line splitting the gray mass apart to reveal a narrow cavity of warm amber light blazing upward from within the darkness below, deep teal shadows pooling in the jagged crevice walls, a tiny hand \u2014 soft pink, impossibly small \u2014 reaching upward through the gap toward the light, the concrete surface coated in fine pale dust that catches the golden-hour glow like scattered embers, a fragment of vivid orange helmet strap visible at the very edge of the frame implying the rescuer above, long dramatic side-lighting raking across the broken stone surface casting deep ridged shadows, radiant warm amber and deep teal color grade, the whole composition a visual metaphor for life emerging from collapse, survival breaking through devastation.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-28.png"
   }
 }
