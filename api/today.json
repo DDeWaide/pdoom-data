@@ -1,96 +1,97 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T11:50:50.625743+00:00",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T14:12:01.908589+00:00",
   "doom": {
-    "percentage": 38.6,
+    "percentage": 39.1,
     "raw_percentage": 41.7,
-    "driver": "Iran attacks Kuwait and Bahrain in response to US strikes. US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+    "driver": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes.",
     "category": "Geopolitics",
-    "blurb": "CEASEFIRE SPREADS. SO DOES THE WAR.",
-    "summary": "Yesterday's US-Iran ceasefire has aged like milk in a Kuwaiti summer \u2014 Iran has now struck US military facilities in Kuwait and Bahrain, two countries that had nothing to do with this fight but are now very much in it. Trump responded by threatening Iran with 'annihilation,' which is the kind of escalatory rhetoric that makes diplomats physically ill and ratings algorithms very happy. The conflict is metastasizing: what started as a Strait of Hormuz spat now has Gulf states activating air defenses and wondering how they got on this particular guest list.",
+    "blurb": "CHINA BLACKLISTS JAPAN'S NUCLEAR AND DRONE SECTOR",
+    "summary": "Beijing just slapped export restrictions on Japanese defense research institutes and drone manufacturers \u2014 a pointed escalation that pairs nicely with a weekend of US-Iran missile exchanges and Pakistani airstrikes killing dozens in Afghanistan. Meanwhile the US-Iran 'pause' is doing the heavy lifting of keeping oil flowing through Hormuz, which is less reassuring than it sounds when 'pause' is the operative word. Three active military flashpoints, a tech cold war sharpening its elbows, and Europe baking at 41.7\u00b0C \u2014 today's news cycle is a greatest hits compilation of slow-motion crises.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran striking US military bases in Kuwait and Bahrain marks a geographic expansion of the conflict beyond Iran itself, pulling new nations into the crossfire."
-      },
-      {
-        "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump threatening Iran with 'annihilation' while a signed ceasefire MoU technically still exists represents a near-total collapse of diplomatic credibility on both sides."
+        "detail": "China targets Japan's drone and nuclear defense sectors with new export curbs while Pakistan kills dozens in Afghan airstrikes and US-Iran hostilities limp toward Qatar talks on a 'pause' rather than a ceasefire."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Asian AI startups launching Mythos-like models as Anthropic's export ban drags on signals the proliferation of frontier-adjacent AI is proceeding despite US restrictions."
+        "signal": "elevated",
+        "detail": "China's GLM 5.2 reportedly beats Claude on cybersecurity benchmarks, continuing a pattern of open-weight models closing the gap on frontier AI in high-stakes domains."
       },
       {
-        "name": "Wild Card",
+        "name": "Governance",
         "signal": "medium",
-        "detail": "An anonymous GitHub account mass-dropping undisclosed zero-days is the kind of chaotic cyber wildcard that tends to get exploited faster when geopolitical tensions are already elevated."
+        "detail": "Mass AI fraud at Brown University and EU Chat Control negotiations behind closed doors both signal that institutions are losing the plot on oversight, just at different speeds."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Margaret Atwood's 'garbage in, garbage out' AI critique is philosophically apt but today's AI news is background noise compared to the active shooting war in the Gulf."
+        "detail": "Nothing today suggests a fundamental capability surprise or alignment failure, though GLM 5.2's cybersecurity performance is worth watching."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Putin publicly admitting fuel shortages from Ukrainian deep strikes is a notable crack in the Russian war machine \u2014 desperation tends to produce unpredictable moves."
       }
     ],
     "mood": [
-      "escalating",
-      "fragmented",
-      "combustible",
-      "sprawling"
+      "fractious",
+      "simmering",
+      "multifront",
+      "tense",
+      "volatile"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-06-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick acrid haze and smoke-laden humid air pressing down over the dense low-rise concrete rooftops of Muharraq Island at pre-dawn, camera positioned mid-height looking across a flat residential streetscape of sand-colored apartment blocks with satellite dishes and Arabic script on shopfronts below, date palms barely visible through the murk, the entire scene filtered through a choking atmospheric haze that turns the pre-dawn sky a deep bruised navy-purple bleeding into smoldering orange at the horizon where fires reflect upward into the smoke layer, a scorched and blackened impact scar gouged into the upper floors of a concrete apartment block dominating the middle-ground with blown-out window frames and rubble cascading down the facade into the street below, three Shahed delta-wing silhouettes visible as dark shapes hanging frozen in the haze-filtered sky overhead \u2014 their exhaust trails smearing orange streaks through the purple murk \u2014 while far beyond across the causeway the grey radar mast and flat superstructure of a US Fifth Fleet destroyer sits ghost-like at its pier barely distinguishable through the smoke and salt haze, deep navy and smoldering orange palette throughout, heavy shadows swallowing the street level while the burning horizon light feels threatening and oppressive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-28.png"
+    "card_image": "doom-card-2026-06-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned low at ground level inside a Japanese industrial factory floor looking toward a massive open loading bay door, the doorway blazing with deep amber backlight that floods inward and renders everything in front of it as pure black silhouette \u2014 two factory workers in hard hats and coveralls stand motionless side by side at the threshold of the bay, their postures rigid and uncertain, one holding a clipboard at his side, the other with arms hanging loose, both staring out at nothing, not moving, not loading \u2014 beyond the door's silhouette frame a sprawling shipyard crane arm is visible against the smoldering orange sky, enormous and still \u2014 inside the factory in deep shadow behind the workers, the dim outlines of stacked industrial components suggest a production line that has gone quiet, half-assembled machinery sitting cold under fluorescent lights that barely register against the blazing backlight \u2014 a forklift sits parked and abandoned in the middle distance, its operator gone \u2014 the entire scene radiates suspended momentum, a production chain stopped mid-breath, the human cost of a bureaucratic stamp issued thousands of miles away, felt here in silence and stillness.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-06-29.png"
   },
   "dawn": {
-    "percentage": 61.4,
-    "driver": "American rescue teams pull infant alive from rubble in Venezuela days after devastating twin earthquakes.",
+    "percentage": 60.9,
+    "driver": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive. The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
     "category": "Human Spirit",
-    "blurb": "HANDS ACROSS BORDERS PULL LIFE FROM RUBBLE",
-    "summary": "Against a backdrop of diplomatic rupture and geopolitical hostility, American search-and-rescue teams reached into the wreckage of Venezuela's earthquake disaster and pulled a living infant free \u2014 more than 72 hours after the twin strikes that killed over 1,400 people. That moment cuts through every headline about ceasefire violations and severed ties: when catastrophe demands it, humans still reach for each other. The infant's survival is a small, undeniable light in one of the darkest news cycles in recent memory.",
+    "blurb": "NEWBORN GUIDES MOTHER TO SURVIVAL IN THE DARK",
+    "summary": "Amid a death toll nearing 1,500 and a world shadowed by US-Iran exchanges of fire, an 18-day-old baby named Juan David became a beacon in Venezuela's rubble \u2014 his cries guiding rescuers to his trapped mother, his presence giving her a reason to hold on. This is the oldest human story there is: new life insisting on itself in the worst circumstances imaginable. Father and son were also pulled alive after four days underground, each survivor a proof that rescue teams, silence as a tool, and sheer human will can still beat the odds.",
     "factors": [
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "U.S. rescuers saved an infant from Venezuelan rubble past the critical 72-hour window, proving human endurance and the will to save strangers transcends political enmity."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "International rescue teams from multiple nations are working alongside Venezuelan crews in La Guaira despite the countries' deeply fractured diplomatic relationship."
+        "detail": "An 18-day-old infant and his mother survived days in earthquake rubble, with the baby's presence described as the reason she endured."
       },
       {
         "name": "Science",
+        "signal": "bright",
+        "detail": "Soil microbes discovered to help crops survive salty farmland could be a quiet revolution for food security in a warming world."
+      },
+      {
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Hawaii researchers are successfully integrating recycled ocean plastic and fishing nets into asphalt roads without increasing microplastic runoff, turning waste into infrastructure."
+        "detail": "The US and Iran agreed to pause hostilities and reopen the Strait of Hormuz to commercial shipping, with fresh talks scheduled in Qatar."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "The Hawaii road-plastic project represents a scalable model for removing ocean pollution while reducing demand for virgin petroleum-based road materials."
+        "signal": "quiet",
+        "detail": "NASA's X-59 supersonic jet is testing quiet flight technology that could eventually make carbon-efficient supersonic travel viable without sonic booms."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "DR Congo and Uzbekistan both made historic World Cup knockout-round debuts, with fans from nations rarely celebrated on the world stage reveling in a rare moment of pure national joy."
+        "detail": "Canada's historic World Cup run is transforming football culture in the country, with hosts making history and uniting a nation around a shared moment of joy."
       }
     ],
     "mood": [
       "resilience",
-      "compassion",
-      "perseverance",
-      "solidarity",
-      "hope"
+      "tenderness",
+      "survival",
+      "renewal",
+      "solidarity"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-06-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single dusty concrete slab cracked clean through its center, the fracture line splitting the gray mass apart to reveal a narrow cavity of warm amber light blazing upward from within the darkness below, deep teal shadows pooling in the jagged crevice walls, a tiny hand \u2014 soft pink, impossibly small \u2014 reaching upward through the gap toward the light, the concrete surface coated in fine pale dust that catches the golden-hour glow like scattered embers, a fragment of vivid orange helmet strap visible at the very edge of the frame implying the rescuer above, long dramatic side-lighting raking across the broken stone surface casting deep ridged shadows, radiant warm amber and deep teal color grade, the whole composition a visual metaphor for life emerging from collapse, survival breaking through devastation.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-28.png"
+    "card_image": "dawn-card-2026-06-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped Venezuelan apartment kitchen at 2am, deep teal shadows filling the corners, a single overhead bulb casting warm amber down onto a small wooden table cluttered with the debris of vigil \u2014 a cold cup of coffee, a rosary draped over the table edge, a worn leather Bible splayed open. At the center of the table, a smartphone screen blazes with golden-amber light, its glow the brightest source in the room, displaying a news photograph of a mother clutching a swaddled newborn against the rubble. The phone's radiant rectangle cuts hard amber light across the Bible's pages and the rosary beads. A single hand rests on the table beside the phone, fingers loosely open, palm upward \u2014 exhausted, relieved. Through a small window above the sink, darkness and faint teal coastal night sky. The palette is deep charcoal and earth-brown room swallowed in shadow, with the phone screen burning luminous gold-amber at the composition's heart, long shadows stretching outward from it across the table like rays.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-06-29.png"
   }
 }
