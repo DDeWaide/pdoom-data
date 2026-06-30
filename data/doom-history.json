@@ -13480,5 +13480,99 @@
       "card_image": "dawn-card-2026-06-29.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped Venezuelan apartment kitchen at 2am, deep teal shadows filling the corners, a single overhead bulb casting warm amber down onto a small wooden table cluttered with the debris of vigil \u2014 a cold cup of coffee, a rosary draped over the table edge, a worn leather Bible splayed open. At the center of the table, a smartphone screen blazes with golden-amber light, its glow the brightest source in the room, displaying a news photograph of a mother clutching a swaddled newborn against the rubble. The phone's radiant rectangle cuts hard amber light across the Bible's pages and the rosary beads. A single hand rests on the table beside the phone, fingers loosely open, palm upward \u2014 exhausted, relieved. Through a small window above the sink, darkness and faint teal coastal night sky. The palette is deep charcoal and earth-brown room swallowed in shadow, with the phone screen burning luminous gold-amber at the composition's heart, long shadows stretching outward from it across the table like rays."
     }
+  },
+  {
+    "date": "2026-06-30",
+    "generated_at": "2026-06-30T12:15:20.554566+00:00",
+    "doom": {
+      "percentage": 39.6,
+      "raw_percentage": 41.7,
+      "driver": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says. Pakistan claims it was targeting militants near its border, but the Taliban government calls it an 'atrocity'.",
+      "category": "Geopolitics",
+      "blurb": "NUCLEAR NEIGHBORS SWAP CORPSES FOR CONDEMNATIONS",
+      "summary": "Pakistan \u2014 a nuclear-armed state \u2014 just killed 28 Afghan civilians in cross-border strikes, with the Taliban calling it an 'atrocity' and the UN confirming the toll. This is the kind of tit-for-tat that historically escalates badly between nuclear-adjacent powers with a long memory for grievance. Meanwhile, DR Congo is banning mass gatherings to contain an Ebola outbreak, Monaco just had a targeted bombing, and the US-Iran ceasefire remains so fragile that both sides are openly contradicting each other about whether talks are even happening.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Pakistan killing 28 Afghan civilians in strikes adds a fresh nuclear-adjacent flashpoint on top of an already-hot Middle East; Monaco bombing of Ukrainian tycoon suggests covert war is spreading to new theaters."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "SCOTUS handed Trump a 3-1 defeat on key rulings, birthright citizenship decision looms, and US-Iran negotiators are publicly contradicting each other on whether Doha talks are even scheduled."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "South Korea announcing a $1 trillion push into memory chips and humanoid robots by 2028 signals the AI arms race is accelerating into physical infrastructure at sovereign scale."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Meta contractors posing as teenagers to adversarially probe rival chatbots about suicide and drugs is a reminder that AI safety testing at the frontier involves genuinely disturbing edge cases."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "DR Congo banning mass gatherings to contain Ebola while opposition politicians accuse the government of exploiting the outbreak to suppress protest is a dual-threat scenario \u2014 outbreak plus political repression \u2014 that historically ends badly."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "fragmenting",
+        "simmering",
+        "nuclear-adjacent"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-06-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked Afghan mountain earth, camera pressed flat to the dusty floor of a Paktia village courtyard in the pre-dawn darkness, deep navy and smoldering orange palette \u2014 the second-order aftermath rendered as absence and arrival: towering qala-style mud-brick compound walls loom overhead filling the upper frame, their thick earthen surfaces cracked and dusty, a single wooden gate hanging open above the camera, beyond it the cold mountain night sky scattered with hard stars over the brown-grey Sulaiman ridge silhouettes \u2014 in the foreground filling the frame bottom, a rope charpoy cot lies tipped on its side, its woven string surface still holding the impression of a sleeping body, beside it a crumpled wool blanket half-buried under fallen earthen roof debris \u2014 at the gate threshold visible from below, the legs and sandaled feet of several men in dark shalwar kameez crowd inward, some carrying poles fashioned into stretchers, glowing mobile phone screens casting cold blue light downward onto dusty hands and rubble \u2014 the sky above the compound walls is bruised deep navy with a smoldering orange haze bleeding over the eastern ridgeline from somewhere beyond, smoke-filtered and threatening, warmth that signals damage not warmth that signals safety \u2014 heavy shadows dominate every corner, the courtyard crater just visible at frame edge."
+    },
+    "dawn": {
+      "percentage": 60.4,
+      "driver": "Iran war supercharges pivot to renewable energy. The Iran war and high oil and gas prices have supercharged the adoption of renewables and EVs across the world. Some experts wonder if this year could be the peak of oil demand.",
+      "category": "Environment",
+      "blurb": "THE CRISIS THAT KILLED OIL DEMAND",
+      "summary": "Even as the Middle East conflict drives pDoom upward, it may be accidentally accelerating humanity's energy transition faster than any policy ever could. High oil prices caused by the Iran conflict are supercharging renewable adoption and EV uptake globally \u2014 and serious analysts are now asking whether 2026 marks peak oil demand. History shows that energy transitions born from necessity stick. The darkest geopolitical moments sometimes forge the cleanest long-term futures.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "US renewables hit nearly triple coal's generation in April, and global conflict is now accelerating the transition rather than slowing it."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Scientists have identified how Alzheimer's spreads through the brain via protein packages, opening a credible new pathway to blocking disease progression."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The EU and China agreed to enter three months of structured trade talks to avoid escalation, choosing dialogue over a damaging trade war."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The US murder rate is approaching a record low, a quiet but profound signal that community safety is improving despite the noise of global crises."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Rocket Lab's acquisition of Iridium is being called one of the most transformative deals in space history, creating a fully integrated commercial space company."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "transitioning",
+        "accelerating",
+        "hopeful",
+        "transformative"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-06-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a residential garage the morning after a family's first EV arrived, looking outward through the open garage door into a golden amber dawn street beyond, deep teal shadows pooling in the corners of the garage interior, the outside world drenched in radiant side-lit warm gold. A sleek electric car sits in the foreground partially visible, its charging cable still plugged in and coiled neatly on the concrete floor, the small LED ring at the charging port glowing a soft blue-green in the teal shadow. Through the open garage door frame the outside world tells the larger story: across the quiet suburban street a neighbor's rooftop bristles with brand new solar panels catching the first amber light of morning, their surfaces gleaming pristine and unused, and on the distant horizon just visible between houses a row of white offshore wind turbines stands against a sky transitioning from hazy warm amber at the edges to a deep clear cerulean blue at the center. A child's bicycle leans against the garage wall inside, small and still. Long diagonal morning shadows stretch across the driveway concrete. The color palette is deep golden amber flooding from outside, warm teal dominating the interior shadows, electric blue glowing at the charging port connection \u2014 radiant momentum captured in a single quiet morning threshold."
+    }
   }
 ]
