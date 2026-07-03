@@ -1,97 +1,97 @@
 {
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T12:12:52.007085+00:00",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T12:13:56.456158+00:00",
   "doom": {
-    "percentage": 35.8,
-    "raw_percentage": 34.7,
-    "driver": "'Most massive' Russian attack on Kyiv kills at least 18. Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-    "category": "Geopolitics",
-    "blurb": "RUSSIA SENDS ITS BIGGEST REGARDS TO KYIV",
-    "summary": "Russia's 'most massive' strike on Kyiv \u2014 18 dead, subway stations as shelters, rubble being searched \u2014 is the kind of escalation that earns its own adjective. Meanwhile Lithuania just scrapped its constitutional ban on nuclear weapons, following Finland's lead, because apparently the neighborhood association has new rules now. The US-Iran talks in Doha produced 'positive progress,' which in diplomatic language means nobody threw anything.",
+    "percentage": 35.1,
+    "raw_percentage": 33.7,
+    "driver": "Russia's neighbor to scrap ban on nuclear weapons, says 'situation is getting worse'.",
+    "category": "Nuclear",
+    "blurb": "ANOTHER DOMINO DROPS ON NUCLEAR NORMS",
+    "summary": "First Finland, now another Nordic/Baltic neighbor is ditching its nuclear weapons ban \u2014 because apparently watching Russia level Kyiv in its 'most massive' attack yet (again) has a way of changing your defense posture. This is the slow-motion collapse of post-Cold War nuclear taboo in real time, and the situation is, per the headline's own admission, 'getting worse.' Meanwhile Ebola treatments are being trialed in DRC and Africa CDC just confirmed a Marburg case in Uganda, which is the kind of biotech sidebar that would dominate news on any other week.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Russia's largest-ever recorded strike on Kyiv marks a deliberate escalation, while Baltic states quietly removing nuclear prohibitions signals a continent quietly preparing for worse."
+        "detail": "Russia continues grinding missile and drone campaigns on Kyiv while Ukraine's asymmetric long-range strikes begin rattling Moscow's confidence \u2014 no resolution in sight."
+      },
+      {
+        "name": "Nuclear",
+        "signal": "elevated",
+        "detail": "A second European nation moves to scrap its nuclear weapons ban in weeks, signaling accelerating erosion of post-Cold War non-proliferation norms under Russian pressure."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "OpenAI floating a 5% government stake and Trump blocking USMCA long-term renewal both point to deepening entanglement between tech power and political leverage."
+        "detail": "Trump's crypto conflicts of interest and OpenAI's 5% US government stake talks suggest institutional guardrails on AI and finance are bending in new directions."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Anthropic's Fable and Mythos models cleared for global release after Trump safety review; AI agents pitched as near-human traders \u2014 capability march continues without pause."
+        "signal": "low",
+        "detail": "Kimi K2.7 rolls into GitHub Copilot and AI operational tools proliferate, but nothing today crosses a meaningful capability threshold."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "SpudCell \u2014 a partially self-replicating synthetic cell built from scratch \u2014 quietly debuted today, a bioengineering milestone that almost nobody is paying attention to."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "LLM groupthink research confirms models converge on the same outputs under pressure \u2014 a subtle but persistent signal that diversity of AI reasoning remains unsolved."
+        "signal": "medium",
+        "detail": "Simultaneous Ebola outbreak (438 deaths in DRC) and a confirmed Marburg case in Uganda is an underreported dual-pathogen situation worth watching."
       }
     ],
     "mood": [
+      "nuclear creep",
       "escalatory",
-      "grim",
       "anxious",
-      "rattling",
-      "unresolved"
+      "grinding",
+      "contagious"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-07-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single cigarette lying on a concrete windowsill ledge, camera pressed inches above the rough grey Soviet-era concrete surface, the cigarette half-smoked and still trailing a thin ribbon of pale smoke upward into frame, the filter end resting against a shallow chip in the concrete edge, deep navy darkness pressing in from above and behind, the windowsill surface itself coated in a fine layer of powdered concrete dust and tiny glittering glass fragments catching the only warm light source \u2014 a distant orange-amber glow from fires below that bleeds up from the left bank courtyard beneath, the glow reflected faintly in each glass shard like scattered embers, the concrete ledge texture rendered in chunky SNES pixels showing Soviet panel-block construction grain, a smear of dried dark reddish-brown on the concrete near the cigarette tip implying contact with a cut hand, the right edge of the frame showing the blurred ghost of a blackened window frame and shredded curtain fabric hanging motionless in the smoke-thick air, the overcast cloud ceiling above bleeding smoldering orange from reflected fire, deep navy and smoldering orange palette throughout, heavy shadows dominate, warmth feels threatening.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-02.png"
+    "card_image": "doom-card-2026-07-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep navy and smoldering orange palette, camera positioned at street level in Vilnius Old Town looking down a narrow cobblestone lane toward the neoclassical Presidential Palace, its white stone facade lit harshly by a single security floodlight casting long black shadows across iron railings, the Vytis coat of arms \u2014 white armored knight on red \u2014 mounted above the palace gate and caught in the beam, a lone municipal worker in a reflective vest pushing a wide broom across ancient cobblestones strewn with scattered papers and press litter from the day's announcement, a forest of abandoned broadcast microphone stands left on the palace steps like bare winter saplings, one overturned, cables coiling across the stone like dark veins, a crumpled official document face-down on the wet cobbles catching smoldering orange light from a single iron streetlamp above, Gothic church spires of the Old Town rising black against deep navy sky behind the palace, a military jeep idling at the far end of the lane its red tail-lights bleeding into the mist, the flat forested Baltic horizon barely visible beyond rooftops, the whole scene pressing with cold northern European damp and the heavy silence of a decision that cannot be undone.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-03.png"
   },
   "dawn": {
-    "percentage": 64.2,
-    "driver": "For first time, a cell built from scratch grows and divides.",
+    "percentage": 64.9,
+    "driver": "Nasa launches mission to save falling space telescope. A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
     "category": "Science",
-    "blurb": "LIFE ITSELF, BUILT FROM SCRATCH",
-    "summary": "Scientists have constructed a cell from the ground up that can actually grow and divide \u2014 arguably the most profound feat in the history of synthetic biology. The 'SpudCell,' built from 36 bacterial genes, crossed a threshold researchers once thought was decades away: artificial life that replicates itself. On a day when missiles fall on Kyiv and geopolitical fault lines deepen, this is a reminder that human curiosity is assembling something genuinely new \u2014 not just iterating on what nature gave us, but authoring it.",
+    "blurb": "HUMANITY SENDS A ROBOT TO CATCH A FALLING STAR",
+    "summary": "Against a backdrop of war, heat, and geopolitical fracture, NASA quietly pulled off something that would have been science fiction a generation ago: launching a robotic spacecraft to intercept a tumbling telescope in orbit and haul it back from the brink of destruction. It's a reminder that human ingenuity doesn't pause for geopolitics \u2014 we are, right now, performing orbital rescue missions. The same civilization that struggles to keep peace on the ground is also sending robots to catch telescopes mid-fall, preserving our eyes on the universe.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A synthetic cell built from scratch that grows and divides represents a generational leap in our understanding of what life actually is."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "U.S. and Iranian negotiators met with Qatari and Pakistani mediators in Doha, reporting 'positive progress' and agreeing to continue discussions \u2014 a fragile but real diplomatic thread."
+        "detail": "A robotic orbital rescue mission demonstrates real-time mastery of space mechanics that would have seemed impossible decades ago."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A teen who spent over 130 days hospitalized battling leukemia walked across the graduation stage as his high school's former starting quarterback."
+        "detail": "The Venezuelan security guard pulled alive after eight days in rubble is a visceral testament to survival and the will to rescue strangers."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "New modelling suggests the feared collapse of the AMOC ocean current may be gradual and reversible rather than a sudden catastrophic tipping point \u2014 buying precious time."
+        "detail": "Preserving scientific instruments like space telescopes keeps humanity's long-term climate and planetary monitoring capabilities intact."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Oregon ER doctors successfully fought a national staffing firm under a new state law, showing local solidarity can win systemic battles."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A global review confirmed mRNA vaccines are safe, effective, and full of promise \u2014 reaffirming one of science's most important recent tools heading into an era of novel pathogens."
+        "detail": "Ebola treatment trials beginning in DR Congo signal that even in active outbreak zones, the global medical community is showing up with tools and resolve."
       }
     ],
     "mood": [
-      "breakthrough",
-      "wonder",
       "resilient",
-      "pioneering",
-      "hopeful"
+      "ingenious",
+      "hopeful",
+      "determined",
+      "awe-inspiring"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-07-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A fluorescence microscope fills the foreground as a dark silhouette, its eyepiece and body rendered as a solid black form against a blazing deep amber and warm teal glow emanating from the microscope's illumination stage, the entire scene backlit by that radiant cold blue-green light source as if something luminous and alive is burning inside the instrument, a researcher's silhouette leans forward into the eyepiece \u2014 head bowed in concentration, one hand resting gently on the focus knob \u2014 their body completely dark against the electric teal-gold radiance flooding outward from the microscope's base, the laboratory benchtop stretching behind them into glowing amber shadow, small amber vials and pipette racks rendered as tiny dark shapes against the warm background light, a glowing monitor screen in the deep background showing a single luminous sphere pinching at its middle and splitting into two \u2014 the only detailed image in the frame \u2014 radiating cold teal light outward into the amber-drenched room, long diagonal shadows stretching across the benchtop, the entire composition divided between deep warm gold and cold electric teal, the silhouetted figure and microscope centered against that impossible cellular glow.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-02.png"
+    "card_image": "dawn-card-2026-07-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a polished concrete floor, gazing up at the underside of a standing figure \u2014 a young woman in a dark hoodie, sneakers planted wide apart, head tilted back, neck craned upward toward a ceiling-mounted monitor screen casting cold blue-white light down across her upturned face and jaw. The environment is a cramped Flagstaff mission control room seen from below \u2014 cable trays and ventilation ducts crossing the ceiling above her like a steel canopy, amber light bleeding in warm pools from desk lamps at the edges of frame, the contrast between cold monitor glow above and warm desk amber below splitting the scene in two registers. Her arms are crossed tight across her chest, knuckles white, one hand gripping the opposite sleeve \u2014 posture of held breath, of someone watching something they cannot touch. On the screen overhead, a ghostly blue-white pixel readout glows with orbital trajectory data, abstract curves suggesting something arcing downward then leveling. Deep indigo dominates the upper frame, the monitor's electric blue-white slicing through it, her face caught in that cold light \u2014 golden amber warming her shoulders from below, teal shadows pooling in the corners of the room above her head.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-03.png"
   }
 }
