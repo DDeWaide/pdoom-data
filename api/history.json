@@ -14152,5 +14152,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a polished concrete floor, gazing up at the underside of a standing figure \u2014 a young woman in a dark hoodie, sneakers planted wide apart, head tilted back, neck craned upward toward a ceiling-mounted monitor screen casting cold blue-white light down across her upturned face and jaw. The environment is a cramped Flagstaff mission control room seen from below \u2014 cable trays and ventilation ducts crossing the ceiling above her like a steel canopy, amber light bleeding in warm pools from desk lamps at the edges of frame, the contrast between cold monitor glow above and warm desk amber below splitting the scene in two registers. Her arms are crossed tight across her chest, knuckles white, one hand gripping the opposite sleeve \u2014 posture of held breath, of someone watching something they cannot touch. On the screen overhead, a ghostly blue-white pixel readout glows with orbital trajectory data, abstract curves suggesting something arcing downward then leveling. Deep indigo dominates the upper frame, the monitor's electric blue-white slicing through it, her face caught in that cold light \u2014 golden amber warming her shoulders from below, teal shadows pooling in the corners of the room above her head.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-03.png"
     }
+  },
+  {
+    "date": "2026-07-04",
+    "generated_at": "2026-07-04T11:38:03.844013+00:00",
+    "doom": {
+      "percentage": 34.9,
+      "raw_percentage": 33.7,
+      "driver": "Espionage Against the European Parliament. Article URL: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "category": "Cyber",
+      "blurb": "SPIES BUGGED THE SPY-WATCHERS",
+      "summary": "A member of the European Parliament committee specifically investigating spyware got hacked with Pegasus \u2014 which is either darkly ironic or a deliberate warning shot, and neither option is comforting. Meanwhile, Poland's PM is warning of imminent Russian aggression, Russia claims it took Kostiantynivka, and Iran is running a six-day funeral for Khamenei while dangling Strait of Hormuz tolls as a bargaining chip. It's America's 250th birthday party and someone definitely crashed it uninvited.",
+      "factors": [
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Pegasus deployed against an MEP on the spyware oversight committee signals brazen institutional undermining of democratic accountability mechanisms."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Poland's PM warns of Russian attack scenarios, Russia claims capture of Kostiantynivka, and the Saudi-led coalition escalates against Houthis blocking warplanes \u2014 multiple fronts simmering."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic announces Claude Science drug development ambitions and Alibaba bans Claude Code over alleged backdoor risks, keeping AI trust issues in the news cycle."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Iran's Strait of Hormuz toll gambit remains an unresolved wildcard capable of triggering an energy crisis; six-day Khamenei funeral creates political theater covering a genuine power vacuum."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Quiet on the alignment front today \u2014 no new model capability announcements or safety incidents beyond residual Alibaba-Claude backdoor noise."
+        }
+      ],
+      "mood": [
+        "surveilled",
+        "simmering",
+        "celebratory-but-uneasy",
+        "ironic"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-07-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a cramped Athens apartment looking outward through a narrow balcony doorway, deep navy darkness filling the room behind, smoldering orange cast bleeding in from the city outside, a small cluttered desk pressed against the wall beside the doorway holding an iPhone face-up displaying a pale blue iMessage notification bubble, the phone's screen the only cold light source in the room, thin curtains half-drawn framing the doorway, beyond the balcony a dense Mediterranean cityscape of stacked concrete apartment blocks receding into a hazy orange-grey autumn night, satellite dishes and laundry lines threading between buildings, a stack of printed documents visible on the desk edge catching the screen glow, heavy shadows dominating every corner of the room interior, the balcony railing iron and rusted, the outside world feeling watched and exposed while the dark room interior feels sealed and unknowingly compromised, deep navy and smoldering orange palette throughout, warmth threatening not comforting.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-04.png"
+    },
+    "dawn": {
+      "percentage": 65.1,
+      "driver": "A device that revives eyeballs from dead donors could make eye transplants possible.",
+      "category": "Medicine",
+      "blurb": "SCIENTISTS UNLOCK THE GIFT OF SIGHT",
+      "summary": "In a week shadowed by war, nuclear anxiety, and a brutal heatwave, researchers have quietly achieved something extraordinary: a device capable of reviving donor eyes and keeping them viable long enough for full transplant surgery. This tackles one of medicine's most stubborn bottlenecks \u2014 the rapid degeneration of ocular tissue after death \u2014 and could restore vision to millions who have lost hope. It's the kind of painstaking, unglamorous science that rarely makes the front page, but quietly changes what it means to be human.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Reviving post-mortem donor eyes for transplant surgery represents a genuine paradigm shift in organ viability technology, potentially opening whole-eye transplantation as a clinical reality."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "UK, France, and Oman reached a joint agreement to ensure maritime safety in Omani territorial waters, showing multilateral diplomacy still functions under pressure."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Cape Verde's debut World Cup run \u2014 a tiny island nation pushing Argentina to the brink \u2014 captured global hearts and reminded millions that underdog joy is real and contagious."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Orangutan mothers were found to actively seek out playmates for their offspring, a glimpse of rich animal social cognition that deepens the case for primate conservation."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A volcano in the Indian Ocean has surfaced traces of Earth's primordial magma ocean \u2014 scientists are literally reading the planet's own origin story from fresh lava."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "possibility",
+        "wonder",
+        "resilience",
+        "renewal"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-07-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling hospital campus seen from above at golden hour, warm amber light flooding rooftops and courtyards, deep teal shadows pooling between wings and corridors, the campus radiating outward like a living organism. Far below, a long winding queue of tiny silhouetted figures stretches from a clinic entrance across a sun-baked plaza, the line curving past benches and planters, dozens of people waiting with quiet patience \u2014 each one a potential recipient of restored sight. A single glowing amber window on the clinic facade pulses with warm interior light, visible even from this altitude, drawing the eye like a beacon. A courtyard garden at the building's edge catches the last raking side-light, long shadows stretching dramatically across pale stone in diagonal bands. Beyond the campus perimeter, a dense city grid recedes into teal haze, the scale of human need dwarfing the small box of discovery that made this queue possible. Every pixel radiating golden-hour amber and warm teal, side-lit, luminous, the whole scene humming with quiet anticipatory hope.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-04.png"
+    }
   }
 ]
