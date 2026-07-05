@@ -13952,5 +13952,99 @@
       "card_image": "dawn-card-2026-07-04.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling hospital campus seen from above at golden hour, warm amber light flooding rooftops and courtyards, deep teal shadows pooling between wings and corridors, the campus radiating outward like a living organism. Far below, a long winding queue of tiny silhouetted figures stretches from a clinic entrance across a sun-baked plaza, the line curving past benches and planters, dozens of people waiting with quiet patience \u2014 each one a potential recipient of restored sight. A single glowing amber window on the clinic facade pulses with warm interior light, visible even from this altitude, drawing the eye like a beacon. A courtyard garden at the building's edge catches the last raking side-light, long shadows stretching dramatically across pale stone in diagonal bands. Beyond the campus perimeter, a dense city grid recedes into teal haze, the scale of human need dwarfing the small box of discovery that made this queue possible. Every pixel radiating golden-hour amber and warm teal, side-lit, luminous, the whole scene humming with quiet anticipatory hope."
     }
+  },
+  {
+    "date": "2026-07-05",
+    "generated_at": "2026-07-05T11:39:38.092209+00:00",
+    "doom": {
+      "percentage": 33.5,
+      "raw_percentage": 31.7,
+      "driver": "Iran's China envoy vows 'special' Hormuz treatment for 'friendly' countries. Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.",
+      "category": "Geopolitics",
+      "blurb": "IRAN PUTS A TOLL BOOTH ON THE WORLD'S OIL SPIGOT",
+      "summary": "With Khamenei barely cold and funeral ceremonies underway, Iran is already weaponizing the Strait of Hormuz \u2014 charging transit fees based on diplomatic loyalty. That's not grief talking, that's a new post-war regional order being written in shipping surcharges. Meanwhile China and Russia kick off joint naval drills starting Monday, which is either a coincidence or a perfectly timed message about who the 'friendly countries' are.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran's Hormuz toll scheme plus China-Russia joint naval drills starting Monday signal a coordinated reshaping of post-war regional power dynamics."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump's Mount Rushmore speech veering into communist warnings on the 250th birthday is politically charged but domestically contained."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "No significant AI capability or alignment headlines today; the news cycle is dominated by July 4th pageantry and geopolitics."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "China promoting two new generals after an anti-corruption purge is a loyalty consolidation move \u2014 historically a precursor to heightened military assertiveness."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Quiet day on the AI safety and alignment front; no new capability jumps or governance reversals reported."
+        }
+      ],
+      "mood": [
+        "transactional",
+        "posturing",
+        "festive",
+        "unsettled"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-07-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, dense maritime haze pressing down over the Strait of Hormuz at pre-dawn, camera positioned at mid-water level looking east through thick petroleum-tinged fog toward the narrow chokepoint, ochre-brown Iranian coastline barely visible as a flat dark smear along the top of the frame, the jagged limestone cliffs of Musandam peninsula looming as a shadowed mass to the right dissolving into haze, a massive VLCC supertanker filling the center-left of the frame riding low and heavy with crude oil, its rusted red waterline and black hull catching smoldering orange light from a distant flare stack onshore, a small low-profile IRGC fast-attack speedboat cutting a sharp white wake diagonally across the supertanker's bow in a circling posture, the flat glassy summer water reflecting deep navy and orange in petroleum-iridescent ripples, a concrete Iranian maritime checkpoint blockhouse visible on a rocky promontory through the fog with a tricolor flag hanging limp in the dead hot air, heat haze and salt mist blurring every distant edge, atmosphere so thick the horizon dissolves entirely into murk, deep navy and smoldering orange palette, heavy shadows, warmth feels threatening."
+    },
+    "dawn": {
+      "percentage": 66.5,
+      "driver": "Scientists discover why some brains resist Alzheimer's. Some brains appear to fight back against Alzheimer's by helping immature brain cells survive damage instead of succumbing to it. Understanding this natural resilience could point researchers toward en",
+      "category": "Medicine",
+      "blurb": "YOUR BRAIN HAS A SECRET WEAPON AGAINST ALZHEIMER'S",
+      "summary": "In a week heavy with war, surveillance, and nuclear anxiety, science quietly delivered one of its most hopeful clues yet: some human brains are actively fighting back against Alzheimer's disease, keeping immature neurons alive where others fail. This isn't just a curiosity \u2014 it's a roadmap. If researchers can understand the mechanism behind this natural resilience, they may be able to trigger it in vulnerable brains too. Tens of millions of families living in the shadow of dementia just got a reason to look up.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Identifying why some brains resist Alzheimer's opens a genuine therapeutic pathway \u2014 not a distant hope, but a concrete biological mechanism to target."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Alexandra Eala's Wimbledon upset win over Iga Swiatek \u2014 dedicated to 'all the girls with ruffled socks and chubby cheeks' \u2014 is a joyful reminder that underdogs still triumph spectacularly."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Trump's direct appeal to Xi Jinping resulting in imprisoned pastor Jin Mingri's release shows that personal diplomacy can still cut through geopolitical hostility to free individuals."
+        },
+        {
+          "name": "Discovery",
+          "signal": "bright",
+          "detail": "Archaeologists unearthed a well-preserved Byzantine city in Egypt's western desert, expanding our understanding of fourth-century urban life in a region rarely studied at this depth."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Fans from Egypt, Morocco, and Palestine singing together in World Cup stadiums is a small but real act of shared joy crossing borders that politics keeps closed."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "discovery",
+        "breakthrough",
+        "wonder",
+        "tenacity"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-07-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single cracked and ancient seed pod split open at its seam, dry and papery and amber-brown, its surface textured like aged bark, deep fissures running across it like fault lines in old stone \u2014 and pushing through the very center of that crack, one small luminous green shoot, impossibly alive, glowing with warm golden-hour amber light that catches its translucent edges and makes it radiate like a tiny lantern, the shoot soft and rounded and unfinished-looking, still becoming, curled slightly at its tip. The background falls away into deep teal shadow at the frame edges, cool blue-green darkness pressing in from all sides, but the shoot itself pulls every photon of warm amber light toward it, side-lit from the left so long shadows stretch across the dry husk of the pod, the contrast between ancient fragility and living persistence filling every pixel. The seed pod surface is rendered in layered warm ochre and burnt sienna, the crack edges catching gold. The shoot glows chartreuse and pale jade. A single droplet of moisture clings to its tip, catching a tiny reflection of amber warmth."
+    }
   }
 ]
