@@ -1,97 +1,96 @@
 {
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T13:52:17.866074+00:00",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T12:31:07.874137+00:00",
   "doom": {
-    "percentage": 33.1,
+    "percentage": 32.8,
     "raw_percentage": 31.7,
-    "driver": "China tests long-range missile in South Pacific in move Australia condemns as 'destabilising to region'. Launch comes just hours after Australia and Fiji sign defence agreement as expert says timing not a coincidence",
+    "driver": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz. Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault.",
     "category": "Geopolitics",
-    "blurb": "BEIJING FIRES A POINTED HELLO INTO THE PACIFIC",
-    "summary": "China timed a long-range missile test into the South Pacific to land mere hours after Australia signed a defence pact with Fiji \u2014 a coincidence so pointed it has the word 'coincidence' sweating. With Khamenei's funeral drawing revenge-chanting crowds and Russia continuing to pummel Kyiv ahead of the NATO summit, the great powers appear to be in a coordinated competition to see who can be most theatrically menacing this week. The good news: 'destabilising' is still a step below 'destabilised.'",
+    "blurb": "IRAN LIGHTS ANOTHER MATCH AT THE WORLD'S OIL VALVE",
+    "summary": "Iran has graduated from threatening 'special treatment' in the Strait of Hormuz to actually setting ships on fire, which is the geopolitical equivalent of moving from passive-aggressive emails to throwing a chair. With oil prices already twitching and NATO leaders distracted by Trump's arrival in Ankara, nobody's minding the maritime store. The Hormuz chokepoint now has a body count of burning tankers, and the world's shipping industry is quietly reconsidering its life choices.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "China's deliberately timed Pacific missile test, Russia's pre-NATO-summit Kyiv barrage, and Khamenei funeral crowds chanting revenge form a trifecta of great-power signalling."
+        "detail": "Iran attacking a commercial tanker in the Strait of Hormuz marks an escalation from rhetoric to kinetic action, tightening an already nervous chokepoint."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Trump intervening with FIFA to reinstate a player's suspension, then heading to NATO to enforce defence spending pledges, suggests executive power being wielded in increasingly unconventional theatres."
+        "signal": "elevated",
+        "detail": "The NATO summit in Ankara opens under maximum stress: Trump pressing allies, Ukraine demanding air defense after fresh strikes on Kyiv, and a fractured Atlantic alliance in plain view."
       },
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "GPT-5.6 Sol Ultra teased for Codex and an AI tutor achieving 0.71\u20131.30 SD learning gains signal steady capability march, but no alarming threshold crossed today."
+        "detail": "An AI-generated actress is headlining a feature film, which is mildly dystopian but poses no near-term civilizational risk."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "USAID closure is 'demonstrably worsening' the Ebola outbreak containment, a slow-burn biosecurity risk that's getting insufficient headline oxygen."
+        "detail": "Explosions rocked Damascus during Macron's visit to Syria, injuring 18 \u2014 a reminder that post-Assad Syria remains a live wire with unpredictable escalation potential."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Canada's secret Palantir AI contracts and wealthy families using AI to tutor children raise governance-adjacent questions, but no acute alignment incidents today."
+        "detail": "Anthropic was caught secretly tracking user behavior, which is a trust-eroding irony for the 'safety-first' lab but not an extinction-level event."
       }
     ],
     "mood": [
-      "provocative",
-      "simmering",
-      "theatrical",
+      "combustible",
+      "fractured",
       "tense",
-      "watchful"
+      "smoldering"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-07-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, camera positioned at beach level on a low-lying Pacific island shore looking westward into a bruised sunset sky, two islander figures standing at the waterline rendered as pure black silhouettes against the burning horizon, one pointing toward the open ocean, the other holding a small transistor radio to their ear, the ocean surface ahead broken into orange shards of reflected light, a thin contrail scratch visible high in the deep navy upper sky catching the last orange light, coconut palms framing the left edge as ragged black cutouts, the distant silhouette of a cargo vessel on the horizon dwarfed by the immensity of the water, heavy shadows swallowing the beach behind the figures, the sky grading from smoldering orange at the waterline through bruised violet into absolute navy overhead, the contrail the only thing connecting sky to sea, warmth from the horizon feeling threatening rather than peaceful, the two small human forms utterly exposed against the vast indifferent Pacific.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-06.png"
+    "card_image": "doom-card-2026-07-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked sun-baked asphalt at a Gulf petrol station forecourt, camera pressed flat to the ground beneath a towering price sign pole whose numbers have gone dark and unlit, the massive blank signboard looming against a sky choked with deep navy and bruised orange haze, a long snaking queue of cars visible at the edges of the frame stretching back into dusty distance, their headlights cutting weak orange cones through particulate-heavy pre-dawn air, the underside of a corrugated metal station canopy overhead showing rust stains and flickering dead fluorescent tube fixtures, a lone attendant's uniformed legs and boots visible standing motionless beside an out-of-service pump shrouded in a plastic bag, the horizon behind the queue glowing with a distant smoldering amber tint that feels less like sunrise and more like something burning far out to sea, heavy shadows dominating the lower frame, warmth threatening not comforting, smoke-filtered light pressing down across everything.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-07.png"
   },
   "dawn": {
-    "percentage": 66.9,
-    "driver": "Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds.",
+    "percentage": 67.2,
+    "driver": "AI just supercharged the race to find room temperature superconductors. Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more.",
     "category": "Science",
-    "blurb": "WALK FASTER, THINK SHARPER INTO YOUR 80S",
-    "summary": "In a world full of geopolitical turbulence and missile barrages, science quietly delivers something genuinely useful: a study showing that people in their 80s who walk at a brisk pace have roughly 50% lower risk of cognitive decline. This isn't a pharmaceutical breakthrough requiring billions in R&D \u2014 it's an accessible, free, human-powered intervention that anyone can act on today. It reaffirms that the body and brain remain deeply linked, and that aging well is meaningfully within reach for millions of people.",
+    "blurb": "AI AND PHYSICS JOIN FORCES TO UNLOCK THE IMPOSSIBLE",
+    "summary": "In a week dominated by missile tests and battlefield escalation, a quieter revolution is unfolding in the lab: scientists have fused machine learning with quantum physics to discover new superconductors and dramatically accelerate the search for more. Room-temperature superconductivity has been one of physics' holy grails for over a century \u2014 materials that conduct electricity with zero resistance could transform energy grids, computing, and transportation overnight. The fact that AI is now genuinely compressing that timeline from decades to years is exactly the kind of slow-burn, civilization-altering good news that rarely makes the front page.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "A robust study links gait speed in octogenarians to dramatically reduced cognitive decline risk, strengthening the case for physical activity as brain medicine."
+        "signal": "blazing",
+        "detail": "Combining machine learning with quantum physics to discover superconductors represents a genuine methodological breakthrough, not just an incremental result."
       },
       {
-        "name": "Human Spirit",
+        "name": "Technology",
         "signal": "bright",
-        "detail": "The finding celebrates human resilience in the oldest age brackets, showing that vitality and mental sharpness are achievable well into the ninth decade of life."
+        "detail": "Google's $468M backing of nuclear fusion startup Proxima Fusion signals serious capital flowing toward clean, near-limitless energy solutions."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Bangladesh and India are quietly mending diplomatic relations that had turned frosty, a small but meaningful signal of regional de-escalation."
+        "detail": "NATO allies are deepening defense and industrial ties \u2014 Canada's submarine contract with Germany reflects transatlantic partnership persisting despite political turbulence."
       },
       {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "Bentley's first EV reveal signals even the most entrenched luxury combustion brands are now committing to electrification timelines."
+        "name": "Human Spirit",
+        "signal": "glimmer",
+        "detail": "Cuba's zoo celebrated the birth of four Bengal tiger cubs, including a rare white cub, with exhausted keepers finding joy amid the island's ongoing energy crisis."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "WW1 soldiers forgotten for over a century are being formally recognised for the first time, giving thousands of descendants a moment of long-overdue acknowledgment."
+        "signal": "bright",
+        "detail": "Interpol's global human trafficking crackdown resulted in over 1,000 arrests and 2,070 victims identified \u2014 imperfect justice, but real people freed from exploitation."
       }
     ],
     "mood": [
-      "hopeful",
-      "empowering",
-      "resilient",
-      "accessible",
-      "affirming"
+      "breakthrough",
+      "discovery",
+      "momentum",
+      "possibility",
+      "resilience"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-07-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cluttered bedroom nightstand at 2am, teal-black darkness filling the room's corners and ceiling, a single smartphone screen glowing amber-gold as the sole light source, its brightness washing warm light across a worn wooden surface and the edge of a rumpled blanket. The phone screen displays a news article with a photograph of elderly feet in motion on a sunlit path, the image thumbnail small but unmistakable \u2014 silver-haired figures mid-stride, arms pumping. Beside the phone, a half-drunk glass of water catches the screen's amber glow in a thin crescent reflection. A pair of well-worn walking sneakers sits on the floor below the nightstand, one tipped slightly on its side, rubber sole facing the viewer, the deep grooves of a heavily used shoe rendered in precise pixel detail. A wrinkled hand reaches into frame from the right, finger extended toward the phone screen, the knuckles and loose skin catching warm gold light against deep teal shadow. On the wall behind, a faint dark rectangle suggests a window with a single distant streetlamp bleeding cold blue-white through curtain fabric. Deep golden hour amber from the screen battles the teal darkness throughout, radiant and intimate.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-06.png"
+    "card_image": "dawn-card-2026-07-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a crystallography laboratory looking outward through a tall narrow window at early amber dawn, the outside world glowing in deep golden hour light with long shadows stretching across a frost-dusted courtyard below. The room interior is lit by the warm teal glow of dormant monitors, the night's work finished, the breakthrough already made. In the foreground, resting on a laboratory bench beside the window, two small silvery crystalline samples sit in open ceramic dishes, catching the first amber rays of morning light that slice through the glass and fall directly onto them, making them gleam gold against cool teal shadows. Surrounding the dishes are scattered printouts of kagome lattice diagrams, their interlocking triangular star patterns visible, and a notebook left open at an angle. A coffee mug still steaming sits beside a sleeping laptop, its screen dim but showing a frozen cascade of filtered molecular candidates narrowed to a glowing shortlist. The window frame divides the composition, amber warmth flooding through from outside, the teal-shadowed lab interior behind, frost condensation beading at the corners of the glass. Deep golden amber and warm teal dual-toned lighting, radiant side-light, long shadows, quietly triumphant aftermath mood.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-07.png"
   }
 }
