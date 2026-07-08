@@ -14537,5 +14537,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a crystallography laboratory looking outward through a tall narrow window at early amber dawn, the outside world glowing in deep golden hour light with long shadows stretching across a frost-dusted courtyard below. The room interior is lit by the warm teal glow of dormant monitors, the night's work finished, the breakthrough already made. In the foreground, resting on a laboratory bench beside the window, two small silvery crystalline samples sit in open ceramic dishes, catching the first amber rays of morning light that slice through the glass and fall directly onto them, making them gleam gold against cool teal shadows. Surrounding the dishes are scattered printouts of kagome lattice diagrams, their interlocking triangular star patterns visible, and a notebook left open at an angle. A coffee mug still steaming sits beside a sleeping laptop, its screen dim but showing a frozen cascade of filtered molecular candidates narrowed to a glowing shortlist. The window frame divides the composition, amber warmth flooding through from outside, the teal-shadowed lab interior behind, frost condensation beading at the corners of the glass. Deep golden amber and warm teal dual-toned lighting, radiant side-light, long shadows, quietly triumphant aftermath mood.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-07.png"
     }
+  },
+  {
+    "date": "2026-07-08",
+    "generated_at": "2026-07-08T11:51:08.747996+00:00",
+    "doom": {
+      "percentage": 38.6,
+      "raw_percentage": 41.7,
+      "driver": "Trump says MoU with 'vicious, violent' Iran is over.",
+      "category": "Geopolitics",
+      "blurb": "CEASEFIRE DECLARED DEAD AT NATO SUMMIT",
+      "summary": "The ink on the Iran MoU wasn't even dry before Trump declared it a corpse at the NATO summit in Ankara \u2014 after the US struck Iranian military boats and Iran retaliated by targeting bases in Kuwait and Bahrain. Treasury yields spiked to 4.57% as oil markets did the math on a Strait of Hormuz that is now, officially, a war zone with customer loyalty rewards. Meanwhile Khamenei's funeral is still winding through Najaf, Iran has no Supreme Leader, and 'who's actually in charge over there?' is doing a lot of heavy lifting right now.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran ceasefire formally declared over by Trump after mutual strikes, with Iran expanding attacks to Kuwait and Bahrain bases \u2014 the conflict is geographically widening."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "NATO summit in Ankara descends into Trump attacking Spain, pushing Greenland annexation, and undermining alliance unity at precisely the moment it's needed most."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "China warns Claude Code contains backdoor vulnerabilities; hackers demonstrate LLM-powered botnet assembly via 'HalluSquatting' \u2014 AI as attack surface accelerating."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Iran's Supreme Leader Khamenei dead, coffin touring Iraq shrines \u2014 a leaderless Iran in active military exchange with the US is a historically unprecedented instability vector."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Former DeepMind exec warns US nationalistic AI posture is evidence a worst-case scenario is taking shape, though no acute alignment incident reported today."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "unmoored",
+        "volatile",
+        "combustible"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-07-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees over a vast expanse of cracked desert salt flat stretching to the horizon, deep navy shadows bleeding across the pale fractured earth, a single enormous formal document lies spread open at the center of the frame, its pages rendered in bleached cream, visibly torn down the middle with the two halves pulling apart, an official wax seal split cleanly in two between the torn edges, smoldering orange light raking across the scene from a low unseen source casting long dramatic shadows from the paper edges across the cracked ground below, tiny ant-sized human silhouettes stand at opposite edges of the document \u2014 one at the near edge, one at the far \u2014 both frozen mid-step, facing away from each other, the salt flat cracks radiating outward from the tear in the document like a shattered pane of glass, the surrounding darkness pressing inward from all four corners of the frame, warmth concentrated only at the tear point where the orange glow intensifies as if heat is escaping from the break itself, deep navy and smoldering orange palette throughout, heavy shadows dominate, the torn document the sole point of light in an otherwise vast threatening darkness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-08.png"
+    },
+    "dawn": {
+      "percentage": 61.4,
+      "driver": "New weight loss pill beats oral Ozempic in major trial. A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a mo",
+      "category": "Medicine",
+      "blurb": "BETTER THAN OZEMPIC \u2014 AND IT'S A PILL",
+      "summary": "On a day when ceasefire talks are collapsing and geopolitical fires are spreading, a quieter revolution just cleared a major hurdle in the clinic: a once-daily pill that outperforms the gold-standard oral weight loss drug. Orforglipron beating semaglutide in a head-to-head trial matters enormously \u2014 it points toward a future where effective metabolic medicine is cheap, pill-based, and globally accessible, not dependent on cold-chain injections. For the hundreds of millions of people living with obesity and type 2 diabetes worldwide, this is the kind of slow-burning, life-extending breakthrough that outlasts any news cycle.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Orforglipron outperforming oral semaglutide in a major clinical trial is a landmark moment in metabolic medicine, potentially opening treatment to far more patients globally."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "NATO allies announced a \u00a337 billion joint missile development project, showing that multilateral defense cooperation \u2014 however fraught \u2014 still functions under pressure."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Coco Gauff and Jessica Pegula both advanced to Wimbledon quarterfinals, an all-American matchup on one of sport's grandest stages."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Catnip lotion was found to repel mosquitoes as effectively as DEET, pointing toward cheap, natural, and widely accessible insect protection for vulnerable communities."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A centimeter-sized crystal displayed quantum entanglement \u2014 Schr\u00f6dinger's anthill \u2014 pushing the boundary of where quantum behavior can be observed and potentially harnessed."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "accessible",
+        "resilient",
+        "hopeful",
+        "advancing"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-07-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, heavy amber fog rolling in thick curtains through a quiet suburban street at golden hour, long amber side-light cutting through warm haze and casting deep teal shadows across wet pavement. We are outside a neighborhood pharmacy, not inside \u2014 the adjacent scene, the world downstream of the breakthrough. Rain-slicked sidewalk reflects warm amber and teal in broken ripples. A middle-aged figure stands just under the pharmacy's small awning, sheltering from the drizzle, one open relaxed palm held slightly forward with a tiny white pill resting in it, lit by a single warm shaft of amber light piercing the fog. Nearby on the wet ground, slightly out of focus and receding into teal shadow, a discarded injection pen lies beside a puddle. In the pharmacy window behind the figure, a blurred warm interior glows amber. Fog layers dominate the middle and background distance, swallowing streetlights into soft golden halos. The mood is quiet relief, ordinary morning made different, the haze filtering everything into warm amber and deep teal, long shadows stretching across wet concrete.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-08.png"
+    }
   }
 ]
