@@ -1,96 +1,97 @@
 {
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T11:51:08.747996+00:00",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T14:31:37.494847+00:00",
   "doom": {
-    "percentage": 38.6,
+    "percentage": 39.0,
     "raw_percentage": 41.7,
-    "driver": "Trump says MoU with 'vicious, violent' Iran is over.",
+    "driver": "The U.S. launches new airstrikes on Iran and Tehran fires back at Gulf Arab states. The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting U.S.-allied Mideast countries, raising fears of resuming war.",
     "category": "Geopolitics",
-    "blurb": "CEASEFIRE DECLARED DEAD AT NATO SUMMIT",
-    "summary": "The ink on the Iran MoU wasn't even dry before Trump declared it a corpse at the NATO summit in Ankara \u2014 after the US struck Iranian military boats and Iran retaliated by targeting bases in Kuwait and Bahrain. Treasury yields spiked to 4.57% as oil markets did the math on a Strait of Hormuz that is now, officially, a war zone with customer loyalty rewards. Meanwhile Khamenei's funeral is still winding through Najaf, Iran has no Supreme Leader, and 'who's actually in charge over there?' is doing a lot of heavy lifting right now.",
+    "blurb": "THE CEASEFIRE IS DEADER THAN EVER",
+    "summary": "The US just struck 90 Iranian targets, Iran lobbed missiles at Gulf states (intercepted over Jordan, per the videos trending everywhere), and Trump told CNBC he genuinely doesn't know if the war is back on \u2014 which is not the kind of uncertainty markets or civilizations enjoy. Pakistan is playing mediator while European allies quietly back away from Trump at NATO, and oil prices briefly spiked before traders talked themselves down. The operational tempo here has meaningfully escalated from yesterday's 'ceasefire is dead' declaration to an actual exchange of fire across multiple countries.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US-Iran ceasefire formally declared over by Trump after mutual strikes, with Iran expanding attacks to Kuwait and Bahrain bases \u2014 the conflict is geographically widening."
+        "detail": "Active US-Iran military exchange with Iranian missiles intercepted over Jordan and Gulf states targeted \u2014 this is kinetic escalation, not posturing."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "NATO summit in Ankara descends into Trump attacking Spain, pushing Greenland annexation, and undermining alliance unity at precisely the moment it's needed most."
+        "detail": "Trump's 'I don't know' response on whether war is resuming, combined with European NATO allies distancing themselves, signals dangerous command ambiguity at the worst moment."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "China warns Claude Code contains backdoor vulnerabilities; hackers demonstrate LLM-powered botnet assembly via 'HalluSquatting' \u2014 AI as attack surface accelerating."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Iran's Supreme Leader Khamenei dead, coffin touring Iraq shrines \u2014 a leaderless Iran in active military exchange with the US is a historically unprecedented instability vector."
+        "detail": "GPT-Live, Grok 4.5, and OpenAI's 54%-more-efficient agentic coding model all dropped this week \u2014 capability sprint continues in the background while humans are distracted by missiles."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Former DeepMind exec warns US nationalistic AI posture is evidence a worst-case scenario is taking shape, though no acute alignment incident reported today."
+        "detail": "EU Parliament greenlit Chat Control 1.0, mandating private message scanning \u2014 mass surveillance infrastructure expanding, but no direct extinction-risk vector today."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Hundreds of venomous cobras escaped flooding farms in southern China during Typhoon Maysak \u2014 not doom, but the universe is clearly not taking requests."
       }
     ],
     "mood": [
-      "escalatory",
-      "unmoored",
+      "escalation",
       "volatile",
-      "combustible"
+      "cascading",
+      "combustible",
+      "tense"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-07-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees over a vast expanse of cracked desert salt flat stretching to the horizon, deep navy shadows bleeding across the pale fractured earth, a single enormous formal document lies spread open at the center of the frame, its pages rendered in bleached cream, visibly torn down the middle with the two halves pulling apart, an official wax seal split cleanly in two between the torn edges, smoldering orange light raking across the scene from a low unseen source casting long dramatic shadows from the paper edges across the cracked ground below, tiny ant-sized human silhouettes stand at opposite edges of the document \u2014 one at the near edge, one at the far \u2014 both frozen mid-step, facing away from each other, the salt flat cracks radiating outward from the tear in the document like a shattered pane of glass, the surrounding darkness pressing inward from all four corners of the frame, warmth concentrated only at the tear point where the orange glow intensifies as if heat is escaping from the break itself, deep navy and smoldering orange palette throughout, heavy shadows dominate, the torn document the sole point of light in an otherwise vast threatening darkness.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-08.png"
+    "card_image": "doom-card-2026-07-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked smartphone screen lying face-up on a worn ceramic kitchen tile, camera pressed inches above the glass at a nearly flat angle, the shattered screen spiderwebbing from one corner in deep navy fracture lines, the glow of a breaking news alert pulsing through the cracks in smoldering orange light, the reflection on the fractured glass surface catching a distant window where a predawn Gulf sky bleeds orange at the horizon, the tile beneath the phone showing faded geometric Arabic mosaic patterns in turquoise and cobalt blue evoking the shrine tilework of Karbala, a cold cup of tea visible only as a curved ceramic edge bleeding into the extreme left of frame, the phone's screen glow the sole warm light source casting harsh orange shadows into every crack and grout line, the surrounding kitchen darkness pressing in from all edges, heavy navy shadow swallowing everything beyond the immediate tile surface, the fractured screen itself the visual center \u2014 a broken pane of light suggesting a world cracking open, heat and dread radiating from the orange pulse without showing a single explosion or weapon.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-09.png"
   },
   "dawn": {
-    "percentage": 61.4,
-    "driver": "New weight loss pill beats oral Ozempic in major trial. A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements than the leading oral semaglutide in a major clinical trial. The tablet could offer a mo",
-    "category": "Medicine",
-    "blurb": "BETTER THAN OZEMPIC \u2014 AND IT'S A PILL",
-    "summary": "On a day when ceasefire talks are collapsing and geopolitical fires are spreading, a quieter revolution just cleared a major hurdle in the clinic: a once-daily pill that outperforms the gold-standard oral weight loss drug. Orforglipron beating semaglutide in a head-to-head trial matters enormously \u2014 it points toward a future where effective metabolic medicine is cheap, pill-based, and globally accessible, not dependent on cold-chain injections. For the hundreds of millions of people living with obesity and type 2 diabetes worldwide, this is the kind of slow-burning, life-extending breakthrough that outlasts any news cycle.",
+    "percentage": 61.0,
+    "driver": "John Deere owners will get the right to repair equipment under FTC settlement.",
+    "category": "Community",
+    "blurb": "FARMERS WIN THE RIGHT TO FIX THEIR OWN MACHINES",
+    "summary": "In a world where governments and corporations increasingly tighten their grip, this FTC settlement with John Deere is a genuine win for ordinary people \u2014 farmers who simply want the right to repair the equipment they own. It's a David-and-Goliath story that took years of grassroots advocacy to achieve, and it sets a meaningful precedent for right-to-repair movements across industries. With headlines dominated by airstrikes and escalating conflict, this quiet victory for rural communities and economic self-determination is exactly the kind of durable, structural good news that compounds over time.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Orforglipron outperforming oral semaglutide in a major clinical trial is a landmark moment in metabolic medicine, potentially opening treatment to far more patients globally."
+        "signal": "bright",
+        "detail": "Harvard scientists have built a silicon chip that writes dozens of DNA sequences simultaneously using electricity, offering a cleaner path to DNA manufacturing."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "NATO allies announced a \u00a337 billion joint missile development project, showing that multilateral defense cooperation \u2014 however fraught \u2014 still functions under pressure."
+        "detail": "Mediator Pakistan publicly urging both the US and Iran to honour their MoU signals that neutral parties are still working diplomatic back-channels even as strikes resume."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Coco Gauff and Jessica Pegula both advanced to Wimbledon quarterfinals, an all-American matchup on one of sport's grandest stages."
+        "signal": "blazing",
+        "detail": "Years of farmer-led advocacy finally forced a regulatory outcome \u2014 the FTC settlement \u2014 proving that persistent grassroots pressure can move even the largest agricultural equipment monopolies."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Catnip lotion was found to repel mosquitoes as effectively as DEET, pointing toward cheap, natural, and widely accessible insect protection for vulnerable communities."
+        "signal": "bright",
+        "detail": "The Iran conflict is accelerating the global transition to EVs, solar, and batteries as nations urgently re-examine dependence on fossil fuels from volatile regions."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A centimeter-sized crystal displayed quantum entanglement \u2014 Schr\u00f6dinger's anthill \u2014 pushing the boundary of where quantum behavior can be observed and potentially harnessed."
+        "detail": "New IVF research produced live lambs from highly immature eggs \u2014 a potential breakthrough that could significantly expand egg availability and improve success rates for human fertility treatment."
       }
     ],
     "mood": [
-      "breakthrough",
-      "accessible",
-      "resilient",
-      "hopeful",
-      "advancing"
+      "empowerment",
+      "resilience",
+      "solidarity",
+      "progress",
+      "agency"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-07-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, heavy amber fog rolling in thick curtains through a quiet suburban street at golden hour, long amber side-light cutting through warm haze and casting deep teal shadows across wet pavement. We are outside a neighborhood pharmacy, not inside \u2014 the adjacent scene, the world downstream of the breakthrough. Rain-slicked sidewalk reflects warm amber and teal in broken ripples. A middle-aged figure stands just under the pharmacy's small awning, sheltering from the drizzle, one open relaxed palm held slightly forward with a tiny white pill resting in it, lit by a single warm shaft of amber light piercing the fog. Nearby on the wet ground, slightly out of focus and receding into teal shadow, a discarded injection pen lies beside a puddle. In the pharmacy window behind the figure, a blurred warm interior glows amber. Fog layers dominate the middle and background distance, swallowing streetlights into soft golden halos. The mood is quiet relief, ordinary morning made different, the haze filtering everything into warm amber and deep teal, long shadows stretching across wet concrete.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-08.png"
+    "card_image": "dawn-card-2026-07-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A vast flat Midwestern farm field at deep golden hour, the horizon blazing with molten amber and warm teal sky, long shadows raking across plowed dark-earth rows stretching into the distance. Against this radiant backlit sky, the massive silhouette of a John Deere tractor dominates the frame, its enormous rear wheels and high cab rendered as pure dark shapes, hood propped open wide, the open hood a stark dramatic gesture against the glowing light. A farmer's silhouette stands beside the tractor, one arm reaching confidently into the exposed engine compartment, a wrench visible in their raised hand. A second figure crouches near a massive wheel, a tablet glowing faintly against their dark silhouette, its screen a small warm rectangle of teal light. An open toolbox sits on the ground between them, tools laid out in organized rows catching glints of amber backlight. The entire scene is bathed in deep golden side-lighting with long shadows, teal pooling in the field furrows, radiant and quietly triumphant.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-09.png"
   }
 }
