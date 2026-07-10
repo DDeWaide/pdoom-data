@@ -1,97 +1,96 @@
 {
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T14:31:37.494847+00:00",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:41:55.842724+00:00",
   "doom": {
-    "percentage": 39.0,
-    "raw_percentage": 41.7,
-    "driver": "The U.S. launches new airstrikes on Iran and Tehran fires back at Gulf Arab states. The United States launched new airstrikes against Iran early Thursday, and Tehran responded by targeting U.S.-allied Mideast countries, raising fears of resuming war.",
-    "category": "Geopolitics",
-    "blurb": "THE CEASEFIRE IS DEADER THAN EVER",
-    "summary": "The US just struck 90 Iranian targets, Iran lobbed missiles at Gulf states (intercepted over Jordan, per the videos trending everywhere), and Trump told CNBC he genuinely doesn't know if the war is back on \u2014 which is not the kind of uncertainty markets or civilizations enjoy. Pakistan is playing mediator while European allies quietly back away from Trump at NATO, and oil prices briefly spiked before traders talked themselves down. The operational tempo here has meaningfully escalated from yesterday's 'ceasefire is dead' declaration to an actual exchange of fire across multiple countries.",
+    "percentage": 36.8,
+    "raw_percentage": 37.4,
+    "driver": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo.",
+    "category": "Biotech",
+    "blurb": "EBOLA FINDS NEW ZIP CODES IN CONGO",
+    "summary": "Six hundred dead and the outbreak is now bleeding into previously unaffected regions of Congo \u2014 the classic sign that containment is losing. Meanwhile the U.S.-Iran ceasefire is somehow still technically alive via 'technical talks,' which is diplomatic for 'we're arguing about who shot first.' With a 1,000-km typhoon bearing down on Taiwan, wildfires killing a dozen in Spain, and Ebola going on tour, the planet is workshopping several apocalypse scripts simultaneously.",
     "factors": [
-      {
-        "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Active US-Iran military exchange with Iranian missiles intercepted over Jordan and Gulf states targeted \u2014 this is kinetic escalation, not posturing."
-      },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump's 'I don't know' response on whether war is resuming, combined with European NATO allies distancing themselves, signals dangerous command ambiguity at the worst moment."
+        "detail": "EU Parliament greenlit Chat Control 1.0, introducing mass surveillance of private messages across Europe \u2014 a significant digital rights rollback."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "U.S.-Iran 'technical talks' continue after consecutive days of strikes, with the ceasefire in legal limbo and oil demand set for its first annual decline since 2020."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "GPT-Live, Grok 4.5, and OpenAI's 54%-more-efficient agentic coding model all dropped this week \u2014 capability sprint continues in the background while humans are distracted by missiles."
+        "detail": "GPT-5.6 receives government greenlight and rolls out broadly alongside ChatGPT Work, accelerating autonomous agentic AI deployment in professional settings."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "Ebola death toll hits 600 with suspected new cases in previously unaffected Congo regions, signaling active geographic spread beyond the Ituri epicenter."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "EU Parliament greenlit Chat Control 1.0, mandating private message scanning \u2014 mass surveillance infrastructure expanding, but no direct extinction-risk vector today."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Hundreds of venomous cobras escaped flooding farms in southern China during Typhoon Maysak \u2014 not doom, but the universe is clearly not taking requests."
+        "detail": "Anthropic's glimpse inside Claude's 'hidden conceptual space' is fascinating science, but reveals how little we still understand about what's actually happening inside frontier models."
       }
     ],
     "mood": [
-      "escalation",
-      "volatile",
-      "cascading",
-      "combustible",
-      "tense"
+      "contagion",
+      "fragile",
+      "scattered",
+      "smoldering"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-07-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked smartphone screen lying face-up on a worn ceramic kitchen tile, camera pressed inches above the glass at a nearly flat angle, the shattered screen spiderwebbing from one corner in deep navy fracture lines, the glow of a breaking news alert pulsing through the cracks in smoldering orange light, the reflection on the fractured glass surface catching a distant window where a predawn Gulf sky bleeds orange at the horizon, the tile beneath the phone showing faded geometric Arabic mosaic patterns in turquoise and cobalt blue evoking the shrine tilework of Karbala, a cold cup of tea visible only as a curved ceramic edge bleeding into the extreme left of frame, the phone's screen glow the sole warm light source casting harsh orange shadows into every crack and grout line, the surrounding kitchen darkness pressing in from all edges, heavy navy shadow swallowing everything beyond the immediate tile surface, the fractured screen itself the visual center \u2014 a broken pane of light suggesting a world cracking open, heat and dread radiating from the orange pulse without showing a single explosion or weapon.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-09.png"
+    "card_image": "doom-card-2026-07-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep navy and smoldering orange palette, camera positioned at ground level inside the outer perimeter of the Evangelical Medical Center in Bunia, looking across a red laterite courtyard still puddled with disinfectant and rainwater, orange sodium lamp mounted on a concrete post casting a single hard cone of amber light that reflects broken in the wet ground, a row of empty white Tyvek coveralls hanging limp and deflated on a wire strung between two corrugated-iron-roofed outbuildings, rubber gumboots lined in a row beneath them like abandoned skins, a backpack chlorine sprayer lying on its side in the foreground with its wand nozzle trailing in a puddle, deep navy shadows consuming the building walls beyond the lamplight, a single window in the far institutional block glowing faint amber-yellow from within suggesting one worker still at their station, the dense equatorial vegetation beyond the fence pressing in from all sides as a wall of deep blue-black foliage, mud-tracked footprints crossing the courtyard toward a closed metal door with its paint flaking \u2014 the whole scene reading as exhausted, still, and quietly devastated, the aftermath of a night shift that never really ends.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-10.png"
   },
   "dawn": {
-    "percentage": 61.0,
-    "driver": "John Deere owners will get the right to repair equipment under FTC settlement.",
-    "category": "Community",
-    "blurb": "FARMERS WIN THE RIGHT TO FIX THEIR OWN MACHINES",
-    "summary": "In a world where governments and corporations increasingly tighten their grip, this FTC settlement with John Deere is a genuine win for ordinary people \u2014 farmers who simply want the right to repair the equipment they own. It's a David-and-Goliath story that took years of grassroots advocacy to achieve, and it sets a meaningful precedent for right-to-repair movements across industries. With headlines dominated by airstrikes and escalating conflict, this quiet victory for rural communities and economic self-determination is exactly the kind of durable, structural good news that compounds over time.",
+    "percentage": 63.2,
+    "driver": "China lands reusable rocket for first time, state media says. It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+    "category": "Technology",
+    "blurb": "HUMANITY'S REUSABLE ROCKET CLUB JUST GOT BIGGER",
+    "summary": "Against a backdrop of military escalation and geopolitical friction, China has achieved its first successful reusable rocket landing \u2014 joining SpaceX and Blue Origin in a club that barely existed a decade ago. Whatever one thinks of the rivalries driving it, the spread of reusable launch capability means humanity now has multiple independent pathways to space, reducing fragility and expanding the long-term odds of our becoming a multi-planetary species. Competition in rockets has historically moved the technology faster than cooperation alone ever did, and today's milestone is proof that the dream keeps compounding.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Harvard scientists have built a silicon chip that writes dozens of DNA sequences simultaneously using electricity, offering a cleaner path to DNA manufacturing."
+        "signal": "blazing",
+        "detail": "Reusable rocket technology reaching a third major actor dramatically lowers the cost curve for all future space access."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "Mediator Pakistan publicly urging both the US and Iran to honour their MoU signals that neutral parties are still working diplomatic back-channels even as strikes resume."
+        "signal": "quiet",
+        "detail": "China's engineers openly acknowledge following the trail blazed by SpaceX and Blue Origin, a rare implicit nod to shared human achievement."
       },
       {
         "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "Years of farmer-led advocacy finally forced a regulatory outcome \u2014 the FTC settlement \u2014 proving that persistent grassroots pressure can move even the largest agricultural equipment monopolies."
+        "signal": "bright",
+        "detail": "Humanoid robots performing their first live surgical procedures on pigs at UC San Diego signals that science is still relentlessly pushing forward even amid global crisis."
       },
       {
         "name": "Environment",
-        "signal": "bright",
-        "detail": "The Iran conflict is accelerating the global transition to EVs, solar, and batteries as nations urgently re-examine dependence on fossil fuels from volatile regions."
+        "signal": "glimmer",
+        "detail": "World oil demand is forecast to post its first annual decline since 2020, a quiet but structural signal of the energy transition taking hold."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "New IVF research produced live lambs from highly immature eggs \u2014 a potential breakthrough that could significantly expand egg availability and improve success rates for human fertility treatment."
+        "detail": "Spider venom has been found to kill varroa mites \u2014 the parasite decimating global honeybee populations \u2014 without harming the bees themselves, a potentially huge win for food security."
       }
     ],
     "mood": [
-      "empowerment",
-      "resilience",
-      "solidarity",
-      "progress",
-      "agency"
+      "pioneering",
+      "expansive",
+      "resilient",
+      "breakthrough",
+      "forward"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-07-09.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A vast flat Midwestern farm field at deep golden hour, the horizon blazing with molten amber and warm teal sky, long shadows raking across plowed dark-earth rows stretching into the distance. Against this radiant backlit sky, the massive silhouette of a John Deere tractor dominates the frame, its enormous rear wheels and high cab rendered as pure dark shapes, hood propped open wide, the open hood a stark dramatic gesture against the glowing light. A farmer's silhouette stands beside the tractor, one arm reaching confidently into the exposed engine compartment, a wrench visible in their raised hand. A second figure crouches near a massive wheel, a tablet glowing faintly against their dark silhouette, its screen a small warm rectangle of teal light. An open toolbox sits on the ground between them, tools laid out in organized rows catching glints of amber backlight. The entire scene is bathed in deep golden side-lighting with long shadows, teal pooling in the field furrows, radiant and quietly triumphant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-09.png"
+    "card_image": "dawn-card-2026-07-10.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold concrete floor, gazing up at the underside of a massive flatscreen television mounted high on a break room wall, the screen glowing with a distant rocket descent feed, warm amber and teal light washing down from above. A single aerospace engineer stands directly beneath it, neck craned back, face tilted fully upward toward the camera lens, expression cracked open in disbelief and joy, fists clenched at her sides, a paper coffee cup forgotten and tilting in one hand, a thin stream of coffee beginning to fall toward the camera in a perfect arc. The break room around her is spartan \u2014 a metal folding chair, a wall calendar, a half-eaten meal on a table edge \u2014 all rendered in deep amber side-light with long dramatic shadows stretching toward the viewer. The television's glow forms a second warm rectangle of light on the ceiling above her, teal-blue from the ocean feed contrasting the golden ambient warmth of the room. Deep golden hour amber and warm teal, radiant, triumphant, the enormity of the moment carried entirely in one upturned human face.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-10.png"
   }
 }
