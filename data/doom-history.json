@@ -14518,5 +14518,100 @@
       "card_image": "dawn-card-2026-07-10.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold concrete floor, gazing up at the underside of a massive flatscreen television mounted high on a break room wall, the screen glowing with a distant rocket descent feed, warm amber and teal light washing down from above. A single aerospace engineer stands directly beneath it, neck craned back, face tilted fully upward toward the camera lens, expression cracked open in disbelief and joy, fists clenched at her sides, a paper coffee cup forgotten and tilting in one hand, a thin stream of coffee beginning to fall toward the camera in a perfect arc. The break room around her is spartan \u2014 a metal folding chair, a wall calendar, a half-eaten meal on a table edge \u2014 all rendered in deep amber side-light with long dramatic shadows stretching toward the viewer. The television's glow forms a second warm rectangle of light on the ceiling above her, teal-blue from the ocean feed contrasting the golden ambient warmth of the room. Deep golden hour amber and warm teal, radiant, triumphant, the enormity of the moment carried entirely in one upturned human face."
     }
+  },
+  {
+    "date": "2026-07-11",
+    "generated_at": "2026-07-11T11:11:03.565077+00:00",
+    "doom": {
+      "percentage": 35.4,
+      "raw_percentage": 34.7,
+      "driver": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf].",
+      "category": "AI Capability",
+      "blurb": "THE MACHINE JUST SOLVED WHAT MATHEMATICIANS COULDN'T",
+      "summary": "An AI just autonomously produced a proof of a decades-old unsolved conjecture in graph theory \u2014 not a benchmark, not a coding task, actual novel mathematics. Meanwhile OpenAI is busy getting sued by Apple for allegedly looting trade secrets on its way to building hardware, which is exactly the chaotic-neutral energy you'd expect from a company whose head of safety just quietly walked out the door. The Iran situation is 'pausing' per NPR, but Trump has 1,000 missiles 'locked and loaded' on Truth Social, so the pause has a very specific vibe.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "GPT-5.6 autonomously proving an unsolved mathematical conjecture marks a qualitative leap \u2014 AI moving from tool to independent mathematical reasoner."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "OpenAI's head of safety departing as the company faces trade secret theft allegations and pushes into hardware suggests institutional safety culture under strain."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran fighting has 'paused' but Trump's 1,000-missiles threat and Khamenei funeral assassination chants keep the region on a hair trigger."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Crypto billionaires publicly advocating for replacing democracy with pay-to-vote charter nations is a notable sign of institutional delegitimization in progress."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Venezuela's earthquake death toll passing 4,000 with thousands missing strains an already collapsed state, creating a humanitarian and regional instability multiplier."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "volatile",
+        "unnerving",
+        "precarious",
+        "accelerating"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-07-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dimly lit university mathematics department office looking outward through a tall narrow window into deep winter night, deep navy darkness pressing against the glass outside, smoldering orange glow from a single desk lamp behind the camera casting long amber shadows across the foreground, the window reflection ghosting a whiteboard covered in dense graph diagrams \u2014 nodes connected by doubled glowing loops traced in two colors over each edge, a wire-frame sphere wrapped in luminous closed cycles hovering like a diagram mid-air in the glass reflection, on the windowsill in the foreground a cold untouched coffee mug and a thick stack of LaTeX-printed pages face-down, the outside world visible through the window showing only an empty snow-dusted campus quad lit by a single orange sodium lamp, a distant server building visible across the quad with no windows and faint blue indicator lights pulsing rhythmically through ventilation slats, heavy shadows dominating the room, warmth from the lamp feeling threatening rather than comforting, the mathematical loops in the window reflection pulsing faintly as if alive, deep navy and smoldering orange palette throughout."
+    },
+    "dawn": {
+      "percentage": 64.6,
+      "driver": "This frog bacterium wiped out cancer tumors in mice with a single dose. A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system.",
+      "category": "Medicine",
+      "blurb": "ONE SHOT. TUMORS GONE. NATURE DELIVERS.",
+      "summary": "In a week dominated by missiles, wildfires, and geopolitical brinkmanship, a quiet discovery from the natural world offers a striking counterpoint: a bacterium found in frog intestines has completely eliminated colorectal tumors in mice with a single dose, working by both directly attacking cancer cells and rallying the immune system to finish the job. This dual-mechanism approach is exactly the kind of elegant, biology-inspired solution that oncologists have long sought. The road from mouse model to human treatment is long, but 'complete elimination with a single treatment' is the kind of phrase that makes cancer researchers sit up straight.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A single-dose, naturally occurring bacterium achieving complete colorectal tumor elimination in mice is a genuinely rare result \u2014 most cancer treatments aim for reduction, not elimination."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Venezuelan doctors converting a fast-food restaurant into an emergency clinic after the earthquake is a vivid reminder that ordinary people mobilize extraordinary compassion under pressure."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran talks are resuming in Oman, a fragile but real signal that even the most combustible standoffs retain a diplomatic thread worth pulling."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Europe is exploring an air-conditioning revolution using environmentally friendly technology, suggesting the continent's long resistance to AC may finally yield a sustainable solution rather than a harmful one."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "AI has helped mathematicians make unexpectedly fast progress on formalising Fermat's Last Theorem, and separately produced a claimed proof of the Cycle Double Cover Conjecture \u2014 a remarkable week for machine-assisted pure mathematics."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "wonder",
+        "tenacious",
+        "hopeful"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-07-11.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling cancer treatment center campus seen from above at deep golden hour, amber light flooding the rooftops and casting long teal shadows across empty parking lots \u2014 the second-order world after a cure arrives. The oncology ward wing stretches across the lower frame, its windows glowing warm amber from within, but the vast chemotherapy infusion suite visible through a skylighted roof panel sits eerily quiet, rows of empty reclining chairs arranged in careful formation with no patients in them. A long covered walkway connecting the treatment building to a pharmacy annex is deserted, a single tiny figure \u2014 a nurse in white \u2014 standing still in the middle of it, looking upward as if sensing something has changed. To the upper left, a hospital garden courtyard blooms with teal-green vegetation catching the last raking amber sidelight, a few tiny silhouetted figures sitting on benches rather than waiting in clinic lines. The parking lot radiates outward in perspective, half its spaces empty where they once would have been full. Deep golden amber dominates every horizontal surface, long dramatic shadows in warm teal-black stretch across the concrete, the whole scene radiating quiet, improbable stillness \u2014 the hush of a waiting room that may never fill the same way again."
+    }
   }
 ]
