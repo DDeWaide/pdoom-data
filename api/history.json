@@ -14923,5 +14923,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling cancer treatment center campus seen from above at deep golden hour, amber light flooding the rooftops and casting long teal shadows across empty parking lots \u2014 the second-order world after a cure arrives. The oncology ward wing stretches across the lower frame, its windows glowing warm amber from within, but the vast chemotherapy infusion suite visible through a skylighted roof panel sits eerily quiet, rows of empty reclining chairs arranged in careful formation with no patients in them. A long covered walkway connecting the treatment building to a pharmacy annex is deserted, a single tiny figure \u2014 a nurse in white \u2014 standing still in the middle of it, looking upward as if sensing something has changed. To the upper left, a hospital garden courtyard blooms with teal-green vegetation catching the last raking amber sidelight, a few tiny silhouetted figures sitting on benches rather than waiting in clinic lines. The parking lot radiates outward in perspective, half its spaces empty where they once would have been full. Deep golden amber dominates every horizontal surface, long dramatic shadows in warm teal-black stretch across the concrete, the whole scene radiating quiet, improbable stillness \u2014 the hush of a waiting room that may never fill the same way again.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-11.png"
     }
+  },
+  {
+    "date": "2026-07-12",
+    "generated_at": "2026-07-12T11:16:07.406675+00:00",
+    "doom": {
+      "percentage": 40.1,
+      "raw_percentage": 42.7,
+      "driver": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz.",
+      "category": "Geopolitics",
+      "blurb": "WORLD'S OIL VALVE: NOW FULLY CLOSED",
+      "summary": "Iran has shut the Strait of Hormuz \u2014 the chokepoint through which roughly a fifth of global oil flows \u2014 after the U.S. completed its third round of strikes in a week. Missiles and drones are now raining on Bahrain, Qatar, the UAE, Kuwait, Oman, and Jordan simultaneously, which is either a desperate flex or the opening act of a very bad sequel. Lindsey Graham dying the same weekend he returned from Kyiv is the kind of timeline detail that would get a screenwriter fired for being too on-the-nose.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran closing the Strait of Hormuz while striking six Gulf nations simultaneously represents a significant regional escalation beyond prior tit-for-tat exchanges."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Senator Graham's sudden death removes a key hawkish voice from the Senate at an extraordinarily volatile moment in U.S. foreign policy."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Distributed AI inference projects and 'almost unlimited' enterprise AI demand headlines suggest capability deployment continues accelerating in the background."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Venezuela's earthquake death toll passing 4,300 and the Ebola treatment trial in DRC represent compounding humanitarian crises straining global response capacity."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Ghost Font \u2014 a typeface humans can read but AI cannot \u2014 is a charming reminder that humans are still trying to hide things from their creations, which tracks."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "combustible",
+        "turbulent",
+        "nerve-wracking"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, dense choking sandstorm pressing in from the Iranian coastline, camera positioned at sea level in the Strait of Hormuz looking north through orange-brown particulate haze toward the dark ochre bluffs of Qeshm Island, the narrow 21-mile channel barely visible through the murk, deep crimson and charcoal palette with firelight bleeding through the dust from distant flashes illuminating the underbelly of the haze in pulses of dark amber, the silhouettes of three Iranian IRGC fast attack craft in tight formation strung across the shipping lane like a chain, low-profile black hulls almost swallowed by the storm, their deck-mounted launcher rails visible as angular dark shapes against the glowing haze, a massive supertanker in the background reduced to a ghost outline in the particulate, its running lights smeared to dim orange smudges through the murk, abandoned sea lane markers bobbing in the foreground chop, and above it all the storm pressing down, the sky indistinguishable from the sea, the entire strait sealed not by order but by atmosphere itself, oppressive, claustrophobic, the world's most critical shipping lane rendered invisible and impassable.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-12.png"
+    },
+    "dawn": {
+      "percentage": 59.9,
+      "driver": "More than 40 kidnapped children and teachers freed after Nigerian army operation. \"I feel happy and elated\u2026 I feel joy,\" the head of the local teachers' union tells the BBC.",
+      "category": "Human Spirit",
+      "blurb": "CHILDREN HOME. TEACHERS FREE. JOY WINS.",
+      "summary": "On a day when the news is thick with missile strikes, escalating conflict in the Strait of Hormuz, and mounting disaster in Venezuela, Nigerian security forces cut through the darkness by rescuing more than 40 kidnapped children and teachers in a single operation. The raw words of the teachers' union head \u2014 'I feel happy and elated\u2026 I feel joy' \u2014 are exactly the kind of unscripted human relief that no headline writer could manufacture. Simultaneously, the DRC Ebola trial launched its first patients just six weeks after outbreak declaration, a reminder that the world's response capacity is faster and more determined than it has ever been.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Over 40 kidnapped children and teachers returned alive to their families after a successful Nigerian army rescue operation, with witnesses expressing immediate, unfiltered joy."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Physicists have finally built a long-predicted two-dimensional quantum material with controllable conducting edge states, a breakthrough over a decade in the making."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "The first patients have been enrolled in a record-breaking Ebola treatment trial in DRC, launched in just six weeks \u2014 an extraordinary feat of rapid humanitarian science deployment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Nigerian army and vigilante forces coordinated an all-night joint operation, demonstrating that community-military cooperation can produce concrete, life-saving outcomes."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Indian post offices are being tested as vision-care hubs, trialing on-site eye exams to get glasses to the hundreds of millions who currently go without \u2014 quiet infrastructure for human dignity."
+        }
+      ],
+      "mood": [
+        "relief",
+        "resilience",
+        "liberation",
+        "determination",
+        "joy"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small hospital wristband lying open and unclasped on a surface of warm red laterite Nigerian earth, the white paper band catching the last rich gold of a late-afternoon West African sun, the plastic clasp undone and released, the band curling open like a flower petal finally free, the edges of the frame bleeding into blurred emerald green \u2014 the soft pixel suggestion of tropical leaves overhead catching the same gold light, tiny motes of amber dust suspended at the extreme edges, the red earth beneath deeply saturated in crimson and burnt sienna, the wristband itself the only pale object in the frame, luminous and almost glowing against the dark earth, a single small shadow beside it where it has just been set down, the clasp still warm, still open, free.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-12.png"
+    }
   }
 ]
