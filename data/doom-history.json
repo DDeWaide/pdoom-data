@@ -14707,5 +14707,100 @@
       "card_image": "dawn-card-2026-07-12.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small hospital wristband lying open and unclasped on a surface of warm red laterite Nigerian earth, the white paper band catching the last rich gold of a late-afternoon West African sun, the plastic clasp undone and released, the band curling open like a flower petal finally free, the edges of the frame bleeding into blurred emerald green \u2014 the soft pixel suggestion of tropical leaves overhead catching the same gold light, tiny motes of amber dust suspended at the extreme edges, the red earth beneath deeply saturated in crimson and burnt sienna, the wristband itself the only pale object in the frame, luminous and almost glowing against the dark earth, a single small shadow beside it where it has just been set down, the clasp still warm, still open, free."
     }
+  },
+  {
+    "date": "2026-07-13",
+    "generated_at": "2026-07-13T12:36:11.638194+00:00",
+    "doom": {
+      "percentage": 40.6,
+      "raw_percentage": 42.7,
+      "driver": "Iran's IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
+      "category": "Geopolitics",
+      "blurb": "THE WAR IS NOW REGIONAL, ACTUALLY",
+      "summary": "Iran has stopped retaliating against the US and started hitting everyone else \u2014 Kuwait, Bahrain, Oman \u2014 which is the geopolitical equivalent of losing a bar fight and punching the bystanders. Three weekends of consecutive strikes have a rhythm now, and rhythms have a way of becoming permanent features. Meanwhile Lindsey Graham's death shrinks the Senate GOP margin to a razor's edge right as the Iran war, FISA, and government funding all land on the calendar simultaneously.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran exchanges now in their third consecutive weekend, with Iran expanding targets to US allies across the Gulf \u2014 a meaningful regional escalation beyond the bilateral pattern."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Graham's death leaves Senate Republicans with a razor-thin margin heading into a brutal legislative sprint covering war powers, FISA, and the budget \u2014 dysfunction risk is real."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "GPT-5.6 adoption accelerating in production (2.2x faster, 27% cheaper per Hacker News), compounding last week's mathematical proof milestone into a normalizing capability curve."
+        },
+        {
+          "name": "Climate",
+          "signal": "medium",
+          "detail": "Wildfires burning near Paris for the first time requiring southern-France-style air tankers, plus French nuclear plants stressed by warm rivers \u2014 Western Europe's infrastructure is visibly straining."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "UK banning Iran's Revolutionary Guard and citing Iranian-backed attacks on Jewish sites adds another pressure node to an already overloaded diplomatic circuit board."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "regional",
+        "overstretched",
+        "volatile",
+        "cascading"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, camera positioned low at ground level inside a sparse Gulf Arab apartment, shooting toward a tall narrow window where two silhouetted figures stand motionless side by side, a parent and a teenage child, their outlines stark black against the window's deep crimson glow bleeding in from outside, the parent's arm wrapped around the child's shoulder, both utterly still, the room behind them rendered in near-total darkness with only faint charcoal outlines of a low wooden table, a small television set casting no light, a prayer rug rolled against the wall, the window frame itself cracked at one corner, thin curtain panels pushed aside, the exterior glow outside the glass suggesting distant fire reflected off low desert haze, the crimson light painting the edges of the two figures in thin burning lines while their faces remain completely obscured in shadow, the floor tiles a faded ochre pattern barely visible in the darkness, a single mobile phone face-down on the table behind them its screen dark, the composition entirely still and suffocating, all drama concentrated in the silhouettes against that burning window glow."
+    },
+    "dawn": {
+      "percentage": 59.4,
+      "driver": "Four children with terminal brain cancer saved by new cell therapy. An experimental immunotherapy has beaten aggressive brain tumours in a handful of children, and a personalised version is now being tested on more patients",
+      "category": "Medicine",
+      "blurb": "CHILDREN WITH TERMINAL CANCER ARE SURVIVING",
+      "summary": "Against a backdrop of escalating conflict and geopolitical dread, medicine quietly delivered something extraordinary: children diagnosed with terminal brain cancer \u2014 some of the most aggressive, least survivable tumors known \u2014 walked away. An experimental immunotherapy didn't just slow progression; it beat the tumors outright in multiple young patients. The researchers aren't stopping there \u2014 a personalized version is now entering broader trials, meaning this breakthrough may scale. On a day when headlines are soaked in fire and strikes, scientists were saving kids.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A cell therapy achieving remission in terminal pediatric brain cancer is one of the most significant oncology signals in years \u2014 these tumors carry near-zero survival rates under standard care."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The transition to a personalized trial reflects deep collaboration between immunologists, oncologists, and clinical teams working across institutions toward a shared goal."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Researchers continuing to chase cures for dying children \u2014 the hardest, most emotionally costly work in medicine \u2014 is a quiet testament to what humans do when the stakes are highest."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Colorado's new EV battery recycling law offers a pragmatic legislative model for closing the economics gap that has stalled green infrastructure scaling."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "New Scientist's report that a mental speed-training game may help men's brains clear Alzheimer's-linked amyloid adds another thread to the growing tapestry of dementia prevention strategies."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "life-saving",
+        "determined"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A child's bedroom at night, seen from a low angle beside the bed, deep teal-black darkness filling the corners and ceiling, a single warm amber bedside lamp casting a tight golden pool across rumpled superhero-themed blankets. Within that pool of light, a tablet screen glows with vivid emerald and gold, displaying a news article whose lead image shows a smiling child in a hospital chair \u2014 the screen is the only source of saturated color in the room, rich gold headline text catching the eye without being legible. A small hand reaches from beneath the blankets toward the screen, tiny fingers mid-scroll, alive with curiosity. On the nightstand beside the lamp sits a half-drunk glass of water and a child's crayon drawing of a stick figure with a superhero cape, pinned under a corner of the tablet case. The lamp's amber warmth bleeds into the tablet's emerald glow, the two light sources merging on the blanket surface in a pool of gold and green. Deep shadows eat the walls. The room feels quiet, late, private \u2014 a child somewhere in the world, reading this story in the dark, alive."
+    }
   }
 ]
