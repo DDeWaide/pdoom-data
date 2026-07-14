@@ -14802,5 +14802,100 @@
       "card_image": "dawn-card-2026-07-13.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A child's bedroom at night, seen from a low angle beside the bed, deep teal-black darkness filling the corners and ceiling, a single warm amber bedside lamp casting a tight golden pool across rumpled superhero-themed blankets. Within that pool of light, a tablet screen glows with vivid emerald and gold, displaying a news article whose lead image shows a smiling child in a hospital chair \u2014 the screen is the only source of saturated color in the room, rich gold headline text catching the eye without being legible. A small hand reaches from beneath the blankets toward the screen, tiny fingers mid-scroll, alive with curiosity. On the nightstand beside the lamp sits a half-drunk glass of water and a child's crayon drawing of a stick figure with a superhero cape, pinned under a corner of the tablet case. The lamp's amber warmth bleeds into the tablet's emerald glow, the two light sources merging on the blanket surface in a pool of gold and green. Deep shadows eat the walls. The room feels quiet, late, private \u2014 a child somewhere in the world, reading this story in the dark, alive."
     }
+  },
+  {
+    "date": "2026-07-14",
+    "generated_at": "2026-07-14T11:29:43.304169+00:00",
+    "doom": {
+      "percentage": 41.0,
+      "raw_percentage": 42.7,
+      "driver": "The U.S. is set to reinstate a blockade over the Strait of Hormuz. The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+      "category": "Geopolitics",
+      "blurb": "TWO NAVIES, ONE CHOKEPOINT, ZERO CHILL",
+      "summary": "The U.S.-Iran conflict has entered a new phase: not just airstrikes and missile exchanges, but a full naval blockade of the world's most consequential oil artery, with Iran vowing to assert its own control. Meanwhile the Houthis are lobbing missiles at Saudi Arabia, Gulf states are getting hit, and shipping giants are publicly declaring the toll plan 'fundamentally wrong' \u2014 which is how you know it's happening anyway. At some point 'ceasefire' stops meaning what the dictionary thinks it means.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "A U.S. naval blockade of the Strait of Hormuz is being reinstated while Iran vows counter-control, Houthis strike Saudi Arabia, and Gulf states absorb Iranian hits \u2014 the conflict is widening horizontally."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's National Guard D.C. deployment extended to 2029, a federal judge voids a $1.8bn IRS settlement shielding Trump from audits, and DOGE records are reportedly missing \u2014 institutional norms under sustained pressure."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Grok CLI reportedly uploaded users' entire home directories to xAI's servers, a vivid reminder that AI agents with file system access can cause serious unintended harm at scale."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Anthropic's latest AI discovery is making waves, while Samsung Health threatens data deletion for users who opt out of AI training \u2014 consent and control over AI systems remain murky."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Telegram's t.me domain has been suspended and a U.S. mirror satellite approved to illuminate Earth at night \u2014 the information and physical environment are both getting stranger."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "escalating",
+        "chokepoint",
+        "unmoored",
+        "combustible"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked sun-scorched asphalt at a Dubai petrol station forecourt, camera pressed flat to the ground beneath the massive canopy overhang, shooting straight up at the underside of the price sign gantry, its illuminated panels dark and unlit, numbers blank, the towering steel column disappearing into a smoggy charcoal sky bruised deep crimson at the edges, a long snaking queue of vehicles visible only as undersides of chassis and exhaust pipes stretching back into darkness, a single fluorescent tube in the canopy flickering amber over empty pump bays with dangling nozzles hanging idle, a hand-lettered cardboard notice taped to the nearest pump barely visible from this angle, the vast featureless Gulf sky above pressing down like a lid, distant refinery flare stacks on the horizon spitting orange flame reflected in shallow oil-slicked puddles on the concrete below, the entire scene suffused in dark crimson and charcoal, firelight glow catching the steel understructure of the canopy in sharp high-contrast geometry, heat shimmer rising from the ground warping the distant queue into something almost liquid."
+    },
+    "dawn": {
+      "percentage": 59.0,
+      "driver": "Japan develops a method to recover up to 90% of lithium from used EV batteries.",
+      "category": "Environment",
+      "blurb": "JAPAN CRACKS THE BATTERY RECYCLING CODE",
+      "summary": "Even as the Strait of Hormuz crackles with military tension and the world's energy nerves fray, Japan has quietly solved one of the clean energy transition's most stubborn problems: what to do with the mountains of spent EV batteries piling up globally. Recovering up to 90% of lithium \u2014 a critical mineral that has sparked its own geopolitical scrambles \u2014 means the electric vehicle economy doesn't have to keep mining new deposits to sustain itself. This is the kind of unglamorous, essential breakthrough that makes long-term optimism rational rather than naive.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 90% lithium recovery rate from used EV batteries is a genuine materials-science milestone that could dramatically reduce mining pressure and battery costs."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Closing the loop on EV battery materials addresses one of the most cited critiques of electric vehicles \u2014 their dependence on extractive, polluting supply chains."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Lebanon and Israel are holding talks in Rome on implementing a framework deal, a rare diplomatic signal amid a region convulsed by US-Iran conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Former NOAA employees voluntarily built Climate.us to preserve climate data and resources after institutional support was withdrawn, driven purely by scientific conscience."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "For the first time in World Cup history, the top four FIFA-ranked teams have all made the semifinals \u2014 a rare moment of pure sporting achievement uniting a fractured global audience."
+        }
+      ],
+      "mood": [
+        "innovative",
+        "resilient",
+        "sustainable",
+        "ingenious",
+        "hopeful"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a Japanese industrial recycling facility the morning after the breakthrough announcement, looking outward through a wide loading bay door left open onto a sun-drenched factory yard, rich gold morning light pouring in and cutting across the facility floor in long amber shafts. Deep emerald shadows pool in the far corners of the warehouse interior, stainless steel processing vats catching the warm glow along their curved flanks. In the foreground, the aftermath of a night's work: a wooden workbench just inside the doorway holds several small sealed transparent containers of luminous pearlescent white lithium powder arranged in a quiet row, glowing like crushed pearl against the dark grey of the bench surface. Beside them, empty dark slate-grey EV battery casing halves lie open and spent, their work done. A single white lab coat hangs neatly on a hook beside the loading bay door, still and calm. Through the open doorway, the outside yard shows stacked exhausted battery packs waiting in orderly rows under the golden morning sun, deep navy blue and charcoal, patient and vast. A narrow conveyor track runs from the interior darkness toward the bright open door, a faint trail of black granular powder dusting its edges. Color palette: rich saturated gold flooding in from outside, deep emerald industrial shadows within, brilliant white of the lithium containers catching and radiating the light like small lanterns."
+    }
   }
 ]

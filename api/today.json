@@ -1,97 +1,97 @@
 {
-  "date": "2026-07-13",
-  "generated_at": "2026-07-13T12:36:11.638194+00:00",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T11:29:43.304169+00:00",
   "doom": {
-    "percentage": 40.6,
+    "percentage": 41.0,
     "raw_percentage": 42.7,
-    "driver": "Iran's IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.",
+    "driver": "The U.S. is set to reinstate a blockade over the Strait of Hormuz. The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
     "category": "Geopolitics",
-    "blurb": "THE WAR IS NOW REGIONAL, ACTUALLY",
-    "summary": "Iran has stopped retaliating against the US and started hitting everyone else \u2014 Kuwait, Bahrain, Oman \u2014 which is the geopolitical equivalent of losing a bar fight and punching the bystanders. Three weekends of consecutive strikes have a rhythm now, and rhythms have a way of becoming permanent features. Meanwhile Lindsey Graham's death shrinks the Senate GOP margin to a razor's edge right as the Iran war, FISA, and government funding all land on the calendar simultaneously.",
+    "blurb": "TWO NAVIES, ONE CHOKEPOINT, ZERO CHILL",
+    "summary": "The U.S.-Iran conflict has entered a new phase: not just airstrikes and missile exchanges, but a full naval blockade of the world's most consequential oil artery, with Iran vowing to assert its own control. Meanwhile the Houthis are lobbing missiles at Saudi Arabia, Gulf states are getting hit, and shipping giants are publicly declaring the toll plan 'fundamentally wrong' \u2014 which is how you know it's happening anyway. At some point 'ceasefire' stops meaning what the dictionary thinks it means.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US-Iran exchanges now in their third consecutive weekend, with Iran expanding targets to US allies across the Gulf \u2014 a meaningful regional escalation beyond the bilateral pattern."
+        "detail": "A U.S. naval blockade of the Strait of Hormuz is being reinstated while Iran vows counter-control, Houthis strike Saudi Arabia, and Gulf states absorb Iranian hits \u2014 the conflict is widening horizontally."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Graham's death leaves Senate Republicans with a razor-thin margin heading into a brutal legislative sprint covering war powers, FISA, and the budget \u2014 dysfunction risk is real."
+        "detail": "Trump's National Guard D.C. deployment extended to 2029, a federal judge voids a $1.8bn IRS settlement shielding Trump from audits, and DOGE records are reportedly missing \u2014 institutional norms under sustained pressure."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "GPT-5.6 adoption accelerating in production (2.2x faster, 27% cheaper per Hacker News), compounding last week's mathematical proof milestone into a normalizing capability curve."
+        "detail": "Grok CLI reportedly uploaded users' entire home directories to xAI's servers, a vivid reminder that AI agents with file system access can cause serious unintended harm at scale."
       },
       {
-        "name": "Climate",
+        "name": "Alignment",
         "signal": "medium",
-        "detail": "Wildfires burning near Paris for the first time requiring southern-France-style air tankers, plus French nuclear plants stressed by warm rivers \u2014 Western Europe's infrastructure is visibly straining."
+        "detail": "Anthropic's latest AI discovery is making waves, while Samsung Health threatens data deletion for users who opt out of AI training \u2014 consent and control over AI systems remain murky."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "UK banning Iran's Revolutionary Guard and citing Iranian-backed attacks on Jewish sites adds another pressure node to an already overloaded diplomatic circuit board."
+        "signal": "elevated",
+        "detail": "Telegram's t.me domain has been suspended and a U.S. mirror satellite approved to illuminate Earth at night \u2014 the information and physical environment are both getting stranger."
       }
     ],
     "mood": [
-      "escalatory",
-      "regional",
-      "overstretched",
       "volatile",
-      "cascading"
+      "escalating",
+      "chokepoint",
+      "unmoored",
+      "combustible"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, camera positioned low at ground level inside a sparse Gulf Arab apartment, shooting toward a tall narrow window where two silhouetted figures stand motionless side by side, a parent and a teenage child, their outlines stark black against the window's deep crimson glow bleeding in from outside, the parent's arm wrapped around the child's shoulder, both utterly still, the room behind them rendered in near-total darkness with only faint charcoal outlines of a low wooden table, a small television set casting no light, a prayer rug rolled against the wall, the window frame itself cracked at one corner, thin curtain panels pushed aside, the exterior glow outside the glass suggesting distant fire reflected off low desert haze, the crimson light painting the edges of the two figures in thin burning lines while their faces remain completely obscured in shadow, the floor tiles a faded ochre pattern barely visible in the darkness, a single mobile phone face-down on the table behind them its screen dark, the composition entirely still and suffocating, all drama concentrated in the silhouettes against that burning window glow.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-13.png"
+    "card_image": "doom-card-2026-07-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked sun-scorched asphalt at a Dubai petrol station forecourt, camera pressed flat to the ground beneath the massive canopy overhang, shooting straight up at the underside of the price sign gantry, its illuminated panels dark and unlit, numbers blank, the towering steel column disappearing into a smoggy charcoal sky bruised deep crimson at the edges, a long snaking queue of vehicles visible only as undersides of chassis and exhaust pipes stretching back into darkness, a single fluorescent tube in the canopy flickering amber over empty pump bays with dangling nozzles hanging idle, a hand-lettered cardboard notice taped to the nearest pump barely visible from this angle, the vast featureless Gulf sky above pressing down like a lid, distant refinery flare stacks on the horizon spitting orange flame reflected in shallow oil-slicked puddles on the concrete below, the entire scene suffused in dark crimson and charcoal, firelight glow catching the steel understructure of the canopy in sharp high-contrast geometry, heat shimmer rising from the ground warping the distant queue into something almost liquid.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-14.png"
   },
   "dawn": {
-    "percentage": 59.4,
-    "driver": "Four children with terminal brain cancer saved by new cell therapy. An experimental immunotherapy has beaten aggressive brain tumours in a handful of children, and a personalised version is now being tested on more patients",
-    "category": "Medicine",
-    "blurb": "CHILDREN WITH TERMINAL CANCER ARE SURVIVING",
-    "summary": "Against a backdrop of escalating conflict and geopolitical dread, medicine quietly delivered something extraordinary: children diagnosed with terminal brain cancer \u2014 some of the most aggressive, least survivable tumors known \u2014 walked away. An experimental immunotherapy didn't just slow progression; it beat the tumors outright in multiple young patients. The researchers aren't stopping there \u2014 a personalized version is now entering broader trials, meaning this breakthrough may scale. On a day when headlines are soaked in fire and strikes, scientists were saving kids.",
+    "percentage": 59.0,
+    "driver": "Japan develops a method to recover up to 90% of lithium from used EV batteries.",
+    "category": "Environment",
+    "blurb": "JAPAN CRACKS THE BATTERY RECYCLING CODE",
+    "summary": "Even as the Strait of Hormuz crackles with military tension and the world's energy nerves fray, Japan has quietly solved one of the clean energy transition's most stubborn problems: what to do with the mountains of spent EV batteries piling up globally. Recovering up to 90% of lithium \u2014 a critical mineral that has sparked its own geopolitical scrambles \u2014 means the electric vehicle economy doesn't have to keep mining new deposits to sustain itself. This is the kind of unglamorous, essential breakthrough that makes long-term optimism rational rather than naive.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A cell therapy achieving remission in terminal pediatric brain cancer is one of the most significant oncology signals in years \u2014 these tumors carry near-zero survival rates under standard care."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The transition to a personalized trial reflects deep collaboration between immunologists, oncologists, and clinical teams working across institutions toward a shared goal."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Researchers continuing to chase cures for dying children \u2014 the hardest, most emotionally costly work in medicine \u2014 is a quiet testament to what humans do when the stakes are highest."
+        "detail": "A 90% lithium recovery rate from used EV batteries is a genuine materials-science milestone that could dramatically reduce mining pressure and battery costs."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Colorado's new EV battery recycling law offers a pragmatic legislative model for closing the economics gap that has stalled green infrastructure scaling."
+        "signal": "bright",
+        "detail": "Closing the loop on EV battery materials addresses one of the most cited critiques of electric vehicles \u2014 their dependence on extractive, polluting supply chains."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Lebanon and Israel are holding talks in Rome on implementing a framework deal, a rare diplomatic signal amid a region convulsed by US-Iran conflict."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "glimmer",
+        "detail": "Former NOAA employees voluntarily built Climate.us to preserve climate data and resources after institutional support was withdrawn, driven purely by scientific conscience."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "New Scientist's report that a mental speed-training game may help men's brains clear Alzheimer's-linked amyloid adds another thread to the growing tapestry of dementia prevention strategies."
+        "signal": "bright",
+        "detail": "For the first time in World Cup history, the top four FIFA-ranked teams have all made the semifinals \u2014 a rare moment of pure sporting achievement uniting a fractured global audience."
       }
     ],
     "mood": [
-      "breakthrough",
+      "innovative",
       "resilient",
-      "hopeful",
-      "life-saving",
-      "determined"
+      "sustainable",
+      "ingenious",
+      "hopeful"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A child's bedroom at night, seen from a low angle beside the bed, deep teal-black darkness filling the corners and ceiling, a single warm amber bedside lamp casting a tight golden pool across rumpled superhero-themed blankets. Within that pool of light, a tablet screen glows with vivid emerald and gold, displaying a news article whose lead image shows a smiling child in a hospital chair \u2014 the screen is the only source of saturated color in the room, rich gold headline text catching the eye without being legible. A small hand reaches from beneath the blankets toward the screen, tiny fingers mid-scroll, alive with curiosity. On the nightstand beside the lamp sits a half-drunk glass of water and a child's crayon drawing of a stick figure with a superhero cape, pinned under a corner of the tablet case. The lamp's amber warmth bleeds into the tablet's emerald glow, the two light sources merging on the blanket surface in a pool of gold and green. Deep shadows eat the walls. The room feels quiet, late, private \u2014 a child somewhere in the world, reading this story in the dark, alive.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-13.png"
+    "card_image": "dawn-card-2026-07-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a Japanese industrial recycling facility the morning after the breakthrough announcement, looking outward through a wide loading bay door left open onto a sun-drenched factory yard, rich gold morning light pouring in and cutting across the facility floor in long amber shafts. Deep emerald shadows pool in the far corners of the warehouse interior, stainless steel processing vats catching the warm glow along their curved flanks. In the foreground, the aftermath of a night's work: a wooden workbench just inside the doorway holds several small sealed transparent containers of luminous pearlescent white lithium powder arranged in a quiet row, glowing like crushed pearl against the dark grey of the bench surface. Beside them, empty dark slate-grey EV battery casing halves lie open and spent, their work done. A single white lab coat hangs neatly on a hook beside the loading bay door, still and calm. Through the open doorway, the outside yard shows stacked exhausted battery packs waiting in orderly rows under the golden morning sun, deep navy blue and charcoal, patient and vast. A narrow conveyor track runs from the interior darkness toward the bright open door, a faint trail of black granular powder dusting its edges. Color palette: rich saturated gold flooding in from outside, deep emerald industrial shadows within, brilliant white of the lithium containers catching and radiating the light like small lanterns.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-14.png"
   }
 }
