@@ -14897,5 +14897,100 @@
       "card_image": "dawn-card-2026-07-14.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a Japanese industrial recycling facility the morning after the breakthrough announcement, looking outward through a wide loading bay door left open onto a sun-drenched factory yard, rich gold morning light pouring in and cutting across the facility floor in long amber shafts. Deep emerald shadows pool in the far corners of the warehouse interior, stainless steel processing vats catching the warm glow along their curved flanks. In the foreground, the aftermath of a night's work: a wooden workbench just inside the doorway holds several small sealed transparent containers of luminous pearlescent white lithium powder arranged in a quiet row, glowing like crushed pearl against the dark grey of the bench surface. Beside them, empty dark slate-grey EV battery casing halves lie open and spent, their work done. A single white lab coat hangs neatly on a hook beside the loading bay door, still and calm. Through the open doorway, the outside yard shows stacked exhausted battery packs waiting in orderly rows under the golden morning sun, deep navy blue and charcoal, patient and vast. A narrow conveyor track runs from the interior darkness toward the bright open door, a faint trail of black granular powder dusting its edges. Color palette: rich saturated gold flooding in from outside, deep emerald industrial shadows within, brilliant white of the lithium containers catching and radiating the light like small lanterns."
     }
+  },
+  {
+    "date": "2026-07-15",
+    "generated_at": "2026-07-15T11:40:01.987982+00:00",
+    "doom": {
+      "percentage": 41.9,
+      "raw_percentage": 43.7,
+      "driver": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths.",
+      "category": "Biotech",
+      "blurb": "2,000 CASES. 80% FROM UNKNOWN CHAINS. CLOCK TICKING.",
+      "summary": "The Ebola outbreak just crossed 2,000 confirmed cases with 80% of new infections emerging from untraceable chains of transmission \u2014 the WHO's polite way of saying they've lost the thread. Meanwhile a US national has been airlifted to Germany because the Trump administration put Americans in Congo on a do-not-board list, which is either prudent biosecurity or a preview of how this goes very wrong very fast. The Iran war is still grinding in the background, oil prices are rising, and the ECB is having a rates rethink \u2014 apparently the world decided one crisis wasn't enough.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Iran conflict continues with fresh strikes and reinstated Hormuz blockade, but no new major escalation beyond the established pattern of the past week."
+        },
+        {
+          "name": "Biotech",
+          "signal": "high",
+          "detail": "Ebola confirmed cases surpass 2,000 with 754 deaths and 80% of new cases from unknown transmission chains, signaling the outbreak has outpaced containment capacity."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Bonsai 27B running on phones and reports of Claude memory exploits suggest capability diffusion and alignment edge cases are both accelerating quietly."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "New York's data center moratorium, Germany restricting its Freedom of Information Act, and contested US confirmation hearings signal institutional stress across multiple democracies."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Microsoft's Secure Boot broken for a decade undetected is a reminder that critical infrastructure vulnerabilities can sit hidden in plain sight for years."
+        }
+      ],
+      "mood": [
+        "uncontained",
+        "cascading",
+        "grim",
+        "murky",
+        "fraying"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees over a vast expanse of deep red laterite earth in equatorial Congo, camera pulled high and looking down at a symbolic scene below: a single enormous cracked clay vessel lying on its side at the center of the frame, dark liquid pooling outward across the ochre-red soil in spreading rivulets that branch like veins into the surrounding terrain, the spill darkening the earth to deep crimson where it soaks in, tiny ant-like human silhouettes gathered helplessly at the vessel's rim too small to contain what flows out, dense equatorial forest pressing in at all four edges of the frame in near-black blue-green shadow, the canopy a pixel-dotted mass of dark jade and charcoal, a thin pale overcast sky above diffusing flat oppressive light with no warmth, the pooling liquid catching the only contrast in the scene \u2014 a deep arterial crimson glinting against charcoal shadow \u2014 the cracked vessel's fracture lines radiating outward like a shattered map, the human figures casting no shadows, overwhelmed by the scale of earth and spill around them, dark crimson and charcoal palette throughout, high contrast, suffocating and vast."
+    },
+    "dawn": {
+      "percentage": 58.1,
+      "driver": "Crowds cross between Spain and Gibraltar following UK-EU treaty. A large crowd crossed between Spain and Gibraltar in the early hours of Wednesday morning, celebrating the UK-EU treaty.",
+      "category": "Cooperation",
+      "blurb": "BORDERS FALL, NEIGHBORS REUNITE AT MIDNIGHT",
+      "summary": "Against a backdrop of naval blockades and widening conflict in the Middle East, something quietly remarkable happened in southern Europe: crowds of people streamed freely between Spain and Gibraltar in the early hours of Wednesday morning, celebrating a hard-won UK-EU treaty that lifts border controls in one of the continent's most contested crossings. It is a small but genuine act of diplomacy bearing fruit \u2014 neighbors, long separated by post-Brexit friction, simply walking toward each other. In a week where the news is dominated by walls going up and straits being blocked, this particular border coming down deserves to be noticed.",
+      "factors": [
+        {
+          "name": "Cooperation",
+          "signal": "blazing",
+          "detail": "The UK-EU Gibraltar treaty demonstrates that patient, unglamorous diplomacy can still dissolve borders that once seemed permanent."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ordinary people celebrating a treaty at midnight \u2014 crossing simply because they now can \u2014 is a reminder that humans gravitate toward connection when given the chance."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Ozempic and Wegovy show early evidence of slowing biological aging markers in clinical trials, hinting at broader therapeutic potential beyond weight loss."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Scientists discovered why some frog populations survive a deadly global fungus, opening new avenues for protecting amphibian biodiversity worldwide."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "NASA selected 41 commercial technology projects to tackle critical challenges for future Moon and Mars missions, keeping long-horizon human exploration moving forward."
+        }
+      ],
+      "mood": [
+        "unity",
+        "breakthrough",
+        "reconciliation",
+        "resilience",
+        "openness"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-15.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, heavy pre-dawn fog rolling in thick emerald-tinged curtains through a narrow residential street in La L\u00ednea de la Concepci\u00f3n, the Spanish border town adjacent to Gibraltar, fog so dense it halos every streetlamp into blooming gold spheres suspended in deep indigo air. We are nowhere near the crossing itself \u2014 this is a quiet side street two blocks away, ordinary apartment buildings with wrought-iron balconies, warm amber light spilling from open windows above as residents lean out into the foggy night to listen. On the wet cobblestone street below, caught in the gold-pooled lamplight, a small group of elderly neighbors stand in their coats and slippers \u2014 they came downstairs but couldn't make it to the crowd \u2014 and through the fog in the far distance a faint river of golden light traces the border checkpoint, barely visible, dissolving into haze, the massive dark silhouette of the Rock of Gibraltar looming as a barely-discernible shadow above the fog bank, enormous and ancient. A Spanish flag and a small EU flag hang limp and damp from a balcony railing, catching the amber glow. The cobblestones reflect pools of rich gold and deep emerald from a nearby shop awning, wet and luminous. Distant crowd noise implied only by the open windows and tilted heads of the figures below."
+    }
   }
 ]
