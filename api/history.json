@@ -15310,5 +15310,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, heavy pre-dawn fog rolling in thick emerald-tinged curtains through a narrow residential street in La L\u00ednea de la Concepci\u00f3n, the Spanish border town adjacent to Gibraltar, fog so dense it halos every streetlamp into blooming gold spheres suspended in deep indigo air. We are nowhere near the crossing itself \u2014 this is a quiet side street two blocks away, ordinary apartment buildings with wrought-iron balconies, warm amber light spilling from open windows above as residents lean out into the foggy night to listen. On the wet cobblestone street below, caught in the gold-pooled lamplight, a small group of elderly neighbors stand in their coats and slippers \u2014 they came downstairs but couldn't make it to the crowd \u2014 and through the fog in the far distance a faint river of golden light traces the border checkpoint, barely visible, dissolving into haze, the massive dark silhouette of the Rock of Gibraltar looming as a barely-discernible shadow above the fog bank, enormous and ancient. A Spanish flag and a small EU flag hang limp and damp from a balcony railing, catching the amber glow. The cobblestones reflect pools of rich gold and deep emerald from a nearby shop awning, wet and luminous. Distant crowd noise implied only by the open windows and tilted heads of the figures below.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-15.png"
     }
+  },
+  {
+    "date": "2026-07-16",
+    "generated_at": "2026-07-16T11:45:11.275641+00:00",
+    "doom": {
+      "percentage": 42.3,
+      "raw_percentage": 43.7,
+      "driver": "Iran warns U.S. of Hormuz 'red line,' says it will retaliate to Trump's strike threats.",
+      "category": "Geopolitics",
+      "blurb": "RED LINE DRAWN. PENCIL OR PERMANENT MARKER?",
+      "summary": "Trump has apparently threatened to hit Iranian infrastructure next week if talks don't restart, and Tehran has responded by drawing a 'red line' around the Strait of Hormuz \u2014 which is already closed, so that's quite the escalation ladder we're climbing. Meanwhile, Zelenskyy just fired Ukraine's most popular defense minister mid-war with zero explanation, prompting street protests in Kyiv because apparently two active fronts of geopolitical instability wasn't enough. The Hormuz situation keeps ratcheting upward rather than plateauing, which is the part that earns today its extra points.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran's 'red line' warning comes as Trump threatens infrastructure strikes next week \u2014 the conflict is actively escalating, not holding steady."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Zelenskyy's unexplained firing of Ukraine's tech-savvy defense minister mid-war has triggered protests and rattled civil-military trust at a critical moment."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "H5N1 confirmed in New Zealand's native bird population \u2014 the virus continues its slow geographic spread into previously clean ecosystems."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "OpenAI launches a light-up keyboard for Codex agents; GPT-Red unveiled as an internal red-teaming model \u2014 capability marches on, governance does not."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "A senior AI safety researcher published a detailed account of why they left Google DeepMind \u2014 whatever they said, the HN crowd found it worth 332 points of attention."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "volatile",
+        "tense",
+        "unresolved",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single printed newspaper page lying on a dark stone surface, camera pressed inches above the paper looking straight down, the page lit from one side by a dim amber lamp casting deep crimson shadows across the creased newsprint, the headline text rendered as illegible pixel-smeared columns of black ink but dominated by a large printed map inset showing the narrow throat of the Strait of Hormuz in deep blue-green with a thick red line drawn across the chokepoint in marker ink, the red line slightly hand-trembled and bleeding into the cheap newsprint fibers, the paper's edges browning and curling upward into shadow, a single glass of dark tea resting just off-frame casting a circular condensation ring stain onto the corner of the map, the surrounding stone surface cold charcoal gray with faint dust, one edge of a Persian-script printed border visible at the paper's margin, the overall palette dark crimson and charcoal with the map's blue-green water and the livid red line the only saturated color in the frame, oppressive and still.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-16.png"
+    },
+    "dawn": {
+      "percentage": 57.7,
+      "driver": "New monkey species with orange lips found 'hiding' in DR Congo forest. Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "category": "Discovery",
+      "blurb": "A NEW FACE LOOKS BACK AT US",
+      "summary": "In the same forests where conflict and disease dominate the headlines, scientists have discovered an entirely new monkey species \u2014 a reminder that the natural world still holds wonders we haven't catalogued yet. That 'amazing feeling' researchers described when meeting eyes with an animal unknown to science captures something essential about why we keep exploring: the planet still surprises us. Even as the Congo Basin faces pressure from all sides, the fact that a distinct primate could remain hidden there until 2026 suggests ecosystems more resilient and complex than we often give them credit for.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "A completely new primate species discovered in DR Congo proves Earth's biodiversity still exceeds our full knowledge of it."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "The species' existence in a heavily pressured ecosystem hints at pockets of resilience surviving despite deforestation and conflict."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Venezuela's government and opposition announcing formal talks offers a rare diplomatic opening in a long-deadlocked political crisis."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Uganda discharging its last Ebola patient and beginning the 42-day countdown to outbreak-free status shows communities can contain even the scariest pathogens."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Astronomers identifying a sugar molecule in deep space for the first time adds another data point to the question of whether life's building blocks are widespread in the universe."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "discovery",
+        "resilience",
+        "curiosity",
+        "awe"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A towering cathedral rainforest canopy in Lomami National Park, DR Congo, at golden afternoon hour \u2014 the upper canopy blazes with saturated gold and amber light filtering through a dense crown of enormous tropical leaves, every leaf edge rimmed in molten emerald and yellow, the sky above the canopy a vivid warm gold. Against this blazing backlight, the entire scene is rendered in dramatic silhouette: the dark jagged outlines of giant hardwood branches stretch across the frame, broad tropical leaves fanning in black cutout shapes against the glow. Centered on a high branch in perfect silhouette sits the Likweli monkey \u2014 Colobus congoensis \u2014 its compact primate body upright and alert, head turned toward the viewer, and glowing unmistakably against the dark silhouette of its face are two pinkish-orange lips, the single point of warm ember color in the entire image, burning like a tiny flame in the dark canopy. Below, two human silhouettes stand on the shadowed forest floor, one with binoculars lowered and head tilted back in open-mouthed wonder, the other holding a long telephoto camera aimed upward, both figures dwarfed by the vast vertical scale of the ancient forest rising above them into blazing gold.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-16.png"
+    }
   }
 ]
