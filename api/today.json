@@ -1,97 +1,97 @@
 {
-  "date": "2026-07-16",
-  "generated_at": "2026-07-16T11:45:11.275641+00:00",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T11:25:48.723305+00:00",
   "doom": {
-    "percentage": 42.3,
-    "raw_percentage": 43.7,
-    "driver": "Iran warns U.S. of Hormuz 'red line,' says it will retaliate to Trump's strike threats.",
+    "percentage": 43.1,
+    "raw_percentage": 44.7,
+    "driver": "Gulf states come under Iranian fire as US strikes intensify. Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.",
     "category": "Geopolitics",
-    "blurb": "RED LINE DRAWN. PENCIL OR PERMANENT MARKER?",
-    "summary": "Trump has apparently threatened to hit Iranian infrastructure next week if talks don't restart, and Tehran has responded by drawing a 'red line' around the Strait of Hormuz \u2014 which is already closed, so that's quite the escalation ladder we're climbing. Meanwhile, Zelenskyy just fired Ukraine's most popular defense minister mid-war with zero explanation, prompting street protests in Kyiv because apparently two active fronts of geopolitical instability wasn't enough. The Hormuz situation keeps ratcheting upward rather than plateauing, which is the part that earns today its extra points.",
+    "blurb": "THE WHOLE GULF IS NOW THE BATTLEFIELD",
+    "summary": "Iran has stopped merely threatening its immediate neighbors and started actually shelling them \u2014 Bahrain, Qatar, Oman, Jordan, and Syria all took hits as the US simultaneously destroyed bridges in southern Iran. What began as a Hormuz standoff has metastasized into a genuine regional war, with Gulf states that have been quietly hosting US bases suddenly discovering that hosting has consequences. Meanwhile, a Ukrainian cruise missile is apparently running on hobbyist drone firmware, which is either inspiring or terrifying depending on how optimistic you are about the future of warfare.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran's 'red line' warning comes as Trump threatens infrastructure strikes next week \u2014 the conflict is actively escalating, not holding steady."
+        "detail": "Iran has expanded strikes to at least five Gulf nations simultaneously \u2014 this is no longer a bilateral US-Iran exchange but a regionalized conflict with multiple sovereignties actively under fire."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Zelenskyy's unexplained firing of Ukraine's tech-savvy defense minister mid-war has triggered protests and rattled civil-military trust at a critical moment."
+        "detail": "Trump's primetime election address alleging Chinese 2020 meddling \u2014 timed pre-midterms \u2014 signals democratic norm erosion is accelerating alongside the shooting war."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "China's Moonshot AI releases Kimi K3 claiming parity with OpenAI and Anthropic, continuing the pattern of rapid capability convergence under US chip restrictions."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "H5N1 confirmed in New Zealand's native bird population \u2014 the virus continues its slow geographic spread into previously clean ecosystems."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "low",
-        "detail": "OpenAI launches a light-up keyboard for Codex agents; GPT-Red unveiled as an internal red-teaming model \u2014 capability marches on, governance does not."
+        "detail": "A humanoid robotics company backed by Eric Trump is openly exploring 'kinetic' military applications \u2014 the robot-war pipeline is being quietly assembled while everyone watches the Gulf."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "A senior AI safety researcher published a detailed account of why they left Google DeepMind \u2014 whatever they said, the HN crowd found it worth 332 points of attention."
+        "signal": "low",
+        "detail": "AI flagging 250,000 suspicious cancer research papers suggests AI is already reshaping scientific integrity faster than institutions can respond \u2014 quietly unsettling."
       }
     ],
     "mood": [
-      "escalatory",
-      "volatile",
-      "tense",
-      "unresolved",
-      "precarious"
+      "escalation",
+      "regional",
+      "unraveling",
+      "multifront",
+      "combustible"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single printed newspaper page lying on a dark stone surface, camera pressed inches above the paper looking straight down, the page lit from one side by a dim amber lamp casting deep crimson shadows across the creased newsprint, the headline text rendered as illegible pixel-smeared columns of black ink but dominated by a large printed map inset showing the narrow throat of the Strait of Hormuz in deep blue-green with a thick red line drawn across the chokepoint in marker ink, the red line slightly hand-trembled and bleeding into the cheap newsprint fibers, the paper's edges browning and curling upward into shadow, a single glass of dark tea resting just off-frame casting a circular condensation ring stain onto the corner of the map, the surrounding stone surface cold charcoal gray with faint dust, one edge of a Persian-script printed border visible at the paper's margin, the overall palette dark crimson and charcoal with the map's blue-green water and the livid red line the only saturated color in the frame, oppressive and still.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-16.png"
+    "card_image": "doom-card-2026-07-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep shadows dominating, dark crimson and charcoal palette \u2014 ground-level view along a wide empty boulevard in Doha's West Bay district in the dead hours before dawn, camera positioned low at street level looking down a deserted six-lane road toward the clustered silhouette of the West Bay towers, their glass facades reflecting a dull amber firelight from somewhere off-screen to the left, the Tornado Tower's distinctive diagonal lattice rising against a starless haze of smoke and heat shimmer, a lone municipal street sweeper pushing a wide brush broom slowly across the asphalt in the middle distance, scattered fragments of glass and unidentifiable debris pushed into small glittering piles along the curb, a single overturned metal caf\u00e9 chair lying in the road catching the orange light of a still-burning streetlamp above it, the air thick with visible heat distortion and a faint smoke haze drifting low across the tarmac, no movement except the sweeper and the slow pulse of a distant emergency beacon somewhere beyond the towers casting intermittent red flashes across the glass facades, deep blacks in every shadow, high contrast between the firelit glass towers and the absolute darkness of the desert sky above.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-17.png"
   },
   "dawn": {
-    "percentage": 57.7,
-    "driver": "New monkey species with orange lips found 'hiding' in DR Congo forest. Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+    "percentage": 56.9,
+    "driver": "We've found a rocky, temperate planet's atmosphere for the first time. Astronomers have only previously found atmospheres around exoplanets that are very large or incredibly hot \u2013 but now they have found one adorning a world that may well be right for life",
     "category": "Discovery",
-    "blurb": "A NEW FACE LOOKS BACK AT US",
-    "summary": "In the same forests where conflict and disease dominate the headlines, scientists have discovered an entirely new monkey species \u2014 a reminder that the natural world still holds wonders we haven't catalogued yet. That 'amazing feeling' researchers described when meeting eyes with an animal unknown to science captures something essential about why we keep exploring: the planet still surprises us. Even as the Congo Basin faces pressure from all sides, the fact that a distinct primate could remain hidden there until 2026 suggests ecosystems more resilient and complex than we often give them credit for.",
+    "blurb": "FIRST BREATH: A DISTANT WORLD WEARS AN ATMOSPHERE",
+    "summary": "While missiles cross the Strait of Hormuz and the world's news feeds fill with smoke and fire, astronomers quietly announced something that reframes everything: we have detected an atmosphere around a rocky, temperate exoplanet for the first time. Until now, only scorching giants showed us their air \u2014 this is the first time a world that could plausibly support life has revealed its atmospheric envelope to human eyes. In a week that has tested faith in civilization, our species also looked across the void and found something that hints the universe may be generous with the conditions for life.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "A completely new primate species discovered in DR Congo proves Earth's biodiversity still exceeds our full knowledge of it."
-      },
-      {
-        "name": "Environment",
-        "signal": "glimmer",
-        "detail": "The species' existence in a heavily pressured ecosystem hints at pockets of resilience surviving despite deforestation and conflict."
+        "signal": "blazing",
+        "detail": "Detecting a temperate rocky planet's atmosphere is a watershed moment in the search for life beyond Earth, opening a new era of comparative planetology."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Venezuela's government and opposition announcing formal talks offers a rare diplomatic opening in a long-deadlocked political crisis."
+        "detail": "Germany is pushing for a coordinated EU peacekeeping force in Lebanon, showing multilateral diplomacy still has advocates even amid regional escalation."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Uganda discharging its last Ebola patient and beginning the 42-day countdown to outbreak-free status shows communities can contain even the scariest pathogens."
+        "detail": "Boris Nadezhdin continues to speak out against the Ukraine war inside Russia at considerable personal risk, embodying the persistence of conscience under authoritarian pressure."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "New 'living plastic' that fully self-destructs in six days without leaving microplastics represents a genuine materials science breakthrough for planetary health."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Astronomers identifying a sugar molecule in deep space for the first time adds another data point to the question of whether life's building blocks are widespread in the universe."
+        "signal": "bright",
+        "detail": "Neurostimulation restored feeling in a paralysed man's hand for months after treatment ended \u2014 a result that suggests the brain retains plasticity far beyond what scientists expected."
       }
     ],
     "mood": [
+      "awe",
       "wonder",
-      "discovery",
       "resilience",
-      "curiosity",
-      "awe"
+      "possibility",
+      "expansive"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A towering cathedral rainforest canopy in Lomami National Park, DR Congo, at golden afternoon hour \u2014 the upper canopy blazes with saturated gold and amber light filtering through a dense crown of enormous tropical leaves, every leaf edge rimmed in molten emerald and yellow, the sky above the canopy a vivid warm gold. Against this blazing backlight, the entire scene is rendered in dramatic silhouette: the dark jagged outlines of giant hardwood branches stretch across the frame, broad tropical leaves fanning in black cutout shapes against the glow. Centered on a high branch in perfect silhouette sits the Likweli monkey \u2014 Colobus congoensis \u2014 its compact primate body upright and alert, head turned toward the viewer, and glowing unmistakably against the dark silhouette of its face are two pinkish-orange lips, the single point of warm ember color in the entire image, burning like a tiny flame in the dark canopy. Below, two human silhouettes stand on the shadowed forest floor, one with binoculars lowered and head tilted back in open-mouthed wonder, the other holding a long telephoto camera aimed upward, both figures dwarfed by the vast vertical scale of the ancient forest rising above them into blazing gold.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-16.png"
+    "card_image": "dawn-card-2026-07-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold observatory tile floor, gazing up at the underside of a massive open telescope dome, the curved steel ribs of the dome's interior arching overhead like the ribcage of some vast creature, the circular aperture open to a sky absolutely saturated with gold and emerald star-glow, the Milky Way visible as a dense emerald-gold river through the opening. A single young astronomer \u2014 Collin Cherubim \u2014 sits in a rolling chair directly above our viewpoint, seen from below, leaning forward with both elbows on his knees, face tilted downward toward a glowing monitor just out of frame, his expression caught in that precise still moment of wide-eyed recognition, jaw slightly open, shoulders frozen mid-breath. The monitor's light washes up across his chin and throat in rich gold. Around him, two colleagues lean in from either side, faces half-lit, bodies angled toward him, one pointing at something below the frame. The telescope's enormous mirror housing towers behind them all, a dark cathedral column climbing toward the open dome and the jewelled sky beyond, its surface catching emerald and amber reflections from the screens below. Rich gold and vibrant emerald dominate every surface \u2014 the star-dense sky, the instrument glow, the reflected light on polished steel.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-17.png"
   }
 }
