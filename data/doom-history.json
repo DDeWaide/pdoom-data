@@ -15277,5 +15277,100 @@
       "card_image": "dawn-card-2026-07-18.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling Indian aerospace engineering university campus seen from above in rich afternoon gold and vibrant emerald \u2014 red-tiled rooftop buildings clustered among dense tropical tree canopies, courtyards alive with students pouring out of lecture halls mid-session, textbooks abandoned on benches, tiny figures clustering in excited groups around glowing phone screens held aloft, a rooftop terrace where a dozen small silhouettes have climbed to get a better view of the distant southeastern horizon where a pale exhaust contrail threads upward into the deep equatorial blue sky like a white needle \u2014 the contrail the only trace of the launch, barely visible, everything else ordinary campus life transformed by invisible news rippling person to person, emerald tree canopies casting dappled gold-green shadow across terracotta paths, a water tower painted with a stylized rocket motif catching full afternoon sun, the whole scene saturated and alive with the electric warmth of ordinary people realizing something extraordinary just happened just beyond what they can see."
     }
+  },
+  {
+    "date": "2026-07-19",
+    "generated_at": "2026-07-19T11:13:30.460502+00:00",
+    "doom": {
+      "percentage": 45.0,
+      "raw_percentage": 46.7,
+      "driver": "Russia launches largest ballistic missile attack on Kyiv since start of war. Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "category": "Geopolitics",
+      "blurb": "RUSSIA GOES BIGGEST. UKRAINE RUNS LOW.",
+      "summary": "Russia just set a new personal record for ballistic missile brutality against Kyiv \u2014 timing it, conveniently, while Ukraine is running short on Patriot interceptors. Meanwhile the US-Iran exchange has now claimed two American soldiers in Jordan and spread to Kuwait and Bahrain, meaning the Middle East is now actively exporting its chaos sideways across the Gulf. Two simultaneous escalating military conflicts, one with a nuclear power swinging record punches, is not a chill Saturday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Russia's largest-ever ballistic missile attack on Kyiv coincides with a critical Patriot munitions shortage, while US-Iran strikes expand to kill two American soldiers and hit Kuwait and Bahrain."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Cuba is sliding toward societal breakdown under a US oil blockade, with repeated grid collapses and growing unrest signaling a potential failed-state scenario 90 miles from Florida."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, and the Kimi K3 moment is generating significant buzz \u2014 capability acceleration showing no signs of plateauing."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "AI Mania Is Eviscerating Global Decision-Making is trending on Hacker News, reflecting growing concern that AI-assisted policy is degrading rather than improving institutional judgment."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Wildfire smoke blanketing the northeastern US, flash flood warnings, and a parasitic lettuce outbreak are background noise \u2014 uncomfortable but not civilization-threatening."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "multifront",
+        "volatile",
+        "exhausted",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated night scene over Kyiv, thick curtains of summer rain falling through smoke-filled air, camera positioned at mid-height looking across a wide Soviet-planned boulevard lined with heavy-leafed linden trees, rain streaking diagonally through the frame catching firelight from an unseen source above, a characteristic 12-story prefab concrete panel apartment block dominates the right side of the composition with its upper floors glowing deep amber-orange through shattered windows, the building facade showing a catastrophic diagonal collapse on one corner, rain-soaked rubble and blown window frames scattered across the wet asphalt below, to the left a Ukrainian State Emergency Service red fire truck with deployed hoses partially obscured by sheets of rainfall and drifting smoke, the sky above is a bruised near-black navy pressing down through layers of smoke and rain haze, gold church cupolas visible in the far distance through the atmospheric murk catching faint firelight, the wet boulevard surface reflects crimson and orange fire colors in long wavering ribbons along the dark pavement, Kyiv's characteristic bluff skyline barely visible through the rain-smoke atmosphere, dark crimson and charcoal palette throughout with fire reflections as the only warm light sources, high contrast, oppressive, suffocating atmosphere."
+    },
+    "dawn": {
+      "percentage": 55.0,
+      "driver": "Common antidepressant may ease long COVID's crushing fatigue. A low-dose antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life.",
+      "category": "Medicine",
+      "blurb": "LONG COVID'S FOG MAY FINALLY HAVE A CLEARING",
+      "summary": "As missiles fly over the Middle East and Ebola cases mount, science quietly delivers: a randomized clinical trial shows fluvoxamine \u2014 a cheap, widely available antidepressant \u2014 meaningfully cuts the crushing fatigue that has stolen years from millions of long COVID sufferers. This is exactly the kind of unglamorous, methodical, peer-reviewed progress that tends to get buried under crisis headlines but changes real lives at scale. Hundreds of millions of people worldwide have been affected by long COVID symptoms; a low-cost intervention that actually works in a controlled trial is genuinely significant news.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "A randomized clinical trial \u2014 the gold standard \u2014 confirms fluvoxamine reduces long COVID fatigue, moving this from anecdote to evidence."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The World Cup final between Spain and Argentina is uniting billions of fans globally in shared joy despite geopolitical fractures."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Josh Kerr of Britain broke a 27-year-old world record in the mile in London, delivering a moment of pure athletic triumph announced months in advance and then executed perfectly."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "The EU ban on destruction of unsold clothes and shoes officially entered application, a concrete policy step against fashion industry waste."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "blazing",
+          "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, suggesting AI is beginning to genuinely accelerate foundational mathematics research."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "hopeful",
+        "healing",
+        "determined",
+        "breakthrough"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small white pill resting in the shallow bowl of an open human palm, the hand belonging to someone who has clearly been still for a long time \u2014 fingers slightly uncurled, relaxed, the posture of surrender becoming the posture of receiving. Rich gold afternoon light floods from the upper left, casting the pill's tiny shadow across the warm skin like a sundial. The pill gleams with a soft white highlight, humble and ordinary, not glowing or magical. At the very edges of the frame, out of focus and implied rather than shown, the blurred warm emerald tones of a domestic interior \u2014 a kitchen, a window, leaves pressing against glass \u2014 suggest a world the person is about to re-enter. The palm is lit in saturated amber and terracotta, Brazilian afternoon warmth soaking every pixel. A faint reflected gleam in the pill's surface catches the window light, a tiny world compressed into a tiny object. Gold and deep emerald dominate the palette, saturated and alive, dawn light rather than noon, promise rather than triumph."
+    }
   }
 ]

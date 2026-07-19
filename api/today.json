@@ -1,97 +1,97 @@
 {
-  "date": "2026-07-18",
-  "generated_at": "2026-07-18T11:09:10.224987+00:00",
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T11:13:30.460502+00:00",
   "doom": {
-    "percentage": 43.5,
-    "raw_percentage": 44.7,
-    "driver": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say.",
-    "category": "Governance",
-    "blurb": "WHO GETS THE KEYS TO THE FUTURE?",
-    "summary": "While everyone's watching bombs fall on Iran for the seventh consecutive night, the Trump administration quietly decided it should control who gets access to frontier AI models \u2014 a move that makes big tech nervous and should make everyone else nervous too. Pair that with US strikes hitting Iran yet again, Somali pirates making a comeback in Yemeni waters, and Canadian wildfire smoke choking 109 million Americans, and you've got a Thursday that feels less like a news cycle and more like a pressure cooker with too many burners on high. The AI power grab may not explode tomorrow, but it's the kind of structural shift that rewires everything downstream.",
+    "percentage": 45.0,
+    "raw_percentage": 46.7,
+    "driver": "Russia launches largest ballistic missile attack on Kyiv since start of war. Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+    "category": "Geopolitics",
+    "blurb": "RUSSIA GOES BIGGEST. UKRAINE RUNS LOW.",
+    "summary": "Russia just set a new personal record for ballistic missile brutality against Kyiv \u2014 timing it, conveniently, while Ukraine is running short on Patriot interceptors. Meanwhile the US-Iran exchange has now claimed two American soldiers in Jordan and spread to Kuwait and Bahrain, meaning the Middle East is now actively exporting its chaos sideways across the Gulf. Two simultaneous escalating military conflicts, one with a nuclear power swinging record punches, is not a chill Saturday.",
     "factors": [
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "The White House moving to control access to frontier AI models represents a significant centralization of AI power with unpredictable governance implications."
-      },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US strikes on Iran continue for a seventh straight night while Kuwait and Bahrain intercept Iranian projectiles and a tanker is hijacked off Yemen \u2014 the entire region is live."
+        "detail": "Russia's largest-ever ballistic missile attack on Kyiv coincides with a critical Patriot munitions shortage, while US-Iran strikes expand to kill two American soldiers and hit Kuwait and Bahrain."
       },
       {
         "name": "Governance",
+        "signal": "medium",
+        "detail": "Cuba is sliding toward societal breakdown under a US oil blockade, with repeated grid collapses and growing unrest signaling a potential failed-state scenario 90 miles from Florida."
+      },
+      {
+        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "Trump administration dictating frontier AI access shifts power dynamics between state and tech in ways that could reshape the global AI landscape with little democratic oversight."
+        "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, and the Kimi K3 moment is generating significant buzz \u2014 capability acceleration showing no signs of plateauing."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "No new capability breakthroughs reported today, but centralized government control over model access creates misaligned incentive structures for AI development."
+        "detail": "AI Mania Is Eviscerating Global Decision-Making is trending on Hacker News, reflecting growing concern that AI-assisted policy is degrading rather than improving institutional judgment."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Canadian wildfire smoke blanketing 109 million Americans while Trump threatens Canada with pollution tariffs adds geopolitical friction to an already overloaded climate signal."
+        "signal": "low",
+        "detail": "Wildfire smoke blanketing the northeastern US, flash flood warnings, and a parasitic lettuce outbreak are background noise \u2014 uncomfortable but not civilization-threatening."
       }
     ],
     "mood": [
-      "tense",
-      "consolidating",
-      "smoky",
-      "overwound",
+      "escalating",
+      "multifront",
+      "volatile",
+      "exhausted",
       "precarious"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, camera positioned inside a dimly lit San Francisco startup office looking outward through floor-to-ceiling glass windows into the fog-choked night skyline, dark crimson and charcoal palette with amber LED blinks reflected in the glass \u2014 the room behind the camera: rows of black server racks caged behind chain-link fencing with heavy padlocks, each rack face studded with blinking amber and green lights casting harsh reflections on exposed concrete floors, a long standing desk strewn with printed benchmark charts showing climbing bar graphs, a single dossier folder lying open face-down beside a cold coffee cup \u2014 through the window: the Bay Bridge visible as a dark silhouette draped in low fog, its cable lights smeared into bleeding crimson smudges by condensation on the glass, a distant airplane warning light pulsing red over the water \u2014 the mood oppressive and still, the office abandoned mid-shift, a single desk lamp throwing a cone of deep orange light across the padlocked server cage, heavy shadows eating the ceiling and corners, firelight-warm reflections on every glass and metal surface, the outside world unreachable and indifferent beyond the fog.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-18.png"
+    "card_image": "doom-card-2026-07-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated night scene over Kyiv, thick curtains of summer rain falling through smoke-filled air, camera positioned at mid-height looking across a wide Soviet-planned boulevard lined with heavy-leafed linden trees, rain streaking diagonally through the frame catching firelight from an unseen source above, a characteristic 12-story prefab concrete panel apartment block dominates the right side of the composition with its upper floors glowing deep amber-orange through shattered windows, the building facade showing a catastrophic diagonal collapse on one corner, rain-soaked rubble and blown window frames scattered across the wet asphalt below, to the left a Ukrainian State Emergency Service red fire truck with deployed hoses partially obscured by sheets of rainfall and drifting smoke, the sky above is a bruised near-black navy pressing down through layers of smoke and rain haze, gold church cupolas visible in the far distance through the atmospheric murk catching faint firelight, the wet boulevard surface reflects crimson and orange fire colors in long wavering ribbons along the dark pavement, Kyiv's characteristic bluff skyline barely visible through the rain-smoke atmosphere, dark crimson and charcoal palette throughout with fire reflections as the only warm light sources, high contrast, oppressive, suffocating atmosphere.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-19.png"
   },
   "dawn": {
-    "percentage": 56.5,
-    "driver": "Space start-up launches India's first commercial rocket designed for orbit. India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-    "category": "Technology",
-    "blurb": "INDIA OPENS ITS COMMERCIAL SPACE AGE",
-    "summary": "As geopolitical tensions dominate the headlines and smoke literally darkens American skies, a quieter revolution lifted off: Skyroot Aerospace's Vikram-1 became India's first commercially built rocket to reach orbit, marking a historic milestone for the world's most populous nation. This is what the democratization of space looks like \u2014 not just superpowers, but startups from Hyderabad carrying humanity's ambitions skyward. In a week heavy with conflict and fear, a private Indian rocket piercing the atmosphere is a reminder that human ingenuity keeps compounding regardless of the news cycle.",
+    "percentage": 55.0,
+    "driver": "Common antidepressant may ease long COVID's crushing fatigue. A low-dose antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life.",
+    "category": "Medicine",
+    "blurb": "LONG COVID'S FOG MAY FINALLY HAVE A CLEARING",
+    "summary": "As missiles fly over the Middle East and Ebola cases mount, science quietly delivers: a randomized clinical trial shows fluvoxamine \u2014 a cheap, widely available antidepressant \u2014 meaningfully cuts the crushing fatigue that has stolen years from millions of long COVID sufferers. This is exactly the kind of unglamorous, methodical, peer-reviewed progress that tends to get buried under crisis headlines but changes real lives at scale. Hundreds of millions of people worldwide have been affected by long COVID symptoms; a low-cost intervention that actually works in a controlled trial is genuinely significant news.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Vikram-1's successful orbital launch makes India a genuine commercial spacefaring nation, adding a new democratic player to the space economy."
+        "signal": "bright",
+        "detail": "A randomized clinical trial \u2014 the gold standard \u2014 confirms fluvoxamine reduces long COVID fatigue, moving this from anecdote to evidence."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "China signals possible return of U.S. trade privileges for Hong Kong, a quiet but meaningful diplomatic thaw two months after the Trump-Xi meeting."
+        "detail": "The World Cup final between Spain and Argentina is uniting billions of fans globally in shared joy despite geopolitical fractures."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Caitlin Clark posted a historic 45-point, 10-assist game, becoming the first WNBA player to reach those marks in a single performance and electrifying a sport mid-controversy."
+        "detail": "Josh Kerr of Britain broke a 27-year-old world record in the mile in London, delivering a moment of pure athletic triumph announced months in advance and then executed perfectly."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Google-backed FireSat satellites launched specifically to detect wildfires earlier than existing systems, a direct technological response to the very crisis choking the US this week."
+        "detail": "The EU ban on destruction of unsold clothes and shoes officially entered application, a concrete policy step against fashion industry waste."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "A new supplement shown to bind to microplastics and potentially remove them from the body offers an early but genuinely exciting lead against one of modern health's most insidious threats."
+        "signal": "blazing",
+        "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, suggesting AI is beginning to genuinely accelerate foundational mathematics research."
       }
     ],
     "mood": [
-      "pioneering",
-      "breakthrough",
-      "rising",
       "resilient",
-      "expansive"
+      "hopeful",
+      "healing",
+      "determined",
+      "breakthrough"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-18.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling Indian aerospace engineering university campus seen from above in rich afternoon gold and vibrant emerald \u2014 red-tiled rooftop buildings clustered among dense tropical tree canopies, courtyards alive with students pouring out of lecture halls mid-session, textbooks abandoned on benches, tiny figures clustering in excited groups around glowing phone screens held aloft, a rooftop terrace where a dozen small silhouettes have climbed to get a better view of the distant southeastern horizon where a pale exhaust contrail threads upward into the deep equatorial blue sky like a white needle \u2014 the contrail the only trace of the launch, barely visible, everything else ordinary campus life transformed by invisible news rippling person to person, emerald tree canopies casting dappled gold-green shadow across terracotta paths, a water tower painted with a stylized rocket motif catching full afternoon sun, the whole scene saturated and alive with the electric warmth of ordinary people realizing something extraordinary just happened just beyond what they can see.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-18.png"
+    "card_image": "dawn-card-2026-07-19.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small white pill resting in the shallow bowl of an open human palm, the hand belonging to someone who has clearly been still for a long time \u2014 fingers slightly uncurled, relaxed, the posture of surrender becoming the posture of receiving. Rich gold afternoon light floods from the upper left, casting the pill's tiny shadow across the warm skin like a sundial. The pill gleams with a soft white highlight, humble and ordinary, not glowing or magical. At the very edges of the frame, out of focus and implied rather than shown, the blurred warm emerald tones of a domestic interior \u2014 a kitchen, a window, leaves pressing against glass \u2014 suggest a world the person is about to re-enter. The palm is lit in saturated amber and terracotta, Brazilian afternoon warmth soaking every pixel. A faint reflected gleam in the pill's surface catches the window light, a tiny world compressed into a tiny object. Gold and deep emerald dominate the palette, saturated and alive, dawn light rather than noon, promise rather than triumph.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-19.png"
   }
 }
