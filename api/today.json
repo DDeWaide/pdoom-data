@@ -1,97 +1,97 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T11:13:30.460502+00:00",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T12:21:42.047735+00:00",
   "doom": {
-    "percentage": 45.0,
-    "raw_percentage": 46.7,
-    "driver": "Russia launches largest ballistic missile attack on Kyiv since start of war. Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+    "percentage": 45.6,
+    "raw_percentage": 47.3,
+    "driver": "U.S. hits Iran for ninth consecutive night as American casualties rise. The U.S. began a ninth straight night of strikes against Iran, escalating a campaign to destroy Tehran's ability to disrupt shipping in the Strait of Hormuz.",
     "category": "Geopolitics",
-    "blurb": "RUSSIA GOES BIGGEST. UKRAINE RUNS LOW.",
-    "summary": "Russia just set a new personal record for ballistic missile brutality against Kyiv \u2014 timing it, conveniently, while Ukraine is running short on Patriot interceptors. Meanwhile the US-Iran exchange has now claimed two American soldiers in Jordan and spread to Kuwait and Bahrain, meaning the Middle East is now actively exporting its chaos sideways across the Gulf. Two simultaneous escalating military conflicts, one with a nuclear power swinging record punches, is not a chill Saturday.",
+    "blurb": "NIGHT NINE. BODY BAGS STILL COMING.",
+    "summary": "Nine consecutive nights of US strikes on Iran, three American service members dead, Gulf states getting bombed, and two ships reportedly exploding in the Strait of Hormuz \u2014 this isn't escalation anymore, it's just the new normal, which is somehow more alarming. Iran is playing a careful game, hitting Kuwait infrastructure and Jordan bases instead of US carriers, which analysts say is 'strategic pressure' and the rest of us call 'a war with extra steps.' Meanwhile Claude apparently disproved a major mathematical conjecture, which is either a great day for math or a preview of something much worse.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Russia's largest-ever ballistic missile attack on Kyiv coincides with a critical Patriot munitions shortage, while US-Iran strikes expand to kill two American soldiers and hit Kuwait and Bahrain."
-      },
-      {
-        "name": "Governance",
-        "signal": "medium",
-        "detail": "Cuba is sliding toward societal breakdown under a US oil blockade, with repeated grid collapses and growing unrest signaling a potential failed-state scenario 90 miles from Florida."
+        "detail": "Nine straight nights of US-Iran strikes with rising American casualties, Gulf state infrastructure attacks, and Hormuz shipping incidents signal active multi-front military escalation with no off-ramp visible."
       },
       {
         "name": "AI Capability",
         "signal": "elevated",
-        "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, and the Kimi K3 moment is generating significant buzz \u2014 capability acceleration showing no signs of plateauing."
+        "detail": "Claude produced a reported counterexample to the Jacobian Conjecture \u2014 a decades-old unsolved math problem \u2014 marking a meaningful jump in AI mathematical reasoning capability."
+      },
+      {
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "UK transitions from Starmer to Burnham as PM; Trump immediately labels Britain a 'Poverty Stricken Disaster,' suggesting transatlantic relations are off to a rocky start."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "AI Mania Is Eviscerating Global Decision-Making is trending on Hacker News, reflecting growing concern that AI-assisted policy is degrading rather than improving institutional judgment."
+        "detail": "New study finds AI advice makes people less accurate but more confident, a quietly terrifying combination as AI decision-support spreads into hiring, medicine, and policy."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Wildfire smoke blanketing the northeastern US, flash flood warnings, and a parasitic lettuce outbreak are background noise \u2014 uncomfortable but not civilization-threatening."
+        "detail": "Ebola death toll now at 930 with 37 new deaths in a single 24-hour period \u2014 the outbreak is accelerating, but international response infrastructure remains intact for now."
       }
     ],
     "mood": [
-      "escalating",
-      "multifront",
+      "grinding",
+      "escalatory",
+      "fatigued",
       "volatile",
-      "exhausted",
-      "precarious"
+      "normalized"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated night scene over Kyiv, thick curtains of summer rain falling through smoke-filled air, camera positioned at mid-height looking across a wide Soviet-planned boulevard lined with heavy-leafed linden trees, rain streaking diagonally through the frame catching firelight from an unseen source above, a characteristic 12-story prefab concrete panel apartment block dominates the right side of the composition with its upper floors glowing deep amber-orange through shattered windows, the building facade showing a catastrophic diagonal collapse on one corner, rain-soaked rubble and blown window frames scattered across the wet asphalt below, to the left a Ukrainian State Emergency Service red fire truck with deployed hoses partially obscured by sheets of rainfall and drifting smoke, the sky above is a bruised near-black navy pressing down through layers of smoke and rain haze, gold church cupolas visible in the far distance through the atmospheric murk catching faint firelight, the wet boulevard surface reflects crimson and orange fire colors in long wavering ribbons along the dark pavement, Kyiv's characteristic bluff skyline barely visible through the rain-smoke atmosphere, dark crimson and charcoal palette throughout with fire reflections as the only warm light sources, high contrast, oppressive, suffocating atmosphere.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-19.png"
+    "card_image": "doom-card-2026-07-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, camera positioned at ground level inside a Bahraini apartment facing outward through an open sliding door toward a narrow concrete balcony, the entire scene backlit by a distant hellish orange-crimson glow pulsing from the horizon over the Gulf waters, thick columns of black smoke rising and diffusing into the overcast sky beyond \u2014 in sharp silhouette against that burning glow, a single figure stands motionless on the balcony, a woman in a long silhouetted dress, one hand gripping the railing, the other pressed flat to her chest, her posture rigid and facing the distant light across the dark water \u2014 on the balcony railing beside her hand, a small dark object, a mobile phone, its screen faintly lit, casting the only cool blue light in the entire image \u2014 inside the apartment behind the camera, the dim suggestion of a child's shoes on a tiled floor and a folded prayer rug against the wall, implying a household awake and suspended in dread \u2014 the balcony concrete is stained and weathered, a satellite dish mounted on the wall above catching the orange glow along its curved edge, Manama's low skyline visible in distant silhouette to the left, minarets and glass towers all dark against the crimson horizon \u2014 high contrast, oppressive heat, firelight reflections on every hard surface.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-20.png"
   },
   "dawn": {
-    "percentage": 55.0,
-    "driver": "Common antidepressant may ease long COVID's crushing fatigue. A low-dose antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life.",
+    "percentage": 54.4,
+    "driver": "New AI blood test predicts heart disease 15 years early. A new AI-powered blood test could give people a remarkably early warning of serious heart and circulation problems. Developed by researchers at the University of Hong Kong, CardiOmicScore analyzes tho",
     "category": "Medicine",
-    "blurb": "LONG COVID'S FOG MAY FINALLY HAVE A CLEARING",
-    "summary": "As missiles fly over the Middle East and Ebola cases mount, science quietly delivers: a randomized clinical trial shows fluvoxamine \u2014 a cheap, widely available antidepressant \u2014 meaningfully cuts the crushing fatigue that has stolen years from millions of long COVID sufferers. This is exactly the kind of unglamorous, methodical, peer-reviewed progress that tends to get buried under crisis headlines but changes real lives at scale. Hundreds of millions of people worldwide have been affected by long COVID symptoms; a low-cost intervention that actually works in a controlled trial is genuinely significant news.",
+    "blurb": "FIFTEEN YEARS TO SAVE YOUR HEART",
+    "summary": "Against a backdrop of escalating conflicts and rising casualty counts, a team at the University of Hong Kong has developed an AI-powered blood test that can flag serious cardiovascular risk up to 15 years before a crisis hits. Heart disease remains the world's leading killer, and early warning at this scale would hand millions of people time they've never had before \u2014 time to change course, to intervene, to live. It's the kind of quiet, unglamorous breakthrough that doesn't make the front pages on dark news days, but deserves to.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "A randomized clinical trial \u2014 the gold standard \u2014 confirms fluvoxamine reduces long COVID fatigue, moving this from anecdote to evidence."
+        "signal": "blazing",
+        "detail": "CardiOmicScore represents a genuine leap in preventive medicine, translating AI pattern recognition into life-saving lead time for cardiovascular disease."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "The World Cup final between Spain and Argentina is uniting billions of fans globally in shared joy despite geopolitical fractures."
+        "detail": "The World Cup finale drew a billion viewers across borders, with Spain's victory celebrated from Madrid to Tehran \u2014 a rare shared human moment amid geopolitical fracture."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Josh Kerr of Britain broke a 27-year-old world record in the mile in London, delivering a moment of pure athletic triumph announced months in advance and then executed perfectly."
+        "detail": "Wired reports elite youth runners are shattering records at unprecedented rates, with middle schoolers outpacing college competitors in a grassroots track boom."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "The EU ban on destruction of unsold clothes and shoes officially entered application, a concrete policy step against fashion industry waste."
+        "detail": "Brazilian forces are actively fighting to push illegal gold miners out of protected Indigenous Amazonian territories, a hard-won enforcement effort gaining ground on the ground."
       },
       {
         "name": "Wild Card",
-        "signal": "blazing",
-        "detail": "GPT-5.6 reportedly closed a 30-year gap in convex optimization, suggesting AI is beginning to genuinely accelerate foundational mathematics research."
+        "signal": "bright",
+        "detail": "Claude, an AI system, may have produced a counterexample to the Jacobian Conjecture \u2014 a decades-old unsolved math problem \u2014 signaling AI's growing role as a genuine scientific collaborator."
       }
     ],
     "mood": [
-      "resilient",
-      "hopeful",
-      "healing",
-      "determined",
-      "breakthrough"
+      "breakthrough",
+      "foresight",
+      "resilience",
+      "preventive",
+      "hopeful"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small white pill resting in the shallow bowl of an open human palm, the hand belonging to someone who has clearly been still for a long time \u2014 fingers slightly uncurled, relaxed, the posture of surrender becoming the posture of receiving. Rich gold afternoon light floods from the upper left, casting the pill's tiny shadow across the warm skin like a sundial. The pill gleams with a soft white highlight, humble and ordinary, not glowing or magical. At the very edges of the frame, out of focus and implied rather than shown, the blurred warm emerald tones of a domestic interior \u2014 a kitchen, a window, leaves pressing against glass \u2014 suggest a world the person is about to re-enter. The palm is lit in saturated amber and terracotta, Brazilian afternoon warmth soaking every pixel. A faint reflected gleam in the pill's surface catches the window light, a tiny world compressed into a tiny object. Gold and deep emerald dominate the palette, saturated and alive, dawn light rather than noon, promise rather than triumph.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-19.png"
+    "card_image": "dawn-card-2026-07-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped Hong Kong apartment kitchen at 2am, counter cluttered with the debris of ordinary life \u2014 a ceramic bowl, folded grocery bags, a half-drunk glass of water \u2014 but the entire scene is commanded by a smartphone lying flat on the laminate countertop, its screen blazing upward in rich gold and emerald light, casting dramatic upward shadows across cabinet doors and ceiling tiles. The phone screen glows with a news article, its thumbnail image showing a tiny crimson vial and a web of luminous golden nodes like a constellation. The screen's emerald and amber light spills outward in pixel-perfect bloom, catching the edge of a teacup, the rim of a cutting board, the corner of a printed pharmacy bag. A single human hand rests beside the phone, not touching it, fingers slightly curled, the soft underside of the wrist visible \u2014 the skin near the elbow bearing the ghost of a small circular bandage. The kitchen window behind is pure darkness, a few distant Hong Kong tower lights floating like cold blue stars in the black. Deep shadows pool in every corner. The phone screen is the only sun in this midnight world.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-20.png"
   }
 }
