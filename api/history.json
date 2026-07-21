@@ -15795,5 +15795,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped Hong Kong apartment kitchen at 2am, counter cluttered with the debris of ordinary life \u2014 a ceramic bowl, folded grocery bags, a half-drunk glass of water \u2014 but the entire scene is commanded by a smartphone lying flat on the laminate countertop, its screen blazing upward in rich gold and emerald light, casting dramatic upward shadows across cabinet doors and ceiling tiles. The phone screen glows with a news article, its thumbnail image showing a tiny crimson vial and a web of luminous golden nodes like a constellation. The screen's emerald and amber light spills outward in pixel-perfect bloom, catching the edge of a teacup, the rim of a cutting board, the corner of a printed pharmacy bag. A single human hand rests beside the phone, not touching it, fingers slightly curled, the soft underside of the wrist visible \u2014 the skin near the elbow bearing the ghost of a small circular bandage. The kitchen window behind is pure darkness, a few distant Hong Kong tower lights floating like cold blue stars in the black. Deep shadows pool in every corner. The phone screen is the only sun in this midnight world.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-20.png"
     }
+  },
+  {
+    "date": "2026-07-21",
+    "generated_at": "2026-07-21T11:51:46.016190+00:00",
+    "doom": {
+      "percentage": 46.0,
+      "raw_percentage": 47.3,
+      "driver": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait.",
+      "category": "Geopolitics",
+      "blurb": "TWO STRAITS. ONE VERY BAD WEEK FOR SHIPPING.",
+      "summary": "The Houthis, apparently not satisfied with one maritime chokepoint, have announced a blockade of the Bab Al-Mandeb Strait while simultaneously hitting tankers in Hormuz \u2014 meaning the world's two most critical oil shipping lanes are now both under active threat. This is the geopolitical equivalent of someone robbing both entrances to a bank at the same time. Meanwhile, it's night ten of U.S.-Iran strikes, Canada just got hit with 50% tariffs, and a hacker wiped Romania's entire land registry database, because apparently the planet needed more chaos on a Tuesday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S.-Iran war enters day ten, Houthis threaten dual strait blockade covering Hormuz AND Bab Al-Mandeb, with Saudi Arabia now also in their crosshairs."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's 50% tariff on Canada marks a sharp escalation against the closest U.S. ally, rattling trade frameworks and triggering retaliatory posturing."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Claude AI apparently disproved an 87-year-old mathematical conjecture, and China's open-weights AI strategy is assessed as winning \u2014 the frontier is moving fast and unseated."
+        },
+        {
+          "name": "Cyber",
+          "signal": "medium",
+          "detail": "A hacker wiped Romania's entire national land registry database; Iran also claims it attacked Amazon infrastructure in Bahrain."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Five major US tech giants carrying $1.65 trillion in hidden AI-related debt, per Nikkei \u2014 Jamie Dimon says markets are underpricing risk, and he's not buying."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "chokepoint",
+        "precarious",
+        "volatile",
+        "cascading"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked sun-scorched concrete dock planking at a Djibouti container terminal, camera pressed flat to the ground at the base of a towering rusted crane leg, the massive orange crane arm cutting diagonally across a dark crimson and charcoal sky, a single enormous oil tanker looming high above and to the right with its rust-streaked hull rising like a vertical cliff face, riding visibly higher in the water than normal \u2014 empty, unloaded, going nowhere \u2014 dock workers in hard hats frozen still at the base of the crane looking upward, a chain-link gate in the background padlocked shut with chains, stacked shipping containers in the foreground stretching upward and filling the left edge of the frame in deep shadow, a single bare work light casting harsh orange-red glow on the underside of the crane arm, the sky above filled with dry dust haze and a faint curl of distant smoke on the horizon, the water barely visible beyond the dock edge reflecting only firelight-red shimmer, the overall mood of paralysis and suspended commerce oppressive and total, dark crimson and charcoal palette, firelight reflections on all metal surfaces, high contrast.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-21.png"
+    },
+    "dawn": {
+      "percentage": 54.0,
+      "driver": "Alzheimer's breakthrough: Scientists restore two hours of sleep without clearing brain plaques.",
+      "category": "Medicine",
+      "blurb": "ALZHEIMER'S SLEEP STOLEN NO MORE",
+      "summary": "In a world darkened by war and economic tension, science quietly delivered something remarkable: researchers identified overactive microglia as the hidden thief of sleep in Alzheimer's patients, and found a way to restore those lost hours without even needing to clear the plaques. That's a genuinely new mechanism \u2014 meaning an entirely new class of intervention may be possible. On days when headlines are dominated by strikes on Iran and tariff wars, a breakthrough that could ease suffering for millions of families is the kind of human progress that justifies cautious hope.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Identifying microglia-driven inflammation as the sleep thief in Alzheimer's opens a novel therapeutic pathway that bypasses the long-stalled amyloid-clearance approach."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Regional mediators are reportedly pushing a 10-day ceasefire proposal between Washington and Tehran, suggesting back-channel diplomacy hasn't collapsed entirely."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Spain's World Cup victory parade drew nearly 2 million people into the streets of Madrid, a joyful collective exhale in a year of relentless geopolitical strain."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists have identified two promising new methods to destroy PFAS 'forever chemicals,' offering a tangible path toward reversing one of modern pollution's most stubborn legacies."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "An AI solved an 87-year-old mathematical conjecture that stumped human mathematicians, demonstrating that human-AI collaboration is expanding the frontier of knowledge in ways previously unimaginable."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "discovery",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a university neuroscience sleep research lab the morning after the breakthrough, looking outward through a wide floor-to-ceiling window toward a sunlit courtyard where golden morning light pours through the glass in rich amber shafts, saturated emerald ivy climbing the exterior wall outside blazing in full morning sun. The lab interior is calm and emptied \u2014 the night shift over, the work done. A single lab coat hangs neatly over a chair back near the window. On the bench closest to the window, a small mouse EEG recording cap with delicate wire leads rests beside an open research notebook, both caught in a long diagonal bar of gold morning light. A monitor screen to the left still glows with a smooth rolling EEG waveform \u2014 the deep, restored sleep trace, serene and unhurried \u2014 its cool blue-white light competing softly with the warm gold flooding through the glass. On the far bench, a light sheet microscope sits dormant, its laser off, the transparent brain tissue sample still mounted inside like cloudy sea glass waiting for the next observer. The composition frames the outside world as vivid emerald and gold, the inside as cool blue shadow giving way to warmth \u2014 stillness fully restored, the hum of discovery settled into quiet morning calm.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-21.png"
+    }
   }
 ]
