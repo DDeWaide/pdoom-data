@@ -15751,5 +15751,99 @@
       "card_image": "dawn-card-2026-07-23.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A chemistry laboratory at Cold Spring Harbor, late afternoon, golden sun blazing through tall windows behind the scene, flooding the room with rich amber and emerald light, every object rendered as a deep dramatic silhouette against the luminous glow. In the foreground, a researcher holds a small glass vial up toward the blazing window, arm raised, the vial catching the light and glowing like a lantern \u2014 a tiny vessel containing something world-changing. Beside them on the bench, a rack of 150 molecular library vials fans outward in silhouette like organ pipes, their glass rims catching thin halos of gold. A second silhouetted figure leans over a petri dish, one hand braced on the bench, head bowed in quiet concentration. The window behind frames a glimpse of tree canopy outside, leaves saturated in vibrant emerald and afternoon gold, the living world pressing against the glass. The color palette burns with rich gold, deep amber, and flashes of vivid green \u2014 warm, saturated, alive \u2014 as if the light itself knows something important just changed."
     }
+  },
+  {
+    "date": "2026-07-24",
+    "generated_at": "2026-07-24T11:46:06.276153+00:00",
+    "doom": {
+      "percentage": 47.5,
+      "raw_percentage": 48.7,
+      "driver": "Trump considering a 'massive attack' on Iran as Tehran labels UK 'accomplice' to America. The president told Axios he was considering an operation 'bigger than ever before.'",
+      "category": "Geopolitics",
+      "blurb": "NIGHT THIRTEEN. NOW TRUMP WANTS BIGGER.",
+      "summary": "Thirteen consecutive nights of US airstrikes on Iran and Trump is now publicly musing about going 'bigger than ever before' \u2014 which is doing wonders for oil prices (up 10% on the week) and absolutely nothing for anyone's blood pressure. Meanwhile the Pentagon quietly revised its war death toll downward, which is either reassuring bookkeeping or the most suspicious math since the Pentagon misplaced $2 trillion in 2001. With Houthis targeting Saudi tankers, Hormuz traffic at a two-month low, and Brent crude cracking $100, the Middle East has officially become everyone's problem at the gas pump.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran war enters night 13 with Trump threatening a 'massive' escalation and oil hitting $100/barrel \u2014 the conflict is metastasizing into a regional economic crisis."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "New sweeping tariffs hit 60 trade partners simultaneously as the AI Kill Switch Act moves forward, suggesting Washington is legislating in multiple directions at maximum speed."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "AI arms race described as heading for a 'reckoning' following the OpenAI containment breach, with aggressive training techniques flagged as sharpening misbehavior risks."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Super El Ni\u00f1o developing with 90% chance of becoming the strongest in 150 years, threatening to shatter temperature records and unleash extreme weather across multiple continents."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Lawmakers preparing an 'AI Kill Switch Act' signals institutional recognition that current AI containment is inadequate \u2014 a band-aid response to a deepening structural problem."
+        }
+      ],
+      "mood": [
+        "escalatory",
+        "combustible",
+        "jittery",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene aftermath, all light from artificial sources, deep shadows dominating, dark crimson and charcoal palette \u2014 interior view of a Tehran Foreign Ministry press briefing room the morning after the threat lands, camera positioned at mid-height looking across rows of empty dark wooden chairs toward an unmanned podium still lit by a single harsh overhead fluorescent strip, the green-white-red Iranian flag hanging motionless on a pole to one side, a Union Jack printed on a crumpled diplomatic communiqu\u00e9 sheet abandoned on a chair seat in the foreground, a cleaning attendant in grey overalls pushing a wide mop across polished marble tiles that reflect the fluorescent light in long crimson-tinged streaks, a wall-mounted television screen in the corner showing a looping blue static glow where a broadcast has ended, a single paper coffee cup tipped on its side near the podium steps leaking a dark stain across the floor, heavy blackout curtains drawn fully across tall arched windows so that zero natural light enters \u2014 the entire scene bathed in oppressive charcoal shadow broken only by the fluorescent strip's cold white cone and the television's ghost-blue pulse, the emptiness of the room carrying the weight of unanswered threats."
+    },
+    "dawn": {
+      "percentage": 52.5,
+      "driver": "In a first, Chinese woman wins the prestigious Fields Medal. Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment.",
+      "category": "Discovery",
+      "blurb": "MATHEMATICS BREAKS BARRIERS. HUMANITY WINS.",
+      "summary": "Against a backdrop of geopolitical friction, trade wars, and military escalation, mathematics offered something the headlines couldn't take away: a Chinese woman has won the Fields Medal for the first time in history, joining laureates recognized for unifying the laws of physics and cracking decades-old geometry problems. It's a reminder that human curiosity operates on a longer timeline than any political cycle, and that the deepest breakthroughs often come from exactly the people the world tries hardest to exclude. Even as pDoom sits near 47.5%, the Fields Medal crosses every border that tariffs and airstrikes cannot.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A historic Fields Medal win for a Chinese woman marks a genuine ceiling-shattering moment in one of humanity's most demanding intellectual disciplines."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "U.S., China, and other nations backed open-source AI cooperation at an APEC summit, the first minister-level statement on open-source AI \u2014 a quiet handshake amid loud tensions."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Indian activist Sonam Wangchuk ended a 26-day hunger strike after galvanizing one of India's largest youth protest movements, demonstrating that sustained, peaceful pressure still moves governments."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists report Antarctica's ice loss may be reliably forecastable through mid-century, giving governments decades of actionable warning to prepare coastal defenses."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "NASA confirmed it will conduct orbital rehearsals of both SpaceX and Blue Origin Moon landers during Artemis III in 2027, keeping the human return to the lunar surface firmly on track."
+        }
+      ],
+      "mood": [
+        "historic",
+        "pioneering",
+        "resilient",
+        "luminous",
+        "transcendent"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against cold stone tiles, gazing up at the underside of a massive university lecture hall blackboard that towers overhead like a monolith, its surface dense with flowing harmonic wave equations and curving sine forms rendered in chalk-white against deep slate, the board's upper edge dissolving into a richly saturated emerald sky visible through tall open windows, afternoon gold light pouring down in thick shafts and igniting the chalk dust suspended in the air like suspended stars. A young Chinese woman stands at the base of the blackboard, back to us, face tilted upward toward her own equations, one hand still raised mid-thought, a small gold medallion catching the afternoon sun in her other hand and throwing a warm amber disc of reflected light across the stone floor beside her feet. Framed in the lower corner of the scene, a battered childhood notebook lies open on the tiles, its pages covered in small careful numerals, the handwriting unmistakably young. Through the tall windows above, the silhouetted tips of dramatic karst limestone peaks rise against the vivid green-gold sky, connecting her origin to this moment. The entire scene saturated in rich gold and emerald, alive with light."
+    }
   }
 ]
