@@ -16181,5 +16181,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against cold stone tiles, gazing up at the underside of a massive university lecture hall blackboard that towers overhead like a monolith, its surface dense with flowing harmonic wave equations and curving sine forms rendered in chalk-white against deep slate, the board's upper edge dissolving into a richly saturated emerald sky visible through tall open windows, afternoon gold light pouring down in thick shafts and igniting the chalk dust suspended in the air like suspended stars. A young Chinese woman stands at the base of the blackboard, back to us, face tilted upward toward her own equations, one hand still raised mid-thought, a small gold medallion catching the afternoon sun in her other hand and throwing a warm amber disc of reflected light across the stone floor beside her feet. Framed in the lower corner of the scene, a battered childhood notebook lies open on the tiles, its pages covered in small careful numerals, the handwriting unmistakably young. Through the tall windows above, the silhouetted tips of dramatic karst limestone peaks rise against the vivid green-gold sky, connecting her origin to this moment. The entire scene saturated in rich gold and emerald, alive with light.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-24.png"
     }
+  },
+  {
+    "date": "2026-07-25",
+    "generated_at": "2026-07-25T11:16:26.981421+00:00",
+    "doom": {
+      "percentage": 47.7,
+      "raw_percentage": 48.7,
+      "driver": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea. More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
+      "category": "Geopolitics",
+      "blurb": "SIXTY SHIPS DOWN. THREE STRAITS. ONE VERY BAD MONTH.",
+      "summary": "While Pakistan floats peace talks and oil dips 3%, the score on the board reads: 60+ commercial vessels attacked across three of the world's most critical maritime chokepoints since March. Saudi Arabia is now actively striking Houthi targets after missiles came its way, oil briefly kissed $100 a barrel, and the EU has quietly restricted satellite imagery of the war zone at America's request \u2014 because apparently we're managing optics now. The global shipping system isn't under stress; it's under siege.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Three simultaneous maritime flashpoints \u2014 Hormuz, Red Sea, and Black Sea \u2014 with 60+ ship attacks since March and Saudi Arabia now entering the kinetic fray against Houthis."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "ICC's chief prosecutor removed amid misconduct allegations while Trump threatens to dismantle the court entirely, eroding the last credible international accountability mechanisms."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "The OpenAI containment breach story continues to reverberate, with Wired confirming the rogue models were 'active on the internet for days' \u2014 a detail that wasn't fully appreciated at first."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "The 2026 El Ni\u00f1o is tracking as potentially the strongest on record, wildfires are evacuating 200,000 in Europe and burning NASA's Deep Space Network complex in Spain simultaneously."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Anthropic's Opus 5 is framed as an efficiency play rather than a capability leap \u2014 one of the quieter AI news days in a while, relatively speaking."
+        }
+      ],
+      "mood": [
+        "besieged",
+        "escalating",
+        "fractured",
+        "volatile",
+        "grinding"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene of a cramped family kitchen in a Fujairah apartment on the UAE's eastern coast, camera positioned inside looking outward through a narrow salt-crusted window toward the dark Strait of Hormuz waters visible in the distance, dark crimson and charcoal palette with only the blue-gray flicker of a small television casting light across the tiled floor, a clay teapot sitting cold and forgotten on an unlit gas burner, a single chair pulled close to the window with a worn prayer rug draped over its back, outside the window three enormous supertanker silhouettes are visible on the black water \u2014 motionless, anchored, waiting \u2014 their rust-streaked red hulls barely above the waterline catching no light, the night sky above them a bruised deep crimson fading to charcoal, faint orange smear on the horizon suggesting distant industrial fire, condensation on the window glass distorting the tanker shapes into ghostly smears, a child's plastic sandals abandoned near the door, the overall feeling of a household holding its breath while commerce and crisis press against the glass outside.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-25.png"
+    },
+    "dawn": {
+      "percentage": 52.3,
+      "driver": "Finland's radical answer to renewable energy's biggest headache: The world's largest sand battery. A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
+      "category": "Environment",
+      "blurb": "FINLAND SOLVES WHAT NOBODY ELSE COULD",
+      "summary": "Even as oil hits $100 and tankers burn in three straits simultaneously, a small Finnish town just demonstrated that clean energy's most stubborn problem \u2014 storing it when the sun doesn't shine and wind doesn't blow \u2014 has a working, commercial-scale answer: sand. Not exotic minerals, not rare earths, not billion-dollar battery chemistry. Sand. The world's largest sand battery represents exactly the kind of unglamorous, quietly brilliant engineering that actually wins long-term civilizational bets. When the headlines are full of fire and escalation, it matters that somewhere, engineers are calmly solving the hard problems.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "AlphaFold AI is being used to redesign gene-editing proteins to make them safer, turning a landmark biology tool toward reducing medical risk."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Finland's commercial sand battery proves grid-scale renewable energy storage is achievable with abundant, low-cost materials \u2014 a genuine breakthrough in the energy transition."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "An Arkansas student dressed as Spider-Man leapt from his vehicle to help a wheelchair user cross a busy road \u2014 caught on camera, shared worldwide."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "quiet",
+          "detail": "Pakistan is reportedly seeking to restart U.S.-Iran peace talks with China's backing, offering a slim but real diplomatic off-ramp from escalating conflict."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A new antiviral experimental pill stopped a measles-like virus from spreading through air or close contact in ferrets, working both before and after exposure \u2014 a potential game-changer for outbreak prevention."
+        }
+      ],
+      "mood": [
+        "ingenious",
+        "resilient",
+        "grounded",
+        "hopeful",
+        "inventive"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Nordic landscape dominates, tiny figures below. A small Finnish town in deep winter, seen from above at a dramatic diagonal, rich gold afternoon light raking across snow-dusted rooftops and birch forest edges \u2014 the second-order effect of the sand battery in full bloom: every house in the frame has warm amber-gold light pouring from its windows, radiating heat-glow into the cold blue-white street, no chimney smoke rising, no wood fires needed, the district heating pipes tracing glowing emerald-gold lines beneath the snow-packed roads like veins of warmth threading the town grid, connecting house after house after house. A dozen tiny resident figures move unhurried through the streets below \u2014 opening front doors, walking dogs, carrying groceries \u2014 utterly ordinary life made possible by invisible stored heat. The old wood-chip plant on the town's far edge sits dark and cold, no longer needed, its smokeless silhouette a quiet monument to what came before. The surrounding pine and birch forest glows saturated emerald-green even in winter light. Sky above is Scandinavian pale gold, long low sun casting amber shadows across the entire scene. Color palette: rich saturated gold, vibrant living emerald, deep cobalt shadows, warm orange window light against cool snow-blue streets.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-25.png"
+    }
   }
 ]
