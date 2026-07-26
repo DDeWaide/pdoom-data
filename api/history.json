@@ -16278,5 +16278,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Nordic landscape dominates, tiny figures below. A small Finnish town in deep winter, seen from above at a dramatic diagonal, rich gold afternoon light raking across snow-dusted rooftops and birch forest edges \u2014 the second-order effect of the sand battery in full bloom: every house in the frame has warm amber-gold light pouring from its windows, radiating heat-glow into the cold blue-white street, no chimney smoke rising, no wood fires needed, the district heating pipes tracing glowing emerald-gold lines beneath the snow-packed roads like veins of warmth threading the town grid, connecting house after house after house. A dozen tiny resident figures move unhurried through the streets below \u2014 opening front doors, walking dogs, carrying groceries \u2014 utterly ordinary life made possible by invisible stored heat. The old wood-chip plant on the town's far edge sits dark and cold, no longer needed, its smokeless silhouette a quiet monument to what came before. The surrounding pine and birch forest glows saturated emerald-green even in winter light. Sky above is Scandinavian pale gold, long low sun casting amber shadows across the entire scene. Color palette: rich saturated gold, vibrant living emerald, deep cobalt shadows, warm orange window light against cool snow-blue streets.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-25.png"
     }
+  },
+  {
+    "date": "2026-07-26",
+    "generated_at": "2026-07-26T11:24:41.374245+00:00",
+    "doom": {
+      "percentage": 44.9,
+      "raw_percentage": 43.7,
+      "driver": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'.",
+      "category": "Geopolitics",
+      "blurb": "THE WAR FINDS A THIRD OCEAN",
+      "summary": "Ukraine just hit Iranian vessels in the Caspian Sea \u2014 a landlocked body of water that, until recently, was nobody's war zone \u2014 while Saudi Arabia is simultaneously pounding Houthis in Yemen. The Iran conflict now spans the Red Sea, the Strait of Hormuz, and a giant lake surrounded by Central Asian republics who did not sign up for this. At some point 'widening conflict' stops being a descriptor and starts being a diagnosis.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The Iran war has geometrically expanded: Caspian Sea strikes plus ongoing Houthi pressure means three theaters of active conflict simultaneously."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A Berlin Pride ramming attack linked to Islamist circles adds domestic terrorism pressure to Western governments already stretched thin on the foreign policy front."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "India's Gen Z 'Cockroach' movement ousted a minister and is rattling Modi's government, a sign of meaningful political instability in the world's most populous democracy."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "Open-weight AI hitting a 'Kubernetes moment' and LLMs running on $8 microcontrollers are capability milestones worth watching, but neither is an acute threat today."
+        },
+        {
+          "name": "Climate",
+          "signal": "medium",
+          "detail": "340,000 evacuated from French and Spanish wildfires with fire 'whirlwinds' reported \u2014 extreme enough to shorten the Tour de France and strain emergency services region-wide."
+        }
+      ],
+      "mood": [
+        "expansive",
+        "combustible",
+        "landlocked-but-not-for-long",
+        "grimly busy"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated night scene over the Caspian Sea off Iran's northern coast, thick curtains of warm summer fog and haze rolling across flat black water that sits unnaturally still and enclosed, camera positioned at water level looking outward across the surface toward a burning Iranian cargo freighter with dark weathered hull and faded mercantile livery, green-white-red tricolor barely visible through the murk, orange firelight reflecting in broken ribbons across the glassy Caspian surface, a second low-slung grey patrol vessel silhouetted in the middle distance partially swallowed by haze, the dramatic ridgeline of the Alborz mountains barely visible as a dark mass along the southern horizon through the atmospheric murk, rusting offshore oil derricks emerging from the fog to the left edge of frame, deep crimson and charcoal palette throughout with firelight as the only warm source punching through the oppressive grey atmosphere, heat shimmer mixing with sea mist along the waterline, the enclosed landlocked darkness of the Caspian pressing in from all sides.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-26.png"
+    },
+    "dawn": {
+      "percentage": 55.1,
+      "driver": "A single dose reversed autism-like symptoms in adult mice within hours.",
+      "category": "Science",
+      "blurb": "ONE DOSE. HOURS. REVERSED.",
+      "summary": "Even as the world contends with widening conflicts and displacement on multiple fronts, science keeps delivering quiet miracles. Researchers found that a single dose of rapamycin reversed persistent autism-like symptoms in adult mice within hours \u2014 symptoms triggered by mild prenatal inflammation \u2014 pointing toward a potential treatment window that was previously thought closed. That's the essential counterweight to doom: while geopolitics churns, neuroscience is quietly rewriting what 'irreversible' means.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A single-dose reversal of adult neurodevelopmental symptoms challenges long-held assumptions about the permanence of prenatal brain changes."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "India's Gen Z 'Cockroach' protesters successfully ousted an education minister, demonstrating that youth civic action still moves governments."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A new study confirms that personal recycling and green lifestyle choices do not dampen support for systemic climate reform, defusing a long-standing defeatist argument."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "quiet",
+          "detail": "A 12-year-old in Michigan is programming robots to speak his endangered Indigenous language, blending youth, mentorship, and technology in service of cultural survival."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "GM backing sodium-ion batteries for US grid storage signals that major industrial players are diversifying beyond lithium, broadening the clean energy toolkit."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "possibility",
+        "renewal",
+        "wonder"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single slender glass syringe lying on its side, the needle tip resting against a tangle of knotted golden thread \u2014 the thread visibly unknotting and straightening outward from the point of contact, loose curled loops on the left side giving way to clean radiating strands on the right, the transformation caught mid-moment. Rich emerald green surface beneath, lit by warm afternoon sun angling from the upper right, casting long amber highlights across the glass barrel of the syringe and the thread's smooth fibers. The syringe is almost empty, just a whisper of clear liquid remaining inside, catching the light like a tiny prism. The straightened threads extend toward the frame edge like the spokes of a constellation, vibrant gold against deep emerald. A faint reflected glow of leaves dances across the glass surface, implying an open window nearby. Saturated, alive, the color of healing happening quietly and impossibly fast.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-26.png"
+    }
   }
 ]

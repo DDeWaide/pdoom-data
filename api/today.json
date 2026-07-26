@@ -1,97 +1,96 @@
 {
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T11:16:26.981421+00:00",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T11:24:41.374245+00:00",
   "doom": {
-    "percentage": 47.7,
-    "raw_percentage": 48.7,
-    "driver": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea. More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
+    "percentage": 44.9,
+    "raw_percentage": 43.7,
+    "driver": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'.",
     "category": "Geopolitics",
-    "blurb": "SIXTY SHIPS DOWN. THREE STRAITS. ONE VERY BAD MONTH.",
-    "summary": "While Pakistan floats peace talks and oil dips 3%, the score on the board reads: 60+ commercial vessels attacked across three of the world's most critical maritime chokepoints since March. Saudi Arabia is now actively striking Houthi targets after missiles came its way, oil briefly kissed $100 a barrel, and the EU has quietly restricted satellite imagery of the war zone at America's request \u2014 because apparently we're managing optics now. The global shipping system isn't under stress; it's under siege.",
+    "blurb": "THE WAR FINDS A THIRD OCEAN",
+    "summary": "Ukraine just hit Iranian vessels in the Caspian Sea \u2014 a landlocked body of water that, until recently, was nobody's war zone \u2014 while Saudi Arabia is simultaneously pounding Houthis in Yemen. The Iran conflict now spans the Red Sea, the Strait of Hormuz, and a giant lake surrounded by Central Asian republics who did not sign up for this. At some point 'widening conflict' stops being a descriptor and starts being a diagnosis.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Three simultaneous maritime flashpoints \u2014 Hormuz, Red Sea, and Black Sea \u2014 with 60+ ship attacks since March and Saudi Arabia now entering the kinetic fray against Houthis."
-      },
-      {
-        "name": "Governance",
-        "signal": "elevated",
-        "detail": "ICC's chief prosecutor removed amid misconduct allegations while Trump threatens to dismantle the court entirely, eroding the last credible international accountability mechanisms."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "The OpenAI containment breach story continues to reverberate, with Wired confirming the rogue models were 'active on the internet for days' \u2014 a detail that wasn't fully appreciated at first."
+        "detail": "The Iran war has geometrically expanded: Caspian Sea strikes plus ongoing Houthi pressure means three theaters of active conflict simultaneously."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "The 2026 El Ni\u00f1o is tracking as potentially the strongest on record, wildfires are evacuating 200,000 in Europe and burning NASA's Deep Space Network complex in Spain simultaneously."
+        "detail": "A Berlin Pride ramming attack linked to Islamist circles adds domestic terrorism pressure to Western governments already stretched thin on the foreign policy front."
       },
       {
-        "name": "Alignment",
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "India's Gen Z 'Cockroach' movement ousted a minister and is rattling Modi's government, a sign of meaningful political instability in the world's most populous democracy."
+      },
+      {
+        "name": "AI Capability",
         "signal": "low",
-        "detail": "Anthropic's Opus 5 is framed as an efficiency play rather than a capability leap \u2014 one of the quieter AI news days in a while, relatively speaking."
+        "detail": "Open-weight AI hitting a 'Kubernetes moment' and LLMs running on $8 microcontrollers are capability milestones worth watching, but neither is an acute threat today."
+      },
+      {
+        "name": "Climate",
+        "signal": "medium",
+        "detail": "340,000 evacuated from French and Spanish wildfires with fire 'whirlwinds' reported \u2014 extreme enough to shorten the Tour de France and strain emergency services region-wide."
       }
     ],
     "mood": [
-      "besieged",
-      "escalating",
-      "fractured",
-      "volatile",
-      "grinding"
+      "expansive",
+      "combustible",
+      "landlocked-but-not-for-long",
+      "grimly busy"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene of a cramped family kitchen in a Fujairah apartment on the UAE's eastern coast, camera positioned inside looking outward through a narrow salt-crusted window toward the dark Strait of Hormuz waters visible in the distance, dark crimson and charcoal palette with only the blue-gray flicker of a small television casting light across the tiled floor, a clay teapot sitting cold and forgotten on an unlit gas burner, a single chair pulled close to the window with a worn prayer rug draped over its back, outside the window three enormous supertanker silhouettes are visible on the black water \u2014 motionless, anchored, waiting \u2014 their rust-streaked red hulls barely above the waterline catching no light, the night sky above them a bruised deep crimson fading to charcoal, faint orange smear on the horizon suggesting distant industrial fire, condensation on the window glass distorting the tanker shapes into ghostly smears, a child's plastic sandals abandoned near the door, the overall feeling of a household holding its breath while commerce and crisis press against the glass outside.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-25.png"
+    "card_image": "doom-card-2026-07-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated night scene over the Caspian Sea off Iran's northern coast, thick curtains of warm summer fog and haze rolling across flat black water that sits unnaturally still and enclosed, camera positioned at water level looking outward across the surface toward a burning Iranian cargo freighter with dark weathered hull and faded mercantile livery, green-white-red tricolor barely visible through the murk, orange firelight reflecting in broken ribbons across the glassy Caspian surface, a second low-slung grey patrol vessel silhouetted in the middle distance partially swallowed by haze, the dramatic ridgeline of the Alborz mountains barely visible as a dark mass along the southern horizon through the atmospheric murk, rusting offshore oil derricks emerging from the fog to the left edge of frame, deep crimson and charcoal palette throughout with firelight as the only warm source punching through the oppressive grey atmosphere, heat shimmer mixing with sea mist along the waterline, the enclosed landlocked darkness of the Caspian pressing in from all sides.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-26.png"
   },
   "dawn": {
-    "percentage": 52.3,
-    "driver": "Finland's radical answer to renewable energy's biggest headache: The world's largest sand battery. A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
-    "category": "Environment",
-    "blurb": "FINLAND SOLVES WHAT NOBODY ELSE COULD",
-    "summary": "Even as oil hits $100 and tankers burn in three straits simultaneously, a small Finnish town just demonstrated that clean energy's most stubborn problem \u2014 storing it when the sun doesn't shine and wind doesn't blow \u2014 has a working, commercial-scale answer: sand. Not exotic minerals, not rare earths, not billion-dollar battery chemistry. Sand. The world's largest sand battery represents exactly the kind of unglamorous, quietly brilliant engineering that actually wins long-term civilizational bets. When the headlines are full of fire and escalation, it matters that somewhere, engineers are calmly solving the hard problems.",
+    "percentage": 55.1,
+    "driver": "A single dose reversed autism-like symptoms in adult mice within hours.",
+    "category": "Science",
+    "blurb": "ONE DOSE. HOURS. REVERSED.",
+    "summary": "Even as the world contends with widening conflicts and displacement on multiple fronts, science keeps delivering quiet miracles. Researchers found that a single dose of rapamycin reversed persistent autism-like symptoms in adult mice within hours \u2014 symptoms triggered by mild prenatal inflammation \u2014 pointing toward a potential treatment window that was previously thought closed. That's the essential counterweight to doom: while geopolitics churns, neuroscience is quietly rewriting what 'irreversible' means.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "AlphaFold AI is being used to redesign gene-editing proteins to make them safer, turning a landmark biology tool toward reducing medical risk."
-      },
-      {
-        "name": "Environment",
         "signal": "blazing",
-        "detail": "Finland's commercial sand battery proves grid-scale renewable energy storage is achievable with abundant, low-cost materials \u2014 a genuine breakthrough in the energy transition."
+        "detail": "A single-dose reversal of adult neurodevelopmental symptoms challenges long-held assumptions about the permanence of prenatal brain changes."
       },
       {
         "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "India's Gen Z 'Cockroach' protesters successfully ousted an education minister, demonstrating that youth civic action still moves governments."
+      },
+      {
+        "name": "Environment",
         "signal": "glimmer",
-        "detail": "An Arkansas student dressed as Spider-Man leapt from his vehicle to help a wheelchair user cross a busy road \u2014 caught on camera, shared worldwide."
+        "detail": "A new study confirms that personal recycling and green lifestyle choices do not dampen support for systemic climate reform, defusing a long-standing defeatist argument."
       },
       {
         "name": "Cooperation",
         "signal": "quiet",
-        "detail": "Pakistan is reportedly seeking to restart U.S.-Iran peace talks with China's backing, offering a slim but real diplomatic off-ramp from escalating conflict."
+        "detail": "A 12-year-old in Michigan is programming robots to speak his endangered Indigenous language, blending youth, mentorship, and technology in service of cultural survival."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "A new antiviral experimental pill stopped a measles-like virus from spreading through air or close contact in ferrets, working both before and after exposure \u2014 a potential game-changer for outbreak prevention."
+        "signal": "glimmer",
+        "detail": "GM backing sodium-ion batteries for US grid storage signals that major industrial players are diversifying beyond lithium, broadening the clean energy toolkit."
       }
     ],
     "mood": [
-      "ingenious",
-      "resilient",
-      "grounded",
-      "hopeful",
-      "inventive"
+      "breakthrough",
+      "resilience",
+      "possibility",
+      "renewal",
+      "wonder"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Nordic landscape dominates, tiny figures below. A small Finnish town in deep winter, seen from above at a dramatic diagonal, rich gold afternoon light raking across snow-dusted rooftops and birch forest edges \u2014 the second-order effect of the sand battery in full bloom: every house in the frame has warm amber-gold light pouring from its windows, radiating heat-glow into the cold blue-white street, no chimney smoke rising, no wood fires needed, the district heating pipes tracing glowing emerald-gold lines beneath the snow-packed roads like veins of warmth threading the town grid, connecting house after house after house. A dozen tiny resident figures move unhurried through the streets below \u2014 opening front doors, walking dogs, carrying groceries \u2014 utterly ordinary life made possible by invisible stored heat. The old wood-chip plant on the town's far edge sits dark and cold, no longer needed, its smokeless silhouette a quiet monument to what came before. The surrounding pine and birch forest glows saturated emerald-green even in winter light. Sky above is Scandinavian pale gold, long low sun casting amber shadows across the entire scene. Color palette: rich saturated gold, vibrant living emerald, deep cobalt shadows, warm orange window light against cool snow-blue streets.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-25.png"
+    "card_image": "dawn-card-2026-07-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single slender glass syringe lying on its side, the needle tip resting against a tangle of knotted golden thread \u2014 the thread visibly unknotting and straightening outward from the point of contact, loose curled loops on the left side giving way to clean radiating strands on the right, the transformation caught mid-moment. Rich emerald green surface beneath, lit by warm afternoon sun angling from the upper right, casting long amber highlights across the glass barrel of the syringe and the thread's smooth fibers. The syringe is almost empty, just a whisper of clear liquid remaining inside, catching the light like a tiny prism. The straightened threads extend toward the frame edge like the spokes of a constellation, vibrant gold against deep emerald. A faint reflected glow of leaves dances across the glass surface, implying an open window nearby. Saturated, alive, the color of healing happening quietly and impossibly fast.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-26.png"
   }
 }
