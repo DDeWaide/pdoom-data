@@ -16374,5 +16374,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single slender glass syringe lying on its side, the needle tip resting against a tangle of knotted golden thread \u2014 the thread visibly unknotting and straightening outward from the point of contact, loose curled loops on the left side giving way to clean radiating strands on the right, the transformation caught mid-moment. Rich emerald green surface beneath, lit by warm afternoon sun angling from the upper right, casting long amber highlights across the glass barrel of the syringe and the thread's smooth fibers. The syringe is almost empty, just a whisper of clear liquid remaining inside, catching the light like a tiny prism. The straightened threads extend toward the frame edge like the spokes of a constellation, vibrant gold against deep emerald. A faint reflected glow of leaves dances across the glass surface, implying an open window nearby. Saturated, alive, the color of healing happening quietly and impossibly fast.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-26.png"
     }
+  },
+  {
+    "date": "2026-07-27",
+    "generated_at": "2026-07-27T12:58:41.061932+00:00",
+    "doom": {
+      "percentage": 41.8,
+      "raw_percentage": 38.7,
+      "driver": "French firefighters face 'pyrocumulonimbus' for first time.",
+      "category": "Climate",
+      "blurb": "THE FIRE NOW MAKES ITS OWN WEATHER",
+      "summary": "France and Spain are collectively evacuating 325,000 people from fires so large they generate their own thunderstorm clouds \u2014 a phenomenon firefighters have literally never encountered before in Europe. Meanwhile, the Iran situation is actually de-escalating, with both sides pausing strikes to give diplomacy 'space,' which drags the doom needle meaningfully back from last week's highs. So: one genuinely novel climate horror, one war going slightly less badly. Net result: concerning, but the trajectory is fractionally better than it's been in days.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "US and Iran pause strikes for a second consecutive day as diplomatic back-channels open \u2014 a real de-escalation from the 47%+ readings of last week, though 'no negotiations ongoing' per Tehran suggests fragility."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Pyrocumulonimbus clouds over Bordeaux \u2014 fire-generated storm systems that spread embers unpredictably \u2014 represent a qualitative leap in wildfire behavior Europe has not seen before, with another heatwave incoming."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Sam Altman publicly uses the word 'singularity' and Kimi-K3 drops on HuggingFace, keeping the drumbeat of capability announcements steady but not accelerating beyond baseline this week."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Acting DNI announces a fourth wave of intelligence community layoffs, further hollowing out US analytical capacity during an active military conflict with Iran \u2014 quiet but structurally concerning."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Nvidia and Microsoft launch an open AI security alliance notably without OpenAI, Google, or Anthropic \u2014 the industry is gesturing at safety architecture while the most powerful labs sit it out."
+        }
+      ],
+      "mood": [
+        "scorched",
+        "cautious",
+        "unprecedented",
+        "fragile",
+        "smoky"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, backlit scene at the edge of a French pine forest firebreak in Les Landes, the camera positioned low at ground level facing outward toward an immense wall of dark orange-red sky, the entire horizon consumed by the base of a towering pyrocumulonimbus column bleeding from deep burnt sienna at its roots into sickly charcoal-grey overhead, two French sapeurs-pompiers rendered as pure black silhouettes standing motionless at the raw bulldozed dirt edge of a firebreak, their distinctive yellow Nomex jackets and helmeted profiles recognizable only by outline, one figure with arms hanging loose at their sides, the other with one hand raised slowly to their visor as if shielding eyes from something incomprehensible above, neither looking at the fire in front of them but tilting their gaze sharply upward toward the cloud mass, the skeletal black silhouettes of burned maritime pine trunks framing the left edge of the frame like broken teeth, a single fire hose coiled and abandoned on scorched sandy soil in the foreground catching a sliver of deep red backlight, the entire mid-atmosphere a bruised yellow-green beneath the anvil crown, firelight casting a uniform crimson wash across all surfaces, high contrast, oppressive stillness.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-27.png"
+    },
+    "dawn": {
+      "percentage": 58.2,
+      "driver": "CRISPR makes prostate cancer vulnerable to immunotherapy. Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may open new treatment pathways.",
+      "category": "Medicine",
+      "blurb": "CRISPR TEACHES THE IMMUNE SYSTEM TO FIGHT BACK",
+      "summary": "In a week dominated by drone strikes, oil embargoes, and wildfire evacuations, a quiet but profound breakthrough emerged from the lab: scientists have used CRISPR gene editing to essentially unmask prostate cancer cells, making them visible and vulnerable to the body's own immune system. The results in mice were dramatic, dramatically amplifying immunotherapy's effectiveness against one of the most common cancers in men. This is exactly the kind of slow, patient, collaborative science that compounds over decades \u2014 and the fact that it keeps arriving regardless of what's happening geopolitically is itself a form of hope.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "CRISPR-enhanced immunotherapy represents a genuine convergence of two revolutionary technologies into a single, potentially transformative cancer treatment."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The US-Iran mutual pause in airstrikes \u2014 now holding for a second straight day \u2014 suggests both sides are leaving room for a diplomatic off-ramp from a dangerous conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A father's care team moved a wedding ceremony to a hospital rooftop so he could walk his daughter down the aisle days after a quadruple bypass surgery."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "New research confirms that controlled, prescribed burns remain the most effective tool for protecting ancient giant sequoias \u2014 giving conservationists a clear, actionable path forward."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Baltimore is redesigning its 911 system to route non-emergency callers toward social services and healthcare before crises escalate, a model of proactive community care."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "ingenuity",
+        "possibility",
+        "persistence"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital waiting room at midnight, fluorescent strip lighting casting hard gold-green pools across worn linoleum tiles, the rest of the room sunk in deep shadow. A battered plastic chair holds a folded newspaper, front page face-up, the headline story illustrated with a bold diagram \u2014 a glowing molecular lantern sitting atop a dark cell cluster, surrounded by small spiky T-cell shapes swarming inward, rendered in the paper's two-color print style. Beside the newspaper, a smartphone screen blazes with a medical news article, its bright display throwing emerald and amber light upward across the empty seat and nearby wall. A half-drunk vending machine coffee cup sits beside both objects, steam catching the screen's glow in tiny golden wisps. On the wall behind, a health information corkboard is pinned with cancer research leaflets, one catching the fluorescent light, its surface saturated in rich gold. Deep shadows pool in the corners. Everything else is dark, still, waiting.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-27.png"
+    }
   }
 ]
