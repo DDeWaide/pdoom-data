@@ -16129,5 +16129,99 @@
       "card_image": "dawn-card-2026-07-27.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital waiting room at midnight, fluorescent strip lighting casting hard gold-green pools across worn linoleum tiles, the rest of the room sunk in deep shadow. A battered plastic chair holds a folded newspaper, front page face-up, the headline story illustrated with a bold diagram \u2014 a glowing molecular lantern sitting atop a dark cell cluster, surrounded by small spiky T-cell shapes swarming inward, rendered in the paper's two-color print style. Beside the newspaper, a smartphone screen blazes with a medical news article, its bright display throwing emerald and amber light upward across the empty seat and nearby wall. A half-drunk vending machine coffee cup sits beside both objects, steam catching the screen's glow in tiny golden wisps. On the wall behind, a health information corkboard is pinned with cancer research leaflets, one catching the fluorescent light, its surface saturated in rich gold. Deep shadows pool in the corners. Everything else is dark, still, waiting."
     }
+  },
+  {
+    "date": "2026-07-28",
+    "generated_at": "2026-07-28T12:02:11.708323+00:00",
+    "doom": {
+      "percentage": 41.3,
+      "raw_percentage": 38.6,
+      "driver": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide.",
+      "category": "Geopolitics",
+      "blurb": "TWO WARS, ONE VERY TIRED PRESIDENT",
+      "summary": "The Ukraine-Russia and US-Iran conflicts are now formally bleeding into each other, with Trump hosting both Zelensky and Netanyahu in a single day while Iran hosts Hormuz talks and oil markets panic. Asia is 'scraping the bottom of the barrel' on energy as the Red Sea blockade compounds the Hormuz closure, and a 7.1 earthquake just trapped people in a Japanese shopping centre for good measure. On the bright side, oil is down slightly because someone used the word 'pause' near a microphone.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The Ukraine and Iran wars are now officially entangled, with Caspian strikes unresolved and Trump simultaneously hosting Zelensky and Netanyahu while de-escalation talks over Hormuz remain fragile."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "US walked out of the UN Security Council mid-session after voting alongside Russia and North Korea against extending the human rights commissioner's term \u2014 a governance signal hard to spin as routine."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "China's Kimi K3 is rattling Silicon Valley, Hugging Face is being exploited for deepfake nudes of women and children, and OpenAI is quietly tweaking its style-copying behavior to dodge legal exposure."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A magnitude 7.1 earthquake hit Kumamoto, Japan with a tsunami advisory issued; separately, an extreme solar storm may have no upper intensity limit according to alarming new research."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "OpenAI's Hugging Face attack response and ChatGPT's new style-blocking behavior suggest reactive patching rather than proactive safety architecture \u2014 the usual story, slightly louder."
+        }
+      ],
+      "mood": [
+        "entangled",
+        "precarious",
+        "jittery",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked pavement outside a Washington D.C. diplomatic supply depot, camera pressed flat against the concrete looking up at towering chain-link fence gates padlocked shut, dark crimson and charcoal palette, firelight-toned security floodlights casting harsh orange pools downward onto the locked entrance, a long queue of civilian cargo trucks idling in the darkness beyond the fence, exhaust plumes rising into a heavy overcast sky, the underside of a massive American flag suspended between two flood-lit poles filling the upper frame and billowing in a cold wind, the fabric rendered in deep burgundy and near-black, a single truck cab visible below with its headlights cutting upward through thick haze, the driver's silhouette slumped motionless against the wheel, shallow puddles on the tarmac reflecting fractured crimson light from above, the distant white columns of a government building barely visible through murk at the vanishing point, oppressive high-contrast shadows dominating the lower three-quarters of the frame, the sealed gate the sole subject \u2014 a second-order symbol of diplomatic collision grinding commerce and movement to a halt."
+    },
+    "dawn": {
+      "percentage": 58.7,
+      "driver": "Eye implant that restores vision lost to age approved for use. An eye implant and a pair of high-tech glasses that enable people with a severe form of vision loss to read have been approved for use by a European regulator",
+      "category": "Medicine",
+      "blurb": "SIGHT RESTORED: REGULATORS APPROVE VISION IMPLANT",
+      "summary": "On a day dominated by earthquakes, wildfires, and colliding wars, European regulators quietly approved a device that gives people their reading vision back \u2014 a genuine, life-changing win. The implant paired with high-tech glasses addresses a form of vision loss that has robbed millions of the simple dignity of reading a book or a message from a loved one. When the headlines feel heaviest, it's worth pausing on the fact that humans are still solving problems that once seemed permanent.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A European regulator's approval of the vision-restoring eye implant marks the transition from lab promise to real-world deployment for patients with severe age-related vision loss."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iran is hosting diplomatic calls with Saudi Arabia and Oman over the Strait of Hormuz, a rare multilateral dialogue channel amid an otherwise escalating regional conflict."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ukraine's volunteer army \u2014 mostly locals and some foreign visitors \u2014 continues rebuilding homes and infrastructure that Russian strikes destroy, refusing to let destruction have the final word."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Georgia's Okefenokee Swamp has been designated a UNESCO World Heritage Site, giving one of North America's most biodiverse wetlands a layer of international protection."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Zoo conservationists rescued 21 critically endangered Madeiran land snails clinging to a remote rock, pulling a species back from the very edge of extinction."
+        }
+      ],
+      "mood": [
+        "restorative",
+        "determined",
+        "hopeful",
+        "tenacious",
+        "constructive"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are standing inside a warmly lit rehabilitation room the morning after the approval announcement, looking outward through a wide window toward a sun-drenched garden, rich gold afternoon light pouring in through the glass and pooling across a wooden table in the foreground. The room is still, intimate, aftermath-quiet. On the table, a pair of sleek high-tech glasses with a small camera module at the bridge rests beside an open book, its pages catching the golden light, large printed text visible but unread for now. A single pencil lies diagonally across a sheet of paper on which the curved shell outlines of the Sydney Opera House have been sketched in careful, trembling lines. The window frame divides the composition, outside world vivid in saturated emerald greens, a garden hedge and tree canopy glowing in deep leafy green against the gold sky. On the interior windowsill, a tiny silver-grey object no larger than a pinhead sits on a folded cloth, catching the light like a single pixel of iridescence. The chair at the table is empty, slightly pushed back, as if someone just stood up and walked toward the window. Color palette rich saturated gold and vibrant emerald, warm clinical white walls, long angled morning rays, deep shadow corners, the quiet triumph of an empty room after something irreversible and wonderful has occurred."
+    }
   }
 ]

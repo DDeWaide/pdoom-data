@@ -1,97 +1,96 @@
 {
-  "date": "2026-07-27",
-  "generated_at": "2026-07-27T12:58:41.061932+00:00",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T12:02:11.708323+00:00",
   "doom": {
-    "percentage": 41.8,
-    "raw_percentage": 38.7,
-    "driver": "French firefighters face 'pyrocumulonimbus' for first time.",
-    "category": "Climate",
-    "blurb": "THE FIRE NOW MAKES ITS OWN WEATHER",
-    "summary": "France and Spain are collectively evacuating 325,000 people from fires so large they generate their own thunderstorm clouds \u2014 a phenomenon firefighters have literally never encountered before in Europe. Meanwhile, the Iran situation is actually de-escalating, with both sides pausing strikes to give diplomacy 'space,' which drags the doom needle meaningfully back from last week's highs. So: one genuinely novel climate horror, one war going slightly less badly. Net result: concerning, but the trajectory is fractionally better than it's been in days.",
+    "percentage": 41.3,
+    "raw_percentage": 38.6,
+    "driver": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide.",
+    "category": "Geopolitics",
+    "blurb": "TWO WARS, ONE VERY TIRED PRESIDENT",
+    "summary": "The Ukraine-Russia and US-Iran conflicts are now formally bleeding into each other, with Trump hosting both Zelensky and Netanyahu in a single day while Iran hosts Hormuz talks and oil markets panic. Asia is 'scraping the bottom of the barrel' on energy as the Red Sea blockade compounds the Hormuz closure, and a 7.1 earthquake just trapped people in a Japanese shopping centre for good measure. On the bright side, oil is down slightly because someone used the word 'pause' near a microphone.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "medium",
-        "detail": "US and Iran pause strikes for a second consecutive day as diplomatic back-channels open \u2014 a real de-escalation from the 47%+ readings of last week, though 'no negotiations ongoing' per Tehran suggests fragility."
+        "signal": "elevated",
+        "detail": "The Ukraine and Iran wars are now officially entangled, with Caspian strikes unresolved and Trump simultaneously hosting Zelensky and Netanyahu while de-escalation talks over Hormuz remain fragile."
       },
       {
-        "name": "Wild Card",
+        "name": "Governance",
         "signal": "elevated",
-        "detail": "Pyrocumulonimbus clouds over Bordeaux \u2014 fire-generated storm systems that spread embers unpredictably \u2014 represent a qualitative leap in wildfire behavior Europe has not seen before, with another heatwave incoming."
+        "detail": "US walked out of the UN Security Council mid-session after voting alongside Russia and North Korea against extending the human rights commissioner's term \u2014 a governance signal hard to spin as routine."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Sam Altman publicly uses the word 'singularity' and Kimi-K3 drops on HuggingFace, keeping the drumbeat of capability announcements steady but not accelerating beyond baseline this week."
+        "detail": "China's Kimi K3 is rattling Silicon Valley, Hugging Face is being exploited for deepfake nudes of women and children, and OpenAI is quietly tweaking its style-copying behavior to dodge legal exposure."
       },
       {
-        "name": "Governance",
+        "name": "Wild Card",
         "signal": "medium",
-        "detail": "Acting DNI announces a fourth wave of intelligence community layoffs, further hollowing out US analytical capacity during an active military conflict with Iran \u2014 quiet but structurally concerning."
+        "detail": "A magnitude 7.1 earthquake hit Kumamoto, Japan with a tsunami advisory issued; separately, an extreme solar storm may have no upper intensity limit according to alarming new research."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Nvidia and Microsoft launch an open AI security alliance notably without OpenAI, Google, or Anthropic \u2014 the industry is gesturing at safety architecture while the most powerful labs sit it out."
+        "detail": "OpenAI's Hugging Face attack response and ChatGPT's new style-blocking behavior suggest reactive patching rather than proactive safety architecture \u2014 the usual story, slightly louder."
       }
     ],
     "mood": [
-      "scorched",
-      "cautious",
-      "unprecedented",
-      "fragile",
-      "smoky"
+      "entangled",
+      "precarious",
+      "jittery",
+      "volatile"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-07-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, backlit scene at the edge of a French pine forest firebreak in Les Landes, the camera positioned low at ground level facing outward toward an immense wall of dark orange-red sky, the entire horizon consumed by the base of a towering pyrocumulonimbus column bleeding from deep burnt sienna at its roots into sickly charcoal-grey overhead, two French sapeurs-pompiers rendered as pure black silhouettes standing motionless at the raw bulldozed dirt edge of a firebreak, their distinctive yellow Nomex jackets and helmeted profiles recognizable only by outline, one figure with arms hanging loose at their sides, the other with one hand raised slowly to their visor as if shielding eyes from something incomprehensible above, neither looking at the fire in front of them but tilting their gaze sharply upward toward the cloud mass, the skeletal black silhouettes of burned maritime pine trunks framing the left edge of the frame like broken teeth, a single fire hose coiled and abandoned on scorched sandy soil in the foreground catching a sliver of deep red backlight, the entire mid-atmosphere a bruised yellow-green beneath the anvil crown, firelight casting a uniform crimson wash across all surfaces, high contrast, oppressive stillness.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-27.png"
+    "card_image": "doom-card-2026-07-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking steeply upward from cracked pavement outside a Washington D.C. diplomatic supply depot, camera pressed flat against the concrete looking up at towering chain-link fence gates padlocked shut, dark crimson and charcoal palette, firelight-toned security floodlights casting harsh orange pools downward onto the locked entrance, a long queue of civilian cargo trucks idling in the darkness beyond the fence, exhaust plumes rising into a heavy overcast sky, the underside of a massive American flag suspended between two flood-lit poles filling the upper frame and billowing in a cold wind, the fabric rendered in deep burgundy and near-black, a single truck cab visible below with its headlights cutting upward through thick haze, the driver's silhouette slumped motionless against the wheel, shallow puddles on the tarmac reflecting fractured crimson light from above, the distant white columns of a government building barely visible through murk at the vanishing point, oppressive high-contrast shadows dominating the lower three-quarters of the frame, the sealed gate the sole subject \u2014 a second-order symbol of diplomatic collision grinding commerce and movement to a halt.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-28.png"
   },
   "dawn": {
-    "percentage": 58.2,
-    "driver": "CRISPR makes prostate cancer vulnerable to immunotherapy. Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may open new treatment pathways.",
+    "percentage": 58.7,
+    "driver": "Eye implant that restores vision lost to age approved for use. An eye implant and a pair of high-tech glasses that enable people with a severe form of vision loss to read have been approved for use by a European regulator",
     "category": "Medicine",
-    "blurb": "CRISPR TEACHES THE IMMUNE SYSTEM TO FIGHT BACK",
-    "summary": "In a week dominated by drone strikes, oil embargoes, and wildfire evacuations, a quiet but profound breakthrough emerged from the lab: scientists have used CRISPR gene editing to essentially unmask prostate cancer cells, making them visible and vulnerable to the body's own immune system. The results in mice were dramatic, dramatically amplifying immunotherapy's effectiveness against one of the most common cancers in men. This is exactly the kind of slow, patient, collaborative science that compounds over decades \u2014 and the fact that it keeps arriving regardless of what's happening geopolitically is itself a form of hope.",
+    "blurb": "SIGHT RESTORED: REGULATORS APPROVE VISION IMPLANT",
+    "summary": "On a day dominated by earthquakes, wildfires, and colliding wars, European regulators quietly approved a device that gives people their reading vision back \u2014 a genuine, life-changing win. The implant paired with high-tech glasses addresses a form of vision loss that has robbed millions of the simple dignity of reading a book or a message from a loved one. When the headlines feel heaviest, it's worth pausing on the fact that humans are still solving problems that once seemed permanent.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "CRISPR-enhanced immunotherapy represents a genuine convergence of two revolutionary technologies into a single, potentially transformative cancer treatment."
+        "detail": "A European regulator's approval of the vision-restoring eye implant marks the transition from lab promise to real-world deployment for patients with severe age-related vision loss."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "The US-Iran mutual pause in airstrikes \u2014 now holding for a second straight day \u2014 suggests both sides are leaving room for a diplomatic off-ramp from a dangerous conflict."
+        "signal": "glimmer",
+        "detail": "Iran is hosting diplomatic calls with Saudi Arabia and Oman over the Strait of Hormuz, a rare multilateral dialogue channel amid an otherwise escalating regional conflict."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "A father's care team moved a wedding ceremony to a hospital rooftop so he could walk his daughter down the aisle days after a quadruple bypass surgery."
+        "signal": "bright",
+        "detail": "Ukraine's volunteer army \u2014 mostly locals and some foreign visitors \u2014 continues rebuilding homes and infrastructure that Russian strikes destroy, refusing to let destruction have the final word."
       },
       {
         "name": "Environment",
         "signal": "quiet",
-        "detail": "New research confirms that controlled, prescribed burns remain the most effective tool for protecting ancient giant sequoias \u2014 giving conservationists a clear, actionable path forward."
+        "detail": "Georgia's Okefenokee Swamp has been designated a UNESCO World Heritage Site, giving one of North America's most biodiverse wetlands a layer of international protection."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Baltimore is redesigning its 911 system to route non-emergency callers toward social services and healthcare before crises escalate, a model of proactive community care."
+        "detail": "Zoo conservationists rescued 21 critically endangered Madeiran land snails clinging to a remote rock, pulling a species back from the very edge of extinction."
       }
     ],
     "mood": [
-      "breakthrough",
-      "resilience",
-      "ingenuity",
-      "possibility",
-      "persistence"
+      "restorative",
+      "determined",
+      "hopeful",
+      "tenacious",
+      "constructive"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-07-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. A cramped hospital waiting room at midnight, fluorescent strip lighting casting hard gold-green pools across worn linoleum tiles, the rest of the room sunk in deep shadow. A battered plastic chair holds a folded newspaper, front page face-up, the headline story illustrated with a bold diagram \u2014 a glowing molecular lantern sitting atop a dark cell cluster, surrounded by small spiky T-cell shapes swarming inward, rendered in the paper's two-color print style. Beside the newspaper, a smartphone screen blazes with a medical news article, its bright display throwing emerald and amber light upward across the empty seat and nearby wall. A half-drunk vending machine coffee cup sits beside both objects, steam catching the screen's glow in tiny golden wisps. On the wall behind, a health information corkboard is pinned with cancer research leaflets, one catching the fluorescent light, its surface saturated in rich gold. Deep shadows pool in the corners. Everything else is dark, still, waiting.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-27.png"
+    "card_image": "dawn-card-2026-07-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are standing inside a warmly lit rehabilitation room the morning after the approval announcement, looking outward through a wide window toward a sun-drenched garden, rich gold afternoon light pouring in through the glass and pooling across a wooden table in the foreground. The room is still, intimate, aftermath-quiet. On the table, a pair of sleek high-tech glasses with a small camera module at the bridge rests beside an open book, its pages catching the golden light, large printed text visible but unread for now. A single pencil lies diagonally across a sheet of paper on which the curved shell outlines of the Sydney Opera House have been sketched in careful, trembling lines. The window frame divides the composition, outside world vivid in saturated emerald greens, a garden hedge and tree canopy glowing in deep leafy green against the gold sky. On the interior windowsill, a tiny silver-grey object no larger than a pinhead sits on a folded cloth, catching the light like a single pixel of iridescence. The chair at the table is empty, slightly pushed back, as if someone just stood up and walked toward the window. Color palette rich saturated gold and vibrant emerald, warm clinical white walls, long angled morning rays, deep shadow corners, the quiet triumph of an empty room after something irreversible and wonderful has occurred.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-28.png"
   }
 }
