@@ -16664,5 +16664,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick coastal fog rolling in heavy gold-green curtains through a township clinic in sub-Saharan Africa, the atmosphere itself the dominant presence, warm haze softening every edge and turning the afternoon air into something luminous and breathing. We are NOT in the lab \u2014 we are a continent away, in a corrugated-roof community health clinic on the outskirts of a small city, fog pressing against the open doorway and diffusing the saturated emerald and gold light into every corner. Inside the dim waiting room visible through the open door, a young mother sits on a wooden bench holding a sleeping infant against her shoulder, her face turned toward the foggy light outside, expression quietly suspended between exhaustion and something like distant hope. On the wall behind her, a faded illustrated HIV prevention poster, its colors worn to soft amber and teal. Through the clinic's single window a blurred figure in scrubs moves behind frosted glass. Outside, a dirt path disappears into the gold-green fog, a rusted bicycle leaning against the clinic wall, a small eucalyptus tree dissolving into haze above it. Rich gold saturates the fog itself, emerald shadows pool in doorframes and beneath the bench. The fog is thick enough to feel sacred, carrying the weight of forty years of waiting.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-29.png"
     }
+  },
+  {
+    "date": "2026-07-30",
+    "generated_at": "2026-07-30T11:56:24.597661+00:00",
+    "doom": {
+      "percentage": 45.3,
+      "raw_percentage": 46.2,
+      "driver": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes.",
+      "category": "Geopolitics",
+      "blurb": "IRAN PROMISES PUNISHMENT. TODAY. SPECIFICALLY TODAY.",
+      "summary": "The US-Iran exchange has entered its 'you hit me, I'll hit you harder, no YOU hit ME harder' phase, with Iran's Revolutionary Guard scheduling vengeance for sometime before close of business Thursday. Meanwhile Russia casually lobbed a missile into NATO member Poland \u2014 a 10-meter crater's worth of 'whoops' \u2014 while oil climbs past $92 a barrel because markets, like the rest of us, are stress-eating. The multi-front nature of this is less 'escalation' and more 'the calendar is full.'",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active US-Iran exchange, Russia breaching NATO airspace over Poland, Saudi Arabia being dragged in, and maritime chokepoints under simultaneous pressure \u2014 this is a genuinely crowded threat landscape."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Document-borne AI worms self-propagating through Copilot for Word, LLMs found to have a fundamental unfixable security flaw, and Anthropic finding bugs faster than Microsoft can patch them \u2014 a bad week for AI safety infrastructure."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump considering AI controls only after OpenAI hacking incidents suggests reactive rather than proactive governance; the stable door is being examined while the horse files SEC documents."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "New research confirms policy documents do not reliably govern AI agents, which is either an interesting academic finding or a five-alarm warning depending on how many agents you've deployed today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "China threatening retaliation over the US humanoid robot ban adds a technology-trade dimension to an already overstuffed geopolitical docket \u2014 robots are now a casus belli."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "accelerating",
+        "crowded",
+        "volatile",
+        "brinkmanship"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-07-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked smartphone screen lying face-up on a rough concrete floor, the display glowing harsh crimson and white in total darkness, showing a Persian-language news broadcast thumbnail frozen mid-frame: a green-tinted Iranian state television studio graphic with bold Farsi script and a blurred map of the Gulf coastline behind it, the screen's shattered glass catching and fracturing the glow into dark prismatic splinters across the concrete, one corner of the phone lifting slightly where the case is warping from heat, the reflection in the least-damaged section of screen showing the faint orange smear of distant firelight somewhere behind the camera, the surrounding floor swallowed entirely in charcoal shadow with only the phone's backlight bleeding outward in a thin crimson halo, a single cracked fingernail visible at the extreme lower right edge of the frame as if someone just set the phone down and stepped back, dark crimson and charcoal palette, oppressive contrast, firelight reflections in shattered glass, 16-bit SNES style, no text, no antialiasing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-07-30.png"
+    },
+    "dawn": {
+      "percentage": 54.7,
+      "driver": "Quantum computers are starting to become useful as scientific tools. Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
+      "category": "Science",
+      "blurb": "QUANTUM COMPUTERS CRACK PROBLEMS CLASSICAL MACHINES CANNOT",
+      "summary": "Even as missiles fly and oil prices surge past $90, science quietly crosses a threshold that will matter long after this war ends. Quantum computers have now solved three real scientific problems beyond the reach of any conventional machine \u2014 not demonstrations, not benchmarks, but actual research utility. This is the kind of milestone that compounds: every problem cracked this way opens the door to the next, and the breakthroughs most likely to pull humanity through its hardest challenges \u2014 in medicine, materials, climate \u2014 will come faster because of it.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Quantum computers crossing from theoretical curiosity to genuine scientific instrument is a generational inflection point with cascading benefits for drug discovery, clean energy, and materials science."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The UN secretary-general race is actively underway with seven candidates competing, a sign that multilateral institutions remain contested and alive rather than abandoned."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ninety-eight teenagers convened independently to draft AI rules for schools \u2014 civic creativity flourishing precisely where adult institutions have stalled."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "District cooling networks expanding into cities offer a proven, high-efficiency alternative to millions of individual air conditioners, quietly bending the urban heat curve."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A first-of-kind drug for Guillain-Barr\u00e9 syndrome targeting the specific immune pathway that causes it marks a meaningful advance for a condition that has had no targeted therapy \u2014 until now."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "threshold",
+        "momentum",
+        "ingenuity",
+        "resilience"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-07-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The interior of IBM's quantum computing laboratory rendered as a vast cathedral of emerald and gold light, the room itself blazing from behind with rich saturated afternoon-gold radiance pouring through unseen sources, turning everything at the threshold into pure black silhouette. A single enormous quantum computer hangs from the ceiling at center frame, its tiered chandelier shape \u2014 layered cylindrical shells tapering to a point below \u2014 cut as a perfect black silhouette against the blazing emerald-gold glow behind it, cascading copper wiring draping downward like inverted roots, each wire edge catching a razor-thin line of gold. In the foreground, the dark silhouette of a lone researcher stands still, arms at his sides, head tilted upward toward the suspended machine in quiet reverence \u2014 his posture unmistakably one of awe, not urgency. To one side, two more silhouetted figures lean together over a screen, one arm raised mid-gesture, the glowing display behind them pulsing with vivid emerald sine-wave curves rippling outward like water. A thin sharp violet-green laser beam cuts diagonally across the lower frame, striking a small dark crystalline form that blooms with saturated gold light at the point of contact. The entire palette is deep black silhouette against rich gold and vibrant emerald, alive and saturated, the glow feeling warm and electric simultaneously.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-07-30.png"
+    }
   }
 ]
