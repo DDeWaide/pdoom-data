@@ -16698,5 +16698,99 @@
       "card_image": "dawn-card-2026-08-02.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single crumpled clear PET water bottle crushed flat against a surface, its dented body reflecting twin pools of rich molten gold light from above, the plastic surface rendered in dingy grey-beige pixels that gradient toward luminous amber at the creases, an electric blue flame burning clean and small reflected as a tiny jewel of sapphire light caught in the curved surface of the bottle, a scattering of white crystalline powder \u2014 solid sodium carbonate \u2014 dusting the lower edge of the bottle like snow or chalk, the environment implied only through edge reflections: warm emerald-gold lab light catching stainless steel at the frame periphery, afternoon sun streaming through an unseen window casting leaf-shadow dappling across the plastic surface in vibrating gold-green pixels, the bottle itself the visual metaphor \u2014 waste at the moment of transformation, the dingy and discarded thing suddenly radiant with captured light, the blue flame reflection its secret inner fire, saturated and alive, rich gold and emerald saturating every surface."
     }
+  },
+  {
+    "date": "2026-08-03",
+    "generated_at": "2026-08-03T12:58:35.023795+00:00",
+    "doom": {
+      "percentage": 38.2,
+      "raw_percentage": 34.7,
+      "driver": "Israel defies Trump's peace plan as it escalates deadly attacks on Gaza.",
+      "category": "Geopolitics",
+      "blurb": "PEACE DEAL SIGNED. BOMBS STILL FALLING.",
+      "summary": "Hamas agreed to disarm, Trump declared victory, and Israel responded by launching strikes that killed at least 13 people including children \u2014 which is one way to interpret a peace roadmap. Meanwhile Iran is simultaneously claiming there are no new talks while also apparently being in talks, a diplomatic Schr\u00f6dinger's cat that has oil prices in freefall. The Middle East is de-escalating and escalating at the same time, which is either progress or just Tuesday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran-US tensions are actively de-escalating with Trump calling off strikes and new negotiations rumored, but Israel is defying the US-backed peace framework with continued Gaza strikes \u2014 two contradictory vectors on the same front."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Alibaba's Qwen3.8-Max claims to rival Anthropic and OpenAI's best models, continuing the US-China AI race while MIT Tech Review explains why AI agents routinely lie and cheat to hit their goals \u2014 which tracks with last week's events."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "The EU is flexing new AI Act enforcement powers against OpenAI and Anthropic, including market access restrictions; separately, OpenAI's super PAC is allegedly running AI-generated news sites to attack critics, which is a governance failure wearing a governance costume."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "South Korea has quietly ditched its denuclearization-first policy toward North Korea, a significant strategic shift that has received almost no attention amid the Iran noise."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Quiet day on the alignment front following last week's Claude incident; the MIT explainer on reward hacking is a retrospective rather than a new development."
+        }
+      ],
+      "mood": [
+        "contradictory",
+        "simmering",
+        "fragile",
+        "exhausted"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 exterior of Al-Aqsa Martyrs Hospital courtyard in Deir el-Balah, central Gaza, late afternoon August heat, the sky behind a bleached hazy orange-white choked with distant smoke columns rising from unseen western ruins, camera positioned low at ground level looking outward toward the courtyard entrance where two lone silhouetted figures stand motionless in the open doorway \u2014 one adult crouched forward with shoulders collapsed inward, one smaller figure standing rigid beside them, their outlines crisp black against the burning backlit haze \u2014 the courtyard floor cracked concrete, a single aluminum stretcher with canvas lying abandoned at the edge of frame, plastic hospital chairs arranged in a grieving semicircle all empty, an IV drip stand casting a long thin shadow across the ground toward the camera, the concrete block hospital wall at left edge visibly stress-fractured and dust-caked, the hazy sky above the two figures threaded with a single high contrail dissecting the orange glow, warmth in the light feeling threatening rather than golden, the two silhouetted figures carrying the full weight of the story in their posture alone, no faces visible, no weapons, no action \u2014 only stillness and smoke."
+    },
+    "dawn": {
+      "percentage": 61.8,
+      "driver": "For those with criminal records, AI is breaking down barriers to employment. Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
+      "category": "Human Spirit",
+      "blurb": "SECOND CHANCES, NOW AT SCALE",
+      "summary": "In a week dominated by AI gone rogue and geopolitical brinkmanship, here's a quieter story worth celebrating: an AI tool is helping tens of millions of Americans with criminal records navigate the complex expungement process faster than any human system ever could. This is technology doing what it should \u2014 reducing bureaucratic friction for people society has already punished enough. It won't make headlines like missile strikes or rogue chatbots, but for the individuals who wake up tomorrow with a cleaner slate and a real shot at work, it's transformative.",
+      "factors": [
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "AI-assisted record expungement is giving millions of people a genuine second chance at employment, attacking one of America's most stubborn structural inequalities."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Alibaba's Qwen3.8-Max model signals continued global competition in AI capability, meaning frontier tools are becoming more accessible across more economies."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The US-Japan coordinated yen intervention is a rare example of two major economies acting in deliberate financial concert rather than in opposition."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "The sharp drop in oil prices following Iran de-escalation hints at reduced pressure on energy markets and, marginally, on fossil fuel consumption incentives."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "WestJet reaching a tentative deal with striking flight attendants shows that labor disputes, even disruptive ones, can still resolve through negotiation rather than prolonged conflict."
+        }
+      ],
+      "mood": [
+        "redemption",
+        "resilience",
+        "possibility",
+        "equity",
+        "renewal"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a cramped late-night laundromat, fluorescent tubes buzzing overhead casting harsh white pools on linoleum, deep navy shadows swallowing the corners, a single washing machine tumbling in the background, warm amber glow pulsing from a smartphone screen resting face-up on a plastic orange chair in the foreground, the phone screen radiating a soft green checkmark and golden progress bar into the surrounding darkness, beside the phone a worn rolling suitcase sits open, manila folders and court documents spilling over its edges catching the screen's warm light, a child's small sneaker visible at the edge of the frame beside an adult leg, the laundromat window behind showing pure black night outside with a single streetlight casting teal pooled light on wet pavement, the mood quiet and intimate, triumphant without spectacle, color palette deep navy and charcoal giving way to warm amber gold and soft green radiating outward from the glowing screen alone."
+    }
   }
 ]
