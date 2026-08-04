@@ -17148,5 +17148,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a cramped late-night laundromat, fluorescent tubes buzzing overhead casting harsh white pools on linoleum, deep navy shadows swallowing the corners, a single washing machine tumbling in the background, warm amber glow pulsing from a smartphone screen resting face-up on a plastic orange chair in the foreground, the phone screen radiating a soft green checkmark and golden progress bar into the surrounding darkness, beside the phone a worn rolling suitcase sits open, manila folders and court documents spilling over its edges catching the screen's warm light, a child's small sneaker visible at the edge of the frame beside an adult leg, the laundromat window behind showing pure black night outside with a single streetlight casting teal pooled light on wet pavement, the mood quiet and intimate, triumphant without spectacle, color palette deep navy and charcoal giving way to warm amber gold and soft green radiating outward from the glowing screen alone.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-03.png"
     }
+  },
+  {
+    "date": "2026-08-04",
+    "generated_at": "2026-08-04T12:05:22.930579+00:00",
+    "doom": {
+      "percentage": 37.9,
+      "raw_percentage": 34.7,
+      "driver": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
+      "category": "Geopolitics",
+      "blurb": "WORLD'S OIL VALVE MAYBE REOPENS, POSSIBLY, WE'LL SEE",
+      "summary": "The Iran war's chokehold on global oil supply may be loosening \u2014 Bessent is dangling a Strait of Hormuz deal by Wednesday, while Trump simultaneously calls this Iran's 'last chance,' which he has said approximately eleven times now. Meanwhile Ukraine is striking Russian retail warehouses (Wildberries, apparently the Amazon of doom), and Italy has suspended free movement with Spain over the Ceuta migrant crisis, suggesting Schengen is held together with vibes and paperwork. The overall picture: active de-escalation attempts in one theater, new escalations sprouting in others.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Hormuz deal possible but unconfirmed; Trump's 'last chance' rhetoric is now a recurring motif that markets and analysts are learning to discount \u2014 but can't entirely ignore."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI's Astra model cracks 10 longstanding math problems and a Fields medalist quits pure math to work on AI safety \u2014 the capability frontier is moving, and the smart people are noticing."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Italy suspending Schengen free movement with Spain, EU emergency ministers meeting over Ceuta \u2014 European institutional cohesion under visible stress but not collapse."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "US-developed AI now guiding 50,000 autonomous kamikaze drones in Ukraine \u2014 autonomous lethal targeting at scale, deployed in an active war zone, is precisely the alignment stress-test nobody wanted to run first."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Scientists detect a sharp acceleration in global warming at 0.35\u00b0C per decade after removing natural variability \u2014 the background threat quietly worsening while everyone watches the Strait of Hormuz."
+        }
+      ],
+      "mood": [
+        "tentative",
+        "fractious",
+        "precarious",
+        "watchful"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked asphalt looking steeply upward, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 a gas station forecourt in a port city, camera positioned at pavement level beneath an enormous empty fuel price sign, its backlit display dark and dead, the towering steel canopy overhead framing a sickly copper-haze sky above the Persian Gulf coast, the horizon behind visible through the station's open sides bleeding into a pale amber smear of heat and dust \u2014 four pump islands standing idle with handwritten OUT OF SERVICE notices fluttering, rubber hoses dangling slack \u2014 a long queue of tanker trucks stretching back into the distance, their massive cylindrical bodies rust-streaked and waiting, exhaust stacks cold and unlit \u2014 a cluster of dock workers in hard hats standing in a loose knot staring upward at a mounted television screen mounted high on the canopy support column, the screen's glow the only warm light source casting orange-yellow on their upturned faces \u2014 beyond the station fence a supertanker VLCC sits motionless at anchorage visible through a chain-link fence, riding high and unladen in glassy mirror-flat water, its vast red-below-waterline hull fully exposed, going nowhere \u2014 a single flare stack on the distant Iranian shoreline burning a thin orange tongue into the washed-out sky.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-04.png"
+    },
+    "dawn": {
+      "percentage": 62.1,
+      "driver": "Wind and solar overtake fossil fuels in Germany for the first time.",
+      "category": "Environment",
+      "blurb": "GERMANY CROSSES THE CLEAN ENERGY THRESHOLD",
+      "summary": "For the first time in history, wind and solar have generated more electricity in Germany than fossil fuels \u2014 a milestone that once seemed decades away. This is the kind of structural, irreversible shift that matters: not a good quarter, not a policy pledge, but actual electrons on the grid proving the transition is real. Even as geopolitical tensions keep oil profits soaring and the Iran war distorts global energy markets, the clean energy curve keeps bending toward permanence.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Germany, a major industrial economy heavily dependent on fossil fuels just years ago, has crossed a historic threshold where renewables now supply the majority of its electricity."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New Science Daily research identifies a molecular switch behind age-related brain disease, and two new compounds targeting hidden Alzheimer's drivers show early promise."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Rwanda's drone healthcare network is receiving continued US grant support, keeping a world-leading medical delivery system alive despite broader aid cuts."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Eighty-three neighbors in Alabama brought Halloween to a boy with autism on his birthday, a small but luminous act of community showing ordinary people choose kindness."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "OpenAI's Astra model has cracked ten longstanding unsolved mathematics problems, suggesting AI's potential as a genuine scientific collaborator is arriving faster than expected."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "momentum",
+        "resilience",
+        "transformation",
+        "possibility"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are sitting inside the glass-walled control room of a German grid monitoring station the morning after the historic threshold was crossed, looking outward through a wide panoramic window that frames the flat Schleswig-Holstein plain beyond. The room itself is dim and quiet in the early dawn, abandoned coffee cups and a half-eaten pretzel on the console edge, the glow of monitoring screens still casting amber and teal light across empty swivel chairs. Through the enormous window, the outside world is bathed in deep golden-hour amber \u2014 long raking shadows stretch across a wind-swept grass field where a row of tall white three-bladed turbines stand in the distance, their blades catching the first sideways light and glowing almost luminous against a deep cool teal sky. A large ground-mounted solar array fills the middle ground, its midnight-blue panels angled to catch the low morning rays, each panel edged in warm gold reflection. Far in the background, barely visible, the cold dark smokestacks of an old coal plant stand silent with no plume rising, receding into the teal distance. The window glass catches a faint reflection of the empty monitoring station interior, layering the glowing screens over the triumphant landscape beyond. Radiant side-lighting, long shadows, warm amber and deep teal palette throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-04.png"
+    }
   }
 ]
