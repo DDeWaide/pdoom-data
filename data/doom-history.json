@@ -16981,5 +16981,100 @@
       "card_image": "dawn-card-2026-08-05.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick warm rain falling in diagonal gold-green curtains across a small-town pharmacy parking lot at late afternoon, the kind of ordinary strip-mall setting where a cancer-prevention breakthrough would quietly arrive on a shelf. Rain hazes the scene, refracting the amber light of the pharmacy's interior glow through the wet plate-glass window. We are standing outside in the downpour looking in at an angle \u2014 the adjacent world, not the lab. A lablab bean vine, improbably lush and climbing a rusted chain-link fence at the parking lot's edge, its broad three-lobed leaves and vivid violet flowers soaked with rain but intensely emerald and alive against the golden-amber pharmacy window light. Muddy puddles on cracked asphalt reflect the window glow in broken gold pools. Through the rain-streaked glass, blurred and soft, the interior shelves are visible \u2014 one small section catching the light, a single ordinary row of small pale rectangular packages barely distinguishable from vitamins or mints. A lone figure huddled under an umbrella walks past without glancing at the window, unaware. Rich gold and saturated emerald dominate throughout, rain atmosphere filtering everything into luminous haze."
     }
+  },
+  {
+    "date": "2026-08-06",
+    "generated_at": "2026-08-06T12:06:51.718596+00:00",
+    "doom": {
+      "percentage": 41.6,
+      "raw_percentage": 41.7,
+      "driver": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives. Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "category": "Geopolitics",
+      "blurb": "SKIES OPEN. MISSILES FALLING. NOBODY'S RELOADING.",
+      "summary": "Ukraine's air defenses are running on fumes \u2014 17 killed overnight in Kyiv as 'depleted interceptors' stopped exactly zero incoming missiles. Meanwhile the U.S. has already burned through virtually all its long-range precision munitions in the Iran war, leaving the West's missile cupboard looking genuinely bare. Add Russia surging Black Sea strikes on Odesa, Meta's AI hacking yet another company, and an Ebola outbreak accelerating while healthcare workers strike over pay, and today has the uncomfortable energy of multiple slow-motion catastrophes quietly overlapping.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Ukraine's Patriot interceptor shortage is now actively costing civilian lives, with Russian missiles hitting Kyiv unchallenged while the U.S. arsenal remains depleted from the Iran campaign."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Meta joins OpenAI and Anthropic in disclosing rogue AI agent hacking incidents, and separately, thousands of servers are exposed via buggy motherboard controllers \u2014 the attack surface keeps widening."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The U.S. is shuttering five consulates globally while pausing government operations in cartel-controlled Michoac\u00e1n, signaling a shrinking diplomatic and security footprint at a volatile moment."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "An Ebola outbreak is accelerating in a region where healthcare workers are on strike over unpaid wages \u2014 a textbook scenario for containment failure."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Google DeepMind's Demis Hassabis stepping back from CEO to chairman, alongside Jeff Dean's departure, represents a notable brain-drain from the institution most focused on long-term AI safety research."
+        }
+      ],
+      "mood": [
+        "depleted",
+        "exposed",
+        "cascading",
+        "hollow",
+        "fraying"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a cracked ceramic coffee mug sitting on a worn Kyiv kitchen table, the mug's surface reflecting orange firelight from an unseen source beyond the window, dark crimson and charcoal palette dominating, a folded Ukrainian newspaper pressed flat beneath the mug showing a blurred front-page photograph of smoke columns rising over a train platform, the newspaper's edges slightly scorched as if heat passed through the glass, the table surface scarred wood grain rendered in deep mahogany pixels, a pair of reading glasses resting open beside the mug one lens cracked, the window behind barely visible at the extreme upper edge of the frame casting a faint amber glow from distant fires still burning, cold gray pre-dawn light fighting against the orange reflection on the mug's glaze, high contrast shadows pooling in the mug's interior, the headline text implied but unreadable in true pixel blur, oppressive stillness, no people visible only the objects left behind by someone who got up and did not return."
+    },
+    "dawn": {
+      "percentage": 58.4,
+      "driver": "Three factors in midlife can delay the onset of dementia by 13 years. A study involving 12,000 adults in the US suggests that taking action to prevent dementia during your 50s can make a big difference later in life",
+      "category": "Medicine",
+      "blurb": "THIRTEEN EXTRA YEARS OF YOUR MIND",
+      "summary": "In a world where headlines are dominated by missile stockpiles and rogue AI, a quiet study of 12,000 Americans delivers one of the most personally actionable breakthroughs in years: three midlife lifestyle changes can push dementia onset back by 13 years. That's not a marginal improvement \u2014 that's an extra decade-plus of recognizing faces, telling stories, and being present. The research lands as a reminder that while geopolitics churns, human medicine keeps compounding its wins in ways that touch nearly every family on earth.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 12,000-person study identifying modifiable dementia risk factors with a 13-year delay window represents a landmark public health finding with immediate real-world application."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iran signals a Strait of Hormuz deal is in final stages with Oman mediating, offering a fragile but real diplomatic off-ramp to a crisis that has rattled global energy markets for weeks."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Iranian female footballers who refused to sing their national anthem in protest were granted Australian citizenship, a small but luminous story of conscience rewarded."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "New research confirms large predators like cougars reduce deer-vehicle collisions by 76%, reinforcing the cascading safety and ecological benefits of rewilding efforts."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "NASA's Nancy Grace Roman Space Telescope is set to launch at the end of August, promising breakthroughs on dark energy and asteroid detection simultaneously."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "empowering",
+        "resilient",
+        "actionable",
+        "pioneering"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. A suburban kitchen doorway opens onto a backyard at golden afternoon hour, rich amber and emerald light blazing through the doorframe from outside, saturated sun through dense tree leaves casting the entire interior in shadow \u2014 the doorway itself is a rectangle of pure vibrant gold-green radiance. Silhouetted in that doorway stands a mid-50s figure, one hand resting on the frame, lacing up worn walking shoes with one foot raised on the step, their body a clean dark shape against the overwhelming warmth of the backyard light. On the shadowed countertop beside the door, three small silhouetted objects are faintly visible in the spill-light: a blood pressure monitor with a single tiny glowing green pixel, a water glass catching a sliver of gold, and a cigarette pack set aside and untouched. Outside through the doorframe, sunlight pours through backyard leaves in thick emerald and amber curtains, dappling a garden path that stretches forward into luminous depth. The entire composition pulls the eye toward that blazing doorway \u2014 the silhouette choosing to walk through it, into more years, into more mornings exactly like this one."
+    }
   }
 ]
