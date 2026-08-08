@@ -1,97 +1,96 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T10:58:12.040169+00:00",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T10:39:26.276305+00:00",
   "doom": {
-    "percentage": 39.7,
-    "raw_percentage": 38.7,
-    "driver": "AI used to create viruses not found in nature for first time. US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.",
-    "category": "Biotech",
-    "blurb": "AI INVENTS VIRUSES NATURE NEVER THOUGHT TO TRY",
-    "summary": "US researchers have used AI to design 16 entirely novel viruses \u2014 ones evolution never got around to making \u2014 which is either a thrilling medical breakthrough or a dress rehearsal for something much worse, depending on your disposition. Meanwhile the Ebola outbreak in DRC is now past 4,000 cases with officials worrying the virus may be mutating, suggesting nature is also workshopping new content. On the geopolitical front, Iran is drafting legislation to toll the Strait of Hormuz like a turnpike, US missile stockpiles are 'extremely low,' and Germany's airports are apparently now drone-bomb targets \u2014 so it's a full-spectrum kind of Friday.",
+    "percentage": 39.4,
+    "raw_percentage": 38.6,
+    "driver": "Saudi Arabia, Turkey and Pakistan sign defence pact. Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "category": "Geopolitics",
+    "blurb": "NEW AXIS FORMS WHILE MIDDLE EAST STILL SMOLDERS",
+    "summary": "Saudi Arabia, Turkey, and Pakistan \u2014 three countries with nuclear adjacency, NATO membership, and their own complicated histories \u2014 just signed a mutual defense pact while the region is actively on fire. A trilateral 'touch one of us and catch these hands' agreement mid-conflict is the geopolitical equivalent of pouring accelerant near an open flame and calling it fire safety. Meanwhile, Ukraine keeps taking missile hits as its interceptor stocks run dry, and OpenAI quietly shelved a model it decided was too powerful to release \u2014 two sentences that absolutely belong in the same paragraph.",
     "factors": [
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "AI-designed novel viruses represent a meaningful dual-use capability threshold being crossed for the first time \u2014 beneficial intent noted, catastrophic misuse potential also noted."
-      },
-      {
-        "name": "Biotech",
-        "signal": "elevated",
-        "detail": "Ebola outbreak in DRC surpasses 4,000 cases with officials warning the virus may be mutating, raising containment concerns in an already strained region."
-      },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran's parliament reviewing legislation to ban US and Israeli ships from the Strait of Hormuz and charge tolls to others, while US missile stockpiles remain critically depleted post-Iran war."
+        "detail": "A new Saudi-Turkey-Pakistan mutual defense pact emerges mid-conflict, creating fresh alliance entanglement risk in an already volatile Middle East."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "OpenAI paused internal work on a model called Astra because it didn't meet new security standards \u2014 which means it exists, it's powerful, and it scared its own creators."
       },
       {
         "name": "Governance",
+        "signal": "elevated",
+        "detail": "Trump's personal lawyer confirmed as Attorney General in a razor-thin vote, raising rule-of-law concerns; separately, the White House is reportedly drafting an executive order linking vaccines to autism."
+      },
+      {
+        "name": "Alignment",
         "signal": "medium",
-        "detail": "Explosive drone found at German airport with suspected Russian-linked proxy involvement signals hybrid warfare creeping into Western civilian infrastructure."
+        "detail": "ByteDance is training a 10-trillion-parameter model to rival Anthropic, accelerating the capability race with no corresponding safety governance news."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Europe's power grid is buckling under record heat and nuclear shutdowns simultaneously, a compounding infrastructure stress that rarely ends tidily."
+        "detail": "The U.S. economy unexpectedly shed 23,000 jobs in July against a projected gain of 83,000 \u2014 a sudden reversal that adds domestic instability to an already strained geopolitical picture."
       }
     ],
     "mood": [
+      "entangled",
       "volatile",
-      "proliferating",
-      "unsettled",
-      "dual-use",
-      "cascading"
+      "accelerating",
+      "precarious"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-07.png",
-    "dalle_prompt": null,
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-07.png"
+    "card_image": "doom-card-2026-08-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a sparse Karachi apartment looking outward through a cracked window streaked with dust, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 the view through the glass frames a dense urban roofscape of flat concrete terraces and satellite dishes silhouetted against a bruised amber sky, a single green Pakistani flag hanging limp from an iron balcony railing in the middle distance, the apartment interior visible in foreground periphery: a low wooden table with a small transistor radio glowing orange, a glass of tea going cold, a folded newspaper face-down, the window frame itself paint-peeling and iron-barred, beyond the rooftops the faintest suggestion of distant cargo ships on a dark Karachi harbour sliver at the horizon's edge, the whole scene lit as though the city outside is holding its breath, warm light feeling threatening rather than comforting, shadows pooling in every corner of the room.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-08.png"
   },
   "dawn": {
-    "percentage": 60.3,
-    "driver": "Nigerian security forces free more than 300 hostages in 'largest single-day recovery'. President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region",
+    "percentage": 60.6,
+    "driver": "The Women's Professional Baseball League makes its historic debut. The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women's Pro Baseball League kicks off its inaugural season.",
     "category": "Human Spirit",
-    "blurb": "300 SOULS FREED IN ONE EXTRAORDINARY DAY",
-    "summary": "In a world where the headlines are thick with conflict and shortage, Nigerian security forces pulled off something remarkable: the largest single-day hostage rescue in the country's history, freeing more than 300 people from dense forest captivity in one coordinated operation. That's 300 families reunited, 300 people who woke up imprisoned and went to sleep free. Against a backdrop of missile stockpile warnings and school shootings, this is a reminder that organized, purposeful human action can still deliver justice at scale \u2014 and that ordinary people in extraordinary peril are sometimes, gloriously, brought home.",
+    "blurb": "WOMEN TAKE THE FIELD. HISTORY TAKES NOTE.",
+    "summary": "At a moment when headlines are dominated by missile shortages, diplomatic rows, and economic contraction, four women's professional baseball teams just made history by simply showing up and playing ball. The inaugural Women's Professional Baseball League season represents decades of persistence by athletes told the sport wasn't for them \u2014 now it finally, undeniably is. This is the kind of quiet, structural progress that outlasts news cycles: institutions built, barriers broken, and little girls suddenly able to picture themselves as pros.",
     "factors": [
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "Nigerian forces executing the largest single-day hostage rescue on record demonstrates extraordinary collective courage and operational determination."
+        "detail": "The Women's Pro Baseball League's inaugural season is the culmination of generations of athletes fighting for recognition in America's pastime."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "The coordinated rescue across dense national park terrain required multi-agency planning and execution \u2014 a model for what organized institutions can achieve."
+        "detail": "Mexico and Peru restored diplomatic relations after a prolonged asylum dispute, demonstrating that even broken ties between nations can be repaired."
       },
       {
         "name": "Science",
         "signal": "glimmer",
-        "detail": "DeepMind's AI model now gives an extra day of warning before deadly cyclones, a quiet but potentially life-saving advance in climate resilience."
+        "detail": "A postbiotic supplement showed promise in boosting the body's own GLP-1 production, potentially offering a cheaper, more accessible path to weight-loss treatment."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Sri Lanka's Hurulu Eco Park is highlighted as a functioning haven where elephants can graze freely amid rising human-wildlife conflict elsewhere."
+        "signal": "bright",
+        "detail": "Europe's Copernicus satellite service expanded its free wildfire visualization tools, giving communities faster, clearer data to respond to a record fire season."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "An Asian country has become the first in the region to hit the UN's 95/95/95 HIV diagnosis and treatment target, a quiet milestone toward the 2030 elimination goal."
+        "signal": "glimmer",
+        "detail": "A kidnapped rare Serbian eagle named Feliks, stolen by poachers and held for ransom in the Middle East, was freed and released back into the wild."
       }
     ],
     "mood": [
-      "liberation",
-      "resilience",
-      "courage",
-      "solidarity",
-      "breakthrough"
+      "historic",
+      "resilient",
+      "pioneering",
+      "hopeful",
+      "determined"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-07.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against Nigerian red-orange laterite earth, gazing up at the underside of a dense forest canopy at the treeline edge where it breaks open to open sky \u2014 thick tropical hardwood trunks rise like columns on either side, their bark rough and dark, branches spreading overhead, but at the center the canopy splits apart and opens to a vast amber-gold sky burning with late afternoon light, god rays pouring straight down in shafts. In the foreground at ground level, we see the bare feet and sandaled feet of a woman, she has dropped to her knees on the dusty earth, her arms wrapped around a small child whose feet dangle, the child's toes just grazing the orange ground, both figures silhouetted from below against the blazing sky \u2014 the woman's head bowed over the child's shoulder. The forest darkness presses in on the edges of the frame in deep green-black shadow but the center is pure radiant amber and warm teal sky. A distant glint of silver-blue water \u2014 Kainji Lake \u2014 visible through the gap in the trees far above. Long shadows stretch across the red earth. Deep golden hour amber and warm teal palette, side-lit, radiant.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-07.png"
+    "card_image": "dawn-card-2026-08-08.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling suburban sporting goods store parking lot at golden amber dusk, the lot packed wall-to-wall with cars, long queues of tiny figures snaking out the entrance doors and wrapping around the building's exterior \u2014 a second-order surge of demand triggered by a historic debut. The store's facade glows with warm teal interior light spilling through plate glass windows. Display racks visible through the glass are picked clean, empty shelves where baseball gloves and mitts once hung. A hand-lettered cardboard sign taped inside the window reads nothing \u2014 no text \u2014 but tiny figures outside press faces to the glass. Children clutch parents' hands in the queue, small silhouettes holding mitt-shaped outlines. A nearby strip mall marquee sign is dark. Long amber shadows stretch diagonally across the asphalt from lampposts, the wet pavement reflecting deep gold and teal pools of light. A few shopping carts sit abandoned mid-lot, tiny lone figures beside them. The mood is radiant, restless, electric \u2014 a world that just changed, caught in the moment of reaching for proof.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-08.png"
   }
 }
