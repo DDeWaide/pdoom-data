@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T10:39:26.276305+00:00",
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T10:40:38.881358+00:00",
   "doom": {
-    "percentage": 39.4,
-    "raw_percentage": 38.6,
-    "driver": "Saudi Arabia, Turkey and Pakistan sign defence pact. Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+    "percentage": 36.9,
+    "raw_percentage": 34.7,
+    "driver": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike.",
     "category": "Geopolitics",
-    "blurb": "NEW AXIS FORMS WHILE MIDDLE EAST STILL SMOLDERS",
-    "summary": "Saudi Arabia, Turkey, and Pakistan \u2014 three countries with nuclear adjacency, NATO membership, and their own complicated histories \u2014 just signed a mutual defense pact while the region is actively on fire. A trilateral 'touch one of us and catch these hands' agreement mid-conflict is the geopolitical equivalent of pouring accelerant near an open flame and calling it fire safety. Meanwhile, Ukraine keeps taking missile hits as its interceptor stocks run dry, and OpenAI quietly shelved a model it decided was too powerful to release \u2014 two sentences that absolutely belong in the same paragraph.",
+    "blurb": "DEAL STILL A MIRAGE, MISSILES STILL FLYING",
+    "summary": "That 'breakthrough' Bessent was teasing earlier this week? Iran just responded by adding more conditions and letting the Houthis take a shot at an Aramco facility for good measure. The Strait remains closed, tanker crews remain in limbo, and the diplomacy is moving at the speed of a fully-laden VLCC sailing through a minefield. Meanwhile Saudi Arabia says the Aramco fire is out, which is the geopolitical equivalent of 'everything's fine' while the building is still smoldering.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "A new Saudi-Turkey-Pakistan mutual defense pact emerges mid-conflict, creating fresh alliance entanglement risk in an already volatile Middle East."
-      },
-      {
-        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "OpenAI paused internal work on a model called Astra because it didn't meet new security standards \u2014 which means it exists, it's powerful, and it scared its own creators."
+        "detail": "Hormuz talks dragging with Iran adding new conditions, a UAE ship targeted, and Houthis striking Aramco \u2014 de-escalation is not happening on schedule."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump's personal lawyer confirmed as Attorney General in a razor-thin vote, raising rule-of-law concerns; separately, the White House is reportedly drafting an executive order linking vaccines to autism."
+        "signal": "medium",
+        "detail": "Todd Blanche confirmed as US Attorney General despite Republican dissent, raising questions about the independence of federal law enforcement."
       },
       {
-        "name": "Alignment",
+        "name": "AI Capability",
         "signal": "medium",
-        "detail": "ByteDance is training a 10-trillion-parameter model to rival Anthropic, accelerating the capability race with no corresponding safety governance news."
+        "detail": "OpenAI accidentally attacked Hugging Face in a cyber incident \u2014 AI systems are increasingly capable of causing collateral damage even unintentionally."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "The U.S. economy unexpectedly shed 23,000 jobs in July against a projected gain of 83,000 \u2014 a sudden reversal that adds domestic instability to an already strained geopolitical picture."
+        "signal": "low",
+        "detail": "Hardware backdoors discovered in some x86 CPUs \u2014 a quiet but deeply unsettling finding that could have supply-chain security implications at scale."
+      },
+      {
+        "name": "Alignment",
+        "signal": "low",
+        "detail": "AI barons pledging philanthropic fortunes is either encouraging or a distraction from the systems they're building \u2014 probably both."
       }
     ],
     "mood": [
-      "entangled",
-      "volatile",
-      "accelerating",
-      "precarious"
+      "stalled",
+      "simmering",
+      "tense",
+      "murky"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a sparse Karachi apartment looking outward through a cracked window streaked with dust, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 the view through the glass frames a dense urban roofscape of flat concrete terraces and satellite dishes silhouetted against a bruised amber sky, a single green Pakistani flag hanging limp from an iron balcony railing in the middle distance, the apartment interior visible in foreground periphery: a low wooden table with a small transistor radio glowing orange, a glass of tea going cold, a folded newspaper face-down, the window frame itself paint-peeling and iron-barred, beyond the rooftops the faintest suggestion of distant cargo ships on a dark Karachi harbour sliver at the horizon's edge, the whole scene lit as though the city outside is holding its breath, warm light feeling threatening rather than comforting, shadows pooling in every corner of the room.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-08.png"
+    "card_image": "doom-card-2026-08-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick petrochemical haze and salt fog rolls across the Strait of Hormuz at midday, the brutal Gulf summer sun reduced to a smoldering orange smear behind curtains of grey-brown atmospheric murk, deep navy water below churning with heat shimmer and mist, the narrow chokepoint geography visible as two dark coastlines \u2014 rocky brown Iranian cliffs to the north, flat sandy UAE shore to the south \u2014 pressing in from both edges of the frame, the strait itself clogged with dozens of anchored supertankers rendered as dense silhouettes of dark red and black hull shapes barely visible through the haze, a massive VLCC in the foreground showing a blackened jagged wound low on its maroon hull with dark smoke wisping upward and dissolving into the fog, the Iranian coastline to the north hinting at angular concrete emplacements half-swallowed by atmospheric murk, the entire scene color-graded in deep navy and smoldering orange, smoke-filtered light casting no clean shadows, warmth feeling threatening, the fog itself the dominant presence swallowing the world's most critical shipping lane into an ominous amber-grey void.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-09.png"
   },
   "dawn": {
-    "percentage": 60.6,
-    "driver": "The Women's Professional Baseball League makes its historic debut. The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women's Pro Baseball League kicks off its inaugural season.",
-    "category": "Human Spirit",
-    "blurb": "WOMEN TAKE THE FIELD. HISTORY TAKES NOTE.",
-    "summary": "At a moment when headlines are dominated by missile shortages, diplomatic rows, and economic contraction, four women's professional baseball teams just made history by simply showing up and playing ball. The inaugural Women's Professional Baseball League season represents decades of persistence by athletes told the sport wasn't for them \u2014 now it finally, undeniably is. This is the kind of quiet, structural progress that outlasts news cycles: institutions built, barriers broken, and little girls suddenly able to picture themselves as pros.",
+    "percentage": 63.1,
+    "driver": "Sunlight creates quantum entanglement once thought to require lasers. Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produ",
+    "category": "Science",
+    "blurb": "THE SUN ITSELF NOW POWERS QUANTUM TECHNOLOGY",
+    "summary": "In a week where the news has been heavy with missile shortages, new defence pacts, and geopolitical standoffs, scientists quietly pulled off something remarkable: generating quantum entanglement using ordinary sunlight rather than energy-hungry lasers. This isn't incremental progress \u2014 it's a fundamental rethink of how quantum technology can be powered, potentially making it vastly more accessible and sustainable. When the sun can do the work of a precision laser, the future of quantum computing just got a little warmer and a lot more democratic.",
     "factors": [
       {
-        "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "The Women's Pro Baseball League's inaugural season is the culmination of generations of athletes fighting for recognition in America's pastime."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Mexico and Peru restored diplomatic relations after a prolonged asylum dispute, demonstrating that even broken ties between nations can be repaired."
-      },
-      {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "A postbiotic supplement showed promise in boosting the body's own GLP-1 production, potentially offering a cheaper, more accessible path to weight-loss treatment."
+        "signal": "blazing",
+        "detail": "Generating quantum entanglement from sunlight outdoors overturns a core assumption of quantum technology and opens the door to low-energy, scalable quantum systems."
       },
       {
         "name": "Environment",
         "signal": "bright",
-        "detail": "Europe's Copernicus satellite service expanded its free wildfire visualization tools, giving communities faster, clearer data to respond to a record fire season."
+        "detail": "Replacing power-intensive lasers with sunlight for quantum processes could significantly reduce the energy footprint of next-generation computing infrastructure."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Iran's President Pezeshkian publicly called for an end to deadlock with the US, signalling that at least one side sees this moment as ripe for a lasting agreement."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "The Perseverance rover's autonomous driving record \u2014 90% of its Martian distance covered without human input \u2014 reflects decades of engineering ambition finally paying off on another world."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "A kidnapped rare Serbian eagle named Feliks, stolen by poachers and held for ransom in the Middle East, was freed and released back into the wild."
+        "detail": "A new wearable ultrasound patch was shown to boost REM sleep by 43 minutes without drugs or surgery, offering a drug-free path to better mental and physical recovery for millions."
       }
     ],
     "mood": [
-      "historic",
-      "resilient",
-      "pioneering",
-      "hopeful",
-      "determined"
+      "breakthrough",
+      "luminous",
+      "possibility",
+      "accessible",
+      "wonder"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-08.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling suburban sporting goods store parking lot at golden amber dusk, the lot packed wall-to-wall with cars, long queues of tiny figures snaking out the entrance doors and wrapping around the building's exterior \u2014 a second-order surge of demand triggered by a historic debut. The store's facade glows with warm teal interior light spilling through plate glass windows. Display racks visible through the glass are picked clean, empty shelves where baseball gloves and mitts once hung. A hand-lettered cardboard sign taped inside the window reads nothing \u2014 no text \u2014 but tiny figures outside press faces to the glass. Children clutch parents' hands in the queue, small silhouettes holding mitt-shaped outlines. A nearby strip mall marquee sign is dark. Long amber shadows stretch diagonally across the asphalt from lampposts, the wet pavement reflecting deep gold and teal pools of light. A few shopping carts sit abandoned mid-lot, tiny lone figures beside them. The mood is radiant, restless, electric \u2014 a world that just changed, caught in the moment of reaching for proof.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-08.png"
+    "card_image": "dawn-card-2026-08-09.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small glass prism resting on a sun-warmed surface, its interior blazing with captured golden amber light, deep warm teal shadows pooling at its base edges. From within the prism's core, two identical golden-white motes of light drift apart in opposite directions simultaneously, connected by a hair-thin luminous thread, the entangled pair made visible as a symbolic metaphor for something that cannot be separated. The prism's facets throw fractured rainbow slivers across the frame edges, hinting at an open-sky outdoor world beyond. The glass itself glows from within, overwhelmed by sunlight rather than any artificial source, warm amber saturating every surface. Long raking side-light cuts across the prism's geometry, casting a crisp cold teal shadow to the left while the right face burns molten gold. The twin light-motes float symmetrically outward from the same point of origin, mirror images, indistinguishable, impossibly linked \u2014 the entire image a meditation on hidden connection born from abundance.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-09.png"
   }
 }

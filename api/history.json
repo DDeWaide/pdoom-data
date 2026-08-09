@@ -17631,5 +17631,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast landscape dominates, tiny figures below. A sprawling suburban sporting goods store parking lot at golden amber dusk, the lot packed wall-to-wall with cars, long queues of tiny figures snaking out the entrance doors and wrapping around the building's exterior \u2014 a second-order surge of demand triggered by a historic debut. The store's facade glows with warm teal interior light spilling through plate glass windows. Display racks visible through the glass are picked clean, empty shelves where baseball gloves and mitts once hung. A hand-lettered cardboard sign taped inside the window reads nothing \u2014 no text \u2014 but tiny figures outside press faces to the glass. Children clutch parents' hands in the queue, small silhouettes holding mitt-shaped outlines. A nearby strip mall marquee sign is dark. Long amber shadows stretch diagonally across the asphalt from lampposts, the wet pavement reflecting deep gold and teal pools of light. A few shopping carts sit abandoned mid-lot, tiny lone figures beside them. The mood is radiant, restless, electric \u2014 a world that just changed, caught in the moment of reaching for proof.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-08.png"
     }
+  },
+  {
+    "date": "2026-08-09",
+    "generated_at": "2026-08-09T10:40:38.881358+00:00",
+    "doom": {
+      "percentage": 36.9,
+      "raw_percentage": 34.7,
+      "driver": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike.",
+      "category": "Geopolitics",
+      "blurb": "DEAL STILL A MIRAGE, MISSILES STILL FLYING",
+      "summary": "That 'breakthrough' Bessent was teasing earlier this week? Iran just responded by adding more conditions and letting the Houthis take a shot at an Aramco facility for good measure. The Strait remains closed, tanker crews remain in limbo, and the diplomacy is moving at the speed of a fully-laden VLCC sailing through a minefield. Meanwhile Saudi Arabia says the Aramco fire is out, which is the geopolitical equivalent of 'everything's fine' while the building is still smoldering.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Hormuz talks dragging with Iran adding new conditions, a UAE ship targeted, and Houthis striking Aramco \u2014 de-escalation is not happening on schedule."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Todd Blanche confirmed as US Attorney General despite Republican dissent, raising questions about the independence of federal law enforcement."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI accidentally attacked Hugging Face in a cyber incident \u2014 AI systems are increasingly capable of causing collateral damage even unintentionally."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Hardware backdoors discovered in some x86 CPUs \u2014 a quiet but deeply unsettling finding that could have supply-chain security implications at scale."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "AI barons pledging philanthropic fortunes is either encouraging or a distraction from the systems they're building \u2014 probably both."
+        }
+      ],
+      "mood": [
+        "stalled",
+        "simmering",
+        "tense",
+        "murky"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick petrochemical haze and salt fog rolls across the Strait of Hormuz at midday, the brutal Gulf summer sun reduced to a smoldering orange smear behind curtains of grey-brown atmospheric murk, deep navy water below churning with heat shimmer and mist, the narrow chokepoint geography visible as two dark coastlines \u2014 rocky brown Iranian cliffs to the north, flat sandy UAE shore to the south \u2014 pressing in from both edges of the frame, the strait itself clogged with dozens of anchored supertankers rendered as dense silhouettes of dark red and black hull shapes barely visible through the haze, a massive VLCC in the foreground showing a blackened jagged wound low on its maroon hull with dark smoke wisping upward and dissolving into the fog, the Iranian coastline to the north hinting at angular concrete emplacements half-swallowed by atmospheric murk, the entire scene color-graded in deep navy and smoldering orange, smoke-filtered light casting no clean shadows, warmth feeling threatening, the fog itself the dominant presence swallowing the world's most critical shipping lane into an ominous amber-grey void.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-09.png"
+    },
+    "dawn": {
+      "percentage": 63.1,
+      "driver": "Sunlight creates quantum entanglement once thought to require lasers. Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produ",
+      "category": "Science",
+      "blurb": "THE SUN ITSELF NOW POWERS QUANTUM TECHNOLOGY",
+      "summary": "In a week where the news has been heavy with missile shortages, new defence pacts, and geopolitical standoffs, scientists quietly pulled off something remarkable: generating quantum entanglement using ordinary sunlight rather than energy-hungry lasers. This isn't incremental progress \u2014 it's a fundamental rethink of how quantum technology can be powered, potentially making it vastly more accessible and sustainable. When the sun can do the work of a precision laser, the future of quantum computing just got a little warmer and a lot more democratic.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Generating quantum entanglement from sunlight outdoors overturns a core assumption of quantum technology and opens the door to low-energy, scalable quantum systems."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Replacing power-intensive lasers with sunlight for quantum processes could significantly reduce the energy footprint of next-generation computing infrastructure."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iran's President Pezeshkian publicly called for an end to deadlock with the US, signalling that at least one side sees this moment as ripe for a lasting agreement."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The Perseverance rover's autonomous driving record \u2014 90% of its Martian distance covered without human input \u2014 reflects decades of engineering ambition finally paying off on another world."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A new wearable ultrasound patch was shown to boost REM sleep by 43 minutes without drugs or surgery, offering a drug-free path to better mental and physical recovery for millions."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "luminous",
+        "possibility",
+        "accessible",
+        "wonder"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small glass prism resting on a sun-warmed surface, its interior blazing with captured golden amber light, deep warm teal shadows pooling at its base edges. From within the prism's core, two identical golden-white motes of light drift apart in opposite directions simultaneously, connected by a hair-thin luminous thread, the entangled pair made visible as a symbolic metaphor for something that cannot be separated. The prism's facets throw fractured rainbow slivers across the frame edges, hinting at an open-sky outdoor world beyond. The glass itself glows from within, overwhelmed by sunlight rather than any artificial source, warm amber saturating every surface. Long raking side-light cuts across the prism's geometry, casting a crisp cold teal shadow to the left while the right face burns molten gold. The twin light-motes float symmetrically outward from the same point of origin, mirror images, indistinguishable, impossibly linked \u2014 the entire image a meditation on hidden connection born from abundance.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-09.png"
+    }
   }
 ]
