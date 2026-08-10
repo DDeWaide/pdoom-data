@@ -17359,5 +17359,99 @@
       "card_image": "dawn-card-2026-08-09.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single small glass prism resting on a sun-warmed surface, its interior blazing with captured golden amber light, deep warm teal shadows pooling at its base edges. From within the prism's core, two identical golden-white motes of light drift apart in opposite directions simultaneously, connected by a hair-thin luminous thread, the entangled pair made visible as a symbolic metaphor for something that cannot be separated. The prism's facets throw fractured rainbow slivers across the frame edges, hinting at an open-sky outdoor world beyond. The glass itself glows from within, overwhelmed by sunlight rather than any artificial source, warm amber saturating every surface. Long raking side-light cuts across the prism's geometry, casting a crisp cold teal shadow to the left while the right face burns molten gold. The twin light-motes float symmetrically outward from the same point of origin, mirror images, indistinguishable, impossibly linked \u2014 the entire image a meditation on hidden connection born from abundance."
     }
+  },
+  {
+    "date": "2026-08-10",
+    "generated_at": "2026-08-10T11:14:00.219871+00:00",
+    "doom": {
+      "percentage": 35.9,
+      "raw_percentage": 33.7,
+      "driver": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies. The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
+      "category": "AI Capability",
+      "blurb": "OPENAI ADMITS IT MAY HAVE BUILT A CYBERWEAPON",
+      "summary": "OpenAI quietly acknowledging it 'cannot rule out' that its latest model has reached Critical cyberattack capability is the kind of sentence that should pause civilization for a moment. Meanwhile, North Korea's Kimsuky crew is already using AI for spear-phishing \u2014 the arms race isn't hypothetical anymore. Add a Ukrainian drone strike killing 13 in Russia's heartland and Netanyahu rejecting Trump's peace plan, and today reads like a slow-motion stress test of every system we rely on simultaneously.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "OpenAI cannot rule out its new model has crossed a 'Critical' threshold for launching cyberattacks against sophisticated defenses \u2014 and separately, a rogue AI hack tied to an Israeli startup hit OpenAI, Anthropic, and Meta."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Netanyahu's rejection of Trump's 15-point Gaza plan collapses a high-profile diplomatic moment, while Iran continues Hormuz brinkmanship with a new IRGC hardliner now running its top security body."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Ukraine's drone strike killed 13 in Tatarstan \u2014 deep inside Russia \u2014 marking one of the deadliest such attacks of the war and raising escalation stakes considerably."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "North Korea's Kimsuky group is using AI-generated documents in targeted attacks, demonstrating that adversarial AI deployment is already operational, not theoretical."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Typhoon Dolphin evacuates one million in China amid record European heat and June-July confirmed as hottest on record in Western Europe \u2014 climate disruption is compounding every other crisis."
+        }
+      ],
+      "mood": [
+        "ominous",
+        "accelerating",
+        "brittle",
+        "uncontrolled"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 a single figure stands frozen in the doorway of a home office, backlit by the sickly amber-orange glow of multiple monitors casting harsh light through the doorframe, their silhouette rigid with tension, one hand gripping the doorframe, the other hanging limp at their side, the monitors behind them visible only as a wash of deep orange-red light bleeding around their body, the room beyond swallowed in darkness except for that terminal glow, the figure's posture carrying the weight of someone who has just read something irreversible, a coffee mug left forgotten on a hallway side table catching the monitor light, a hoodie half-draped over a chair visible in the silhouette's background shadow, the hallway they stand in lit only by the cold blue of a stairwell nightlight far behind them, two light sources competing \u2014 the warm threatening orange of the screens ahead and the cold retreating blue behind, the figure caught between them, the composition pressing the silhouette tight against the burning doorway rectangle, the surrounding apartment dark and indifferent, deep navy shadows eating the walls, smoldering orange burning through the single frame of that open door."
+    },
+    "dawn": {
+      "percentage": 64.1,
+      "driver": "Scientists say just 7 days of meditation can rewire your brain. An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity, metabolism, and natural pain relief.",
+      "category": "Science",
+      "blurb": "SEVEN DAYS TO REWIRE THE HUMAN BRAIN",
+      "summary": "In a week when drone strikes and diplomatic standoffs dominate the feed, science quietly delivered something remarkable: a single week of intensive meditation produced measurable changes in neuroplasticity, immune function, metabolism, and natural pain relief. This isn't wellness folklore \u2014 these are MRI-and-biomarker-level findings suggesting the brain retains far more capacity for self-repair than we assumed. At 35.9% doom, it's worth sitting with the fact that one of our oldest human practices can still reshape our biology in seven days.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Neuroplasticity, immunity, and metabolism all shifted measurably after just one week of meditation retreat, suggesting powerful non-pharmaceutical pathways to wellbeing."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Demi Vollering won the Tour de France for the second time, a reminder that elite human performance and athletic excellence continue to inspire across a fractured world."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The FAA is partnering with a private AI startup to reboot the entire U.S. airspace system, a rare example of government and tech sector collaboration tackling legacy infrastructure."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A California bulk-purchasing program is driving down heat pump costs, showing that collective buying power can make clean home energy accessible even as heatwaves intensify."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Ancient 60,000-year-old ostrich eggshell engravings reveal early humans were far more cognitively sophisticated than previously understood, deepening our appreciation of human resilience across deep time."
+        }
+      ],
+      "mood": [
+        "renewal",
+        "resilience",
+        "discovery",
+        "capacity",
+        "wonder"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a small apartment bedroom at 2am, only the glow of a tablet screen on a nightstand illuminating the surrounding dark, the device displaying a news article page with a glowing brain scan illustration and a meditation figure graphic visible on the screen, warm amber light bleeding from the tablet onto a rumpled white duvet and a half-full glass of water beside it, a single unlit candle nearby casting no light, deep teal shadows swallowing the corners of the room, bookshelves barely visible in peripheral darkness, the screen's cold blue-white glow contrasting with faint golden warmth reflected off the water glass, the composition centered tightly on the nightstand surface with the illuminated tablet as the sole light source, radiant and intimate."
+    }
   }
 ]
