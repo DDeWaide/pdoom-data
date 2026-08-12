@@ -17547,5 +17547,100 @@
       "card_image": "dawn-card-2026-08-11.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are seated inside the upper deck of a red and white VR double-decker Finnish passenger train the morning after its historic first crossing, looking out through the tall rectangular window at the aftermath scene outside. The train sits still at a modest northern platform, predawn transitioning to pale arctic gold on the horizon, the wide steel-grey Torne River visible in the distance catching the first amber light. Outside the window, the Haparanda platform is quiet now, intimate aftermath calm: a single forgotten Swedish blue-and-yellow flag lying on the frost-edged platform edge, two discarded coffee cups steaming faintly in the cold air, a station worker in a high-visibility jacket slowly sweeping confetti from the platform tiles. The window glass itself is faintly fogged at the corners from the warm train interior, the inside of the carriage glowing deep amber-gold from overhead lights contrasting against the cold teal-blue dawn outside. Far on the horizon through the glass, the flat subarctic landscape stretches in deep teal shadow, a thin radiant line of molten amber cresting the treeline. The dual rail gauges are visible at the platform edge, two sets of tracks side by side, one wider than the other, catching golden sidelight, long shadows stretching across the platform in the low Nordic dawn."
     }
+  },
+  {
+    "date": "2026-08-12",
+    "generated_at": "2026-08-12T11:04:39.080169+00:00",
+    "doom": {
+      "percentage": 36.1,
+      "raw_percentage": 34.7,
+      "driver": "Are hacks of U.S. water facilities a new front in the Iran war?. A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.",
+      "category": "Cyber",
+      "blurb": "IRAN TURNS OFF THE TAP FROM CYBERSPACE",
+      "summary": "While everyone was watching missiles fly over the Gulf of Oman, Iran apparently decided to also mess with America's drinking water\u2014because why fight on one front when you can fight on several? The ongoing Iran conflict is quietly metastasizing from a kinetic naval standoff into a multi-domain infrastructure war, which is the geopolitical equivalent of a bar fight that suddenly involves a chair. Meanwhile Trump is swapping planes in secret and a U.S. helicopter is disabling cargo ships, so the war is very much still hot on the original front too.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The Iran conflict is actively expanding\u2014U.S. helicopters are disabling ships in the Gulf of Oman while cyberattacks hit American water infrastructure, and Trump's secret plane swap signals credible ongoing threat to senior leadership."
+        },
+        {
+          "name": "Cyber",
+          "signal": "high",
+          "detail": "Cyberattacks on U.S. water systems attributed to Iran represent a dangerous escalation into critical civilian infrastructure, compounded by a major Zoom vulnerability exploitable in fewer than 20 AI prompts."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Gemini and ChatGPT both hit 1 billion users simultaneously, AI is taking over mathematics, and AI reporters are breaking real news\u2014capability diffusion is accelerating across every domain."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "OpenAI's head of ethics has quietly departed less than a year after joining, a signal that internal alignment governance at the world's most prominent AI lab is under strain."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A 7.4 magnitude earthquake killing 180+ in Colombia is a humanitarian crisis but not a systemic risk driver; the Colombia government's capacity strain is worth watching but contained."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "multi-front",
+        "fragile",
+        "churning",
+        "tense"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, deep navy midnight sky pressing down onto a vast flat Midwestern agricultural landscape stretching to the horizon, summer cornfields rendered in dark smoldering amber-green grids, a symbolic metaphor dominates the center frame: a single enormous pipe wrench lies across a cracked and fractured water main that splits the landscape like a fault line, the pipe visibly fracturing outward in hairline cracks radiating across the earth below, deep shadow pools fill the cracks glowing faintly orange from beneath as if something pressurized and dangerous burns inside, the broken main bisects a patchwork of Minnesota farmland and a tiny utilitarian cinderblock water facility visible as a small gray rectangle far below, chain-link fencing casting long orange-shadow geometry across the gravel lot, a cylindrical water tower impossibly small in the upper distance catches the last smoldering light on its pale surface like a dying ember, heat haze distorts the horizon, heavy shadows dominate the entire composition, the warm orange light feels threatening not comforting, the fracture lines in the pipe and earth below read unmistakably as something breached from the inside out, deep navy and smoldering orange throughout, smoke-filtered atmosphere, 16-bit SNES pixel rendering."
+    },
+    "dawn": {
+      "percentage": 63.9,
+      "driver": "England set to be one of the first countries to eliminate hepatitis C.",
+      "category": "Medicine",
+      "blurb": "A ANCIENT PLAGUE FALLS TO HUMAN INGENUITY",
+      "summary": "While headlines fill with conflict and catastrophe, England is quietly achieving something once unthinkable: the near-total elimination of hepatitis C, a disease that has silently killed millions worldwide for decades. This is what sustained public health commitment looks like \u2014 treatment programs, harm-reduction outreach, and NHS coordination turning a death sentence into a distant memory. In a week when doom feels close, this is a reminder that patient, determined human effort actually wins sometimes.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Direct-acting antiviral drugs have made hepatitis C curable in over 95% of cases, and England's systematic rollout proves elimination is achievable at national scale."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Elimination required coordinated effort between the NHS, harm-reduction charities, and prison health services \u2014 a rare model of institutions working in genuine concert."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A hydrogen-powered vehicle hit 406 mph in a new land-speed record today, a separate reminder that humans still chase impossible frontiers for the sheer joy of it."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "The hydrogen land-speed record adds credibility to clean-fuel technology, nudging the case for zero-emission propulsion beyond the laboratory."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Lebanon's parliament voted to abolish the death penalty \u2014 potentially making it the first country in the Middle East to end capital punishment, a quiet moral milestone amid regional war."
+        }
+      ],
+      "mood": [
+        "triumphant",
+        "tenacious",
+        "restorative",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-tinted rain falling in diagonal curtains across a narrow Lancashire terraced street at early morning, deep golden hour light bleeding through the downpour and turning every wet cobblestone and brick facade into burnished copper and warm teal shadow. The scene is viewed through the rain itself, atmosphere dominating, droplets catching the sideways morning light like suspended sparks. Adjacent to the story: we are on the pavement outside a modest terraced house in Blackburn, not inside a hospital or clinic. On the doorstep, half-sheltered under a small porch overhang, sits a small brown cardboard envelope that has just been pushed through the letterbox, its white address label glowing in the golden wet light, a free at-home hepatitis C test kit delivered by Royal Mail, resting against the painted door threshold. Through the rain-streaked front window above the letterbox, warm amber lamplight glows from inside, the silhouette of a figure visible through net curtains moving toward the door. A ceramic doorstep planter with a wilting geranium catches the rain beside the envelope. The palette is deep amber, warm teal, and soft white, rain haze filtering everything, radiant and hushed."
+    }
   }
 ]

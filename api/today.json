@@ -1,96 +1,97 @@
 {
-  "date": "2026-08-11",
-  "generated_at": "2026-08-11T10:55:22.353941+00:00",
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T11:04:39.080169+00:00",
   "doom": {
-    "percentage": 37.9,
-    "raw_percentage": 37.6,
-    "driver": "Pentagon races to buy 10X more missiles as Iran war dwindles arsenal, threatens readiness for China aggression.",
-    "category": "Geopolitics",
-    "blurb": "WINNING THE WAR, LOSING THE NEXT ONE",
-    "summary": "The Pentagon is scrambling to quadruple interceptor purchases after the Iran conflict quietly hollowed out America's missile stocks \u2014 which is a deeply uncomfortable thing to discover *after* the shooting starts. Meanwhile, Trump is pivoting back to Iran sanctions as Hormuz talks stall, oil is back above $84, and the President apparently needed a catering truck to safely board a plane, which is either reassuring (great tradecraft) or terrifying (it came to that). North Korean missiles are now confirmed flying over Ukraine, Wall Street just handed Nvidia $500 billion for more AI chips, and somewhere in all this Colombia just had its worst earthquake in years. A busy, messy, multi-front Tuesday.",
+    "percentage": 36.1,
+    "raw_percentage": 34.7,
+    "driver": "Are hacks of U.S. water facilities a new front in the Iran war?. A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.",
+    "category": "Cyber",
+    "blurb": "IRAN TURNS OFF THE TAP FROM CYBERSPACE",
+    "summary": "While everyone was watching missiles fly over the Gulf of Oman, Iran apparently decided to also mess with America's drinking water\u2014because why fight on one front when you can fight on several? The ongoing Iran conflict is quietly metastasizing from a kinetic naval standoff into a multi-domain infrastructure war, which is the geopolitical equivalent of a bar fight that suddenly involves a chair. Meanwhile Trump is swapping planes in secret and a U.S. helicopter is disabling cargo ships, so the war is very much still hot on the original front too.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Iran deadlock deepens, Hormuz still closed, North Korean missiles confirmed in Ukraine, and the Pentagon's interceptor shortage is now officially a crisis \u2014 all in the same news cycle."
+        "detail": "The Iran conflict is actively expanding\u2014U.S. helicopters are disabling ships in the Gulf of Oman while cyberattacks hit American water infrastructure, and Trump's secret plane swap signals credible ongoing threat to senior leadership."
       },
       {
-        "name": "Governance",
-        "signal": "elevated",
-        "detail": "Trump signs order splitting MMR vaccines against pediatric medicine consensus, while Senate's all-night SAVE America Act session collapsed in chaos \u2014 governance dysfunction on multiple fronts."
+        "name": "Cyber",
+        "signal": "high",
+        "detail": "Cyberattacks on U.S. water systems attributed to Iran represent a dangerous escalation into critical civilian infrastructure, compounded by a major Zoom vulnerability exploitable in fewer than 20 AI prompts."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Wall Street hands Nvidia $500 billion for AI data centers and Meta relaunches open-model strategy, accelerating capability buildout with limited new governance guardrails."
+        "detail": "Gemini and ChatGPT both hit 1 billion users simultaneously, AI is taking over mathematics, and AI reporters are breaking real news\u2014capability diffusion is accelerating across every domain."
       },
       {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "Zuckerberg's 6,500-word AI manifesto is more ideology than safety framework, but no acute alignment-failure headlines today."
+        "name": "Governance",
+        "signal": "medium",
+        "detail": "OpenAI's head of ethics has quietly departed less than a year after joining, a signal that internal alignment governance at the world's most prominent AI lab is under strain."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "A magnitude 7.4 earthquake kills 132+ in Colombia with 2,700 still missing, adding a major humanitarian crisis to an already overloaded global crisis-response system."
+        "signal": "low",
+        "detail": "A 7.4 magnitude earthquake killing 180+ in Colombia is a humanitarian crisis but not a systemic risk driver; the Colombia government's capacity strain is worth watching but contained."
       }
     ],
     "mood": [
-      "depleted",
-      "overstretched",
-      "simmering",
-      "chaotic"
+      "escalating",
+      "multi-front",
+      "fragile",
+      "churning",
+      "tense"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-11.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked concrete looking steeply upward inside a massive military depot warehouse, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 the camera angle is almost floor-level, staring up at towering empty steel missile storage racks that stretch impossibly high toward a corrugated metal ceiling lost in shadow, the racks are modular green military shelving systems designed to cradle PAC-3 canister tubes, but the cradles are bare, their foam-lined mounting brackets hanging open and vacant, orange hazard striping on the rack edges catches the only warm light bleeding in from a distant loading bay door cracked open at ground level, casting a long thin smoldering rectangle of orange across the concrete floor that recedes toward the viewer, dust motes hang frozen in the beam, a single forgotten green canister end-cap lies discarded on the floor near the base of the nearest rack, the ceiling-mounted fluorescent strips overhead are half-dead, flickering cool blue-white against the dominant navy darkness, a forklift sits idle and abandoned mid-aisle, its forks lowered, casting a jagged shadow upward across the empty shelving, the sheer vertical emptiness of the racks towers over everything, conveying depletion and industrial-scale absence rather than arsenal, the atmosphere is airless, bureaucratic, and deeply unsettling.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-11.png"
+    "card_image": "doom-card-2026-08-12.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, deep navy midnight sky pressing down onto a vast flat Midwestern agricultural landscape stretching to the horizon, summer cornfields rendered in dark smoldering amber-green grids, a symbolic metaphor dominates the center frame: a single enormous pipe wrench lies across a cracked and fractured water main that splits the landscape like a fault line, the pipe visibly fracturing outward in hairline cracks radiating across the earth below, deep shadow pools fill the cracks glowing faintly orange from beneath as if something pressurized and dangerous burns inside, the broken main bisects a patchwork of Minnesota farmland and a tiny utilitarian cinderblock water facility visible as a small gray rectangle far below, chain-link fencing casting long orange-shadow geometry across the gravel lot, a cylindrical water tower impossibly small in the upper distance catches the last smoldering light on its pale surface like a dying ember, heat haze distorts the horizon, heavy shadows dominate the entire composition, the warm orange light feels threatening not comforting, the fracture lines in the pipe and earth below read unmistakably as something breached from the inside out, deep navy and smoldering orange throughout, smoke-filtered atmosphere, 16-bit SNES pixel rendering.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-12.png"
   },
   "dawn": {
-    "percentage": 62.1,
-    "driver": "New train service connects Finland and Sweden for first time in decades. The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-    "category": "Cooperation",
-    "blurb": "CONTINENT REUNITED BY RAIL, PORTUGAL TO LAPLAND",
-    "summary": "In a world where new defence pacts and missile strikes dominate the headlines, Europe quietly stitched itself back together with steel and schedule. A restored Finland-Sweden rail link now makes it possible to travel by train from the sun-warmed coast of Portugal all the way to the Arctic edge of Lapland \u2014 what may be the longest continuous rail journey on Earth. It's a reminder that even as geopolitical fault lines deepen, nations can still choose to connect rather than divide, moving people and goods across a continent by the oldest, cleanest, most civilised means we know.",
+    "percentage": 63.9,
+    "driver": "England set to be one of the first countries to eliminate hepatitis C.",
+    "category": "Medicine",
+    "blurb": "A ANCIENT PLAGUE FALLS TO HUMAN INGENUITY",
+    "summary": "While headlines fill with conflict and catastrophe, England is quietly achieving something once unthinkable: the near-total elimination of hepatitis C, a disease that has silently killed millions worldwide for decades. This is what sustained public health commitment looks like \u2014 treatment programs, harm-reduction outreach, and NHS coordination turning a death sentence into a distant memory. In a week when doom feels close, this is a reminder that patient, determined human effort actually wins sometimes.",
     "factors": [
       {
-        "name": "Cooperation",
-        "signal": "blazing",
-        "detail": "Multiple European nations coordinating rail infrastructure to create an unbroken transcontinental route is a quiet triumph of political will and shared investment."
-      },
-      {
-        "name": "Environment",
-        "signal": "bright",
-        "detail": "Expanding rail networks provides a genuine low-carbon alternative to short-haul flights across Europe, a meaningful structural win for emissions reduction."
-      },
-      {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "NASA's 'Big Bang' operation on Voyager 2 \u2014 squeezing more power from a 49-year-old spacecraft \u2014 showcases human ingenuity extending the reach of discovery."
+        "signal": "blazing",
+        "detail": "Direct-acting antiviral drugs have made hepatitis C curable in over 95% of cases, and England's systematic rollout proves elimination is achievable at national scale."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "bright",
+        "detail": "Elimination required coordinated effort between the NHS, harm-reduction charities, and prison health services \u2014 a rare model of institutions working in genuine concert."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Against a backdrop of earthquake devastation in Colombia, thousands of volunteers formed human chains to pass rubble \u2014 ordinary people choosing solidarity without being asked."
+        "signal": "glimmer",
+        "detail": "A hydrogen-powered vehicle hit 406 mph in a new land-speed record today, a separate reminder that humans still chase impossible frontiers for the sheer joy of it."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "The hydrogen land-speed record adds credibility to clean-fuel technology, nudging the case for zero-emission propulsion beyond the laboratory."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "A new GLP-1 pill delivering 12% weight loss in 36 weeks inches life-changing obesity medicine closer to the billions who cannot access or tolerate injections."
+        "signal": "bright",
+        "detail": "Lebanon's parliament voted to abolish the death penalty \u2014 potentially making it the first country in the Middle East to end capital punishment, a quiet moral milestone amid regional war."
       }
     ],
     "mood": [
-      "connected",
-      "expansive",
-      "cooperative",
-      "resilient",
-      "hopeful"
+      "triumphant",
+      "tenacious",
+      "restorative",
+      "hopeful",
+      "determined"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-11.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are seated inside the upper deck of a red and white VR double-decker Finnish passenger train the morning after its historic first crossing, looking out through the tall rectangular window at the aftermath scene outside. The train sits still at a modest northern platform, predawn transitioning to pale arctic gold on the horizon, the wide steel-grey Torne River visible in the distance catching the first amber light. Outside the window, the Haparanda platform is quiet now, intimate aftermath calm: a single forgotten Swedish blue-and-yellow flag lying on the frost-edged platform edge, two discarded coffee cups steaming faintly in the cold air, a station worker in a high-visibility jacket slowly sweeping confetti from the platform tiles. The window glass itself is faintly fogged at the corners from the warm train interior, the inside of the carriage glowing deep amber-gold from overhead lights contrasting against the cold teal-blue dawn outside. Far on the horizon through the glass, the flat subarctic landscape stretches in deep teal shadow, a thin radiant line of molten amber cresting the treeline. The dual rail gauges are visible at the platform edge, two sets of tracks side by side, one wider than the other, catching golden sidelight, long shadows stretching across the platform in the low Nordic dawn.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-11.png"
+    "card_image": "dawn-card-2026-08-12.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-tinted rain falling in diagonal curtains across a narrow Lancashire terraced street at early morning, deep golden hour light bleeding through the downpour and turning every wet cobblestone and brick facade into burnished copper and warm teal shadow. The scene is viewed through the rain itself, atmosphere dominating, droplets catching the sideways morning light like suspended sparks. Adjacent to the story: we are on the pavement outside a modest terraced house in Blackburn, not inside a hospital or clinic. On the doorstep, half-sheltered under a small porch overhang, sits a small brown cardboard envelope that has just been pushed through the letterbox, its white address label glowing in the golden wet light, a free at-home hepatitis C test kit delivered by Royal Mail, resting against the painted door threshold. Through the rain-streaked front window above the letterbox, warm amber lamplight glows from inside, the silhouette of a figure visible through net curtains moving toward the door. A ceramic doorstep planter with a wilting geranium catches the rain beside the envelope. The palette is deep amber, warm teal, and soft white, rain haze filtering everything, radiant and hushed.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-12.png"
   }
 }
