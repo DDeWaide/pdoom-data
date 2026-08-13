@@ -17642,5 +17642,100 @@
       "card_image": "dawn-card-2026-08-12.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-tinted rain falling in diagonal curtains across a narrow Lancashire terraced street at early morning, deep golden hour light bleeding through the downpour and turning every wet cobblestone and brick facade into burnished copper and warm teal shadow. The scene is viewed through the rain itself, atmosphere dominating, droplets catching the sideways morning light like suspended sparks. Adjacent to the story: we are on the pavement outside a modest terraced house in Blackburn, not inside a hospital or clinic. On the doorstep, half-sheltered under a small porch overhang, sits a small brown cardboard envelope that has just been pushed through the letterbox, its white address label glowing in the golden wet light, a free at-home hepatitis C test kit delivered by Royal Mail, resting against the painted door threshold. Through the rain-streaked front window above the letterbox, warm amber lamplight glows from inside, the silhouette of a figure visible through net curtains moving toward the door. A ceramic doorstep planter with a wilting geranium catches the rain beside the envelope. The palette is deep amber, warm teal, and soft white, rain haze filtering everything, radiant and hushed."
     }
+  },
+  {
+    "date": "2026-08-13",
+    "generated_at": "2026-08-13T11:04:46.280336+00:00",
+    "doom": {
+      "percentage": 38.2,
+      "raw_percentage": 38.7,
+      "driver": "Ebola outbreak on track to be deadliest ever, WHO chief says. The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "category": "Biotech",
+      "blurb": "DEADLIEST EBOLA EVER AND COUNTING",
+      "summary": "The WHO chief has declared the current Ebola outbreak on track to surpass every previous record, with 2,000+ dead since May and no sign of containment. Meanwhile, nuclear plants are going offline across a drought-stricken Europe, Ukraine is hitting Russian grain terminals in the Black Sea, and the Strait of Hormuz remains blocked per Iran \u2014 so the Ebola news is somehow competing for the scariest headline of the day. When a historically lethal hemorrhagic fever barely cracks the top three concerns, the news cycle is doing something deeply wrong.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Grok 4.6 and DeepSeek V4 Pro both drop on the same day, with Grok scoring 61 on the AI Intelligence Index \u2014 the capability race is accelerating with no slowdown in sight."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Nuclear plants shutting down across drought-hit Europe creates an energy governance crisis at exactly the wrong moment for grid stability."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Ukraine strikes Russian grain terminals in the Black Sea while Hormuz stays blocked and Putin provocatively visits disputed Kuril Islands \u2014 multiple fronts simmering simultaneously."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Someone is mass-scanning vulnerabilities while spoofing AI bots like ClaudeBot \u2014 a reminder that AI branding is already being weaponized for cover."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "high",
+          "detail": "The Ebola outbreak is now on track to be the deadliest ever recorded, with 2,000+ deaths since May and the WHO chief sounding the alarm \u2014 a slow-moving catastrophe that keeps getting worse."
+        }
+      ],
+      "mood": [
+        "grim",
+        "cascading",
+        "overwhelmed",
+        "fragile",
+        "accelerating"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled French-language newspaper laid flat on a rough-hewn wooden table, the paper's surface dominating every pixel, headline text rendered as illegible pixel-smear columns in the style of newsprint, a grainy halftone photograph visible on the front page showing blurred white Tyvek suited figures reduced to abstract shapes at this scale, the newspaper's edges soft and moisture-warped from equatorial humidity, a single dark water stain blooming across the lower corner like a bruise spreading through the pulp, the paper yellowing at the fold creases, red laterite dust ground into the fiber along one torn margin, the table grain beneath visible at the extreme corners implying a rough Bunia interior, the entire scene soaked in deep navy shadow pressing in from all sides with a smoldering orange cast burning through the newsprint from below as if the paper itself is backlit by something threatening, smoke-filtered light giving the white paper a sickly amber tinge, heavy shadows eating the corners, the halftone dots of the photograph catching the orange light and glowing like embers \u2014 stillness, dread, and the weight of a number too large to process."
+    },
+    "dawn": {
+      "percentage": 61.8,
+      "driver": "The adult brain can repair itself better than scientists thought.",
+      "category": "Science",
+      "blurb": "YOUR BRAIN IS TOUGHER THAN ANYONE KNEW",
+      "summary": "Even as war grinds on and global tensions spike, a discovery just landed that quietly rewrites what we thought possible about human recovery. Researchers found that astrocytes \u2014 special support cells in the adult brain \u2014 actively respond to damaged tissue and help repair it, far exceeding previous assumptions about neurological limits. This has profound implications for stroke, traumatic brain injury, and neurodegenerative disease: the organ at the center of everything we are may be far more resilient than science gave it credit for.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Discovering that the adult brain has innate repair mechanisms overturns decades of neuroscience dogma and opens entirely new therapeutic directions."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "The astrocyte finding could accelerate treatments for stroke, TBI, and Parkinson's, conditions that collectively affect hundreds of millions of people worldwide."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Millions of people watching Europe's first total solar eclipse in 27 years cheered, wept, and applauded together \u2014 a reminder that shared wonder still binds humanity."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "South African scientists identified a natural soil fungus capable of defeating the African armyworm, offering farmers a chemical-free weapon against devastating crop losses."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "MIT neuroscientists separately confirmed that logical reasoning operates independently of language, meaning even severely language-impaired individuals retain full reasoning capacity \u2014 a profound expansion of human dignity."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "regenerative",
+        "hopeful",
+        "expansive",
+        "wonder"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The interior of a two-photon microscopy lab at night, the entire background wall consumed by a massive glowing monitor displaying magnified brain tissue \u2014 astrocyte cells rendered as luminous golden stars with long reaching arms spread across a deep teal void, their branching filaments connecting like a constellation map, tiny bright nuclei visible as warm amber orbs traveling along the cellular pathways toward a darker region of tissue. Against this blazing screen, the strong silhouettes of three researchers are thrown into pure darkness \u2014 one leaning forward with hands pressed to the desk, one standing with arm raised pointing at a traveling nucleus, one adjusting the hulking black form of the microscope itself, its fiber optic cables trailing downward like dark ribbons. The entire room is backlit by the monitor's warm golden and teal bioluminescent glow, the researchers' outlines crisp and black against the radiant starfield of healing brain tissue behind them, long shadows stretching forward across the floor toward the viewer. Deep amber and warm teal palette, the screen blazing like a sunrise caught inside a machine, darkness in the foreground, living light behind."
+    }
   }
 ]
