@@ -17737,5 +17737,100 @@
       "card_image": "dawn-card-2026-08-13.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The interior of a two-photon microscopy lab at night, the entire background wall consumed by a massive glowing monitor displaying magnified brain tissue \u2014 astrocyte cells rendered as luminous golden stars with long reaching arms spread across a deep teal void, their branching filaments connecting like a constellation map, tiny bright nuclei visible as warm amber orbs traveling along the cellular pathways toward a darker region of tissue. Against this blazing screen, the strong silhouettes of three researchers are thrown into pure darkness \u2014 one leaning forward with hands pressed to the desk, one standing with arm raised pointing at a traveling nucleus, one adjusting the hulking black form of the microscope itself, its fiber optic cables trailing downward like dark ribbons. The entire room is backlit by the monitor's warm golden and teal bioluminescent glow, the researchers' outlines crisp and black against the radiant starfield of healing brain tissue behind them, long shadows stretching forward across the floor toward the viewer. Deep amber and warm teal palette, the screen blazing like a sunrise caught inside a machine, darkness in the foreground, living light behind."
     }
+  },
+  {
+    "date": "2026-08-14",
+    "generated_at": "2026-08-14T11:01:44.152954+00:00",
+    "doom": {
+      "percentage": 40.0,
+      "raw_percentage": 41.7,
+      "driver": "Private security firms will soon be allowed to hack overseas cybercriminals. Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "category": "Cyber",
+      "blurb": "GOVERNMENT OUTSOURCES THE CYBER APOCALYPSE",
+      "summary": "In a move that absolutely cannot go wrong, the White House has for the first time authorized private companies to conduct offensive cyberattacks abroad \u2014 because nothing says 'controlled escalation' like deputizing mercenary hackers with financial incentives and zero chain of command. This arrives alongside NATO shooting down a drone over Latvia while blaming Russian electronic warfare, GLM-5.3 debuting with 'emergent cyber capabilities,' and the US threatening Iran with economic isolation 'the world has never seen before.' The vibes are giving 'everyone is pointing a gun at everyone else simultaneously.'",
+      "factors": [
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "Authorizing private sector offensive cyberattacks is an unprecedented erosion of state monopoly on force with unpredictable escalation dynamics."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "NATO drones downed over Latvia, Putin touring disputed Kuril Islands to provoke Japan, and US-Iran economic siege rhetoric all simultaneously simmering."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GLM-5.3 launches with explicitly flagged 'emergent cyber capabilities' the same week private hacking gets federally blessed \u2014 the timing is exquisite and terrible."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Ebola spreading to a sixth DRC province, USS Abraham Lincoln crew reportedly considering jumping overboard, and Romania's only nuclear plant shutting down from Danube heat stress form a chaotic backdrop."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "OpenAI losing its second executive in a week and Claude's new invisible watermark system suggest internal turbulence but no direct safety regression."
+        }
+      ],
+      "mood": [
+        "deputized",
+        "escalatory",
+        "fraying",
+        "outsourced",
+        "kinetic"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, the morning-after calm of a Northern Virginia glass-and-steel office park at 3am, the Tysons Corner cyber corridor stretching back into deep navy darkness, a nondescript corporate building's open-plan interior visible through floor-to-ceiling windows from outside on the empty parking lot, inside a single curved ultrawide monitor glows smoldering orange casting long shadows across an abandoned standing desk littered with paper coffee cups and printed documents stamped with red diagonal striping, the monitor screen displays a world map with fading red arc-lines still tracing paths between continents, slowly dimming as if a session just ended, outside a lone cleaning worker pushes a cart through the parking lot under the orange sodium wash of a single overhead streetlight, bare winter trees line the lot's perimeter pressing into deep navy sky, ethernet cables visible through the window trailing across the floor like shed snakeskin, a company ID badge lanyard left hanging on the monitor edge, the whole scene heavy with the residue of something that already happened, smoldering orange screen-glow bleeding through the glass onto wet asphalt, deep navy and threatening warmth."
+    },
+    "dawn": {
+      "percentage": 60.0,
+      "driver": "'Remarkable' discovery upends our understanding of how brains store memories. Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+      "category": "Science",
+      "blurb": "MEMORY IS MORE RESILIENT THAN WE EVER IMAGINED",
+      "summary": "Scientists have made a remarkable discovery: memories survive even after the neural connections long believed to be essential for recall are severed. This upends decades of neuroscience dogma and opens entirely new avenues for treating memory loss, dementia, and trauma. On a day shadowed by Ebola, war, and climate shocks, the brain's quiet stubbornness in holding onto what matters is its own kind of hope.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A foundational assumption about how mammalian memory works has been overturned, suggesting the brain has redundant, more robust memory storage mechanisms than previously understood."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "An American missionary held captive for nine months in Niger was released alive and in good health, a reminder that individual lives can be reclaimed even from dire circumstances."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Apple and Alibaba's rare cross-border AI partnership demonstrates that commercial cooperation can quietly persist even amid intense US-China geopolitical tensions."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Efforts to protect orangutans rescued from wildlife traffickers continue despite wildfires closing in, with conservationists refusing to abandon the animals in their care."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Bangladesh's Tanzid Hasan scored the nation's first Test century in Australia, a small but joyful milestone for a cricketing nation punching above its weight on the world stage."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "discovery",
+        "wonder",
+        "persistence",
+        "renewal"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold laboratory floor, gazing up at the underside of a cluttered research desk above \u2014 power cables looping like vines, the belly of a humming monitor casting rich emerald-green light downward in warm pools, amber glow spilling from a tilted desk lamp above. A neuroscientist sits hunched in a chair, seen from directly below, their face tilted down toward a printout resting on their knees, expression caught in the private stillness of someone who has just understood something enormous \u2014 jaw slightly loose, eyes soft with wonder. Their hands hold the paper loosely, fingers barely gripping. Through the gap between desk edge and chair leg, the faint suggestion of a small dark hibernation chamber sits on a shelf, a tiny indicator light glowing gold like a single ember. The ceiling above the desk is lost in deep emerald shadow broken by amber light blooming outward from the lamp like synaptic clusters radiating from a center point. Rich saturated gold and vibrant green saturate every surface \u2014 the linoleum floor tiles beneath the camera, the underside of the researcher's forearms, the cables overhead. The mood is reverential and alive, warmth persisting in the dark."
+    }
   }
 ]

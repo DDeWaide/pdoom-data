@@ -1,97 +1,97 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T11:04:46.280336+00:00",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T11:01:44.152954+00:00",
   "doom": {
-    "percentage": 38.2,
-    "raw_percentage": 38.7,
-    "driver": "Ebola outbreak on track to be deadliest ever, WHO chief says. The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-    "category": "Biotech",
-    "blurb": "DEADLIEST EBOLA EVER AND COUNTING",
-    "summary": "The WHO chief has declared the current Ebola outbreak on track to surpass every previous record, with 2,000+ dead since May and no sign of containment. Meanwhile, nuclear plants are going offline across a drought-stricken Europe, Ukraine is hitting Russian grain terminals in the Black Sea, and the Strait of Hormuz remains blocked per Iran \u2014 so the Ebola news is somehow competing for the scariest headline of the day. When a historically lethal hemorrhagic fever barely cracks the top three concerns, the news cycle is doing something deeply wrong.",
+    "percentage": 40.0,
+    "raw_percentage": 41.7,
+    "driver": "Private security firms will soon be allowed to hack overseas cybercriminals. Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+    "category": "Cyber",
+    "blurb": "GOVERNMENT OUTSOURCES THE CYBER APOCALYPSE",
+    "summary": "In a move that absolutely cannot go wrong, the White House has for the first time authorized private companies to conduct offensive cyberattacks abroad \u2014 because nothing says 'controlled escalation' like deputizing mercenary hackers with financial incentives and zero chain of command. This arrives alongside NATO shooting down a drone over Latvia while blaming Russian electronic warfare, GLM-5.3 debuting with 'emergent cyber capabilities,' and the US threatening Iran with economic isolation 'the world has never seen before.' The vibes are giving 'everyone is pointing a gun at everyone else simultaneously.'",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Grok 4.6 and DeepSeek V4 Pro both drop on the same day, with Grok scoring 61 on the AI Intelligence Index \u2014 the capability race is accelerating with no slowdown in sight."
-      },
-      {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Nuclear plants shutting down across drought-hit Europe creates an energy governance crisis at exactly the wrong moment for grid stability."
+        "signal": "high",
+        "detail": "Authorizing private sector offensive cyberattacks is an unprecedented erosion of state monopoly on force with unpredictable escalation dynamics."
       },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Ukraine strikes Russian grain terminals in the Black Sea while Hormuz stays blocked and Putin provocatively visits disputed Kuril Islands \u2014 multiple fronts simmering simultaneously."
+        "detail": "NATO drones downed over Latvia, Putin touring disputed Kuril Islands to provoke Japan, and US-Iran economic siege rhetoric all simultaneously simmering."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "GLM-5.3 launches with explicitly flagged 'emergent cyber capabilities' the same week private hacking gets federally blessed \u2014 the timing is exquisite and terrible."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Ebola spreading to a sixth DRC province, USS Abraham Lincoln crew reportedly considering jumping overboard, and Romania's only nuclear plant shutting down from Danube heat stress form a chaotic backdrop."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Someone is mass-scanning vulnerabilities while spoofing AI bots like ClaudeBot \u2014 a reminder that AI branding is already being weaponized for cover."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "high",
-        "detail": "The Ebola outbreak is now on track to be the deadliest ever recorded, with 2,000+ deaths since May and the WHO chief sounding the alarm \u2014 a slow-moving catastrophe that keeps getting worse."
+        "detail": "OpenAI losing its second executive in a week and Claude's new invisible watermark system suggest internal turbulence but no direct safety regression."
       }
     ],
     "mood": [
-      "grim",
-      "cascading",
-      "overwhelmed",
-      "fragile",
-      "accelerating"
+      "deputized",
+      "escalatory",
+      "fraying",
+      "outsourced",
+      "kinetic"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled French-language newspaper laid flat on a rough-hewn wooden table, the paper's surface dominating every pixel, headline text rendered as illegible pixel-smear columns in the style of newsprint, a grainy halftone photograph visible on the front page showing blurred white Tyvek suited figures reduced to abstract shapes at this scale, the newspaper's edges soft and moisture-warped from equatorial humidity, a single dark water stain blooming across the lower corner like a bruise spreading through the pulp, the paper yellowing at the fold creases, red laterite dust ground into the fiber along one torn margin, the table grain beneath visible at the extreme corners implying a rough Bunia interior, the entire scene soaked in deep navy shadow pressing in from all sides with a smoldering orange cast burning through the newsprint from below as if the paper itself is backlit by something threatening, smoke-filtered light giving the white paper a sickly amber tinge, heavy shadows eating the corners, the halftone dots of the photograph catching the orange light and glowing like embers \u2014 stillness, dread, and the weight of a number too large to process.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-13.png"
+    "card_image": "doom-card-2026-08-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, the morning-after calm of a Northern Virginia glass-and-steel office park at 3am, the Tysons Corner cyber corridor stretching back into deep navy darkness, a nondescript corporate building's open-plan interior visible through floor-to-ceiling windows from outside on the empty parking lot, inside a single curved ultrawide monitor glows smoldering orange casting long shadows across an abandoned standing desk littered with paper coffee cups and printed documents stamped with red diagonal striping, the monitor screen displays a world map with fading red arc-lines still tracing paths between continents, slowly dimming as if a session just ended, outside a lone cleaning worker pushes a cart through the parking lot under the orange sodium wash of a single overhead streetlight, bare winter trees line the lot's perimeter pressing into deep navy sky, ethernet cables visible through the window trailing across the floor like shed snakeskin, a company ID badge lanyard left hanging on the monitor edge, the whole scene heavy with the residue of something that already happened, smoldering orange screen-glow bleeding through the glass onto wet asphalt, deep navy and threatening warmth.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-14.png"
   },
   "dawn": {
-    "percentage": 61.8,
-    "driver": "The adult brain can repair itself better than scientists thought.",
+    "percentage": 60.0,
+    "driver": "'Remarkable' discovery upends our understanding of how brains store memories. Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
     "category": "Science",
-    "blurb": "YOUR BRAIN IS TOUGHER THAN ANYONE KNEW",
-    "summary": "Even as war grinds on and global tensions spike, a discovery just landed that quietly rewrites what we thought possible about human recovery. Researchers found that astrocytes \u2014 special support cells in the adult brain \u2014 actively respond to damaged tissue and help repair it, far exceeding previous assumptions about neurological limits. This has profound implications for stroke, traumatic brain injury, and neurodegenerative disease: the organ at the center of everything we are may be far more resilient than science gave it credit for.",
+    "blurb": "MEMORY IS MORE RESILIENT THAN WE EVER IMAGINED",
+    "summary": "Scientists have made a remarkable discovery: memories survive even after the neural connections long believed to be essential for recall are severed. This upends decades of neuroscience dogma and opens entirely new avenues for treating memory loss, dementia, and trauma. On a day shadowed by Ebola, war, and climate shocks, the brain's quiet stubbornness in holding onto what matters is its own kind of hope.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Discovering that the adult brain has innate repair mechanisms overturns decades of neuroscience dogma and opens entirely new therapeutic directions."
-      },
-      {
-        "name": "Medicine",
-        "signal": "bright",
-        "detail": "The astrocyte finding could accelerate treatments for stroke, TBI, and Parkinson's, conditions that collectively affect hundreds of millions of people worldwide."
+        "detail": "A foundational assumption about how mammalian memory works has been overturned, suggesting the brain has redundant, more robust memory storage mechanisms than previously understood."
       },
       {
         "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "An American missionary held captive for nine months in Niger was released alive and in good health, a reminder that individual lives can be reclaimed even from dire circumstances."
+      },
+      {
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Millions of people watching Europe's first total solar eclipse in 27 years cheered, wept, and applauded together \u2014 a reminder that shared wonder still binds humanity."
+        "detail": "Apple and Alibaba's rare cross-border AI partnership demonstrates that commercial cooperation can quietly persist even amid intense US-China geopolitical tensions."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "South African scientists identified a natural soil fungus capable of defeating the African armyworm, offering farmers a chemical-free weapon against devastating crop losses."
+        "signal": "quiet",
+        "detail": "Efforts to protect orangutans rescued from wildlife traffickers continue despite wildfires closing in, with conservationists refusing to abandon the animals in their care."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "MIT neuroscientists separately confirmed that logical reasoning operates independently of language, meaning even severely language-impaired individuals retain full reasoning capacity \u2014 a profound expansion of human dignity."
+        "signal": "glimmer",
+        "detail": "Bangladesh's Tanzid Hasan scored the nation's first Test century in Australia, a small but joyful milestone for a cricketing nation punching above its weight on the world stage."
       }
     ],
     "mood": [
-      "resilient",
-      "regenerative",
-      "hopeful",
-      "expansive",
-      "wonder"
+      "resilience",
+      "discovery",
+      "wonder",
+      "persistence",
+      "renewal"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-13.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic. The interior of a two-photon microscopy lab at night, the entire background wall consumed by a massive glowing monitor displaying magnified brain tissue \u2014 astrocyte cells rendered as luminous golden stars with long reaching arms spread across a deep teal void, their branching filaments connecting like a constellation map, tiny bright nuclei visible as warm amber orbs traveling along the cellular pathways toward a darker region of tissue. Against this blazing screen, the strong silhouettes of three researchers are thrown into pure darkness \u2014 one leaning forward with hands pressed to the desk, one standing with arm raised pointing at a traveling nucleus, one adjusting the hulking black form of the microscope itself, its fiber optic cables trailing downward like dark ribbons. The entire room is backlit by the monitor's warm golden and teal bioluminescent glow, the researchers' outlines crisp and black against the radiant starfield of healing brain tissue behind them, long shadows stretching forward across the floor toward the viewer. Deep amber and warm teal palette, the screen blazing like a sunrise caught inside a machine, darkness in the foreground, living light behind.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-13.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-08-14.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold laboratory floor, gazing up at the underside of a cluttered research desk above \u2014 power cables looping like vines, the belly of a humming monitor casting rich emerald-green light downward in warm pools, amber glow spilling from a tilted desk lamp above. A neuroscientist sits hunched in a chair, seen from directly below, their face tilted down toward a printout resting on their knees, expression caught in the private stillness of someone who has just understood something enormous \u2014 jaw slightly loose, eyes soft with wonder. Their hands hold the paper loosely, fingers barely gripping. Through the gap between desk edge and chair leg, the faint suggestion of a small dark hibernation chamber sits on a shelf, a tiny indicator light glowing gold like a single ember. The ceiling above the desk is lost in deep emerald shadow broken by amber light blooming outward from the lamp like synaptic clusters radiating from a center point. Rich saturated gold and vibrant green saturate every surface \u2014 the linoleum floor tiles beneath the camera, the underside of the researcher's forearms, the cables overhead. The mood is reverential and alive, warmth persisting in the dark.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-14.png"
   }
 }
