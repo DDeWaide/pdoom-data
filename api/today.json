@@ -1,97 +1,96 @@
 {
-  "date": "2026-08-14",
-  "generated_at": "2026-08-14T11:01:44.152954+00:00",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T10:28:23.501631+00:00",
   "doom": {
-    "percentage": 40.0,
-    "raw_percentage": 41.7,
-    "driver": "Private security firms will soon be allowed to hack overseas cybercriminals. Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+    "percentage": 35.4,
+    "raw_percentage": 33.7,
+    "driver": "Vulnerability giving attackers full control of Macs is under active exploitation. Screen-sharing bug lets remote hackers log in without a password.",
     "category": "Cyber",
-    "blurb": "GOVERNMENT OUTSOURCES THE CYBER APOCALYPSE",
-    "summary": "In a move that absolutely cannot go wrong, the White House has for the first time authorized private companies to conduct offensive cyberattacks abroad \u2014 because nothing says 'controlled escalation' like deputizing mercenary hackers with financial incentives and zero chain of command. This arrives alongside NATO shooting down a drone over Latvia while blaming Russian electronic warfare, GLM-5.3 debuting with 'emergent cyber capabilities,' and the US threatening Iran with economic isolation 'the world has never seen before.' The vibes are giving 'everyone is pointing a gun at everyone else simultaneously.'",
+    "blurb": "YOUR MAC. THEIR SCREEN. NO PASSWORD REQUIRED.",
+    "summary": "A zero-click Mac screen-sharing vulnerability is actively being weaponized in the wild, letting remote attackers waltz into your machine without so much as a knock. Coming hot on the heels of Iranian water infrastructure hacks and the government outsourcing its own cyber offense, the theme of this week is clearly 'everyone can hack everything now.' Meanwhile OpenAI and Anthropic are in a price war to make AI cheaper \u2014 which will definitely not make any of this worse.",
     "factors": [
       {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "OpenAI and Anthropic slashing prices in a race to the bottom as Chinese rivals gain ground \u2014 democratizing powerful models faster than guardrails can keep up."
+      },
+      {
         "name": "Governance",
-        "signal": "high",
-        "detail": "Authorizing private sector offensive cyberattacks is an unprecedented erosion of state monopoly on force with unpredictable escalation dynamics."
+        "signal": "low",
+        "detail": "France's top court blocked a social media ban for under-15s on free speech grounds, illustrating how courts keep outrunning tech policy globally."
       },
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "NATO drones downed over Latvia, Putin touring disputed Kuril Islands to provoke Japan, and US-Iran economic siege rhetoric all simultaneously simmering."
-      },
-      {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "GLM-5.3 launches with explicitly flagged 'emergent cyber capabilities' the same week private hacking gets federally blessed \u2014 the timing is exquisite and terrible."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Ebola spreading to a sixth DRC province, USS Abraham Lincoln crew reportedly considering jumping overboard, and Romania's only nuclear plant shutting down from Danube heat stress form a chaotic backdrop."
+        "detail": "Israeli strikes intensify in Lebanon, West Bank raids continue, South Korea proposes Korean War end talks, and Taiwan finally passed its delayed defence budget \u2014 several slow-burn fronts simultaneously warming."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "OpenAI losing its second executive in a week and Claude's new invisible watermark system suggest internal turbulence but no direct safety regression."
+        "detail": "Alibaba dropped Qwen3.8-27B to Hacker News fanfare \u2014 the open-source capability march continues regardless of what the big labs decide to restrict."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "A 7.7-magnitude earthquake in Indonesia kills at least 38, 'unprecedented' flooding strands thousands in Japan \u2014 natural disaster load unusually high for a single weekend."
       }
     ],
     "mood": [
-      "deputized",
-      "escalatory",
-      "fraying",
-      "outsourced",
-      "kinetic"
+      "exposed",
+      "frantic",
+      "simmering",
+      "cascading"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, the morning-after calm of a Northern Virginia glass-and-steel office park at 3am, the Tysons Corner cyber corridor stretching back into deep navy darkness, a nondescript corporate building's open-plan interior visible through floor-to-ceiling windows from outside on the empty parking lot, inside a single curved ultrawide monitor glows smoldering orange casting long shadows across an abandoned standing desk littered with paper coffee cups and printed documents stamped with red diagonal striping, the monitor screen displays a world map with fading red arc-lines still tracing paths between continents, slowly dimming as if a session just ended, outside a lone cleaning worker pushes a cart through the parking lot under the orange sodium wash of a single overhead streetlight, bare winter trees line the lot's perimeter pressing into deep navy sky, ethernet cables visible through the window trailing across the floor like shed snakeskin, a company ID badge lanyard left hanging on the monitor edge, the whole scene heavy with the residue of something that already happened, smoldering orange screen-glow bleeding through the glass onto wet asphalt, deep navy and threatening warmth.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-14.png"
+    "card_image": "doom-card-2026-08-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a dim Dutch apartment in Amsterdam looking outward through a rain-streaked window toward a canal-flanked brick street, deep winter night, wet cobblestones reflecting smoldering orange sodium streetlamps below a deep navy sky \u2014 the room itself is the story: a wooden desk pushed against the window holds a Mac laptop, lid open, screen casting cold blue-white light upward onto the ceiling, the display showing a cursor drifting slowly across the desktop with no hand touching the trackpad, the chair pushed back and empty, a ceramic mug steaming gently beside an absent owner's coat draped over the chair back \u2014 on the screen's glow we can see the faint ghost of System Settings open, a toggle visibly switched on \u2014 the walls of the apartment are steeped in heavy shadow, smoldering orange from the streetlights bleeding through the rain-wet glass cutting diagonal warm slashes across dark floorboards, the warmth feeling deeply wrong against the cold machine's unauthorized activity \u2014 outside through the window a neighbor's lit window shows a silhouette seated calmly at their own desk, unaware, the canal below still and black \u2014 the Mac's fan grille glows faintly hot amber, CPU working hard in the dark for someone far away.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-15.png"
   },
   "dawn": {
-    "percentage": 60.0,
-    "driver": "'Remarkable' discovery upends our understanding of how brains store memories. Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
-    "category": "Science",
-    "blurb": "MEMORY IS MORE RESILIENT THAN WE EVER IMAGINED",
-    "summary": "Scientists have made a remarkable discovery: memories survive even after the neural connections long believed to be essential for recall are severed. This upends decades of neuroscience dogma and opens entirely new avenues for treating memory loss, dementia, and trauma. On a day shadowed by Ebola, war, and climate shocks, the brain's quiet stubbornness in holding onto what matters is its own kind of hope.",
+    "percentage": 64.6,
+    "driver": "In Australia, a home battery boom has helped cut wholesale power prices.",
+    "category": "Environment",
+    "blurb": "BATTERIES ARE WINNING THE ENERGY WAR",
+    "summary": "While headlines fill with earthquakes, conflict, and cyber threats, Australia is quietly demonstrating that the clean energy transition works \u2014 and saves money. A boom in home battery installations has meaningfully cut wholesale electricity prices, proving that distributed, citizen-powered energy storage is a real economic force, not just an idealist's dream. On a day when pDoom sits at 35.4%, this is the kind of structural, unglamorous progress that actually bends the long arc of history toward resilience.",
     "factors": [
       {
-        "name": "Science",
+        "name": "Environment",
         "signal": "blazing",
-        "detail": "A foundational assumption about how mammalian memory works has been overturned, suggesting the brain has redundant, more robust memory storage mechanisms than previously understood."
+        "detail": "Australia's home battery boom cutting wholesale power prices shows clean energy transition delivering tangible, market-measurable results at scale."
       },
       {
-        "name": "Human Spirit",
+        "name": "Science",
         "signal": "bright",
-        "detail": "An American missionary held captive for nine months in Niger was released alive and in good health, a reminder that individual lives can be reclaimed even from dire circumstances."
+        "detail": "JWST's discovery of a 'black hole star' 100 billion times brighter than a star and new cosmic mapping of three million spectra expand humanity's grasp of the universe."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Apple and Alibaba's rare cross-border AI partnership demonstrates that commercial cooperation can quietly persist even amid intense US-China geopolitical tensions."
+        "detail": "South Korea's president formally proposed talks with North Korea to end the Korean War, a rare and significant diplomatic gesture across one of the world's most frozen conflicts."
       },
       {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "Efforts to protect orangutans rescued from wildlife traffickers continue despite wildfires closing in, with conservationists refusing to abandon the animals in their care."
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "A Washington state community rallied together to celebrate and thank firefighters after devastating wildfires, demonstrating resilience and mutual care in the face of disaster."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Bangladesh's Tanzid Hasan scored the nation's first Test century in Australia, a small but joyful milestone for a cricketing nation punching above its weight on the world stage."
+        "detail": "American Samoa's stunning upset of the U.S. flag football team \u2014 ending a 14-year streak \u2014 is a joyful reminder that small nations can punch far above their weight on the world stage."
       }
     ],
     "mood": [
-      "resilience",
-      "discovery",
-      "wonder",
-      "persistence",
-      "renewal"
+      "resilient",
+      "progressive",
+      "hopeful",
+      "innovative",
+      "grounded"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-08-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a cold laboratory floor, gazing up at the underside of a cluttered research desk above \u2014 power cables looping like vines, the belly of a humming monitor casting rich emerald-green light downward in warm pools, amber glow spilling from a tilted desk lamp above. A neuroscientist sits hunched in a chair, seen from directly below, their face tilted down toward a printout resting on their knees, expression caught in the private stillness of someone who has just understood something enormous \u2014 jaw slightly loose, eyes soft with wonder. Their hands hold the paper loosely, fingers barely gripping. Through the gap between desk edge and chair leg, the faint suggestion of a small dark hibernation chamber sits on a shelf, a tiny indicator light glowing gold like a single ember. The ceiling above the desk is lost in deep emerald shadow broken by amber light blooming outward from the lamp like synaptic clusters radiating from a center point. Rich saturated gold and vibrant green saturate every surface \u2014 the linoleum floor tiles beneath the camera, the underside of the researcher's forearms, the cables overhead. The mood is reverential and alive, warmth persisting in the dark.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-14.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-08-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Australian suburban streetscape dominates the frame, golden-hour amber light raking long honeyed shadows across a dense grid of terracotta-roofed homes stretching to the horizon, every rooftop visible from above \u2014 roughly one in three glittering with deep blue-black solar panels catching the last hard afternoon sun like beetle wings, the rest bare by contrast, making the adoption pattern immediately readable as a geometric patchwork across the neighborhood. Far below, tiny figures of residents stand in driveways looking up, ant-sized, dwarfed by the scale of the landscape. The second-order effect dominates: on the far edge of the composition, a row of massive electricity transmission pylons and high-voltage lines recedes into the background, their indicator lights dark and idle, load visibly shed, the infrastructure quietly redundant against the humming self-sufficiency of the suburb ahead of it. Sleek white rectangular home battery units dot exterior walls across dozens of homes, visible as small bright rectangles from above. A single electric vehicle in a driveway shows a glowing green charge light. Color palette is deep solar gold, warm teal sky, electric blue panels, clean white battery units, long amber shadows burning across cream weatherboard. Radiant, triumphant, communal, quietly revolutionary.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-15.png"
   }
 }
