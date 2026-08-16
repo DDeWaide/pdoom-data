@@ -17926,5 +17926,99 @@
       "card_image": "dawn-card-2026-08-15.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Australian suburban streetscape dominates the frame, golden-hour amber light raking long honeyed shadows across a dense grid of terracotta-roofed homes stretching to the horizon, every rooftop visible from above \u2014 roughly one in three glittering with deep blue-black solar panels catching the last hard afternoon sun like beetle wings, the rest bare by contrast, making the adoption pattern immediately readable as a geometric patchwork across the neighborhood. Far below, tiny figures of residents stand in driveways looking up, ant-sized, dwarfed by the scale of the landscape. The second-order effect dominates: on the far edge of the composition, a row of massive electricity transmission pylons and high-voltage lines recedes into the background, their indicator lights dark and idle, load visibly shed, the infrastructure quietly redundant against the humming self-sufficiency of the suburb ahead of it. Sleek white rectangular home battery units dot exterior walls across dozens of homes, visible as small bright rectangles from above. A single electric vehicle in a driveway shows a glowing green charge light. Color palette is deep solar gold, warm teal sky, electric blue panels, clean white battery units, long amber shadows burning across cream weatherboard. Radiant, triumphant, communal, quietly revolutionary."
     }
+  },
+  {
+    "date": "2026-08-16",
+    "generated_at": "2026-08-16T10:28:52.613403+00:00",
+    "doom": {
+      "percentage": 35.2,
+      "raw_percentage": 33.7,
+      "driver": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck.",
+      "category": "Geopolitics",
+      "blurb": "IRAN SAYS HORMUZ IS THEIRS. SHIPS DISAGREE.",
+      "summary": "Iran's deputy foreign minister has firmly reminded the world that the Strait of Hormuz 'will remain Iranian,' which is a perfectly relaxing thing to say about the chokepoint through which 20% of global oil flows. A ship reportedly got struck for emphasis. Meanwhile Ukraine launched one of its largest drone barrages of the war into Russia, Israel hit Lebanon again, and the strategic petroleum reserve is apparently draining fast enough to damage the actual caves it lives in \u2014 so the geopolitical stress test continues on all fronts.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran-U.S. tensions persist post-war with Hormuz sovereignty rhetoric and ship strikes; Ukraine-Russia escalation continues with one of Kyiv's largest drone attacks of the war."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Strategic Petroleum Reserve drawdown approaching levels that could physically damage storage caverns, a slow-burn infrastructure crisis with no clear political resolution in sight."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic revenue reportedly surges to $11.5B in a single quarter, signaling runaway commercial AI deployment velocity outpacing any regulatory framework."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A super El Ni\u00f1o is reportedly growing toward record strength for the coming winter, which will add climate stress on top of already stretched disaster response systems globally."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Hacker News flags that AI now operates with vastly larger working memory than the human brain \u2014 a quiet capability milestone with understated long-term implications."
+        }
+      ],
+      "mood": [
+        "simmering",
+        "tense",
+        "fractious",
+        "exhausted"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick wall of pre-dawn Gulf haze and petrochemical fog swallows the Strait of Hormuz, the atmosphere itself the dominant subject, visibility crushed to near zero as only the closest objects resolve from the murk \u2014 in the extreme foreground, the bow of a massive bulk carrier emerges from the haze at three-quarter angle, its dark hull riding high, hull plating showing a ragged punched-in gash low on the port side where faint orange heat still glows at the torn edges and seawater churns white at the breach, the ship listing barely perceptible but enough \u2014 behind and above, the fog swallows everything into deep navy gradients, but navigation lights bleed through the haze as smeared colored halos, red and green and white constellations of vessels invisible behind the atmosphere, implying a crowded killing ground \u2014 on the far horizon barely legible through three layers of haze, an oil platform flare burns a permanent sick orange, its light diffusing into the fog as a dome of amber warmth that illuminates nothing, only threatens \u2014 the water surface is flat, oily, wrong, reflecting the orange glow in long slick streaks across the black water \u2014 a lone IRGC fast boat sits dead still in the mid-distance, engine off, occupants invisible, just the silhouette of a low dark shape refusing to move \u2014 deep navy and smoldering orange, smoke-filtered light, heavy shadows dominating, warmth feels threatening."
+    },
+    "dawn": {
+      "percentage": 64.8,
+      "driver": "Semaglutide linked to lower predicted dementia risk.",
+      "category": "Medicine",
+      "blurb": "SAME DRUG, NOW FIGHTING DEMENTIA TOO",
+      "summary": "Against a backdrop of earthquakes, aerial strikes, and cascading crises, a quiet but profound signal emerged from medical research: semaglutide \u2014 already transforming how we treat obesity and diabetes \u2014 now shows a measurable link to reduced predicted dementia risk. That's potentially hundreds of millions of people gaining protection against one of the most feared and costly diseases of aging, from a drug already in widespread use. In a week heavy with doom, this is exactly the kind of compound win that rewrites long-term trajectories \u2014 not with fanfare, but with data.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Semaglutide's dementia-risk reduction signal, published in a peer-reviewed journal, suggests a single drug class may simultaneously address obesity, diabetes, cardiovascular disease, and cognitive decline."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "The at-home tick test for Lyme disease diagnosis adds another layer of accessible, decentralized healthcare \u2014 empowering people to catch serious illness earlier without a clinic visit."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Ars Technica's solar roundup shows utility-scale solar and battery storage dominated every new US power plant coming online this year, with fossil fuels a distant afterthought."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Bangladesh made history with their first-ever Test cricket win in Australia, a landmark achievement for a nation using sport to announce itself on the world stage."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A Northwest tribe partnering with University of Washington researchers to save critically endangered sunflower sea stars is a model of Indigenous knowledge and science working hand in hand for ocean health."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "resilient",
+        "pioneering",
+        "expansive",
+        "life-affirming"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single weathered brass key resting inside the hollow of an old iron lock mechanism, the tumblers partially lifted and catching deep golden amber light from the right side, long warm shadows pooling in the grooves and teeth of the key, the lock's interior throat glowing with a soft radiant teal light emanating from within as though something beyond the door is already luminous, the key's surface etched with tiny molecular chain textures suggesting a twisted necklace of spheres, the surrounding lock plate aged and dark, the contrast between the warm amber side-light and the cool teal inner glow creating a sense of something immense and locked beginning \u2014 slowly, cautiously \u2014 to yield."
+    }
   }
 ]
