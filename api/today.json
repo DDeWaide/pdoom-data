@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T10:28:52.613403+00:00",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T10:37:13.420199+00:00",
   "doom": {
-    "percentage": 35.2,
-    "raw_percentage": 33.7,
-    "driver": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck.",
+    "percentage": 39.7,
+    "raw_percentage": 41.7,
+    "driver": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry.",
     "category": "Geopolitics",
-    "blurb": "IRAN SAYS HORMUZ IS THEIRS. SHIPS DISAGREE.",
-    "summary": "Iran's deputy foreign minister has firmly reminded the world that the Strait of Hormuz 'will remain Iranian,' which is a perfectly relaxing thing to say about the chokepoint through which 20% of global oil flows. A ship reportedly got struck for emphasis. Meanwhile Ukraine launched one of its largest drone barrages of the war into Russia, Israel hit Lebanon again, and the strategic petroleum reserve is apparently draining fast enough to damage the actual caves it lives in \u2014 so the geopolitical stress test continues on all fronts.",
+    "blurb": "CEASEFIRE EXPIRES. HORMUZ HOLDS ITS BREATH.",
+    "summary": "The U.S.-Iran ceasefire is expiring today with, per CNBC, 'no deal in sight' \u2014 and shipping through the Strait of Hormuz has already ground to a near-halt in anticipation. Meanwhile OpenAI quietly disbanded its preparedness team last month, which is exactly the kind of thing you do when you're very confident nothing could go wrong. On the bright side, Ebola is still getting worse, so at least the multi-front anxiety is consistent.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "Iran-U.S. tensions persist post-war with Hormuz sovereignty rhetoric and ship strikes; Ukraine-Russia escalation continues with one of Kyiv's largest drone attacks of the war."
+        "signal": "high",
+        "detail": "U.S.-Iran ceasefire set to expire today with no extension, shipping through Hormuz already collapsing in anticipation of renewed hostilities."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Strategic Petroleum Reserve drawdown approaching levels that could physically damage storage caverns, a slow-burn infrastructure crisis with no clear political resolution in sight."
+        "signal": "elevated",
+        "detail": "Trump scales back joint military drills with South Korea citing his 'great relationship' with Kim Jong-un, rattling alliance credibility in a nuclear-armed neighborhood."
       },
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Anthropic revenue reportedly surges to $11.5B in a single quarter, signaling runaway commercial AI deployment velocity outpacing any regulatory framework."
+        "signal": "elevated",
+        "detail": "OpenAI disbanded its preparedness team \u2014 the group tasked with assessing existential model risks \u2014 quietly at the end of last month, per the Financial Times."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "A super El Ni\u00f1o is reportedly growing toward record strength for the coming winter, which will add climate stress on top of already stretched disaster response systems globally."
+        "signal": "medium",
+        "detail": "Ebola in DR Congo is now officially the deadliest outbreak in the country's history, with 2,325+ dead and the Bundibugyo strain spreading faster than any prior outbreak on record."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Hacker News flags that AI now operates with vastly larger working memory than the human brain \u2014 a quiet capability milestone with understated long-term implications."
+        "detail": "Anthropic's Claude watermarking controversy and ChatGPT's new Computer History keystroke-tracking feature are drawing scrutiny, but neither constitutes a direct safety failure."
       }
     ],
     "mood": [
-      "simmering",
-      "tense",
-      "fractious",
-      "exhausted"
+      "precarious",
+      "volatile",
+      "breathless",
+      "unguarded"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick wall of pre-dawn Gulf haze and petrochemical fog swallows the Strait of Hormuz, the atmosphere itself the dominant subject, visibility crushed to near zero as only the closest objects resolve from the murk \u2014 in the extreme foreground, the bow of a massive bulk carrier emerges from the haze at three-quarter angle, its dark hull riding high, hull plating showing a ragged punched-in gash low on the port side where faint orange heat still glows at the torn edges and seawater churns white at the breach, the ship listing barely perceptible but enough \u2014 behind and above, the fog swallows everything into deep navy gradients, but navigation lights bleed through the haze as smeared colored halos, red and green and white constellations of vessels invisible behind the atmosphere, implying a crowded killing ground \u2014 on the far horizon barely legible through three layers of haze, an oil platform flare burns a permanent sick orange, its light diffusing into the fog as a dome of amber warmth that illuminates nothing, only threatens \u2014 the water surface is flat, oily, wrong, reflecting the orange glow in long slick streaks across the black water \u2014 a lone IRGC fast boat sits dead still in the mid-distance, engine off, occupants invisible, just the silhouette of a low dark shape refusing to move \u2014 deep navy and smoldering orange, smoke-filtered light, heavy shadows dominating, warmth feels threatening.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-16.png"
+    "card_image": "doom-card-2026-08-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 a tanker port dispatcher's cramped control booth elevated above an empty Gulf terminal dock, pre-dawn Monday, the eastern horizon bleeding amber-orange through yellowed desert haze, the threatening warmth of a ceasefire expiry dawn pressing through the grimy booth window \u2014 in sharp black silhouette against that burning horizon glow, a single heavyset figure sits slumped forward at a cluttered dispatch console, elbows on the desk, head dropped into both hands, the posture of a person watching something collapse in slow motion \u2014 the console before them glows with a single monitor, its red downward-trending line graph the only cool light source in the room, casting faint crimson upward onto the underside of the figure's forearms \u2014 outside the booth window, the terminal's loading dock stretches into pre-dawn darkness, its massive berths designed for supertankers completely, unnervingly empty, mooring ropes hanging slack into still water, orange bollard lights reflected in undisturbed black water below \u2014 no ships, no movement, no wake \u2014 the emptiness of the dock is vast and deliberate, the absent vessels implied by the scale of the infrastructure built to receive them \u2014 dust particles hang motionless in the amber air, the stillness itself the horror.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-17.png"
   },
   "dawn": {
-    "percentage": 64.8,
-    "driver": "Semaglutide linked to lower predicted dementia risk.",
+    "percentage": 60.3,
+    "driver": "This 10-cent heart drug cuts hospitalizations by 25%.",
     "category": "Medicine",
-    "blurb": "SAME DRUG, NOW FIGHTING DEMENTIA TOO",
-    "summary": "Against a backdrop of earthquakes, aerial strikes, and cascading crises, a quiet but profound signal emerged from medical research: semaglutide \u2014 already transforming how we treat obesity and diabetes \u2014 now shows a measurable link to reduced predicted dementia risk. That's potentially hundreds of millions of people gaining protection against one of the most feared and costly diseases of aging, from a drug already in widespread use. In a week heavy with doom, this is exactly the kind of compound win that rewrites long-term trajectories \u2014 not with fanfare, but with data.",
+    "blurb": "ANCIENT DRUG, MODERN MIRACLE, TEN CENTS A DAY",
+    "summary": "In a world grappling with Ebola crises and geopolitical tension, a quiet triumph from medical science deserves a moment: centuries-old digoxin, costing less than a dime daily, can slash heart-failure hospitalizations by a quarter. This isn't a moonshot breakthrough requiring billion-dollar infrastructure \u2014 it's an already-available, already-understood medicine being rediscovered for the people who need it most. Accessible, affordable, and effective: sometimes the best news is that the answer was already in the cabinet.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Semaglutide's dementia-risk reduction signal, published in a peer-reviewed journal, suggests a single drug class may simultaneously address obesity, diabetes, cardiovascular disease, and cognitive decline."
-      },
-      {
-        "name": "Medicine",
-        "signal": "bright",
-        "detail": "The at-home tick test for Lyme disease diagnosis adds another layer of accessible, decentralized healthcare \u2014 empowering people to catch serious illness earlier without a clinic visit."
-      },
-      {
-        "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Ars Technica's solar roundup shows utility-scale solar and battery storage dominated every new US power plant coming online this year, with fossil fuels a distant afterthought."
+        "detail": "Rediscovering digoxin's power shows that rigorous reanalysis of existing treatments can unlock major gains without starting from scratch."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Bangladesh made history with their first-ever Test cricket win in Australia, a landmark achievement for a nation using sport to announce itself on the world stage."
+        "detail": "Cameroon's women footballers won their first-ever Women's Africa Cup of Nations title, a landmark moment for a program that had fallen short three times before."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Jared Kushner held rare direct talks with Hamas leadership in Egypt, a fragile but real diplomatic signal that back-channel dialogue hasn't fully collapsed in Gaza."
+      },
+      {
+        "name": "Environment",
+        "signal": "bright",
+        "detail": "El Ni\u00f1o and Saharan dust are suppressing this year's Atlantic hurricane season, giving coastal communities an unexpected window of relative calm."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "A Northwest tribe partnering with University of Washington researchers to save critically endangered sunflower sea stars is a model of Indigenous knowledge and science working hand in hand for ocean health."
+        "detail": "A screen-time study tracking Finnish children for eight years found that more screen use correlated with better cognitive processing in teenagers, challenging one of parenting's most entrenched anxieties."
       }
     ],
     "mood": [
-      "hopeful",
+      "accessible",
       "resilient",
-      "pioneering",
-      "expansive",
-      "life-affirming"
+      "hopeful",
+      "rediscovered",
+      "achievable"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-16.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single weathered brass key resting inside the hollow of an old iron lock mechanism, the tumblers partially lifted and catching deep golden amber light from the right side, long warm shadows pooling in the grooves and teeth of the key, the lock's interior throat glowing with a soft radiant teal light emanating from within as though something beyond the door is already luminous, the key's surface etched with tiny molecular chain textures suggesting a twisted necklace of spheres, the surrounding lock plate aged and dark, the contrast between the warm amber side-light and the cool teal inner glow creating a sense of something immense and locked beginning \u2014 slowly, cautiously \u2014 to yield.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-16.png"
+    "card_image": "dawn-card-2026-08-17.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a cluttered Dutch home kitchen at midnight, warm amber glow pooling from a single overhead lamp onto a small wooden table, deep teal darkness swallowing the edges of the room, a lace curtain barely visible at the black window behind. On the table a folded newspaper lies open, its front page dominating the composition, a bold graphic visible on the page showing a tiny pill beside a coin, a downward-sloping graph line rendered in amber and red. Beside the newspaper a single small white pill sits next to a copper-gold 10-cent euro coin, both catching the lamplight, their near-identical sizes unmistakable. A half-empty glass of water glows amber where the light hits it. In the deep background shadow, a foxglove plant in a dark ceramic pot leans against the wall, its purple bell-shaped blooms barely lit by a faint streetlight bleeding orange through the lace curtain. Long shadows rake across the table surface. The mood is quiet, intimate, the stillness of a life-changing fact settling into an ordinary kitchen at the edge of night.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-17.png"
   }
 }
