@@ -18498,5 +18498,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a cluttered Dutch home kitchen at midnight, warm amber glow pooling from a single overhead lamp onto a small wooden table, deep teal darkness swallowing the edges of the room, a lace curtain barely visible at the black window behind. On the table a folded newspaper lies open, its front page dominating the composition, a bold graphic visible on the page showing a tiny pill beside a coin, a downward-sloping graph line rendered in amber and red. Beside the newspaper a single small white pill sits next to a copper-gold 10-cent euro coin, both catching the lamplight, their near-identical sizes unmistakable. A half-empty glass of water glows amber where the light hits it. In the deep background shadow, a foxglove plant in a dark ceramic pot leans against the wall, its purple bell-shaped blooms barely lit by a faint streetlight bleeding orange through the lace curtain. Long shadows rake across the table surface. The mood is quiet, intimate, the stillness of a life-changing fact settling into an ordinary kitchen at the edge of night.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-17.png"
     }
+  },
+  {
+    "date": "2026-08-18",
+    "generated_at": "2026-08-18T10:34:42.061283+00:00",
+    "doom": {
+      "percentage": 40.6,
+      "raw_percentage": 42.6,
+      "driver": "Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran.",
+      "category": "Nuclear",
+      "blurb": "NUKE FIRST, GAS PRICES LATER, APPARENTLY",
+      "summary": "With the ceasefire expired and bond yields hitting multi-decade highs, Trump has casually clarified that yes, actually, eliminating Iran's nuclear program is the primary mission \u2014 not your gas bill. Meanwhile, he's threatening to bomb Oman, a US-adjacent mediator, for having the audacity to negotiate. South Korea is simultaneously being told to fend for itself militarily while Trump cozies up to Kim Jong-un, which is the kind of alliance management that makes the Pentagon's eye twitch.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "high",
+          "detail": "Trump explicitly elevating Iran nuclear elimination as priority #1 while ceasefire expires and Hormuz shipping collapses signals active escalation toward a military confrontation."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Trump gutting South Korea military drills to flatter Kim Jong-un while simultaneously threatening Oman represents a chaotic multi-front unraveling of US alliance architecture."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Vance and Trump publicly contradicting each other on Iran war objectives suggests strategic incoherence at the top of the US command structure."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Israel reportedly creating fake think tanks to manipulate AI chatbots points to state-level information warfare via AI becoming operational, not theoretical."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Global bond yields hitting multi-decade highs due to US-Iran stalemate suggests financial markets are beginning to price in a prolonged military conflict scenario."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "escalating",
+        "incoherent",
+        "precarious",
+        "jittery"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked asphalt looking steeply upward at a suburban Long Island gas station canopy, the camera hugging the oil-stained concrete below a rusted pump island, the underside of the station's flat fiberglass awning looming overhead in deep charcoal shadow, its fluorescent tube lights dead and dark, one hanging loose and swinging on corroded wires \u2014 the price display panel above the pump faces blank, all digits extinguished, a second-order silence radiating outward from the policy contradiction above \u2014 beyond the canopy edge the August sky has turned an oppressive bruised crimson, thick humid haze catching the last firelight tones of a sun buried behind petrochemical cloud, the color of a world holding its breath \u2014 a single car sits abandoned at the pump, driver's door hanging open, interior dome light casting a feeble amber rectangle onto the pavement below, the only warm light in the frame \u2014 a crumpled paper receipt skitters across the concrete foreground caught in dead wind \u2014 deep in the background the faint silhouette of a water tower rises against the crimson sky, dwarfed and powerless, dark crimson and charcoal palette throughout, high contrast shadows pressing down from every overhang, oppressive stillness, firelight reflections catching the chrome pump nozzle hanging unused in its cradle.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-18.png"
+    },
+    "dawn": {
+      "percentage": 59.4,
+      "driver": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study.",
+      "category": "Medicine",
+      "blurb": "ONE POLICY CHANGE. 114,000 LIVES SAVED ANNUALLY.",
+      "summary": "A Yale School of Public Health study delivers a genuinely staggering finding: universal health coverage isn't just a moral argument \u2014 it's a trillion-dollar economic solution and a lifesaver at massive scale. In a week dominated by geopolitical brinkmanship and military posturing, researchers quietly published evidence that one of humanity's most persistent problems has a clear, quantifiable answer. The math of compassion, it turns out, is extraordinary.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Yale's rigorous quantification of universal health coverage's impact gives policymakers a concrete, evidence-based mandate that transcends political ideology."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The study implicitly maps a path for international alignment on health systems \u2014 rare common ground in a fractured geopolitical moment."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Zambia's president won re-election with 60% of the vote and immediately promised to govern for all Zambians \u2014 a democratic affirmation worth noting."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Airlines are trialing the world's first large-scale contrail avoidance program over the Atlantic, a small but real climate innovation taking flight."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A new therapy that 'rewrites' childhood memories to ease fear of failure shows the brain's emotional patterns are far more plastic than previously assumed."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "determined",
+        "consequential",
+        "evidence-based",
+        "transformative"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a sparse but warmly lit clinic waiting room the morning after, looking outward through a wide rectangular window toward a sun-drenched street, rich gold light flooding through the glass and pooling across worn linoleum floors in long saturated rectangles, emerald green houseplants framing the windowsill in lush silhouette. The room behind us is quietly transformed: a single clean simple insurance card rests on an otherwise bare reception counter where stacks of paperwork once towered, the counter surface visibly cleared, a faint ghost-impression of old bill stacks suggested by lighter floor tiles beneath. Through the window outside, a small row of ordinary storefronts glows in deep afternoon amber, a figure walking away down the sidewalk with an unhurried ease, shoulders loose, no longer braced. On the waiting room wall to one side, a corkboard holds a single pinned sheet with a constellation of 114,174 tiny golden dots arranged like stars, catching the window light. A stethoscope and a small dental mirror lie side by side on the counter, paired deliberately, calm and ready. The entire palette is saturated gold and vibrant emerald, afternoon sun burning warm through glass, deep green shadows in corners, the feeling of a long exhale after years of held breath.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-18.png"
+    }
   }
 ]
