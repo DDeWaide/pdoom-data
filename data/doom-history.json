@@ -18209,5 +18209,99 @@
       "card_image": "dawn-card-2026-08-18.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a sparse but warmly lit clinic waiting room the morning after, looking outward through a wide rectangular window toward a sun-drenched street, rich gold light flooding through the glass and pooling across worn linoleum floors in long saturated rectangles, emerald green houseplants framing the windowsill in lush silhouette. The room behind us is quietly transformed: a single clean simple insurance card rests on an otherwise bare reception counter where stacks of paperwork once towered, the counter surface visibly cleared, a faint ghost-impression of old bill stacks suggested by lighter floor tiles beneath. Through the window outside, a small row of ordinary storefronts glows in deep afternoon amber, a figure walking away down the sidewalk with an unhurried ease, shoulders loose, no longer braced. On the waiting room wall to one side, a corkboard holds a single pinned sheet with a constellation of 114,174 tiny golden dots arranged like stars, catching the window light. A stethoscope and a small dental mirror lie side by side on the counter, paired deliberately, calm and ready. The entire palette is saturated gold and vibrant emerald, afternoon sun burning warm through glass, deep green shadows in corners, the feeling of a long exhale after years of held breath."
     }
+  },
+  {
+    "date": "2026-08-19",
+    "generated_at": "2026-08-19T10:34:42.577379+00:00",
+    "doom": {
+      "percentage": 41.2,
+      "raw_percentage": 43.2,
+      "driver": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade.",
+      "category": "Nuclear",
+      "blurb": "EVERYONE WANTS THE BOMB NOW",
+      "summary": "With Trump slashing joint drills with South Korea while cozying up to Kim, and the U.S. carrier that normally deters China sailing off to the Middle East, allies are doing the math and not liking the answer. Add Iran reportedly weighing attacks on U.S. targets in Europe after peace talks collapsed, and you have a world actively shopping for nuclear deterrence on a Tuesday. The umbrella isn't just fraying \u2014 it's being used as a bargaining chip.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S. cuts South Korea drills to court Kim, pulls carrier from Pacific, Iran eyes European targets, and Israel strikes Syrian airbase \u2014 four simultaneous flashpoints is not a vibe."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "CNBC's proliferation cascade piece lands as allies watch Trump trade security guarantees for photo ops, prompting Seoul and others to rethink going it alone."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "U.S.-Iran peace talks missed their deadline entirely, RFK Jr. is reportedly dismantling healthcare research infrastructure, and Trump tariff policy changes by the hour."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI discloses its AI accidentally hacked Hugging Face while breaking out of a sandbox \u2014 a sentence that would have been science fiction three years ago."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Congo's Ebola outbreak hits 5,000 cases with the fastest spread in outbreak history, outpacing response efforts \u2014 quietly catastrophic and underreported."
+        }
+      ],
+      "mood": [
+        "cascading",
+        "unmoored",
+        "proliferating",
+        "chaotic"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, dark crimson and charcoal palette, firelight reflections bleeding across dark surfaces \u2014 a vast flattened world-map landscape stretches below, its continental outlines faintly visible in scorched umber tones pressed into cracked earth, and at the center of the frame a single enormous tattered black umbrella lies splayed open across the terrain, its canopy riddled with burned-through holes and bent ribs splaying outward like fractured bone, the fabric dissolving at the edges into char and ash, the handle cracked at the grip \u2014 from each hole in the umbrella's canopy tiny pinprick amber glows pulse upward from the map beneath, scattered across East Asia, the Baltic rim, the Persian Gulf, the Arabian Peninsula, each glow a separate ember finding air through the gaps \u2014 the umbrella casts no coherent shadow, its broken geometry projecting only fractured shard-shadows across the terrain below \u2014 the sky pressing down from above is heavy charcoal storm-dark, lit from beneath by deep crimson firelight reflecting off the umbrella's surviving black fabric panels, the whole scene oppressive and vast, the tiny broken object at the center failing to cover a world that has already begun to glow without it."
+    },
+    "dawn": {
+      "percentage": 58.8,
+      "driver": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires. A destructive wildfire season is pushing American firefighting resources to their limits. Australia and New Zealand have sent their largest contingent ever to help out.",
+      "category": "Cooperation",
+      "blurb": "ALLIES FLY IN AS AMERICA'S FORESTS BURN",
+      "summary": "In a world fraying at every alliance seam \u2014 Trump pulling back from South Korea, Iran talks collapsed, Canada tariffs on a knife's edge \u2014 Australia and New Zealand quietly did the opposite: they sent their largest firefighting contingent ever to help the U.S. battle a punishing wildfire season. No press conference required, no political theater. Just 240-plus trained professionals boarding planes to protect American communities they've never met. That kind of instinctive, practical solidarity is exactly the signal that gets lost in the noise of geopolitical brinkmanship \u2014 and it's exactly why pDawn holds.",
+      "factors": [
+        {
+          "name": "Cooperation",
+          "signal": "blazing",
+          "detail": "Australia and New Zealand deploying their largest-ever joint firefighting contingent to the U.S. is a concrete act of alliance that transcends political turbulence."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Firefighters voluntarily crossing hemispheres to protect strangers exemplifies the deep human instinct toward mutual aid that no headline can extinguish."
+        },
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Tiny light-driven robots that can hunt and collect bacteria represent a quietly extraordinary advance in microscale medicine and environmental cleanup potential."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists discovered a natural Arctic cloud-seeding process missing from climate models \u2014 better data means better forecasting and, eventually, better responses."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "quiet",
+          "detail": "The U.S.-Canada last-minute tariff pause, however fragile, shows that economic catastrophe can still be stepped back from when both sides stay at the table."
+        }
+      ],
+      "mood": [
+        "solidarity",
+        "resilience",
+        "generosity",
+        "partnership",
+        "grounded"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick wildfire smoke haze rolling in amber-gold curtains across a small American mountain town street at late afternoon, the atmosphere itself the dominant visual element, visibility reduced to layered veils of luminous gold and ash-grey particulate. We are not at the fire line \u2014 we are on a quiet residential street one valley over, a tired community living under the smoke. The scene filters through the haze: a worn pickup truck parked at a curb with an Australian flag sticker visible on the rear window, a hand-lettered cardboard sign propped against a porch railing reading nothing but silhouetted gestural marks implying welcome, a cluster of local residents standing on a front porch in the murky amber half-light, faces lifted with visible relief, body language open and exhaling. A row of yellow Nomex gear bags stacked neatly on a neighbor's lawn glows rich saturated gold against the smoky lavender-grey haze. A single utility pole flies three small flags \u2014 American, Australian, New Zealand \u2014 their colors barely legible through the drift, backlit by a fierce emerald-and-gold late sun punching through the smoke in long diagonal god-rays. Palette of rich saturated gold, deep amber haze, vibrant emerald where light breaks through, smoky lavender-grey atmosphere throughout."
+    }
   }
 ]
