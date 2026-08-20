@@ -18303,5 +18303,100 @@
       "card_image": "dawn-card-2026-08-19.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick wildfire smoke haze rolling in amber-gold curtains across a small American mountain town street at late afternoon, the atmosphere itself the dominant visual element, visibility reduced to layered veils of luminous gold and ash-grey particulate. We are not at the fire line \u2014 we are on a quiet residential street one valley over, a tired community living under the smoke. The scene filters through the haze: a worn pickup truck parked at a curb with an Australian flag sticker visible on the rear window, a hand-lettered cardboard sign propped against a porch railing reading nothing but silhouetted gestural marks implying welcome, a cluster of local residents standing on a front porch in the murky amber half-light, faces lifted with visible relief, body language open and exhaling. A row of yellow Nomex gear bags stacked neatly on a neighbor's lawn glows rich saturated gold against the smoky lavender-grey haze. A single utility pole flies three small flags \u2014 American, Australian, New Zealand \u2014 their colors barely legible through the drift, backlit by a fierce emerald-and-gold late sun punching through the smoke in long diagonal god-rays. Palette of rich saturated gold, deep amber haze, vibrant emerald where light breaks through, smoky lavender-grey atmosphere throughout."
     }
+  },
+  {
+    "date": "2026-08-20",
+    "generated_at": "2026-08-20T10:36:44.960597+00:00",
+    "doom": {
+      "percentage": 41.9,
+      "raw_percentage": 43.7,
+      "driver": "North Korea fires a suspected missile toward the sea, Japan says.",
+      "category": "Geopolitics",
+      "blurb": "KIM SHOOTS. TRUMP COUNTS. NOBODY TALKS.",
+      "summary": "North Korea fired a suspected missile the day after shrugging off Trump's overtures to restart diplomacy \u2014 which is either a negotiating tactic or a very loud 'no.' Meanwhile, Trump publicly revealed Pyongyang has exactly 57 nukes (the first time any U.S. official has done so), which is either a diplomatic masterstroke or the geopolitical equivalent of announcing the home alarm code. Pair that with a Russian missile strike killing 12 in Kyiv, Trump threatening Iran with 'Economic D-Day,' and Somali pirates making a comeback, and today's vibe is: every bad actor decided to check in at once.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "North Korea missile launch, Russian strike on Kyiv killing 12, Trump threatening Iran post-ceasefire expiry, and U.S. scaling back South Korea drills \u2014 four separate fronts actively deteriorating simultaneously."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump publicly disclosing North Korea's exact nuclear arsenal count (57 warheads) is either a calculated pressure move or an unprecedented intelligence leak dressed as diplomacy."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "OpenAI hitting the brakes on rapid deployment is mildly reassuring; no major capability jumps in today's headlines."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Somali piracy resurging in the Red Sea as U.S.-Iran war drains enforcement resources signals classic cascading-conflict spillover effects taking hold."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "AI watermarking for generated text is being rolled out but already flagged as ineffective \u2014 good intentions, questionable execution, low immediate risk."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "cascading",
+        "unnerving",
+        "fragmented",
+        "simmering"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a smartphone screen lying face-up on a wooden Korean breakfast table, the screen dominating the composition edge to edge, a Korean-language news alert glowing harsh white against a dark crimson interface, the notification banner casting a cold backlight upward onto the grain of the table's dark lacquered surface, firelight-red reflections bleeding across the wood \u2014 at the screen's edges: the blurred ghost of a ceramic rice bowl, a pair of wooden chopsticks resting still, a glass of barley tea catching the screen's cold glow and turning it amber-dark \u2014 the phone itself is cracked at one corner, screen protector lifting slightly, the alert icon a small animated exclamation rendered in blocky 16-bit pixels \u2014 the table surface is charcoal-dark, the grain visible in deep brown-black tones, firelight warmth fighting the cold white of the alert \u2014 no sky, no horizon, no missile, no sea \u2014 only the intimacy of a civilian moment interrupted, the mundane stillness of a Korean morning shattered by a single glowing rectangle, dark crimson and charcoal palette throughout, high contrast, oppressive, heavy shadow swallowing everything beyond the screen's reach."
+    },
+    "dawn": {
+      "percentage": 58.1,
+      "driver": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say. The vaccine reportedly thwarted the cancer's return and spread.",
+      "category": "Medicine",
+      "blurb": "MRNA DEFEATS MELANOMA IN LANDMARK TRIAL",
+      "summary": "Against a backdrop of geopolitical darkness \u2014 expiring ceasefires, missile strikes on Kyiv, nuclear saber-rattling \u2014 Moderna and Merck have delivered a genuine milestone: the first mRNA cancer vaccine to succeed in a Phase 3 trial, significantly extending the time melanoma patients lived without their cancer returning compared to existing treatment alone. This is the technology that defeated COVID-19 now being turned against cancer itself, and it working in a late-stage trial is not incremental progress \u2014 it is a proof of concept for an entirely new class of medicine. The platform is adaptable; what works here for melanoma could be tuned for dozens of other cancers, meaning today's headline may one day be remembered as the moment the war on cancer decisively turned.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A Phase 3 success for mRNA cancer vaccines validates a platform that could be adapted to fight multiple cancer types beyond melanoma."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Moderna and Merck's joint development of this neoantigen therapy shows pharma collaboration at its most productive, combining mRNA expertise with an established immunotherapy backbone."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Children's stunted lungs showed measurable recovery in London's ultra low emission zone, proving communities can heal when humans choose to act."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Giant whales are expanding into newly ice-free Greenland waters, a reminder that ecosystems adapt and wildlife responds quickly when given opportunity."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Scientists discovered the closest star to the Milky Way's central black hole, moving at 8% the speed of light \u2014 a natural laboratory that may finally let us measure a black hole's rotation."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "pioneering",
+        "transformative"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden-emerald glow. The scene is set outdoors at the threshold of a research hospital entrance at golden hour, warm saturated afternoon light blazing through towering trees whose leaves filter the sun into shafts of rich emerald and amber, the entire background sky burning with saturated gold. Against this brilliant backlit glow, the dark silhouette of a patient stands upright and steady, sleeve rolled up, arm extended slightly, a small vial held between their fingertips raised toward the light \u2014 the vial catching the backlight and glowing like a tiny amber lantern, translucent and alive. Beside the patient's silhouette, a second figure stands close \u2014 a clinician, coat open, hand raised mid-gesture \u2014 both rendered as pure black cutouts against the blazing gold-green light. Surrounding them, the dark outlines of tree branches frame the composition like a cathedral arch, leaves rendered as dense clusters of deep emerald pixel shapes, light bleeding through gaps in vivid gold. On the ground, long rich shadows stretch forward toward the viewer. The overall feeling is quiet triumph at a threshold \u2014 a door being crossed, a return thwarted, the body defended."
+    }
   }
 ]
