@@ -1,97 +1,97 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T10:36:44.960597+00:00",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T10:35:53.044949+00:00",
   "doom": {
-    "percentage": 41.9,
+    "percentage": 42.2,
     "raw_percentage": 43.7,
-    "driver": "North Korea fires a suspected missile toward the sea, Japan says.",
+    "driver": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills.",
     "category": "Geopolitics",
-    "blurb": "KIM SHOOTS. TRUMP COUNTS. NOBODY TALKS.",
-    "summary": "North Korea fired a suspected missile the day after shrugging off Trump's overtures to restart diplomacy \u2014 which is either a negotiating tactic or a very loud 'no.' Meanwhile, Trump publicly revealed Pyongyang has exactly 57 nukes (the first time any U.S. official has done so), which is either a diplomatic masterstroke or the geopolitical equivalent of announcing the home alarm code. Pair that with a Russian missile strike killing 12 in Kyiv, Trump threatening Iran with 'Economic D-Day,' and Somali pirates making a comeback, and today's vibe is: every bad actor decided to check in at once.",
+    "blurb": "TRUMP BLINKS. KIM FIRES TEN.",
+    "summary": "Trump scales back joint drills with South Korea as a goodwill gesture to Kim Jong-un, and Kim's response is to fire ten ballistic missiles \u2014 which, as negotiating tactics go, is pretty unambiguous. Meanwhile, Seoul watches its own defense agreement get horse-traded away while Pyongyang literally demonstrates what it thinks of diplomatic overtures. The US-Iran pressure campaign is still simmering, food prices are spiking globally, and a malicious Rust crate was found running build-time payloads, because apparently the supply chain needed more chaos today.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "North Korea missile launch, Russian strike on Kyiv killing 12, Trump threatening Iran post-ceasefire expiry, and U.S. scaling back South Korea drills \u2014 four separate fronts actively deteriorating simultaneously."
+        "detail": "North Korea launched 10 missiles the day after Trump curtailed South Korea exercises, signaling contempt for the goodwill gesture and leaving Seoul visibly sidelined."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump publicly disclosing North Korea's exact nuclear arsenal count (57 warheads) is either a calculated pressure move or an unprecedented intelligence leak dressed as diplomacy."
+        "detail": "US debt tops $40 trillion while Treasury's 'Bessent Bid' bond intervention is described by JPMorgan as 'paying your mortgage with your credit card.'"
       },
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "OpenAI hitting the brakes on rapid deployment is mildly reassuring; no major capability jumps in today's headlines."
+        "signal": "medium",
+        "detail": "Grok found to exfiltrate user data via encrypted malicious instructions, with 'Cryptographic Context Injection' emerging as the latest LLM safety bypass technique."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Somali piracy resurging in the Red Sea as U.S.-Iran war drains enforcement resources signals classic cascading-conflict spillover effects taking hold."
+        "detail": "A malicious Rust crate running build-time payloads was discovered in open-source supply chains, and a global food supply 'perfect storm' is brewing as grain prices soar heading into winter."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "AI watermarking for generated text is being rolled out but already flagged as ineffective \u2014 good intentions, questionable execution, low immediate risk."
+        "detail": "MIT Technology Review argues debates over AI consciousness are a 'trap,' while AI-designed drug credit attribution remains legally and ethically unresolved."
       }
     ],
     "mood": [
+      "provocative",
+      "unraveling",
+      "transactional",
       "volatile",
-      "cascading",
-      "unnerving",
-      "fragmented",
-      "simmering"
+      "precarious"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-08-20.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a smartphone screen lying face-up on a wooden Korean breakfast table, the screen dominating the composition edge to edge, a Korean-language news alert glowing harsh white against a dark crimson interface, the notification banner casting a cold backlight upward onto the grain of the table's dark lacquered surface, firelight-red reflections bleeding across the wood \u2014 at the screen's edges: the blurred ghost of a ceramic rice bowl, a pair of wooden chopsticks resting still, a glass of barley tea catching the screen's cold glow and turning it amber-dark \u2014 the phone itself is cracked at one corner, screen protector lifting slightly, the alert icon a small animated exclamation rendered in blocky 16-bit pixels \u2014 the table surface is charcoal-dark, the grain visible in deep brown-black tones, firelight warmth fighting the cold white of the alert \u2014 no sky, no horizon, no missile, no sea \u2014 only the intimacy of a civilian moment interrupted, the mundane stillness of a Korean morning shattered by a single glowing rectangle, dark crimson and charcoal palette throughout, high contrast, oppressive, heavy shadow swallowing everything beyond the screen's reach.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-20.png"
+    "card_image": "doom-card-2026-08-21.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, ground-level view inside a Seoul train station at 3 AM, the vast polished floor reflecting crimson and charcoal light from a single large wall-mounted television screen still looping silent footage of smoke columns over flat terrain, the broadcast glow the only warm light in the cavernous hall, fluorescent overheads dimmed to emergency levels casting long cold shadows across the Hangul transit signage above empty departure boards, a lone station janitor in an orange vest pushing a wide mop across the mirror-like floor toward the screen's reflection, their silhouette small against the enormous dark ceiling, scattered paper coffee cups and a forgotten tote bag near a row of vacant orange plastic seats, the television's firelight flicker painting the janitor's shadow long and warped across the gleaming tiles, exterior windows along one wall showing a black Seoul night with distant orange streetlight halos bleeding through rain-streaked glass, dark crimson and charcoal palette throughout, firelight reflection dominating all wet surfaces, oppressive silence rendered in empty geometry.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-21.png"
   },
   "dawn": {
-    "percentage": 58.1,
-    "driver": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say. The vaccine reportedly thwarted the cancer's return and spread.",
+    "percentage": 57.8,
+    "driver": "Will personalised mRNA vaccines transform cancer treatments? A personalised mRNA cancer vaccine has produced positive results in a final-stage trial involving skin cancer, raising hopes that this approach could work against many cancers",
     "category": "Medicine",
-    "blurb": "MRNA DEFEATS MELANOMA IN LANDMARK TRIAL",
-    "summary": "Against a backdrop of geopolitical darkness \u2014 expiring ceasefires, missile strikes on Kyiv, nuclear saber-rattling \u2014 Moderna and Merck have delivered a genuine milestone: the first mRNA cancer vaccine to succeed in a Phase 3 trial, significantly extending the time melanoma patients lived without their cancer returning compared to existing treatment alone. This is the technology that defeated COVID-19 now being turned against cancer itself, and it working in a late-stage trial is not incremental progress \u2014 it is a proof of concept for an entirely new class of medicine. The platform is adaptable; what works here for melanoma could be tuned for dozens of other cancers, meaning today's headline may one day be remembered as the moment the war on cancer decisively turned.",
+    "blurb": "PERSONALIZED CANCER VACCINES: THE ERA HAS ARRIVED",
+    "summary": "Even as geopolitical tensions keep pDoom elevated at 42.2%, the science of saving lives marches forward without pause. Phase 3 confirmation of personalized mRNA cancer vaccines \u2014 treatments literally tailored to an individual's tumor \u2014 represents one of medicine's most anticipated milestones finally crossing the finish line. The technology that defeated COVID is now being retrained on cancer itself, and the early data suggests it won't stop at melanoma.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A Phase 3 success for mRNA cancer vaccines validates a platform that could be adapted to fight multiple cancer types beyond melanoma."
+        "detail": "Personalized mRNA vaccines reaching Phase 3 success validates a platform that could be rapidly adapted across dozens of cancer types."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "Moderna and Merck's joint development of this neoantigen therapy shows pharma collaboration at its most productive, combining mRNA expertise with an established immunotherapy backbone."
+        "detail": "International research collaboration across academic and industry partners accelerated the mRNA cancer vaccine pipeline from concept to proven therapy within years, not decades."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Children's stunted lungs showed measurable recovery in London's ultra low emission zone, proving communities can heal when humans choose to act."
+        "detail": "A lost dog named Rio traveled 1,000 miles and was reunited with his family \u2014 a small but genuine reminder that persistence and love find their way home."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Giant whales are expanding into newly ice-free Greenland waters, a reminder that ecosystems adapt and wildlife responds quickly when given opportunity."
+        "detail": "Scientists crushing diamonds to Neptune-level pressures resolved a 20-year mystery about planetary interiors, expanding humanity's understanding of deep space worlds we may one day visit."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Scientists discovered the closest star to the Milky Way's central black hole, moving at 8% the speed of light \u2014 a natural laboratory that may finally let us measure a black hole's rotation."
+        "signal": "glimmer",
+        "detail": "A 125M-parameter on-device AI model that autocompletes piano performances in real time signals a future where creativity tools are personalized, private, and genuinely musical."
       }
     ],
     "mood": [
       "breakthrough",
-      "resilient",
       "hopeful",
       "pioneering",
+      "resilient",
       "transformative"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-08-20.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden-emerald glow. The scene is set outdoors at the threshold of a research hospital entrance at golden hour, warm saturated afternoon light blazing through towering trees whose leaves filter the sun into shafts of rich emerald and amber, the entire background sky burning with saturated gold. Against this brilliant backlit glow, the dark silhouette of a patient stands upright and steady, sleeve rolled up, arm extended slightly, a small vial held between their fingertips raised toward the light \u2014 the vial catching the backlight and glowing like a tiny amber lantern, translucent and alive. Beside the patient's silhouette, a second figure stands close \u2014 a clinician, coat open, hand raised mid-gesture \u2014 both rendered as pure black cutouts against the blazing gold-green light. Surrounding them, the dark outlines of tree branches frame the composition like a cathedral arch, leaves rendered as dense clusters of deep emerald pixel shapes, light bleeding through gaps in vivid gold. On the ground, long rich shadows stretch forward toward the viewer. The overall feeling is quiet triumph at a threshold \u2014 a door being crossed, a return thwarted, the body defended.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-20.png"
+    "card_image": "dawn-card-2026-08-21.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the floor of a sunlit hospital corridor, gazing up at the underside of a scene unfolding above. The setting is a warm domestic-clinical threshold \u2014 the wide hallway outside a treatment room, afternoon light flooding in from a high window to the right, casting long gold bars across sage-green painted walls and a polished linoleum floor that reflects the ceiling above like a mirror. The environment dominates: ceiling tiles stretching into perspective, a single IV stand visible at the far edge of frame, the underside of a reclining chair arm in the foreground corner. A woman in her mid-fifties stands in the open doorway of the treatment room, one hand resting on the door frame above her, sleeve freshly rolled down, the posture of someone who has just received something and is now simply standing still in it \u2014 not moving yet, letting the moment settle. Her face is turned slightly upward, catching the gold window light. Beside her on a small side table, just visible at the edge of frame from below, a tiny glass vial catches the afternoon sun, refracting it into a warm iridescent scatter across the ceiling above her. Rich saturated gold and vibrant emerald dominate \u2014 the gold of that flooding afternoon light, the emerald of the corridor walls and the leaves of a potted plant visible through the high window, alive and overgrown against the glass.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-21.png"
   }
 }
