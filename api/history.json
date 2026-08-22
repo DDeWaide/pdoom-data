@@ -18885,5 +18885,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the floor of a sunlit hospital corridor, gazing up at the underside of a scene unfolding above. The setting is a warm domestic-clinical threshold \u2014 the wide hallway outside a treatment room, afternoon light flooding in from a high window to the right, casting long gold bars across sage-green painted walls and a polished linoleum floor that reflects the ceiling above like a mirror. The environment dominates: ceiling tiles stretching into perspective, a single IV stand visible at the far edge of frame, the underside of a reclining chair arm in the foreground corner. A woman in her mid-fifties stands in the open doorway of the treatment room, one hand resting on the door frame above her, sleeve freshly rolled down, the posture of someone who has just received something and is now simply standing still in it \u2014 not moving yet, letting the moment settle. Her face is turned slightly upward, catching the gold window light. Beside her on a small side table, just visible at the edge of frame from below, a tiny glass vial catches the afternoon sun, refracting it into a warm iridescent scatter across the ceiling above her. Rich saturated gold and vibrant emerald dominate \u2014 the gold of that flooding afternoon light, the emerald of the corridor walls and the leaves of a potted plant visible through the high window, alive and overgrown against the glass.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-21.png"
     }
+  },
+  {
+    "date": "2026-08-22",
+    "generated_at": "2026-08-22T10:29:14.404802+00:00",
+    "doom": {
+      "percentage": 39.5,
+      "raw_percentage": 38.7,
+      "driver": "'Off the charts' El Ni\u00f1o is already the strongest since records began.",
+      "category": "Climate",
+      "blurb": "PLANET TURNS UP THE HEAT. LITERALLY.",
+      "summary": "A 'super El Ni\u00f1o' that's already 'blown past' every previous event on record \u2014 with months still to go before it peaks \u2014 is the kind of headline that deserves more attention than a US-Canada tariff spat. Speaking of which, Canada is matching Trump dollar for dollar while JD Vance mocks Carney at fundraisers, meaning the world's longest peaceful border is now a trade war front. Meanwhile Ebola is accelerating in Congo, Romania is shooting down Russian drone boats near European gas rigs, and Germany found a Kremlin assassination weapons cache in its woods \u2014 just a perfectly normal Friday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Canada trade war escalating to 50% tariffs with tit-for-tat retaliation; Romania intercepting Russian drone boats near critical European energy infrastructure; German assassination weapons cache linked to Moscow."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "high",
+          "detail": "Off-the-charts super El Ni\u00f1o already exceeding all historical records, with Indonesia mega-fires looming and Greenland melt intensifying European heatwaves \u2014 cascading climate chaos ahead."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Allied trade architecture fracturing as US imposes 50% tariffs on Canada and declares 'economic warfare' on Iran simultaneously, straining multiple strategic relationships at once."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "low",
+          "detail": "DeepSeek-v4-flash-vision-exp drops quietly; Anthropic IPO filing lists AI backlash as a risk factor \u2014 the industry is accelerating but today's headlines are mostly governance noise, not capability leaps."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "LinkedIn's 'AI slop' button gets 1 million clicks in weeks \u2014 a charming sign that humans still notice, for now."
+        }
+      ],
+      "mood": [
+        "scorched",
+        "fractious",
+        "cascading",
+        "ominous",
+        "fraying"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a small weathered farmhouse in coastal Peru, the Pacific coast village of Paita visible through a wide salt-crusted window, the outside world framed by peeling wooden shutters warped from humidity \u2014 deep navy shadows dominate the room's interior, a cracked ceramic water jug sits empty on a rough table in the foreground, a coil of fishing net hangs limp and unused from a ceiling hook, the window glass itself seems to radiate heat, the ocean beyond the glass has turned a wrong color, a smoldering copper-orange where it should be deep blue, bleached sky meeting metallic sea with no horizon line visible, the ITCZ haze swallowing the middle distance, the light outside feels sick and pressurized, anvil clouds massing at the upper edge of the window frame, the village beyond shows a dry cistern and sun-cracked mud \u2014 deep navy and smoldering orange palette throughout, warmth feeling threatening rather than welcoming, smoke-filtered light pressing against the glass from outside, heavy shadows consuming the room's corners.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-22.png"
+    },
+    "dawn": {
+      "percentage": 60.5,
+      "driver": "A simple at-home test could cut colorectal cancer death risk by 43%.",
+      "category": "Medicine",
+      "blurb": "SIMPLE TEST. 43% FEWER DEATHS. DO IT.",
+      "summary": "In a world rattled by trade wars and missile tests, a quiet Swedish study of 376,000 people delivers one of the most actionable findings in cancer prevention in years: a simple at-home colorectal screening test cuts the risk of dying from the disease by nearly half. That's not a drug requiring insurance approval or a hospital visit \u2014 it's a test you can do in your bathroom. At pDoom 39.5%, the geopolitical noise is real, but so is this: science keeps finding low-cost, high-impact ways to keep more humans alive longer, and that progress doesn't pause for tariff negotiations.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Long-term data from 376,000 Swedes shows a 43% reduction in colorectal cancer deaths from routine at-home screening \u2014 a finding with immediate, scalable public health implications."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A lifeguard in Aruba saved three family members from a life-threatening water emergency, a small but vivid reminder that ordinary people run toward danger to help strangers."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Baby green sea turtles filmed thriving in Australia's Great Barrier Reef signal that conservation efforts in the region continue to yield real, visible results."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Australia's new law requiring tech giants like Google and Meta to fund local journalism represents a democratic government successfully asserting collective bargaining power against platform monopolies."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "China's Chang'e-7 moon mission targeting lunar ice could unlock a resource that makes long-term human presence beyond Earth genuinely viable \u2014 a species-level achievement in the making."
+        }
+      ],
+      "mood": [
+        "preventable",
+        "accessible",
+        "life-saving",
+        "hopeful",
+        "actionable"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Nordic residential neighborhood dominates the frame, golden-hour amber and warm teal light raking across snow-dusted rooftops and birch-lined streets at late afternoon, long diagonal shadows stretching from every mailbox post and garden gate across pale frozen ground. The second-order effect fills the scene: dozens of tiny letterboxes along a quiet Swedish suburban street stand open or freshly closed, small white cardboard envelopes visible being carried by miniature figures walking toward a bright red postbox at the corner intersection, a queue of three or four tiny elderly figures waiting their turn to drop sealed return envelopes in, each one unaware the others are doing the same quiet life-saving act. A postal van sits parked mid-street, its rear doors open, crates visible inside. Garden paths lead to pale birchwood front doors, a green plant visible through one frosted window catching amber light. The vast geometry of rooftops, fences, and garden plots creates a patchwork grid stretching to the horizon, warm teal shadows pooling between houses, radiant amber-gold washing the open street in side-light, the whole neighborhood quietly humming with an invisible collective act of survival.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-22.png"
+    }
   }
 ]
