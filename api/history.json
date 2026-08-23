@@ -18982,5 +18982,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast Nordic residential neighborhood dominates the frame, golden-hour amber and warm teal light raking across snow-dusted rooftops and birch-lined streets at late afternoon, long diagonal shadows stretching from every mailbox post and garden gate across pale frozen ground. The second-order effect fills the scene: dozens of tiny letterboxes along a quiet Swedish suburban street stand open or freshly closed, small white cardboard envelopes visible being carried by miniature figures walking toward a bright red postbox at the corner intersection, a queue of three or four tiny elderly figures waiting their turn to drop sealed return envelopes in, each one unaware the others are doing the same quiet life-saving act. A postal van sits parked mid-street, its rear doors open, crates visible inside. Garden paths lead to pale birchwood front doors, a green plant visible through one frosted window catching amber light. The vast geometry of rooftops, fences, and garden plots creates a patchwork grid stretching to the horizon, warm teal shadows pooling between houses, radiant amber-gold washing the open street in side-light, the whole neighborhood quietly humming with an invisible collective act of survival.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-22.png"
     }
+  },
+  {
+    "date": "2026-08-23",
+    "generated_at": "2026-08-23T10:29:37.436262+00:00",
+    "doom": {
+      "percentage": 37.1,
+      "raw_percentage": 34.7,
+      "driver": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8.",
+      "category": "Geopolitics",
+      "blurb": "BEST FRIENDS DECLARE TRADE WAR",
+      "summary": "The US and Canada \u2014 longtime allies, hockey rivals, and co-inhabitants of a very long border \u2014 have officially started a tariff fight, with Washington slapping 50% duties on Canadian goods and Ottawa vowing dollar-for-dollar retaliation come September. Meanwhile, Trump is apparently telling Canada it should just become a US state, which is the diplomatic equivalent of telling your neighbor they should just move in after you've egged their house. With North Korea missile drama finally quieting and no fresh nuclear chaos today, the doom reading dips slightly \u2014 but economic warfare between the closest of allies is its own special flavor of civilizational dysfunction.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US-Canada trade collapse is a significant rupture in the Western alliance architecture, with 50% tariffs and retaliatory measures creating real economic and political damage between the closest of neighbors."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "A US military newspaper editor fired for hypothetically mentioning censorship, combined with a federal visa ban ruled illegal by a judge, suggests institutional guardrails under continued stress."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic reportedly A/B testing reduced effort in Claude Code and Nvidia warning customers of 15%+ AI chip price hikes signal rapid but uneven AI deployment dynamics."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major AI safety or alignment incidents in today's headlines; tech news is largely commercial and developmental rather than alarming."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A Bundibugyo Ebola outbreak discussion and water conflict data from Al Jazeera are worth watching but represent ongoing trends rather than acute new escalations."
+        }
+      ],
+      "mood": [
+        "fractious",
+        "transactional",
+        "fraying",
+        "simmering"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a cold September rain sheets down over Ottawa's Wellington Street at dawn, the grey limestone facade of the Langevin Block slick and darkened with moisture, the Peace Tower of Centre Block rising behind it into a bruised navy sky choked with low cloud \u2014 a government podium stands on wet steps beneath a temporary awning, Canadian flag pins catching the only warm light, microphones bristling with rain droplets \u2014 in the foreground, scattered across the rain-soaked stone plaza: a hockey stick with black electrical tape on the blade, a dark wine bottle from Niagara, raw lumber planks gone dark with moisture, a block of pale cheddar wrapped in wax paper, all arranged like abandoned evidence of a negotiation that went nowhere \u2014 the border itself implied by a faint treeline of boreal spruce dissolving into grey fog at the extreme background, a pipeline crossing the horizon before vanishing into haze \u2014 deep navy and smoldering orange palette, the only warmth bleeding from interior government windows behind the podium, everything else cold, wet, the rain itself the dominant presence, atmosphere of contained institutional fury, heavy shadows pooling in every limestone corner.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-23.png"
+    },
+    "dawn": {
+      "percentage": 62.9,
+      "driver": "DR Congo, M23 rebels agree on roadmap for peace talks.",
+      "category": "Peace",
+      "blurb": "WAR-TORN CONGO FINDS A PATH TO THE TABLE",
+      "summary": "After years of fighting that has killed thousands and displaced millions, the Democratic Republic of Congo and M23 rebels have agreed on a structured roadmap to begin peace talks \u2014 a rare, concrete step toward ending one of the world's most devastating conflicts. Yes, the broader picture is grim: trade wars, missile tests, and climate chaos dominate this week's feeds. But a roadmap is not a wish \u2014 it is a commitment with steps and timelines, and that matters. When adversaries who have been killing each other agree to talk, history shows that sometimes, improbably, it holds.",
+      "factors": [
+        {
+          "name": "Peace",
+          "signal": "bright",
+          "detail": "Congo and M23 rebels agreeing on a formal peace roadmap represents a structural breakthrough in a conflict that has resisted resolution for years."
+        },
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Multiple Science Daily findings this week \u2014 from gut microbes preserving muscle strength to multilingual brains aging 13 years slower \u2014 show human knowledge compounding rapidly."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "27 fishermen were dramatically rescued after their fishing boat caught fire over 500 miles from the Galapagos, a reminder that search-and-rescue systems still show up for strangers."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "quiet",
+          "detail": "Canada's measured, proportional response to US tariffs \u2014 rather than escalation \u2014 reflects a government choosing rules-based diplomacy even under economic attack."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "JWST continues to rewrite cosmology, finding early galaxies up to four times more massive than models predicted \u2014 the universe keeps being bigger and stranger than we imagined."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "hopeful",
+        "determined",
+        "grounded",
+        "forward-looking"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single weathered road map or folded paper document pressed flat, its creased surface catching deep golden hour amber light from the side, long shadows pooling in every fold and crease, the paper surface textured and worn but held open and unfolded by two pairs of hands visible only at the extreme edges of the frame \u2014 one set darker-skinned, one lighter, each pressing a corner flat with steady intent, the document's interior showing faint pixel-art grid lines suggesting a sequence of steps or a calendar of dates, the paper's surface reflecting tiny glints of warm teal in the deepest crease shadows, the background implied only through the edge of a polished dark wooden table surface barely visible at the frame's margin, side-lighting raking hard across the paper's surface casting every ridge into radiant amber relief, the overall mood cautious and earned, dawn rather than noon, a thing being held open together rather than triumphantly displayed, warm teal and deep golden amber dominating, radiant and quietly hopeful.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-23.png"
+    }
   }
 ]
