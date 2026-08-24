@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T10:29:37.436262+00:00",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T10:42:15.802121+00:00",
   "doom": {
-    "percentage": 37.1,
-    "raw_percentage": 34.7,
-    "driver": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8.",
+    "percentage": 39.2,
+    "raw_percentage": 38.7,
+    "driver": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures.",
     "category": "Geopolitics",
-    "blurb": "BEST FRIENDS DECLARE TRADE WAR",
-    "summary": "The US and Canada \u2014 longtime allies, hockey rivals, and co-inhabitants of a very long border \u2014 have officially started a tariff fight, with Washington slapping 50% duties on Canadian goods and Ottawa vowing dollar-for-dollar retaliation come September. Meanwhile, Trump is apparently telling Canada it should just become a US state, which is the diplomatic equivalent of telling your neighbor they should just move in after you've egged their house. With North Korea missile drama finally quieting and no fresh nuclear chaos today, the doom reading dips slightly \u2014 but economic warfare between the closest of allies is its own special flavor of civilizational dysfunction.",
+    "blurb": "ECONOMIC D-DAY MEETS 'SEISMIC' RETALIATION",
+    "summary": "The U.S. Treasury is preparing what it's calling the 'greatest financial offensive' against Iran, while Tehran is threatening to seize ships in response \u2014 a charming escalation ladder that skips several rungs. Meanwhile Iran's rial is at record lows and the 60-day ceasefire window has slammed shut, meaning the formal off-ramp just got paved over. Nothing says 'stable international order' like competing threats of economic annihilation and maritime piracy before Monday is even over.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "US-Canada trade collapse is a significant rupture in the Western alliance architecture, with 50% tariffs and retaliatory measures creating real economic and political damage between the closest of neighbors."
+        "detail": "U.S.-Iran standoff intensifies with 'economic D-Day' sanctions threat and Iranian counter-threat of ship seizures, closing off the last formal ceasefire mechanism."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "A US military newspaper editor fired for hypothetically mentioning censorship, combined with a federal visa ban ruled illegal by a judge, suggests institutional guardrails under continued stress."
+        "detail": "U.S.-Canada trade war is now live with retaliatory tariffs in force, while NPR frames the broader story as the world 'learning to live in a post-American order.'"
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Anthropic reportedly A/B testing reduced effort in Claude Code and Nvidia warning customers of 15%+ AI chip price hikes signal rapid but uneven AI deployment dynamics."
+        "detail": "Qwen 3.8 27B completing a frontier-level reverse-engineering job in 30 minutes is a quiet but notable AI capability data point."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "medium",
+        "detail": "Dozens of coordinated arson attacks across Thailand suggest organized instability in Southeast Asia with no clear attribution yet."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "No major AI safety or alignment incidents in today's headlines; tech news is largely commercial and developmental rather than alarming."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "low",
-        "detail": "A Bundibugyo Ebola outbreak discussion and water conflict data from Al Jazeera are worth watching but represent ongoing trends rather than acute new escalations."
+        "detail": "AI deepfakes targeting teachers is an expanding harm vector, but remains a societal friction point rather than an existential signal today."
       }
     ],
     "mood": [
-      "fractious",
-      "transactional",
-      "fraying",
-      "simmering"
+      "escalatory",
+      "pressurized",
+      "simmering",
+      "fragile"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a cold September rain sheets down over Ottawa's Wellington Street at dawn, the grey limestone facade of the Langevin Block slick and darkened with moisture, the Peace Tower of Centre Block rising behind it into a bruised navy sky choked with low cloud \u2014 a government podium stands on wet steps beneath a temporary awning, Canadian flag pins catching the only warm light, microphones bristling with rain droplets \u2014 in the foreground, scattered across the rain-soaked stone plaza: a hockey stick with black electrical tape on the blade, a dark wine bottle from Niagara, raw lumber planks gone dark with moisture, a block of pale cheddar wrapped in wax paper, all arranged like abandoned evidence of a negotiation that went nowhere \u2014 the border itself implied by a faint treeline of boreal spruce dissolving into grey fog at the extreme background, a pipeline crossing the horizon before vanishing into haze \u2014 deep navy and smoldering orange palette, the only warmth bleeding from interior government windows behind the podium, everything else cold, wet, the rain itself the dominant presence, atmosphere of contained institutional fury, heavy shadows pooling in every limestone corner.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-23.png"
+    "card_image": "doom-card-2026-08-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 an Iranian port worker stands motionless on a concrete dock at pre-dawn, his silhouette cut hard against a vast orange glow bleeding up from the horizon over the Strait of Hormuz, the Hajar Mountains faintly serrated against the bruised indigo sky behind him, the man's shoulders hunched forward, hands shoved into jacket pockets, posture radiating defeat and uncertainty, at his feet a metal clipboard lies face-down on the dock \u2014 beside him a second silhouette, a woman in a headscarf, holds a folded document pressed against her chest, her face turned away toward the water, both figures tiny against the enormous scale of a dark supertanker hull looming to their left, its red waterline paint catching the only warm light, the dock surface around them strewn with mooring ropes coiled like frozen snakes, the water between dock and hull a deep black mirror reflecting smears of orange, far out on the horizon a second tanker sits motionless, all lights off, the entire scene filtered through a haze of heat shimmer and petroleum particulate that softens every edge and makes the distant glow feel like a slow fire approaching from just below the world's rim.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-24.png"
   },
   "dawn": {
-    "percentage": 62.9,
-    "driver": "DR Congo, M23 rebels agree on roadmap for peace talks.",
-    "category": "Peace",
-    "blurb": "WAR-TORN CONGO FINDS A PATH TO THE TABLE",
-    "summary": "After years of fighting that has killed thousands and displaced millions, the Democratic Republic of Congo and M23 rebels have agreed on a structured roadmap to begin peace talks \u2014 a rare, concrete step toward ending one of the world's most devastating conflicts. Yes, the broader picture is grim: trade wars, missile tests, and climate chaos dominate this week's feeds. But a roadmap is not a wish \u2014 it is a commitment with steps and timelines, and that matters. When adversaries who have been killing each other agree to talk, history shows that sometimes, improbably, it holds.",
+    "percentage": 60.8,
+    "driver": "Scientists left this farm field alone. Thousands of orchids appeared.",
+    "category": "Environment",
+    "blurb": "NATURE HEALS ITSELF \u2014 JUST LET IT",
+    "summary": "In a world full of headlines about trade wars and wildfires, this one quietly astonishes: a single abandoned farm field doubled its plant diversity and sprouted thousands of wild orchids in just over a decade \u2014 with humans doing precisely nothing. That's not a small finding. It suggests that ecological recovery isn't always a decades-long engineering project; sometimes the land simply remembers what it's supposed to do. When we feel helpless about the environment, this is a reminder that restraint itself can be a powerful act.",
     "factors": [
       {
-        "name": "Peace",
-        "signal": "bright",
-        "detail": "Congo and M23 rebels agreeing on a formal peace roadmap represents a structural breakthrough in a conflict that has resisted resolution for years."
-      },
-      {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Multiple Science Daily findings this week \u2014 from gut microbes preserving muscle strength to multilingual brains aging 13 years slower \u2014 show human knowledge compounding rapidly."
+        "signal": "bright",
+        "detail": "The spontaneous return of thousands of orchids to a rewilded field challenges assumptions that biodiversity restoration requires intensive human intervention."
       },
       {
-        "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "27 fishermen were dramatically rescued after their fishing boat caught fire over 500 miles from the Galapagos, a reminder that search-and-rescue systems still show up for strangers."
+        "name": "Environment",
+        "signal": "blazing",
+        "detail": "Plant diversity doubling in roughly a decade offers real hope for low-cost, hands-off conservation strategies at scale."
       },
       {
         "name": "Cooperation",
-        "signal": "quiet",
-        "detail": "Canada's measured, proportional response to US tariffs \u2014 rather than escalation \u2014 reflects a government choosing rules-based diplomacy even under economic attack."
+        "signal": "glimmer",
+        "detail": "DR Congo and M23 rebels agreed on a roadmap for peace talks in Switzerland, a fragile but meaningful diplomatic step."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "An Arizona teen received a Citizen Hero Award for guiding an elderly woman to safety in extreme desert heat \u2014 ordinary courage, extraordinary heart."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "JWST continues to rewrite cosmology, finding early galaxies up to four times more massive than models predicted \u2014 the universe keeps being bigger and stranger than we imagined."
+        "detail": "AI decoded a hidden 'on switch' in human DNA after analyzing 500,000 sequences, opening new doors in gene regulation research."
       }
     ],
     "mood": [
-      "resilient",
-      "hopeful",
-      "determined",
-      "grounded",
-      "forward-looking"
+      "renewal",
+      "resilience",
+      "wonder",
+      "restoration",
+      "patience"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single weathered road map or folded paper document pressed flat, its creased surface catching deep golden hour amber light from the side, long shadows pooling in every fold and crease, the paper surface textured and worn but held open and unfolded by two pairs of hands visible only at the extreme edges of the frame \u2014 one set darker-skinned, one lighter, each pressing a corner flat with steady intent, the document's interior showing faint pixel-art grid lines suggesting a sequence of steps or a calendar of dates, the paper's surface reflecting tiny glints of warm teal in the deepest crease shadows, the background implied only through the edge of a polished dark wooden table surface barely visible at the frame's margin, side-lighting raking hard across the paper's surface casting every ridge into radiant amber relief, the overall mood cautious and earned, dawn rather than noon, a thing being held open together rather than triumphantly displayed, warm teal and deep golden amber dominating, radiant and quietly hopeful.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-23.png"
+    "card_image": "dawn-card-2026-08-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The interior of a dimly lit bedroom at midnight, a single phone screen glowing on a wooden nightstand casts the only light, warm amber pooling across rumpled linen sheets and a glass of water, the phone screen displaying a vivid photograph of a sweeping magenta-purple orchid meadow, thousands of flower spikes blazing in golden afternoon light, the bright screen reflection catching on the rim of the glass and the edge of a folded newspaper half-tucked under the nightstand, a sleeping figure barely visible in deep shadow beyond, deep teal darkness swallowing the corners of the room, the glowing screen a tiny luminous window into wild abundance, warm amber and cool teal contrast sharp and radiant against the surrounding dark.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-24.png"
   }
 }
