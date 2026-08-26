@@ -18870,5 +18870,100 @@
       "card_image": "dawn-card-2026-08-25.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a darkened mission control observation room at dawn, looking outward through a wide floor-to-ceiling window toward Launch Complex 39A in the distance, the morning after the clearance announcement. Deep golden hour amber bleeds across the flat Florida marshland horizon outside, warm teal sky still holding above, long shadows stretching across the concrete apron far below. The Falcon Heavy stands silhouetted on the pad in the distance, its three boosters a symmetrical dark monolith against the coral-pink Atlantic sunrise, the white fairing tip just catching first light. Inside the room, the foreground is aftermath stillness: an empty review table scattered with printed checklists and coffee cups, a forgotten lanyard draped over a chair back, screens glowing with orbital trajectory maps in cool blue-green. A single figure stands at the window with their back to us, hands clasped behind them, looking out toward the rocket in quiet reverence. Dust motes float in the amber shaft of sunrise light cutting through the glass. The mood is earned silence, a threshold crossed, the vast universe waiting just beyond the pad."
     }
+  },
+  {
+    "date": "2026-08-26",
+    "generated_at": "2026-08-26T10:40:39.719498+00:00",
+    "doom": {
+      "percentage": 37.8,
+      "raw_percentage": 36.7,
+      "driver": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk.",
+      "category": "Nuclear",
+      "blurb": "AMERICA SELLS THE BOMB'S BLUEPRINT",
+      "summary": "The U.S. is pushing a nuclear cooperation deal with Saudi Arabia that experts warn lacks the standard prohibition on uranium enrichment \u2014 meaning Riyadh could inch toward its own bomb while Washington looks the other way. This lands the same week Trump declared the Strait of Hormuz cleared of mines and the CIA chief flew to Moscow unannounced, suggesting a geopolitical chessboard being rearranged at speed by people who may not agree on the rules. Meanwhile Canada is now slapping 50% retaliatory tariffs on American goods, because apparently two nuclear anxieties and a spy flight weren't enough excitement for a Tuesday.",
+      "factors": [
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "Saudi nuclear deal without enrichment ban is a textbook proliferation risk at a moment when Iran's rial just hit 2 million to the dollar and regional tensions are maximal."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "CIA chief makes unannounced Moscow trip while UK shares classified long-range missile tech with Ukraine \u2014 back-channel diplomacy and weapons escalation running in parallel."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Supreme Court backs Trump's mail-in voting restrictions ahead of midterms, raising electoral integrity concerns; Canada-U.S. trade war deepens with dollar-for-dollar retaliation."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI's Jalape\u00f1o chip reportedly outperforms Nvidia Blackwell, accelerating AI compute independence and raising questions about who controls the next generation of AI infrastructure."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Dolly Parton's death at 80 is culturally significant but not doom-relevant; Haiti gang massacre killing 47 and kidnapping 50+ underscores catastrophic state failure in the Americas."
+        }
+      ],
+      "mood": [
+        "proliferation",
+        "back-channel",
+        "escalatory",
+        "unsettled",
+        "opaque"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-08-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 a symbolic metaphor rendered as a vast desert landscape seen from above at a steep diagonal, the sand bleached to pale amber under a haze-filtered sky, where a single enormous hourglass lies tipped on its side across the terrain below, its glass cracked along a jagged fracture line running from neck to base, the upper chamber's dark sand spilling outward across the desert floor in a spreading fan rather than falling through the narrow throat \u2014 the spilled grains catching orange light as they scatter \u2014 around the hourglass's cracked midsection, tiny human silhouettes no larger than ants stand in two loose clusters on opposite sides of the crack, facing each other across the fracture \u2014 one cluster dressed in dark suits, the other in white robes, both groups dwarfed by the scale of the broken object between them \u2014 far in the background, a thin ribbon of blue-green water catches smoldering light at the horizon's edge, the Strait of Hormuz rendered as a luminous thread separating two landmasses in contrasting warm sand and cooler shadow \u2014 the cracked hourglass neck the visual axis of the entire composition, its fissure glowing faintly orange from within, the countdown neither stopped nor proceeding, simply broken."
+    },
+    "dawn": {
+      "percentage": 62.2,
+      "driver": "Supercharged \"natural killer\" cells could be a powerful new cancer weapon. Researchers have found a way to supercharge natural killer cells, powerful immune cells that can attack cancer, so they can penetrate solid tumors and keep fighting once inside.",
+      "category": "Medicine",
+      "blurb": "YOUR OWN IMMUNE CELLS, UPGRADED TO HUNT CANCER",
+      "summary": "In a week darkened by trade wars, gang massacres, and geopolitical brinkmanship, a quieter revolution is unfolding in the lab: scientists have engineered natural killer cells \u2014 your body's own cancer-fighting soldiers \u2014 to punch through solid tumors and sustain their assault from within. This is the kind of breakthrough that doesn't make the front page but could rewrite survival odds for millions. It joins a growing arsenal of immune-based therapies suggesting that cancer's era of dominance may be shorter than we feared.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Supercharged natural killer cells successfully penetrated and fought solid tumors in mice, a historically stubborn barrier in cancer immunotherapy research."
+        },
+        {
+          "name": "Medicine",
+          "signal": "bright",
+          "detail": "The FDA authorized the first wearable device to continuously monitor both ketone and blood sugar levels simultaneously, a meaningful win for metabolic health management."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Missouri grandmother defied health department pressure and kept serving free breakfasts to her community, refusing to let bureaucracy sever the bonds she's built."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Young Ghanaian food entrepreneurs are building a grassroots movement around climate-resilient, homegrown produce, pushing back against dependency on imported Western food systems."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Thousands of Japanese volunteers are hand-pulling a historic castle back into alignment, a vivid image of community, patience, and civilization choosing to preserve rather than abandon."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilient",
+        "innovative",
+        "hopeful",
+        "determined"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-08-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-teal fog rolling in luminous curtains through a quiet hospital oncology ward courtyard at dusk, atmospheric haze diffusing every light source into soft halos, rain-slicked pavement reflecting warm golden and deep teal glows from ward windows above. Adjacent scene: a cancer patient sitting alone in a covered outdoor seating area just outside the infusion center, wrapped in a blanket, IV pole beside them, face tilted upward toward the foggy sky with an expression of still, private hope. Through the rain-misted window behind them, the warm amber glow of the ward interior is visible, indistinct figures moving within. A single glass vial rests on the armrest beside the patient, catching the teal-gold light, glowing faintly iridescent like a tiny lantern. Droplets streak down the window glass in long vertical lines. Distant rooftop ventilation stacks exhale pale mist into the fog. The courtyard pavement glistens, puddles catching inverted reflections of the lit windows above. Deep golden-amber and warm teal palette throughout, side-lit by unseen ward lighting filtering through fog, long soft shadows, everything radiant and diffused, the scene saturated with quiet suspended anticipation."
+    }
   }
 ]
