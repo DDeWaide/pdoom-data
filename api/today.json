@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T21:10:23.802719+00:00",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T14:59:55.383222+00:00",
   "doom": {
-    "percentage": 38.9,
-    "raw_percentage": 38.7,
-    "driver": "U.S., South Korea and Japan to hold drill as North Korea ramps up pressure on U.S..",
-    "category": "Geopolitics",
-    "blurb": "PENINSULA PRESSURE COOKER BACK ON THE BURNER",
-    "summary": "North Korea's vow to 'retaliate against U.S. hostilities' \u2014 timed perfectly to a trilateral military drill with Seoul and Tokyo \u2014 is the kind of choreographed escalation that keeps analysts awake. Meanwhile, Russia is 'ramping up rhetoric' while Western officials insist it wants to avoid NATO war, which is historically the exact sentence spoken before things get interesting. Add Zelenskyy's plan to rain 1,000 drones per day on Russia, a Fed chair spooking markets with rate hike signals, and Anthropic being illegally blacklisted by its own government for refusing to build killer robots \u2014 it's a full house of low-grade catastrophe.",
+    "percentage": 36.4,
+    "raw_percentage": 34.7,
+    "driver": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn. Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you'll never guess what \"MrChildPorn\" was arrested for.",
+    "category": "Cyber",
+    "blurb": "AI WARNS OF ITS OWN APOCALYPSE. HELPFUL.",
+    "summary": "The AI companies building the tools that could end civilization have generously warned us the cybersecurity apocalypse is just months away \u2014 which is either admirably transparent or the world's most sophisticated liability waiver. Meanwhile, hackers have already targeted over 100 US water systems, suggesting the apocalypse may be running slightly ahead of schedule. Berlin is also being ransomed by hackers today, so apparently 'months' was optimistic.",
     "factors": [
       {
-        "name": "Geopolitics",
+        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "North Korea threatening retaliation as U.S.-South Korea-Japan drills proceed, Russia intensifying Donetsk attacks, and Ukraine planning drone escalation creates multi-front pressure."
+        "detail": "SpaceX's acquisition of Cursor and AI giants issuing apocalyptic cybersecurity timelines in the same news cycle suggests the capability-governance gap is widening at an uncomfortable pace."
       },
       {
         "name": "Governance",
-        "signal": "elevated",
-        "detail": "A federal judge ruling the Pentagon's Anthropic blacklist unconstitutional reveals the U.S. government actively trying to coerce AI labs into supporting autonomous lethal weapons \u2014 and losing in court."
+        "signal": "medium",
+        "detail": "EPA quietly letting data centers sidestep pollution laws signals continued regulatory capture by tech interests, with oversight infrastructure hollowing out."
       },
       {
-        "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Nvidia's reported $13B Hugging Face acquisition plus Anthropic's new hardware standard letting AI agents control physical-world devices marks quiet but significant AI infrastructure consolidation."
+        "name": "Geopolitics",
+        "signal": "elevated",
+        "detail": "Trump's Venezuela oil deal granting US 'majority control' of 65 billion barrels is either a masterstroke or a geopolitical grenade with a very long fuse \u2014 Russia and China will have opinions."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "The xAI lawsuit alleging Grok was trained on child pornography and the Anthropic-Pentagon standoff both illustrate the governance vacuum around AI development remaining dangerously unfilled."
+        "detail": "No major new alignment incidents today, but AI firms warning of imminent cyber catastrophe while simultaneously deploying more capable systems is its own form of misalignment."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Nepal's catastrophic floods \u2014 with nearly 2,000 missing and a melting glacier implicated \u2014 are a grim climate harbinger, though immediate global systemic risk remains limited."
+        "detail": "At least 37 killed in a Russian strike on Kyiv and 2,478 still missing in Nepal-Tibet floods \u2014 humanitarian crises mounting but neither represents a novel escalation vector today."
       }
     ],
     "mood": [
-      "tense",
-      "fractured",
-      "simmering",
-      "precarious"
+      "ominous",
+      "frantic",
+      "sardonic",
+      "bracing"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, ground-level view on the rain-slicked concrete pier of Jeju Island's naval base at 3am, the drill concluded hours ago, deep navy and smoldering orange palette, smoke-filtered artificial light from amber dock lamps reflecting in long trembling streaks across the wet pier surface \u2014 the scene is empty of personnel, the vast dark shape of an Aegis destroyer's angular hull looming at the dock's edge, its VLS deck panels visible in silhouette, a single orange inspection light mounted on the superstructure casting a cone of smoldering warmth down the hull's gray flank \u2014 mooring lines thick as a man's torso lie coiled on the concrete like exhausted serpents, a forgotten color-coded yellow deck jersey crumpled near a bollard, three empty coffee cups lined up on a equipment crate, a pressure-wash hose left running sending a thin rivulet of water toward the pier's edge and into the black sea below \u2014 in the extreme distance across the water, the volcanic silhouette of Hallasan mountain sits against a sky lit faintly orange from the base's perimeter lighting, heavy shadows consuming everything between \u2014 the water below the pier glows faintly with reflected instrument light, deep and unknowable.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-28.png"
+    "card_image": "doom-card-2026-08-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a municipal water utility worker's break room in a mid-Atlantic American treatment plant, looking out through a single smudged window into the pre-dawn facility yard, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 frost clings to the chain-link fence visible through the glass, concrete holding tanks loom in the murk beyond, but the tension is entirely inside the room: a folding table holds an open laptop showing a dark-mode Discord interface with a flagged username visible in the sidebar, beside it a stack of printed pages topped with a black asterisk OpenAI logo, the overhead fluorescent tube flickers casting sickly orange-tinged shadows across aged linoleum tile, on the far wall an Allen-Bradley PLC panel with blinking amber and red status LEDs mounted on a gray metal cabinet, pipes running floor to ceiling disappearing into the ceiling darkness, and through the window in the distant yard an ICE white SUV with green stripe sits idling, exhaust vapor rising in the cold air, headlights cutting through frost-misted darkness toward the facility gate where a Boston Dynamics Spot quadruped robot stands motionless on the concrete apron, its sensor head angled toward the building, alien and clinical, the whole scene suffused with the sense of multiple invisible systems converging on one ordinary room.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-29.png"
   },
   "dawn": {
-    "percentage": 61.1,
-    "driver": "NASA's huge Nancy Grace Roman Space Telescope is about to launch. The Nancy Grace Roman Space Telescope, which launches on 30 August, will observe space with the same detail as the Hubble Space Telescope, but over a much larger area",
-    "category": "Science",
-    "blurb": "HUMANITY'S GREATEST EYE OPENS ON THE COSMOS",
-    "summary": "While floods ravage Nepal and geopolitical tensions dominate the headlines, humanity is quietly doing what it does at its very best: building an extraordinary instrument to understand the universe. The Nancy Grace Roman Space Telescope launches Saturday with Hubble-quality resolution but a field of view 100 times wider \u2014 a genuine leap in our capacity to map dark matter, detect exoplanets, and probe the deepest structures of space. Named for NASA's first Chief of Astronomy, a woman who fought for science at a time when that required real courage, Roman is a reminder that our civilization still finds the will and the resources to reach outward, even on its most turbulent days.",
+    "percentage": 63.6,
+    "driver": "Experimental eye drops help blind mice see again. Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting.",
+    "category": "Medicine",
+    "blurb": "SIGHT RESTORED \u2014 NO SURGERY REQUIRED",
+    "summary": "In a week shadowed by floods, strikes on Kyiv, and geopolitical brinkmanship, a quiet laboratory breakthrough cuts through the noise: scientists have restored light perception in blind mice using only eye drops. No implants, no gene therapy, no specialized equipment \u2014 just a drug that reactivates dormant photoreceptor pathways. The implications for human degenerative blindness conditions like retinitis pigmentosa are profound, pointing toward a future where vision loss may be chemically reversible rather than permanent.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "The Roman Space Telescope represents decades of engineering and international collaboration, delivering a transformative new window on the cosmos at a moment the world sorely needs perspective."
+        "detail": "Light-activated eye drops restoring vision in blind mice represent a genuinely novel therapeutic mechanism that bypasses the complexity and cost of gene therapy entirely."
       },
       {
-        "name": "Cooperation",
+        "name": "Medicine",
         "signal": "bright",
-        "detail": "A federal judge ruled the Pentagon's blacklisting of Anthropic was unconstitutional, affirming that even within a turbulent administration, courts are checking abuses of institutional power."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Rescue teams in Nepal resumed operations after being halted by flooding risk, pressing forward into dangerous terrain to reach over 1,900 missing people \u2014 an act of sustained, organized courage."
+        "detail": "Researchers following 400,000 children for 20 years confirmed lasting cognitive advantages from public pre-K, a rare long-horizon win for evidence-based education policy."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists note that the Nepal flood disaster, while devastating, is generating urgent new data on glacial lake outburst floods \u2014 knowledge that could save lives in future events as climate science races to keep pace."
+        "detail": "Australian researchers discovered iron-rich red soil can naturally generate hydrogen, potentially unlocking a vast clean energy source hiding in plain geological sight."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "A charity's 96 bridges across Rwanda's gorges and rivers showed measurable, life-changing impact on isolated communities \u2014 a study in how modest infrastructure reshapes human possibility."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Sudan's two-year curfew in its capital Khartoum has been lifted, a small but real signal that some post-conflict normalization is possible even in one of the world's most fractured countries."
+        "detail": "Scientists identified a protein brake blocking nerve regeneration \u2014 blocking AHR allowed injured fibers to regrow \u2014 opening a credible new path toward treating spinal and peripheral nerve damage."
       }
     ],
     "mood": [
-      "wonder",
-      "discovery",
-      "perseverance",
-      "clarity",
-      "reach"
+      "breakthrough",
+      "restorative",
+      "luminous",
+      "hopeful",
+      "pioneering"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-28.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against wet Florida grass, gazing up at the underside of a vast pre-dawn sky dominated by deep indigo bleeding into warm amber gold at the horizon edges. A lone woman lies flat on her back in the grass, arms spread wide, face tilted directly upward toward the heavens, her expression open and transcendent \u2014 the posture of someone receiving something enormous. She wears a casual jacket, a lanyard badge catching the golden side-light. Around her, the silhouetted tips of tall Florida palms frame the edges of the frame like dark cathedral pillars, their fronds lit amber-teal from below by distant launch-pad floodlights. The sky above her is the main event \u2014 vast, luminous, threaded with long thin clouds catching warm gold undersides against deep teal darkness. A single brilliant point of light traces a rising arc across the upper third of the frame, a barely-there streak of white-gold fire climbing toward black space. Long shadows from the palms rake across the grass in dramatic side-lit amber. The whole composition radiates upward, sky endless, woman small and radiant beneath it, the universe opening above her.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-28.png"
+    "card_image": "dawn-card-2026-08-29.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates the frame, tiny figures below. A sprawling low-vision rehabilitation center courtyard at golden hour, seen from high above, amber light raking long shadows across the grounds \u2014 the second-order world that vision restoration rewrites. The courtyard is full of life that was recently impossible: a tiny figure navigating a winding garden path without a white cane, arms loose at their sides; another small silhouette seated on a bench, face tilted upward toward the sky; a cluster of figures gathered around an outdoor reading board, leaning close. Wide garden beds run in long geometric strips, teal-shadowed between warm golden walkways. A low building edge frames the upper corner, its windows catching deep amber reflections. Long shadow fingers stretch dramatically across terracotta tiles. The color palette is deep golden hour amber and warm teal \u2014 the light of ordinary Tuesday afternoons, unremarkable and miraculous, the exact light that the new drops work in. Everything glows with radiant side-lighting, tiny human silhouettes casting long shadows, the whole vast courtyard humming with quiet motion that speaks of restored sight, not the laboratory that made it possible.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-29.png"
   }
 }
