@@ -1,96 +1,97 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T14:59:55.383222+00:00",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T14:46:26.391152+00:00",
   "doom": {
-    "percentage": 36.4,
-    "raw_percentage": 34.7,
-    "driver": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn. Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you'll never guess what \"MrChildPorn\" was arrested for.",
-    "category": "Cyber",
-    "blurb": "AI WARNS OF ITS OWN APOCALYPSE. HELPFUL.",
-    "summary": "The AI companies building the tools that could end civilization have generously warned us the cybersecurity apocalypse is just months away \u2014 which is either admirably transparent or the world's most sophisticated liability waiver. Meanwhile, hackers have already targeted over 100 US water systems, suggesting the apocalypse may be running slightly ahead of schedule. Berlin is also being ransomed by hackers today, so apparently 'months' was optimistic.",
+    "percentage": 40.4,
+    "raw_percentage": 41.7,
+    "driver": "Death toll from Russian strike on Ukrainian arms depot rises to 38. Russia's Defence Ministry announces plans to launch 'massive strikes' against Ukraine's infrastructure before winter.",
+    "category": "Geopolitics",
+    "blurb": "RUSSIA PROMISES WINTER IN THE DARK",
+    "summary": "Russia killed 38 people in a single strike on a Ukrainian arms depot \u2014 then immediately announced it plans to do it again, bigger, before winter hits. Meanwhile a coup attempt in Niger, a ferry capsizing off Cyprus, and 85 Americans missing in Nepal floods suggest the planet is running multiple simultaneous disaster tracks today. The Kremlin's pre-winter infrastructure threat is the kind of deliberate escalation signal that moves the needle from 'ongoing war' to 'active terror campaign.'",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "SpaceX's acquisition of Cursor and AI giants issuing apocalyptic cybersecurity timelines in the same news cycle suggests the capability-governance gap is widening at an uncomfortable pace."
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "Russia's announced intent to launch 'massive strikes' on Ukrainian infrastructure before winter represents a deliberate, pre-declared escalation beyond the already deadly depot strike."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "EPA quietly letting data centers sidestep pollution laws signals continued regulatory capture by tech interests, with oversight infrastructure hollowing out."
-      },
-      {
-        "name": "Geopolitics",
         "signal": "elevated",
-        "detail": "Trump's Venezuela oil deal granting US 'majority control' of 65 billion barrels is either a masterstroke or a geopolitical grenade with a very long fuse \u2014 Russia and China will have opinions."
-      },
-      {
-        "name": "Alignment",
-        "signal": "medium",
-        "detail": "No major new alignment incidents today, but AI firms warning of imminent cyber catastrophe while simultaneously deploying more capable systems is its own form of misalignment."
+        "detail": "A coup attempt in Niger, DHS surveilling journalists and nonprofits via obscure law, and a Zambian opposition leader charged with treason signal democratic backsliding across multiple regions."
       },
       {
         "name": "Wild Card",
+        "signal": "elevated",
+        "detail": "Ferry capsize off Cyprus, 85 Americans missing in Nepal floods, and infrastructure collapse from Himalayan glacial outbursts pile converging humanitarian crises onto an already strained international response capacity."
+      },
+      {
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "OpenAI cutting Cursor's model access post-SpaceX acquisition and ongoing music publisher lawsuits against Anthropic signal AI ecosystem fragmentation and legal reckoning, not existential escalation today."
+      },
+      {
+        "name": "Alignment",
         "signal": "low",
-        "detail": "At least 37 killed in a Russian strike on Kyiv and 2,478 still missing in Nepal-Tibet floods \u2014 humanitarian crises mounting but neither represents a novel escalation vector today."
+        "detail": "IBM's quantum computer solving a classically intractable problem in 15 minutes is impressive but not yet threat-relevant; the bigger AI stories today are legal and commercial, not capability runaway."
       }
     ],
     "mood": [
-      "ominous",
-      "frantic",
-      "sardonic",
-      "bracing"
+      "bellicose",
+      "chaotic",
+      "fragile",
+      "escalating",
+      "ominous"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-08-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a municipal water utility worker's break room in a mid-Atlantic American treatment plant, looking out through a single smudged window into the pre-dawn facility yard, deep navy and smoldering orange palette, smoke-filtered light, heavy shadows dominating \u2014 frost clings to the chain-link fence visible through the glass, concrete holding tanks loom in the murk beyond, but the tension is entirely inside the room: a folding table holds an open laptop showing a dark-mode Discord interface with a flagged username visible in the sidebar, beside it a stack of printed pages topped with a black asterisk OpenAI logo, the overhead fluorescent tube flickers casting sickly orange-tinged shadows across aged linoleum tile, on the far wall an Allen-Bradley PLC panel with blinking amber and red status LEDs mounted on a gray metal cabinet, pipes running floor to ceiling disappearing into the ceiling darkness, and through the window in the distant yard an ICE white SUV with green stripe sits idling, exhaust vapor rising in the cold air, headlights cutting through frost-misted darkness toward the facility gate where a Boston Dynamics Spot quadruped robot stands motionless on the concrete apron, its sensor head angled toward the building, alien and clinical, the whole scene suffused with the sense of multiple invisible systems converging on one ordinary room.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-29.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-08-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick pall of dark smoke merges with low August fog rolling across the outskirts of a small Ukrainian village at pale grey dawn, the haze so dense it swallows the horizon entirely, smothering the scene in charcoal and deep crimson \u2014 ground level, looking across a scorched earthen field toward the smoldering ruins of a low concrete ammunition storage igloo, its dome caved inward, blast walls cracked and tilted, a debris field of scorched earth and scattered rubble radiating outward across the late-summer grass, the green of the foliage grotesquely vivid against the ruin \u2014 Ukrainian State Emergency Service workers in bright orange high-visibility jackets move as silhouettes through the smoke haze, one dragging a heavy fire hose low to the ground, another crouching at the crater's edge, figures made ghostly by the atmospheric murk \u2014 a red Kamaz fire tender sits half-visible in the smoke-filtered middle distance, its emergency light catching in the haze as a dim amber pulse \u2014 beyond the depot ruins, the roofline of a brick village building shows blown-out windows and missing tiles, and further still through the grey atmosphere the faint suggestion of a pale summer sky almost entirely consumed by rising black columns \u2014 firelight glows deep crimson from within the collapsed bunker, reflecting orange on the soot-slicked concrete rubble and pooled water at the workers' boots \u2014 dark crimson and charcoal palette, oppressive and heavy, high contrast where firelight carves silhouettes from the fog.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-30.png"
   },
   "dawn": {
-    "percentage": 63.6,
-    "driver": "Experimental eye drops help blind mice see again. Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting.",
-    "category": "Medicine",
-    "blurb": "SIGHT RESTORED \u2014 NO SURGERY REQUIRED",
-    "summary": "In a week shadowed by floods, strikes on Kyiv, and geopolitical brinkmanship, a quiet laboratory breakthrough cuts through the noise: scientists have restored light perception in blind mice using only eye drops. No implants, no gene therapy, no specialized equipment \u2014 just a drug that reactivates dormant photoreceptor pathways. The implications for human degenerative blindness conditions like retinitis pigmentosa are profound, pointing toward a future where vision loss may be chemically reversible rather than permanent.",
+    "percentage": 59.6,
+    "driver": "IBM quantum computer solves classically intractable problem in 15 minutes. IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and fin",
+    "category": "Science",
+    "blurb": "QUANTUM LEAP: COMPUTERS JUST CROSSED THE IMPOSSIBLE LINE",
+    "summary": "In a week dominated by Russian strikes, flooding disasters, and geopolitical friction, IBM and the University of Chicago quietly achieved something that textbooks once described as decades away: a quantum computer solved a problem that classical supercomputers simply could not reproduce, using 70 error-corrected logical qubits in just 15 minutes. This is not incremental \u2014 error correction at this scale has been the defining barrier between quantum promise and quantum reality. The machines are beginning to do what we built them to do, and that changes everything from drug discovery to climate modeling.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Light-activated eye drops restoring vision in blind mice represent a genuinely novel therapeutic mechanism that bypasses the complexity and cost of gene therapy entirely."
+        "detail": "IBM's 70-qubit error-corrected quantum computation represents a genuine threshold moment, moving quantum computing from demonstration to practical capability."
       },
       {
-        "name": "Medicine",
+        "name": "Cooperation",
         "signal": "bright",
-        "detail": "Researchers following 400,000 children for 20 years confirmed lasting cognitive advantages from public pre-K, a rare long-horizon win for evidence-based education policy."
-      },
-      {
-        "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Australian researchers discovered iron-rich red soil can naturally generate hydrogen, potentially unlocking a vast clean energy source hiding in plain geological sight."
+        "detail": "The IBM-University of Chicago partnership shows academia and industry working together at the frontier, a model that historically accelerates breakthroughs."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "A charity's 96 bridges across Rwanda's gorges and rivers showed measurable, life-changing impact on isolated communities \u2014 a study in how modest infrastructure reshapes human possibility."
+        "signal": "glimmer",
+        "detail": "Dolly Parton's music reaching across continents and cultures \u2014 from Appalachia to Africa \u2014 reminds us how art and empathy travel without passports even in divided times."
+      },
+      {
+        "name": "Environment",
+        "signal": "quiet",
+        "detail": "Seven newly discovered frog species in Madagascar signal that biodiversity still holds surprises, and that scientific curiosity continues to find life where we hadn't looked."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Scientists identified a protein brake blocking nerve regeneration \u2014 blocking AHR allowed injured fibers to regrow \u2014 opening a credible new path toward treating spinal and peripheral nerve damage."
+        "signal": "bright",
+        "detail": "NASA successfully launched its newest space telescope, expanding humanity's eye on the cosmos and its search for planets beyond our solar system."
       }
     ],
     "mood": [
       "breakthrough",
-      "restorative",
-      "luminous",
-      "hopeful",
-      "pioneering"
+      "wonder",
+      "capability",
+      "possibility",
+      "discovery"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-08-29.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates the frame, tiny figures below. A sprawling low-vision rehabilitation center courtyard at golden hour, seen from high above, amber light raking long shadows across the grounds \u2014 the second-order world that vision restoration rewrites. The courtyard is full of life that was recently impossible: a tiny figure navigating a winding garden path without a white cane, arms loose at their sides; another small silhouette seated on a bench, face tilted upward toward the sky; a cluster of figures gathered around an outdoor reading board, leaning close. Wide garden beds run in long geometric strips, teal-shadowed between warm golden walkways. A low building edge frames the upper corner, its windows catching deep amber reflections. Long shadow fingers stretch dramatically across terracotta tiles. The color palette is deep golden hour amber and warm teal \u2014 the light of ordinary Tuesday afternoons, unremarkable and miraculous, the exact light that the new drops work in. Everything glows with radiant side-lighting, tiny human silhouettes casting long shadows, the whole vast courtyard humming with quiet motion that speaks of restored sight, not the laboratory that made it possible.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-29.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-08-30.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single massive iron padlock dominates the composition, its shackle hanging open and sprung free, the body of the lock cracked clean down the middle along an impossibly precise fracture line, golden light pouring through the split like liquid fire. The lock surface is ancient and dark, oxidized metal etched with faint circuit-trace engravings that catch rich emerald and amber reflections. At the edges of the frame, blurred warm light suggests afternoon sun filtering through leaves just beyond the frame, dappling the background in saturated gold and deep green. The fractured halves of the lock glow from within along the break, illuminated by a warm amber light source implied to be impossibly small and impossibly powerful, the internal glow pulsing through the circuit engravings like 70 small nodes of living light arranged in geometric formation along the crack. A single key rests partially inserted in the keyhole, its bow catching a strong emerald highlight, its blade disappearing into the mechanism. The split in the lock radiates outward in pixel-perfect fracture lines, each catching gold and green light, the whole composition suggesting something thought permanently sealed has been opened in fifteen minutes flat.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-30.png"
   }
 }

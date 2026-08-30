@@ -19247,5 +19247,100 @@
       "card_image": "dawn-card-2026-08-29.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast scene dominates the frame, tiny figures below. A sprawling low-vision rehabilitation center courtyard at golden hour, seen from high above, amber light raking long shadows across the grounds \u2014 the second-order world that vision restoration rewrites. The courtyard is full of life that was recently impossible: a tiny figure navigating a winding garden path without a white cane, arms loose at their sides; another small silhouette seated on a bench, face tilted upward toward the sky; a cluster of figures gathered around an outdoor reading board, leaning close. Wide garden beds run in long geometric strips, teal-shadowed between warm golden walkways. A low building edge frames the upper corner, its windows catching deep amber reflections. Long shadow fingers stretch dramatically across terracotta tiles. The color palette is deep golden hour amber and warm teal \u2014 the light of ordinary Tuesday afternoons, unremarkable and miraculous, the exact light that the new drops work in. Everything glows with radiant side-lighting, tiny human silhouettes casting long shadows, the whole vast courtyard humming with quiet motion that speaks of restored sight, not the laboratory that made it possible."
     }
+  },
+  {
+    "date": "2026-08-30",
+    "generated_at": "2026-08-30T14:46:26.391152+00:00",
+    "doom": {
+      "percentage": 40.4,
+      "raw_percentage": 41.7,
+      "driver": "Death toll from Russian strike on Ukrainian arms depot rises to 38. Russia's Defence Ministry announces plans to launch 'massive strikes' against Ukraine's infrastructure before winter.",
+      "category": "Geopolitics",
+      "blurb": "RUSSIA PROMISES WINTER IN THE DARK",
+      "summary": "Russia killed 38 people in a single strike on a Ukrainian arms depot \u2014 then immediately announced it plans to do it again, bigger, before winter hits. Meanwhile a coup attempt in Niger, a ferry capsizing off Cyprus, and 85 Americans missing in Nepal floods suggest the planet is running multiple simultaneous disaster tracks today. The Kremlin's pre-winter infrastructure threat is the kind of deliberate escalation signal that moves the needle from 'ongoing war' to 'active terror campaign.'",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Russia's announced intent to launch 'massive strikes' on Ukrainian infrastructure before winter represents a deliberate, pre-declared escalation beyond the already deadly depot strike."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "A coup attempt in Niger, DHS surveilling journalists and nonprofits via obscure law, and a Zambian opposition leader charged with treason signal democratic backsliding across multiple regions."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ferry capsize off Cyprus, 85 Americans missing in Nepal floods, and infrastructure collapse from Himalayan glacial outbursts pile converging humanitarian crises onto an already strained international response capacity."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "OpenAI cutting Cursor's model access post-SpaceX acquisition and ongoing music publisher lawsuits against Anthropic signal AI ecosystem fragmentation and legal reckoning, not existential escalation today."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "IBM's quantum computer solving a classically intractable problem in 15 minutes is impressive but not yet threat-relevant; the bigger AI stories today are legal and commercial, not capability runaway."
+        }
+      ],
+      "mood": [
+        "bellicose",
+        "chaotic",
+        "fragile",
+        "escalating",
+        "ominous"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, a thick pall of dark smoke merges with low August fog rolling across the outskirts of a small Ukrainian village at pale grey dawn, the haze so dense it swallows the horizon entirely, smothering the scene in charcoal and deep crimson \u2014 ground level, looking across a scorched earthen field toward the smoldering ruins of a low concrete ammunition storage igloo, its dome caved inward, blast walls cracked and tilted, a debris field of scorched earth and scattered rubble radiating outward across the late-summer grass, the green of the foliage grotesquely vivid against the ruin \u2014 Ukrainian State Emergency Service workers in bright orange high-visibility jackets move as silhouettes through the smoke haze, one dragging a heavy fire hose low to the ground, another crouching at the crater's edge, figures made ghostly by the atmospheric murk \u2014 a red Kamaz fire tender sits half-visible in the smoke-filtered middle distance, its emergency light catching in the haze as a dim amber pulse \u2014 beyond the depot ruins, the roofline of a brick village building shows blown-out windows and missing tiles, and further still through the grey atmosphere the faint suggestion of a pale summer sky almost entirely consumed by rising black columns \u2014 firelight glows deep crimson from within the collapsed bunker, reflecting orange on the soot-slicked concrete rubble and pooled water at the workers' boots \u2014 dark crimson and charcoal palette, oppressive and heavy, high contrast where firelight carves silhouettes from the fog."
+    },
+    "dawn": {
+      "percentage": 59.6,
+      "driver": "IBM quantum computer solves classically intractable problem in 15 minutes. IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and fin",
+      "category": "Science",
+      "blurb": "QUANTUM LEAP: COMPUTERS JUST CROSSED THE IMPOSSIBLE LINE",
+      "summary": "In a week dominated by Russian strikes, flooding disasters, and geopolitical friction, IBM and the University of Chicago quietly achieved something that textbooks once described as decades away: a quantum computer solved a problem that classical supercomputers simply could not reproduce, using 70 error-corrected logical qubits in just 15 minutes. This is not incremental \u2014 error correction at this scale has been the defining barrier between quantum promise and quantum reality. The machines are beginning to do what we built them to do, and that changes everything from drug discovery to climate modeling.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "IBM's 70-qubit error-corrected quantum computation represents a genuine threshold moment, moving quantum computing from demonstration to practical capability."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The IBM-University of Chicago partnership shows academia and industry working together at the frontier, a model that historically accelerates breakthroughs."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Dolly Parton's music reaching across continents and cultures \u2014 from Appalachia to Africa \u2014 reminds us how art and empathy travel without passports even in divided times."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Seven newly discovered frog species in Madagascar signal that biodiversity still holds surprises, and that scientific curiosity continues to find life where we hadn't looked."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "NASA successfully launched its newest space telescope, expanding humanity's eye on the cosmos and its search for planets beyond our solar system."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "wonder",
+        "capability",
+        "possibility",
+        "discovery"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-30.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single massive iron padlock dominates the composition, its shackle hanging open and sprung free, the body of the lock cracked clean down the middle along an impossibly precise fracture line, golden light pouring through the split like liquid fire. The lock surface is ancient and dark, oxidized metal etched with faint circuit-trace engravings that catch rich emerald and amber reflections. At the edges of the frame, blurred warm light suggests afternoon sun filtering through leaves just beyond the frame, dappling the background in saturated gold and deep green. The fractured halves of the lock glow from within along the break, illuminated by a warm amber light source implied to be impossibly small and impossibly powerful, the internal glow pulsing through the circuit engravings like 70 small nodes of living light arranged in geometric formation along the crack. A single key rests partially inserted in the keyhole, its bow catching a strong emerald highlight, its blade disappearing into the mechanism. The split in the lock radiates outward in pixel-perfect fracture lines, each catching gold and green light, the whole composition suggesting something thought permanently sealed has been opened in fifteen minutes flat."
+    }
   }
 ]
