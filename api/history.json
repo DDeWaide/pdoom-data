@@ -19752,5 +19752,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single massive iron padlock dominates the composition, its shackle hanging open and sprung free, the body of the lock cracked clean down the middle along an impossibly precise fracture line, golden light pouring through the split like liquid fire. The lock surface is ancient and dark, oxidized metal etched with faint circuit-trace engravings that catch rich emerald and amber reflections. At the edges of the frame, blurred warm light suggests afternoon sun filtering through leaves just beyond the frame, dappling the background in saturated gold and deep green. The fractured halves of the lock glow from within along the break, illuminated by a warm amber light source implied to be impossibly small and impossibly powerful, the internal glow pulsing through the circuit engravings like 70 small nodes of living light arranged in geometric formation along the crack. A single key rests partially inserted in the keyhole, its bow catching a strong emerald highlight, its blade disappearing into the mechanism. The split in the lock radiates outward in pixel-perfect fracture lines, each catching gold and green light, the whole composition suggesting something thought permanently sealed has been opened in fifteen minutes flat.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-30.png"
     }
+  },
+  {
+    "date": "2026-08-31",
+    "generated_at": "2026-08-31T15:25:56.320113+00:00",
+    "doom": {
+      "percentage": 41.8,
+      "raw_percentage": 43.7,
+      "driver": "Attacks flare between the U.S. and Iran after a monthlong pause. U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
+      "category": "Geopolitics",
+      "blurb": "HORMUZ HEATS UP, OIL CLEARS $90",
+      "summary": "After a month of uncomfortable silence, the U.S. and Iran have decided diplomacy is overrated and resumed trading strikes across the Middle East \u2014 Strait of Hormuz, UAE, Jordan, the works. Oil jumped past $90 a barrel because markets, like the rest of us, understand what 'escalation' means. Meanwhile Russia is promising 'massive strikes' on Ukraine's energy grid and Pakistan, Saudi Arabia, and Turkey are quietly stress-testing their defence pact, which is the kind of geopolitical feng shui nobody asked for.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S.-Iran strikes resume across multiple theatres after a monthlong pause, with Iran hitting U.S. forces in both Jordan and the UAE simultaneously."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Security researcher breaks Claude Code Opus 5's auto mode, and the HuggingFace hack postmortem reveals deeper AI infrastructure vulnerabilities."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "EU revives encryption backdoor push in ProtectEU strategy while ChatGPT faces its toughest EU content regulations yet \u2014 two conflicting instincts about controlling the internet."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major new alignment incidents today, though Claude session URLs leaking into public commit messages is a reminder that AI tools are still finding the guard rails."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Russia announces preparations for 'massive strikes' on Ukraine's energy infrastructure just as winter approaches, compounding an already dire humanitarian situation."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "escalating",
+        "frantic",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-08-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, firelight reflections on dark water surfaces, high contrast and oppressive \u2014 we are at the industrial shoreline of Bandar Abbas at dusk, the Strait of Hormuz stretching into a smoldering orange-red horizon beyond, the sky a deep bruised crimson fading to charcoal at the edges, thick petrochemical haze filtering the last light into a bloody smear across the water \u2014 in the extreme foreground, two Iranian port workers stand at the edge of a concrete dock, both rendered as near-total silhouettes against the burning horizon glow, one with arms crossed and head slightly bowed, the other gripping a railing and staring outward toward the strait, their body language carrying the specific weight of people who have heard something terrible and are waiting to hear more \u2014 the dock is scarred concrete with rusted mooring cleats and coiled rope, a massive bulk carrier anchored far out in the roadstead is a black shape against the red water, its running lights faint orange pinpoints \u2014 the silhouetted figures are small against the enormous industrial sky, the horizon glowing as if something distant is still burning \u2014 deep shadows swallow the dock behind them, firelight orange catches the rippled black water below.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-08-31.png"
+    },
+    "dawn": {
+      "percentage": 58.2,
+      "driver": "'A giant leap forward': Nasa launches powerful new space telescope.",
+      "category": "Discovery",
+      "blurb": "HUMANITY OPENS ITS BIGGEST EYE ON THE COSMOS",
+      "summary": "The Nancy Grace Roman Space Telescope is now aloft and bound for its observing post a million miles from Earth, where it will map billions of galaxies, probe dark energy, and hunt for distant worlds \u2014 a mission so vast it would require half a million 4K screens to display a single image. Against a backdrop of US-Iran exchanges of fire, flooding disasters, and escalating great-power tensions, it is worth sitting with the fact that humanity still chose to launch this thing anyway \u2014 funding it, building it, naming it after a pioneering woman astronomer. Trump himself dialed into the NASA news conference, a signal that even the most fractious political moment cannot fully crowd out wonder. When civilizations are still doing this \u2014 still pointing telescopes at the dark \u2014 the case for dawn remains genuinely strong.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "The Roman Space Telescope's launch represents the most capable wide-field infrared observatory ever deployed, capable of surveying more sky in a single pointing than Hubble could in decades."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Spain and Morocco are actively cooperating on border management despite disinformation pressure, with Spain's PM explicitly defending the partnership."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Nepali head teacher evacuated 900 children minutes before catastrophic floods struck his school, a quiet act of heroism saving hundreds of young lives."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Roman's dark energy mapping mission will sharpen our understanding of the universe's fate, with indirect benefits for Earth-monitoring and climate-modeling satellite science."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Melinda French Gates and Olivia Rodrigo together raised $20 million for causes at a single festival event, demonstrating that private philanthropic momentum continues to grow even amid public sector retreat."
+        }
+      ],
+      "mood": [
+        "awe",
+        "curiosity",
+        "resilience",
+        "expansive",
+        "hopeful"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-08-31.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped late-night bedroom desk corner, deeply shadowed, lit only by the warm amber glow of a single desk lamp pooling across a cluttered wooden surface. A chunky vintage television set dominates the scene, its screen blazing with rich gold and emerald light, displaying a pixelated live rocket launch broadcast \u2014 a Falcon Heavy triple-booster silhouette rising on a column of orange fire against a dark Florida sky, the image rendered in saturated golds and deep space purples. Scattered across the desk around the TV: a printed newspaper folded open, its front page showing a wide telescope mirror photograph, the paper edges glowing amber in the lamplight. A half-drunk mug of tea steams gently beside it, catching the television's emerald reflection. On the wall behind, barely visible in deep shadow, a torn magazine clipping of a star field is pinned crookedly. The desk lamp throws a tight golden cone across the scene while everything beyond falls into rich blue-black darkness. The television screen is the blazing heart of the image, its launch-fire glow washing the entire room in triumphant saturated gold and green.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-08-31.png"
+    }
   }
 ]
