@@ -19436,5 +19436,100 @@
       "card_image": "dawn-card-2026-08-31.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped late-night bedroom desk corner, deeply shadowed, lit only by the warm amber glow of a single desk lamp pooling across a cluttered wooden surface. A chunky vintage television set dominates the scene, its screen blazing with rich gold and emerald light, displaying a pixelated live rocket launch broadcast \u2014 a Falcon Heavy triple-booster silhouette rising on a column of orange fire against a dark Florida sky, the image rendered in saturated golds and deep space purples. Scattered across the desk around the TV: a printed newspaper folded open, its front page showing a wide telescope mirror photograph, the paper edges glowing amber in the lamplight. A half-drunk mug of tea steams gently beside it, catching the television's emerald reflection. On the wall behind, barely visible in deep shadow, a torn magazine clipping of a star field is pinned crookedly. The desk lamp throws a tight golden cone across the scene while everything beyond falls into rich blue-black darkness. The television screen is the blazing heart of the image, its launch-fire glow washing the entire room in triumphant saturated gold and green."
     }
+  },
+  {
+    "date": "2026-09-01",
+    "generated_at": "2026-09-01T14:40:27.142133+00:00",
+    "doom": {
+      "percentage": 42.1,
+      "raw_percentage": 43.7,
+      "driver": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan. The arbitration ruling adds a new layer of stress to a long-simmering water dispute between two nuclear-armed neighbors.",
+      "category": "Geopolitics",
+      "blurb": "NUCLEAR NEIGHBORS FIGHT OVER WATER",
+      "summary": "Two nuclear-armed states are now openly defying international arbitration over water rights \u2014 which is exactly the kind of slow-burn dispute that history books describe right before the part nobody wants to read. Meanwhile, Iran launched on U.S. bases in Jordan, bond yields hit multi-decade highs, and the SCO spent its Bishkek summit basically writing a strongly-worded letter in support of Iran. It's a full-court press of converging pressures today, with no single catastrophe but every system under strain simultaneously.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran-U.S. hostilities active with base strikes in Jordan; India-Pakistan water treaty collapse; Trump reviewing Falklands support; Russia at G20; SCO rallying against U.S. sanctions \u2014 a genuinely crowded board."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "U.S. Army Secretary resigns, whistleblower warns USPS mail-vote system could derail midterms, and China explicitly refusing to honor Iran sanctions \u2014 multilateral order fraying at multiple seams."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Hugging Face cultural issues at OpenAI story resurfaces; AI wealth creating mansion shortages; factory AI adoption accelerating \u2014 background hum rather than a spike today."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No major new alignment incidents today; Hugging Face hack fallout is a known story already priced into recent readings."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "El Ni\u00f1o now stronger than any point in 1,000 years per new study; Nepal flood death toll crossing 1,000 with hundreds still missing; Africa's tectonic plume accelerating rift \u2014 the planet itself is having a moment."
+        }
+      ],
+      "mood": [
+        "fraught",
+        "cascading",
+        "simmering",
+        "overstretched",
+        "volatile"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked earth looking steeply upward, dark crimson and charcoal palette, firelight-toned dusk light bleeding across the scene from a low western horizon \u2014 we are lying at the base of a collapsed earthen irrigation canal berm in the Pakistani Punjab plains, the cracked mud wall towering above us, a wooden sluice gate hanging open and dry at the top of the frame, its rotted planks silhouetted against a bruised crimson sky \u2014 the canal bed stretching away from us is bone-dry, deep shrinkage cracks splitting the grey-brown silt in tessellated plates, a single rusted river-gauging instrument tower listing sideways at the far end of the empty channel \u2014 overhead, the canal's colonial-era brick headworks loom in extreme forced perspective, massive British-era masonry arches pressing down from above, their undersides dark with old waterline stains that now hang three feet above nothing \u2014 a wheat field at the canal's edge is visible through a gap in the berm, the stalks short and yellow-white, drought-stressed, bending away from the frame \u2014 the sky above is a deep overcast burgundy fading to charcoal at the zenith, heavy with unfallen rain, oppressive and airless, high contrast shadows carving every crack and crevice in the dry earth into black trenches."
+    },
+    "dawn": {
+      "percentage": 57.9,
+      "driver": "K\u0101k\u0101p\u014d rising: 90 chicks swell population of the world's heaviest parrot. Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325",
+      "category": "Environment",
+      "blurb": "CRITICALLY ENDANGERED PARROT STAGES STUNNING COMEBACK",
+      "summary": "On a day shadowed by Hormuz tensions, Nepal flood deaths, and relentless geopolitical friction, nature quietly staged a triumph: 90 k\u0101k\u0101p\u014d chicks born in a single record breeding season have pushed the world's heaviest parrot from the edge of extinction toward a population of 325. This is the direct result of decades of determined conservation work by New Zealand rangers who hand-raise, track, and protect every individual bird by name. When the miro trees fruited en masse and nature opened a window, humans were ready \u2014 and that readiness is a quiet argument that we can still pull things back from the brink.",
+      "factors": [
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "A record 90 k\u0101k\u0101p\u014d chicks born in one breeding season represents the single largest population surge for this critically endangered species, pushing total numbers to 325."
+        },
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New Scientist reports potential first direct detection of dark matter particles, a discovery that \u2014 if confirmed \u2014 would rank among the most significant in modern physics."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G-20 finance ministers are meeting in North Carolina, keeping multilateral economic dialogue alive even as Russia's attendance sparks tension \u2014 the table remains open."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Democrats and Republicans in Troy, New York, united across party lines to fight a national health system and successfully keep their county's last birthing center open."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A new once-nightly sleep apnea pill cut breathing interruptions by 44% in a major Phase 3 trial, potentially freeing millions from CPAP machines and improving sleep health globally."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "renewal",
+        "determined",
+        "flourishing",
+        "hopeful"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a weathered wooden conservation field hut on a predator-free New Zealand island, looking outward through an open doorway into ancient podocarp forest at dawn, the morning after a record-breaking breeding season. The doorway frames a cathedral of rimu trees whose drooping branches are heavy with luminous red-pink berry clusters glowing like tiny lanterns in the first amber light, rich gold shafts piercing deep emerald canopy. In the immediate foreground interior: a worn wooden table holds an open field notebook filled with tally marks, a small plastic leg band transmitter resting beside it, and a shallow tray lined with soft moss \u2014 the tools of a night's careful work now laid to rest. Through the doorway, scattered across the soft fern-covered forest floor in the golden morning light, dozens of small round moss-green and cream-yellow downy chicks waddle and cluster among enormous three-toed footprints pressed into dark earth, roly-poly and absurdly numerous. An adult k\u0101k\u0101p\u014d female \u2014 a feathered boulder of vivid yellow-olive plumage with an owl-like facial disc \u2014 sits motionless and monumental at the tree line, catching the first light. Color palette: saturated deep forest emerald, warm amber gold, vivid red-pink berry pops, soft cream, rich shadow browns."
+    }
   }
 ]
