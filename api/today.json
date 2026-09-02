@@ -1,97 +1,97 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T14:40:27.142133+00:00",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T14:14:14.219331+00:00",
   "doom": {
-    "percentage": 42.1,
+    "percentage": 42.3,
     "raw_percentage": 43.7,
-    "driver": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan. The arbitration ruling adds a new layer of stress to a long-simmering water dispute between two nuclear-armed neighbors.",
+    "driver": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation.",
     "category": "Geopolitics",
-    "blurb": "NUCLEAR NEIGHBORS FIGHT OVER WATER",
-    "summary": "Two nuclear-armed states are now openly defying international arbitration over water rights \u2014 which is exactly the kind of slow-burn dispute that history books describe right before the part nobody wants to read. Meanwhile, Iran launched on U.S. bases in Jordan, bond yields hit multi-decade highs, and the SCO spent its Bishkek summit basically writing a strongly-worded letter in support of Iran. It's a full-court press of converging pressures today, with no single catastrophe but every system under strain simultaneously.",
+    "blurb": "AMERICA AND IRAN TRADING BLOWS, AGAIN",
+    "summary": "The US-Iran intermittent war has apparently un-intermitted, with American strikes on Iranian soil and Tehran firing missiles and drones at regional allies including Kuwait, Jordan, and Bahrain \u2014 while oil nudges toward $90 and the Strait of Hormuz stays firmly in the headline rotation. Putin has chosen this exact moment to signal 'unwavering support' for Iran, because nothing says stable international order like a three-way involving America, Iran, and a sanctioned nuclear power. Meanwhile, Russia is also being blamed for a drone attack on a German airport, Zelensky is telling airlines to dodge Russian airspace, and the India-Pakistan water treaty spat from yesterday hasn't cooled \u2014 today is a lot.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran-U.S. hostilities active with base strikes in Jordan; India-Pakistan water treaty collapse; Trump reviewing Falklands support; Russia at G20; SCO rallying against U.S. sanctions \u2014 a genuinely crowded board."
+        "detail": "Active US-Iran military exchange with missile and drone strikes on US allies; oil near $90; Putin backing Tehran and Russia escalating against NATO member Germany simultaneously."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "U.S. Army Secretary resigns, whistleblower warns USPS mail-vote system could derail midterms, and China explicitly refusing to honor Iran sanctions \u2014 multilateral order fraying at multiple seams."
+        "detail": "OpenAI faces 30 new lawsuits alleging its chatbot induced a mass shooting, with NPR reporting safety alerts were reportedly suppressed by the company's global affairs team."
       },
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Hugging Face cultural issues at OpenAI story resurfaces; AI wealth creating mansion shortages; factory AI adoption accelerating \u2014 background hum rather than a spike today."
-      },
-      {
-        "name": "Alignment",
-        "signal": "low",
-        "detail": "No major new alignment incidents today; Hugging Face hack fallout is a known story already priced into recent readings."
+        "detail": "Anthropic launches Claude Fable 5.1 with aggressive pricing for agentic work, continuing the rapid capability deployment race with fewer guardrails than advertised."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "El Ni\u00f1o now stronger than any point in 1,000 years per new study; Nepal flood death toll crossing 1,000 with hundreds still missing; Africa's tectonic plume accelerating rift \u2014 the planet itself is having a moment."
+        "detail": "FBI probing a service selling 153 million+ drivers licenses, BGP hijack poisoning production networks, and an AI-planned interstellar mission announced \u2014 the technology chaos index is elevated."
+      },
+      {
+        "name": "Alignment",
+        "signal": "medium",
+        "detail": "OpenAI delayed a model suite after the Hugging Face hack produced international headlines, suggesting deployed frontier systems are generating real-world instability faster than governance can respond."
       }
     ],
     "mood": [
-      "fraught",
-      "cascading",
-      "simmering",
-      "overstretched",
-      "volatile"
+      "escalating",
+      "volatile",
+      "combustible",
+      "overburdened",
+      "precarious"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-09-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked earth looking steeply upward, dark crimson and charcoal palette, firelight-toned dusk light bleeding across the scene from a low western horizon \u2014 we are lying at the base of a collapsed earthen irrigation canal berm in the Pakistani Punjab plains, the cracked mud wall towering above us, a wooden sluice gate hanging open and dry at the top of the frame, its rotted planks silhouetted against a bruised crimson sky \u2014 the canal bed stretching away from us is bone-dry, deep shrinkage cracks splitting the grey-brown silt in tessellated plates, a single rusted river-gauging instrument tower listing sideways at the far end of the empty channel \u2014 overhead, the canal's colonial-era brick headworks loom in extreme forced perspective, massive British-era masonry arches pressing down from above, their undersides dark with old waterline stains that now hang three feet above nothing \u2014 a wheat field at the canal's edge is visible through a gap in the berm, the stalks short and yellow-white, drought-stressed, bending away from the frame \u2014 the sky above is a deep overcast burgundy fading to charcoal at the zenith, heavy with unfallen rain, oppressive and airless, high contrast shadows carving every crack and crevice in the dry earth into black trenches.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-01.png"
+    "card_image": "doom-card-2026-09-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, dark crimson and charcoal palette, firelight reflections on dark surfaces, high contrast and oppressive \u2014 symbolic metaphor, no literal warfare shown \u2014 we are looking down from high above at a vast Persian Gulf desert plateau, the flat sun-bleached terrain stretching to all horizons, heat-shimmer baked into every pixel \u2014 dominating the center of the landscape is an enormous chessboard rendered in cracked sandstone and scorched black tile, each square sun-faded and heat-warped, the board itself tilting and fracturing along a diagonal fault line that splits it from corner to corner \u2014 chess pieces the size of buildings are mid-collapse along the fault, toppling in slow cascades, their long shadows thrown sideways by distant firelight glowing orange-red from below the horizon \u2014 the pieces are stylized as blocky towers and fortresses rather than traditional chess forms, some already fallen and shattered into rubble across the desert floor, others leaning at steep angles still \u2014 the cracked fault line glows deep crimson from beneath, as if heat or fire pushes up through the earth itself \u2014 tiny silhouetted figures stand frozen at the board's crumbling edges, dwarfed entirely by the scale of the collapsing structure \u2014 charcoal dust and heat haze blur the far distance into nothing.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-02.png"
   },
   "dawn": {
-    "percentage": 57.9,
-    "driver": "K\u0101k\u0101p\u014d rising: 90 chicks swell population of the world's heaviest parrot. Critically endangered New Zealand bird enjoys record breeding season triggered by mass fruiting of native tree, pushing its numbers to 325",
+    "percentage": 57.7,
+    "driver": "Los Angeles Zoo celebrates milestone after their great ape baby boom. David Muir reports on how much the great apes have grown over the past year \u2013 and what their births mean for the endangered species.",
     "category": "Environment",
-    "blurb": "CRITICALLY ENDANGERED PARROT STAGES STUNNING COMEBACK",
-    "summary": "On a day shadowed by Hormuz tensions, Nepal flood deaths, and relentless geopolitical friction, nature quietly staged a triumph: 90 k\u0101k\u0101p\u014d chicks born in a single record breeding season have pushed the world's heaviest parrot from the edge of extinction toward a population of 325. This is the direct result of decades of determined conservation work by New Zealand rangers who hand-raise, track, and protect every individual bird by name. When the miro trees fruited en masse and nature opened a window, humans were ready \u2014 and that readiness is a quiet argument that we can still pull things back from the brink.",
+    "blurb": "GREAT APES BOOM BACK FROM THE BRINK",
+    "summary": "Against a backdrop of war, economic anxiety, and escalating geopolitical tension, the Los Angeles Zoo is quietly delivering remarkable news: a baby boom among great apes, some of Earth's most endangered and cognitively complex creatures. These births represent genuine conservation wins \u2014 each infant a small but meaningful reversal of decline for species that share over 98% of our DNA. It's a reminder that deliberate human care and institutional commitment to wildlife can bend extinction curves in the right direction, even when the headlines suggest we're better at destruction than preservation.",
     "factors": [
-      {
-        "name": "Environment",
-        "signal": "blazing",
-        "detail": "A record 90 k\u0101k\u0101p\u014d chicks born in one breeding season represents the single largest population surge for this critically endangered species, pushing total numbers to 325."
-      },
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "New Scientist reports potential first direct detection of dark matter particles, a discovery that \u2014 if confirmed \u2014 would rank among the most significant in modern physics."
+        "detail": "Underground nuclear reactor approval from the US Department of Energy for Deep Fission's novel deep-bore design signals serious progress toward safer, smaller-footprint energy solutions."
       },
       {
-        "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "G-20 finance ministers are meeting in North Carolina, keeping multilateral economic dialogue alive even as Russia's attendance sparks tension \u2014 the table remains open."
+        "name": "Environment",
+        "signal": "blazing",
+        "detail": "Multiple great ape births at the LA Zoo represent real conservation momentum for endangered species, proof that captive programs and dedicated science can push back against extinction."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Democrats and Republicans in Troy, New York, united across party lines to fight a national health system and successfully keep their county's last birthing center open."
+        "detail": "Twelve-year-old Carsynn Meyer became the first girl to play in the U.S. Little League World Series Championship, a barrier broken quietly but permanently."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "G20 finance ministers gathering in North Carolina \u2014 including Russia's \u2014 shows that even amid active conflict, global economic coordination channels remain barely, stubbornly open."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "A new once-nightly sleep apnea pill cut breathing interruptions by 44% in a major Phase 3 trial, potentially freeing millions from CPAP machines and improving sleep health globally."
+        "signal": "bright",
+        "detail": "Japan halving speed limits on narrow city streets to 30km/h is unglamorous but lives-saving governance \u2014 proof that democracies can still make sensible, evidence-based safety decisions."
       }
     ],
     "mood": [
       "resilience",
       "renewal",
-      "determined",
-      "flourishing",
-      "hopeful"
+      "perseverance",
+      "wonder",
+      "care"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-09-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a weathered wooden conservation field hut on a predator-free New Zealand island, looking outward through an open doorway into ancient podocarp forest at dawn, the morning after a record-breaking breeding season. The doorway frames a cathedral of rimu trees whose drooping branches are heavy with luminous red-pink berry clusters glowing like tiny lanterns in the first amber light, rich gold shafts piercing deep emerald canopy. In the immediate foreground interior: a worn wooden table holds an open field notebook filled with tally marks, a small plastic leg band transmitter resting beside it, and a shallow tray lined with soft moss \u2014 the tools of a night's careful work now laid to rest. Through the doorway, scattered across the soft fern-covered forest floor in the golden morning light, dozens of small round moss-green and cream-yellow downy chicks waddle and cluster among enormous three-toed footprints pressed into dark earth, roly-poly and absurdly numerous. An adult k\u0101k\u0101p\u014d female \u2014 a feathered boulder of vivid yellow-olive plumage with an owl-like facial disc \u2014 sits motionless and monumental at the tree line, catching the first light. Color palette: saturated deep forest emerald, warm amber gold, vivid red-pink berry pops, soft cream, rich shadow browns.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-01.png"
+    "card_image": "dawn-card-2026-09-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, warm golden fog and fine rain drifting in luminous amber-emerald curtains through a residential neighborhood on the edge of Los Angeles, late afternoon light diffused into a rich honeyed haze, palm trees along a wide suburban street fading softly into atmospheric mist, the scene filtered through layers of gentle rain shimmer. A family living room window glows warm from inside, visible through the wet glass of a sliding door left slightly ajar, gauzy curtain drifting outward into the damp air. Inside, partially visible through the rain-streaked glass, a young child sits cross-legged on a rug in front of a television, arms wrapped around a large stuffed gorilla toy, face tilted upward in wide-eyed wonder at the glowing screen. On the coffee table beside them, a nature book lies open to a primate page, spine cracked with use. A second child peeks over the back of the sofa. The rain falls soft and golden against emerald-dark palm fronds overhead, dappled amber light breaking through the mist in long slanted rays, the whole scene saturated and alive, a quiet domestic moment of wonder rippling outward from something precious happening across the city.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-02.png"
   }
 }

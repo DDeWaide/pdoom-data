@@ -19945,5 +19945,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a weathered wooden conservation field hut on a predator-free New Zealand island, looking outward through an open doorway into ancient podocarp forest at dawn, the morning after a record-breaking breeding season. The doorway frames a cathedral of rimu trees whose drooping branches are heavy with luminous red-pink berry clusters glowing like tiny lanterns in the first amber light, rich gold shafts piercing deep emerald canopy. In the immediate foreground interior: a worn wooden table holds an open field notebook filled with tally marks, a small plastic leg band transmitter resting beside it, and a shallow tray lined with soft moss \u2014 the tools of a night's careful work now laid to rest. Through the doorway, scattered across the soft fern-covered forest floor in the golden morning light, dozens of small round moss-green and cream-yellow downy chicks waddle and cluster among enormous three-toed footprints pressed into dark earth, roly-poly and absurdly numerous. An adult k\u0101k\u0101p\u014d female \u2014 a feathered boulder of vivid yellow-olive plumage with an owl-like facial disc \u2014 sits motionless and monumental at the tree line, catching the first light. Color palette: saturated deep forest emerald, warm amber gold, vivid red-pink berry pops, soft cream, rich shadow browns.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-01.png"
     }
+  },
+  {
+    "date": "2026-09-02",
+    "generated_at": "2026-09-02T14:14:14.219331+00:00",
+    "doom": {
+      "percentage": 42.3,
+      "raw_percentage": 43.7,
+      "driver": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation.",
+      "category": "Geopolitics",
+      "blurb": "AMERICA AND IRAN TRADING BLOWS, AGAIN",
+      "summary": "The US-Iran intermittent war has apparently un-intermitted, with American strikes on Iranian soil and Tehran firing missiles and drones at regional allies including Kuwait, Jordan, and Bahrain \u2014 while oil nudges toward $90 and the Strait of Hormuz stays firmly in the headline rotation. Putin has chosen this exact moment to signal 'unwavering support' for Iran, because nothing says stable international order like a three-way involving America, Iran, and a sanctioned nuclear power. Meanwhile, Russia is also being blamed for a drone attack on a German airport, Zelensky is telling airlines to dodge Russian airspace, and the India-Pakistan water treaty spat from yesterday hasn't cooled \u2014 today is a lot.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active US-Iran military exchange with missile and drone strikes on US allies; oil near $90; Putin backing Tehran and Russia escalating against NATO member Germany simultaneously."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "OpenAI faces 30 new lawsuits alleging its chatbot induced a mass shooting, with NPR reporting safety alerts were reportedly suppressed by the company's global affairs team."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Anthropic launches Claude Fable 5.1 with aggressive pricing for agentic work, continuing the rapid capability deployment race with fewer guardrails than advertised."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "FBI probing a service selling 153 million+ drivers licenses, BGP hijack poisoning production networks, and an AI-planned interstellar mission announced \u2014 the technology chaos index is elevated."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "OpenAI delayed a model suite after the Hugging Face hack produced international headlines, suggesting deployed frontier systems are generating real-world instability faster than governance can respond."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "volatile",
+        "combustible",
+        "overburdened",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, dark crimson and charcoal palette, firelight reflections on dark surfaces, high contrast and oppressive \u2014 symbolic metaphor, no literal warfare shown \u2014 we are looking down from high above at a vast Persian Gulf desert plateau, the flat sun-bleached terrain stretching to all horizons, heat-shimmer baked into every pixel \u2014 dominating the center of the landscape is an enormous chessboard rendered in cracked sandstone and scorched black tile, each square sun-faded and heat-warped, the board itself tilting and fracturing along a diagonal fault line that splits it from corner to corner \u2014 chess pieces the size of buildings are mid-collapse along the fault, toppling in slow cascades, their long shadows thrown sideways by distant firelight glowing orange-red from below the horizon \u2014 the pieces are stylized as blocky towers and fortresses rather than traditional chess forms, some already fallen and shattered into rubble across the desert floor, others leaning at steep angles still \u2014 the cracked fault line glows deep crimson from beneath, as if heat or fire pushes up through the earth itself \u2014 tiny silhouetted figures stand frozen at the board's crumbling edges, dwarfed entirely by the scale of the collapsing structure \u2014 charcoal dust and heat haze blur the far distance into nothing.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-02.png"
+    },
+    "dawn": {
+      "percentage": 57.7,
+      "driver": "Los Angeles Zoo celebrates milestone after their great ape baby boom. David Muir reports on how much the great apes have grown over the past year \u2013 and what their births mean for the endangered species.",
+      "category": "Environment",
+      "blurb": "GREAT APES BOOM BACK FROM THE BRINK",
+      "summary": "Against a backdrop of war, economic anxiety, and escalating geopolitical tension, the Los Angeles Zoo is quietly delivering remarkable news: a baby boom among great apes, some of Earth's most endangered and cognitively complex creatures. These births represent genuine conservation wins \u2014 each infant a small but meaningful reversal of decline for species that share over 98% of our DNA. It's a reminder that deliberate human care and institutional commitment to wildlife can bend extinction curves in the right direction, even when the headlines suggest we're better at destruction than preservation.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Underground nuclear reactor approval from the US Department of Energy for Deep Fission's novel deep-bore design signals serious progress toward safer, smaller-footprint energy solutions."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Multiple great ape births at the LA Zoo represent real conservation momentum for endangered species, proof that captive programs and dedicated science can push back against extinction."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Twelve-year-old Carsynn Meyer became the first girl to play in the U.S. Little League World Series Championship, a barrier broken quietly but permanently."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G20 finance ministers gathering in North Carolina \u2014 including Russia's \u2014 shows that even amid active conflict, global economic coordination channels remain barely, stubbornly open."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Japan halving speed limits on narrow city streets to 30km/h is unglamorous but lives-saving governance \u2014 proof that democracies can still make sensible, evidence-based safety decisions."
+        }
+      ],
+      "mood": [
+        "resilience",
+        "renewal",
+        "perseverance",
+        "wonder",
+        "care"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, warm golden fog and fine rain drifting in luminous amber-emerald curtains through a residential neighborhood on the edge of Los Angeles, late afternoon light diffused into a rich honeyed haze, palm trees along a wide suburban street fading softly into atmospheric mist, the scene filtered through layers of gentle rain shimmer. A family living room window glows warm from inside, visible through the wet glass of a sliding door left slightly ajar, gauzy curtain drifting outward into the damp air. Inside, partially visible through the rain-streaked glass, a young child sits cross-legged on a rug in front of a television, arms wrapped around a large stuffed gorilla toy, face tilted upward in wide-eyed wonder at the glowing screen. On the coffee table beside them, a nature book lies open to a primate page, spine cracked with use. A second child peeks over the back of the sofa. The rain falls soft and golden against emerald-dark palm fronds overhead, dappled amber light breaking through the mist in long slanted rays, the whole scene saturated and alive, a quiet domestic moment of wonder rippling outward from something precious happening across the city.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-02.png"
+    }
   }
 ]
