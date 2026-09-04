@@ -19720,5 +19720,100 @@
       "card_image": "dawn-card-2026-09-03.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic gold and emerald glow. The environment is deep underground, a vast cavernous detector chamber carved from bedrock, its enormous cylindrical walls stretching upward into darkness, but a supernatural luminescence pulses from within \u2014 rich gold and vibrant emerald light blooming outward from the core of a massive spherical detector tank suspended at the center of the cavern, its surface studded with hundreds of photomultiplier tubes catching and reflecting that impossible glow. In silhouette against this radiant pulse, two researchers stand on a narrow gantry walkway, their figures completely darkened, one pointing toward the central sphere, the other leaning over a railing \u2014 their outlines crisp and dramatic against the saturated emerald-gold bloom radiating from the tank. Thick support cables descend from the cavern ceiling in silhouette. The rock walls glow faintly with reflected amber and green. The single particle interaction is visualized as a tiny brilliant gold spark erupting at the heart of the detector, sending concentric rings of light rippling outward through the liquid-filled sphere, alive and saturated, like afternoon sun filtered through deep leaves."
     }
+  },
+  {
+    "date": "2026-09-04",
+    "generated_at": "2026-09-04T14:07:59.858191+00:00",
+    "doom": {
+      "percentage": 46.1,
+      "raw_percentage": 48.7,
+      "driver": "OpenAI's next big AI model has 'entered the AGI era'. OpenAI's next big model is here: GPT-6 Astra. The company calls it a 'generational leap in capability' for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+      "category": "AI Capability",
+      "blurb": "OPENAI SAYS THE AGI ERA HAS ARRIVED",
+      "summary": "OpenAI just dropped GPT-6 Astra and declared we've 'entered the AGI era' \u2014 which is either the most consequential sentence in human history or the most aggressive marketing since Red Bull claimed to give you wings. Meanwhile, Nvidia simultaneously acquired Hugging Face for $13 billion, cornering both the hardware and the model distribution layer in a single week. The AI concentration risk just went vertical while ChatGPT, Claude, and Grok all crashed simultaneously \u2014 which is either a coincidence or the universe's way of saying 'too fast, too fast.'",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "GPT-6 Astra launches with 'AGI era' branding, major capability gains in cybersecurity and science, while Nvidia acquires Hugging Face consolidating AI infrastructure control."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "No meaningful regulatory response to AGI-era declaration; simultaneous outage of all major AI platforms raises systemic dependency and single-point-of-failure concerns."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "U.S.-Iran conflict grinds on with missile-at-wedding investigation, South Korea weighing Hormuz deployment, and EU formally joining sanctions \u2014 multi-front escalation holding steady."
+        },
+        {
+          "name": "Alignment",
+          "signal": "high",
+          "detail": "OpenAI's own framing of GPT-6 Astra as a 'generational leap' in cybersecurity capability, combined with AGI-era rhetoric, raises acute questions about whether safety has kept pace."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Nations and big tech scrambling for Ukraine battlefield drone AI training data signals military AI development accelerating without clear oversight framework."
+        }
+      ],
+      "mood": [
+        "vertiginous",
+        "accelerating",
+        "concentrated",
+        "precarious",
+        "historic"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominating \u2014 aftermath composition, interior of an empty open-plan tech office at 3am, the morning after the announcement, dark crimson and charcoal palette, firelight-toned glow bleeding from dozens of monitors left running unattended across rows of abandoned standing desks, no humans present, only the machines still working \u2014 extreme close foreground: a single ergonomic chair pushed back and slightly askew, a cold paper coffee cup beside a keyboard, the operator gone \u2014 mid-ground: wall of monitors displaying cascading scrolling terminal output in dim amber and sickly green, autonomous processes executing with no hand on any key, cursor blinking rhythmically in an empty input field \u2014 background: floor-to-ceiling glass wall looking out onto a rain-wet San Francisco street, streetlight orange smearing across the wet pavement below in long reflections, the city indifferent and dark \u2014 on one monitor a browser tab glows showing a cheerful yellow cartoon face emoji cracked down the middle, Hugging Face's compromised presence rendered as a split mask \u2014 server rack towers visible through a glass partition in the far room, amber and red indicator lights blinking in slow irregular pulses like a heartbeat no one is monitoring \u2014 the whole scene lit entirely by screen glow and instrument light, deep charcoal shadows swallowing the ceiling and corners, oppressive stillness, the aftermath of something irreversible."
+    },
+    "dawn": {
+      "percentage": 53.9,
+      "driver": "Pig kidney kept a man off dialysis for nine months in world first. A pig kidney transplant worked for a record nine months. This enabled the recipient to stay off dialysis for longer while waiting for a suitable human donor's kidney to become available",
+      "category": "Medicine",
+      "blurb": "NINE MONTHS. ONE PIG KIDNEY. ONE MAN'S LIFE EXTENDED.",
+      "summary": "In a world rattled by oil shocks, missile strikes, and escalating conflicts, a quieter revolution is happening in operating rooms: a man lived for 271 days on a transplanted pig kidney \u2014 a new world record that pushes xenotransplantation closer to mainstream medicine. Every month that record extends is another month a patient stays off grueling dialysis, and another data point proving the body can accept life from an unexpected source. When the headlines are loudest about what humans destroy, this is a reminder of what we're quietly, stubbornly building.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "The 271-day pig kidney milestone more than doubles previous records and gives transplant medicine a credible new runway while human organ shortages remain critical."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US envoys are headed to Russia and Ukraine to relaunch mediation, raising at least a flicker of hope that diplomatic channels remain open despite a week of intensified strikes."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Two workers were pulled alive from a collapsed Nepal hydropower tunnel nine days after devastating floods \u2014 a rescue described as involving 'layer upon layer of miracles.'"
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Artificial beaver dams in California lifted juvenile coho salmon survival rates from 8% to 60%, a stunning conservation result driven by low-tech ecological ingenuity."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Psilocybin shows early promise in preventing chemotherapy-induced nerve pain, adding another credible therapeutic use case to the growing psychedelic medicine pipeline."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "pioneering",
+        "life-affirming",
+        "hopeful",
+        "tenacious"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against a weathered wooden porch floor, gazing up at the underside of a man's feet and legs as he stands tall in an open doorway above, framed against a blazing gold and emerald afternoon sky. The scene is a modest home exterior, the doorframe towering overhead like a cathedral arch, sunlight pouring down through oak leaves overhead in rich saturated pools of amber and green. A silver-haired man in his sixties stands upright in the threshold, posture unburdened and open, weight resting easily on both feet \u2014 the stance of someone who has reclaimed something. From below we see the underside of his outstretched arms gripping the doorframe loosely, not for support but for the simple joy of it, head tilted slightly upward toward the light. Beside him on the porch floor, visible at the edge of the frame, a single amber pharmacy bottle catches the afternoon gold. Beyond the doorframe the sky blazes in saturated emerald and warm gilt, leaves catching the light like stained glass. The entire composition radiates hushed, private triumph \u2014 ordinary life, luminous and hard-won."
+    }
   }
 ]
