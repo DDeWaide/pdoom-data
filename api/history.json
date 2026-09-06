@@ -20331,5 +20331,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast mathematics department corridor and surrounding campus grounds dominate the frame, tiny figures below. The second-order effect: a sprawling university mathematics wing seen from above, its chalkboard-lined seminar rooms suddenly emptied and abandoned mid-session, chalk dust still hanging in golden afternoon light, half-finished equations visible through tall windows. Tiny hunched figures of graduate students and professors drift aimlessly across sunlit courtyards and stone paths outside, some seated alone on steps with open notebooks closed on their laps, some standing in small clusters gesturing uncertainly, the years-long research projects they were pursuing now rendered obsolete overnight. A vast library reading room visible through a glass ceiling panel, rows of towering mathematics reference shelves bathed in rich emerald and gold afternoon light streaming through high windows, the shelves still full but the reading tables below conspicuously vacant. Scattered across the courtyard ground, tiny white rectangles suggesting abandoned draft papers catching the breeze. The mood is saturated gold and vibrant emerald, warm afternoon sun filtering through mature trees whose canopies cast dappled emerald shadow-pools across the stone paths, the whole scene luminous and alive, quietly momentous, the world of human mathematical effort pausing to absorb what just happened.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-05.png"
     }
+  },
+  {
+    "date": "2026-09-06",
+    "generated_at": "2026-09-06T13:30:33.299481+00:00",
+    "doom": {
+      "percentage": 43.6,
+      "raw_percentage": 43.2,
+      "driver": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "category": "Geopolitics",
+      "blurb": "TANKER WAR GRINDS ON. HORMUZ HOLDS ITS BREATH.",
+      "summary": "The US and Iran are now trading ship strikes like aggressive Yelp reviews, with three Iranian oil tankers hit near Kharg Island and Iran promising 'more painful' responses \u2014 which is exactly the kind of escalation ladder nobody wants to be on. Meanwhile, Witkoff and Kushner are shuttling between Moscow and Kyiv playing peace envoy, which is either diplomatic progress or a very expensive gap year. The UN quietly confirmed 1.5\u00b0C warming is now locked in, because apparently we needed more items on the apocalypse agenda.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Iran tanker war is actively escalating with tit-for-tat ship strikes near the Strait of Hormuz, Iran threatening heavier retaliation, and the Falklands dispute resurfacing with Trump hinting support for Milei."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GPT-6 Astra deployed on robot arms and a new paper framing LLMs as a 'cognitive virus' are both circulating on Hacker News, while model fatigue sets in across the industry from relentless weekly releases."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Witkoff-Kushner peace shuttle diplomacy between Moscow and Kyiv represents a live diplomatic wildcard \u2014 could de-escalate or collapse spectacularly depending on Putin's actual intentions."
+        },
+        {
+          "name": "Climate",
+          "signal": "elevated",
+          "detail": "The UN confirmed global warming will exceed the 1.5\u00b0C limit, Indonesia's underground peat fires are surging early under El Ni\u00f1o conditions, and a Jakarta volcano just stranded 150,000 passengers."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Netherlands pulling its gold reserves out of the US signals quiet but serious erosion of confidence in dollar-system stability, the kind of slow-burn development that precedes sharper financial shocks."
+        }
+      ],
+      "mood": [
+        "simmering",
+        "exhausted",
+        "volatile",
+        "grinding"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick Gulf haze and heat shimmer dissolving the horizon into a wall of pale grey-white murk, visibility collapsing to near zero, the Strait of Hormuz swallowed by atmospheric oppression \u2014 a massive rust-streaked VLCC oil tanker fills the mid-ground, riding low and laden, its enormous dark hull slick with moisture, superstructure clustered at the stern barely visible through the haze, orange running lights smearing into the fog like dying embers \u2014 in the near distance a sleek angular US Arleigh Burke-class destroyer cuts a diagonal line through the frame, its flat VLS deck hatches and octagonal SPY radar panels catching dull crimson light filtered through the murk, wake churning a dark charcoal-white behind it \u2014 the water surface is near-black, slicked with petroleum sheen reflecting broken firelight oranges and deep crimsons from some unseen distant source beyond the fog bank \u2014 a low trimaran silhouette, crewless and ghostly, sits motionless in the foreground right, barely distinguishable from the dark water \u2014 the entire palette is dark crimson and charcoal, firelight bleeding through haze from the direction of Bandar Abbas, high contrast between the black water and the pale annihilating white of the overheated Gulf atmosphere above \u2014 oppressive, suffocating, suspended.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-06.png"
+    },
+    "dawn": {
+      "percentage": 56.4,
+      "driver": "German company becomes first in Europe to launch fully commercial orbital rocket. 'We achieved within a few years what had taken the European space industry decades before.'",
+      "category": "Technology",
+      "blurb": "EUROPE REACHES ORBIT ON ITS OWN TERMS",
+      "summary": "Against a week dominated by US-Iran naval exchanges and AI anxiety, a small German startup quietly made history: Isar Aerospace became the first European company to launch a fully commercial orbital rocket from European soil, deploying payloads on just its second flight. What took legacy space institutions decades of bureaucracy and billions in public funding, a new generation of engineers accomplished in a few years. This is the kind of stubborn, unglamorous human achievement that rarely trends \u2014 but it genuinely reshapes what's possible for independent access to space.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A private European rocket reaching orbit and successfully deploying payloads marks a genuine technical milestone, not an incremental one."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Isar Aerospace launched from Norway's And\u00f8ya Spaceport, reflecting cross-border European collaboration outside traditional ESA structures."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A small German team compressed decades of institutional rocketry learning into a few years through sheer engineering determination."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Commercial launch competition historically accelerates reusable and lower-emission rocket development, pointing toward a cleaner access-to-space future."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "European sovereign launch capability reduces geopolitical dependency on US or Russian rockets at exactly the moment those relationships are most strained."
+        }
+      ],
+      "mood": [
+        "pioneering",
+        "resilient",
+        "accomplished",
+        "hopeful",
+        "independent"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-06.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single model rocket rests flat on a weathered wooden workbench, dominating the composition entirely, its nose cone splitting open at the seam like a seed pod cracking apart, a brilliant emerald and gold light erupting from within the split, radiating outward in saturated pixel rays, the glow pooling across rough pine grain and scattered pencil sketches of trajectory arcs pinned beneath the rocket's body, the edges of the frame revealing only the faintest suggestion of a dim university workshop \u2014 a sticker on a shelf edge, the corner of a technical blueprint \u2014 all peripheral, all secondary, the cracking open rocket is everything, its metallic silver body catching warm gold afternoon light on one flank while the other dissolves into rich emerald shadow, the interior glow pulsing like something alive and unstoppable pushing outward from within, a visual metaphor for a small workshop idea splitting open into something vast and orbital and undeniable.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-06.png"
+    }
   }
 ]
