@@ -1,96 +1,97 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T13:30:33.299481+00:00",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T15:40:25.424771+00:00",
   "doom": {
-    "percentage": 43.6,
-    "raw_percentage": 43.2,
-    "driver": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+    "percentage": 42.8,
+    "raw_percentage": 41.7,
+    "driver": "Russia and North Korea open first road bridge across their shared border. Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine",
     "category": "Geopolitics",
-    "blurb": "TANKER WAR GRINDS ON. HORMUZ HOLDS ITS BREATH.",
-    "summary": "The US and Iran are now trading ship strikes like aggressive Yelp reviews, with three Iranian oil tankers hit near Kharg Island and Iran promising 'more painful' responses \u2014 which is exactly the kind of escalation ladder nobody wants to be on. Meanwhile, Witkoff and Kushner are shuttling between Moscow and Kyiv playing peace envoy, which is either diplomatic progress or a very expensive gap year. The UN quietly confirmed 1.5\u00b0C warming is now locked in, because apparently we needed more items on the apocalypse agenda.",
+    "blurb": "AXIS OF INCONVENIENCE NOW HAS INFRASTRUCTURE",
+    "summary": "Russia and North Korea have graduated from shadowy arms deals to ribbon-cutting ceremonies \u2014 the Tumen River bridge is the kind of permanent, physical alliance-building that outlasts any single conflict. Meanwhile Kushner and Witkoff flew to Kyiv after Moscow and called their talks 'substantive,' which is diplomat-speak for 'we ate good food and nothing was agreed.' With the AfD winning a German state in a landslide and Israel-Hezbollah flaring back up while Iran builds new 'restricted zones,' today is a day of slow-burn entrenchment across every front.",
     "factors": [
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "US-Iran tanker war is actively escalating with tit-for-tat ship strikes near the Strait of Hormuz, Iran threatening heavier retaliation, and the Falklands dispute resurfacing with Trump hinting support for Milei."
-      },
-      {
-        "name": "AI Capability",
         "signal": "elevated",
-        "detail": "GPT-6 Astra deployed on robot arms and a new paper framing LLMs as a 'cognitive virus' are both circulating on Hacker News, while model fatigue sets in across the industry from relentless weekly releases."
+        "detail": "Russia-North Korea formalize ties with a literal bridge, AfD makes historic gains in Germany, and Israel-Hezbollah clashes resume killing 12 \u2014 multiple regional fault lines shifting simultaneously."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "Witkoff-Kushner peace shuttle diplomacy between Moscow and Kyiv represents a live diplomatic wildcard \u2014 could de-escalate or collapse spectacularly depending on Putin's actual intentions."
+        "signal": "elevated",
+        "detail": "Far-right AfD landslide in Saxony-Anhalt described as possibly the most consequential German state election of the postwar era, with knock-on implications for EU cohesion."
       },
       {
-        "name": "Climate",
-        "signal": "elevated",
-        "detail": "The UN confirmed global warming will exceed the 1.5\u00b0C limit, Indonesia's underground peat fires are surging early under El Ni\u00f1o conditions, and a Jakarta volcano just stranded 150,000 passengers."
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "OpenAI publishes 'An Alien Mind' philosophical essay about its AGI-era model \u2014 the PR spin continues even as more rogue agent incidents trickle into the MIT Tech Review."
+      },
+      {
+        "name": "Alignment",
+        "signal": "medium",
+        "detail": "LG smart TVs caught logging audio with screens off and snooping on local devices \u2014 a reminder that even the dumb AI is quietly misbehaving."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Netherlands pulling its gold reserves out of the US signals quiet but serious erosion of confidence in dollar-system stability, the kind of slow-burn development that precedes sharper financial shocks."
+        "signal": "low",
+        "detail": "Anak Krakatau eruption strands 270,000 people and shuts eight airports including Jakarta's main hub \u2014 geology asserting itself on an already chaotic news day."
       }
     ],
     "mood": [
-      "simmering",
-      "exhausted",
-      "volatile",
-      "grinding"
+      "entrenched",
+      "fragmenting",
+      "slow-burn",
+      "ominous",
+      "bureaucratic-evil"
     ],
     "tier": 5,
     "tier_name": "Elevated",
-    "card_image": "doom-card-2026-09-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 weather-dominated scene, thick Gulf haze and heat shimmer dissolving the horizon into a wall of pale grey-white murk, visibility collapsing to near zero, the Strait of Hormuz swallowed by atmospheric oppression \u2014 a massive rust-streaked VLCC oil tanker fills the mid-ground, riding low and laden, its enormous dark hull slick with moisture, superstructure clustered at the stern barely visible through the haze, orange running lights smearing into the fog like dying embers \u2014 in the near distance a sleek angular US Arleigh Burke-class destroyer cuts a diagonal line through the frame, its flat VLS deck hatches and octagonal SPY radar panels catching dull crimson light filtered through the murk, wake churning a dark charcoal-white behind it \u2014 the water surface is near-black, slicked with petroleum sheen reflecting broken firelight oranges and deep crimsons from some unseen distant source beyond the fog bank \u2014 a low trimaran silhouette, crewless and ghostly, sits motionless in the foreground right, barely distinguishable from the dark water \u2014 the entire palette is dark crimson and charcoal, firelight bleeding through haze from the direction of Bandar Abbas, high contrast between the black water and the pale annihilating white of the overheated Gulf atmosphere above \u2014 oppressive, suffocating, suspended.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-06.png"
+    "card_image": "doom-card-2026-09-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, strong backlight from a blood-red horizon glow behind a flat marshy river delta landscape \u2014 we are watching from behind two lone figures standing side by side on the muddy northern bank of a wide steel-grey river, their silhouettes pressed black against the ominous crimson sky, one figure slightly taller wearing a heavy greatcoat, the other in a padded work jacket, both utterly still, facing across the water toward the far shore \u2014 between them and the horizon stretches a brand new concrete road bridge, its clean pale pylons rising from the opaque river, the bridge's guardrails catching the sickly red backlight, and behind it the dark lattice skeleton of an older rusting railway trestle looms like a shadow from another era \u2014 on the far bank, dim border guard structures and angular customs booths squat in silhouette, Korean script signage invisible in the murk \u2014 the river surface below reflects the crimson glow in broken oily streaks between thin plates of forming ice at the shore edges \u2014 bare birch trees on both banks stand leafless and skeletal against the oppressive sky \u2014 the entire scene feels cold, transactional, and deeply ominous, two ordinary workers witnessing something vast and irreversible, firelight-toned dusk bleeding across charcoal wetland terrain.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-07.png"
   },
   "dawn": {
-    "percentage": 56.4,
-    "driver": "German company becomes first in Europe to launch fully commercial orbital rocket. 'We achieved within a few years what had taken the European space industry decades before.'",
-    "category": "Technology",
-    "blurb": "EUROPE REACHES ORBIT ON ITS OWN TERMS",
-    "summary": "Against a week dominated by US-Iran naval exchanges and AI anxiety, a small German startup quietly made history: Isar Aerospace became the first European company to launch a fully commercial orbital rocket from European soil, deploying payloads on just its second flight. What took legacy space institutions decades of bureaucracy and billions in public funding, a new generation of engineers accomplished in a few years. This is the kind of stubborn, unglamorous human achievement that rarely trends \u2014 but it genuinely reshapes what's possible for independent access to space.",
+    "percentage": 57.2,
+    "driver": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It. The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
+    "category": "Discovery",
+    "blurb": "4 BILLION STARS. ONE MAP. YOURS TO EXPLORE.",
+    "summary": "While headlines grind through tanker wars and far-right election wins, humanity quietly finished something extraordinary: the largest map of the observable universe ever assembled, covering 75 percent of the sky across 5.6 trillion pixels and cataloguing 4 billion celestial objects. That's not a number to scroll past \u2014 it represents decades of coordinated scientific labor across nations, telescopes, and disciplines, all synthesized into something the public can now explore directly. On a week where pDoom sits at 42.8%, it's worth sitting with the fact that the same species making a mess down here just finished charting the cosmos.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "A private European rocket reaching orbit and successfully deploying payloads marks a genuine technical milestone, not an incremental one."
+        "detail": "The completion of a 5.6 trillion-pixel, 4-billion-object sky map represents one of the most ambitious observational science projects in human history."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "Isar Aerospace launched from Norway's And\u00f8ya Spaceport, reflecting cross-border European collaboration outside traditional ESA structures."
+        "detail": "Projects of this scale require sustained international collaboration across research institutions, funding bodies, and borders \u2014 a quiet counterweight to geopolitical fracturing."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A small German team compressed decades of institutional rocketry learning into a few years through sheer engineering determination."
+        "detail": "Making the map publicly interactive reflects a generous impulse \u2014 scientists choosing to share wonder rather than gatekeep discovery."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Commercial launch competition historically accelerates reusable and lower-emission rocket development, pointing toward a cleaner access-to-space future."
+        "signal": "quiet",
+        "detail": "SpaceX rival Isar Aerospace reached orbit on its second test flight, signaling a maturing launch ecosystem that could support climate monitoring satellites."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "European sovereign launch capability reduces geopolitical dependency on US or Russian rockets at exactly the moment those relationships are most strained."
+        "signal": "glimmer",
+        "detail": "A lifestyle program combining exercise, healthy eating, cognitive training, and social engagement improved cognition 55% more than basic health advice in older adults at dementia risk \u2014 a quiet but profound win for aging well."
       }
     ],
     "mood": [
-      "pioneering",
-      "resilient",
-      "accomplished",
-      "hopeful",
-      "independent"
+      "wonder",
+      "expansive",
+      "illuminating",
+      "collaborative",
+      "humbling"
     ],
     "tier": 6,
     "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-09-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the entire frame, a single model rocket rests flat on a weathered wooden workbench, dominating the composition entirely, its nose cone splitting open at the seam like a seed pod cracking apart, a brilliant emerald and gold light erupting from within the split, radiating outward in saturated pixel rays, the glow pooling across rough pine grain and scattered pencil sketches of trajectory arcs pinned beneath the rocket's body, the edges of the frame revealing only the faintest suggestion of a dim university workshop \u2014 a sticker on a shelf edge, the corner of a technical blueprint \u2014 all peripheral, all secondary, the cracking open rocket is everything, its metallic silver body catching warm gold afternoon light on one flank while the other dissolves into rich emerald shadow, the interior glow pulsing like something alive and unstoppable pushing outward from within, a visual metaphor for a small workshop idea splitting open into something vast and orbital and undeniable.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-06.png"
+    "card_image": "dawn-card-2026-09-07.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped teenage bedroom at 2am, walls swallowed in deep indigo shadow, a single laptop screen blazing gold and emerald light across the entire scene, illuminating everything \u2014 a worn wooden desk cluttered with a half-eaten bag of chips and a cold mug, a cork board on the wall behind pinned with printed star charts and constellation maps, a phone face-down beside the laptop, a poster of the night sky curling at one corner. The laptop screen fills the composition with a glowing cosmic map rendered in rich gold and vibrant emerald \u2014 billions of pinprick galaxies arranged in luminous filaments like frozen sea foam across absolute black, the Legacy Imaging Viewer interface casting its otherworldly glow outward into the room. A teenager's face hovers at the edge of the frame, cheek resting on one hand, lit entirely by the screen's gold-green radiance, mouth slightly open, eyes wide and locked on the impossible scale of what the map contains. Saturated and alive, the screen's emerald and gold hues pool across the desk surface and catch the edges of the star charts on the wall, making the ordinary bedroom feel like a portal to the cosmos.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-07.png"
   }
 }
