@@ -20098,5 +20098,99 @@
       "card_image": "dawn-card-2026-09-07.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped teenage bedroom at 2am, walls swallowed in deep indigo shadow, a single laptop screen blazing gold and emerald light across the entire scene, illuminating everything \u2014 a worn wooden desk cluttered with a half-eaten bag of chips and a cold mug, a cork board on the wall behind pinned with printed star charts and constellation maps, a phone face-down beside the laptop, a poster of the night sky curling at one corner. The laptop screen fills the composition with a glowing cosmic map rendered in rich gold and vibrant emerald \u2014 billions of pinprick galaxies arranged in luminous filaments like frozen sea foam across absolute black, the Legacy Imaging Viewer interface casting its otherworldly glow outward into the room. A teenager's face hovers at the edge of the frame, cheek resting on one hand, lit entirely by the screen's gold-green radiance, mouth slightly open, eyes wide and locked on the impossible scale of what the map contains. Saturated and alive, the screen's emerald and gold hues pool across the desk surface and catch the edges of the star charts on the wall, making the ordinary bedroom feel like a portal to the cosmos."
     }
+  },
+  {
+    "date": "2026-09-08",
+    "generated_at": "2026-09-08T14:18:26.454917+00:00",
+    "doom": {
+      "percentage": 42.4,
+      "raw_percentage": 41.3,
+      "driver": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities.",
+      "category": "Geopolitics",
+      "blurb": "HOUTHIS HIT SAUDI OIL. WORLD HOLDS BREATH.",
+      "summary": "Iran's Houthi proxies have torched Saudi energy facilities, sending Brent crude to $98 and reigniting fears that the tanker war is spreading into a full regional energy crisis. Meanwhile Qatar is sweating bullets trying to keep the Strait of Hormuz open 'unconditionally' \u2014 which is diplomat-speak for 'please stop, everyone.' Throw in a US Patriot missile stockpile sitting at 36% of pre-war levels and Canada's retaliatory tariffs lighting the Western alliance on fire, and it's a full Tuesday.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Houthi strikes on Saudi energy infrastructure pushed oil to $98, widening the Middle East conflict's economic blast radius beyond the Iran-US axis."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "US-Canada trade war escalated to $27.6B in retaliatory tariffs plus threats against Bombardier, fracturing the world's largest bilateral trading relationship in real time."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "AI agents are making progress on Millennium math problems and genome mapping, impressive but not immediately threatening on today's news cycle."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "US Patriot missile stockpiles at 36% of pre-Iran war levels means allied air defense capacity is quietly hollowing out while multiple fronts remain hot."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Wired's 'Slop Jihad' story \u2014 AI tools being used to spread terrorist propaganda \u2014 is concerning but represents known misuse patterns, not a new capability threshold."
+        }
+      ],
+      "mood": [
+        "combustible",
+        "cascading",
+        "mercenary",
+        "frayed"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked asphalt looking steeply upward at the underside of a Saudi petrol station canopy, dark crimson and charcoal palette, the price board overhead blank and unlit, its digit slots empty and dark, a single fluorescent tube flickering and dying beneath the canopy casting sickly amber pulses across the concrete ceiling above us, the pump nozzles hanging loose and idle in their cradles visible from below like dead limbs silhouetted against a sky churning with distant orange-brown haze, the horizon far beyond the station bleeding a deep furnace glow as if something enormous burns many miles away, firelight reflections crawling across the underside of the canopy's corrugated steel panels, a queue of car hoods and windshields visible at the extreme edges of the frame stretching back into darkness, headlights casting long pale columns upward into haze-thickened air, one driver's hand hanging out a window motionless in the dead queue, the geometry of the pump island's concrete pillars rising like monoliths around us, high contrast and oppressive, every surface catching the distant firelight in deep crimson and rust, shadow dominating, stillness and shortage radiating from every detail."
+    },
+    "dawn": {
+      "percentage": 57.6,
+      "driver": "Scientists observe Einstein's gravity in the quantum world for the first time. Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein's foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom's qu",
+      "category": "Science",
+      "blurb": "EINSTEIN VINDICATED AT THE QUANTUM FRONTIER",
+      "summary": "In a world consumed by trade wars, tanker conflicts, and algorithmic chaos, physicists just did something quietly extraordinary: they directly observed gravity behaving as Einstein predicted at the quantum scale \u2014 a unification of two frameworks that scientists have spent a century trying to reconcile. This isn't incremental progress; it's a foundational crack in one of physics' most stubborn walls. Days like this remind us that the human capacity for patient, meticulous wonder operates on a timeline no geopolitical crisis can interrupt.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Directly observing quantum gravity for the first time bridges Einstein's general relativity with quantum mechanics, one of the deepest unsolved problems in physics."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Amid escalating global conflict and economic tension, research teams pressed forward on century-old questions, demonstrating science's irreducible optimism."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Major breakthroughs in fundamental physics routinely involve international teams sharing data and methods across borders that politicians are busy closing."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Separately, researchers published findings on energy-slashing computer memory technology that could dramatically cut the carbon footprint of data centers."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "MIT Technology Review's 35 Innovators Under 35 list dropped today, spotlighting young founders attacking clean steel, chip energy recycling, and sight restoration \u2014 a pipeline of human ingenuity that predates this week's headlines and will outlast them."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "breakthrough",
+        "perseverance",
+        "discovery",
+        "possibility"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a darkened university physics laboratory looking outward through a wide observation window into an adjacent experimental room bathed in rich gold and vibrant emerald morning light streaming through a high exterior window beyond, afternoon-sun warmth flooding the outer chamber like light through leaves. The inner lab we occupy is dim and cooling down, the overnight session complete \u2014 an atom chip apparatus sits dormant inside its gleaming stainless steel vacuum chamber on a black optical table, copper magnetic field coils wound around it catching the golden spillover light in warm amber rings. A single monitor on the near desk still glows, displaying the breakthrough interference fringe pattern \u2014 zebra stripes of light and dark frozen on screen, the gravitational quantum signal preserved. A researcher's notebook lies open beside a cold coffee mug, pen resting across it. Through the observation window the exterior morning floods in saturated emerald-gold, leaves of a campus tree pressing luminous green against the glass, alive with early light. The vacuum chamber catches one shaft of gold like a jewel. Everything is still. The work is done."
+    }
   }
 ]
