@@ -20620,5 +20620,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a darkened university physics laboratory looking outward through a wide observation window into an adjacent experimental room bathed in rich gold and vibrant emerald morning light streaming through a high exterior window beyond, afternoon-sun warmth flooding the outer chamber like light through leaves. The inner lab we occupy is dim and cooling down, the overnight session complete \u2014 an atom chip apparatus sits dormant inside its gleaming stainless steel vacuum chamber on a black optical table, copper magnetic field coils wound around it catching the golden spillover light in warm amber rings. A single monitor on the near desk still glows, displaying the breakthrough interference fringe pattern \u2014 zebra stripes of light and dark frozen on screen, the gravitational quantum signal preserved. A researcher's notebook lies open beside a cold coffee mug, pen resting across it. Through the observation window the exterior morning floods in saturated emerald-gold, leaves of a campus tree pressing luminous green against the glass, alive with early light. The vacuum chamber catches one shaft of gold like a jewel. Everything is still. The work is done.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-08.png"
     }
+  },
+  {
+    "date": "2026-09-09",
+    "generated_at": "2026-09-09T14:18:19.113163+00:00",
+    "doom": {
+      "percentage": 40.7,
+      "raw_percentage": 38.7,
+      "driver": "AI researcher quits Anthropic saying AI race 'could kill us all'.",
+      "category": "Alignment",
+      "blurb": "THE PEOPLE BUILDING IT ARE FLEEING",
+      "summary": "When the safety researchers start walking out the door warning about extinction, that's not a drill \u2014 that's the canary coughing up blood. An Anthropic senior researcher put the odds of AI killing all humans at greater than 10% by decade's end, which would be the most alarming actuarial table in human history if it weren't competing with oil hitting $100 a barrel as the U.S. and Iran actively destroy each other's ships near the world's most important chokepoint. It's a day where both the technologists and the geopoliticians are stress-testing the same question: how bad can this get?",
+      "factors": [
+        {
+          "name": "Alignment",
+          "signal": "high",
+          "detail": "A senior Anthropic safety researcher resigned and publicly stated AI has >10% chance of killing all humans, while a colleague warned the race 'could kill us all' \u2014 insider defections from safety teams are a significant signal."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "OpenAI claims to have solved the 90-year-old Navier-Stokes Millennium Prize Problem using 10,000 AI agents in 88 hours, though controversy swirls around the claim's validity."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Brent crude breached $100 a barrel as the U.S. destroyed five Iranian oil tankers and Iran-US strikes near the Strait of Hormuz continued to escalate \u2014 though this is a continuation of the ongoing tanker war rather than a fresh rupture."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump is overhauling the U.S. intelligence community citing the 'Deep State,' while Iceland and Denmark formally condemned U.S. territorial flag-draping posts \u2014 multilateral diplomatic fraying continues."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "North Korea has built a two-storey uranium enrichment facility flagged by the IAEA as cause for 'serious concern,' adding a nuclear proliferation thread to an already crowded threat landscape."
+        }
+      ],
+      "mood": [
+        "alarmed",
+        "defiant",
+        "volatile",
+        "uncanny",
+        "fraying"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, dark crimson and charcoal palette, high contrast and oppressive atmosphere \u2014 symbolic metaphor scene: a vast dark chessboard fills the entire frame, viewed from steep above at 45 degrees, the board itself cracking and splitting apart down its center diagonal, fissures glowing deep molten crimson from beneath as if the board floats over an abyss \u2014 scattered across the board are dozens of identical chess kings, all toppled and fallen on their sides, none standing, no victors \u2014 the squares of the board alternate between charcoal black and deep arterial red, the cracking fissures spreading outward from the center like fracture lines in glass \u2014 tiny ant-sized human silhouettes stand at the very edges of the board, some mid-step as if fleeing, rendered as mere dark specks against the vast geometric expanse \u2014 firelight from the cracks below throws dramatic upward-cast red light onto the undersides of the fallen pieces, each king casting a long dark shadow across the deteriorating squares \u2014 the board's edges crumble into void, corners already consumed by darkness \u2014 the overall scale crushes the human figures into insignificance against the immensity of the collapsing game \u2014 charcoal vignette framing, deep shadow borders, no sky visible, only the board and the abyss beneath it.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-09.png"
+    },
+    "dawn": {
+      "percentage": 59.3,
+      "driver": "AlphaGenome Atlas: a high-resolution map of human DNA.",
+      "category": "Science",
+      "blurb": "HUMANITY MAPS ITS OWN CODE",
+      "summary": "DeepMind's AlphaGenome Atlas delivers a high-resolution predictive map of the human genome \u2014 a landmark that could accelerate our understanding of genetic disease, inherited conditions, and the molecular roots of human health. On a day when oil hits $100 and AI safety researchers are sounding alarms, it's worth pausing: the same computational power driving concern is also quietly charting the blueprint of life itself. This is the kind of science that compounds \u2014 every cancer researcher, every rare-disease clinician, every geneticist on earth just got a more detailed map to work from.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A high-resolution predictive map of human DNA from DeepMind represents one of the most significant genomics tools in years, with broad downstream implications for medicine and biology."
+        },
+        {
+          "name": "Technology",
+          "signal": "bright",
+          "detail": "Battery installations hit a new US record of 20.2 gigawatt-hours in Q2 2026, signaling the clean energy transition is accelerating even amid geopolitical turbulence."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Ben Shelton's 3:33am US Open marathon victory \u2014 grinding through five sets against the defending champion \u2014 is a reminder that human grit still makes for the best stories."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Nigeria and Boko Haram reportedly reached a secret three-month ceasefire, releasing 360 abducted villagers \u2014 fragile, but real lives returned to their families."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Semaglutide (Ozempic/Wegovy) was linked to nearly 40% fewer asthma attacks in a large real-world study, expanding the drug's potential benefits well beyond weight loss."
+        }
+      ],
+      "mood": [
+        "discovery",
+        "illuminating",
+        "hopeful",
+        "generative",
+        "grounded"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick golden fog and warm amber rain drifting in luminous curtains through a modest village medical clinic courtyard in a developing region, the atmosphere itself glowing with saturated gold and deep emerald, visibility dissolving into luminous haze beyond twenty feet. The scene is an adjacent room to any laboratory \u2014 a small rural waiting area glimpsed through a rain-streaked window, a single battered wooden desk pressed against a cinderblock wall, an open laptop resting on it, its screen casting warm gold and emerald light upward through the falling rain outside the glass, the glow visible from the courtyard where we stand. Raindrops catch the screen-light and scatter it in pixel-perfect golden beads across the wet ground like scattered nucleotides. A hand-drawn paper diagram of a DNA strand is pinned to the wall behind the desk, its letters A T C G visible in distinct red, yellow, blue, green ink, now slightly warped from humidity. A single amber-lit pixel on the laptop screen pulses like one illuminated base pair among billions. Fog rolls through a half-open doorway in thick emerald-gold waves. The rain is relentless, beautiful, alive \u2014 a genetic waterfall made atmospheric, every droplet a data point, the whole saturated world feeling newly readable.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-09.png"
+    }
   }
 ]
