@@ -20717,5 +20717,102 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick golden fog and warm amber rain drifting in luminous curtains through a modest village medical clinic courtyard in a developing region, the atmosphere itself glowing with saturated gold and deep emerald, visibility dissolving into luminous haze beyond twenty feet. The scene is an adjacent room to any laboratory \u2014 a small rural waiting area glimpsed through a rain-streaked window, a single battered wooden desk pressed against a cinderblock wall, an open laptop resting on it, its screen casting warm gold and emerald light upward through the falling rain outside the glass, the glow visible from the courtyard where we stand. Raindrops catch the screen-light and scatter it in pixel-perfect golden beads across the wet ground like scattered nucleotides. A hand-drawn paper diagram of a DNA strand is pinned to the wall behind the desk, its letters A T C G visible in distinct red, yellow, blue, green ink, now slightly warped from humidity. A single amber-lit pixel on the laptop screen pulses like one illuminated base pair among billions. Fog rolls through a half-open doorway in thick emerald-gold waves. The rain is relentless, beautiful, alive \u2014 a genetic waterfall made atmospheric, every droplet a data point, the whole saturated world feeling newly readable.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-09.png"
     }
+  },
+  {
+    "date": "2026-09-10",
+    "generated_at": "2026-09-10T14:11:35.436968+00:00",
+    "doom": {
+      "percentage": 40.3,
+      "raw_percentage": 38.6,
+      "driver": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz.",
+      "category": "Nuclear",
+      "blurb": "NUKES, OIL, AND A MOUNTAIN CALLED PICKAXE",
+      "summary": "Trump warning Iran 'not to get cute' over a site literally called Pickaxe Mountain would be comedy gold if it weren't for the part where oil just cracked $100 again and ships keep getting shot near the world's most important chokepoint. Meanwhile, the IAEA quietly confirmed North Korea is expanding its uranium enrichment facility at Yongbyon \u2014 so apparently the nuclear proliferation department is running a two-for-one special this week. At least the iPhone folds now.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Active U.S.-Iran ship exchanges near Hormuz, oil above $100, Houthis advancing along Red Sea coast, and North Korea expanding uranium enrichment \u2014 the arc is not trending toward peace."
+        },
+        {
+          "name": "Nuclear",
+          "signal": "elevated",
+          "detail": "IAEA reports North Korea built a new uranium enrichment facility at Yongbyon, and Iran's Pickaxe Mountain site is drawing explicit White House threats."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Trump's $5,000 midterm dividend pledge \u2014 a $1.2 trillion unfunded promise \u2014 signals political system under significant internal stress heading into elections."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "DeepSeek V4.1 Flash launches claiming to surpass V4 Pro; OpenAI's Millennium Prize breakthrough is spooking mathematicians; 'extinction' warnings from AI researchers continue to accumulate."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Clearview AI testing a cop-facing tool that can surface your entire online life from a face scan \u2014 normalizing infrastructure that could matter enormously in worse political climates."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "nuclear-adjacent",
+        "combustible",
+        "stretched",
+        "sardonic"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled Persian-language newspaper spread flat on a dark stone surface, the paper's coarse grey newsprint texture rendered in chunky pixel detail, headline columns visible as dense pixel-block text glyphs in Nastaliq-style letterforms, a crude hand-drawn map inked in the margin showing a jagged mountain silhouette with a dotted tunnel line punched through its belly, the paper's edges scorched and curling from heat, one corner pinned beneath a cracked glass of dark tea staining the newsprint rust-amber where it has seeped beneath the rim, the reflection on the wet stone surface catching a distant orange smear of firelight from somewhere off-frame, the surrounding darkness absolute except for that single petroleum-orange glow bleeding in from the upper-right edge, dark crimson and charcoal palette throughout, the newspaper's white paper pushed toward deep cream and ash, high contrast shadows swallowing the table edges, the mountain sketch in the margin cross-hatched with obsessive small marks suggesting underground excavation, the overall mood suffocating and oppressive, firelight the only warmth in an otherwise cold and threatening scene.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-10.png"
+    },
+    "dawn": {
+      "percentage": 59.7,
+      "driver": "Growing proof that autonomous cars save lives.",
+      "category": "Technology",
+      "blurb": "ROBOTS AT THE WHEEL. HUMANS STAYING ALIVE.",
+      "summary": "Amid a week heavy with AI dread and Middle East escalation, here's a quietly radical data story: self-driving vehicles are measurably reducing road deaths. This isn't a promise or a prototype \u2014 it's accumulating real-world evidence that one of technology's most contested bets is paying off in human lives. When the headlines feel dominated by what AI might destroy, it's worth pausing on what autonomous systems are already saving.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Peer-reviewed and field data confirming autonomous vehicle safety marks a genuine evidence milestone, not just manufacturer claims."
+        },
+        {
+          "name": "Technology",
+          "signal": "blazing",
+          "detail": "Self-driving tech moving from 'promising' to 'proven' is a rare moment where a long-hyped innovation actually delivers on its core humanitarian promise."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Road deaths have claimed over 1.35 million lives annually worldwide \u2014 any measurable reduction represents families that won't face that knock on the door."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "quiet",
+          "detail": "Regulators, engineers, and safety researchers collaborating on real-world data collection represents unglamorous but essential cross-sector work."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "The Bayeux Tapestry's return to England after 900 years reminds us that human civilization preserves, shares, and marvels \u2014 even in turbulent times."
+        }
+      ],
+      "mood": [
+        "lifesaving",
+        "proven",
+        "progress",
+        "measured",
+        "hopeful"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic gold and emerald glow. The environment is a two-lane suburban road at dusk, ordinary asphalt stretching into the distance with faded crosswalk stripes and a gentle curve, saturated amber and emerald sky blazing behind the scene like afternoon sun filtered through a canopy. Against this vivid backlit sky, a boxy Rivian SUV is rendered in pure silhouette mid-motion, slight blur on the tires suggesting active movement, lidar dome on its roof visible as a clean dark shape. From the vehicle's roof, vivid red-gold scan lines radiate outward in all directions like echolocation blooming through dusk air, the geometry fanning across the road in luminous arcs that catch a pedestrian silhouette mid-crosswalk and a child on a bicycle at the roadside, both figures dark against the warm emerald-gold backlight, unaware they are being seen and held safe. A technician silhouette stands at the road's edge, tablet in hand, calm and still. Streetlights begin to glow amber along the curb. Rich gold and vibrant emerald saturate every surface, the lidar arcs catching warm amber, the sky a deep jewel-toned gradient of emerald fading into molten gold at the horizon.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-10.png"
+    }
   }
 ]
