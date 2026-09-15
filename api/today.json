@@ -1,97 +1,96 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T16:16:25.799045+00:00",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T14:46:29.721858+00:00",
   "doom": {
-    "percentage": 42.6,
-    "raw_percentage": 43.7,
-    "driver": "Brent crude tops $109 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz.",
+    "percentage": 39.7,
+    "raw_percentage": 38.7,
+    "driver": "For the first time, the US military confirms it has deployed weapons in orbit.",
     "category": "Geopolitics",
-    "blurb": "THE BACKSTOP JUST BLEW UP",
-    "summary": "Saudi Arabia's East-West pipeline \u2014 literally the world's backup plan if the Strait of Hormuz closes \u2014 is now offline after attacks from Iran-allied groups, sending Brent crude past $109 and U.S. diesel above $6 a gallon for the first time ever. Iran also claims it shot down a U.S. drone over the Strait, Hormuz diplomatic talks just collapsed, and Trump is simultaneously yelling at Ukraine about refineries while dismissing AI safety concerns as a 'sick conspiracy.' That's a lot of fires, most of them near oil. Meanwhile, the entire AI industry \u2014 Altman, Amodei, Musk \u2014 is publicly saying 'we could lose control,' and the White House's response is essentially 'sounds fake, carry on.'",
+    "blurb": "AMERICA JUST WEAPONIZED THE HEAVENS",
+    "summary": "The US Air Force has quietly confirmed it has 'on-orbit space control weapons' \u2014 which is either reassuring deterrence or the opening chapter of a very bad science fiction novel, depending on your disposition. Meanwhile, AI CEOs are begging Congress to slow down development while Trump calls their concerns a 'hoax,' a tanker just got hit in the Strait of Hormuz, and Treasury yields hit a 19-year peak. It's a day where every threat vector decided to show up at once, like a doom potluck.",
     "factors": [
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Saudi pipeline shutdown plus Iranian drone shootdown plus collapsed Hormuz talks equals a genuine energy supply crisis with no diplomatic off-ramp visible."
+        "detail": "US confirms space weapons in orbit, NATO drones downed over Lithuania, tanker struck in Strait of Hormuz \u2014 the map is lighting up on three separate fronts simultaneously."
       },
       {
         "name": "AI Capability",
         "signal": "elevated",
-        "detail": "The heads of OpenAI, Anthropic, and SpaceX publicly warning about loss of control is unprecedented industry-wide alarm, even if the White House is plugging its ears."
+        "detail": "The AI industry's own founders are calling for a slowdown, with Anthropic's Jack Clark pushing for mandatory kill switches \u2014 which is the technical equivalent of the arsonist asking for a fire extinguisher."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump dismissing AI safety concerns as a 'sick conspiracy' while the entire frontier AI industry begs for a slowdown is a governance gap wide enough to drive a rogue model through."
+        "detail": "AI regulation is in full political deadlock: Trump calls safety fears a hoax while Bernie Sanders and Steve Bannon agree on exactly one thing \u2014 Congress needs to act."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "New Scientist reports AI experts now put extinction-level risk above 10% \u2014 not new math, but newly prominent in mainstream coverage."
+        "detail": "The AI doomer turn from frontier lab CEOs is notable, but the self-interest angle (slower competitors benefit incumbents) muddies the genuine safety signal."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Russia-Ukraine AI drone warfare escalation, back-to-back Arctic storms doubling sea ice loss, and a WWI sub still leaking TNT into the ocean \u2014 the background radiation of civilizational entropy is quietly elevated."
+        "detail": "10-year Treasury yield breaching 5% for the first time since 2007 alongside oil squeezes and Fed hike expectations adds a financial stability wildcard to an already crowded threat landscape."
       }
     ],
     "mood": [
-      "volatile",
-      "combustible",
-      "fragmented",
-      "pressurized",
-      "cascading"
+      "escalatory",
+      "militarized",
+      "fractured",
+      "vertigo-inducing"
     ],
-    "tier": 5,
-    "tier_name": "Elevated",
-    "card_image": "doom-card-2026-09-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, dark crimson and charcoal palette, strong backlight from a deep blood-orange glow emanating from somewhere off to the right beyond the frame \u2014 we are inside a small Saudi petrol station convenience store in Dhahran, late afternoon, the interior shelves casting long shadows, a lone male attendant silhouetted against the massive plate-glass window, his shoulders dropped, hands pressed flat on the counter, head bowed slightly as he stares at a small portable television screen on the counter whose glow is the only cool light in the frame \u2014 outside the window behind him the sky is a bruised crimson-charcoal gradient, a massive cylindrical steel pipeline running ruler-straight across the flat desert horizon is visible in silhouette, pipeline marker posts dotting the sand at intervals, heat shimmer rising from the ground in dark wavering lines \u2014 the attendant's silhouette is total black against the fiery window backlight, his posture communicating exhaustion and dread, one hand loosely holding a set of keys \u2014 the television's faint blue rectangle on the counter is the only break in the crimson darkness, reflecting upward onto the underside of his jaw \u2014 oppressive, still, the weight of something irreversible hanging in the air.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-14.png"
+    "tier": 4,
+    "tier_name": "Storm Brewing",
+    "card_image": "doom-card-2026-09-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against a cracked suburban concrete driveway looking steeply upward at the underside of a backyard satellite dish mounted on a rusted pole, the dish's ribbed concave underside filling the upper frame, deep navy sky beyond it choked with smoldering orange haze, a single bright artificial point of light \u2014 too steady, too deliberate to be a star \u2014 moving slowly across the narrow band of visible sky between rooftop eaves and dish edge, neighborhood houses flanking both sides reduced to dark silhouetted shapes with curtained windows glowing amber from within, a child's bicycle abandoned on the driveway just entering the lower frame corner, the concrete itself cracked and frost-heaved with dry weeds pushing through, the atmosphere heavy and smoke-filtered, warmth feels threatening, long shadows stretching toward the viewer, the ordinary suburban upward glance suddenly weighted with the knowledge that something overhead has changed forever.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-15.png"
   },
   "dawn": {
-    "percentage": 57.4,
-    "driver": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher.",
-    "category": "Discovery",
-    "blurb": "HUMANITY CRACKS A CODE FOUR CENTURIES IN THE MAKING",
-    "summary": "In a week dominated by AI alarm bells and geopolitical friction, a quieter kind of intelligence triumphed: an AI system called Fable 5.1 solved the Cyphral Distich, a cipher that had defeated every codebreaker since the 1650s. It's a reminder that the same tools generating existential worry can also unlock centuries of human mystery. With 1,132 upvotes and 521 comments on Hacker News, this one clearly hit a nerve \u2014 people still light up when a very old puzzle finally yields.",
+    "percentage": 60.3,
+    "driver": "LSD could be approved for anxiety in the US in 2027. The psychedelic drug LSD eased anxiety in a late-stage trial, paving the way for a probable approval in the US within the next two years",
+    "category": "Medicine",
+    "blurb": "SIXTY YEARS LATER, LSD COMES IN FROM THE COLD",
+    "summary": "In a week dominated by AI doomers, oil route attacks, and geopolitical friction, a quiet revolution in mental health just cleared its biggest hurdle: LSD passed a late-stage clinical trial for anxiety, putting it on track for US approval by 2027. This is the culmination of decades of stigmatized research finally breaking through regulatory walls \u2014 the same substance once banned into oblivion is now being validated by the gold standard of medical evidence. With anxiety disorders affecting hundreds of millions globally, a new approved treatment class could be one of the most consequential medical milestones in a generation.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Cracking a 370-year-old cipher is a landmark moment in computational linguistics and cryptography, demonstrating AI augmenting human scholarship rather than threatening it."
+        "detail": "A late-stage clinical trial \u2014 the rigorous kind \u2014 confirmed LSD's efficacy for anxiety, a result that was unthinkable in mainstream medicine just fifteen years ago."
+      },
+      {
+        "name": "Medicine",
+        "signal": "blazing",
+        "detail": "Regulatory approval by 2027 would make LSD the second psychedelic medicine to enter the US formulary, accelerating the entire psychedelic-assisted therapy pipeline."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "The fact that a centuries-old puzzle still commanded massive public attention \u2014 over 500 comments \u2014 speaks to our enduring love of mystery and the joy of discovery."
+        "detail": "Researchers who spent careers working on stigmatized psychedelic science are now watching their life's work become mainstream clinical reality."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Industry leaders across OpenAI, Anthropic, and Microsoft are for the first time publicly converging on the idea that AI development needs safety guardrails, a fragile but real moment of alignment."
-      },
-      {
-        "name": "Environment",
-        "signal": "quiet",
-        "detail": "Scientists calling for 'emergency' measures to save sea life from El Ni\u00f1o \u2014 including geoengineering trials \u2014 signal a growing willingness to act boldly on ocean health."
+        "detail": "The trial required cross-institutional collaboration between researchers, regulators, and pharmaceutical partners willing to shepherd a Schedule I substance through orthodox approval channels."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Signal's move to enable registration without a phone number using zero-knowledge proofs is a quiet but meaningful win for privacy and digital rights globally."
+        "signal": "bright",
+        "detail": "A coral reef off Benin, thought dead for 60 years, was found teeming with life \u2014 a reminder that systems written off as lost can quietly recover when given the chance."
       }
     ],
     "mood": [
-      "wonder",
-      "tenacious",
-      "illuminating",
-      "resilient",
-      "curious"
+      "breakthrough",
+      "vindication",
+      "healing",
+      "possibility",
+      "resilience"
     ],
-    "tier": 6,
-    "tier_name": "Radiant",
-    "card_image": "dawn-card-2026-09-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped independent bookshop after closing hours, shelves of leather-spined volumes receding into deep shadow, a single brass desk lamp casting a tight cone of rich gold onto a cluttered display table near the window. The shop interior glows amber and emerald in patches where lamplight catches the gilded spines of old folios stacked unevenly. In the window display facing the dark street outside, a single printed broadsheet has been pinned flat against the glass, its dense columns of numbers and two lines of cryptic numerals \u2014 the cipher \u2014 visible in silhouette against the warm interior light, the paper backlit to a luminous gold. A heavy cracked-spine volume lies open on the display table beneath the lamp, its numbered paragraphs catching the light, a loose sheet of handwritten notes tucked between the pages. On a small screen tucked beside the cash register, a blue-white AI interface glows softly, token counts scrolling upward in silence. Deep shadows pool between every shelf. The mood is intimate, reverent, unhurried \u2014 a 370-year secret quietly announced to an empty street in gold and emerald.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-14.png"
+    "tier": 7,
+    "tier_name": "Golden Hour",
+    "card_image": "dawn-card-2026-09-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a quiet clinical dosing room the morning after, looking outward through a wide doorway into a sunlit corridor beyond, deep golden amber light pouring in from the hallway in long warm shafts across the floor. The room itself is dim and still, lit from the side by a single warm lamp in the corner casting teal shadows along the walls. A soft reclining chair sits empty at the center, a rumpled blanket folded loosely over one arm, an eye mask resting on the seat cushion. On a small side table, a tiny paper cup sits alone beside a printed scoring sheet, numbers descending visibly from high to low in a clean visible arc. The doorway frame is bathed in amber radiance, the corridor beyond glowing with the suggestion of morning and open possibility. Long diagonal shadows stretch across the floor tiles from the door frame. The mood is hushed aftermath, a room that held something momentous now quietly exhaling, the chair the only witness, the blanket still holding the shape of someone who left lighter than they arrived.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-15.png"
   }
 }
