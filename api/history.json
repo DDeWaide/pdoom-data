@@ -21296,5 +21296,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a quiet clinical dosing room the morning after, looking outward through a wide doorway into a sunlit corridor beyond, deep golden amber light pouring in from the hallway in long warm shafts across the floor. The room itself is dim and still, lit from the side by a single warm lamp in the corner casting teal shadows along the walls. A soft reclining chair sits empty at the center, a rumpled blanket folded loosely over one arm, an eye mask resting on the seat cushion. On a small side table, a tiny paper cup sits alone beside a printed scoring sheet, numbers descending visibly from high to low in a clean visible arc. The doorway frame is bathed in amber radiance, the corridor beyond glowing with the suggestion of morning and open possibility. Long diagonal shadows stretch across the floor tiles from the door frame. The mood is hushed aftermath, a room that held something momentous now quietly exhaling, the chair the only witness, the blanket still holding the shape of someone who left lighter than they arrived.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-15.png"
     }
+  },
+  {
+    "date": "2026-09-16",
+    "generated_at": "2026-09-16T14:44:51.309690+00:00",
+    "doom": {
+      "percentage": 37.2,
+      "raw_percentage": 34.7,
+      "driver": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it.",
+      "category": "Geopolitics",
+      "blurb": "SOMEONE JUST SHOT AT GOD'S ZIP CODE",
+      "summary": "A drone aimed at Mecca \u2014 Islam's holiest city, annual destination for two million pilgrims \u2014 is either the most provocative act in the Middle East this year or a spectacular case of mistaken GPS coordinates. The Houthis deny it, the Saudis are furious, and the Organization of Islamic Cooperation is using the word 'heinous,' which is rarely a sign that everyone's about to calm down. Meanwhile, Iran is signaling it wants to 'safeguard' the region while the US and Iran are still literally fighting over the Strait of Hormuz, so the geopolitical Jenga tower has acquired several new wobbling pieces today.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "A drone strike on Mecca \u2014 denied by the Houthis \u2014 risks inflaming the entire Islamic world and drawing in regional powers at a moment when the Iran-US war is already straining Gulf stability."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Google's Gemini 3.8 Live with extended thinking dropped today, and Sam Altman publicly admitted the world is 'right to be afraid' \u2014 which is either refreshing honesty or the world's most lucrative confession."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "A new global democracy report places US democratic performance at its lowest level in 50 years of measurement, while Brazil's supreme court erupts in crisis on the eve of a presidential election."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "MIT Technology Review's roundtable on whether AI could 'kill us all' is generating buzz, but it's a panel discussion rather than a new capability development \u2014 philosophy, not pyrotechnics."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "America's driver's license breach is being called a national security disaster on Lawfare, with implications for identity infrastructure at a time when deepfakes and AI-generated election ads are proliferating."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "combustible",
+        "fragile",
+        "unnerving"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-09-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view angled down at 45 degrees, deep navy and smoldering orange palette, heavy shadows with warmth that feels threatening \u2014 we are looking down at a vast red line drawn across cracked ochre desert earth, the line itself glowing faintly orange like a cooling ember embedded in the ground, stretching from the lower left corner toward the upper right where it terminates abruptly at the edge of a vast circular white marble courtyard lit from below by floodlights, the courtyard's concentric rings of white stone recognizable as a sacred gathering place seen from above, the jagged brown granite ridgelines of the Hejaz Mountains compressing the glowing courtyard into a narrow valley on all sides, the desert beyond the mountains fading to absolute dark navy blackness, a single fraying thread of the red line curls upward from its broken terminus like smoke dissipating into the night air, tiny ant-sized figures stand frozen at irregular intervals along both sides of the line but never crossing it, the entire scene suffused in smoldering orange underlighting from below as though the earth itself is the source of heat, deep shadows pooling between the mountain ridges, smoke-filtered starless sky above.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-16.png"
+    },
+    "dawn": {
+      "percentage": 62.8,
+      "driver": "'Smart' Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy. The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body's ability to attack.",
+      "category": "Medicine",
+      "blurb": "CANCER'S OWN SOLDIERS TURNED AGAINST IT",
+      "summary": "In a week crowded with weapons in orbit and AI going rogue, a quieter revolution is unfolding at the cellular level: smart nanoparticles threading mRNA directly into tumors, flipping corrupted immune cells back into fighters. This isn't a incremental drug tweak \u2014 it's a fundamental reimagining of how the body can be coached to heal itself. The doom signals are real, but so is this: human ingenuity continues to find ways to reclaim life from disease, one reprogrammed cell at a time.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Targeted mRNA nanoparticle delivery to tumors represents a convergence of cancer biology, immunology, and materials science that could redefine treatment for multiple cancer types."
+        },
+        {
+          "name": "Medicine",
+          "signal": "blazing",
+          "detail": "Reprogramming tumor-corrupted immune cells rather than simply killing cancer cells is a paradigm shift \u2014 the body's own defense system becomes the therapy."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Canada's invitation to EU associate membership signals democracies actively building new alliances and economic resilience outside of conflict-driven frameworks."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Jalen Hurts quietly donated $600,000 to upgrade a Philadelphia public school's HVAC system, a reminder that individual generosity scales in ways that matter to real communities."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists discovered a volcano cloud unexpectedly destroyed atmospheric methane \u2014 nature itself producing surprise outcomes that could reshape climate modeling for the better."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "ingenuity",
+        "renewal",
+        "possibility"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-09-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber fog and warm golden rain drifting in luminous curtains through a quiet hospital oncology ward courtyard at dusk, the atmosphere itself glowing with deep teal shadows and radiant amber halos where lamplight catches falling droplets. The environment is a sheltered outdoor waiting area adjacent to a cancer treatment wing, rain-slicked stone pavers reflecting warm gold and teal light in long mirror-bright streaks, a low overhang dripping steady curtains of rain at the frame's edge. Within this atmosphere, a single wooden bench sits empty under the overhang, a folded newspaper resting on it, its headline invisible but its presence implying a patient who just stepped inside. Through a rain-blurred window behind the bench, the warm interior glow of an infusion room is barely visible, amber light bleeding through fogged glass, a silhouetted IV drip stand caught in that warmth. Suspended in the foreground rain itself, luminous golden-amber spheres no bigger than dewdrops drift impossibly among the falling droplets, each one faintly bristling with tiny spiked edges suggesting molecular hooks, glowing from within as if carrying their own small fire. A potted succulent on the bench armrest catches the rain, its leaves beaded with droplets that refract the amber glow. Long teal shadows stretch across wet pavers. Radiant, intimate, quietly electric with possibility.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-16.png"
+    }
   }
 ]
