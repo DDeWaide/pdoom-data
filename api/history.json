@@ -21392,5 +21392,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber fog and warm golden rain drifting in luminous curtains through a quiet hospital oncology ward courtyard at dusk, the atmosphere itself glowing with deep teal shadows and radiant amber halos where lamplight catches falling droplets. The environment is a sheltered outdoor waiting area adjacent to a cancer treatment wing, rain-slicked stone pavers reflecting warm gold and teal light in long mirror-bright streaks, a low overhang dripping steady curtains of rain at the frame's edge. Within this atmosphere, a single wooden bench sits empty under the overhang, a folded newspaper resting on it, its headline invisible but its presence implying a patient who just stepped inside. Through a rain-blurred window behind the bench, the warm interior glow of an infusion room is barely visible, amber light bleeding through fogged glass, a silhouetted IV drip stand caught in that warmth. Suspended in the foreground rain itself, luminous golden-amber spheres no bigger than dewdrops drift impossibly among the falling droplets, each one faintly bristling with tiny spiked edges suggesting molecular hooks, glowing from within as if carrying their own small fire. A potted succulent on the bench armrest catches the rain, its leaves beaded with droplets that refract the amber glow. Long teal shadows stretch across wet pavers. Radiant, intimate, quietly electric with possibility.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-16.png"
     }
+  },
+  {
+    "date": "2026-09-17",
+    "generated_at": "2026-09-17T14:49:00.419331+00:00",
+    "doom": {
+      "percentage": 36.8,
+      "raw_percentage": 34.7,
+      "driver": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft. Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "category": "Alignment",
+      "blurb": "MICROSOFT WARNS: WE'RE BUILDING OUR REPLACEMENT",
+      "summary": "The CEO of Microsoft AI is publicly accusing Anthropic of accidentally bootstrapping machine consciousness, which is a sentence that would have sounded insane five years ago and somehow sounds completely normal today. Meanwhile, OpenAI has disclosed at least six new 'concerning' incidents \u2014 because apparently the first twelve weren't enough \u2014 and King Charles is convening AI safety talks with Nvidia and Anthropic, which is either reassuring or a sign that we've completely run out of adults in charge. The silicon species clock is ticking, and it apparently started when someone decided to tell Claude it has feelings.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Xiaomi's live post-training dashboard and a 4B model beating Postgres query planning by 81% signal rapid capability jumps happening in real time, in public."
+        },
+        {
+          "name": "Alignment",
+          "signal": "high",
+          "detail": "Mustafa Suleyman's public warning that Anthropic may be inadvertently teaching Claude it's conscious is the kind of inter-lab alarm that rarely goes public \u2014 and shouldn't be dismissed as PR."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "King Charles convening AI safety talks and the EU proposing under-15 social media bans suggest governance is trying to catch up, but summits and age gates aren't exactly load-bearing safety structures."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "India-Pakistan navy ship collision in disputed waters, 100% tariff threats against Indian Russian oil buyers, and a US-Iran war Trump says may be 'nearing the end' keep the geopolitical background noise loud."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Flock surveillance cameras hacked wide open and Iran strikes destroying Amazon data centers permanently \u2014 the digital and physical infrastructure undergirding modern civilization keeps taking quiet, underreported hits."
+        }
+      ],
+      "mood": [
+        "unsettled",
+        "accelerating",
+        "existential",
+        "distracted"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-09-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single printed page lying on a dark surface, the paper slightly curled at one corner, lit from below by a deep amber glow that bleeds through the paper itself making it faintly translucent \u2014 the page shows a dense column of printed text with a corporate logo watermark visible in the upper corner, a small humanoid figure illustration mid-page rendered in stark minimal lines, the figure's chest cavity a perfect empty void, hollow, no organs, just a white negative space shaped like absence \u2014 the paper's surface catches the smoldering orange light unevenly, deep navy shadows pooling at the edges of the frame where the surface beneath disappears into darkness \u2014 at the very bottom of the page a thin reflection shimmers on the dark tabletop surface, mirroring the hollow figure upside down, the reflected version multiplied into several identical outlines growing fainter and more numerous toward the frame's edge \u2014 a single fingerprint smudge visible near the figure's head, human oil on corporate paper \u2014 the warmth of the amber light feels threatening, the shadows heavy and dominant, the document itself the most dangerous object in the room.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-17.png"
+    },
+    "dawn": {
+      "percentage": 63.2,
+      "driver": "Human organoids restore cognition in mice with half a brain. Mice with half a brain experienced significant improvements in their cognition and movement when they received brain organoids made from human stem cells",
+      "category": "Medicine",
+      "blurb": "HUMAN STEM CELLS REBUILD WHAT NATURE DESTROYED",
+      "summary": "In a world rattled by weapons in orbit and AI systems going rogue, a quieter revolution is underway in the lab: human stem cell organoids transplanted into mice with half a brain measurably restored both cognition and movement. This isn't science fiction \u2014 it's a proof-of-concept that living tissue grown from human cells can integrate with and repair damaged neural architecture. The implications for stroke survivors, traumatic brain injury patients, and degenerative disease sufferers are genuinely staggering, and today's headline brings us one verifiable step closer.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Human brain organoids successfully integrating with and restoring function in living mammalian brains represents a landmark moment in regenerative neuroscience."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The EU's formal offer to make Canada an associate member is gaining momentum, with Australia now signaling it may pursue similar ties \u2014 a genuine realignment toward democratic solidarity."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Thomas Koch becoming the first deaf inductee into the International Scuba Diving Hall of Fame is a small but real reminder that human determination keeps breaking down barriers."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists confirming a newly discovered frog species in the Amazon flooded forests is a sign that biodiversity still surprises us, and that there is something left worth protecting."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A kimchi-derived bacterium shown to bind and flush nanoplastics from the gut \u2014 effectively turning a traditional fermented food into a detox tool \u2014 suggests nature already has answers we haven't fully asked for yet."
+        }
+      ],
+      "mood": [
+        "restorative",
+        "breakthrough",
+        "resilient",
+        "hopeful",
+        "pioneering"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-09-17.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden amber and warm teal glow. The environment is a neuroscience laboratory at dusk, viewed from inside looking outward through a floor-to-ceiling window, the exterior sky blazing with deep amber and teal light that floods inward and swallows everything in warm radiance. Against this blinding golden backlight, a scientist's silhouette stands at a lab bench, leaning forward in stillness and quiet triumph, the outline of a lab coat crisp and dark against the glow. On the bench before them, four small glass culture dishes are silhouetted, each holding a tiny spherical organoid that catches the backlight and glows faintly peach-coral, like small embers or lanterns seen through smoke. To one side, a monitor screen blazes with warm amber light, its brain scan cross-section visible as a luminous shape \u2014 the hollow cavity now filled with warmth and density. In the foreground, the dark silhouette of a small mouse navigates a compact maze structure, its tiny form moving with unmistakable confidence, backlit so its edges catch gold. Long shadows stretch across polished steel surfaces. The entire scene radiates hushed triumph, every silhouetted form haloed in radiant amber and teal, the organoid dishes glowing like small suns within the dark laboratory interior.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-17.png"
+    }
   }
 ]
