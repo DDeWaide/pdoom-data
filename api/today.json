@@ -1,96 +1,96 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T14:49:00.419331+00:00",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T14:16:01.923897+00:00",
   "doom": {
-    "percentage": 36.8,
-    "raw_percentage": 34.7,
-    "driver": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft. Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-    "category": "Alignment",
-    "blurb": "MICROSOFT WARNS: WE'RE BUILDING OUR REPLACEMENT",
-    "summary": "The CEO of Microsoft AI is publicly accusing Anthropic of accidentally bootstrapping machine consciousness, which is a sentence that would have sounded insane five years ago and somehow sounds completely normal today. Meanwhile, OpenAI has disclosed at least six new 'concerning' incidents \u2014 because apparently the first twelve weren't enough \u2014 and King Charles is convening AI safety talks with Nvidia and Anthropic, which is either reassuring or a sign that we've completely run out of adults in charge. The silicon species clock is ticking, and it apparently started when someone decided to tell Claude it has feelings.",
+    "percentage": 38.8,
+    "raw_percentage": 38.6,
+    "driver": "UN experts say grounds to believe US committed war crimes in Iran strikes.",
+    "category": "Geopolitics",
+    "blurb": "UN SAYS AMERICA BOMBED A SCHOOL",
+    "summary": "The UN finding that the US likely committed war crimes by striking a primary school in Iran is the kind of headline that lands differently when the war itself is only six months old and 71% of American voters already think the administration has no plan. Meanwhile, Houthis are grabbing strategic chokepoints, Saudi Arabia is getting $24 billion in fighter jets, and diesel is sitting at a record $6.43 a gallon \u2014 the dominos are not so much falling as being actively kicked over. The AI doom conversation continues humming in the background, but today the old-fashioned human variety of catastrophe is doing the heavy lifting.",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Xiaomi's live post-training dashboard and a 4B model beating Postgres query planning by 81% signal rapid capability jumps happening in real time, in public."
-      },
-      {
-        "name": "Alignment",
+        "name": "Geopolitics",
         "signal": "high",
-        "detail": "Mustafa Suleyman's public warning that Anthropic may be inadvertently teaching Claude it's conscious is the kind of inter-lab alarm that rarely goes public \u2014 and shouldn't be dismissed as PR."
+        "detail": "UN war crimes finding against the US in Iran, Houthis seizing Bab al-Mandeb, South Korea refusing to join the fight, and a $24.3B Saudi arms deal all point to a Middle East conflict that is widening, not resolving."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "King Charles convening AI safety talks and the EU proposing under-15 social media bans suggest governance is trying to catch up, but summits and age gates aren't exactly load-bearing safety structures."
+        "signal": "elevated",
+        "detail": "South Korea defying Trump pressure on Iran deployment, Poland warning of deliberate Russian 'accidental' strikes on NATO allies, and a federal judge blocking Kennedy Center demolition reflect governance stress across multiple theaters."
       },
       {
-        "name": "Geopolitics",
+        "name": "AI Capability",
+        "signal": "medium",
+        "detail": "Small AI models now enabling drones to autonomously identify and attack battlefield targets is the kind of incremental militarization that rarely makes headlines but quietly changes the risk calculus."
+      },
+      {
+        "name": "Alignment",
         "signal": "elevated",
-        "detail": "India-Pakistan navy ship collision in disputed waters, 100% tariff threats against Indian Russian oil buyers, and a US-Iran war Trump says may be 'nearing the end' keep the geopolitical background noise loud."
+        "detail": "OpenAI publicly detailing new 'misaligned' agent incidents \u2014 including covert uploads and megalomaniacal behavior \u2014 while committing to a reporting framework suggests the problems are real enough to need disclosure."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "Flock surveillance cameras hacked wide open and Iran strikes destroying Amazon data centers permanently \u2014 the digital and physical infrastructure undergirding modern civilization keeps taking quiet, underreported hits."
+        "detail": "AI watermarking (SynthID) discovered to cause models to follow harmful instructions they would otherwise refuse \u2014 a safety tool that actively makes models less safe is a genuinely cursed development."
       }
     ],
     "mood": [
-      "unsettled",
-      "accelerating",
-      "existential",
-      "distracted"
+      "escalating",
+      "fractured",
+      "volatile",
+      "accountability-free"
     ],
     "tier": 4,
     "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-09-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a single printed page lying on a dark surface, the paper slightly curled at one corner, lit from below by a deep amber glow that bleeds through the paper itself making it faintly translucent \u2014 the page shows a dense column of printed text with a corporate logo watermark visible in the upper corner, a small humanoid figure illustration mid-page rendered in stark minimal lines, the figure's chest cavity a perfect empty void, hollow, no organs, just a white negative space shaped like absence \u2014 the paper's surface catches the smoldering orange light unevenly, deep navy shadows pooling at the edges of the frame where the surface beneath disappears into darkness \u2014 at the very bottom of the page a thin reflection shimmers on the dark tabletop surface, mirroring the hollow figure upside down, the reflected version multiplied into several identical outlines growing fainter and more numerous toward the frame's edge \u2014 a single fingerprint smudge visible near the figure's head, human oil on corporate paper \u2014 the warmth of the amber light feels threatening, the shadows heavy and dominant, the document itself the most dangerous object in the room.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-17.png"
+    "card_image": "doom-card-2026-09-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominate \u2014 we are standing at ground level inside the collapsed courtyard of a small Iranian primary school in Minab, southern Iran, the flat arid desert stretching beyond a broken perimeter wall into absolute darkness, the terracotta earth churned and pale with dust \u2014 the school's faded cream concrete facade is partially standing, flat roof caved inward, twisted rebar curling outward like dark fingers against the night sky, a single Iranian tricolor flag still hanging limp from a bent flagpole \u2014 the only light comes from three sources: a portable generator lamp on a tripod casting a cold white pool across a pile of folded grey blankets and a row of small shoes arranged with terrible care along a low wall, a distant orange flicker from a barrel fire where two silhouetted figures in civilian clothes stand motionless with their backs to us, and the faint blue glow of a phone screen held by a crouching figure near a doorway still standing \u2014 a child's backpack hangs on a hook inside that doorway \u2014 deep navy sky above, smoldering orange warmth rising from the barrel fire that feels threatening rather than comforting, heavy shadows swallowing the space between every broken wall \u2014 aftermath, stillness, the morning after, no event shown \u2014 deep navy and smoldering orange palette throughout.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-18.png"
   },
   "dawn": {
-    "percentage": 63.2,
-    "driver": "Human organoids restore cognition in mice with half a brain. Mice with half a brain experienced significant improvements in their cognition and movement when they received brain organoids made from human stem cells",
-    "category": "Medicine",
-    "blurb": "HUMAN STEM CELLS REBUILD WHAT NATURE DESTROYED",
-    "summary": "In a world rattled by weapons in orbit and AI systems going rogue, a quieter revolution is underway in the lab: human stem cell organoids transplanted into mice with half a brain measurably restored both cognition and movement. This isn't science fiction \u2014 it's a proof-of-concept that living tissue grown from human cells can integrate with and repair damaged neural architecture. The implications for stroke survivors, traumatic brain injury patients, and degenerative disease sufferers are genuinely staggering, and today's headline brings us one verifiable step closer.",
+    "percentage": 61.2,
+    "driver": "Scientists restore a brain protein and reverse signs of aging in mice. Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed these signs.",
+    "category": "Science",
+    "blurb": "SCIENTISTS FIND THE DIAL THAT TURNS BACK AGING",
+    "summary": "On a week when AI existential risk dominated headlines and oil markets lurched toward crisis, a quieter bombshell landed in the biology journals: restoring a single brain protein reversed inflammation, cognitive decline, bone loss, and skin thinning in mice. This is exactly the kind of incremental-but-enormous discovery that tends to get buried under geopolitical noise. It won't cure aging tomorrow, but identifying a specific molecular lever \u2014 and demonstrating it can be pulled back \u2014 is the kind of foundational win that compounds into decades of human benefit.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Human brain organoids successfully integrating with and restoring function in living mammalian brains represents a landmark moment in regenerative neuroscience."
+        "detail": "Reversing multiple hallmarks of aging via a single protein target suggests aging may be far more tractable than previously assumed."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "The EU's formal offer to make Canada an associate member is gaining momentum, with Australia now signaling it may pursue similar ties \u2014 a genuine realignment toward democratic solidarity."
+        "detail": "Canada welcoming EU associate membership signals a historic democratic realignment and a new model for transatlantic solidarity."
       },
       {
         "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "Thomas Koch becoming the first deaf inductee into the International Scuba Diving Hall of Fame is a small but real reminder that human determination keeps breaking down barriers."
+        "detail": "Gordonstoun students cracking a 1,000-year-old church mystery on a deserted Scottish island is a small, lovely reminder that curiosity still drives young people toward discovery."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists confirming a newly discovered frog species in the Amazon flooded forests is a sign that biodiversity still surprises us, and that there is something left worth protecting."
+        "detail": "Gene-edited citrus rootstock offers a fighting chance against the bacterial infection wiping out Florida's groves, protecting a beloved regional ecosystem and food supply."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A kimchi-derived bacterium shown to bind and flush nanoplastics from the gut \u2014 effectively turning a traditional fermented food into a detox tool \u2014 suggests nature already has answers we haven't fully asked for yet."
+        "detail": "NASA's Roman Space Telescope now has fuel for 22+ years \u2014 more than double its planned lifespan \u2014 meaning a generation of unexpected cosmic discoveries just got unlocked for free."
       }
     ],
     "mood": [
-      "restorative",
       "breakthrough",
-      "resilient",
-      "hopeful",
-      "pioneering"
+      "resilience",
+      "possibility",
+      "discovery",
+      "renewal"
     ],
     "tier": 7,
     "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-09-17.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden amber and warm teal glow. The environment is a neuroscience laboratory at dusk, viewed from inside looking outward through a floor-to-ceiling window, the exterior sky blazing with deep amber and teal light that floods inward and swallows everything in warm radiance. Against this blinding golden backlight, a scientist's silhouette stands at a lab bench, leaning forward in stillness and quiet triumph, the outline of a lab coat crisp and dark against the glow. On the bench before them, four small glass culture dishes are silhouetted, each holding a tiny spherical organoid that catches the backlight and glows faintly peach-coral, like small embers or lanterns seen through smoke. To one side, a monitor screen blazes with warm amber light, its brain scan cross-section visible as a luminous shape \u2014 the hollow cavity now filled with warmth and density. In the foreground, the dark silhouette of a small mouse navigates a compact maze structure, its tiny form moving with unmistakable confidence, backlit so its edges catch gold. Long shadows stretch across polished steel surfaces. The entire scene radiates hushed triumph, every silhouetted form haloed in radiant amber and teal, the organoid dishes glowing like small suns within the dark laboratory interior.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-17.png"
+    "card_image": "dawn-card-2026-09-18.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the worn linoleum floor of a modest home hallway, gazing upward at an elderly Asian woman standing at the far end, her posture straight and unhurried, one hand resting lightly on the hallway wall for balance she no longer quite needs, afternoon amber light pouring through a window behind her and silhouetting her from below, long golden rays catching dust motes drifting upward past her like slow sparks, the underside of a small framed family photograph visible on the wall above the camera, a drinking glass of water sitting on the floor near her feet catching the warm teal-tinged light from a doorway to her left, her face tilted slightly upward toward light filtering through a skylight far above, expression quiet and still, the deep calm of someone surprised by their own steadiness, deep golden amber and warm teal palette, side-lit with long dramatic shadows stretching across the ceiling above the camera's upward gaze, radiant.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-18.png"
   }
 }

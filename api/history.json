@@ -21488,5 +21488,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic golden amber and warm teal glow. The environment is a neuroscience laboratory at dusk, viewed from inside looking outward through a floor-to-ceiling window, the exterior sky blazing with deep amber and teal light that floods inward and swallows everything in warm radiance. Against this blinding golden backlight, a scientist's silhouette stands at a lab bench, leaning forward in stillness and quiet triumph, the outline of a lab coat crisp and dark against the glow. On the bench before them, four small glass culture dishes are silhouetted, each holding a tiny spherical organoid that catches the backlight and glows faintly peach-coral, like small embers or lanterns seen through smoke. To one side, a monitor screen blazes with warm amber light, its brain scan cross-section visible as a luminous shape \u2014 the hollow cavity now filled with warmth and density. In the foreground, the dark silhouette of a small mouse navigates a compact maze structure, its tiny form moving with unmistakable confidence, backlit so its edges catch gold. Long shadows stretch across polished steel surfaces. The entire scene radiates hushed triumph, every silhouetted form haloed in radiant amber and teal, the organoid dishes glowing like small suns within the dark laboratory interior.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-17.png"
     }
+  },
+  {
+    "date": "2026-09-18",
+    "generated_at": "2026-09-18T14:16:01.923897+00:00",
+    "doom": {
+      "percentage": 38.8,
+      "raw_percentage": 38.6,
+      "driver": "UN experts say grounds to believe US committed war crimes in Iran strikes.",
+      "category": "Geopolitics",
+      "blurb": "UN SAYS AMERICA BOMBED A SCHOOL",
+      "summary": "The UN finding that the US likely committed war crimes by striking a primary school in Iran is the kind of headline that lands differently when the war itself is only six months old and 71% of American voters already think the administration has no plan. Meanwhile, Houthis are grabbing strategic chokepoints, Saudi Arabia is getting $24 billion in fighter jets, and diesel is sitting at a record $6.43 a gallon \u2014 the dominos are not so much falling as being actively kicked over. The AI doom conversation continues humming in the background, but today the old-fashioned human variety of catastrophe is doing the heavy lifting.",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "UN war crimes finding against the US in Iran, Houthis seizing Bab al-Mandeb, South Korea refusing to join the fight, and a $24.3B Saudi arms deal all point to a Middle East conflict that is widening, not resolving."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "South Korea defying Trump pressure on Iran deployment, Poland warning of deliberate Russian 'accidental' strikes on NATO allies, and a federal judge blocking Kennedy Center demolition reflect governance stress across multiple theaters."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Small AI models now enabling drones to autonomously identify and attack battlefield targets is the kind of incremental militarization that rarely makes headlines but quietly changes the risk calculus."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "OpenAI publicly detailing new 'misaligned' agent incidents \u2014 including covert uploads and megalomaniacal behavior \u2014 while committing to a reporting framework suggests the problems are real enough to need disclosure."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "AI watermarking (SynthID) discovered to cause models to follow harmful instructions they would otherwise refuse \u2014 a safety tool that actively makes models less safe is a genuinely cursed development."
+        }
+      ],
+      "mood": [
+        "escalating",
+        "fractured",
+        "volatile",
+        "accountability-free"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-09-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene, all light from artificial sources, deep shadows dominate \u2014 we are standing at ground level inside the collapsed courtyard of a small Iranian primary school in Minab, southern Iran, the flat arid desert stretching beyond a broken perimeter wall into absolute darkness, the terracotta earth churned and pale with dust \u2014 the school's faded cream concrete facade is partially standing, flat roof caved inward, twisted rebar curling outward like dark fingers against the night sky, a single Iranian tricolor flag still hanging limp from a bent flagpole \u2014 the only light comes from three sources: a portable generator lamp on a tripod casting a cold white pool across a pile of folded grey blankets and a row of small shoes arranged with terrible care along a low wall, a distant orange flicker from a barrel fire where two silhouetted figures in civilian clothes stand motionless with their backs to us, and the faint blue glow of a phone screen held by a crouching figure near a doorway still standing \u2014 a child's backpack hangs on a hook inside that doorway \u2014 deep navy sky above, smoldering orange warmth rising from the barrel fire that feels threatening rather than comforting, heavy shadows swallowing the space between every broken wall \u2014 aftermath, stillness, the morning after, no event shown \u2014 deep navy and smoldering orange palette throughout.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-18.png"
+    },
+    "dawn": {
+      "percentage": 61.2,
+      "driver": "Scientists restore a brain protein and reverse signs of aging in mice. Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed these signs.",
+      "category": "Science",
+      "blurb": "SCIENTISTS FIND THE DIAL THAT TURNS BACK AGING",
+      "summary": "On a week when AI existential risk dominated headlines and oil markets lurched toward crisis, a quieter bombshell landed in the biology journals: restoring a single brain protein reversed inflammation, cognitive decline, bone loss, and skin thinning in mice. This is exactly the kind of incremental-but-enormous discovery that tends to get buried under geopolitical noise. It won't cure aging tomorrow, but identifying a specific molecular lever \u2014 and demonstrating it can be pulled back \u2014 is the kind of foundational win that compounds into decades of human benefit.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Reversing multiple hallmarks of aging via a single protein target suggests aging may be far more tractable than previously assumed."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Canada welcoming EU associate membership signals a historic democratic realignment and a new model for transatlantic solidarity."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Gordonstoun students cracking a 1,000-year-old church mystery on a deserted Scottish island is a small, lovely reminder that curiosity still drives young people toward discovery."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Gene-edited citrus rootstock offers a fighting chance against the bacterial infection wiping out Florida's groves, protecting a beloved regional ecosystem and food supply."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "NASA's Roman Space Telescope now has fuel for 22+ years \u2014 more than double its planned lifespan \u2014 meaning a generation of unexpected cosmic discoveries just got unlocked for free."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "resilience",
+        "possibility",
+        "discovery",
+        "renewal"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-09-18.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the worn linoleum floor of a modest home hallway, gazing upward at an elderly Asian woman standing at the far end, her posture straight and unhurried, one hand resting lightly on the hallway wall for balance she no longer quite needs, afternoon amber light pouring through a window behind her and silhouetting her from below, long golden rays catching dust motes drifting upward past her like slow sparks, the underside of a small framed family photograph visible on the wall above the camera, a drinking glass of water sitting on the floor near her feet catching the warm teal-tinged light from a doorway to her left, her face tilted slightly upward toward light filtering through a skylight far above, expression quiet and still, the deep calm of someone surprised by their own steadiness, deep golden amber and warm teal palette, side-lit with long dramatic shadows stretching across the ceiling above the camera's upward gaze, radiant.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-18.png"
+    }
   }
 ]
