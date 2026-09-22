@@ -1,97 +1,97 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T16:21:59.151771+00:00",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:33:01.504481+00:00",
   "doom": {
-    "percentage": 38.9,
-    "raw_percentage": 38.3,
-    "driver": "US and China discuss AI safety plan ahead of Trump-Xi summit.",
-    "category": "AI Capability",
-    "blurb": "TWO SUPERPOWERS, ONE ALGORITHM, NO PLAN",
-    "summary": "The US and China are meeting to discuss AI safety guardrails \u2014 which sounds reassuring until you realize the summit is also the backdrop for Ukraine drone-striking Moscow, the UN declaring US drug boat attacks potential crimes against humanity, and Trump floating an 'AI Force' while his treasury secretary refuses to give AI companies a liability shield. The adults are in the room; unfortunately so is everyone else.",
+    "percentage": 40.6,
+    "raw_percentage": 41.3,
+    "driver": "War between U.S. and Iran becomes a test of who will blink first. More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+    "category": "Geopolitics",
+    "blurb": "SIX MONTHS IN, NOBODY'S BLINKING",
+    "summary": "The US-Iran war has officially entered 'game of chicken played by people who hate each other' territory, with Iran dangling Strait of Hormuz reopening as a diplomatic carrot while its Houthi proxies push deeper into Yemen and displace 100,000 people. Meanwhile Trump is heading to UNGA to 'look for wins after a rough week,' which is not exactly the energy you want from the guy holding the nuclear codes. The F-35 parts disappearing in Hong Kong are doing their own quiet geopolitical thriller subplot in the background.",
     "factors": [
       {
-        "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Trump's 'AI Force' proposal and a US-China AI hotline discussion signal that AI is now firmly a geopolitical weapons category, not just a tech category."
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "Six-month US-Iran conflict now a war of attrition, Houthis expanding territory, Strait of Hormuz leverage being played, and South China Sea collision between China and Philippines all running simultaneously."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "The UN's first major AI assessment warns governments must rein in AI agents before risks are understood \u2014 while the US refuses liability shields for AI companies."
+        "detail": "Trump launches 'Trump TV' after banning CNN, MSNBC and Politico from White House, while UN General Assembly convenes with US war crimes allegations on the agenda."
       },
       {
-        "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Ukraine launched 1,000+ drones at Moscow on Russia's election day, a Houthi missile targeted Riyadh, and the Saudi East-West pipeline is shut down \u2014 multiple pressure points flaring simultaneously."
+        "name": "AI Capability",
+        "signal": "elevated",
+        "detail": "Meta's Muse AI agent has a serious zero-day exploit patched same week as 2.5M downloads surge, and autonomous weapons top the UNGA agenda."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "Jensen Huang publicly dismissing AI safety fears while researchers warn otherwise is exactly the kind of narrative gap that precedes surprises."
+        "detail": "MIT Tech Review pushes back on AI hype cycle, while OpenAI solved Navier-Stokes but mathematicians say they learned nothing from how it did it \u2014 a small but telling alignment-adjacent concern."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "The UN GA convening amid wars in Ukraine and the Gulf, a Trump-Xi summit, and US press bans being litigated in real time makes for a combustible diplomatic week."
+        "detail": "Missing F-35 fighter jet components last seen in Hong Kong, with Australian investigators now probing potential technology exposure \u2014 the kind of story that gets classified fast."
       }
     ],
     "mood": [
-      "tense",
-      "multipolar",
+      "grinding",
+      "volatile",
       "precarious",
-      "performative",
-      "escalatory"
+      "watchful",
+      "brinkmanship"
     ],
-    "tier": 4,
-    "tier_name": "Storm Brewing",
-    "card_image": "doom-card-2026-09-21.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 silhouette composition, deep navy and smoldering orange palette, heavy shadows dominate, warmth feels threatening \u2014 we are inside a darkened Manhattan high-rise office at night, looking outward through floor-to-ceiling glass windows toward the glowing amber smear of the midtown skyline beyond, the Hudson River a black ribbon far below catching orange reflections \u2014 in the foreground, two human silhouettes stand close together but not touching, one slightly taller, both in formal suit jackets, their backs to us, facing the window and the city glow, their outlines crisp and featureless against the burning cityscape behind them \u2014 between them on a long dark conference table: a single smartphone screen glowing cold blue-white upward like a lantern, the only cool light in the frame, casting faint underlit shadows on their chins \u2014 on the table's surface, two small flag stands are silhouetted, their miniature banners indistinct but present \u2014 the ceiling is low and dark, fluorescent panels dead or dimmed, only the city outside providing illumination \u2014 the orange glow from the skyline halos the two figures like heat from something enormous and unseen, the mood ceremonial but suffocating, the silence between the two figures heavier than any spoken word.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-21.png"
+    "tier": 5,
+    "tier_name": "Elevated",
+    "card_image": "doom-card-2026-09-22.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view pressed flat against cracked sun-baked asphalt looking steeply upward at the underside of a massive rusted petroleum tanker truck, its belly filling the upper frame, wheels taller than a person, the vehicle completely motionless and abandoned at a fuel depot \u2014 dark crimson and charcoal palette, firelight reflections dancing across the truck's corroded undercarriage from somewhere off-screen to the left \u2014 we are in a Gulf port city, the concrete loading dock stretching away behind the truck's axles, fuel hoses hanging limp and disconnected like dead vines, a row of identical tankers queued behind this one, all stopped, none moving \u2014 the sky visible in the narrow gap between truck belly and tarmac is the color of a bruise, amber-rust haze swallowing the horizon \u2014 to the right a corrugated metal pump station sits dark and powerless, its digital price display dead and blank \u2014 heat shimmer rises off the black asphalt in visible waves \u2014 a single rusted chain-link gate in the far distance is padlocked shut, a hand-lettered paper notice fluttering against it, unreadable \u2014 the geometry of stalled commerce, of supply lines gone silent, towers above the viewer, oppressive and total.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-22.png"
   },
   "dawn": {
-    "percentage": 61.1,
-    "driver": "US and China discuss AI safety plan ahead of Trump-Xi summit. Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-    "category": "Cooperation",
-    "blurb": "THE TWO SUPERPOWERS ARE ACTUALLY TALKING ABOUT AI SAFETY",
-    "summary": "In a week dominated by rogue AI incidents and war crime allegations, the world's two most powerful nations quietly sat down to discuss guardrails for artificial intelligence before it outpaces both of them. The US-China AI safety talks \u2014 including discussion of a mutual incident notification 'hotline' \u2014 represent exactly the kind of great-power cooperation that most analysts assumed was dead. It won't fix everything, but two rivals choosing dialogue over competition on the defining technology of our era is a signal worth holding onto.",
+    "percentage": 59.4,
+    "driver": "Stem cells reverse stroke damage and restore movement in mice. Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the b",
+    "category": "Medicine",
+    "blurb": "SCIENCE GROWS BACK WHAT STROKES TOOK AWAY",
+    "summary": "In a week shadowed by AI-triggered near-wars and UN war crime allegations, a quieter revolution is happening in the lab: scientists have used stem cells to regenerate stroke-damaged brain tissue in mice, growing new neurons and restoring movement that was lost. This follows recent breakthroughs in brain organoids and aging reversal \u2014 a genuine pattern of momentum in neuroscience, not a one-off. The brain, long considered irreparable, is becoming medicine's next frontier.",
     "factors": [
       {
-        "name": "Cooperation",
-        "signal": "blazing",
-        "detail": "US and Chinese officials holding substantive AI safety talks ahead of a Trump-Xi summit is the kind of diplomatic back-channel that prevents catastrophic misunderstanding between nuclear-armed rivals."
-      },
-      {
         "name": "Science",
-        "signal": "bright",
-        "detail": "NASA successfully powered up Roman Space Telescope's massive 300-megapixel infrared camera, a milestone for a mission that will survey more of the cosmos than any instrument before it."
+        "signal": "blazing",
+        "detail": "Stem cell therapy regenerated neurons and restored motor function after stroke in mice, a result that points toward human trials with real urgency."
       },
       {
         "name": "Human Spirit",
+        "signal": "bright",
+        "detail": "Afghan cyclist Fariba Hashimi, who once disguised herself as a man to train under Taliban rule, won an Asian Games silver medal \u2014 a stunning arc of defiance and triumph."
+      },
+      {
+        "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "A UT freshman won $1.1 million at ESPN's College GameDay kicking contest, a perfectly ridiculous reminder that ordinary people get extraordinary moments."
+        "detail": "Iran reportedly signaled it could reopen the Strait of Hormuz within 7 days if military pressure eases, suggesting back-channel diplomacy is alive even amid open conflict."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "A new Amazon study identifies the most effective strategies for protecting biodiversity and carbon, giving conservationists a clearer roadmap for where intervention matters most."
+        "signal": "bright",
+        "detail": "Researchers have developed a new concrete formula that is both stronger than standard mix and actively absorbs CO2 from the atmosphere, offering a rare win-win for construction and climate."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Egypt's Amina Orfi became the youngest women's squash world number one at just 19, a landmark for African sport and a reminder that talent has no geography."
+        "signal": "glimmer",
+        "detail": "Scientists discovered the first new penguin species in over 100 years, a reminder that Earth still holds secrets and that curiosity-driven research keeps delivering wonder."
       }
     ],
     "mood": [
-      "dialogue",
-      "resilience",
-      "breakthrough",
-      "possibility",
-      "steadfast"
+      "resilient",
+      "regenerative",
+      "determined",
+      "luminous",
+      "tenacious"
     ],
-    "tier": 7,
-    "tier_name": "Golden Hour",
-    "card_image": "dawn-card-2026-09-21.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a cramped late-night convenience store or bodega interior, shelves of goods receding into darkness behind a single glowing television mounted high on the wall, its blue-white screen light the only warm source in the room, casting long amber and teal shadows across stacked cans and a cluttered counter below. The TV screen displays two silhouetted figures seated across a table from one another, a faint circuit-line glow between them suggesting a shared screen or document, the New York skyline ghosted in the background of the broadcast. A solitary figure \u2014 a store clerk \u2014 leans forward on the counter, elbows down, chin resting in one hand, watching the broadcast with quiet, tired attention. Two small paper flags, American and Chinese, are pinned to the corkboard beside the register, barely visible in the peripheral darkness. The floor reflects the television's cold blue light in long liquid streaks across worn linoleum. Deep shadows consume the corners. Mood is still, watchful, the world absorbing something quietly significant at the edge of midnight. Deep golden hour amber and warm teal palette filtered through the artificial blue of the screen glow. Radiant screen light, long shadows, 16-bit SNES pixel art, no text, no antialiasing.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-21.png"
+    "tier": 6,
+    "tier_name": "Radiant",
+    "card_image": "dawn-card-2026-09-22.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside a darkened neuroscience lab in the early morning hours after the breakthrough results were confirmed, looking outward through a wide floor-to-ceiling glass window toward a sunlit courtyard beyond, rich gold morning light pouring through in saturated emerald and amber shafts across the lab floor. The aftermath of a long night of discovery: a microsurgery bench sits quietly to one side, a single glass microsyringe resting in its tray, work complete. On a light table near the window, a glass slide holding a stained brain tissue cross-section glows in warm amber and deep violet, the regenerated zone visible as a soft bloom of orange and red against the stroke-darkened tissue. A monitor beside it still displays a color-coded gait analysis footprint trail, the final mouse walking pattern rendered in vivid emerald green \u2014 steady, rhythmic, restored \u2014 glowing softly in the dim room. A small transparent observation arena sits on a platform near the window, empty now, catching a warm shaft of gold morning sun. Culture flasks with faint pearlescent fluid catch the light on a nearby shelf. The courtyard beyond the window is alive with saturated green leaves backlit by afternoon-gold morning sun, vibrant and alive, the world outside luminous with emerald and gold, framed by the cool steel-blue stillness of the empty lab interior.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-22.png"
   }
 }
