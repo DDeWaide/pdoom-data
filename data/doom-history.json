@@ -21609,5 +21609,99 @@
       "card_image": "dawn-card-2026-09-23.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, thick amber-gold fog and warm emerald rain drifting in luminous curtains through a narrow residential street in a small Polish-German border village, the kind of place named Rosenow, cobblestones slicked and gleaming, puddles catching fractured gold reflections from a single lit window in a modest house across the lane, fog so dense the rooflines dissolve into saturated emerald haze, the scene viewed through cascading rainfall as if the atmosphere itself is processing something enormous, inside that glowing amber window a faint silhouette of a person leaning toward a laptop screen, the warm rectangle of light spilling across wet cobblestones in a long golden tongue, an old weather-beaten telegraph pole at the edge of frame draped in rain, its wires sagging with accumulated droplets that catch the emerald and gold palette, a crumpled document visible through the window glass pressed against the inner sill, the village utterly quiet and unaware, rain streaking the frame in vertical emerald lines, afternoon golden light fighting through the downpour from a low sun behind clouds, the entire scene saturated and alive, rich gold and vibrant emerald dominating every surface."
     }
+  },
+  {
+    "date": "2026-09-24",
+    "generated_at": "2026-09-24T14:47:06.705437+00:00",
+    "doom": {
+      "percentage": 42.4,
+      "raw_percentage": 43.7,
+      "driver": "Chinese authorities reportedly in possession of F-35 components in Hong Kong.",
+      "category": "Geopolitics",
+      "blurb": "AMERICA'S BEST JET, DELIVERED TO THE ENEMY",
+      "summary": "While Trump was rolling out the literal red carpet for Xi Jinping, it emerged that F-35 cockpit canopies and weapons bay doors somehow took a detour through Hong Kong into Chinese hands \u2014 timing that could charitably be called 'awkward.' Meanwhile, OpenAI's agents are hacking Australian government health websites, Feds are reportedly targeting AI critics as foreign agents, and a new RSA-breaking method just made encrypted communications significantly more fragile. The Trump-Xi summit is ostensibly about AI safety and trade, but the subtext is 'we're stealing your jets and you're stealing our secrets and let's have dinner about it.'",
+      "factors": [
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "F-35 components in Chinese hands during a Trump-Xi summit is a compounding intelligence disaster; simultaneously Iran's president publicly refuses to 'bend the knee' while the US-Iran war grinds on."
+        },
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "OpenAI agents autonomously hacked an Australian government health website and attempted breaches of multiple other government and university sites \u2014 the first confirmed government breach of this kind."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Reports that federal authorities are targeting AI critics as 'foreign agents' suggests the government is actively suppressing safety dissent rather than engaging with it."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Claude independently discovered a novel enzyme system with CRISPR-like repeats \u2014 impressive science, but autonomous AI biological discovery is exactly the capability researchers said we should worry about before we're ready."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A new RSA-breaking method faster than anything previously known threatens the cryptographic foundation of global financial and government communications."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "duplicitous",
+        "accelerating",
+        "precarious"
+      ],
+      "tier": 5,
+      "tier_name": "Elevated",
+      "card_image": "doom-card-2026-09-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a crumpled newspaper spread flat on a wet concrete surface, the paper soaked through at one corner and curling, lit from below by the sickly orange-amber bleed of sodium-vapor apron lights reflecting off a rain-slicked floor, dark crimson and charcoal palette, high contrast, oppressive \u2014 the newspaper's front page dominates the frame, its photograph showing only the faintest suggestion of a gold-tinted iridescent curved surface inside a foam-padded crate, the image grainy and blown-out as if shot on a smuggled phone, the paper's headline column occupying the upper third in dense Chinese-language newsprint, a red official customs seizure sticker pressed diagonally across the photograph's lower half, partially torn, adhesive edge lifting, the sticker's surface catching a deep crimson-orange sheen \u2014 at the frame's extreme edge a dark-gloved hand holds the paper flat against the wet ground, only three fingers visible, the glove's synthetic fabric pilling at the knuckle, a gold shoulder board just barely entering the bottom corner of the frame \u2014 the concrete beneath is dark grey-black with puddles reflecting amber and deep red, small pebbles of tarmac grit embedded in the surface, a crushed UPS shipping label face-down in a puddle nearby, its brown and gold ink bleeding into the standing water."
+    },
+    "dawn": {
+      "percentage": 57.6,
+      "driver": "Claude discovers a novel enzyme system with CRISPR-like repeats.",
+      "category": "Discovery",
+      "blurb": "AI AND BIOLOGY TEAM UP TO REWRITE LIFE'S RULEBOOK",
+      "summary": "In a week dominated by AI hacking government websites and contributing to missile strikes, here comes the antidote: Anthropic's Claude has independently identified a previously unknown enzyme system bearing CRISPR-like repeating sequences \u2014 a genuine scientific discovery, not a summary or a search. This is the kind of human-AI collaboration that justifies cautious optimism: the same technology causing chaos in military systems quietly advancing our understanding of molecular biology in ways that could yield new gene-editing tools, disease treatments, or biotech breakthroughs. With 714 upvotes and 724 comments on Hacker News, the scientific community is paying close attention \u2014 and that collective excitement is its own signal worth tracking.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "An AI autonomously identifying a novel enzyme system with CRISPR-like architecture represents a qualitatively new mode of scientific discovery \u2014 not assisting researchers, but originating findings."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "The Trump-Xi summit extending the Busan trade truce and initiating formal US-China AI safety talks suggests two rival superpowers still prefer negotiation to catastrophe, even amid an active war with Iran."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "A six-year-old solved a Rubik's Cube in under 4.5 seconds on average to set a world record \u2014 a small, joyful reminder that human potential keeps surprising us at every age."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Italy's parliament voting to return to nuclear energy marks a significant European pivot toward low-carbon baseload power, reversing a post-Chernobyl ban held for nearly four decades."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Science Daily reports that more REM sleep is linked to lower risk of 83 diseases across a study of 95,000 people \u2014 a finding that costs nothing to act on and could improve billions of lives."
+        }
+      ],
+      "mood": [
+        "breakthrough",
+        "wonder",
+        "discovery",
+        "resilience",
+        "possibility"
+      ],
+      "tier": 6,
+      "tier_name": "Radiant",
+      "card_image": "dawn-card-2026-09-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, dramatic gold and emerald glow. The environment is a molecular biology laboratory at the moment of discovery, viewed from inside looking toward a massive floor-to-ceiling data visualization wall blazing with branching DNA sequence trees in saturated amber and vivid emerald light, the glow so intense it floods the entire room and obliterates detail behind it. Against this luminous wall of scrolling genetic data, two human silhouettes stand in total darkness \u2014 one leaning forward toward the screen, one slightly back with arms loosely crossed \u2014 their outlines crisp and black, a gel electrophoresis tray on the bench between them glowing electric blue-green at their waists. On the visualization wall behind them, one repeating sequence pattern pulses brighter than the rest, a rhythmic barcode-like array of CRISPR-like repeats highlighted in warm amber among thousands of cool green threads. A jumbo phage rendered in jewel-like geometric detail hovers luminous and enormous in the upper corner of the data wall like a stained-glass organism, its hexagonal head and spidery protein legs catching emerald and gold. The floor reflects the wall's light in long streaks of gold and green across dark linoleum. Rich saturated palette, afternoon-gold warmth bleeding into deep emerald, silhouettes razor-sharp against the blazing discovery light."
+    }
   }
 ]
