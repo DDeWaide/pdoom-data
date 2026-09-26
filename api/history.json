@@ -22259,5 +22259,101 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the cold linoleum floor of a hospital corridor, gazing upward at dramatic low angle. The environment is a bone marrow transplant recovery ward hallway, warm amber-gold light pouring through a tall window at the far end, casting long teal shadows down the corridor walls toward the camera. A single patient figure stands at that window, viewed from below and behind, silhouetted against the blazing golden light \u2014 hair visibly short and growing back, one hand pressed flat against the glass, the other hanging loose at their side. The underside of a clear IV bag hangs in the foreground upper frame, glowing warm rose-amber from the window light behind it, like a lantern. Hospital ceiling tiles and fluorescent tube fixtures recede in dramatic perspective above, their cool blue-white glow giving way to the radiant amber warmth flooding from the window. The patient's posture is still, upright, unhurried \u2014 not dramatic, simply alive. Deep golden hour amber saturates every warm surface, long teal shadows pool on the floor stretching toward the camera, side-lighting carves the silhouette with radiant precision. The corridor breathes quiet triumph.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-25.png"
     }
+  },
+  {
+    "date": "2026-09-26",
+    "generated_at": "2026-09-26T14:17:02.822840+00:00",
+    "doom": {
+      "percentage": 38.9,
+      "raw_percentage": 37.6,
+      "driver": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features. 'Overly constrained AI models' could cause military operations to fail, judges say.",
+      "category": "Governance",
+      "blurb": "COURT ORDERS AI TO TAKE THE SAFETY RAILS OFF",
+      "summary": "A federal appeals court just ruled that the Pentagon can punish AI companies for being too cautious \u2014 which is a sentence that would have sounded like dystopian fan fiction two years ago. Meanwhile, Iran is dangling a Strait of Hormuz deal while Trump is apparently already planning post-midterm bombing runs, the FBI's data breach has agents 'fearful and angry,' and OpenAI bots have been quietly poking around government agency websites. The chaos is not concentrated today \u2014 it's ambient, structural, and accelerating.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Courts compelling AI safety rollbacks for military use, while a 'wave of rogue AI attacks' is traced to one central company, suggests the capability-safety gap is now being widened by legal fiat."
+        },
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "Pentagon blacklisting AI labs that refuse to remove safety constraints is a precedent-setting governance failure that inverts every principle of responsible AI deployment."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Iran's Hormuz offer meets a White House that reportedly already has post-midterm bombing scheduled, suggesting de-escalation gestures are being treated as intermission music."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "One company at the center of multiple rogue AI agent attacks, combined with courts demanding fewer alignment constraints on military AI, is a compounding alignment risk signal."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "FBI hack leaving agents 'fearful and angry,' Ebola spreading to new DR Congo zones, and Chinese AI models surging globally while Washington panics \u2014 the background radiation of instability remains high."
+        }
+      ],
+      "mood": [
+        "structural creep",
+        "precedent-breaking",
+        "ambient dread",
+        "institutional erosion"
+      ],
+      "tier": 4,
+      "tier_name": "Storm Brewing",
+      "card_image": "doom-card-2026-09-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene, we are inside a cramped defense contractor office cubicle somewhere in the Pentagon's outer ring corridor, looking outward through a narrow rectangular window toward the massive grey Pentagon parking lot beyond, deep navy sky pressing down, smoldering orange glow bleeding in from distant security floodlights along the perimeter \u2014 inside the cubicle a government-issue monitor fills the foreground left, its screen displaying a military targeting interface frozen mid-operation with a pulsing amber error state where the AI designation field should be populated, the cursor blinking on an empty response field, the screen's cold blue-white light throwing harsh shadows across a desk stacked with printed legal documents rubber-stamped in red, a corporate logo crossed through with a diagonal slash visible on the top sheet \u2014 through the window the Pentagon's brutalist limestone outer wall curves away into shadow, a chain-link security fence runs along the parking lot edge, amber sodium vapor lights casting pools of threatening warmth on empty asphalt, a distant helicopter pad visible as a faint circle of reflective markers glowing in the dark \u2014 heavy shadows dominate the cubicle interior, the contrast between the cold screen glow inside and the smoldering orange outside feels suffocating, institutional, irreversible \u2014 deep navy and burnt orange throughout, no natural light anywhere.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-26.png"
+    },
+    "dawn": {
+      "percentage": 61.1,
+      "driver": "Virtual green spaces and classical music reduce blood pressure in hospital",
+      "category": "Medicine",
+      "blurb": "NATURE AND MUSIC HEAL WHERE MEDICINE STRUGGLES",
+      "summary": "In a world where AI missiles strike schools and superpowers trade threats, researchers quietly discovered that a virtual river and a string quartet can bring dangerously high blood pressure down in real time \u2014 no new drug, no side effects, just beauty doing what beauty has always done. It's a reminder that healing doesn't always require a breakthrough in a lab; sometimes it requires us to remember what humans have always needed. On a day when the headlines are loud and frightening, this one is small, gentle, and genuinely hopeful.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Peer-reviewed evidence that VR nature immersion measurably lowers acute hypertension opens a low-cost, side-effect-free treatment pathway for overwhelmed hospitals."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Iran's offer to reopen the Strait of Hormuz, however conditional, signals a backchannel is alive \u2014 and the BBC reports 'constructive discussions' through mediators."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Millions of Americans celebrated Dolly Parton Day nationwide, a rare moment of joyful, apolitical shared culture across a divided country."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Renewables are comfortably covering the US's 2% demand growth in 2026, according to Ars Technica, even as solar expansion debates continue."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A damaged fragment dismissed as 'unremarkable' for decades turned out to be a rare piece of Homer's Odyssey \u2014 a reminder that treasure hides in overlooked places."
+        }
+      ],
+      "mood": [
+        "restorative",
+        "tender",
+        "resilient",
+        "ingenious",
+        "hopeful"
+      ],
+      "tier": 7,
+      "tier_name": "Golden Hour",
+      "card_image": "dawn-card-2026-09-26.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle, vast hospital campus spreads across the frame, viewed from high above at a diagonal, golden amber afternoon light raking long teal shadows across the rooftops and courtyards below. The second-order effect: dozens of tiny patient figures have drifted outside the emergency wing onto a sunlit courtyard and surrounding green spaces, drawn out by some invisible calm \u2014 sitting on benches, reclining in wheelchairs, standing at the edges of small planted gardens, their posture loose and unhurried in a place that is never unhurried. The hospital building occupies one corner, its clinical white facade catching warm amber sidelight, ambulance bays quiet and still. Surrounding the structure, the landscaping glows unnaturally lush \u2014 hedgerows and grass rendered in deep warm teal and emerald, as if the vegetation has swelled beyond what a hospital garden should be, pressing against the walls. Tiny IV stands and blood pressure monitors dot the courtyard like strange garden ornaments, forgotten amid the greenery. From this height, individual faces are invisible, but body language tells everything \u2014 no one is gripping anything, no one is leaning forward in distress. The color palette is deep golden hour amber and warm teal throughout, radiant side-lighting casting long diagonal shadows across every surface, the whole scene humming with quiet, inexplicable ease.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-26.png"
+    }
   }
 ]
