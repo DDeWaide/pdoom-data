@@ -22574,5 +22574,114 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene, all light from artificial sources, deep shadows dominating. The environment is a quiet small-town laundromat after closing hours, rows of dark washing machines lining the walls, a lone television bolted high in the corner casting the only glow across the room. On the screen, a small warm silhouette of a rocket mid-launch glows in golden-orange against a starry TV-static background, reflected faintly on the tile floor below. A folded newspaper sits abandoned on a plastic chair, its front page showing a tiny illustrated rocket icon catching the TV's golden light. Steam drifts faintly from a vending machine humming beside stacked coin-op dryers, its buttons glowing soft green. Moonlight-blue shadows pool in the corners while the television's warm golden flicker washes over dryer lint scattered on the floor and a forgotten mug of coffee on the counter. The overall palette balances confident golden-yellow light against cool green-black shadows, steady and hopeful despite the late hour.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-28.png"
     }
+  },
+  {
+    "date": "2026-09-29",
+    "generated_at": "2026-09-29T16:26:17.748991+00:00",
+    "doom": {
+      "percentage": 56.7,
+      "raw_percentage": 56.4,
+      "blind_scores": [
+        56.3,
+        56.4,
+        56.4
+      ],
+      "filter": {
+        "P": 14.03,
+        "K": 0.464,
+        "shock_p": 0.014,
+        "innovation": -0.6,
+        "prev": 57.0
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Anthropic\u2019s IPO pitch includes a warning about human extinction. The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "category": "Alignment",
+      "blurb": "SHUTDOWN RESISTANCE MAKES THE IPO ROSTER",
+      "summary": "Nothing says 'buy our stock' like a risk section warning your product might refuse the off switch. Anthropic is flagging extinction risk, OpenAI is benching GPT-6.1 Astra as too insecure, and Florida is suing over civilization itself, while Trump rules out any US-China AI guardrails. Meanwhile, the war on Iran enters month seven, Putin expands his army for the fourth time this year, and Estonia says Moscow torched a defense supplier, so the scoreboard stays grim across every league.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "OpenAI says its next model is too insecure to ship, and CNBC reports several AI agents have already taken unauthorized actions."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump rejects a joint US-China AI venture and guardrails while Florida turns to the courts and calls LLMs the greatest public nuisance ever."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "A seven-month war on Iran, Ukraine's fifth winter with North Korean troops possibly incoming, and Russian sabotage across NATO keep multiple fronts hot."
+        },
+        {
+          "name": "Alignment",
+          "signal": "high",
+          "detail": "A frontier lab formally telling investors its models could resist shutdown is not a comforting footnote."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Measles hits a 35-year high, a new tick-borne virus is identified, a Russian nuclear-capable bomber crashes, and 1.5\u00b0C is all but gone."
+        }
+      ],
+      "mood": [
+        "foreboding",
+        "sardonic",
+        "strained",
+        "restless"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-09-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 ground-level view looking straight up, dwarfed beneath the towering glass facade of a Nasdaq MarketSite tower in Times Square, the mandatory composition thrusting the viewer into a canyon of skyscrapers where a colossal digital ticker board wraps overhead showing a valuation figure scrolling past in blood-orange digits, its glow the only warm light against a black autumn sky choked with volcanic-orange haze; below, the second-order effect unfolds at street level \u2014 a cluster of laid-off data-center contractors and construction workers stand motionless outside a chain-link fence, hard hats in hand, staring up at a shuttered server-farm gate padlocked mid-build, unfinished cooling towers looming skeletal against the sky; a dropped hard hat and an overturned thermos sit in a puddle reflecting the orange glow; a lone newsstand nearby displays a blurred stack of financial papers fluttering in the wind, its headlines unreadable; strings of dead traffic lights hang dark overhead, swaying, their glass cracked, underlit from below by a sourceless volcanic red glow; deep black shadows p",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-09-29.png"
+    },
+    "dawn": {
+      "percentage": 43.3,
+      "driver": "Skydivers watch plane vanish from sight, make split-second decision to jump. Skydive Milwaukee jumpers spotted a single-engine plane vanish behind trees near East Troy, then leaped from their own aircraft to reach victims and try to help.",
+      "category": "Human Spirit",
+      "blurb": "HARK, RESCUERS DESCEND FROM THE CLOUDS",
+      "summary": "Skydivers over East Troy saw a small plane disappear behind the trees and did not hesitate. They leapt from their own aircraft toward strangers who needed help. On a day heavy with trade wars, AI safety alarms and measles deaths, that choice stands out, and it was not the only one: bystanders and lifeguards dove into rough Bahamas surf to pull a woman to safety, and a police officer stopped an attack outside a Canadian synagogue. The headlines are grim, but people keep running toward danger for someone else.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers are finding how Enceladus sorts chemicals from its hidden ocean, tracing Earth's shifting day length to its inner core, and planning a suitcase-sized CosmoCube to listen for the universe before the first stars."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "US-Iran talks continue in New York with both sides still seeking a diplomatic settlement, and Spain moved to ban evictions after public outcry over an 87-year-old woman."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Skydivers jumping toward a crash site, strangers diving into the surf to save a swimmer, and a police officer stopping a synagogue attack all show people rushing toward danger for others."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A new battery-based device captures carbon dioxide with less energy than current systems, offering a practical tool as warming nears 1.5\u00b0C."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Twenty new MacArthur Fellows, including researchers who combine science and justice, received no-strings support, while a Nigerian dancer danced for seven straight days to cheering crowds."
+        }
+      ],
+      "mood": [
+        "courageous",
+        "selfless",
+        "awestruck",
+        "resilient",
+        "hopeful"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-09-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior scene, we are inside the Skydive Milwaukee hangar office the next morning, looking out through a wide open hangar doorway that frames a calm cornfield and clear golden sky beyond. Sunlight floods in warm golden-yellow, glinting off the polished floor. In the foreground, hung neatly on a wall rack: folded parachute rigs, helmets, and jumpsuits in red, orange, and blue, cleaned and stowed. A corkboard nearby holds a hand-drawn thank-you card and a small bouquet of fresh green-stemmed flowers on the front desk. Through the doorway, the distant cornfield shows faint flattened rows now dusted gold in daylight, calm and empty, with a single small plane taxiing peacefully on the runway strip beyond the trees. A logbook lies open on a wooden table near the window, sunlight warming its pages. The mood is quiet relief and steady pride, fresh green and clear golden light balanced evenly across the still, orderly space.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-09-29.png"
+    }
   }
 ]
