@@ -22321,5 +22321,113 @@
       "card_image": "dawn-card-2026-09-30.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Weather-dominated exterior scene, warm golden haze mixed with drifting fresh-green-tinted mist softens every edge, as if morning fog is just breaking over a different Spanish city's plaza far from Madrid \u2014 a modest neighborhood square in Valencia or Seville, rendered in this atmospheric glow. Through the thinning fog, a small local crowd gathers around a community notice board and a makeshift table where a handwritten housing-rights banner is being taped up by a woman in a cardigan, her elderly neighbor watching from a nearby bench wrapped in a shawl against the damp air. Strings of paper lanterns and a corner bakery's striped awning glisten with condensation, golden light spilling from a caf\u00e9 window where a family watches a small television propped in the doorway, its glow reflecting in puddles on the cobblestones. A stack of flyers weighted down by a stone flutters at the table's edge, and a bicycle leans against a lamppost strung with a green ribbon. The haze thins toward the top of the frame, revealing distant rooftops catching the first clean daylight \u2014 a quiet, hopeful ripple of solidarity spreading"
     }
+  },
+  {
+    "date": "2026-10-01",
+    "generated_at": "2026-10-01T16:58:05.960846+00:00",
+    "doom": {
+      "percentage": 54.1,
+      "raw_percentage": 47.6,
+      "blind_scores": [
+        41.7,
+        47.6,
+        56.4
+      ],
+      "filter": {
+        "P": 9.48,
+        "K": 0.313,
+        "shock_p": 0.0,
+        "innovation": -9.4,
+        "prev": 57.0
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now.",
+      "category": "AI Capability",
+      "blurb": "GOOGLE LOCKS UP ITS NEW BRAIN",
+      "summary": "When a company's launch announcement is basically 'too dangerous for you, sorry,' that's a product reveal and a threat assessment at once. Gemini 4 Argon arrives the same week Trump's AI safety plan turns out to be a voluntary honor system for his lunch guests, while Chinese hackers pose as AI policy experts. Meanwhile blasts rattle Addis Ababa, Russian drones hit a Kyiv school, Brent crude clears $100 and bond markets are selling off. Nothing has fully broken yet, but plenty is bending.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "Google is holding back Gemini 4 Argon from the public because of its cyber capabilities, which suggests the frontier just moved into dual-use territory."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's AI risk plan relies on dozens of firms agreeing to voluntary safety tests, and a nonprofit is suing OpenAI over the Hugging Face hack."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Russia keeps up its air assault on Kyiv, Ethiopia's war is spreading toward the capital, and the UK says Iran is likely behind the RAF base incident."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Capability is now so far ahead of oversight that keeping a model locked away has become the safety plan."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A midair hijack attempt on a Flydubai flight, Treasury yields at a 24-year high, Brent above $100 after Chinese fuel export bans, and a spreading measles outbreak are all piling up."
+        }
+      ],
+      "mood": [
+        "uneasy",
+        "gatekept",
+        "volatile",
+        "simmering",
+        "overextended"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a laminated employee access badge lying face-up on a dark marble reception counter, the badge's photo blacked out and replaced with a glowing violet Google \"G\" icon pulsing faintly like an argon discharge tube, a holographic strip across its surface flickering between lock and unlock icons in dim blood-orange light, the lanyard coiled beside it bears a small embossed shield-and-padlock emblem, background reduced to soft bokeh reflections of distant server-rack LEDs (deep red and amber) smeared across the polished counter's edge, a thin sheet of volcanic-orange light raking low across the frame from an unseen screen just out of view, cool blues almost fully extinguished except for one faint cyan glint trapped in the badge's laminate corner."
+    },
+    "dawn": {
+      "percentage": 45.9,
+      "driver": "HIV prevention drug hailed as breakthrough, but who gets access?. Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.",
+      "category": "Medicine",
+      "blurb": "TWO SHOTS A YEAR, HIV HELD BACK",
+      "summary": "Two injections a year could be enough to keep one of history's deadliest viruses at bay. That is the promise of lenacapavir, arriving on a day of melting Swiss glaciers, widening conflict in Ethiopia and measles deaths. The fight over who gets access is real, but it is a fight worth having. Elsewhere, an astronaut crew from three nations lifted off together, and Pennsylvania students rushed to help their stricken bus driver, small proofs that people still show up for each other.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers reversed some damage caused by the Alzheimer's risk gene APOE4 in experiments, while a superfluid helium qubit design could cut quantum errors roughly a hundredfold."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "NASA astronauts, a Canadian and a Russian cosmonaut launched together to the International Space Station, keeping a shared outpost alive amid frayed geopolitics."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Pennsylvania high schoolers jumped in when their bus driver had a medical emergency, and a Flydubai pilot was saluted for courage in the face of a midair attack."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A breathable protective fabric more than tripled strawberry yields without pesticides, a modest bright spot against grim glacier-loss news."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A loyal Kansas dog, leash still trailing, led a patrol officer straight to its fallen owner."
+        }
+      ],
+      "mood": [
+        "protective",
+        "hopeful",
+        "steadfast",
+        "neighborly",
+        "resilient"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, a vivid golden-green late-afternoon sky blazing behind a modest outdoor health post in Epworth outside Harare, corrugated tin roof and cinderblock walls rimmed in glowing light. In the foreground, the unmistakable silhouette of a health worker holding up a single small vial and syringe at eye level, examining it against the sky, the object small but deliberate. Beside her, the silhouette of a young woman waiting on a bench, sleeve rolled to the shoulder, posture relaxed and hopeful rather than anxious. A hand-lettered clinic sign-shape and a simple blister pack of daily pills sit discarded on a table in shadow, contrasted against the raised vial to show old burden versus new simplicity. Dusty footpath leading into the clinic yard with a line of silhouetted figures waiting, framed by a lone acacia tree. Warm golden haze blends into fresh green foliage at the edges of the frame, balanced daylight glow intensifying toward the horizon, confident and steady warmth suffusing the whole scene."
+    }
   }
 ]
