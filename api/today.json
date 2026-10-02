@@ -1,110 +1,109 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T16:58:05.960846+00:00",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T16:11:01.449352+00:00",
   "doom": {
-    "percentage": 54.1,
-    "raw_percentage": 47.6,
+    "percentage": 55.3,
+    "raw_percentage": 56.7,
     "blind_scores": [
-      41.7,
-      47.6,
-      56.4
+      48.7,
+      56.7,
+      57.3
     ],
     "filter": {
-      "P": 9.48,
-      "K": 0.313,
-      "shock_p": 0.0,
-      "innovation": -9.4,
-      "prev": 57.0
+      "P": 13.59,
+      "K": 0.449,
+      "shock_p": 0.049,
+      "innovation": 2.6,
+      "prev": 54.1
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now.",
-    "category": "AI Capability",
-    "blurb": "GOOGLE LOCKS UP ITS NEW BRAIN",
-    "summary": "When a company's launch announcement is basically 'too dangerous for you, sorry,' that's a product reveal and a threat assessment at once. Gemini 4 Argon arrives the same week Trump's AI safety plan turns out to be a voluntary honor system for his lunch guests, while Chinese hackers pose as AI policy experts. Meanwhile blasts rattle Addis Ababa, Russian drones hit a Kyiv school, Brent crude clears $100 and bond markets are selling off. Nothing has fully broken yet, but plenty is bending.",
+    "driver": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad. The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+    "category": "Nuclear",
+    "blurb": "FROM THE KREMLIN, A WARNING WRAPPED IN STEEL",
+    "summary": "Nothing says 'not threatening anyone' quite like promising every weapon in the cupboard for a Baltic exclave, while Russian drones knock out Kyiv's bridges and Klitschko calls the situation 'very dramatic.' Add Ethiopia and Eritrea severing ties as Tigray burns, Seoul accusing Kyiv of trying to start a Korean war, and a G7 so short on diesel it is raiding the emergency reserves. Meanwhile OpenAI fired staff for sharing data with outside safety evaluators, which is a bold way to signal that transparency is a firing offense.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "high",
-        "detail": "Google is holding back Gemini 4 Argon from the public because of its cyber capabilities, which suggests the frontier just moved into dual-use territory."
+        "signal": "medium",
+        "detail": "Gemini 4 chatter, OpenAI's DevDay agents, and AI cracking Stratego's hidden-information puzzle show steady advancement, though nothing paradigm-breaking today."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump's AI risk plan relies on dozens of firms agreeing to voluntary safety tests, and a nonprofit is suing OpenAI over the Hugging Face hack."
+        "detail": "OpenAI sacking workers for sharing data with an external evaluation group, plus two federal agency hacks spilling sensitive data, suggest oversight is losing ground to secrecy and sloppiness."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Russia keeps up its air assault on Kyiv, Ethiopia's war is spreading toward the capital, and the UK says Iran is likely behind the RAF base incident."
+        "detail": "Putin's all-weapons Kaliningrad warning, intensified strikes on Kyiv, an Ethiopia-Eritrea rupture threatening regional war, and wars squeezing global fuel supply make for a crowded map of trouble."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "Capability is now so far ahead of oversight that keeping a model locked away has become the safety plan."
+        "signal": "elevated",
+        "detail": "Labs punishing data-sharing with outside evaluators, while Trillium Labs argues risky self-improvement research belongs in the open, highlights how little independent scrutiny frontier models currently get."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "A midair hijack attempt on a Flydubai flight, Treasury yields at a 24-year high, Brent above $100 after Chinese fuel export bans, and a spreading measles outbreak are all piling up."
+        "detail": "A co-pilot apparently tried to down a Flydubai jet bound for Tel Aviv, and Ebola deaths topping 4,000 after a burned transit camp scattered 19,000 people keep the chaos column well stocked."
       }
     ],
     "mood": [
-      "uneasy",
-      "gatekept",
+      "ominous",
+      "strained",
       "volatile",
-      "simmering",
-      "overextended"
+      "brittle",
+      "smoldering"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 extreme close-up filling the entire frame with a laminated employee access badge lying face-up on a dark marble reception counter, the badge's photo blacked out and replaced with a glowing violet Google \"G\" icon pulsing faintly like an argon discharge tube, a holographic strip across its surface flickering between lock and unlock icons in dim blood-orange light, the lanyard coiled beside it bears a small embossed shield-and-padlock emblem, background reduced to soft bokeh reflections of distant server-rack LEDs (deep red and amber) smeared across the polished counter's edge, a thin sheet of volcanic-orange light raking low across the frame from an unseen screen just out of view, cool blues almost fully extinguished except for one faint cyan glint trapped in the badge's laminate corner.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-01.png"
+    "card_image": "doom-card-2026-10-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene on the empty tarmac of a Kaliningrad military airfield, hours after the warning speech has already rippled across the world, all light artificial and ominous: a lone sodium floodlight casts a blood-orange pool over a tarped Iskander-M transporter-erector-launcher parked at the edge of the apron, its camouflage netting sagging with condensation, while a ground crew member in a dark coat kneels nearby coiling cables into a metal case, done for the night. In the deep black distance, the silhouette of a watchtower blinks a single dull red light, and beyond the perimeter fence the flat dark line of the Baltic Sea is just visible, one faint buoy light pulsing cold white against the warm volcanic glow. A windsock hangs limp near a shuttered guard hut, its fabric lit orange-black like an ember. Puddles on the cracked tarmac mirror the floodlight in fractured streaks, and a chain-link gate stands half-closed, chain looped but not yet locked \u2014 the quiet, charged stillness of a border holding its breath, cool tones nearly extinguished beneath the dominant blood-orange and black pal",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-02.png"
   },
   "dawn": {
-    "percentage": 45.9,
-    "driver": "HIV prevention drug hailed as breakthrough, but who gets access?. Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.",
-    "category": "Medicine",
-    "blurb": "TWO SHOTS A YEAR, HIV HELD BACK",
-    "summary": "Two injections a year could be enough to keep one of history's deadliest viruses at bay. That is the promise of lenacapavir, arriving on a day of melting Swiss glaciers, widening conflict in Ethiopia and measles deaths. The fight over who gets access is real, but it is a fight worth having. Elsewhere, an astronaut crew from three nations lifted off together, and Pennsylvania students rushed to help their stricken bus driver, small proofs that people still show up for each other.",
+    "percentage": 44.7,
+    "driver": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot. Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+    "category": "Human Spirit",
+    "blurb": "THE CAPTAIN HAD A BUSY TWELVE MINUTES",
+    "summary": "Wounded and fighting for his life as his plane plunged 17,000 feet, Captain Smit Machchhar made one last push to open the cockpit door, and passengers and crew rushed in to subdue the attacker. The headlines are heavy with Kyiv under fire, Ethiopia and Eritrea severing ties, and Ebola spreading. Even so, this story is a reminder that when the worst happens at altitude, ordinary people tend to run toward the danger together.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Researchers reversed some damage caused by the Alzheimer's risk gene APOE4 in experiments, while a superfluid helium qubit design could cut quantum errors roughly a hundredfold."
+        "signal": "glimmer",
+        "detail": "Researchers found a brain region that may explain why some pregnancies and IVF attempts fail, which offers new hope to families trying to conceive."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "NASA astronauts, a Canadian and a Russian cosmonaut launched together to the International Space Station, keeping a shared outpost alive amid frayed geopolitics."
+        "detail": "G7 nations agreed to a coordinated 100-million-barrel oil reserve release to ease a fuel crunch hurting households."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Pennsylvania high schoolers jumped in when their bus driver had a medical emergency, and a Flydubai pilot was saluted for courage in the face of a midair attack."
+        "signal": "blazing",
+        "detail": "A stabbed pilot and quick-thinking passengers pulled a plunging Flydubai jet out of its dive and saved everyone aboard."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "A breathable protective fabric more than tripled strawberry yields without pesticides, a modest bright spot against grim glacier-loss news."
+        "signal": "quiet",
+        "detail": "Nat Geo's four-year Africa series and a vivid plankton bloom off Ko Lan are reminders that wild beauty still thrives."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "A loyal Kansas dog, leash still trailing, led a patrol officer straight to its fallen owner."
+        "signal": "bright",
+        "detail": "Jessica Watkins became the first Black woman to lead a mission into space with SpaceX Crew-13."
       }
     ],
     "mood": [
-      "protective",
-      "hopeful",
+      "courageous",
       "steadfast",
-      "neighborly",
+      "grateful",
       "resilient"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-01.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, a vivid golden-green late-afternoon sky blazing behind a modest outdoor health post in Epworth outside Harare, corrugated tin roof and cinderblock walls rimmed in glowing light. In the foreground, the unmistakable silhouette of a health worker holding up a single small vial and syringe at eye level, examining it against the sky, the object small but deliberate. Beside her, the silhouette of a young woman waiting on a bench, sleeve rolled to the shoulder, posture relaxed and hopeful rather than anxious. A hand-lettered clinic sign-shape and a simple blister pack of daily pills sit discarded on a table in shadow, contrasted against the raised vial to show old burden versus new simplicity. Dusty footpath leading into the clinic yard with a line of silhouetted figures waiting, framed by a lone acacia tree. Warm golden haze blends into fresh green foliage at the edges of the frame, balanced daylight glow intensifying toward the horizon, confident and steady warmth suffusing the whole scene.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-01.png"
+    "card_image": "dawn-card-2026-10-02.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the tarmac, gazing upward at the towering nose and cockpit windscreen of a parked Boeing jet catching the first golden light of dawn at an airport gate. A small cluster of airline crew members stand near the base of the boarding stairs below the looming fuselage, one figure in a captain's white shirt with epaulettes leaning against the stair railing, arm in a sling, head tilted back toward the sky in quiet relief rather than triumph. Ground crew in reflective vests pause their work nearby, one resting a hand briefly on the captain's shoulder. The jet's massive underbelly and landing gear tower overhead, fresh-green airfield grass visible at the frame's edges, a tiny airport ground vehicle parked in the distance for scale. Warm golden-yellow dawn light rakes low across the tarmac, glinting off the aircraft's metal skin and the captain's uniform buttons, steam rising faintly from a dropped coffee cup beside the stairs. The overall mood is steady, warm, and quietly triumphant - survival written into stillness rather than sp",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-02.png"
   }
 }

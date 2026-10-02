@@ -22903,5 +22903,114 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition, strong backlight, a vivid golden-green late-afternoon sky blazing behind a modest outdoor health post in Epworth outside Harare, corrugated tin roof and cinderblock walls rimmed in glowing light. In the foreground, the unmistakable silhouette of a health worker holding up a single small vial and syringe at eye level, examining it against the sky, the object small but deliberate. Beside her, the silhouette of a young woman waiting on a bench, sleeve rolled to the shoulder, posture relaxed and hopeful rather than anxious. A hand-lettered clinic sign-shape and a simple blister pack of daily pills sit discarded on a table in shadow, contrasted against the raised vial to show old burden versus new simplicity. Dusty footpath leading into the clinic yard with a line of silhouetted figures waiting, framed by a lone acacia tree. Warm golden haze blends into fresh green foliage at the edges of the frame, balanced daylight glow intensifying toward the horizon, confident and steady warmth suffusing the whole scene.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-01.png"
     }
+  },
+  {
+    "date": "2026-10-02",
+    "generated_at": "2026-10-02T16:11:01.449352+00:00",
+    "doom": {
+      "percentage": 55.3,
+      "raw_percentage": 56.7,
+      "blind_scores": [
+        48.7,
+        56.7,
+        57.3
+      ],
+      "filter": {
+        "P": 13.59,
+        "K": 0.449,
+        "shock_p": 0.049,
+        "innovation": 2.6,
+        "prev": 54.1
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad. The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "category": "Nuclear",
+      "blurb": "FROM THE KREMLIN, A WARNING WRAPPED IN STEEL",
+      "summary": "Nothing says 'not threatening anyone' quite like promising every weapon in the cupboard for a Baltic exclave, while Russian drones knock out Kyiv's bridges and Klitschko calls the situation 'very dramatic.' Add Ethiopia and Eritrea severing ties as Tigray burns, Seoul accusing Kyiv of trying to start a Korean war, and a G7 so short on diesel it is raiding the emergency reserves. Meanwhile OpenAI fired staff for sharing data with outside safety evaluators, which is a bold way to signal that transparency is a firing offense.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Gemini 4 chatter, OpenAI's DevDay agents, and AI cracking Stratego's hidden-information puzzle show steady advancement, though nothing paradigm-breaking today."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "OpenAI sacking workers for sharing data with an external evaluation group, plus two federal agency hacks spilling sensitive data, suggest oversight is losing ground to secrecy and sloppiness."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Putin's all-weapons Kaliningrad warning, intensified strikes on Kyiv, an Ethiopia-Eritrea rupture threatening regional war, and wars squeezing global fuel supply make for a crowded map of trouble."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "Labs punishing data-sharing with outside evaluators, while Trillium Labs argues risky self-improvement research belongs in the open, highlights how little independent scrutiny frontier models currently get."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A co-pilot apparently tried to down a Flydubai jet bound for Tel Aviv, and Ebola deaths topping 4,000 after a burned transit camp scattered 19,000 people keep the chaos column well stocked."
+        }
+      ],
+      "mood": [
+        "ominous",
+        "strained",
+        "volatile",
+        "brittle",
+        "smoldering"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene on the empty tarmac of a Kaliningrad military airfield, hours after the warning speech has already rippled across the world, all light artificial and ominous: a lone sodium floodlight casts a blood-orange pool over a tarped Iskander-M transporter-erector-launcher parked at the edge of the apron, its camouflage netting sagging with condensation, while a ground crew member in a dark coat kneels nearby coiling cables into a metal case, done for the night. In the deep black distance, the silhouette of a watchtower blinks a single dull red light, and beyond the perimeter fence the flat dark line of the Baltic Sea is just visible, one faint buoy light pulsing cold white against the warm volcanic glow. A windsock hangs limp near a shuttered guard hut, its fabric lit orange-black like an ember. Puddles on the cracked tarmac mirror the floodlight in fractured streaks, and a chain-link gate stands half-closed, chain looped but not yet locked \u2014 the quiet, charged stillness of a border holding its breath, cool tones nearly extinguished beneath the dominant blood-orange and black pal",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-02.png"
+    },
+    "dawn": {
+      "percentage": 44.7,
+      "driver": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot. Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "category": "Human Spirit",
+      "blurb": "THE CAPTAIN HAD A BUSY TWELVE MINUTES",
+      "summary": "Wounded and fighting for his life as his plane plunged 17,000 feet, Captain Smit Machchhar made one last push to open the cockpit door, and passengers and crew rushed in to subdue the attacker. The headlines are heavy with Kyiv under fire, Ethiopia and Eritrea severing ties, and Ebola spreading. Even so, this story is a reminder that when the worst happens at altitude, ordinary people tend to run toward the danger together.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "glimmer",
+          "detail": "Researchers found a brain region that may explain why some pregnancies and IVF attempts fail, which offers new hope to families trying to conceive."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "G7 nations agreed to a coordinated 100-million-barrel oil reserve release to ease a fuel crunch hurting households."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A stabbed pilot and quick-thinking passengers pulled a plunging Flydubai jet out of its dive and saved everyone aboard."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "Nat Geo's four-year Africa series and a vivid plankton bloom off Ko Lan are reminders that wild beauty still thrives."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Jessica Watkins became the first Black woman to lead a mission into space with SpaceX Crew-13."
+        }
+      ],
+      "mood": [
+        "courageous",
+        "steadfast",
+        "grateful",
+        "resilient"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the tarmac, gazing upward at the towering nose and cockpit windscreen of a parked Boeing jet catching the first golden light of dawn at an airport gate. A small cluster of airline crew members stand near the base of the boarding stairs below the looming fuselage, one figure in a captain's white shirt with epaulettes leaning against the stair railing, arm in a sling, head tilted back toward the sky in quiet relief rather than triumph. Ground crew in reflective vests pause their work nearby, one resting a hand briefly on the captain's shoulder. The jet's massive underbelly and landing gear tower overhead, fresh-green airfield grass visible at the frame's edges, a tiny airport ground vehicle parked in the distance for scale. Warm golden-yellow dawn light rakes low across the tarmac, glinting off the aircraft's metal skin and the captain's uniform buttons, steam rising faintly from a dropped coffee cup beside the stairs. The overall mood is steady, warm, and quietly triumphant - survival written into stillness rather than sp",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-02.png"
+    }
   }
 ]
