@@ -1,109 +1,110 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T16:11:01.449352+00:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:38:02.528544+00:00",
   "doom": {
-    "percentage": 55.3,
-    "raw_percentage": 56.7,
+    "percentage": 55.7,
+    "raw_percentage": 56.3,
     "blind_scores": [
-      48.7,
-      56.7,
-      57.3
+      49.7,
+      56.3,
+      56.3
     ],
     "filter": {
-      "P": 13.59,
-      "K": 0.449,
-      "shock_p": 0.049,
-      "innovation": 2.6,
-      "prev": 54.1
+      "P": 12.82,
+      "K": 0.424,
+      "shock_p": 0.027,
+      "innovation": 1.0,
+      "prev": 55.3
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad. The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-    "category": "Nuclear",
-    "blurb": "FROM THE KREMLIN, A WARNING WRAPPED IN STEEL",
-    "summary": "Nothing says 'not threatening anyone' quite like promising every weapon in the cupboard for a Baltic exclave, while Russian drones knock out Kyiv's bridges and Klitschko calls the situation 'very dramatic.' Add Ethiopia and Eritrea severing ties as Tigray burns, Seoul accusing Kyiv of trying to start a Korean war, and a G7 so short on diesel it is raiding the emergency reserves. Meanwhile OpenAI fired staff for sharing data with outside safety evaluators, which is a bold way to signal that transparency is a firing offense.",
+    "driver": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers.",
+    "category": "Geopolitics",
+    "blurb": "THE HERMIT KINGDOM BARES ITS TEETH",
+    "summary": "Seoul asked for an apology over landmine-wounded soldiers. Pyongyang answered with a ballistic missile, which is what passes for diplomacy on the peninsula. Meanwhile Russia has dropped a second Kyiv bridge in two days, Ethiopia's army is retaking Mekelle, the Houthis hold the Red Sea coast, and an OpenAI safety writer has quit to warn us in The Atlantic, so the background noise is mostly gunfire.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Gemini 4 chatter, OpenAI's DevDay agents, and AI cracking Stratego's hidden-information puzzle show steady advancement, though nothing paradigm-breaking today."
+        "signal": "elevated",
+        "detail": "Agents like Meta's Muse and OpenAI's Dots are spreading fast enough that Apple is locking down Mac disk access because of the risk they pose."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "OpenAI sacking workers for sharing data with an external evaluation group, plus two federal agency hacks spilling sensitive data, suggest oversight is losing ground to secrecy and sloppiness."
+        "detail": "The G7 is draining 100 million barrels of reserves under pressure from Washington, ICE is feeding protester photos into Palantir, and a $300M Nvidia smuggling arrest shows export controls leaking."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Putin's all-weapons Kaliningrad warning, intensified strikes on Kyiv, an Ethiopia-Eritrea rupture threatening regional war, and wars squeezing global fuel supply make for a crowded map of trouble."
+        "detail": "Russia is striking Kyiv's bridges, North Korea is firing missiles over a DMZ dispute, Tigray is back at war, and Saudi Arabia is reportedly preparing to strike the Houthis."
       },
       {
         "name": "Alignment",
         "signal": "elevated",
-        "detail": "Labs punishing data-sharing with outside evaluators, while Trillium Labs argues risky self-improvement research belongs in the open, highlights how little independent scrutiny frontier models currently get."
+        "detail": "The OpenAI employee who wrote the safety reports for every major model release has resigned and is speaking out publicly."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "A co-pilot apparently tried to down a Flydubai jet bound for Tel Aviv, and Ebola deaths topping 4,000 after a burned transit camp scattered 19,000 people keep the chaos column well stocked."
+        "signal": "medium",
+        "detail": "Fault stress near San Andreas is at a 1,000-year high, 40% of health facilities failed a patient-zero drill, and the US military retired an old missile-launch detection program."
       }
     ],
     "mood": [
-      "ominous",
-      "strained",
+      "tense",
       "volatile",
-      "brittle",
-      "smoldering"
+      "simmering",
+      "uneasy",
+      "watchful"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene on the empty tarmac of a Kaliningrad military airfield, hours after the warning speech has already rippled across the world, all light artificial and ominous: a lone sodium floodlight casts a blood-orange pool over a tarped Iskander-M transporter-erector-launcher parked at the edge of the apron, its camouflage netting sagging with condensation, while a ground crew member in a dark coat kneels nearby coiling cables into a metal case, done for the night. In the deep black distance, the silhouette of a watchtower blinks a single dull red light, and beyond the perimeter fence the flat dark line of the Baltic Sea is just visible, one faint buoy light pulsing cold white against the warm volcanic glow. A windsock hangs limp near a shuttered guard hut, its fabric lit orange-black like an ember. Puddles on the cracked tarmac mirror the floodlight in fractured streaks, and a chain-link gate stands half-closed, chain looped but not yet locked \u2014 the quiet, charged stillness of a border holding its breath, cool tones nearly extinguished beneath the dominant blood-orange and black pal",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-02.png"
+    "card_image": "doom-card-2026-10-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 interior scene inside a South Korean military hospital ward near the DMZ, looking out through a wire-reinforced window into the blood-orange dusk, where distant hills are silhouetted in deep black volcanic light; inside, three empty gurneys sit draped in white sheets beside an IV stand catching the amber glow, a wall-mounted television flickers with static-blue light showing a grainy archival missile silhouette, a Korean-language medical chart clipboard hangs crooked on the wall, and a nurse's shadow stretches long across the linoleum floor toward the glowing window frame, the horizon beyond pulsing faintly orange like a smoldering ember under a nearly black sky.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-03.png"
   },
   "dawn": {
-    "percentage": 44.7,
-    "driver": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot. Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-    "category": "Human Spirit",
-    "blurb": "THE CAPTAIN HAD A BUSY TWELVE MINUTES",
-    "summary": "Wounded and fighting for his life as his plane plunged 17,000 feet, Captain Smit Machchhar made one last push to open the cockpit door, and passengers and crew rushed in to subdue the attacker. The headlines are heavy with Kyiv under fire, Ethiopia and Eritrea severing ties, and Ebola spreading. Even so, this story is a reminder that when the worst happens at altitude, ordinary people tend to run toward the danger together.",
+    "percentage": 44.3,
+    "driver": "How AI is helping Mexico detect breast cancer earlier. Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
+    "category": "Medicine",
+    "blurb": "MEXICO 1, BREAST CANCER 0",
+    "summary": "Bridges are falling in Kyiv, Bangkok is underwater, and an OpenAI safety researcher just walked out sounding alarms, so it is fair to ask what AI is actually good for. Mexico has one answer: where specialists are scarce and screening waits run long, algorithms are helping catch breast cancer sooner, when it is most treatable. Add NASA's Roman telescope opening its planet-hunting eye and two critically endangered tiger cubs thriving in Fort Worth, and the day's quieter column starts to look like a real comeback.",
     "factors": [
       {
         "name": "Science",
-        "signal": "glimmer",
-        "detail": "Researchers found a brain region that may explain why some pregnancies and IVF attempts fail, which offers new hope to families trying to conceive."
+        "signal": "bright",
+        "detail": "NASA's Roman Space Telescope held rock-steady for its first coronagraph look at the cosmos, while ESA's Juice used Earth as a gravitational slingshot toward Jupiter."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "G7 nations agreed to a coordinated 100-million-barrel oil reserve release to ease a fuel crunch hurting households."
+        "detail": "G7 nations coordinated a 100-million-barrel reserve release to cushion energy price shocks, a sign that collective action is still possible under pressure."
       },
       {
         "name": "Human Spirit",
-        "signal": "blazing",
-        "detail": "A stabbed pilot and quick-thinking passengers pulled a plunging Flydubai jet out of its dive and saved everyone aboard."
+        "signal": "bright",
+        "detail": "Displaced Palestinians gathered amid Gaza's ruins to play and watch a football match, choosing joy and community in the hardest of places."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "Nat Geo's four-year Africa series and a vivid plankton bloom off Ko Lan are reminders that wild beauty still thrives."
+        "signal": "glimmer",
+        "detail": "Fort Worth Zoo welcomed its first critically endangered Sumatran tiger cubs, and a decade-long deep-reef experiment is revealing hidden ocean life."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Jessica Watkins became the first Black woman to lead a mission into space with SpaceX Crew-13."
+        "signal": "glimmer",
+        "detail": "South Africa's Lhuan-dre Pretorius smashed Chris Gayle's T20 record score, a reminder that old limits are made to be broken."
       }
     ],
     "mood": [
-      "courageous",
-      "steadfast",
-      "grateful",
+      "hopeful",
+      "resourceful",
+      "vigilant",
+      "curious",
       "resilient"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-02.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking straight up from below, camera pressed flat against the tarmac, gazing upward at the towering nose and cockpit windscreen of a parked Boeing jet catching the first golden light of dawn at an airport gate. A small cluster of airline crew members stand near the base of the boarding stairs below the looming fuselage, one figure in a captain's white shirt with epaulettes leaning against the stair railing, arm in a sling, head tilted back toward the sky in quiet relief rather than triumph. Ground crew in reflective vests pause their work nearby, one resting a hand briefly on the captain's shoulder. The jet's massive underbelly and landing gear tower overhead, fresh-green airfield grass visible at the frame's edges, a tiny airport ground vehicle parked in the distance for scale. Warm golden-yellow dawn light rakes low across the tarmac, glinting off the aircraft's metal skin and the captain's uniform buttons, steam rising faintly from a dropped coffee cup beside the stairs. The overall mood is steady, warm, and quietly triumphant - survival written into stillness rather than sp",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-02.png"
+    "card_image": "dawn-card-2026-10-03.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sunlit Mexican town plaza, vast landscape dominating the frame with tiny figures below: a long line of women snakes from a small clinic door across the cobblestone square, past a fountain and rows of golden-leafed trees, waiting patiently under striped awnings for a mobile mammography van parked at the plaza's edge. The van's side panel glows faintly blue-white from an interior screen visible through its open door, a tiny technician silhouette adjusting equipment. Market stalls with fresh green produce crates line one side of the plaza, vendors and townsfolk glancing toward the clinic queue. A hand-painted pink ribbon banner hangs above the clinic entrance, small but legible from above. Warm golden-yellow daylight washes over terracotta rooftops and green treetops, balanced and confident, with long soft shadows stretching from the waiting line across the stone plaza, conveying patience, hope, and quiet community resolve.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-03.png"
   }
 }
