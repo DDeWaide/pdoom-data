@@ -22644,5 +22644,113 @@
       "card_image": "dawn-card-2026-10-03.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sunlit Mexican town plaza, vast landscape dominating the frame with tiny figures below: a long line of women snakes from a small clinic door across the cobblestone square, past a fountain and rows of golden-leafed trees, waiting patiently under striped awnings for a mobile mammography van parked at the plaza's edge. The van's side panel glows faintly blue-white from an interior screen visible through its open door, a tiny technician silhouette adjusting equipment. Market stalls with fresh green produce crates line one side of the plaza, vendors and townsfolk glancing toward the clinic queue. A hand-painted pink ribbon banner hangs above the clinic entrance, small but legible from above. Warm golden-yellow daylight washes over terracotta rooftops and green treetops, balanced and confident, with long soft shadows stretching from the waiting line across the stone plaza, conveying patience, hope, and quiet community resolve."
     }
+  },
+  {
+    "date": "2026-10-04",
+    "generated_at": "2026-10-04T15:13:18.971886+00:00",
+    "doom": {
+      "percentage": 56.4,
+      "raw_percentage": 57.4,
+      "blind_scores": [
+        57.4,
+        57.4,
+        57.4
+      ],
+      "filter": {
+        "P": 13.34,
+        "K": 0.441,
+        "shock_p": 0.035,
+        "innovation": 1.7,
+        "prev": 55.7
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz. Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
+      "category": "Geopolitics",
+      "blurb": "STRAIT CLOSED. HULLS BURNING. TERMS POSTED.",
+      "summary": "Iran is keeping the world's most important oil chokepoint shut, ships keep getting hit, and Tehran has issued a ransom note while Washington wants to talk nukes instead. Meanwhile Russian drones turned a Kyiv bridge into a fireball for the second day running, timed for Merz's surprise visit, and Yemen just declared a fresh offensive against the Houthis. Back home, OpenAI's safety lead walked out calling the culture 'broken' the same weekend Trump unveiled a 'Super Intelligence Force.' Two very different ideas about who should be steering.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Opus 5.5 guides and a sovereign German open-weight model show steady capability creep, with no single jump today."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Trump's 'Super Intelligence Force' and his pick of the intelligence chief as AI czar frame AI as a race, not a risk to be managed."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Hormuz is closed under a US blockade, ships are being struck, Russia is pounding Kyiv bridges, and Yemen, Tigray and Sudan are all burning."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "An OpenAI safety leader quit warning the culture is broken, while LeCun shrugs off recent 'rogue' incidents with zero concern."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Canada is war-gaming a US invasion, an axe-wielding co-pilot story keeps unravelling, and US forces are rehearsing Arctic combat on Russia's doorstep."
+        }
+      ],
+      "mood": [
+        "besieged",
+        "smoldering",
+        "brinkmanship",
+        "uneasy",
+        "fractured"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 the Strait of Hormuz rendered through a thick curtain of oily black smoke-haze and humid Gulf mist, visibility reduced to silhouettes, Iran's rugged Hormozgan coastline barely visible on one side and Oman's jagged Musandam cliffs ghosting on the other, the narrow chokepoint water glowing blood-orange from unseen fires reflected and diffused through the fog, a stricken VLCC tanker looming dead-in-water in the foreground with its hull scorched above the waterline, smoke pouring from its stern and bending sideways in the haze, a second tanker's running lights reduced to dim amber smudges further out in the gloom, a distant string of anchored ships barely visible as dark shapes swallowed by the murk, volcanic underlighting bleeding upward into the smoke ceiling, cool blues almost entirely extinguished except for a faint steel-grey sliver of open sea on the horizon."
+    },
+    "dawn": {
+      "percentage": 43.6,
+      "driver": "A forgotten 30-year forest experiment just delivered a huge surprise. A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results sug",
+      "category": "Environment",
+      "blurb": "THINNED ASH FORESTS GROW GIANTS, RECOVER CARBON",
+      "summary": "Drones are striking Kyiv's bridges, tankers are burning near Hormuz, and Yemen is gearing up for a new offensive. Meanwhile, an Australian forestry plot that researchers had nearly forgotten finally gave its answer after three decades: heavily thinned mountain ash stands grew unusually large trees and recovered as much carbon as untouched forest, or more. Alongside early signs that vitamin B3 may help against glioblastoma and a new way to split water for hydrogen, it's a reminder that patient science keeps paying out quietly while the headlines shout.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers reported a light-activated, sulfur-based material that makes hydrogen from water without an expensive metal catalyst, and a small glioblastoma trial found 82% of patients on high-dose vitamin B3 free of progression at six months."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A global network of geoneutrino detectors is pooling measurements to map Earth's radioactive interior, and Somalia's president says Ethiopia can access its ports if it comes to negotiate."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The Philadelphia Eagles welcomed six Make-A-Wish kids as honorary rookies, and the Apollo 13 rescue that flight director Milt Windler helped lead is being remembered as a lesson in what calm teamwork can achieve."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "A 30-year Australian forestry experiment shows that careful thinning can produce larger trees while matching or exceeding the carbon stored in untouched forest."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Keurig is moving to compostable pods free of plastic and aluminum, and Valve's work is giving old AMD graphics cards new life on Linux, both small wins against throwaway culture."
+        }
+      ],
+      "mood": [
+        "patient",
+        "rooted",
+        "regenerative",
+        "grounded",
+        "hopeful"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-04.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a single cut cross-section of a mountain ash tree stump, rendered like a dense topographic map of concentric growth rings \u2014 the outer rings tightly compressed and dark from crowded decades, then abruptly widening into broad, pale, golden-cream bands where the forest was thinned, showing explosive unexpected growth. A silver diameter tape lies curled across the rings like a measuring thread, its metal clasp glinting. Fine sawdust and bark curls rest in the grooves between rings. A single shaft of warm golden-green light rakes low across the surface, throwing long shadows that make the ridges of each ring look like rolling hills on a tiny landscape. Deep in the widened outer rings, a tiny new beetle or seedling root is just visible pushing up through a crack in the wood, implying quiet unseen vitality continuing outward. Clear golden-yellow and fresh green palette, balanced daylight, confident steady warmth."
+    }
   }
 ]
