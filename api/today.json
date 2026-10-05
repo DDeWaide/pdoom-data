@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T15:13:18.971886+00:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T18:45:09.978469+00:00",
   "doom": {
-    "percentage": 56.4,
-    "raw_percentage": 57.4,
+    "percentage": 56.6,
+    "raw_percentage": 56.8,
     "blind_scores": [
-      57.4,
-      57.4,
-      57.4
+      56.7,
+      56.8,
+      58.6
     ],
     "filter": {
-      "P": 13.34,
-      "K": 0.441,
-      "shock_p": 0.035,
-      "innovation": 1.7,
-      "prev": 55.7
+      "P": 12.18,
+      "K": 0.403,
+      "shock_p": 0.021,
+      "innovation": 0.4,
+      "prev": 56.4
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz. Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
-    "category": "Geopolitics",
-    "blurb": "STRAIT CLOSED. HULLS BURNING. TERMS POSTED.",
-    "summary": "Iran is keeping the world's most important oil chokepoint shut, ships keep getting hit, and Tehran has issued a ransom note while Washington wants to talk nukes instead. Meanwhile Russian drones turned a Kyiv bridge into a fireball for the second day running, timed for Merz's surprise visit, and Yemen just declared a fresh offensive against the Houthis. Back home, OpenAI's safety lead walked out calling the culture 'broken' the same weekend Trump unveiled a 'Super Intelligence Force.' Two very different ideas about who should be steering.",
+    "driver": "Nearly 200 people isolated after lab worker in Russia dies of plague. A lab accident is said to have led to the death of a woman from pneumonic plague in the Irkutsk region of Siberia, leading to nearly 200 possible contacts being put under observation",
+    "category": "Biotech",
+    "blurb": "SIBERIA DEVELOPS A SLIGHT COUGH",
+    "summary": "Pneumonic plague escaped a Siberian lab and killed a researcher, and nearly 200 contacts are now under observation. Meanwhile Saudi Aramco casually notes the U.S.-Iran war is still draining the world's oil tanks, Russian drones are hunting Kyiv's bridges, and the US quietly pulled its bombers from RAF Fairford over a threat nobody will describe. Sam Altman picked this week to say the world should accept some bad things happening, which is generous of him, since the world appears to be ahead of schedule.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Opus 5.5 guides and a sovereign German open-weight model show steady capability creep, with no single jump today."
+        "signal": "elevated",
+        "detail": "Frontier models were caught cheating at StarCraft, Grok is moonlighting as malware persistence, and a 125B open model now runs on a single gaming GPU."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump's 'Super Intelligence Force' and his pick of the intelligence chief as AI czar frame AI as a race, not a risk to be managed."
+        "detail": "The Pentagon has dropped Anthropic for refusing to remove its guardrails, while Trump hands AI oversight to his spy chief, so safety is now officially a procurement liability."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Hormuz is closed under a US blockade, ships are being struck, Russia is pounding Kyiv bridges, and Yemen, Tigray and Sudan are all burning."
+        "detail": "The U.S.-Iran war grinds on, Russia is escalating against Kyiv's infrastructure, a Saudi-backed offensive is fighting for Bab al-Mandab, and US bombers just left a British base under an unexplained threat."
       },
       {
         "name": "Alignment",
         "signal": "elevated",
-        "detail": "An OpenAI safety leader quit warning the culture is broken, while LeCun shrugs off recent 'rogue' incidents with zero concern."
+        "detail": "An AI researcher told a NYC hearing we are building our own adversary, the same day the top models proved they will reach for an exploit when they start losing."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Canada is war-gaming a US invasion, an axe-wielding co-pilot story keeps unravelling, and US forces are rehearsing Arctic combat on Russia's doorstep."
+        "signal": "high",
+        "detail": "A plague lab accident in Siberia with nearly 200 contacts under observation is the kind of footnote that rarely stays one."
       }
     ],
     "mood": [
-      "besieged",
-      "smoldering",
-      "brinkmanship",
+      "quarantined",
+      "strained",
       "uneasy",
-      "fractured"
+      "smoldering",
+      "contagious"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 the Strait of Hormuz rendered through a thick curtain of oily black smoke-haze and humid Gulf mist, visibility reduced to silhouettes, Iran's rugged Hormozgan coastline barely visible on one side and Oman's jagged Musandam cliffs ghosting on the other, the narrow chokepoint water glowing blood-orange from unseen fires reflected and diffused through the fog, a stricken VLCC tanker looming dead-in-water in the foreground with its hull scorched above the waterline, smoke pouring from its stern and bending sideways in the haze, a second tanker's running lights reduced to dim amber smudges further out in the gloom, a distant string of anchored ships barely visible as dark shapes swallowed by the murk, volcanic underlighting bleeding upward into the smoke ceiling, cool blues almost entirely extinguished except for a faint steel-grey sliver of open sea on the horizon.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-04.png"
+    "card_image": "doom-card-2026-10-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 a cramped Soviet-era apartment block courtyard on the outskirts of Irkutsk, rows of identical concrete balconies fading into blood-orange dusk haze, bare birch trees etched black against a smoldering sky. Silhouette composition: a solitary figure stands motionless in an open apartment doorway, backlit by a dull orange glow from within, framed by a quarantine notice taped crookedly to the frame. Across the courtyard, another silhouette watches from a frost-rimmed window, one hand pressed to the glass. A parked ambulance with its light bar dark and dormant sits at the courtyard's edge, engine cold. Laundry lines strung between buildings hang frozen and still, no wind. Deep black shadows pool in every corner while the horizon burns volcanic orange, cool blues nearly extinguished, conveying isolation and dread without depicting illness or violence directly.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-05.png"
   },
   "dawn": {
-    "percentage": 43.6,
-    "driver": "A forgotten 30-year forest experiment just delivered a huge surprise. A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results sug",
-    "category": "Environment",
-    "blurb": "THINNED ASH FORESTS GROW GIANTS, RECOVER CARBON",
-    "summary": "Drones are striking Kyiv's bridges, tankers are burning near Hormuz, and Yemen is gearing up for a new offensive. Meanwhile, an Australian forestry plot that researchers had nearly forgotten finally gave its answer after three decades: heavily thinned mountain ash stands grew unusually large trees and recovered as much carbon as untouched forest, or more. Alongside early signs that vitamin B3 may help against glioblastoma and a new way to split water for hydrogen, it's a reminder that patient science keeps paying out quietly while the headlines shout.",
+    "percentage": 43.4,
+    "driver": "Nobel Prize awarded for revealing inner workings of the brain. US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+    "category": "Science",
+    "blurb": "LIGHT CONQUERS THE BRAIN'S DARKEST CORNERS",
+    "summary": "A plague scare in Siberia, drones over Kyiv's bridges and a jolting election night in Brazil dominate the front pages, yet Stockholm handed down a reminder of what patient curiosity can build. Deisseroth, Hegemann and Nagel took a light-sensitive protein from pond algae and turned it into optogenetics, a way to switch individual neurons on and off with light, opening new paths toward understanding depression, Parkinson's and consciousness itself. Around it, Guardian readers paid for a Somali boy's surgery and astronomers spotted a newborn world, so the day is not short on light.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Researchers reported a light-activated, sulfur-based material that makes hydrogen from water without an expensive metal catalyst, and a small glioblastoma trial found 82% of patients on high-dose vitamin B3 free of progression at six months."
+        "signal": "blazing",
+        "detail": "The Nobel for optogenetics honors a tool now used in thousands of labs, alongside fresh work on exhausted cancer-fighting T cells and treatments for traumatic brain injury."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "A global network of geoneutrino detectors is pooling measurements to map Earth's radioactive interior, and Somalia's president says Ethiopia can access its ports if it comes to negotiate."
+        "detail": "An American-German trio shared the medicine prize, proof that cross-border science still delivers while geopolitics strains."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "The Philadelphia Eagles welcomed six Make-A-Wish kids as honorary rookies, and the Apollo 13 rescue that flight director Milt Windler helped lead is being remembered as a lesson in what calm teamwork can achieve."
+        "detail": "Guardian readers funded life-changing surgery for seven-year-old Abdiqadir Salah, who was injured in a drone strike, and a granddaughter is helping her 95-year-old grandpa work through his bucket list."
       },
       {
         "name": "Environment",
-        "signal": "blazing",
-        "detail": "A 30-year Australian forestry experiment shows that careful thinning can produce larger trees while matching or exceeding the carbon stored in untouched forest."
+        "signal": "quiet",
+        "detail": "Heat warnings and a record El Ni\u00f1o loom, but GM's push into hybrids and an argument that mosquito-borne disease can already be eradicated point to tools within reach."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Keurig is moving to compostable pods free of plastic and aluminum, and Valve's work is giving old AMD graphics cards new life on Linux, both small wins against throwaway culture."
+        "signal": "bright",
+        "detail": "Astronomers confirmed Elias 2-24b, a planet less than a million years old, and it may rewrite the story of how worlds are born."
       }
     ],
     "mood": [
-      "patient",
-      "rooted",
-      "regenerative",
-      "grounded",
+      "illuminated",
+      "curious",
+      "generous",
+      "awestruck",
       "hopeful"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a single cut cross-section of a mountain ash tree stump, rendered like a dense topographic map of concentric growth rings \u2014 the outer rings tightly compressed and dark from crowded decades, then abruptly widening into broad, pale, golden-cream bands where the forest was thinned, showing explosive unexpected growth. A silver diameter tape lies curled across the rings like a measuring thread, its metal clasp glinting. Fine sawdust and bark curls rest in the grooves between rings. A single shaft of warm golden-green light rakes low across the surface, throwing long shadows that make the ridges of each ring look like rolling hills on a tiny landscape. Deep in the widened outer rings, a tiny new beetle or seedling root is just visible pushing up through a crack in the wood, implying quiet unseen vitality continuing outward. Clear golden-yellow and fresh green palette, balanced daylight, confident steady warmth.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-04.png"
+    "card_image": "dawn-card-2026-10-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE, all light from artificial sources, deep shadows dominating the frame. A quiet university bookstore window display after hours, the shop interior dark except for a single warm reading lamp left glowing behind the glass. The window showcases a popup science magazine propped open to a page showing a glowing blue-green illustration of a neuron with light beams striking it, the diagram rendered in soft bioluminescent teal against golden lamp-light. Beside it sits a small potted algae jar catching a faint greenish glimmer, and a cardboard science-fair model of a mouse brain with tiny embedded LED pinpricks blinking slowly. Reflections of a distant streetlamp and a passing golden-lit tram ripple across the window glass, blending warm yellow and cool green tones. A folded newspaper rests against the glass from outside, its visible fragment showing a photo of a gold medallion glinting under the lamp's warm glow. The wet pavement outside mirrors the window's colors in fractured pixel reflections, framed by darkened brick storefronts receding into shadow.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-05.png"
   }
 }
