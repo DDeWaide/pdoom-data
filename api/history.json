@@ -23450,5 +23450,114 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE, dawn after the discovery was announced, we are inside a quiet physical therapy clinic room looking out through a large window into a fresh green-gold morning courtyard. The room is empty of people, bathed in warm golden daylight streaming across the floor \u2014 a single pair of worn knee braces lies unbuckled and abandoned on a bench by the window, no longer needed. A walking cane leans forgotten in the corner, dust-free, clearly set aside. On the wall, a lightbox still glows faintly with an X-ray showing smooth, restored cartilage, left on from the night before. A small potted plant on the windowsill has fresh green leaves catching the light. Through the window, the courtyard outside shows an empty garden path with a single scattered trail of footprints leading away into the sunlit green lawn, as if someone just walked out freely. The color palette is clear golden-yellow and fresh green throughout, balanced daylight, calm and steady, conveying quiet confident hope rather than clinical urgency.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-06.png"
     }
+  },
+  {
+    "date": "2026-10-07",
+    "generated_at": "2026-10-07T17:22:18.999030+00:00",
+    "doom": {
+      "percentage": 55.1,
+      "raw_percentage": 56.4,
+      "blind_scores": [
+        55.8,
+        56.4,
+        57.6
+      ],
+      "filter": {
+        "P": 13.04,
+        "K": 0.431,
+        "shock_p": 0.044,
+        "innovation": 2.3,
+        "prev": 54.1
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Drones sink ships near NATO countries in \u201cunacceptable\u201d attacks, EU says. Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "category": "Geopolitics",
+      "blurb": "DRONES SINK FREIGHTERS NEAR NATO WATERS",
+      "summary": "Two cargo ships are on the seabed near alliance borders, sailors are missing, and Brussels has reached for its strongest word: 'unacceptable.' Meanwhile the US quietly pulls long-range bombers out of Britain over an Iranian threat, Trump schedules a chat with Putin about a plague lab, and Russian strikes kill 24 in Ukraine. For texture, OpenAI's unreleased model drops 722 math papers at once, and someone is walking around with counterfeit TLS certificates for Google.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "An unreleased OpenAI model produced 722 manuscripts of mathematical results, and Mistral claims an open-weight model that rivals the closed frontier."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The Pentagon is fast-tracking 'kill chain' AI purchases with five-minute pitch videos, while watermarking arrives only in the EU and is easy to strip."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Ships are sinking near NATO, the Iran war is driving up fertilizer prices and forcing bomber moves, Russia is pounding Ukraine, and Chinese attack jets have turned up in Laos."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "A second suspect was arrested in a school shooting planned with ChatGPT, and Common Sense Media calls ChatGPT for Teens an unacceptable risk."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A possible pneumonic plague lab death in Russia, Kenya quarantining Ebola contacts, and hijacked domain registries handing out fake Google certificates."
+        }
+      ],
+      "mood": [
+        "waterlogged",
+        "uneasy",
+        "brittle",
+        "smoldering"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view looking down at a 45-degree angle over a vast expanse of deep black-blue water, the Black Sea rendered as an endless dark mirror broken by one small circle of calm near the center where a toy-sized paper boat floats, its hull folded from a nautical chart printed with faint EU and NATO star-patterns, the paper already waterlogged and tilting as blood-orange flame-light blooms from beneath the water's surface like something volcanic glowing up through the depths, concentric ripples spreading outward from the sinking paper boat toward the frame's edges, tiny white wake-lines from unseen low shapes skimming just beneath the water toward it, a scattering of orange life-ring-shaped debris drifting at the point where the paper hull has torn, the horizon reduced to a thin smoldering line of rust-orange haze meeting the black sky with no land, no ships, no figures \u2014 only the vast dark sea folding in around the one fragile paper vessel as it goes under.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-07.png"
+    },
+    "dawn": {
+      "percentage": 44.9,
+      "driver": "Scientists reprogram immune cells inside the body to fight cancer. Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineeri",
+      "category": "Medicine",
+      "blurb": "WITHIN THE BLOOD, GUARDIANS LEARN TO HUNT",
+      "summary": "Ebola is crossing borders, a plague death has Russia under scrutiny, and Pryluky is still digging through rubble, so the weight of today is real. Yet at UC San Francisco, researchers have taught the body to build its own cancer-hunting CAR-T cells in place, which could turn one of medicine's most expensive, slow-to-make treatments into something far more people can reach. Add a chemistry Nobel for mirror-image molecules and a study suggesting humans aren't simply wired for killing, and the day holds more light than its headlines let on.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "OpenAI released 722 manuscripts of long-standing math solutions at once, and the chemistry Nobel honored work on mirror molecules that underpins safer pharmaceuticals."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Google DeepMind, Meta, and Isomorphic Labs are pooling $300 million to build a shared 'virtual cell' that researchers can use against disease."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Small farmers squeezed by war-driven fertilizer prices are brewing their own with a traditional Asian recipe, and Chilean rescuers spent two hours saving a stray dog from floodwaters."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New research on Australian lake sediments shows Indigenous land stewardship once held wildfire danger in check, a lesson worth relearning."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A study of 100 primate species suggests everyday aggression and lethal violence evolved separately, which means humans may not be as hardwired for violence as feared."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "resilient",
+        "hopeful",
+        "quietly awed",
+        "renewed"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED exterior scene, thick golden-green morning fog rolling low through a quiet suburban street outside a cancer treatment center, atmosphere softening every edge. We are NOT inside the UCSF lab\u2014instead we see a modest home across town where a patient's family waits: a small front porch with a wheelchair ramp, a warm porch light glowing amber through the mist, a half-open screen door. A folded hospital discharge paper and an empty prescription travel bag sit by the door, no longer needed for cross-country treatment trips. Fresh green shoots push up through a cracked sidewalk planter, catching thin sunbeams breaking through the fog. A family member stands in the doorway holding a phone with a faint glowing screen, reading good news, while distant hospital building lights blur softly through the haze on the horizon. Fog swirls in layered dithered bands of gold and green, streetlamp halos diffusing into the mist, puddles on the pavement reflecting the soft breaking dawn light.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-07.png"
+    }
   }
 ]
