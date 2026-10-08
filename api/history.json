@@ -23559,5 +23559,114 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED exterior scene, thick golden-green morning fog rolling low through a quiet suburban street outside a cancer treatment center, atmosphere softening every edge. We are NOT inside the UCSF lab\u2014instead we see a modest home across town where a patient's family waits: a small front porch with a wheelchair ramp, a warm porch light glowing amber through the mist, a half-open screen door. A folded hospital discharge paper and an empty prescription travel bag sit by the door, no longer needed for cross-country treatment trips. Fresh green shoots push up through a cracked sidewalk planter, catching thin sunbeams breaking through the fog. A family member stands in the doorway holding a phone with a faint glowing screen, reading good news, while distant hospital building lights blur softly through the haze on the horizon. Fog swirls in layered dithered bands of gold and green, streetlamp halos diffusing into the mist, puddles on the pavement reflecting the soft breaking dawn light.",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-07.png"
     }
+  },
+  {
+    "date": "2026-10-08",
+    "generated_at": "2026-10-08T17:18:46.231707+00:00",
+    "doom": {
+      "percentage": 55.8,
+      "raw_percentage": 56.7,
+      "blind_scores": [
+        54.6,
+        56.7,
+        57.6
+      ],
+      "filter": {
+        "P": 13.29,
+        "K": 0.439,
+        "shock_p": 0.034,
+        "innovation": 1.6,
+        "prev": 55.1
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'. The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+      "category": "Geopolitics",
+      "blurb": "TRUMP SNUBS PEACE, EYES THE BOMB BAY",
+      "summary": "Washington would apparently rather restart the bombing than sign a deal with Iran, while promising not to do it before the midterms, which is a strange kind of reassurance. Meanwhile, Russia hit two buses in Kramatorsk and killed 30, Ethiopia sent drones after Eritrean troops in Tigray, and Houthi missiles were aimed at Riyadh. In tech, GPT-6 shipped the same week OpenAI withdrew three math papers and admitted its Navier-Stokes proof doesn't match its own code.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "GPT-6 rolls out to everyone, Claude Haiku 5.5 lands, and Copilot gets permission to act across your whole PC, all within the same news cycle."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Anthropic tightened its usage rules on weapons and election interference, while the agency regulating crypto and prediction markets keeps shrinking as its job grows."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Three interstate conflicts are active at once: the US weighs resuming large-scale bombing of Iran, Russia's strikes on Ukrainian transport are surging, and Ethiopia and Eritrea are trading drone fire."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "OpenAI's human proof and machine proof of Navier-Stokes don't match, a reminder that 'verified' depends on the translation being right."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A record El Ni\u00f1o threatens the Great Barrier Reef, Hurricane Isaias is heading for Gulf oil production, and a Pennsylvania measles outbreak has passed 1,000 cases."
+        }
+      ],
+      "mood": [
+        "belligerent",
+        "jittery",
+        "overclocked",
+        "smoke-hazed"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-08.png",
+      "dalle_prompt": "Pixel art, extreme close-up filling the entire frame with a diner countertop television's curved glass screen, reflections bending across its surface \u2014 the screen itself glows blood-orange and black, static-streaked footage of a desert horizon barely visible through the warped glass, a half-empty coffee cup and a crumpled napkin beside it on worn Formica, a laminated diner menu corner visible at frame edge still advertising a \"Sunday Special,\" cigarette burns scarring the counter's edge, the TV's volume dial and chrome bezel catching volcanic underlighting from the screen's glow, condensation ring from the cup overlapping the counter's reflection of the screen's fire-colored flicker, no antialiasing, 16-bit SNES style, no text.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-08.png"
+    },
+    "dawn": {
+      "percentage": 44.2,
+      "driver": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph. Free-roaming Aldabra population thrives on Indian Ocean atoll due to decades-long recovery programme",
+      "category": "Environment",
+      "blurb": "ONE ATOLL, 180,000 TORTOISES, STILL COUNTING",
+      "summary": "On a day marked by a deadly bus strike in Kramatorsk, more tanker attacks in the Gulf and a record El Ni\u00f1o bearing down on the Great Barrier Reef, the best news came slowly. A survey on Aldabra counted a record 180,000 free-roaming giant tortoises, a once-endangered population rebuilt by people who kept at it for decades. Fittingly, scientists also published the genome of 194-year-old Jonathan, whose exceptional DNA repair suggests endurance runs deep in this lineage.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers dated a Homo erectus fossil 200,000 years earlier than expected, and this year's chemistry Nobel honored work on molecular handedness that shapes how medicines are made."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "NASA's Crew-12 brought two American astronauts, a European and a Russian cosmonaut home together after eight months of shared science aboard the space station."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Anas Hattab's Telegram channel now helps nearly 350,000 Palestinians get home safely, and a 72-year-old hiker was found alive days after a 100-foot fall."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Decades of patient protection made Aldabra home to the world's largest free-roaming giant tortoise population, even as El Ni\u00f1o tests reefs elsewhere."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Anne Carson's Nobel Prize in Literature honors 'bold and inventive' work, a reminder that imagination still gets crowned."
+        }
+      ],
+      "mood": [
+        "patient",
+        "resilient",
+        "enduring",
+        "hopeful",
+        "steady"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION, strong golden backlight blazing low over the flat coral horizon of Aldabra Atoll, the enormous glowing sun sitting just above the turquoise lagoon so that everything in the foreground reads as rich dark silhouette against warm golden-yellow sky streaked with fresh green reflections. Dozens of giant tortoise shells dot the open grazing platin in the foreground, their domed silhouettes overlapping in a dense, thriving herd stretching toward the horizon, long necks stretched low browsing cropped grass. Gnarled pandanus trees and tangled scrub stand as jagged black shapes framing the scene, while champignon limestone formations rise in jagged outlines near the shoreline. A single small human silhouette crouches among the tortoises in the mid-ground, dwarfed by their sheer numbers, emphasizing abundance over intervention. Scattered tidal pools catch the golden light in bright mirror-like streaks across the flat rock terrain, and a faint drone silhouette hovers high above the herd, surveying the thriving population. The overall palette is confident, bal",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-08.png"
+    }
   }
 ]
