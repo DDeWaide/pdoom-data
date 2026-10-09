@@ -23668,5 +23668,114 @@
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION, strong golden backlight blazing low over the flat coral horizon of Aldabra Atoll, the enormous glowing sun sitting just above the turquoise lagoon so that everything in the foreground reads as rich dark silhouette against warm golden-yellow sky streaked with fresh green reflections. Dozens of giant tortoise shells dot the open grazing platin in the foreground, their domed silhouettes overlapping in a dense, thriving herd stretching toward the horizon, long necks stretched low browsing cropped grass. Gnarled pandanus trees and tangled scrub stand as jagged black shapes framing the scene, while champignon limestone formations rise in jagged outlines near the shoreline. A single small human silhouette crouches among the tortoises in the mid-ground, dwarfed by their sheer numbers, emphasizing abundance over intervention. Scattered tidal pools catch the golden light in bright mirror-like streaks across the flat rock terrain, and a faint drone silhouette hovers high above the herd, surveying the thriving population. The overall palette is confident, bal",
       "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-08.png"
     }
+  },
+  {
+    "date": "2026-10-09",
+    "generated_at": "2026-10-09T16:54:38.523612+00:00",
+    "doom": {
+      "percentage": 56.0,
+      "raw_percentage": 56.3,
+      "blind_scores": [
+        49.6,
+        56.3,
+        57.4
+      ],
+      "filter": {
+        "P": 12.25,
+        "K": 0.405,
+        "shock_p": 0.022,
+        "innovation": 0.5,
+        "prev": 55.8
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Ethiopia warns Eritrea it will defend itself after troops cross border. Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "category": "Geopolitics",
+      "blurb": "ON THE HORN OF AFRICA, OLD FOES MARCH ANEW",
+      "summary": "Truckloads of Eritrean soldiers rolled into Ethiopia and were reportedly met with drone strikes, opening a fresh interstate front while Houthi missiles hit Riyadh's airport and Russian strikes killed 30 bus passengers in Ukraine. Trump's promise not to attack Iran before the midterms is the kind of reassurance that comes with an expiry date, and the USS Lincoln only came home because the Iran war wore it out. Meanwhile Washington sanctioned the International Criminal Court hours after a former ICC judge won the Nobel Peace Prize, which is a bold way to say what it thinks of international law.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Agentic AI is driving a rush on desktop hardware, and AI-designed viruses are now polite roundtable conversation."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The US sanctioned the ICC, opened a probe into a Fed governor, and plans to livestream a firing-squad execution, all in one news cycle."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Ethiopia and Eritrea are trading accusations of war, Houthis are striking Riyadh, Russia is hitting Ukrainian buses, and the Iran war is paused only on an electoral calendar."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "OpenAI is standing by its firing of three safety researchers, and ChatGPT for Teens' safeguards mostly failed independent testing."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Category 3 Hurricane Isaias is aiming at Gulf oil infrastructure, Kenya's Ebola outbreak is still spreading, and questions linger over Russia's plague death."
+        }
+      ],
+      "mood": [
+        "volatile",
+        "lawless",
+        "smoldering",
+        "braced"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 night scene on the outskirts of Adigrat near the Eritrean border, dawn still hours away, a scorched truck convoy route winding through dry terraced hillsides now empty and silent, the road's dirt shoulder scarred with tire ruts and a few overturned cargo crates left untouched, a lone Ethiopian highland church with a round thatched roof stands at the roadside, its open door glowing faintly from candlelight within, an elderly figure sweeping shattered glass and debris off the chapel steps by lantern light, scattered acacia trees silhouetted against a sky where deep black fades into a bruised blood-orange horizon line, distant hillside outposts dark and powered-down with only a single watchtower light blinking slow, volcanic-orange underlighting washes the rocky plateau from smoldering embers hidden just beyond the ridge, cool blue tones almost fully extinguished except for one faint star over the mountains.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-09.png"
+    },
+    "dawn": {
+      "percentage": 44.0,
+      "driver": "4-hour battery storage is cheaper to install than gas turbines all across globe.",
+      "category": "Environment",
+      "blurb": "NOT A BAD WEEK FOR BATTERIES",
+      "summary": "With Hurricane Isaias churning toward the Gulf, sanctions landing on the ICC, and troops crossing the Ethiopia-Eritrea border, a dry line about installation costs might seem a small thing. It isn't. Four-hour battery storage now undercuts new gas turbines everywhere on Earth, which means the cleaner grid is no longer a sacrifice but simply the cheaper choice. Elsewhere, a jungle selfie led botanists to a giant waterlily, and Navi Pillay's Nobel honours a lifetime spent insisting that law should bind the powerful.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "A Canadian radio telescope caught a 9-billion-year-old hydrogen glow, proving a new way to map dark energy actually works."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Navi Pillay's Nobel Peace Prize celebrates international law, even as that law comes under direct political pressure."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Crew-12 splashed down safely after 237 days and 100 million miles of research for future deep-space missions."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Battery storage now beats gas turbines on cost worldwide, so economics and climate goals finally point the same way."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A casual plant selfie in Colombia helped scientists find a giant waterlily whose leaves can be seen from space, and plans to protect it are already underway."
+        }
+      ],
+      "mood": [
+        "steady",
+        "practical",
+        "hopeful",
+        "quietly triumphant",
+        "electric"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-09.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking straight up from beneath a utility pole at the edge of a small desert town, towering transmission tower lines crisscrossing a vast golden-green evening sky, the silhouette of a single battery storage container stack rising just behind the pole frame. A technician in a reflective vest stands at the base, head tilted back, looking up at the lines with a relieved half-smile, tablet tucked under one arm showing a faint downward-trending graph glow. Behind them, a porch light flickers on in a modest desert home as dusk settles, warm golden window light spilling onto a dirt yard, a small rotating fan finally running without flicker for the first time in the frame's story. In the far distance, barely visible low on the horizon beneath the tower, the dark silhouette of an old gas turbine stack stands cold and unlit, dwarfed by the looming lines above. Fresh green scrub brush rings the pole's base, catching the last warm light, steady confident glow washing the whole scene in balanced golden-yellow daylight fading into dusk.",
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-09.png"
+    }
   }
 ]
