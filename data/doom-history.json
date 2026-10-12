@@ -23501,5 +23501,112 @@
       "card_image": "dawn-card-2026-10-11.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame inside the open case of an antique brass clock movement. Even, balanced daylight comes from outside the frame and glints off polished metal. The only hint of the world beyond is a tiny pale-sky reflection curving across a brass plate at the edge. The frame is crowded with worn, tarnished gears, dulled gold with fresh green verdigris in their teeth, and their stiff, stalled rhythm stands for the old atomic-clock era being surpassed. At the center, in a hollow where the balance wheel should be, a small clear faceted crystal glows warm golden-yellow, standing for the thorium nucleus. A single thin thread of bright lime-green light enters the crystal from the left. A second thread curves out of it and loops back around into the beam, a closed, self-correcting circle of light that steadies itself. Faint concentric ripples of pale yellow pixels pulse outward from the crystal in perfectly even rings. They calm the jittering shadows of the old gears around them. One tiny fresh green sprout curls from a gap between two gears at the lower edge, a quiet sign of new growth. The palette is clear golden-yellow, fresh spring green, and creamy highlights, with confident, steady warmth, crisp dithered shading on the metal, and no people."
     }
+  },
+  {
+    "date": "2026-10-12",
+    "generated_at": "2026-10-12T19:43:54.864815+00:00",
+    "doom": {
+      "percentage": 56.3,
+      "raw_percentage": 53.6,
+      "blind_scores": [
+        49.7,
+        53.6,
+        57.6
+      ],
+      "filter": {
+        "P": 11.02,
+        "K": 0.364,
+        "shock_p": 0.003,
+        "innovation": -4.2,
+        "prev": 57.8
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "UK PM says RAF base incidents \u2018likely coordinated\u2019 by Iran. UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
+      "category": "Geopolitics",
+      "blurb": "UNINVITED GUESTS AT THE BOMBER BASE",
+      "summary": "Britain now says Iran was likely behind incidents at two RAF bases tied to US air power, while Hormuz crews are being paid danger money just to sail through and Houthi missiles keep arriving in Saudi Arabia. Trump's 'energy ceasefire' lasted about as long as it took Russia to hit six more Ukrainian energy sites, and Washington is buying Russian diesel anyway. Ethiopian troops are in Adwa, India has trimmed 130 million names off its voter rolls, and someone hacked the fridges in French supermarkets, because even the yogurt isn't safe.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Meta's Muse Wonder rejoins the frontier and Microsoft's Maia 300 chip loosens Nvidia's grip, so the race keeps speeding up."
+        },
+        {
+          "name": "Governance",
+          "signal": "high",
+          "detail": "Immigration agents searched a sitting congresswoman's home, feds used fake cell towers on journalists, and India's voter purge has sent protesters to the Supreme Court."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Iran-linked plots on UK bases, Houthi strikes on Saudi Arabia, attacks on Hormuz shipping, Russia hitting Ukrainian gas sites and Ethiopia pushing into Tigray add up to fires on several fronts at once."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Meta advertises guardrails to keep its agents from going off the rails, an industry admission that going off the rails is a live option."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "A record-strength El Ni\u00f1o revives memories of the 1870s famines, while a Pentagon breach exposing about 3 million records and the supermarket fridge hack keep the cyber front busy."
+        }
+      ],
+      "mood": [
+        "brittle",
+        "encircled",
+        "sardonic",
+        "simmering"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 a flat Gloucestershire field at dusk just outside the perimeter fence of RAF Fairford, the Cotswold horizon a thin black line beneath a huge sky burning blood-orange at the bottom and fading to deep black overhead, volcanic underlighting rising from the horizon so everything in the foreground falls into hard silhouette, cool tones nearly extinguished. Wet grass and a muddy lane glint with orange reflections. In the middle distance, a double chain-link fence topped with coils of razor wire runs across the frame, with a floodlight mast and a guard hut as black cutouts. Beyond the fence, the unmistakable silhouette of a B-52 bomber sits on the apron with its long drooping wings and paired engine pods, backlit by the glowing sky. In the foreground, two figures stand in silhouette on the lane at the fence line: an older man in a flat cap and waxed jacket with a dog at his feet, and a young woman beside him clutching a camera against her chest. Both are frozen and looking toward the base, shoulders slumped, the woman's hand half-raised to her mouth. Beside them a leaning stone wall and a tiny village church spire on the far left edge anchor the English setting. A single small blue-black police car with a dim orange-tinted light bar waits at the far gate. The faint trace of a drone-shaped speck hangs in the upper sky, barely visible. The mood is quiet dread, with the event implied and never shown."
+    },
+    "dawn": {
+      "percentage": 43.7,
+      "driver": "British adventurer returns home after 28-year walk around the world. Adventurer Karl Bushby swam the English Channel and celebrated with fish and chips after his 28-year, 30,000-mile walk from Chile to England.",
+      "category": "Human Spirit",
+      "blurb": "BUSHBY STRIDES HOME AFTER 28 YEARS",
+      "summary": "Karl Bushby set out from the southern tip of Chile, walked 30,000 miles, swam the English Channel and finally reached England 28 years later, where he marked it with a plate of fish and chips. Few people ever finish a journey of that size, and he did it on his own two feet. Elsewhere, NASA captured Australia's red outback bursting into what may be its richest wildflower bloom in nearly 20 years, and Judge Judy's Her Honor program celebrated two decades of mentoring young women.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers found that restoring a protein called Menin reversed several signs of aging in older mice within 30 days, and a new skin cream lowered skin's biological age by about two years in just four weeks."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Apple is working with Indigenous communities to put endangered languages on the iPhone keyboard, so young speakers can type in their ancestral tongues every day."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Karl Bushby completed a 28-year, 30,000-mile walk from Chile to England, finishing one of the longest unbroken journeys on foot in human history."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Unusually heavy rains turned Australia's rust-colored outback into a vast carpet of wildflowers, and NASA photographed it from space."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Owen Hanna celebrated his 100th birthday at his favorite bowling alley in Pennsylvania, still rolling in his happy place."
+        }
+      ],
+      "mood": [
+        "triumphant",
+        "steadfast",
+        "joyful",
+        "awestruck",
+        "blooming"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-12.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE inside a small terraced-house kitchen in Hull, England. Deep indigo shadows fill the corners and the ceiling, and every bit of light comes from artificial sources. A brass-based table lamp with a fresh-green glass shade casts a pool of golden-yellow light over a worn wooden table. A porch lamp glows amber through a rain-speckled window, and the dark street beyond has one streetlight and a few fallen autumn leaves. On the table lies an open newspaper whose front page is a large map graphic with one bright golden line winding across continents, from the bottom of South America up through frozen seas to a small marked dot on the English coast, with only gray pixel blocks for headlines. Beside it sits a paper-wrapped portion of golden battered fish and thick chips with a bright green scoop of mushy peas, still steaming in the lamplight. A birthday card showing two tiny cartoon soldiers is propped against a teapot, and a small Union Jack tea towel hangs from the oven door. By the back door, a pair of well-worn walking boots waits on a mat, and an empty chair with a folded cardigan is pulled up to the table. The mood is quiet, steady and warm, with golden-yellow and fresh-green highlights against the dark."
+    }
   }
 ]
