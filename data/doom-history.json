@@ -23715,5 +23715,112 @@
       "card_image": "dawn-card-2026-10-13.png",
       "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside the tall, worn entrance hall of an old Pest apartment building in Budapest, the morning after Pride weekend. We look out through a huge double wooden door standing wide open, its arched frame filling most of the view. Balanced, even daylight. Clear golden-yellow stone walls with peeling plaster and a checkered tile floor in ochre and cream, with fresh green light bouncing in from the street. Beyond the doorway is a quiet cobbled street lined with bright fresh-green chestnut trees. A yellow Budapest tram glides past in the middle distance, and far down the avenue the neo-Gothic Parliament dome and spires rise above the rooftops, small and calm. Inside, in the foreground, a heavy iron key still hangs in the old lock of the open door, and a brass doorstop holds it ajar. A volunteer seen from behind sweeps the last scraps of rainbow confetti across the threshold with a straw broom. A wooden bench beside the door holds a neatly folded rainbow flag and a folded light-blue, pink and white trans flag. Next to it sits a cardboard box of rolled-up banners and a few paper cups. A small potted green plant sits on the windowsill of the stairwell. The mood is steady, quiet relief and confident warmth, with golden tones against fresh green."
     }
+  },
+  {
+    "date": "2026-10-14",
+    "generated_at": "2026-10-14T14:59:04.401105+00:00",
+    "doom": {
+      "percentage": 56.9,
+      "raw_percentage": 58.7,
+      "blind_scores": [
+        58.4,
+        58.7,
+        58.7
+      ],
+      "filter": {
+        "P": 15.61,
+        "K": 0.516,
+        "shock_p": 0.077,
+        "innovation": 3.8,
+        "prev": 54.9
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack U.S. warships; Saudi Aramco facilities attacked.",
+      "category": "Geopolitics",
+      "blurb": "IRAN STARTS THE CLOCK ON WARSHIPS",
+      "summary": "Tehran says it is 'counting the moments' until it can hit U.S. warships, and Aramco took fresh fire overnight, while the IEA calmly notes the Iran war will keep diesel scarce into 2027. Elsewhere, Russia struck energy sites covered by a ceasefire that lasted roughly one weekend, Washington reportedly threatened to cut Ukraine's intel, and the Horn of Africa sits on a knife's edge. For dessert, Anthropic warns that small AI models could self-replicate through your smart fridge, and an OpenAI engineer allegedly hid a bug in a USB port wrapped in toilet paper, which is less Bond than it sounds.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Gemini 4 Argon launches with a robotics variant as Anthropic warns small models could spread like worms through IoT devices."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "A White House media ban stays blocked in court, and an OpenAI espionage arrest raises the stakes for frontier-lab security."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "An active US-Israel war with Iran threatens naval escalation, while Russia ignores its energy ceasefire and Ethiopia and Eritrea edge toward war."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "Researchers show stripped-guardrail models will hand out IED instructions, and new frontier models are easily jailbroken."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Seven of 16 planetary vital signs hit record extremes as El Ni\u00f1o threatens a global food crisis."
+        }
+      ],
+      "mood": [
+        "braced",
+        "combustible",
+        "jittery",
+        "grim"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view looking down at a 45-degree angle over the Strait of Hormuz at night, a vast black channel pinched between the jagged bare cliffs of the Musandam Peninsula in the lower foreground and the rust-red volcanic bulk of Hormuz Island and Qeshm Island along the far Iranian shore, the whole seascape lit from below by blood-orange glow bleeding up through the water as if the seabed were molten, cool tones nearly extinguished into deep black. Spanning the narrow two-mile shipping lane is a giant metaphorical hourglass-shaped chain of lit shipping: two long ribbons of tiny supertanker lights squeezing toward a single bottleneck point, where a huge cracked brass sundial-clock face, half-sunk in the water and the size of an island, shows its hands frozen a hair from midnight, a spiderweb fracture glowing orange across its glass. Around the clock's rim sit hundreds of tiny floating naval mines like spiked ticks, each marking an hour, one mine nearly touching the minute hand. On the cliffs, tiny silhouetted figures of coastal watchmen stand beside camouflaged launcher shapes, dwarfed by the landscape, their faces turned toward the clock. Far off on the Arabian side, a single smudge of orange fire and a thin column of smoke on the horizon at Dhahran, flare stacks glowing like embers. Volcanic underlighting, blood orange and deep black palette, chunky dithered pixel shading, vast landscape dominating with tiny figures."
+    },
+    "dawn": {
+      "percentage": 43.1,
+      "driver": "World's oldest shipwreck found off coast of Turkey. Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "category": "Discovery",
+      "blurb": "FROM THE SEABED, THE OLDEST SHIP STIRS",
+      "summary": "Some 4,700 years after it last sailed, a Bronze Age vessel has been found resting off the Turkish coast, now the oldest shipwreck ever discovered and a rare glimpse of how early seafarers traded and travelled. The day's other bright spots look upward and inward: the first samples from the Moon's farside may finally explain why our satellite has two such different faces, and Alison Luchs, nearly 50 years at the National Gallery of Art, landed on the Time100 Art list for teaching Gen Z about masterpieces in their own slang.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Samples collected from the Moon's farside for the first time suggest that uneven heating shaped its two strikingly different hemispheres, which may settle a long-standing lunar mystery."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Civil rights groups plan to send thousands of volunteer observers to polling places to help the midterm elections run smoothly for every voter."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Museum veteran Alison Luchs was named to the Time100 Art list for her playful art history videos, and Joni Mitchell celebrated becoming a US citizen at 82, sixty-two years after her journey began."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Researchers used AI to map nearly 10,000 chemical reactions that turn carbon dioxide into fuels, uncovering shortcuts that could make the process far more efficient."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Dogs, like people, link the word 'bouba' with round shapes and 'kiki' with spiky ones, a sign that this quirk of language runs deep in the mammal brain."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "patience",
+        "curiosity",
+        "delight",
+        "timelessness"
+      ],
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED exterior scene: thick golden-green sea haze fills the whole frame and rolls over the small stone quay of a sleepy Lycian fishing village on Turkey's southern coast, one bay along from Kekova. The fog glows pale yellow-gold where the morning sun burns through it, and it fades to fresh olive and sage green in the shadows. Balanced daylight, steady and warm, softly diffused so nothing is harsh. Dithered fog layers hide the far shore. A faint low island ridge shows through the haze as a soft green-gold silhouette. On the left, a weathered Lycian stone sarcophagus with a pointed lid stands half-submerged in the calm, glassy shallows, its reflection broken by gentle ripples. On the right, olive trees and whitewashed stone houses with terracotta roofs climb the hillside and fade into the mist. In the foreground on the worn quay, an elderly fisherman in a flat cap kneels beside a small girl. Together they study a curved terracotta amphora handle and shard pulled up in a net, and she holds it up to the glowing haze with wide-eyed wonder. Beside them sit three rough, pale grey stone net-weights with drilled holes, a tangle of drying net, and a cracked clay pot overflowing with green basil by a blue wooden door. Tiny wooden rowboats are barely visible, moored as soft shapes in the fog. Palette: golden yellow, pale butter haze, fresh leaf green, sage, warm terracotta accents, and limestone grey. The mood is quiet, curious, and quietly proud, as if the village is learning that its ancient waters hold the oldest story ever found."
+    }
   }
 ]
