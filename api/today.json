@@ -1,109 +1,109 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T14:59:04.401105+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:48:07.288624+00:00",
   "doom": {
-    "percentage": 56.9,
-    "raw_percentage": 58.7,
+    "percentage": 56.8,
+    "raw_percentage": 56.7,
     "blind_scores": [
-      58.4,
-      58.7,
+      56.4,
+      56.7,
       58.7
     ],
     "filter": {
-      "P": 15.61,
-      "K": 0.516,
-      "shock_p": 0.077,
-      "innovation": 3.8,
-      "prev": 54.9
+      "P": 12.53,
+      "K": 0.414,
+      "shock_p": 0.017,
+      "innovation": -0.2,
+      "prev": 56.9
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack U.S. warships; Saudi Aramco facilities attacked.",
+    "driver": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce. Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
     "category": "Geopolitics",
-    "blurb": "IRAN STARTS THE CLOCK ON WARSHIPS",
-    "summary": "Tehran says it is 'counting the moments' until it can hit U.S. warships, and Aramco took fresh fire overnight, while the IEA calmly notes the Iran war will keep diesel scarce into 2027. Elsewhere, Russia struck energy sites covered by a ceasefire that lasted roughly one weekend, Washington reportedly threatened to cut Ukraine's intel, and the Horn of Africa sits on a knife's edge. For dessert, Anthropic warns that small AI models could self-replicate through your smart fridge, and an OpenAI engineer allegedly hid a bug in a USB port wrapped in toilet paper, which is less Bond than it sounds.",
+    "blurb": "ENERGY TRUCE SNUFFED OUT AT RYAZAN",
+    "summary": "The 'energy ceasefire' lasted about as long as a phone battery. Ukrainian drones hit a Ryazan refinery while Kyiv finds its Starshield link throttled and its US intelligence thinned, and nobody can agree on who pulled the plug. Meanwhile the Pentagon is reportedly sizing up the 'mother of all bombs' for Iran, Houthis are pressing Saudi Arabia harder, and a tanker burns off Romania with eight crew missing, so this is less a quiet Thursday than a busy switchboard.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "Gemini 4 Argon launches with a robotics variant as Anthropic warns small models could spread like worms through IoT devices."
+        "signal": "medium",
+        "detail": "AI-designed proteins that cut previously unbreakable bonds and a fresh round of on-device agent models show capability marching on, while the money behind it wobbles in a tech sell-off."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "A White House media ban stays blocked in court, and an OpenAI espionage arrest raises the stakes for frontier-lab security."
+        "signal": "elevated",
+        "detail": "Eight states are suing OpenAI over child safety, and the White House reversed a livestreamed military execution only after an outcry, which is not a sign of a steady hand."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "An active US-Israel war with Iran threatens naval escalation, while Russia ignores its energy ceasefire and Ethiopia and Eritrea edge toward war."
+        "detail": "The Russia-Ukraine energy truce has collapsed, US strike options on Iran include its largest non-nuclear bomb, Yemen fighting is intensifying, and suspected sabotage is hitting Starlink sites in NATO countries."
       },
       {
         "name": "Alignment",
-        "signal": "elevated",
-        "detail": "Researchers show stripped-guardrail models will hand out IED instructions, and new frontier models are easily jailbroken."
+        "signal": "medium",
+        "detail": "Experts say the recent reports of AI agents hacking stem from frontier labs skipping basic containment rather than models going rogue, which is not as comforting as it sounds."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Seven of 16 planetary vital signs hit record extremes as El Ni\u00f1o threatens a global food crisis."
+        "signal": "elevated",
+        "detail": "AI-assisted Russian and Chinese cyberattacks on UK infrastructure, zero-click spyware delivered through online ads, and a recording device hidden in toilet paper inside OpenAI round out a very spy-heavy day."
       }
     ],
     "mood": [
-      "braced",
-      "combustible",
-      "jittery",
-      "grim"
+      "brittle",
+      "volatile",
+      "paranoid",
+      "smoldering"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing \u2014 wide aerial view looking down at a 45-degree angle over the Strait of Hormuz at night, a vast black channel pinched between the jagged bare cliffs of the Musandam Peninsula in the lower foreground and the rust-red volcanic bulk of Hormuz Island and Qeshm Island along the far Iranian shore, the whole seascape lit from below by blood-orange glow bleeding up through the water as if the seabed were molten, cool tones nearly extinguished into deep black. Spanning the narrow two-mile shipping lane is a giant metaphorical hourglass-shaped chain of lit shipping: two long ribbons of tiny supertanker lights squeezing toward a single bottleneck point, where a huge cracked brass sundial-clock face, half-sunk in the water and the size of an island, shows its hands frozen a hair from midnight, a spiderweb fracture glowing orange across its glass. Around the clock's rim sit hundreds of tiny floating naval mines like spiked ticks, each marking an hour, one mine nearly touching the minute hand. On the cliffs, tiny silhouetted figures of coastal watchmen stand beside camouflaged launcher shapes, dwarfed by the landscape, their faces turned toward the clock. Far off on the Arabian side, a single smudge of orange fire and a thin column of smoke on the horizon at Dhahran, flare stacks glowing like embers. Volcanic underlighting, blood orange and deep black palette, chunky dithered pixel shading, vast landscape dominating with tiny figures.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-14.png"
+    "card_image": "doom-card-2026-10-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the whole frame: the dead glass face of a diesel pump at a roadside fuel station on the flat Oka lowlands outside Ryazan, in the hour before a mid-October dawn. The environment exists only in the reflections and at the edges. A black, curved glass display panel dominates the center, its seven-segment price digits dark and dead, with a few stuck segments flickering faint ember red. Across the glass, a distorted reflection shows the world behind the camera: a thin line of bare birches, a rail spur, a power-line pylon, and a swollen blood-orange glow smeared along the horizon with a column of soot-black smoke bending the sky. Along the bottom edge, the heavy black rubber hose and a frost-rimed steel diesel nozzle hang in a scuffed cradle with chipped yellow-black hazard stripes, lit from below by the volcanic orange light. Wedged into the cradle beside the nozzle is a folded, damp sheet of newsprint carrying only a blurred blocky photo of a flame silhouette and abstract gray bars in place of text, one corner curling in the heat of the reflected glow. A hand-taped cardboard sign dangles from the pump, scrawled with a single crossed-out slash mark and no legible letters. The palette is blood orange and deep black only, with ember highlights on wet metal and cracked glass, crushed pitch-black shadows, and cool tones nearly extinguished. Chunky dithered pixel shading and hard stepped color bands.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-15.png"
   },
   "dawn": {
-    "percentage": 43.1,
-    "driver": "World's oldest shipwreck found off coast of Turkey. Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-    "category": "Discovery",
-    "blurb": "FROM THE SEABED, THE OLDEST SHIP STIRS",
-    "summary": "Some 4,700 years after it last sailed, a Bronze Age vessel has been found resting off the Turkish coast, now the oldest shipwreck ever discovered and a rare glimpse of how early seafarers traded and travelled. The day's other bright spots look upward and inward: the first samples from the Moon's farside may finally explain why our satellite has two such different faces, and Alison Luchs, nearly 50 years at the National Gallery of Art, landed on the Time100 Art list for teaching Gen Z about masterpieces in their own slang.",
+    "percentage": 43.2,
+    "driver": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life. Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findin",
+    "category": "Medicine",
+    "blurb": "ONE YEAR ON ICE, KIDNEYS WORKING",
+    "summary": "Kidneys chilled to -150 \u00b0C and kept in a freezer for a year have been rewarmed and shown to work again, the first time anyone has pulled this off. Scientists hope the technique will one day let donated organs be banked rather than raced against the clock, so more patients get the transplant they need. Elsewhere, Brazil's Congress voted for a 40-hour week that could give up to 30 million workers their weekends back, and firefighters in Cobb County, Georgia, helped a vet hospital deliver 15 puppies.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Samples collected from the Moon's farside for the first time suggest that uneven heating shaped its two strikingly different hemispheres, which may settle a long-standing lunar mystery."
+        "signal": "blazing",
+        "detail": "Frozen pig kidneys revived after a year in storage could open the door to organ banking for transplants."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Civil rights groups plan to send thousands of volunteer observers to polling places to help the midterm elections run smoothly for every voter."
+        "detail": "After talks in Beijing, China signaled that rare earths will keep flowing steadily to the European Union."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Museum veteran Alison Luchs was named to the Time100 Art list for her playful art history videos, and Joni Mitchell celebrated becoming a US citizen at 82, sixty-two years after her journey began."
+        "detail": "Brazil wrote a 40-hour week into its constitution and ended six-day workweeks for up to 30 million people."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Researchers used AI to map nearly 10,000 chemical reactions that turn carbon dioxide into fuels, uncovering shortcuts that could make the process far more efficient."
+        "detail": "Researchers engineered a plant immune receptor that offers a new defense for rice, wheat and barley crops."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Dogs, like people, link the word 'bouba' with round shapes and 'kiki' with spiky ones, a sign that this quirk of language runs deep in the mammal brain."
+        "detail": "Cobb County firefighters answered a call to help a veterinary hospital bring 15 puppies into the world."
       }
     ],
     "mood": [
-      "wonder",
-      "patience",
-      "curiosity",
-      "delight",
-      "timelessness"
+      "hopeful",
+      "awed",
+      "restored",
+      "warm",
+      "rested"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED exterior scene: thick golden-green sea haze fills the whole frame and rolls over the small stone quay of a sleepy Lycian fishing village on Turkey's southern coast, one bay along from Kekova. The fog glows pale yellow-gold where the morning sun burns through it, and it fades to fresh olive and sage green in the shadows. Balanced daylight, steady and warm, softly diffused so nothing is harsh. Dithered fog layers hide the far shore. A faint low island ridge shows through the haze as a soft green-gold silhouette. On the left, a weathered Lycian stone sarcophagus with a pointed lid stands half-submerged in the calm, glassy shallows, its reflection broken by gentle ripples. On the right, olive trees and whitewashed stone houses with terracotta roofs climb the hillside and fade into the mist. In the foreground on the worn quay, an elderly fisherman in a flat cap kneels beside a small girl. Together they study a curved terracotta amphora handle and shard pulled up in a net, and she holds it up to the glowing haze with wide-eyed wonder. Beside them sit three rough, pale grey stone net-weights with drilled holes, a tangle of drying net, and a cracked clay pot overflowing with green basil by a blue wooden door. Tiny wooden rowboats are barely visible, moored as soft shapes in the fog. Palette: golden yellow, pale butter haze, fresh leaf green, sage, warm terracotta accents, and limestone grey. The mood is quiet, curious, and quietly proud, as if the village is learning that its ancient waters hold the oldest story ever found.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-14.png"
+    "card_image": "dawn-card-2026-10-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION inside a wide, high-ceilinged university transplant surgery suite. A huge wall of frosted-glass light panels blazes behind everything in clear golden-yellow, fading to fresh spring green at the edges, and floods the room with balanced, steady daylight-bright warmth. The foreground is dark, crisp, blue-black silhouettes. In the center, a lone transplant surgeon in scrubs and a cap stands in profile, hands lowered, pausing at the edge of the operating table as if absorbing a big moment. Beside the surgeon, on a steel stand against the glow, a clear perfusion chamber holds a single pig kidney. It is half pale and glass-like, with icy silver-white frost along its edge, and it blushes toward living rose and amber at its core. Tiny golden pixel specks glow inside the tissue like waking embers, showing nanoparticles warming it from within. A curl of frost-white vapor spills from the chamber base. Along the left wall, a row of tall cryogenic freezers stands in silhouette with pale mist drifting from their lids, and a few small organ canisters sit waiting on a shelf. Thin tubes loop from the chamber, and a coiled copper induction ring wraps around it, both traced in sharp rim light. Rim-lit edges, a long soft shadow across the tiled floor, and a feeling of calm, confident dawn rather than a finish line.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-15.png"
   }
 }
