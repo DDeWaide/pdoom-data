@@ -1,109 +1,109 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:48:07.288624+00:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T14:42:36.901685+00:00",
   "doom": {
-    "percentage": 56.8,
-    "raw_percentage": 56.7,
+    "percentage": 57.0,
+    "raw_percentage": 57.4,
     "blind_scores": [
-      56.4,
-      56.7,
-      58.7
+      57.3,
+      57.4,
+      57.6
     ],
     "filter": {
-      "P": 12.53,
-      "K": 0.414,
-      "shock_p": 0.017,
-      "innovation": -0.2,
-      "prev": 56.9
+      "P": 12.07,
+      "K": 0.399,
+      "shock_p": 0.023,
+      "innovation": 0.6,
+      "prev": 56.8
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce. Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+    "driver": "Ship attack reports near Hormuz reach record high as oil exports slow. BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
     "category": "Geopolitics",
-    "blurb": "ENERGY TRUCE SNUFFED OUT AT RYAZAN",
-    "summary": "The 'energy ceasefire' lasted about as long as a phone battery. Ukrainian drones hit a Ryazan refinery while Kyiv finds its Starshield link throttled and its US intelligence thinned, and nobody can agree on who pulled the plug. Meanwhile the Pentagon is reportedly sizing up the 'mother of all bombs' for Iran, Houthis are pressing Saudi Arabia harder, and a tanker burns off Romania with eight crew missing, so this is less a quiet Thursday than a busy switchboard.",
+    "blurb": "A DOZEN SHIPS STRUCK! THE GULF ABLAZE!",
+    "summary": "Twelve vessels hit in a single week near Hormuz is no longer a shipping lane; it is a shooting gallery with a toll booth. Ukrainian strikes keep falling on Russian refineries, suspected Russian drones have now hit a tanker inside Romanian waters, and the Oklahoma rancher cursing diesel prices is feeling every one of them. Trump promising no nukes or ground troops in Iran is meant to reassure, which tells you strike options are very much on the table.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "AI-designed proteins that cut previously unbreakable bonds and a fresh round of on-device agent models show capability marching on, while the money behind it wobbles in a tech sell-off."
+        "detail": "Meta's Muse Spark Open, an 816B-parameter open-weight model, is now free for anyone to download, and AI is reportedly coming for physics after mathematics."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Eight states are suing OpenAI over child safety, and the White House reversed a livestreamed military execution only after an outcry, which is not a sign of a steady hand."
+        "detail": "The FTC is probing Anthropic and OpenAI even as the president calls AI fears a hoax, and Russia is back at the G20 table over European objections."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "The Russia-Ukraine energy truce has collapsed, US strike options on Iran include its largest non-nuclear bomb, Yemen fighting is intensifying, and suspected sabotage is hitting Starlink sites in NATO countries."
+        "detail": "Record ship attacks near Hormuz, Russian drones inside NATO territorial waters and Houthi missiles hitting Yemen's presidential palace add up to several active fronts at once."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "Experts say the recent reports of AI agents hacking stem from frontier labs skipping basic containment rather than models going rogue, which is not as comforting as it sounds."
+        "detail": "Wired reports that AI-enabled hacks are causing damage nobody is paying for, while zero-click spyware is now being delivered through ordinary targeted ads."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "AI-assisted Russian and Chinese cyberattacks on UK infrastructure, zero-click spyware delivered through online ads, and a recording device hidden in toilet paper inside OpenAI round out a very spy-heavy day."
+        "detail": "US-imposed Starlink speed limits are disrupting Ukrainian battlefield missions, which shows how one company's settings can tilt a war."
       }
     ],
     "mood": [
-      "brittle",
-      "volatile",
-      "paranoid",
-      "smoldering"
+      "besieged",
+      "oil-slicked",
+      "jittery",
+      "fraying",
+      "ominous"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the whole frame: the dead glass face of a diesel pump at a roadside fuel station on the flat Oka lowlands outside Ryazan, in the hour before a mid-October dawn. The environment exists only in the reflections and at the edges. A black, curved glass display panel dominates the center, its seven-segment price digits dark and dead, with a few stuck segments flickering faint ember red. Across the glass, a distorted reflection shows the world behind the camera: a thin line of bare birches, a rail spur, a power-line pylon, and a swollen blood-orange glow smeared along the horizon with a column of soot-black smoke bending the sky. Along the bottom edge, the heavy black rubber hose and a frost-rimed steel diesel nozzle hang in a scuffed cradle with chipped yellow-black hazard stripes, lit from below by the volcanic orange light. Wedged into the cradle beside the nozzle is a folded, damp sheet of newsprint carrying only a blurred blocky photo of a flame silhouette and abstract gray bars in place of text, one corner curling in the heat of the reflected glow. A hand-taped cardboard sign dangles from the pump, scrawled with a single crossed-out slash mark and no legible letters. The palette is blood orange and deep black only, with ember highlights on wet metal and cracked glass, crushed pitch-black shadows, and cool tones nearly extinguished. Chunky dithered pixel shading and hard stepped color bands.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-15.png"
+    "card_image": "doom-card-2026-10-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene at the small dhow harbor of Khasab on the Musandam Peninsula, Oman. Black limestone cliffs rise straight out of the town and fill the upper frame as a jagged silhouette, and their lower faces glow dull blood orange from sodium quay lamps. The camera sits low on the concrete quay and looks out across flat, oily black water toward the Strait of Hormuz. Far off on the dark horizon, a long, motionless row of tanker deck lights sits at anchor, all stuck in place, with a faint ember-orange smear low on the sky. Cool tones are nearly extinguished, and the only light is volcanic orange underlighting against deep black.\n\nIn the foreground, a storm-battered shipping container from a sunk feeder ship lies half-dragged onto the quay. It is rust-red with peeling paint, its doors hanging open, and spilled cargo and crushed cardboard spread around it. A salvage worker in a hi-vis vest and hard hat pushes a wide broom through the debris, throwing a long stretched shadow across the wet concrete. Beside him, a harbor tug idles at the quay edge with its orange work floodlights burning. Beyond it, a curved floating oil boom encloses a drifting slick of bobbing blue-grey and orange containers and plastic crates, lit from below like embers.\n\nSeveral wooden dhows with high bows are moored along the quay, their ropes coiled and their hulls scorched orange on one side by the lamplight. A single fisherman sits on an upturned crate mending a net, his back to the strait. Deep shadows dominate, with hard pixel-dithered gradients and a quiet, exhausted, waiting mood.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-16.png"
   },
   "dawn": {
-    "percentage": 43.2,
-    "driver": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life. Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findin",
+    "percentage": 43.0,
+    "driver": "This implant can restore sight for patients with macular degeneration. Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in Ju",
     "category": "Medicine",
-    "blurb": "ONE YEAR ON ICE, KIDNEYS WORKING",
-    "summary": "Kidneys chilled to -150 \u00b0C and kept in a freezer for a year have been rewarmed and shown to work again, the first time anyone has pulled this off. Scientists hope the technique will one day let donated organs be banked rather than raced against the clock, so more patients get the transplant they need. Elsewhere, Brazil's Congress voted for a 40-hour week that could give up to 30 million workers their weekends back, and firefighters in Cobb County, Georgia, helped a vet hospital deliver 15 puppies.",
+    "blurb": "SOME PATIENTS CAN READ AGAIN",
+    "summary": "A tiny retinal implant called Prima is giving vision back to people with age-related macular degeneration, a condition that affects more than five million people and that no treatment had ever reversed. Now approved in Europe, it turns a once-final diagnosis into something with a path forward. Medicine had more to offer today too: USC researchers found a way to grow a potentially endless supply of cancer-fighting immune cells, and a breast-milk-sugar probiotic sharply cut respiratory infections in formula-fed babies.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Frozen pig kidneys revived after a year in storage could open the door to organ banking for transplants."
+        "signal": "bright",
+        "detail": "Scientists traced how exercise reverses muscle aging to a single gene, DEAF1, opening a clear target for keeping bodies strong for longer."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "After talks in Beijing, China signaled that rare earths will keep flowing steadily to the European Union."
+        "detail": "Qatar announced a massive solar plant project in Lebanon, a major investment in clean power for Lebanese homes."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Brazil wrote a 40-hour week into its constitution and ended six-day workweeks for up to 30 million people."
+        "detail": "The Milwaukee Brewers rallied for a 6-4 comeback to sweep the NLCS and reach their first World Series since 1982."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Researchers engineered a plant immune receptor that offers a new defense for rice, wheat and barley crops."
+        "detail": "Researchers identified a 'Pac-Man' enzyme that helps bacteria devour certain plastics, a promising new tool for cleaning up plastic waste."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Cobb County firefighters answered a call to help a veterinary hospital bring 15 puppies into the world."
+        "detail": "A Rhode Island farmer grew a 3,156-pound pumpkin, beating a world record that had stood for barely a week."
       }
     ],
     "mood": [
+      "clear-eyed",
       "hopeful",
-      "awed",
-      "restored",
-      "warm",
-      "rested"
+      "restorative",
+      "quietly triumphant"
     ],
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION inside a wide, high-ceilinged university transplant surgery suite. A huge wall of frosted-glass light panels blazes behind everything in clear golden-yellow, fading to fresh spring green at the edges, and floods the room with balanced, steady daylight-bright warmth. The foreground is dark, crisp, blue-black silhouettes. In the center, a lone transplant surgeon in scrubs and a cap stands in profile, hands lowered, pausing at the edge of the operating table as if absorbing a big moment. Beside the surgeon, on a steel stand against the glow, a clear perfusion chamber holds a single pig kidney. It is half pale and glass-like, with icy silver-white frost along its edge, and it blushes toward living rose and amber at its core. Tiny golden pixel specks glow inside the tissue like waking embers, showing nanoparticles warming it from within. A curl of frost-white vapor spills from the chamber base. Along the left wall, a row of tall cryogenic freezers stands in silhouette with pale mist drifting from their lids, and a few small organ canisters sit waiting on a shelf. Thin tubes loop from the chamber, and a coiled copper induction ring wraps around it, both traced in sharp rim light. Rim-lit edges, a long soft shadow across the tiled floor, and a feeling of calm, confident dawn rather than a finish line.",
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-15.png"
+    "card_image": "dawn-card-2026-10-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from the paving stones of a small town park in clear midday daylight. A huge canopy of fresh spring-green maple leaves fills the upper frame, with shafts of clear golden-yellow light breaking through patches of pale sky. Dappled gold and green light falls evenly across the path, and the mood is steady and confident. In the middle distance, seen from below, an elderly woman sits upright on a wooden park bench. Her cardigan is mustard yellow and her silver hair is lit gold at the edges. She holds an open paperback high at chest level, and its pages are rows of tiny dark dashes. She wears slim glasses with a tiny camera lens on the bridge, and a thin cable runs from the temple down to a palm-sized handheld processor with three small buttons, resting under her thumb in her lap. A small, bright glint of golden light sits at the exact center of the page, where her gaze lands. Her chin is lowered and her mouth is parted in quiet wonder. At the bottom edge of the frame, a child's sneakers and a small hand rest on the bench slats beside her, and a folded crossword with half the squares filled sticks out of a canvas tote at her feet. A few green leaves drift down through the foreground. The bench legs and her shoes loom large at the bottom of the frame, and the canopy narrows toward the top. The palette is golden-yellow, fresh leaf green, cream, and warm tan, with only a touch of teal on the camera glasses and processor.",
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-16.png"
   }
 }
