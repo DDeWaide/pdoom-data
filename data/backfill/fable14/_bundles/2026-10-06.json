@@ -1,0 +1,693 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-17T13:04:06.698682+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20261006033320",
+    "NPR World": null,
+    "Al Jazeera": "20261006093455",
+    "MIT Technology Review": "20261006093306",
+    "Ars Technica": "20261006093127",
+    "The Verge AI": null,
+    "Wired": "20261006093305",
+    "CNN Top Stories": "20261006093553",
+    "Fox News Latest": "20261006093637",
+    "NPR News": "20261006094851",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Trump says 'threat' led US to pull bombers from RAF Fairford. The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.782777777777778,
+      "key": "4c919464cae4"
+    },
+    {
+      "text": "France braces for national day of school protests after injuries and mass arrests. France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.252777777777778,
+      "key": "a5f292a50d8e"
+    },
+    {
+      "text": "Saudi Arabia urged to spare man sentenced to death over Facebook post. Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.088333333333333,
+      "key": "b2cb7a08c349"
+    },
+    {
+      "text": "Separatist party projected to win Quebec election, adding new test to Canada's unity. The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.9261111111111111,
+      "key": "05d634e65d44"
+    },
+    {
+      "text": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?. The city's space boom raises questions about the role of the state in backing important industries.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.4366666666666665,
+      "key": "4b218bd427bf"
+    },
+    {
+      "text": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback. The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.5808333333333333,
+      "key": "805e74af590e"
+    },
+    {
+      "text": "Fort Hood shooter to be executed by firing squad, in first since World War Two. The execution of Nidal Malik Hasan will be the first military execution since 1961 and the first by firing squad since the end of World War Two.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.1822222222222223,
+      "key": "f37db1e1ef36"
+    },
+    {
+      "text": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies. Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.071666666666666,
+      "key": "4faa20e6f1f8"
+    },
+    {
+      "text": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa. For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.1775,
+      "key": "a45e7febe0bb"
+    },
+    {
+      "text": "Right-wing Flávio Bolsonaro wins first round of Brazil election. With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.235,
+      "key": "34f1f1920fbe"
+    },
+    {
+      "text": "Spain PM pins hopes on housing crisis to help win snap election. Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.041666666666666,
+      "key": "8a3194750dc6"
+    },
+    {
+      "text": "Samoa leader apologises for Nazi salute after video from 2007 emerges. Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
+      "url": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.9497222222222222,
+      "key": "b5010d25943c"
+    },
+    {
+      "text": "US 'watching closely' after plague researcher dies in Russia. Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.991944444444444,
+      "key": "29dc110c4fa6"
+    },
+    {
+      "text": "Yemeni military says it has 'secured' Red Sea waterway. Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.4722222222222223,
+      "key": "ef2ef407bad6"
+    },
+    {
+      "text": "A simple guide to the US midterms. US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.872777777777778,
+      "key": "7defd7c46440"
+    },
+    {
+      "text": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it. Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.1613888888888889,
+      "key": "53c25c38f372"
+    },
+    {
+      "text": "Palestine weekly: Olive harvest opens under assault. Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.2127777777777778,
+      "key": "adf0b0a02656"
+    },
+    {
+      "text": "South Korea considers steps to force North Korea apology for DMZ mine blast. Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6052777777777778,
+      "key": "fbb0b6677270"
+    },
+    {
+      "text": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000. Myanmar President Min Aung Hlaing to visit Kuala Lumpur &#039;in the next few days&#039;, Anwar Ibrahim says.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7936111111111112,
+      "key": "9e818daa7a36"
+    },
+    {
+      "text": "Gaza woman rescues books from rubble to keep education alive. Amid the destruction of Gaza’s schools and universities, Niveen Al-Gharabli has built a makeshift book stall.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8633333333333333,
+      "key": "a44fe59056ae"
+    },
+    {
+      "text": "How hunger is devastating Yemen’s children. Al Jazeera travels to Yemen&#039;s displacement camps to measure the toll of malnutrition on the country&#039;s children.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/malnutrition-among-yemens-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8791666666666667,
+      "key": "cf94967633fb"
+    },
+    {
+      "text": "Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns. Salman Agha axed before T20 home series against Sri Lanka, but Shaheen Shah Afridi is retained as ODI captain.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0747222222222221,
+      "key": "4ad77532b1d5"
+    },
+    {
+      "text": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?. The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.1177777777777778,
+      "key": "b2f9a2a06cc1"
+    },
+    {
+      "text": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team. The 37-year-old is longest-serving cricket captain, among both men and women, to have captained in over 150 T20I games.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7519444444444445,
+      "key": "5ddc4ababdf1"
+    },
+    {
+      "text": "Are pets replacing human babies?. Why are birth rates declining while pet ownership is on the rise?",
+      "url": "https://www.aljazeera.com/video/money-works/2026/10/6/are-pets-replacing-human-babies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9319444444444445,
+      "key": "7c8433f334a4"
+    },
+    {
+      "text": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan. Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.198611111111111,
+      "key": "0ebebe940a86"
+    },
+    {
+      "text": "Trump jokes about letting Iran bomb Los Angeles and San Diego. At a campaign rally in Nebraska, US President Donald Trump joked about letting Iran bomb Los Angeles and San Diego.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3819444444444446,
+      "key": "d0046b396640"
+    },
+    {
+      "text": "Gauff in racial abuse controversy at China Open after replayed point. Coco Gauff was targeted online after stopping play during a crucial point in the first set against China’s Sun Xinran.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.405,
+      "key": "578c479e9ceb"
+    },
+    {
+      "text": "Southeast Asia’s energy chiefs meet against backdrop of Iran war. ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.",
+      "url": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4522222222222223,
+      "key": "b160223d0cf1"
+    },
+    {
+      "text": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?. Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0283333333333333,
+      "key": "d9cf391e061b"
+    },
+    {
+      "text": "Connecting AI agents to enterprise knowledge. For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situation",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 17.753888888888888,
+      "key": "ae5e4a6d6312"
+    },
+    {
+      "text": "Bringing predictive analytics to the agentic AI era. In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomo",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 20.059444444444445,
+      "key": "c52140f6541e"
+    },
+    {
+      "text": "The Download: AI’s popularity paradox and EmTech Future 2026. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.385,
+      "key": "318ed36dfeb3"
+    },
+    {
+      "text": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of. Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.081111111111111,
+      "key": "cf8c2aba668a"
+    },
+    {
+      "text": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap. Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.7275,
+      "key": "4a7ecf82dcbb"
+    },
+    {
+      "text": "Texas city demands $2M for public records on Flock usage. Prices of public records tracking cops' use of Flock go up as backlash swells.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.004166666666666,
+      "key": "e1aaa0b6b94d"
+    },
+    {
+      "text": "Command-line tool quickly removes Apple Intelligence from macOS 27. The tool can free up over 12GB of storage.",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.278611111111111,
+      "key": "3244191fd4e8"
+    },
+    {
+      "text": "Controlling the brain with light earns a physiology Nobel. The entire field of optogenetics traces back to light-seeking algae.",
+      "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.533333333333333,
+      "key": "1a7c253638e5"
+    },
+    {
+      "text": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps. Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.17111111111111,
+      "key": "82200260cb11"
+    },
+    {
+      "text": "F1 in Bahrain... in Malaysia: The race needed a software update to start. A software bug waylaid half the field and required a race reboot.",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.372222222222224,
+      "key": "674eb75dd61e"
+    },
+    {
+      "text": "Mass quarantine issued in Russia after unexplained death of plague researcher. Unconfirmed reports have suggested there was a laboratory accident.",
+      "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.319444444444443,
+      "key": "8162dd992faa"
+    },
+    {
+      "text": "AI glasses face their first major government crackdown. Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 19.865833333333335,
+      "key": "c8331e7958db"
+    },
+    {
+      "text": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches. Ars Technica's guide to new keyboard sensing technologies.",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.512777777777778,
+      "key": "60f63ae160f1"
+    },
+    {
+      "text": "Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ. Bose’s sequel to the QuietComfort Headphones is incredibly comfortable and has excellent noise-canceling, but those traits are no longer enough to beat the competition.",
+      "url": "https://www.wired.com/review/bose-quietcomfort-second-generation/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.05138888888888889,
+      "key": "137420a7bf71"
+    },
+    {
+      "text": "I Found The Best Amazon Prime Day Headphone Deals (2026). I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.095,
+      "key": "cc40fb4b2b0f"
+    },
+    {
+      "text": "The Best Prime Day TV Deals (2026). Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
+      "url": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.22527777777777777,
+      "key": "3f2e63d851c0"
+    },
+    {
+      "text": "Amazon Prime Day Deals Under $50 in October 2026. Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
+      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.2658333333333333,
+      "key": "98a7e0e68d7d"
+    },
+    {
+      "text": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day. Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3794444444444444,
+      "key": "650fcb20a418"
+    },
+    {
+      "text": "The Best Prime Day Deals on Our Favorite Apple Products (October 2026). We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.48388888888888887,
+      "key": "24e2bc2055c5"
+    },
+    {
+      "text": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026). Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.9283333333333333,
+      "key": "bc891fe95eba"
+    },
+    {
+      "text": "80 Best Prime Day Deals We’re Shopping This October (2026). Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 1.3897222222222223,
+      "key": "da60985f524e"
+    },
+    {
+      "text": "Nomad Goods Promo Codes: Get 25% Off in October 2026. Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in October 2026.",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "d8e7ade4e417"
+    },
+    {
+      "text": "Priceline Promo Codes & Coupons: 10% Off October 2026. Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "1de58de64953"
+    },
+    {
+      "text": "Sportsman's Warehouse Promo Code: Save in October 2026. Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in October 2026.",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "c754d68e461f"
+    },
+    {
+      "text": "KitchenAid Promo Codes: Save Up to 20%. Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "cb0492ae47f2"
+    },
+    {
+      "text": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026. Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "1036a9bbfa2f"
+    },
+    {
+      "text": "25% Off Adidas Promo Code | October 2026. Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "8481879c8084"
+    },
+    {
+      "text": "HostGator Coupon Codes: 76% Off Hosting in October 2026. Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.551388888888889,
+      "key": "e814bf3329c5"
+    },
+    {
+      "text": "Democrats think a blue wave is building. Here are 3 forces that could stop it. Chuck Schumer says Democrats have &quot;the wind in our sails&quot; ahead of the midterms, but polling errors and GOP money could upend the Senate map.",
+      "url": "https://www.foxnews.com/politics/democrats-think-blue-wave-building-3-forces-could-stop-it",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5963888888888889,
+      "key": "4f45cf4154e4"
+    },
+    {
+      "text": "HUGH HEWITT: Legacy media left half of America out. Fox News let them in. Rush Limbaugh built talk radio&apos;s foundation, and Rupert Murdoch proved the same concept for cable news, reshaping conservative media for decades.",
+      "url": "https://www.foxnews.com/opinion/hugh-hewitt-legacy-media-left-half-america-fox-news-let-them",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5977777777777777,
+      "key": "40b6e3b678df"
+    },
+    {
+      "text": "LIZ PEEK: A blue wave? The liberal media wants one, but voters might disagree. Susan Collins leads in Maine Senate polls despite Democrats&apos; pickup hopes, while Abdul El-Sayed&apos;s controversial past clouds Michigan&apos;s tight race.",
+      "url": "https://www.foxnews.com/opinion/liz-peek-blue-wave-liberal-media-wants-voters-might-disagree",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6036111111111111,
+      "key": "15e70a54b364"
+    },
+    {
+      "text": "ELI STEELE: The terror of being called racist is crushing free speech in America. Shelby Steele&apos;s son, filmmaker Eli Steele, explores how the terror of being called racist silenced a generation and fueled the diversity industry&apos;s unchecked power.",
+      "url": "https://www.foxnews.com/opinion/eli-steele-terror-called-racist-crushing-free-speech-america",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6783333333333333,
+      "key": "551dbf85c4d9"
+    },
+    {
+      "text": "NYPD detective released from hospital after being stabbed multiple times in Bronx. New York City Police Department Detective Jose Mercedes walked out of Jacobi Medical Center after being stabbed multiple times in a Bronx robbery.",
+      "url": "https://www.foxnews.com/us/nypd-detective-released-hospital-stabbed-multiple-times-bronx",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.513611111111111,
+      "key": "d5ca593c2d48"
+    },
+    {
+      "text": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers. A convicted felon from Massachusetts pleaded guilty to illegally importing plutonium from Russia and selling it to customers in the U.S. and abroad.",
+      "url": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.989444444444445,
+      "key": "327e0ea0fe9c"
+    },
+    {
+      "text": "Falcons turn primetime doubters into believers behind Bijan Robinson's back-to-back masterpieces. All the haters who didn&apos;t want to watch the Atlanta Falcons in three straight primetime games need to change their minds, Bijan Robinson is a must-watch.",
+      "url": "https://www.foxnews.com/outkick-sports/falcons-turn-primetime-doubters-believers-bijan-robinson-back-to-back-masterpieces",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.584444444444444,
+      "key": "c151c09bd8f3"
+    },
+    {
+      "text": "Rays capitalize on four Yankees errors to take commanding 2-0 ALDS lead. Ben Rice&apos;s two-homer effort wasn&apos;t enough as three first-inning errors and a bases-loaded failure left the Yankees reeling in a 5-2 ALDS loss.",
+      "url": "https://www.foxnews.com/outkick-sports/rays-capitalize-four-yankees-errors-take-commanding-2-0-alds-lead",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.829722222222222,
+      "key": "1551525c5063"
+    },
+    {
+      "text": "Nobu chef killed after teen driver crashes into parked car in California. A longtime chef at Nobu Malibu was napping in his parked car before his shift when a speeding 16-year-old slammed his Range Rover into his sedan.",
+      "url": "https://www.foxnews.com/us/nobu-chef-killed-teen-driver-crashes-parked-car-california",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.284722222222222,
+      "key": "92bc68f0457d"
+    },
+    {
+      "text": "White Sox ride another dramatic comeback win to beat Guardians and take commanding 2-0 ALDS lead. Braden Montgomery&apos;s clutch double and Grant Taylor&apos;s heroic relief work lifted the Chicago White Sox to a 4-3 win over the Cleveland Guardians.",
+      "url": "https://www.foxnews.com/outkick-sports/white-sox-ride-dramatic-comeback-win-beat-guardians-take-commanding-2-0-alds-lead",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.252777777777778,
+      "key": "ddcc1f03106c"
+    },
+    {
+      "text": "Dennis Hastert, longest-serving Republican House Speaker and convicted child molester, dies at 84. The Mark Foley scandal nearly ended Dennis Hastert&apos;s career, but federal investigators later uncovered far darker secrets about the former House Speaker.",
+      "url": "https://www.foxnews.com/politics/dennis-hastert-longest-serving-republican-house-speaker-convicted-child-molester-dies-84",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.386388888888888,
+      "key": "fa967936fd1b"
+    },
+    {
+      "text": "Is the Dodgers dynasty already in jeopardy after brutal game two NLDS loss to Atlanta Braves?. Ray Kerr&apos;s shutout innings against the Dodgers in NLDS Game 2 show why even a Major League Baseball superteam can&apos;t guarantee a World Series repeat.",
+      "url": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-jeopardy-brutal-game-two-nlds-loss-atlanta-braves",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.8225,
+      "key": "f2bd500fc67d"
+    },
+    {
+      "text": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns. Vladimir Putin faces compounding crises as a Siberian plague researcher&apos;s death adds to the Ukraine war toll and Russia&apos;s faltering economy.",
+      "url": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.0725,
+      "key": "ea51bba2809f"
+    },
+    {
+      "text": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre. President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+      "url": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.362222222222222,
+      "key": "8da50caa2822"
+    },
+    {
+      "text": "Privacy fears push vacation spot to consider ban on favorite accessory for travelers. AI smart glasses at beaches, parks, museums and shopping centers could be banned in Norway over growing concerns about the hidden recording of citizens.",
+      "url": "https://www.foxnews.com/travel/privacy-fears-push-vacation-spot-consider-ban-favorite-accessory-travelers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.467222222222222,
+      "key": "4bc66c9d3b01"
+    },
+    {
+      "text": "Disney, ABC battle Trump's FCC in court over free speech protections. President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View, accusing it of being unfair.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5308333333333334,
+      "key": "780c78496930"
+    },
+    {
+      "text": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.. The Paramount and Warner Bros. merger has survived court challenges, public protests and regulatory scrutiny. Now, the Hollywood heavyweight, named Skydance, begins operating.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "879c3b658d9e"
+    },
+    {
+      "text": "FBI's spy hunting squads hit with deep cuts even as foreign espionage threats soar. The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed.",
+      "url": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "1fe9894d12e6"
+    },
+    {
+      "text": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries. Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "3f0ae9917e64"
+    },
+    {
+      "text": "Democrats' advantage is clear with less than a month to go in the midterm elections. President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "5e90822eb65d"
+    },
+    {
+      "text": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike. Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "8d8ad90f1fd6"
+    },
+    {
+      "text": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it. The new field of \"smoke ecology\" examines how wildfire smoke perturbs wild places and animals — and what might be done to prevent its worst mayhem.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8141666666666667,
+      "key": "d58f937fde19"
+    },
+    {
+      "text": "Morning news brief. With just weeks to go, a look at where the midterm elections stand, Saudi-backed forces in Yemen launch a major counter-offensive, Paramount and Warner Bros. begin operations after merger.",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9533333333333334,
+      "key": "cec2ce8b69d8"
+    },
+    {
+      "text": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86. Jim Bakker, along with his first wife Tammy Faye built an evangelical empire around the hugely successful \"The PTL Club\" TV show, only to lose it all over a sex scandal and financial crimes.",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.854722222222222,
+      "key": "81236899e0ad"
+    },
+    {
+      "text": "The iconic Arthur Read made his TV debut 30 years ago. The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996.",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.380555555555556,
+      "key": "455528158b2e"
+    }
+  ],
+  "contexts": {}
+}

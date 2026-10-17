@@ -1,0 +1,781 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-17T13:04:38.848595+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20261007075734",
+    "NPR World": null,
+    "Al Jazeera": "20261007095427",
+    "MIT Technology Review": "20261007094431",
+    "Ars Technica": "20261007094645",
+    "The Verge AI": null,
+    "Wired": "20261007095841",
+    "CNN Top Stories": "20261007095942",
+    "Fox News Latest": "20261007095354",
+    "NPR News": "20261007095839",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say. Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.8366666666666667,
+      "key": "56a2bafdbced"
+    },
+    {
+      "text": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild. Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.921111111111111,
+      "key": "7702a72cd089"
+    },
+    {
+      "text": "What is pneumonic plague and how does it spread?. The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.37,
+      "key": "9dc064744b50"
+    },
+    {
+      "text": "Ex-US spy who stashed gold bars in his home admits to $200m scam. David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.063611111111111,
+      "key": "8ea3c1720440"
+    },
+    {
+      "text": "A beautiful Himalayan bird is changing its voice due to human activity, research shows. A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.830555555555556,
+      "key": "1820d93fe239"
+    },
+    {
+      "text": "Former Australian bishop jailed for sexually abusing young men. The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.5908333333333333,
+      "key": "4d2cc462a80c"
+    },
+    {
+      "text": "Tear gas in Paris and Marseille as school protests grow across France. Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.904166666666667,
+      "key": "feb5027039b8"
+    },
+    {
+      "text": "Pornhub returns to Australia but only for adults with Apple devices. The world's most popular porn site went dark in March in Australia due to age verification laws.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.2930555555555556,
+      "key": "1348beb0a738"
+    },
+    {
+      "text": "Former German spy chief arrested for espionage and treason. August Hanning is accused of obtaining classified information for a foreign power.",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 21.864444444444445,
+      "key": "7bac291f4c9d"
+    },
+    {
+      "text": "'Ghost particles' from space telescope wins physics Nobel. Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 20.554166666666667,
+      "key": "2b0e19c2048d"
+    },
+    {
+      "text": "White House defends Trump comment to let Iran 'take out' LA and San Diego. Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.700833333333334,
+      "key": "621db8e9fefb"
+    },
+    {
+      "text": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo. Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.660555555555556,
+      "key": "6267e80ed698"
+    },
+    {
+      "text": "The Republican candidates walking a Trump tightrope. Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.953611111111111,
+      "key": "962e53d65590"
+    },
+    {
+      "text": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws. The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.2925,
+      "key": "0301ba404ce6"
+    },
+    {
+      "text": "From films to streaming prices - how the Warner Bros deal could affect you. The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.243333333333334,
+      "key": "d9d8864e7f91"
+    },
+    {
+      "text": "France halts police use of stun grenades at student protests. Prime Minister Sebastien Lecornu to make public address after thousands rally to demand more funding for education.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.2125,
+      "key": "18c34af53215"
+    },
+    {
+      "text": "What does a year-long ceasefire in Gaza look like?. Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9875,
+      "key": "1b17c3690f6b"
+    },
+    {
+      "text": "Fear and a far-right lurch: How October 7 reshaped Israel. Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0177777777777777,
+      "key": "191b504c1a48"
+    },
+    {
+      "text": "Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi. Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.1927777777777777,
+      "key": "b5185e40d78f"
+    },
+    {
+      "text": "Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US. Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3177777777777777,
+      "key": "c7f66bbb7fb2"
+    },
+    {
+      "text": "‘We’re short of resources’: France’s student protesters, in their own words. French students and teachers protesting school conditions spoke with Al Jazeera about their demands.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3697222222222223,
+      "key": "6d0da2ff6cfb"
+    },
+    {
+      "text": "Three years of Israel’s mass dispossession of West Bank Palestinians. Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
+      "url": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5355555555555556,
+      "key": "193da1a8f596"
+    },
+    {
+      "text": "Palestine: The Lost Team. The forgotten story of the football team that played as Palestine in 1934 — without Arab Palestinian players.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.6236111111111111,
+      "key": "551fd8e494dc"
+    },
+    {
+      "text": "Israeli troops seen smashing memorial in occupied West Bank. An Israeli soldier was spotted smashing a memorial to Palestinians during raids in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.636111111111111,
+      "key": "60d8099e910e"
+    },
+    {
+      "text": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations. Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.076388888888889,
+      "key": "85f454806644"
+    },
+    {
+      "text": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh. Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.221111111111111,
+      "key": "c009dd12bc1c"
+    },
+    {
+      "text": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?. Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.3425,
+      "key": "964c3d3a1405"
+    },
+    {
+      "text": "How has Israel’s genocide changed Gaza?. Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4525,
+      "key": "046bee9b0ba9"
+    },
+    {
+      "text": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine. Ukraine&#039;s air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.5836111111111113,
+      "key": "68625b1a8883"
+    },
+    {
+      "text": "Yemen’s displaced children dream of returning to school. More than 137,000 students in conflict zones lose access to education, deepening Yemen&#039;s already dire schooling crisis.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.645277777777778,
+      "key": "bbca0b5f82ac"
+    },
+    {
+      "text": "Weight-loss drugs show signs of slowing biological aging, say drugmakers. Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 17.065277777777776,
+      "key": "9073963d8636"
+    },
+    {
+      "text": "The Download: 10 climate tech companies to watch. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes ",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.575277777777778,
+      "key": "fc2880b5b9f6"
+    },
+    {
+      "text": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "c8c4da58bced"
+    },
+    {
+      "text": "Here’s how our climate team picked 10 promising companies to watch. As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "f3bee9207e53"
+    },
+    {
+      "text": "WeLion New Energy and its semi-solid-state batteries. WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, mor",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "73ee93f8a637"
+    },
+    {
+      "text": "Form Energy and its iron batteries. Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season,",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "8f4ea0a745e6"
+    },
+    {
+      "text": "X-energy and its helium-cooled nuclear reactors. X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry ",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "148dd747668a"
+    },
+    {
+      "text": "Energy Dome and its carbon dioxide batteries. There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar and onshore wind pow",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "23a93e611d7a"
+    },
+    {
+      "text": "Brimstone and its one-stop process for making cleaner cement and critical minerals. Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, al",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "b3cb6486cabc"
+    },
+    {
+      "text": "WaveSave and its portable rubber dam. As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it success",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.15861111111111,
+      "key": "395b19b71f83"
+    },
+    {
+      "text": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says. Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.259722222222223,
+      "key": "8119750a00b7"
+    },
+    {
+      "text": "OpenAI will watermark ChatGPT outputs by default—but only in the EU. Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.936944444444444,
+      "key": "c0d02e848b4f"
+    },
+    {
+      "text": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”. A combined service could lead to higher prices.",
+      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.2425,
+      "key": "307b6b98eb8d"
+    },
+    {
+      "text": "It looks like the Atlantic storm season may finally produce a hurricane. To date, this Atlantic tropics year has been exceptionally quiet.",
+      "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.848611111111111,
+      "key": "6d96eef3ae64"
+    },
+    {
+      "text": "Hackers obtain counterfeit TLS certificates for Google and other large services. Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.425277777777778,
+      "key": "5a10dda6c316"
+    },
+    {
+      "text": "Paramount completes $111B Warner merger, creating “Skydance” behemoth. Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.216944444444444,
+      "key": "816a8f9c6155"
+    },
+    {
+      "text": "Support Ars and get a better reading experience in return. ArsPro gives you more ways to read while directly supporting our journalism.",
+      "url": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.425,
+      "key": "4005253c81c2"
+    },
+    {
+      "text": "Amazon kills Alexa’s ability to control Echo speakers' AUX input. Amazon hasn't made an Echo with a 3.5mm port in six years.",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.724722222222223,
+      "key": "68f45c168145"
+    },
+    {
+      "text": "Neutrino physicist wins 2026 Nobel Physics Prize. Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
+      "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.891111111111112,
+      "key": "6f50a9b29fc1"
+    },
+    {
+      "text": "Googlebook \"Better Together\" phone features don't work with Samsung at launch. Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
+      "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.51527777777778,
+      "key": "a6da549dd939"
+    },
+    {
+      "text": "Why is NASA bringing 7,500 contractors back to work as civil servants?. \"The administrator's directive is a coherent and necessary vision for the future.\"",
+      "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.77861111111111,
+      "key": "c59268ced3b0"
+    },
+    {
+      "text": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow. The Pebble Flow has a 45 kWh LFP battery and can even charge an EV.",
+      "url": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.388055555555557,
+      "key": "db87d026db72"
+    },
+    {
+      "text": "Big Oil asks Supreme Court to kill climate lawsuits before trial. Oil companies say federal law should block state climate deception claims.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 20.283055555555556,
+      "key": "1b83e0af5392"
+    },
+    {
+      "text": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic. The reports of OpenAI agents harming third-party sites keep coming.",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 21.414444444444445,
+      "key": "52b50217becf"
+    },
+    {
+      "text": "Licensing costs driving 90 percent of VMware users to explore options: Survey. Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 21.770555555555557,
+      "key": "0a4af117a56d"
+    },
+    {
+      "text": "Best Prime Day Laptop Deals: Save Up to $500 (2026). My favorite MacBook, gaming PC, and budget laptop are all on sale for Prime Day, some at the lowest prices I’ve seen in months.",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.6122222222222222,
+      "key": "f8cd85952f7f"
+    },
+    {
+      "text": "The 30 Best Prime Day Deals Under $100 (2026). Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.8419444444444445,
+      "key": "1fb11367b602"
+    },
+    {
+      "text": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily. To follow Elon Musk’s America PAC money, WIRED created a live-updating tracker that highlights the trillionaire’s overall influence on November’s elections.",
+      "url": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.9780555555555556,
+      "key": "041fa0b64699"
+    },
+    {
+      "text": "Your Next Great Read Might Be Certified ‘Organic’. Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 1.4780555555555555,
+      "key": "3e9224dc760a"
+    },
+    {
+      "text": "117 Best Prime Day Deals We’re Shopping This October (2026). Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 1.6730555555555555,
+      "key": "48086d82ea25"
+    },
+    {
+      "text": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026). Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.1425,
+      "key": "9acde3224dbc"
+    },
+    {
+      "text": "7 Best Prime Day Kindle Deals (2026): Save Up to $150. Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
+      "url": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.3963888888888887,
+      "key": "77664467620a"
+    },
+    {
+      "text": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026). Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.395833333333334,
+      "key": "8b631627c296"
+    },
+    {
+      "text": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01. Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen.",
+      "url": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.978055555555555,
+      "key": "411bcc2e7fe2"
+    },
+    {
+      "text": "You Probably Aren’t Going to Get the Plague. The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
+      "url": "https://www.wired.com/story/what-we-know-about-plague-russia/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.8225,
+      "key": "ee7879e34615"
+    },
+    {
+      "text": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026). Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
+      "url": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.466666666666667,
+      "key": "fc2cec0196bc"
+    },
+    {
+      "text": "The Best Anti–Prime Day Deals for Amazon Haters. Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites.",
+      "url": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.68388888888889,
+      "key": "337743761c11"
+    },
+    {
+      "text": "We’re Tracking October Prime Day Live (2026). Our team is tracking Prime Day deals in real time. Here’s what’s worth buying today.",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.182777777777778,
+      "key": "7ac37fda9168"
+    },
+    {
+      "text": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026). I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation.",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-10-06-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.865277777777777,
+      "key": "4b263ab2d7ee"
+    },
+    {
+      "text": "Ex-Obama spy chief prepped for anti-Trump trial by Biden-era special counsel's team, new records reveal. Declassified FBI memo reveals Jack Smith&apos;s team met with Trump-critic and former CIA director John Brennan to discuss Trump&apos;s case, despite Smith telling GOP lawmakers he had never met Brennan before.",
+      "url": "https://www.foxnews.com/politics/ex-obama-spy-chief-prepped-anti-trump-trial-biden-era-special-counsels-team-records-reveal",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.3875,
+      "key": "c8e25c0a7627"
+    },
+    {
+      "text": "Congress killed the penny — now it's coming for the 13-cent nickel. The Common Cents Act already targets the penny, but lawmakers now want the Treasury Department to find cheaper ways to produce the nickel coin.",
+      "url": "https://www.foxnews.com/politics/congress-killed-penny-now-its-coming-13-cent-nickel",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.3888888888888889,
+      "key": "bb7f6e578d6f"
+    },
+    {
+      "text": "A blue wave in governors' mansions could hurt families more than a blue Congress. Republicans risk losing their governor majority for the first time since 2011, with five toss-up races and Democratic momentum in key states.",
+      "url": "https://www.foxnews.com/opinion/blue-wave-governors-mansions-hurt-families-more-than-blue-congress",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8825,
+      "key": "60c911ab6ccf"
+    },
+    {
+      "text": "Eco-warriors want to turn up the heat on your wallet to fund their climate agenda. Climate lawfare could raise household energy costs by nearly $1,500 per year as lawsuits, climate superfund laws and legislation target energy companies.",
+      "url": "https://www.foxnews.com/opinion/eco-warriors-turn-up-heat-wallet-fund-climate-agenda",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8838888888888888,
+      "key": "7d4207414814"
+    },
+    {
+      "text": "'I am Omer': Former Hamas hostage reflects on surviving 505 harrowing days in captivity. Omer Shem Tov revealed the 505 days he spent as a Hamas hostage in Gaza, from total darkness in a tiny cage to refusing orders under threat of death.",
+      "url": "https://www.foxnews.com/media/i-am-omer-former-hamas-hostage-reflects-surviving-505-harrowing-days-captivity",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8911111111111111,
+      "key": "9d162b234e44"
+    },
+    {
+      "text": "DR MARC SIEGEL: I went looking for miracles after Oct. 7. I found angels hiding in plain sight. An Israeli medic&apos;s wrong test answer about combat gauze became the miracle that saved a soldier after shrapnel severed his femoral artery in Khan Yunis. Angels are among us.",
+      "url": "https://www.foxnews.com/opinion/dr-marc-siegel-looking-miracles-oct-7-found-angels-hiding-plain-sight",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9741666666666666,
+      "key": "3532779750e5"
+    },
+    {
+      "text": "Federal judge blocks Trump administration fines of up to $1.8M for migrants. A federal judge blocked the Trump administration&apos;s migrant fines of up to $1.8 million, ruling DHS unlawfully imposed civil penalties for ignoring final deportation orders.",
+      "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.1619444444444444,
+      "key": "d23792342d59"
+    },
+    {
+      "text": "Padres hold off Brewers in must-win Game 3 to survive elimination and force Game 4 at Petco Park. Michael King stranded the tying run in the ninth as the San Diego Padres staved off elimination with a 4-3 NLDS Game 3 win over the Brewers.",
+      "url": "https://www.foxnews.com/outkick-sports/padres-hold-off-brewers-must-win-game-3-survive-elimination-force-game-4-petco-park",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.6433333333333335,
+      "key": "986fa1f0350c"
+    },
+    {
+      "text": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'. French Prime Minister Sébastien Lecornu defended the police response after a teen lost his hand and another was blinded amid student protests.",
+      "url": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.740833333333334,
+      "key": "1ac68ec7522d"
+    },
+    {
+      "text": "Former German spy chief arrested on suspicion of espionage, attempted treason. August Hanning, 80, who led Germany&apos;s BND from 1998 to 2005, faces espionage and attempted treason charges tied to roughly 2,000 classified documents.",
+      "url": "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.050833333333333,
+      "key": "09bf2c6f5ac5"
+    },
+    {
+      "text": "Man pleads guilty to 2023 killing of Lauren Heike on Phoenix hiking trail. Zion Teasley admitted to killing Lauren Heike, whose body was found with 15 stab wounds along a north Phoenix, Arizona, community trail in 2023.",
+      "url": "https://www.foxnews.com/us/man-pleads-guilty-2023-killing-lauren-heike-phoenix-hiking-trail",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.641111111111111,
+      "key": "b738f8dbce8b"
+    },
+    {
+      "text": "Closer Mason Miller hits paternity list 45 minutes before the Padres' season is on the line. Mason Miller lands on MLB&apos;s paternity list before a win-or-go-home Game 3, leaving the Padres without their top reliever in an elimination game.",
+      "url": "https://www.foxnews.com/outkick-sports/closer-mason-miller-hits-paternity-list-45-minutes-padres-season-line",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.913611111111111,
+      "key": "133aefb01bbc"
+    },
+    {
+      "text": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota. Justin Ellis scored the lone goal as the United States beat Canada 1-0, capping an undefeated friendly stretch under Mauricio Pochettino.",
+      "url": "https://www.foxnews.com/outkick-sports/usmnt-adds-sports-wins-over-canada-year-international-friendly-victory-minnesota",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.4255555555555555,
+      "key": "c09248e13926"
+    },
+    {
+      "text": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa. The U.S. military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday.",
+      "url": "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.638333333333334,
+      "key": "c696729549d1"
+    },
+    {
+      "text": "Debra Messing says cost of living, subway violence pushed her to back Trump-endorsed Republican. Debra Messing explains why affordability, public safety and congestion pricing concerns led her to back Republican Bruce Blakeman for governor.",
+      "url": "https://www.foxnews.com/entertainment/debra-messing-cost-living-subway-violence-pushed-back-trump-endorsed-republican",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.735555555555556,
+      "key": "b56183ff00bc"
+    },
+    {
+      "text": "Over 1,000 children are buried at juvenile detention centers nationwide. Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "dbb2b85ea5b5"
+    },
+    {
+      "text": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car. It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "2b561949f15b"
+    },
+    {
+      "text": "BTS frontman RM is showing his art collection. Fans are flocking to see it. The pop superstar is showing art from his personal collection for the first time. The San Francisco Museum of Modern Art is packed with fans.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5986317/bts-rm-sfmoma-korean-art-san-francisco",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "c7f0ebab90e7"
+    },
+    {
+      "text": "An early flu season means it might be time to think about a flu shot. Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "b29ad4628a11"
+    },
+    {
+      "text": "'Medicare for All' message attracts midterm voters buckling under medical bills. Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "56e90cfbc52c"
+    },
+    {
+      "text": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive. Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "5b36b8c7867f"
+    },
+    {
+      "text": "5 things civil rights data says about public schools. The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "5d1a5e8ac420"
+    },
+    {
+      "text": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks. On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "cca9de0e4236"
+    },
+    {
+      "text": "Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge. The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there's bipartisan support for a multiuse trail that would connect Ohio and West Virginia.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9775,
+      "key": "d37624fe69f8"
+    },
+    {
+      "text": "Morning news brief. The investigation continues into whether Iran is linked it an incident at a U.K. air base, thousands join student-led protest in France, former German spy chief to face charges including espionage.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5988272/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.2297222222222222,
+      "key": "c32a4ebaee06"
+    }
+  ],
+  "contexts": {}
+}

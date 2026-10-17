@@ -1,0 +1,741 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-17T13:06:19.098656+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 9,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20261010081854",
+    "NPR World": "20261010121542",
+    "Al Jazeera": "20261010093449",
+    "MIT Technology Review": "20261010095852",
+    "Ars Technica": "20261010094602",
+    "The Verge AI": null,
+    "Wired": "20261010095532",
+    "CNN Top Stories": "20261010094820",
+    "Fox News Latest": "20261010095416",
+    "NPR News": "20261010094432",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin. Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.676111111111111,
+      "key": "7b71c2725026"
+    },
+    {
+      "text": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices. The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.80888888888889,
+      "key": "03319031b9da"
+    },
+    {
+      "text": "Three men found guilty of murdering Australian brothers and US friend in Mexico. Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.384166666666667,
+      "key": "91427d65bb70"
+    },
+    {
+      "text": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says. The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.7330555555555556,
+      "key": "8766e911ac73"
+    },
+    {
+      "text": "Hurricane Isaias downgraded after making landfall in Florida. Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.4105555555555556,
+      "key": "941b9be70de1"
+    },
+    {
+      "text": "US country music star Ella Langley cancels show due to 'security threat'. Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.266666666666667,
+      "key": "f5f9986448a2"
+    },
+    {
+      "text": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings. Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.873333333333333,
+      "key": "a43992af0b8c"
+    },
+    {
+      "text": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize. The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.195277777777778,
+      "key": "2e72aaa136c5"
+    },
+    {
+      "text": "JD Vance casts doubt on firing squad execution and says he will not watch it. The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.46861111111111,
+      "key": "5b4a56d8cf60"
+    },
+    {
+      "text": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'. Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.645555555555555,
+      "key": "1f25f572052a"
+    },
+    {
+      "text": "Man named Hitler Mussolini elected mayor in Peru. The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.775555555555556,
+      "key": "873cb83315f5"
+    },
+    {
+      "text": "Russian search engine Yandex struggles after Ukrainian strikes on data centres. Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.069444444444445,
+      "key": "a45b44adb3e9"
+    },
+    {
+      "text": "Ethiopia warns Eritrea it will defend itself after troops cross border. Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.903055555555557,
+      "key": "5d81bdc9c514"
+    },
+    {
+      "text": "Commentator Katie Zacharia picked as new White House press secretary. The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.625833333333333,
+      "key": "1609cd0c5a45"
+    },
+    {
+      "text": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say. The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 23.164166666666667,
+      "key": "9fd198d4f98a"
+    },
+    {
+      "text": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows. Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 0.5802777777777778,
+      "key": "0d75a7b7200c"
+    },
+    {
+      "text": "A year of ceasefire in Gaza through the lens of NPR's reporter. It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 3.2616666666666667,
+      "key": "a3ea872380ea"
+    },
+    {
+      "text": "India cracks down on youth protests as anger grows against Modi and election chief. Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 3.737222222222222,
+      "key": "89cf345b4bab"
+    },
+    {
+      "text": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms. Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 14.858055555555556,
+      "key": "ca710d90e269"
+    },
+    {
+      "text": "Did Russia play by the rules in reporting lab worker's death?. A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 19.5325,
+      "key": "ad10f115cea5"
+    },
+    {
+      "text": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC. Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 24.64388888888889,
+      "key": "d567731d016e"
+    },
+    {
+      "text": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize. South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 27.87388888888889,
+      "key": "a339172512b2"
+    },
+    {
+      "text": "The long-deployed USS Lincoln returns home to San Diego Bay. The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 36.165,
+      "key": "998cc1aebcf0"
+    },
+    {
+      "text": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture. U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 44.168055555555554,
+      "key": "b43d13bcf5f2"
+    },
+    {
+      "text": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing. Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.0763888888888889,
+      "key": "ca71606b3aad"
+    },
+    {
+      "text": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca. Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.12805555555555556,
+      "key": "72f485757941"
+    },
+    {
+      "text": "Brazil police rescue 13 children taken hostage at kindergarten. Brazilian police have rescued 13 children held hostage for more than two hours at a daycare centre in Curitiba.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.3397222222222222,
+      "key": "0de346d2a045"
+    },
+    {
+      "text": "Isaias weakens after making landfall in US Gulf Coast as hurricane. More than 664,000 customers in Florida and Alabama have been left without power as Isaias downs trees, power lines.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0180555555555555,
+      "key": "af5ef70cce5f"
+    },
+    {
+      "text": "West Indies beat India as Hope’s hundred secures record T20 chase. Shai Hope&#039;s hundred and Sherfane Rutherford&#039;s fifty lead West Indies in record 252 chase to level series 1-1.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2241666666666666,
+      "key": "944f15ef93dc"
+    },
+    {
+      "text": "A decade of Lajee Celtic: The Palestinian club whose fans include Cantona. The football club founded in a West Bank refugee camp has built a global movement of solidarity.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/a-decade-of-lajee-celtic-the-palestinian-club-whose-fans-include-cantona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3,
+      "key": "8695214fb343"
+    },
+    {
+      "text": "US lifts sanctions on daughter of military-linked Myanmar businessman. Delisting comes days after Trump administration reportedly reopened talks with Myanmar&#039;s government.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7305555555555556,
+      "key": "ab6032ad9cfc"
+    },
+    {
+      "text": "Ronaldo returns after Portugal quarrel to score in Al-Nassr win. Cristiano Ronaldo opened the scoring for Al-Nassr in their 3-0 win over Diriyah, his first game since Portugal walkout.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.008611111111111,
+      "key": "aa34c8236e70"
+    },
+    {
+      "text": "Ireland Catholic residents react to UK ban on Protestant march. Ireland Catholic residents react to UK ban on Protestant march",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0541666666666667,
+      "key": "12d66377cefc"
+    },
+    {
+      "text": "Saudi-led coalition says it’s carrying out operation in Yemen. The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.2536111111111112,
+      "key": "20dfa7b1f370"
+    },
+    {
+      "text": "‘How can you stop these kids?’ Indian capital on lockdown before protests. Indian Prime Minister Narendra Modi has pulled out all the stops to prevent Cockroach movement protests.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.293888888888889,
+      "key": "ea4f6be8fe6d"
+    },
+    {
+      "text": "India’s Cockroach Party founder, top leaders detained ahead of protest. India’s Cockroach Janta Party leaders have allegedly been detained after landing in New Delhi to lead a mass protest.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.350277777777778,
+      "key": "f382e86a6677"
+    },
+    {
+      "text": "Trump slams Norway for not awarding him Nobel Peace Prize. Trump slams Norway for not awarding him Nobel Peace Prize",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7941666666666665,
+      "key": "5108d036bd4d"
+    },
+    {
+      "text": "Yemen’s Taiz under siege again as food and fuel prices rise. Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.232222222222222,
+      "key": "c98bf3b236ee"
+    },
+    {
+      "text": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown. Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.6702777777777778,
+      "key": "99c2ddfef60a"
+    },
+    {
+      "text": "The Download: AI’s refusal problem and weight-loss drug side effects. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison&#8230;",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.814444444444444,
+      "key": "6030763647b7"
+    },
+    {
+      "text": "Neanderthal wooden tools from Spain found preserved in stone. Dissolved rock precipitated around the tools, which then decayed.",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.199722222222222,
+      "key": "e537d76d8d37"
+    },
+    {
+      "text": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\". One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.698611111111111,
+      "key": "deec19a8ae01"
+    },
+    {
+      "text": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis. Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.91388888888889,
+      "key": "459e66ab3dd6"
+    },
+    {
+      "text": "NASA issues long-awaited call to industry for private space stations. \"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.198055555555555,
+      "key": "fb66cbf0c731"
+    },
+    {
+      "text": "What's been driving Hawaii's lava fountains?. Before the lava fountains started, the ground was expanding by half a meter a day.",
+      "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.68361111111111,
+      "key": "8261695f2bcf"
+    },
+    {
+      "text": "AI coding agents generate more code, but not more software. Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.036666666666667,
+      "key": "c836f316a9b4"
+    },
+    {
+      "text": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial. CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.309722222222222,
+      "key": "9934a5294f43"
+    },
+    {
+      "text": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023. \"The current decline may be just the beginning of a new downward cycle.\"",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.852777777777778,
+      "key": "e5adb98442d8"
+    },
+    {
+      "text": "AI disqualification yields new Nikon Small World in Motion winner. New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.032222222222222,
+      "key": "0be2ee28b7e7"
+    },
+    {
+      "text": "Your artwork could be featured in the next Debian release. Debian Linux has put a call out for artist submissions for its next release: Forky.",
+      "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.21,
+      "key": "eac6d66e3805"
+    },
+    {
+      "text": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon. Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.356388888888889,
+      "key": "b861bfc3e219"
+    },
+    {
+      "text": "Microsoft barred from sponsoring foreign workers for US residency. The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 20.524722222222223,
+      "key": "f1943c28a863"
+    },
+    {
+      "text": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?. \"I can say we’re weeks away from launching on Vulcan.\"",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.75138888888889,
+      "key": "7ff1bb5a0706"
+    },
+    {
+      "text": "Volkswagen's replacement for the ID.4 crossover is here. The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 23.750833333333333,
+      "key": "83459b122fcf"
+    },
+    {
+      "text": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition. The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
+      "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.4255555555555556,
+      "key": "9fc30a1a2672"
+    },
+    {
+      "text": "How This Tiny Startup Built the World’s Safest Bike Helmet. Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
+      "url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.9255555555555556,
+      "key": "30fd778b014c"
+    },
+    {
+      "text": "LG Promo Codes and Coupons for October 2026. Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.9255555555555555,
+      "key": "b09232d71c45"
+    },
+    {
+      "text": "30% Off Canon Promo Codes | October 2026. Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.9255555555555555,
+      "key": "2d1dc2371838"
+    },
+    {
+      "text": "Disney Plus Discount Codes: 52% Off October 2026. Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.9255555555555555,
+      "key": "e46ee888814b"
+    },
+    {
+      "text": "Altra Running Promo Codes: 10% Off October 2026. Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.9255555555555555,
+      "key": "e745aa2bbf00"
+    },
+    {
+      "text": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe. The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators.",
+      "url": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.62138888888889,
+      "key": "1fcab038e779"
+    },
+    {
+      "text": "Book Publishers Are Quietly Using More AI. Staff Are Revolting. Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.445277777777777,
+      "key": "0f9bfb5aee2d"
+    },
+    {
+      "text": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public. The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.",
+      "url": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 15.425555555555556,
+      "key": "400af37c22af"
+    },
+    {
+      "text": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson. The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
+      "url": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 17.773333333333333,
+      "key": "f75809a2996b"
+    },
+    {
+      "text": "I’m Still Convinced the iPod Was the Perfect Gadget. Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.",
+      "url": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 18.925555555555555,
+      "key": "c8ba225884a9"
+    },
+    {
+      "text": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It. Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
+      "url": "https://www.wired.com/story/dunking-on-dating-app-profiles-is-content-gold-people-are-getting-sick-of-it/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.925555555555555,
+      "key": "bd30328f2e4b"
+    },
+    {
+      "text": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?. Apple’s Mac desktops have become some of the most sought-after computers this year, driven by surging interest in agentic AI. Here’s which model to buy depending on your use case.",
+      "url": "https://www.wired.com/story/best-mac-desktop/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.925555555555555,
+      "key": "98b5b9f0141a"
+    },
+    {
+      "text": "Workers erupt over DC plan to bring robotaxis to city streets: ‘This is bulls---’. Protesters rallied outside D.C.&apos;s John Wilson Building as council members weighed legislation to allow Waymo robotaxis on Washington streets.",
+      "url": "https://www.foxnews.com/politics/workers-erupt-over-dc-plan-bring-robotaxis-city-streets-this-bulls",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.40055555555555555,
+      "key": "fdbbf32cf062"
+    },
+    {
+      "text": "Liberal hot spot residents can’t agree on what socialism means as far-left movements gains steam. A Gallup poll shows 43% of Americans view socialism positively, but festivalgoers in Takoma Park hesitated when asked about surrendering property.",
+      "url": "https://www.foxnews.com/politics/liberal-hot-spot-residents-cant-agree-what-socialism-means-far-left-movements-gains-steam",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.8916666666666666,
+      "key": "34a189021ed4"
+    },
+    {
+      "text": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul. President Donald Trump rallied Syracuse supporters behind Bruce Blakeman&apos;s bid to unseat Gov. Kathy Hochul, promising tax cuts and cheaper energy for New York families.",
+      "url": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.190833333333333,
+      "key": "ea1b7dc8b387"
+    },
+    {
+      "text": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens. Igor Shesterkin jammed his right leg against the post during a net-mouth scramble and had to be helped off the ice by New York Rangers teammates.",
+      "url": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.642777777777778,
+      "key": "6a4b8adc717e"
+    },
+    {
+      "text": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security. Trump brought Mike Tyson on Air Force One to a Syracuse rally for Bruce Blakeman, the Republican running to unseat New York Gov. Kathy Hochul.",
+      "url": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.1425,
+      "key": "2d46e9b33e07"
+    },
+    {
+      "text": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition. New York Gov. Kathy Hochul joined President Donald Trump&apos;s Education Freedom Tax Credit despite fierce opposition from teachers unions and a petition to reject it.",
+      "url": "https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.851111111111111,
+      "key": "4dc355e52125"
+    },
+    {
+      "text": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question. Dan Campbell shared an unforgettable pre-draft story about sitting alone with Mike Ditka in a room full of cigar smoke ahead of the 1999 NFL Draft.",
+      "url": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.958333333333334,
+      "key": "e2f4ffd008f8"
+    },
+    {
+      "text": "James Talarico resurfaces after extended absence as his campaign pushes back. James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.",
+      "url": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.218055555555555,
+      "key": "598def65fb1b"
+    },
+    {
+      "text": "Super Bowl LXI gets Pat McAfee treatment as ESPN adds alternate broadcast. Pat McAfee announced his own alternate Super Bowl LXI broadcast on ESPN, bringing his signature &quot;Field Pass&quot; style to the NFL&apos;s biggest stage.",
+      "url": "https://www.foxnews.com/outkick-sports/super-bowl-lxi-gets-pat-mcafee-treatment-espn-adds-alternate-broadcast",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.481111111111112,
+      "key": "db880038f18b"
+    },
+    {
+      "text": "Former Obama advisor tells divided Maine Democrats to 'get over your s---' and win the race. Former Obama strategists urge Maine Democrats to unite behind Troy Jackson, warning internal party feuds could cost them a critical Senate seat.",
+      "url": "https://www.foxnews.com/media/former-obama-advisor-tells-divided-maine-democrats-get-over-your-s-win-race",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.580277777777777,
+      "key": "33214777195c"
+    },
+    {
+      "text": "Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'. Trump called Mike Ditka &quot;a tough cookie&quot; and &quot;a winner&quot; after learning of the Hall of Fame Chicago Bears coach&apos;s death on the South Lawn Friday.",
+      "url": "https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.677222222222222,
+      "key": "9d119ff42249"
+    },
+    {
+      "text": "Hollywood feeling more hopeful amid a push for film tax credits and Paramount staying put, filmmaker says. California expands its film and television tax credits and launches a post-production incentive as Hollywood fights to keep jobs in Los Angeles.",
+      "url": "https://www.foxnews.com/media/hollywood-feeling-more-hopeful-amid-push-film-tax-credits-paramount-staying-put-filmmaker-says",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.470277777777778,
+      "key": "46f45bb91858"
+    },
+    {
+      "text": "Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma. Colt McCoy calls the Texas Longhorns&apos; current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.",
+      "url": "https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.816944444444445,
+      "key": "ebf9e3e32870"
+    },
+    {
+      "text": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo. New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he&apos;s ready for the Washington Commanders.",
+      "url": "https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 11.049722222222222,
+      "key": "9511dcb8a11c"
+    },
+    {
+      "text": "Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis. Daniel Lurie says San Francisco got &quot;entrapped in our progressive values&quot; and got to a point where the city wasn&apos;t taking stock of its problems.",
+      "url": "https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 11.475555555555555,
+      "key": "867e4f10c266"
+    },
+    {
+      "text": "The Met puts a modern artist front and center (and there's some Jackson Pollock, too). In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7422222222222222,
+      "key": "05881683a870"
+    },
+    {
+      "text": "After losing ground with Latino voters, Democrats are turning to influencers for help. Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7422222222222222,
+      "key": "4f8639f7a71b"
+    },
+    {
+      "text": "16 cozy activities to add to your fall bucket list. Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7422222222222222,
+      "key": "f1a3ca995d24"
+    },
+    {
+      "text": "Kalshi taps former FBI agent to fight against money laundering. The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.355833333333333,
+      "key": "b8e5d6101ca8"
+    },
+    {
+      "text": "Fired OpenAI employees question the company's commitment to safety. The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.273055555555555,
+      "key": "321be17972e0"
+    },
+    {
+      "text": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that. The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 14.815,
+      "key": "516eba52f448"
+    },
+    {
+      "text": "U.S. working to reverse an Egyptian man's third-country deportation to Africa. The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.917777777777777,
+      "key": "9d06c3999cf8"
+    }
+  ],
+  "contexts": {}
+}

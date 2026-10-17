@@ -1,0 +1,30 @@
+== bundles 2026-10-17T13:41:00Z ==
+wayback probe: HTTP 403
+14 day(s): 1 archived by the pipeline, 11 already in backfill/bundles, 2 to reconstruct
+Reconstructing 2 day(s) from the Wayback Machine, one day at a time (~1 request/s, cached under backfill/cache/wayback)...
+  dedupe memory seeded with 759 key(s) from earlier bundles; warm-up: 0 day(s)
+    Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20261001&to=20261031&output=json&fl=timest
+    https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-10 (403); skipping it
+  2026-10-14 (day): 3/16 feeds, 45 new headlines, 253s | 1 to go, ETA ~4 min
+  2026-10-15 (day): 3/16 feeds, 30 new headlines, 5s | 0 to go, ETA ~0 min
+  Wayback: 24 requests, 21 answered, 1 gave up (1 excluded/403)
+  Skipped 2 thin day(s) (fewer than 8 feeds or 40 headlines):
+    2026-10-14: 3 feeds, 45 headlines
+    2026-10-15: 3 feeds, 30 headlines
+
+Validation against headline-log.json (reconstructed days the log covers):
+  date        logged  recon  match  recall   prec
+  2026-10-04     123     62     19     15%    31%
+  2026-10-05     143     62      7      5%    11%
+  2026-10-06     152     83     12      8%    14%
+  2026-10-07     156     94     15     10%    16%
+  2026-10-08     165     87     20     12%    23%
+  2026-10-09     156     98     35     22%    36%
+  2026-10-10     116     89     37     32%    42%
+  2026-10-11     111     59     16     14%    27%
+  2026-10-12     140     63     11      8%    17%
+  2026-10-13     137     62     15     11%    24%
+  2026-10-16     162     48      4      2%     8%
+  overall recall 12% over 11 day(s). Misses are mostly items that entered a feed between the Wayback capture and the pipeline's scrape.
+
+12 bundle(s) in backfill/bundles for 2026-10-04..2026-10-17 (2 day(s) missing)
