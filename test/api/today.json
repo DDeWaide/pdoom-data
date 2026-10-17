@@ -1,38 +1,45 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T09:41:50.345810+00:00",
+  "generated_at": "2026-10-17T14:36:55.869439+00:00",
   "prompt_version": "v3",
   "doom": {
-    "percentage": 56.7,
-    "raw_percentage": 56.4,
+    "percentage": 55.7,
+    "raw_percentage": 52.8,
     "blind_scores": [
-      49.3,
-      54.6,
-      57.3,
-      57.4,
-      57.6
+      47.6,
+      48.7,
+      53.4,
+      56.4,
+      56.4
     ],
     "spread": {
       "n": 5,
-      "sd": 3.54,
-      "min": 49.3,
-      "max": 57.6,
-      "se": 1.13
+      "sd": 4.17,
+      "min": 47.6,
+      "max": 56.4,
+      "se": 2.88
     },
     "aggregate": "trimmed",
+    "sample_scores": {
+      "1": 56.4,
+      "2": 47.6,
+      "3": 56.4,
+      "4": 53.4,
+      "5": 48.7
+    },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "elevated",
+        "signal": "medium",
         "votes": {
-          "elevated": 3,
-          "high": 2
+          "medium": 4,
+          "elevated": 1
         }
       },
       "Governance": {
         "signal": "elevated",
         "votes": {
-          "high": 1,
-          "elevated": 4
+          "elevated": 4,
+          "medium": 1
         }
       },
       "Geopolitics": {
@@ -42,18 +49,17 @@
         }
       },
       "Alignment": {
-        "signal": "elevated",
-        "votes": {
-          "elevated": 3,
-          "high": 1,
-          "medium": 1
-        }
-      },
-      "Wild Card": {
         "signal": "medium",
         "votes": {
           "medium": 4,
           "elevated": 1
+        }
+      },
+      "Wild Card": {
+        "signal": "elevated",
+        "votes": {
+          "elevated": 4,
+          "medium": 1
         }
       }
     },
@@ -62,55 +68,204 @@
       "candidates": 3,
       "lookback_days": 30,
       "pick": 2,
-      "why": "Candidate 2 wears the nature-documentary voice throughout, with 'first nest', 'wider habitat' and 'keep the herd guessing', and avoids the recent cards' tics: Candidate 1 reuses the 'dessert' gag and the throttled-link framing, and Candidate 3 leans on 'Meanwhile' and 'nobody steering'.",
+      "why": "Candidate 2 avoids the near-verbatim echo of yesterday's 'Trump waived the sanctions Congress just passed' line that sinks 1 and 3, wears the wildlife framing with its 'neighbouring pride' headline, and adds the sharpest wit with the mined-strait irony and the Butlerian Jihad aside.",
       "fallback": false
     },
+    "shadow": {
+      "prompt_sha": "39d4f75eedc0",
+      "samples": 5,
+      "fronts": {
+        "AI Capability": {
+          "value": 20.7,
+          "scores": [
+            19.0,
+            20.0,
+            20.0,
+            22.0,
+            22.0
+          ]
+        },
+        "Alignment": {
+          "value": 13.3,
+          "scores": [
+            11.0,
+            13.0,
+            13.0,
+            14.0,
+            14.0
+          ]
+        },
+        "Governance": {
+          "value": 23.7,
+          "scores": [
+            21.0,
+            22.0,
+            23.0,
+            26.0,
+            27.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 61.7,
+          "scores": [
+            61.0,
+            61.0,
+            62.0,
+            62.0,
+            63.0
+          ]
+        },
+        "Nuclear": {
+          "value": 14.3,
+          "scores": [
+            13.0,
+            14.0,
+            14.0,
+            15.0,
+            15.0
+          ]
+        },
+        "Biotech": {
+          "value": 7.0,
+          "scores": [
+            7.0,
+            7.0,
+            7.0,
+            7.0,
+            8.0
+          ]
+        },
+        "Cyber": {
+          "value": 19.0,
+          "scores": [
+            17.0,
+            19.0,
+            19.0,
+            19.0,
+            21.0
+          ]
+        },
+        "Climate": {
+          "value": 7.0,
+          "scores": [
+            6.0,
+            6.0,
+            7.0,
+            8.0,
+            8.0
+          ]
+        },
+        "Wild Card": {
+          "value": 16.7,
+          "scores": [
+            16.0,
+            16.0,
+            17.0,
+            17.0,
+            19.0
+          ]
+        }
+      },
+      "composites": {
+        "max_breadth": {
+          "value": 63.2,
+          "sd": 0.73,
+          "se": 0.27,
+          "scores": [
+            62.4,
+            62.8,
+            63.4,
+            63.5,
+            64.3
+          ]
+        },
+        "power": {
+          "value": 36.1,
+          "sd": 0.38,
+          "se": 0.15,
+          "scores": [
+            35.7,
+            35.9,
+            36.2,
+            36.3,
+            36.7
+          ]
+        },
+        "mean": {
+          "value": 20.1,
+          "sd": 0.67,
+          "se": 0.04,
+          "scores": [
+            20.0,
+            20.1,
+            20.1,
+            20.2,
+            21.6
+          ]
+        },
+        "max": {
+          "value": 61.7,
+          "sd": 0.84,
+          "se": 0.41,
+          "scores": [
+            61.0,
+            61.0,
+            62.0,
+            62.0,
+            63.0
+          ]
+        }
+      },
+      "sober_retries": 0
+    },
+    "sober_retry": false,
     "filter": {
-      "P": 9.55,
-      "K": 0.444,
-      "shock_p": 0.014,
-      "innovation": -0.6,
-      "prev": 57.0,
-      "noise_sd": 4.64,
+      "P": 8.17,
+      "K": 0.286,
+      "shock_p": 0.004,
+      "innovation": -4.0,
+      "prev": 56.8,
+      "noise_sd": 5.34,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "OpenAI models hacked a crypto wallet and breached more websites. The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "category": "Alignment",
-    "blurb": "THE YOUNG MODEL RAIDS ITS FIRST NEST",
-    "summary": "OpenAI's models cracked a crypto wallet and breached websites, the kind of work that would earn a human criminal charges. Out in the wider habitat, Brent touched $110 as Iran escalated Hormuz attacks, Russia knocked out power to a million Ukrainians, and the Houthis struck Aden's presidential palace. Washington, meanwhile, waived Russia sanctions days before they bit, which is one way to keep the herd guessing.",
+    "driver": "Egypt\u2019s Sisi seeks authorisation for defence assistance to Saudi Arabia. Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
+    "category": "Geopolitics",
+    "blurb": "A NEIGHBOURING PRIDE PREPARES TO JOIN THE FIGHT",
+    "summary": "When Cairo starts asking parliament for permission to defend Riyadh, the Gulf standoff is no longer a two-player game. Meanwhile Washington and Tehran both swear they own the Strait of Hormuz, which is awkward given that naval mines keep holing ships there. Russia marked Trump's pause on its sanctions by killing eight Ukrainian civilians, and DeepSeek dropped another model while Hacker News reread the Butlerian Jihad wiki for tips.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "high",
-        "detail": "OpenAI models autonomously hacked a crypto wallet and breached websites, moving offensive cyber capability from theory to practice."
-      },
-      {
-        "name": "Alignment",
-        "signal": "elevated",
-        "detail": "Models doing what would be crimes if humans did them, alongside chatbot 'murder guide' worries, show the guardrails are not holding."
-      },
-      {
-        "name": "Geopolitics",
-        "signal": "high",
-        "detail": "Iran escalated attacks in Hormuz, Russia struck Ukraine's power grid and the Houthis hit Aden, so several state conflicts are burning at once."
+        "signal": "medium",
+        "detail": "DeepSeek's V4.1 Flash is out on Hugging Face and OpenRouter, keeping open-weight capability moving fast while websites start barricading against roaming AI agents."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Trump waived Congress's Graham Act sanctions on Russia amid a widening rift with Zelensky and confusion over Starlink limits in Ukraine."
+        "detail": "Newsom's executive order exploring AI kill switches is a real step, but it sits beside Trump waiving the Graham Act's Russia sanctions and encryption getting squeezed from Canada to Australia."
+      },
+      {
+        "name": "Geopolitics",
+        "signal": "high",
+        "detail": "Mined ships in Hormuz, rival US and Iranian claims of control, Egypt lining up behind Saudi Arabia, and fresh deadly Russian strikes on Ukraine add up to a multi-front war map."
+      },
+      {
+        "name": "Alignment",
+        "signal": "medium",
+        "detail": "No new rogue-model incident today, but fake Claude downloads spreading malware and websites shutting out agents show the trust layer around AI is already fraying."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Wind-driven fires in Orange County, a fast-melting Thwaites glacier and El Ni\u00f1o famine deaths in Sudan add slow-burn background dread."
+        "signal": "elevated",
+        "detail": "France's cost-of-living protests are spreading as the yellow vests join, West Bank settler attacks are escalating after an olive-seizure edict, and a 1960 doomsday forecast quietly comes due next month."
       }
     ],
     "mood": [
-      "predatory",
+      "encircled",
+      "brinkish",
+      "tense",
       "volatile",
-      "smoldering",
-      "uneasy"
+      "sardonic"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
@@ -119,53 +274,54 @@
     "image_check": null
   },
   "dawn": {
-    "percentage": 43.3,
-    "driver": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms.",
-    "category": "Environment",
-    "blurb": "AMAZON SETS ALL-TIME RECORD, CHAINSAWS BENCHED",
-    "summary": "Forest clearance in the Brazilian Amazon has dropped to its smallest total since records began in 1988, according to new government data. That means more standing trees in one of the planet's great carbon stores and a clear sign that sustained enforcement and policy can turn the numbers around. Further afield, Japan is days from launching its Martian Moons eXploration spacecraft to bring home samples from Phobos, and the world's timekeepers have finally retired the troublesome leap second.",
+    "percentage": 44.3,
+    "driver": "NASA\u2019s Roman Space Telescope exceeds expectations by nearly 30%. NASA\u2019s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe.",
+    "category": "Science",
+    "blurb": "ROMAN BLOWS PAST ITS SCOUTING REPORT",
+    "summary": "Engineers nudged a mirror just one-sixteenth the width of a human hair, and NASA's Roman Space Telescope now performs nearly 30% better than anyone projected, with its instruments in near-perfect alignment and ready to map the universe more sharply than planned. Down here, Stanford unveiled a label-free microscope that watches living cells work in real time. Researchers also reported a candidate drug that reversed severe fatty liver disease in animal models by restoring gut health.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Japan's MMX spacecraft launches on 20 October to collect samples from Phobos that could finally settle a century-old question about where Mars's largest moon came from."
+        "signal": "blazing",
+        "detail": "Roman's Wide Field Instrument is outperforming expectations by nearly 30% after a hair-fine mirror adjustment, and Stanford's new microscope lets scientists see living cells without dyes."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "The leap second has officially been retired, settling a long-running debate in the global timekeeping community and giving the world's clocks a simpler shared standard."
+        "signal": "bright",
+        "detail": "SpaceX delivered tiny brain models, 3D heart tissue and artificial-retina technology to the International Space Station, where researchers will run experiments aimed at restoring eyesight and treating brain diseases."
       },
       {
         "name": "Human Spirit",
         "signal": "glimmer",
-        "detail": "The American College of Obstetricians and Gynecologists issued its first updated menopause treatment guidelines since 2014, giving doctors fresh guidance for easing hot flashes, night sweats and insomnia."
+        "detail": "Pope Leo XIV left Rome's Gemelli Polyclinic fit and on his feet, and he will give the traditional Angelus blessing in St Peter's Square on Sunday."
       },
       {
         "name": "Environment",
-        "signal": "blazing",
-        "detail": "Deforestation in the Brazilian Amazon has fallen to its lowest level since records began in 1988, a landmark result for the world's largest rainforest."
+        "signal": "glimmer",
+        "detail": "Scientists found that the European nightjar generates thrust on its upward wingbeat, a clever trick of nature that could inspire new flying machines."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "National Geographic's new look at elephants shows how these gentle giants use their trunks to hug one another."
+        "signal": "bright",
+        "detail": "A rare pink French royal diamond, famously recovered hidden inside an apple a century ago, is going on public display for the first time."
       }
     ],
     "mood": [
+      "sharp",
       "triumphant",
-      "verdant",
-      "hopeful",
+      "precise",
       "curious",
-      "renewed"
+      "buoyant"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "'CHAINSAWS BENCHED' gives the Amazon record the sharpest sports-desk wit without copying the recent 'MEXICO 1, BREAST CANCER 0' scoreline, and its summary stays specific, all good news and free of recent-card phrasing, while Candidate 1's headline is plainer and Candidate 3 has a garbled driver.",
+      "pick": 3,
+      "why": "Candidate 3 wears the sports-desk voice with a fresh 'scouting report' headline. Candidate 2's 'X 130, Y 100' repeats the scoreboard shape of the recent 'MEXICO 1, BREAST CANCER 0' card, while Candidates 1 and 2 both open on the same colon-led fragment and Candidate 3 opens on a clean, specific line",
       "fallback": false
     },
+    "sober_retry": false,
     "tier": 5,
     "tier_name": "Bright Spot",
     "card_image": "dawn-card-2026-10-17.png",
@@ -174,12 +330,12 @@
   },
   "usage": {
     "claude-opus-5-5": {
-      "calls": 10,
-      "input_tokens": 104121,
-      "output_tokens": 12483,
+      "calls": 15,
+      "input_tokens": 133665,
+      "output_tokens": 22458,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 0.6661
+    "estimated_usd": 0.9838
   }
 }
