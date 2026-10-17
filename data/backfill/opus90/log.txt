@@ -17,3 +17,48 @@ Reconstructing 5 day(s) from the Wayback Machine, one day at a time (~1 request/
   2026-09-13 (day): 3/16 feeds, 35 new headlines, 135s | 2 to go, ETA ~9 min
     Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20261001&to=20261031&output=json&fl=timest
     https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-10 (403); skipping it
+    Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/web/20261014223612id_/https://www.wired.com/feed/rss
+  2026-10-14 (day): 2/16 feeds, 30 new headlines, 292s | 1 to go, ETA ~4 min
+    Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/web/20261015045108id_/http://rss.cnn.com/rss/cnn_topstories.rss
+  2026-10-15 (day): 2/16 feeds, 30 new headlines, 125s | 0 to go, ETA ~0 min
+  Wayback: 97 requests, 71 answered, 9 gave up (4 excluded/403)
+  Skipped 5 thin day(s) (fewer than 8 feeds or 40 headlines):
+    2026-07-30: 2 feeds, 18 headlines
+    2026-08-17: 3 feeds, 35 headlines
+    2026-09-13: 3 feeds, 35 headlines
+    2026-10-14: 2 feeds, 30 headlines
+    2026-10-15: 2 feeds, 30 headlines
+
+Validation against headline-log.json (reconstructed days the log covers):
+  date        logged  recon  match  recall   prec
+  2026-09-17     171     58     13      8%    22%
+  2026-09-18     156     42      3      2%     7%
+  2026-09-19     120     43     11      9%    26%
+  2026-09-20     107     55     14     13%    25%
+  2026-09-21     136     52      8      6%    15%
+  2026-09-22     147     75     13      9%    17%
+  2026-09-23     151     28      5      3%    18%
+  2026-09-24     158     72     21     13%    29%
+  2026-09-25     152     66     22     14%    33%
+  2026-09-26     104     31      1      1%     3%
+  2026-09-27     111     84     20     18%    24%
+  2026-09-28     137     52      8      6%    15%
+  2026-09-29     130     76     22     17%    29%
+  2026-09-30     158     47     22     14%    47%
+  2026-10-01     148     83     21     14%    25%
+  2026-10-02     139     77     24     17%    31%
+  2026-10-03     134     80     36     27%    45%
+  2026-10-04     123     62     19     15%    31%
+  2026-10-05     143     62      7      5%    11%
+  2026-10-06     152     83     12      8%    14%
+  2026-10-07     156     94     15     10%    16%
+  2026-10-08     165     87     20     12%    23%
+  2026-10-09     156     98     35     22%    36%
+  2026-10-10     116     89     37     32%    42%
+  2026-10-11     111     59     16     14%    27%
+  2026-10-12     140     63     11      8%    17%
+  2026-10-13     137     62     15     11%    24%
+  2026-10-16     162     48      4      2%     8%
+  overall recall 12% over 28 day(s). Misses are mostly items that entered a feed between the Wayback capture and the pipeline's scrape.
+
+86 bundle(s) in backfill/bundles for 2026-07-19..2026-10-17 (5 day(s) missing)
