@@ -22,3 +22,7 @@ Reconstructing 90 day(s) from the Wayback Machine, one day at a time (~1 request
     Wayback gave up: URLError: <urlopen error _ssl.c:993: The handshake operation timed out> for https://web.archive.org/web/20260720070509id_/https://www.aljazeera.com/xml/rss/all.xml
   2026-07-20 (day): 5/16 feeds, 41 new headlines, 228s | 88 to go, ETA ~257 min
     Wayback 403, pausing 15s...
+    Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20260701&to=20260731&output=json&fl=timest
+  2026-07-21 (day): 6/16 feeds, 57 new headlines, 217s | 87 to go, ETA ~273 min
+    Wayback 403, pausing 15s...
+    Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20260701&to=20260731&output=json&fl=timest
