@@ -10,3 +10,10 @@ Reconstructing 5 day(s) from the Wayback Machine, one day at a time (~1 request/
     Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20260801&to=20260831&output=json&fl=timest
     https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-08 (403); skipping it
     Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/cdx/search/cdx?url=feeds.abcnews.com/abcnews/topstories&from=20260801&to=20260831&output=json&fl
+  2026-08-17 (day): 3/16 feeds, 35 new headlines, 405s | 3 to go, ETA ~16 min
+    Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20260901&to=20260930&output=json&fl=timest
+    https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-09 (403); skipping it
+    Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/web/20260913052300id_/https://moxie.foxnews.com/google-publisher/latest.xml
+  2026-09-13 (day): 3/16 feeds, 35 new headlines, 135s | 2 to go, ETA ~9 min
+    Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20261001&to=20261031&output=json&fl=timest
+    https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-10 (403); skipping it
