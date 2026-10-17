@@ -1,0 +1,397 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-10-17T12:32:17.865201+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260725001842",
+    "NPR World": null,
+    "Al Jazeera": "20260725091145",
+    "MIT Technology Review": "20260725013642",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260725043119",
+    "Fox News Latest": "20260725054726",
+    "NPR News": null,
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain. Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.523888888888889,
+      "key": "30b186f4df59"
+    },
+    {
+      "text": "Ten killed in Russian attack on drone exhibition near Kyiv. The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.19694444444444445,
+      "key": "ea1b4d4d6812"
+    },
+    {
+      "text": "Zelensky tries to fix crisis over removal of defence minister and counts the cost. Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.2933333333333332,
+      "key": "e1c1465012cd"
+    },
+    {
+      "text": "Trump vows to investigate EU over fining of US tech companies. The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.9122222222222223,
+      "key": "9fcc671e6a5b"
+    },
+    {
+      "text": "US and Iran trade more strikes in Gulf as fears of escalation mount. It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.094444444444444,
+      "key": "df294d44edd1"
+    },
+    {
+      "text": "ICC top prosecutor removed over sexual misconduct allegations. Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.27,
+      "key": "c1d1e8185490"
+    },
+    {
+      "text": "Indonesian babies were trafficked to Singapore. What happens to them now?. At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.76,
+      "key": "dc1e9a1603f4"
+    },
+    {
+      "text": "US hits dozens of countries with new wave of tariffs. Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.632777777777777,
+      "key": "e2f74add8148"
+    },
+    {
+      "text": "Four Palestinians and two Israelis killed in West Bank shooting. Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.478611111111111,
+      "key": "e9f8952468d4"
+    },
+    {
+      "text": "Nigeria's president approves largest military expansion in recent times. The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.929444444444444,
+      "key": "714c3181bd4a"
+    },
+    {
+      "text": "World chess chief faces endgame after EU announces Russia war sanctions. Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.164166666666667,
+      "key": "af4ecb866a1a"
+    },
+    {
+      "text": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'. Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.414722222222222,
+      "key": "d172bbd0562a"
+    },
+    {
+      "text": "India's 'cockroach' protesters hold talks with government as stalemate continues. The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.792222222222222,
+      "key": "63caa5ad28f3"
+    },
+    {
+      "text": "Tech titan ordered to pay ex-wife $644m in divorce settlement. The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.795555555555556,
+      "key": "f47a0f4f1f85"
+    },
+    {
+      "text": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?. Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.1247222222222222,
+      "key": "3660648df391"
+    },
+    {
+      "text": "India’s education minister resigns after weeks of ‘Cockroach’ protests. This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.2902777777777778,
+      "key": "b61c9d7cc76a"
+    },
+    {
+      "text": "Dodging snipers, housing crisis forces Yemenis to live on front line. Living near Taiz&#039;s front line forces families to make difficult choices amid sniper threats and economic hardships.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0327777777777778,
+      "key": "7a1f54dee2a4"
+    },
+    {
+      "text": "Wildfires in Spain and France force evacuation of 200,000 people. France has appealed for international help, while Spain has declared a national emergency.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5005555555555556,
+      "key": "81881884a314"
+    },
+    {
+      "text": "Born too soon: Premature babies fight for survival in Gaza. Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.",
+      "url": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7694444444444444,
+      "key": "b9305a7a8a3a"
+    },
+    {
+      "text": "Guterres arrives in Syria in first official visit by a UN chief in 17 years. The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.816111111111111,
+      "key": "b089397fa984"
+    },
+    {
+      "text": "Trump: ‘I’m running for a fourth term as President of the United States’. During the White House Correspondents&#039; Association dinner, Trump joked about running for a fourth presidential term.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5219444444444443,
+      "key": "ffbb40ea60da"
+    },
+    {
+      "text": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion. Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.589722222222222,
+      "key": "7e265d221339"
+    },
+    {
+      "text": "Venezuelans hold vigil one month after devastating earthquakes. One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.361388888888889,
+      "key": "29c5b2622b1a"
+    },
+    {
+      "text": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal. A record 19th medal took South Africa&#039;s Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England.",
+      "url": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.381388888888889,
+      "key": "a2116f5976c7"
+    },
+    {
+      "text": "Funerals held for four Palestinians killed in deadly West Bank shooting. Overnight funerals were held for four Palestinians killed near Nablus.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.707777777777777,
+      "key": "39cf42818203"
+    },
+    {
+      "text": "‘The show must go on’: Trump returns to rescheduled White House press gala. US president makes jokes, mocks opponents at correspondents&#039; dinner that was halted by a shooting in April.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.211388888888889,
+      "key": "5378a76fa02c"
+    },
+    {
+      "text": "Firefighters battle fire after fertiliser explosion in England. A fertiliser explosion at a farm in Essex triggered a major incident.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.708888888888889,
+      "key": "6cc72d973704"
+    },
+    {
+      "text": "From palava huts to TikTok: How Liberians are preserving their past. From podcasts to TikTok, young Liberians are using digital platforms to keep history alive and challenge old narratives.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.782222222222222,
+      "key": "68d9878fcf01"
+    },
+    {
+      "text": "Sons of immigrant killed by ICE in Texas share grief, demand accountability. Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked hard &#039;to protect and provide&#039; for his family.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.690277777777778,
+      "key": "1e6c78b65d03"
+    },
+    {
+      "text": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn. EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 8.045555555555556,
+      "key": "835df3c2b704"
+    },
+    {
+      "text": "The quest to keep organs alive outside the body. This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 8.546388888888888,
+      "key": "258b56eab02b"
+    },
+    {
+      "text": "Azzi Fudd wins WNBA 3-point contest, becomes first rookie champion. Azzi Fudd made WNBA history as the first rookie to win the All-Star 3-point contest, scoring 30 of 40 possible points in the final round.",
+      "url": "https://www.foxnews.com/sports/azzi-fudd-wins-wnba-3-point-contest-becomes-first-rookie-champion",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2055555555555557,
+      "key": "82e68182f4d5"
+    },
+    {
+      "text": "Trump spares no one at WHCA dinner, taking aim at Dems, press and his own Cabinet. Trump scrapped his combative speech for a unity-themed address, but still took familiar jabs at J.B. Pritzker, Chuck Schumer, and Gavin Newsom.",
+      "url": "https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2358333333333333,
+      "key": "17ddfd4c3e7e"
+    },
+    {
+      "text": "Mets star Juan Soto exits in sixth inning against Dodgers with lingering calf injury. Juan Soto left Friday&apos;s game against the Los Angeles Dodgers with a lingering calf injury that has been on the New York Mets&apos; radar since July 16.",
+      "url": "https://www.foxnews.com/sports/juan-soto-leaves-mets-game-dodgers-sixth-inning-lingering-calf-injury",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.9916666666666667,
+      "key": "ed30fcc3d00f"
+    },
+    {
+      "text": "Gretchen Whitmer endorses moderate Haley Stevens in tight upcoming Senate primary. Gretchen Whitmer backed Haley Stevens over Abdul El-Sayed in the Michigan Senate primary as early voting begins, setting up a key Democratic clash.",
+      "url": "https://www.foxnews.com/politics/gretchen-whitmer-endorses-moderate-haley-stevens-tight-upcoming-senate-primary",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.8730555555555557,
+      "key": "d37f4d47f8b4"
+    },
+    {
+      "text": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history. Trump&apos;s executive order targets federal sidewalks outside the Smithsonian to post signs directing visitors to a White House report on the museum.",
+      "url": "https://www.foxnews.com/politics/trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-american-history",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.27,
+      "key": "ee3c6d60fef1"
+    },
+    {
+      "text": "Fired '60 Minutes' correspondent accuses CBS News leadership of meddling in reporting. Cecilia Vega alleges CBS News meddled in her &quot;60 Minutes&quot; reporting on anti-ICE unrest and Trump&apos;s Iran war, calling directives &quot;misinformation.&quot;",
+      "url": "https://www.foxnews.com/media/fired-60-minutes-correspondent-accuses-cbs-news-leadership-meddling-reporting",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.786388888888889,
+      "key": "93dd77dff969"
+    },
+    {
+      "text": "Dan Le Batard claims ESPN is run by McAfee and 'White people' after layoffs, slanders OutKick in unhinged rant. Dan Le Batard claims ESPN layoffs removed Black voices and calls OutKick &quot;dishonest,&quot; pulling the race card over Ryan Clark&apos;s departure from the network.",
+      "url": "https://www.foxnews.com/outkick-sports/dan-le-batard-claims-espn-run-mcafee-white-people-layoffs-slanders-outkick-unhinged-rant",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.083611111111111,
+      "key": "df2b731a4b3f"
+    },
+    {
+      "text": "California trans suspect arrested in mother's killing after neighbor recalls heated argument. Safford Wolfson, 36, was arrested on suspicion of murdering his mother Angela Caprioli at their Laguna Beach home after being named a person of interest.",
+      "url": "https://www.foxnews.com/us/california-trans-suspect-arrested-mothers-killing-neighbor-recalls-heated-argument",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.16,
+      "key": "b943bf3b0f3a"
+    },
+    {
+      "text": "House Republicans confront NJ governor over 6,600 noncitizens registered to vote in alleged software failure. House Republicans demand answers from Gov. Miki Sherrill after 6,600 noncitizens were registered to vote through a New Jersey motor vehicle system error.",
+      "url": "https://www.foxnews.com/politics/house-republicans-confront-nj-governor-6600-noncitizens-registered-vote-alleged-software-failure",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.243055555555555,
+      "key": "baa99a6cdeb0"
+    },
+    {
+      "text": "Illegal immigrant who killed Nashville restaurant owner to face ICE deportation after prison. Ulises Raigoza-Martinez, who says he illegally entered through Texas in 2021, pleaded guilty to murdering Nashville restaurant owner Matt Carney.",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-who-killed-nashville-restaurant-owner-face-ice-deportation-after-prison",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.488333333333333,
+      "key": "386ce727bbff"
+    },
+    {
+      "text": "One restaurant chain's special promo may not have been a great idea during Red Sox winning streak. 99 Restaurants gave away thousands of free kids&apos; meals during the Boston Red Sox 15-game winning streak thanks to a promotion running since 2008.",
+      "url": "https://www.foxnews.com/outkick-sports/restaurant-chain-special-promo-may-not-have-been-great-idea-during-red-sox-winning-streak",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.6194444444444445,
+      "key": "ef28e91e4df3"
+    },
+    {
+      "text": "Conservative activist Robby Starbuck notches major legal win against Google, defamation suit to proceed. Robby Starbuck&apos;s defamation lawsuit against Google moves forward as a Delaware judge rules his emotional distress claims can proceed to discovery.",
+      "url": "https://www.foxnews.com/media/conservative-activist-robby-starbuck-notches-major-legal-win-against-google-defamation-suit-proceed",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.277222222222222,
+      "key": "7033ce225dd9"
+    },
+    {
+      "text": "Cause of death revealed for Big Sur hiker whose body was found naked on remote California trail. Joanna Ruth Shields, 37, died of probable alcohol withdrawal seizures near Sykes Hot Springs in Big Sur, Monterey County investigators confirmed.",
+      "url": "https://www.foxnews.com/us/cause-death-revealed-big-sur-hiker-body-found-remote-california-trail",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.778611111111111,
+      "key": "63760cfb2063"
+    },
+    {
+      "text": "Simone Biles returns to hospital for procedure weeks after 'almost dying' in 'medical emergency'. Simone Biles shared a hospital selfie with husband Jonathan Owens, revealing the NFL safety took her to a &quot;procedure&quot; on his birthday after her medical emergency.",
+      "url": "https://www.foxnews.com/sports/simone-biles-returns-hospital-procedure-weeks-after-almost-dying-medical-emergency",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.8469444444444445,
+      "key": "f9abc6375abe"
+    },
+    {
+      "text": "Succession: Why Congress has no clear plan when lawmakers can’t serve. Lawmaker absences expose a constitutional gap over replacing members who cannot serve.",
+      "url": "https://www.foxnews.com/politics/succession-why-congress-has-no-clear-plan-when-lawmakers-cant-serve",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.219444444444444,
+      "key": "79d90f79ad77"
+    }
+  ],
+  "contexts": {}
+}

@@ -1,0 +1,613 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-10-17T12:43:53.043818+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260825011454",
+    "NPR World": null,
+    "Al Jazeera": "20260825015102",
+    "MIT Technology Review": "20260825073811",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": "20260825185003",
+    "CNN Top Stories": "20260825073535",
+    "Fox News Latest": "20260825051308",
+    "NPR News": "20260825091541",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Iran faces 'greatest financial offensive ever', says US treasury secretary. Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.4413888888888888,
+      "key": "67393038fbfd"
+    },
+    {
+      "text": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia. It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.748611111111111,
+      "key": "80da7e684d7c"
+    },
+    {
+      "text": "US removes Syria from list of state sponsors of terrorism. The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.9580555555555555,
+      "key": "223f93a968c8"
+    },
+    {
+      "text": "Moment tornado tears through southern France. The tornado has injured more than 40 people and destroyed homes in villages.",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.9719444444444445,
+      "key": "3758a3e98b9a"
+    },
+    {
+      "text": "King of Norway's health has worsened, palace says. Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.71638888888889,
+      "key": "b8023044aed6"
+    },
+    {
+      "text": "Israel warns of 'forceful' response to kites flown from Gaza. Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.30888888888889,
+      "key": "c0e4d858e50f"
+    },
+    {
+      "text": "Russia's second-biggest online retailer targeted in Ukrainian strikes. Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.575555555555555,
+      "key": "a4f02267ed52"
+    },
+    {
+      "text": "Outrage in Nepal over rape and murder of three-year-old girl. There have been protests since the girl was found dead last week, three days after she went missing.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.841388888888889,
+      "key": "64d790d322f4"
+    },
+    {
+      "text": "Nearly three million Teslas recalled in China over hidden door handles. Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.356111111111111,
+      "key": "a01a37152428"
+    },
+    {
+      "text": "Sonya Massey's killer Sean Grayson dies in US prison. The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.012222222222222,
+      "key": "986aa5c206f6"
+    },
+    {
+      "text": "Access to Zambian courts prevented as election petition deadline looms. Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.210277777777778,
+      "key": "c95a656274c0"
+    },
+    {
+      "text": "Four arrested over suspected poisoning of elephants in Kenya. An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.1075,
+      "key": "f0ea15ad11b9"
+    },
+    {
+      "text": "China probes use of formaldehyde to keep cabbages fresh. Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.56833333333333,
+      "key": "1be87b8baccc"
+    },
+    {
+      "text": "Guinea rubbish landfill collapse kills 31. A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.809722222222222,
+      "key": "9554b5c46600"
+    },
+    {
+      "text": "Four arrested over boxing champion's murder in South Africa. One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.702222222222222,
+      "key": "116e0dc138ec"
+    },
+    {
+      "text": "US plans to revoke business, tourism visas of 200,000 asylum seekers. If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8216666666666667,
+      "key": "ccb136797252"
+    },
+    {
+      "text": "DRC’s constitutional battle: The fight over the 2028 vote. President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2758333333333334,
+      "key": "c06aeefd04e8"
+    },
+    {
+      "text": "Search continues in Tunisia as migrant boat sinking sparks protests. Tunisia&#039;s Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.538888888888889,
+      "key": "be105c3506ee"
+    },
+    {
+      "text": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners. US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.8505555555555555,
+      "key": "9ea913f08a35"
+    },
+    {
+      "text": "How US sanctions on Iran ripple through global markets and consumers. New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0833333333333335,
+      "key": "ff823de7b746"
+    },
+    {
+      "text": "US Supreme Court allows Trump’s mail voting restrictions to proceed. Mail balloting has long been a favourite target of US President Donald Trump.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.182777777777778,
+      "key": "17ca17b7b41e"
+    },
+    {
+      "text": "US removes Syria from ‘state sponsor of terrorism’ list. Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.31,
+      "key": "5f5eb34910da"
+    },
+    {
+      "text": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms. Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.5316666666666667,
+      "key": "f690bbfc58e6"
+    },
+    {
+      "text": "US public support for Iran war falls as Trump approval at record low: Poll. Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.264444444444444,
+      "key": "f0a3cef98b63"
+    },
+    {
+      "text": "Iconic Palestinian artist Sliman Mansour passes away at age 79. Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.310555555555555,
+      "key": "0e650481ee7f"
+    },
+    {
+      "text": "Displaced Palestinians in Gaza face intensifying Israeli strikes. Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.648888888888889,
+      "key": "aa37d06d73e6"
+    },
+    {
+      "text": "What’s behind domestic political pressure on Ukraine’s president?. Zelenskyy rejects call from sacked minister for wartime elections.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.94,
+      "key": "2751f5cccdcd"
+    },
+    {
+      "text": "Video: Iran reacts to US ‘economic D-Day’ sanctions. Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.044722222222222,
+      "key": "84cba3a1ae74"
+    },
+    {
+      "text": "Ceasefire monitoring mission arrives in Democratic Republic of Congo. Fighting persists in the mineral-rich region despite ceasefire agreements.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.048055555555556,
+      "key": "cca2861bb3a3"
+    },
+    {
+      "text": "Ambush in South Sudan kills peacekeeping troops. Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.060555555555555,
+      "key": "293e5c3e6458"
+    },
+    {
+      "text": "How to encourage smarter AI use in the classroom. This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically ",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 17.297777777777778,
+      "key": "fa3821315dd7"
+    },
+    {
+      "text": "The Download: kids outlearning AI, and space travel agents. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thous",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.469722222222224,
+      "key": "0c7fe457ce27"
+    },
+    {
+      "text": "Kids outlearn AI—and we still don’t know why. People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.636388888888888,
+      "key": "c78321fa0fd5"
+    },
+    {
+      "text": "Google Pixel 11 Pro Fold Review: Better, Not Best. A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
+      "url": "https://www.wired.com/review/google-pixel-11-pro-fold/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.08416666666666667,
+      "key": "9a27d45ac20e"
+    },
+    {
+      "text": "The US Just Recorded Its First 2 Measles Deaths This Year. The fatalities come amid declining vaccination rates and calls from President Donald Trump to split up the MMR vaccine.",
+      "url": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.5488888888888889,
+      "key": "462df29696af"
+    },
+    {
+      "text": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms. The Supreme Court has removed one roadblock from the Trump administration’s attempts to impose severe restrictions on voting.",
+      "url": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.5575,
+      "key": "2c74e0122fcf"
+    },
+    {
+      "text": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date. Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 price bump.",
+      "url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.8341666666666665,
+      "key": "060c79a3d175"
+    },
+    {
+      "text": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026). After years of smells, strange noises, and “tea,” these are the composters and food recyclers I’d actually recommend.",
+      "url": "https://www.wired.com/story/home-composters-buying-guide/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 7.3341666666666665,
+      "key": "125f36461d0f"
+    },
+    {
+      "text": "The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil. The best car phone holders keep your phone firmly in place while never getting in your line of sight. I took a dozen on road trips this summer to find the best.",
+      "url": "https://www.wired.com/story/best-car-phone-mounts-and-holders/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 7.700833333333334,
+      "key": "5e680592fd6c"
+    },
+    {
+      "text": "The County Prosecutors Who Became ICE Informants. Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative oversight.",
+      "url": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 7.8341666666666665,
+      "key": "1582a4012e2c"
+    },
+    {
+      "text": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation. The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment.",
+      "url": "https://www.wired.com/review/optoma-gt2400hdr/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.300833333333333,
+      "key": "a4ae5602ae07"
+    },
+    {
+      "text": "Border Wall Construction Threatens 6,000 Years of History on Private Lands. Archeologists are confronting an “unfathomable” loss as border wall construction is set to cut across ranches that are home to unique historical sites, many of which haven’t been fully studied.",
+      "url": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.834166666666667,
+      "key": "c505402376a8"
+    },
+    {
+      "text": "It Should Be Harder to Apply for a Job. No, Really. Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+      "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.334166666666667,
+      "key": "76ef4779aa94"
+    },
+    {
+      "text": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out. “It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+      "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.584166666666667,
+      "key": "9ff10e984671"
+    },
+    {
+      "text": "Omega Just Released a Mini Moonwatch. Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
+      "url": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.834166666666667,
+      "key": "276776bda9c9"
+    },
+    {
+      "text": "Data Centers Are Driving an Alarming Gas Power Expansion in the US. There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+      "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.8175,
+      "key": "2982873e812d"
+    },
+    {
+      "text": "Bitdefender VPN Review: Fast and Affordable Privacy. Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+      "url": "https://www.wired.com/review/bitdefender-vpn/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 21.700833333333332,
+      "key": "0610c1bb308b"
+    },
+    {
+      "text": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It. With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
+      "url": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.06972222222222,
+      "key": "a1f9307781a6"
+    },
+    {
+      "text": "Arizona grandpa to undergo amputation after collapsing on scorching sidewalk. A 72-year-old man collapsed on a 120-degree sidewalk in Arizona and suffered severe burns that will require above-knee amputation of his leg.",
+      "url": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.2427777777777778,
+      "key": "011020cf626b"
+    },
+    {
+      "text": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says. Veteran child abuse prosecutor Jonathan Hatami says public support for Lindsay Clancy is overshadowing the three children she is accused of killing.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.2119444444444445,
+      "key": "f7e917d9ec4c"
+    },
+    {
+      "text": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses. Isaac Melendez-Carranza, an illegal immigrant from El Salvador, allegedly dealt fentanyl near Park View High School in Loudoun County, Virginia.",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2666666666666666,
+      "key": "51e5c46e6d0b"
+    },
+    {
+      "text": "Houston Uber driver caught in wild police chase as officers seen on dashcam video hitching a ride in his car. The dashcam video shows Houston police riding with the Uber driver for several minutes before spotting the suspect and resuming pursuit on foot.",
+      "url": "https://www.foxnews.com/us/houston-uber-driver-caught-wild-police-chase-officers-seen-dashcam-video-hitching-ride-his-car",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.4658333333333333,
+      "key": "126b4585ea1d"
+    },
+    {
+      "text": "Abdul El-Sayed grilled on past statements on Sharia law and White supremacy, taxing the rich. Abdul El-Sayed clashed with Jesse Watters over Sharia law, wealth taxes, and his Senate race against Mike Rogers in a fiery primetime exchange.",
+      "url": "https://www.foxnews.com/media/abdul-el-sayed-grilled-past-statements-sharia-law-white-supremacy-taxing-rich",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.5411111111111113,
+      "key": "1f7056e97d39"
+    },
+    {
+      "text": "Trump administration proposes six-figure price tag for new H-1B visas. The Department of Homeland Security proposed making the $103,265 H-1B visa fee permanent after a federal judge blocked the temporary charge.",
+      "url": "https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.7183333333333333,
+      "key": "e21b6ab9d2dc"
+    },
+    {
+      "text": "Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue. Matt Ryan backed Enes Kanter Freedom&apos;s ejection from the Indiana Fever-Chicago Sky game, calling out the WNBA&apos;s failure to protect women&apos;s sports.",
+      "url": "https://www.foxnews.com/outkick-sports/ex-lakers-player-speaks-defense-enes-kanter-doubles-down-against-wnbas-trans-issue",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.0744444444444445,
+      "key": "5c7f745a92f8"
+    },
+    {
+      "text": "Rob Manfred addresses possibility of cancelling 2027 Major League Baseball season: 'We want to play'. Rob Manfred said Major League Baseball &quot;wants&quot; and is &quot;planning&quot; to play in 2027 but stopped short of guaranteeing no lockout as CBA talks continue.",
+      "url": "https://www.foxnews.com/outkick-sports/rob-manfred-addresses-possibility-cancelling-2027-major-league-baseball-season-want-play",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.266111111111111,
+      "key": "c516e63fd14f"
+    },
+    {
+      "text": "More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers. Jed York responded to an ad on a known prostitution website and was intercepted near a trailer park in East Palestine, Ohio, during a police sting.",
+      "url": "https://www.foxnews.com/outkick-sports/details-jed-yorks-arrest-prostitution-sting-begs-questions-49ers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.465277777777778,
+      "key": "a13b013b60a1"
+    },
+    {
+      "text": "Syria off US terror blacklist after nearly 50 years as Trump admin clears investment hurdle. The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.",
+      "url": "https://www.foxnews.com/world/syria-off-us-terror-blacklist-after-nearly-50-years-trump-admin-clears-investment-hurdle",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.637222222222222,
+      "key": "4e21b219a830"
+    },
+    {
+      "text": "Trump admin eyes historic mass visa revocation targeting up to 200K asylum seekers: report. The Trump administration is reportedly preparing to revoke B1 and B2 visas held by up to 200,000 foreigners who applied for asylum in the United States.",
+      "url": "https://www.foxnews.com/politics/trump-admin-eyes-historic-mass-visa-revocation-targeting-200k-asylum-seekers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.9225,
+      "key": "55a09bfcc885"
+    },
+    {
+      "text": "Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman'. Enes Kanter Freedom reveals exactly what Natasha Cloud screamed at him courtside before security ejected him from the Indiana Fever-Chicago Sky game.",
+      "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-exposes-natasha-clouds-profane-tirade-ingraham-angle-wnba-ejection",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.964166666666666,
+      "key": "e5e87c1450f3"
+    },
+    {
+      "text": "John Harbaugh calls it 'reasonable to assume' Malik Nabers will be available for Giants in Week 1 vs Cowboys. Malik Nabers shed his red non-contact jersey at Giants training camp, and head coach John Harbaugh said it&apos;s reasonable to assume he&apos;ll play Week 1.",
+      "url": "https://www.foxnews.com/outkick-sports/john-harbaugh-calls-reasonable-assume-malik-nabers-available-giants-week-1-vs-cowboys",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.118333333333333,
+      "key": "4486bcb88eda"
+    },
+    {
+      "text": "Utah teen charged with killing mother, 8-year-old brother as mystery of final hours unravels: police. The Utah juvenile murder case against the 17-year-old includes surveillance audio allegedly capturing an argument and three gunshots inside the family&apos;s home.",
+      "url": "https://www.foxnews.com/us/utah-teen-charged-killing-mother-8-year-old-brother-mystery-final-hours-unravels-police",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.197777777777778,
+      "key": "2653cd476492"
+    },
+    {
+      "text": "Sydney Sweeney tells Tom Cruise to 'watch out' after strapping herself to top of airplane. Sydney Sweeney&apos;s video shows her strapped atop a flipping airplane, prompting the official &quot;Top Gun&quot; Instagram account to respond to her Tom Cruise joke.",
+      "url": "https://www.foxnews.com/entertainment/sydney-sweeney-tells-tom-cruise-watch-out-strapping-herself-top-airplane",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.558611111111111,
+      "key": "525634d979af"
+    },
+    {
+      "text": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?. What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.14222222222222222,
+      "key": "92c2a83ae936"
+    },
+    {
+      "text": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds. Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "3cd84f9b4df8"
+    },
+    {
+      "text": "When is suspending students discrimination? Education Dept. renews an old fight. President Trump's Education Department is telling schools to stop considering race when it comes to school discipline.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "9cc46bffbf64"
+    },
+    {
+      "text": "Kids with brain injuries thrive at this camp. But federal research funding is in flux. A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "7f4ca4e705de"
+    },
+    {
+      "text": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'. Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "f09cfecbdf41"
+    },
+    {
+      "text": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show. DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "6c4cc2bfedd5"
+    },
+    {
+      "text": "How to understand this heat wave (as told by NPR's senior climate editor). As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here's what I tell them.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.2613888888888889,
+      "key": "63756789427b"
+    },
+    {
+      "text": "Morning news brief. A look at the new round of U.S. economic sanctions on Iran, Iran vows to retaliate, SCOTUS hands President Trump a temporary win on his efforts to restrict voting by mail.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5180555555555556,
+      "key": "ed7d5745d2df"
+    },
+    {
+      "text": "Indonesians brave choking smoke to pray for rain as country battles wildfires. Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.8569444444444443,
+      "key": "ee721cd8013c"
+    },
+    {
+      "text": "The UK will help Ukraine make long-range missiles by sharing classified tech information. Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.027222222222222,
+      "key": "dd58298d9a5c"
+    }
+  ],
+  "contexts": {}
+}

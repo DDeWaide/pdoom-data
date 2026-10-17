@@ -1,0 +1,581 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-10-17T12:49:52.056804+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260902031012",
+    "NPR World": null,
+    "Al Jazeera": "20260902060035",
+    "MIT Technology Review": "20260902094702",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260902043130",
+    "Fox News Latest": "20260902050328",
+    "NPR News": "20260902084920",
+    "ABC News Top": null,
+    "Science Daily": "20260902063720",
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Germany says Russia behind Leipzig airport drone attack. A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.1716666666666666,
+      "key": "42b24a94c7b4"
+    },
+    {
+      "text": "Iran retaliates after US strikes kill four at wedding party, state media reports. Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.946111111111111,
+      "key": "6f98dd40250a"
+    },
+    {
+      "text": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban. As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 22.160555555555554,
+      "key": "ed7020432880"
+    },
+    {
+      "text": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC. Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.981666666666667,
+      "key": "278c08f4b50f"
+    },
+    {
+      "text": "Sexual assaults happening almost every day in Ceuta, prosecutors say. Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.616111111111111,
+      "key": "021349fe89fc"
+    },
+    {
+      "text": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying. The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.080277777777778,
+      "key": "94f6403b33f4"
+    },
+    {
+      "text": "Ariana Grande completes tour and steps back from public life. The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.485277777777778,
+      "key": "68f3fe10de2f"
+    },
+    {
+      "text": "Pistol in a lake gives hope for French cold case. Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.611944444444445,
+      "key": "9bf7d55d8351"
+    },
+    {
+      "text": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'. El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.053888888888888,
+      "key": "5a15c7303227"
+    },
+    {
+      "text": "France targets Shein and Temu with fast fashion fees. The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.904166666666667,
+      "key": "801164ca641b"
+    },
+    {
+      "text": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief. The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
+      "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.215,
+      "key": "32bc06eec2f3"
+    },
+    {
+      "text": "Israel says Hamas security chief captured as strikes kill four during Gaza raid. The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.762222222222222,
+      "key": "653e8c20a67e"
+    },
+    {
+      "text": "Trump says US position on Falklands 'one of many' under review. The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.578888888888889,
+      "key": "0d8f83ae1ecc"
+    },
+    {
+      "text": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur. Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.733333333333333,
+      "key": "0bd5c70a7f48"
+    },
+    {
+      "text": "Russian attack hits rail workers in new deadly strikes on Kyiv. Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.654722222222222,
+      "key": "1a931dfaaa66"
+    },
+    {
+      "text": "Palestinian artist Saint Levant delays tour amid US visa complications. Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.45611111111111113,
+      "key": "70d1f5906e20"
+    },
+    {
+      "text": "Syria’s restrained approach to Israel carries risks. Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8952777777777777,
+      "key": "a88733890abb"
+    },
+    {
+      "text": "Hong Kong activist Joshua Wong pleads guilty in national security case. Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9258333333333333,
+      "key": "2a186169afe3"
+    },
+    {
+      "text": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support. Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2772222222222223,
+      "key": "324b342825c8"
+    },
+    {
+      "text": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion. High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5672222222222223,
+      "key": "be3c59ab0ef7"
+    },
+    {
+      "text": "Tunisia’s civil society faces growing pressure as crackdown widens. Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9908333333333332,
+      "key": "d90b8722cbb2"
+    },
+    {
+      "text": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US. The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.47,
+      "key": "7bb9a67afbd6"
+    },
+    {
+      "text": "US strikes on Iran kill child at wedding ceremony. Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5525,
+      "key": "0dd0726805cf"
+    },
+    {
+      "text": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app. The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.631666666666667,
+      "key": "bc1dbe7fc639"
+    },
+    {
+      "text": "Honduran court drops case against ex-President Hernandez after Trump pardon. Juan Orlando Hernandez had been accused of money laundering and fraud as part of a government corruption scheme.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.428611111111111,
+      "key": "640314a30568"
+    },
+    {
+      "text": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion. The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.6638888888888888,
+      "key": "c98555c9f24a"
+    },
+    {
+      "text": "What to know about Germany’s drone attack accusations against Russia. German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.342777777777778,
+      "key": "19f38fae75d8"
+    },
+    {
+      "text": "Iran says US bombed a wedding party in Sirik, killing five people. Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.427777777777778,
+      "key": "e8931e58b416"
+    },
+    {
+      "text": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad. UN watchdog says Syria &#039;failed to report nuclear material, facilities and activities&#039; under Bashar al-Assad&#039;s rule.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.658055555555555,
+      "key": "66058bea7013"
+    },
+    {
+      "text": "US launches new strikes on Iran, denies its bases hit in Jordan. The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.904444444444445,
+      "key": "328f4913cde4"
+    },
+    {
+      "text": "How AI plotted an interstellar journey to Alpha Centauri. A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 14.607222222222223,
+      "key": "f30d5f4f4fb2"
+    },
+    {
+      "text": "Making the AI-powered case for legacy modernization. For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer ",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.78388888888889,
+      "key": "a10d75cc595f"
+    },
+    {
+      "text": "The Download: engineered microbes for crops, and OpenAI’s culture problem. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emiss",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.61722222222222,
+      "key": "0548bed2a11e"
+    },
+    {
+      "text": "Haitian college student in Ohio dies by apparent suicide after losing TPS status, family says. A Haitian-born college student in Ohio died in what his family believes to be a suicide after he was stripped of his temporary protected status.",
+      "url": "https://www.foxnews.com/us/haitian-college-student-ohio-dies-apparent-suicide-losing-tps-status-family-says",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.2475,
+      "key": "d3bfb38fc69d"
+    },
+    {
+      "text": "Hasan Piker cheerleads progressives as 80-year-old senator wins six more years. Hasan Piker celebrated Ed Markey&apos;s Massachusetts primary win over Seth Moulton, calling it proof that progressive policies and trans rights are winning.",
+      "url": "https://www.foxnews.com/politics/hasan-piker-cheerleads-progressives-80-year-old-senator-wins-six-more-years",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8916666666666667,
+      "key": "89447fb62cee"
+    },
+    {
+      "text": "Lindsay Clancy verdict still within reach – retired Massachusetts judge pushes back on hung-jury predictions. Lindsay Clancy murder trial jury reported a deadlock Tuesday, but a retired Massachusetts judge said a unanimous verdict remains very possible.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-verdict-within-reach-retired-massachusetts-judge-pushes-back-hung-jury-predictions",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.0433333333333332,
+      "key": "c5fbb8f48501"
+    },
+    {
+      "text": "Progressive push hits wall against conservative Democrat in deep-blue district. Stephen Lynch defeated progressive challenger Patrick Roath in the Massachusetts 8th Congressional District Democratic primary despite clashes over ICE.",
+      "url": "https://www.foxnews.com/politics/progressive-push-hits-wall-against-conservative-democrat-deep-blue-district",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.3119444444444444,
+      "key": "f55bf3968b60"
+    },
+    {
+      "text": "Washington homeowner hears mysterious banging, calls 911 before police find growling bobcat at top of stairs. Video shows a growling bobcat perched atop a Washington homeowner&apos;s staircase after police responded to a reported burglary in a neighborhood.",
+      "url": "https://www.foxnews.com/us/washington-homeowner-hears-mysterious-banging-calls-911-police-find-growling-bobcat-top-stairs",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.821388888888889,
+      "key": "9852928a512a"
+    },
+    {
+      "text": "One of Congress' most powerful Democrats just survived a progressive primary revolt. Richard Neal defeated progressive challenger Jeromie Whalen in the Massachusetts 1st Congressional District primary, but the seniority debate rages on.",
+      "url": "https://www.foxnews.com/politics/congress-powerful-democrats-survived-progressive-primary-revolt",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.853611111111111,
+      "key": "30211762b342"
+    },
+    {
+      "text": "Biden-Harris favorite gets second shot at Congress, beats Squad-backed candidate. Dan Koh, backed by Joe Biden and Kamala Harris, won a crowded Democratic primary for the House seat Seth Moulton is vacating in Massachusetts.",
+      "url": "https://www.foxnews.com/politics/biden-harris-favorite-gets-second-shot-congress-beats-squad-backed-candidate",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.4316666666666666,
+      "key": "4f8291600788"
+    },
+    {
+      "text": "Clemson's Dabo Swinney throws shade at Lane Kiffin, LSU over bringing in NFL players: 'It's embarrassing'. Dabo Swinney called the wave of NFL players joining Lane Kiffin&apos;s LSU Tigers &apos;embarrassing&apos; ahead of the huge Clemson college football opener.",
+      "url": "https://www.foxnews.com/outkick-sports/clemsons-dabo-swinney-throws-shade-lane-kiffin-lsu-bringing-nfl-players-embarrassing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.1066666666666665,
+      "key": "a9d271d484af"
+    },
+    {
+      "text": "Tyler Robinson to face trial in Charlie Kirk assassination as judge keeps death penalty on table. A Utah judge ruled prosecutors presented enough evidence for trial on all seven counts against Tyler Robinson in Charlie Kirk&apos;s fatal shooting.",
+      "url": "https://www.foxnews.com/us/tyler-robinson-face-trial-charlie-kirk-assassination-judge-keeps-death-penalty-table",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.1902777777777778,
+      "key": "a2cf956414b1"
+    },
+    {
+      "text": "Ohio man accused of vandalizing JD Vance’s home pleads guilty. The Ohio man was detained by Secret Service agents after allegedly using a hammer to attack JD Vance’s residence and a federal vehicle.",
+      "url": "https://www.foxnews.com/us/ohio-man-accused-vandalizing-jd-vances-home-pleads-guilty",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2086111111111113,
+      "key": "2c09b69d3db4"
+    },
+    {
+      "text": "Top Democrat survives double-barreled challenge as party’s Israel divide hits home. House Minority Whip Katherine Clark advanced past two left-wing challengers who made Gaza and AIPAC money central issues in the Democratic primary.",
+      "url": "https://www.foxnews.com/politics/top-democrat-survives-double-barreled-challenge-partys-israel-divide-hits-home",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.4252777777777776,
+      "key": "5f8cf29c3de7"
+    },
+    {
+      "text": "House Democrat survives left-flank challenge as Bernie volunteer mounts insurgent bid. Jake Auchincloss advanced against progressive challenger Jason Poulos, who campaigned on Medicare-for-all and ending U.S. military aid to Israel.",
+      "url": "https://www.foxnews.com/politics/house-democrat-survives-left-flank-challenge-bernie-volunteer-mounts-insurgent-bid",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.5816666666666666,
+      "key": "34a5bb6c20b6"
+    },
+    {
+      "text": "Trump taps ‘true warrior’ Hung Cao as Navy secretary after 4 months as acting leader. Hung Cao, a retired Navy captain and special operations veteran, has led the Department of the Navy for four months as President Trump now seeks Senate confirmation.",
+      "url": "https://www.foxnews.com/politics/trump-taps-true-warrior-hung-cao-navy-secretary-after-4-months-acting-leader",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.652222222222222,
+      "key": "0106cc10ae3d"
+    },
+    {
+      "text": "AOC caught off guard when asked by TMZ whether she'd ever date a conservative after reported split from fiancé. Alexandria Ocasio-Cortez laughed when TMZ asked if she&apos;d date a conservative, citing values alignment after her reported split with Riley Roberts.",
+      "url": "https://www.foxnews.com/media/aoc-caught-off-guard-tmz-whether-shed-ever-date-conservative-after-reported-split-fiance",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.736666666666667,
+      "key": "aad898b1428e"
+    },
+    {
+      "text": "Massive World Trade Center steel beam arrives at West Point, uniting 9/11 heroes with generation sent to war. A 16,900-pound steel beam from the South Tower of the World Trade Center arrived at West Point as Tunnel to Towers marks 25 years since 9/11.",
+      "url": "https://www.foxnews.com/lifestyle/massive-world-trade-center-steel-beam-arrives-west-point-uniting-9-11-heroes-generation-sent-war",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.911388888888889,
+      "key": "701925eb6c24"
+    },
+    {
+      "text": "Morning news brief. U.S. military strikes rock Iran for a second day in a row, Trump attempts to combat rising gas prices as midterm approaches, Sen. Ed Markey wins Massachusetts' Democratic primary.",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947220/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.0961111111111111,
+      "key": "93b7453d1f16"
+    },
+    {
+      "text": "Germany blames Russia for last month's attempted drone attack at Leipzig airport. The German government blamed Russia for an attempted attack at Leipzig airport last month using a drone laden with explosives. It announced that it would shut down a Russian consulate among measures.",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.10416666666666667,
+      "key": "dab05ffc8d37"
+    },
+    {
+      "text": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation. The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.569166666666667,
+      "key": "9f5fb474b191"
+    },
+    {
+      "text": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate. Bucking a push for younger leadership this election season, Sen. Ed Markey, 80, won the Democratic nomination against Rep. Seth Moulton, 47, who said that his party needed new leaders.",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.176111111111112,
+      "key": "5d752d18e4ac"
+    },
+    {
+      "text": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations. The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members.",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.516666666666667,
+      "key": "113a3edf158e"
+    },
+    {
+      "text": "A week after the deadly floods in Nepal, rescuers work to find survivors. Nearly a week after flash floods devastated parts of Nepal and Tibet, rescuers are still searching for people trapped in hydropower plants. But first they have to find the plants.",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5951528/nepal-floods-rescuers-struggle-to-locate-power-plants-to-find-trapped-survivors",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.601111111111111,
+      "key": "4187a4e4a39e"
+    },
+    {
+      "text": "Too much coffee may weaken bones, study finds. Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health ",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "bff294ed2e4f"
+    },
+    {
+      "text": "Earth may have lost the Sun’s protective shield millions of years ago. NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as well as how early Earth stayed warm enough for liquid water when the Sun was much dimmer.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "74a018469fac"
+    },
+    {
+      "text": "Scientists discover why snake embryos twist into spirals. Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and twist inside the egg. Researchers reached the conclusion after studying more than 900 embryos and usin",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "449d958cdf12"
+    },
+    {
+      "text": "Mindfulness may lower blood pressure in just 8 weeks. Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforcement, suggesting that improving psychological well-being could become another tool for protecting card",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "9bbb85d2a4db"
+    },
+    {
+      "text": "One of Earth’s driest places was just covered in snow. Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods and mudflows, and unfolded against the backdrop of a strengthening El Niño.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "9e5ed9faf74f"
+    },
+    {
+      "text": "NASA delays Crew-13 launch after leak found on SpaceX Dragon. NASA and SpaceX have delayed Crew-13 after finding an oxidizer leak in the Dragon spacecraft’s propulsion system during prelaunch preparations. Engineers are investigating the problem before the four-person crew can begin its journey to the International Space Station.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "34a7ebf48504"
+    },
+    {
+      "text": "NASA’s Swift telescope is back, but time is running out. NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft downward faster than expected, scientists may have only another month or two before Swift falls below ",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "3af25f2164f7"
+    },
+    {
+      "text": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets. NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic sur",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "526fd303c1d6"
+    },
+    {
+      "text": "A massive plume deep beneath Africa is pulling the continent apart. A vast plume rising from deep inside Earth may be responsible for mysterious movements along the East African Rift. The discovery reveals how forces deep in the mantle are working alongside shallower geological forces as the continent slowly pulls apart.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015210.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "a8cbd71a4d43"
+    },
+    {
+      "text": "Scientists find why the liver may not heal even after you stop drinking. Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors and identified a pathway that could potentially be targeted to restore liver repair.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "6fdd18f99f6f"
+    },
+    {
+      "text": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%. A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep, AD109 could offer a new option for people unable to tolerate CPAP.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "2ae967dc2f8f"
+    },
+    {
+      "text": "A search for one exotic particle uncovered two strange new structures. A search for one mysterious particle unexpectedly revealed evidence for two different structures that may belong to the bizarre family of exotic subatomic particles known as XYZ states. The findings could help physicists uncover new ways that quarks and gluons combine to create matter.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "888ecff3beb2"
+    },
+    {
+      "text": "Scientists find a human-only gene that may help explain our brainpower. Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilities.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015141.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "9f2097a66e16"
+    },
+    {
+      "text": "Popular sweeteners may leave effects that last for generations. Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism ",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "d134200de71c"
+    },
+    {
+      "text": "HEPA air purifiers may boost brain function after just one month. Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "83da3f075428"
+    }
+  ],
+  "contexts": {}
+}

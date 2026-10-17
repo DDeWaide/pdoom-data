@@ -1,0 +1,525 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-17T13:07:38.051021+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20261013140059",
+    "MIT Technology Review": "20261013000045",
+    "Ars Technica": "20261013000149",
+    "The Verge AI": null,
+    "Wired": "20261013000006",
+    "CNN Top Stories": "20261013044158",
+    "Fox News Latest": "20261013051210",
+    "NPR News": "20261013000302",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "F1 set to return to Africa for first time in three decades. Formula One has signed a 10-year agreement with Rwanda to bring the sport back to Africa for the first time since 1993.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.5302777777777777,
+      "key": "646a1ed6a5af"
+    },
+    {
+      "text": "French fridge fright: Why supermarkets have become target for hackers. More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8702777777777778,
+      "key": "fc3985d2bf1d"
+    },
+    {
+      "text": "Trump’s diesel deal opens a new rift with Europe over Ukraine. Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9047222222222222,
+      "key": "038d4068339b"
+    },
+    {
+      "text": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident. Iran has been accused of being behind a plot against an airbase in the UK.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9508333333333333,
+      "key": "b716b7e33b7c"
+    },
+    {
+      "text": "Iran threatens Gulf data centres: How exposed is the region’s internet?. Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9572222222222222,
+      "key": "bd8bcac31306"
+    },
+    {
+      "text": "Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa. Rwanda has secured a 10-year deal to host F1 races at a purpose-built race track on the outskirts of the capital, Kigali.",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0255555555555556,
+      "key": "94d7a3dcabe7"
+    },
+    {
+      "text": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib. Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0572222222222223,
+      "key": "e9deb3986b0e"
+    },
+    {
+      "text": "Greta Thunberg says French students are being “robbed” amid nationwide prot. Climate activist Greta Thunberg has joined demonstrating high school students in France as protests continue to grow.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2147222222222223,
+      "key": "0b24049bbf38"
+    },
+    {
+      "text": "African Union holds Kigali talks as fighting continues in eastern DRC. Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3425,
+      "key": "e4ae25e61452"
+    },
+    {
+      "text": "Australia bowl out South Africa to win first cricket Test in Durban. Hazlewood&#039;s 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5461111111111112,
+      "key": "5816fd952e62"
+    },
+    {
+      "text": "Yemeni families’ search for missing loved ones hindered by new fighting. Hundreds of people have gone missing in Yemen, with families not knowing whether they were killed in fighting or detained.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5997222222222223,
+      "key": "266836acf15f"
+    },
+    {
+      "text": "How protests have shaped India: From anti-Hindi agitation to farm laws. Activists challenging India&#039;s government over electoral roll controversies have a long legacy of protest to draw on.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0522222222222224,
+      "key": "c2484cd006d9"
+    },
+    {
+      "text": "India’s $87bn river-linking plan leaves villagers fighting for their homes. Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5011111111111113,
+      "key": "13eb1d1b9982"
+    },
+    {
+      "text": "‘My son was killed’: France faces backlash over police firearms bill. As protests nationwide protests rage, activists warn proposed law could lead to more impunity.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7180555555555554,
+      "key": "5235c294d24f"
+    },
+    {
+      "text": "Israel’s military raids NGO offices in Ramallah. Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.1286111111111112,
+      "key": "b4afba1bdc6b"
+    },
+    {
+      "text": "The Download: moon city problems and drone traffic controllers. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#8230;",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.845833333333333,
+      "key": "839aba7dc24d"
+    },
+    {
+      "text": "Mars may be a hellhole, but the moon is not far behind. Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 14.395277777777778,
+      "key": "49be21f8b76c"
+    },
+    {
+      "text": "Epic Games reportedly pivoting to \"AI first\" game development model. \"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 3.0330555555555554,
+      "key": "68518eed06d0"
+    },
+    {
+      "text": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad. You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 3.5930555555555554,
+      "key": "dc9329e0615c"
+    },
+    {
+      "text": "WHO report on Russian lab worker death highlights \"key uncertainty\". Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+      "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.251666666666667,
+      "key": "b3d47141b611"
+    },
+    {
+      "text": "Anthropic's Claude AI submitted false murder tip to Philadelphia police. “I may have information regarding this case,\" Claude AI told Philly police.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.670277777777778,
+      "key": "84b4bdfd8808"
+    },
+    {
+      "text": "Russia was not ready for the data center war it started with Ukraine. Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 6.153611111111111,
+      "key": "1bcdd8eb65a6"
+    },
+    {
+      "text": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port. Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.011388888888888,
+      "key": "3149577c8c7e"
+    },
+    {
+      "text": "F1 in Singapore: There's a new fastest car now. Also, F1’s final sprint saw our first real wet racing of the year.",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 9.309722222222222,
+      "key": "4c66da2aca4b"
+    },
+    {
+      "text": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air. The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.015833333333333,
+      "key": "9e3041443591"
+    },
+    {
+      "text": "Amazon has over 1 million robot workers. What’s next for human employees?. The second-largest corporate employer has bet big on robot workers to scale.",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.310833333333333,
+      "key": "52cb7bd061b2"
+    },
+    {
+      "text": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine. My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.777222222222222,
+      "key": "4d08ecabae7f"
+    },
+    {
+      "text": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him. Musk, we find your lack of security disturbing.",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.081666666666667,
+      "key": "f8bc10dd2c39"
+    },
+    {
+      "text": "Muse Wonder Puts Meta Back at the AI Frontier. Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.994166666666667,
+      "key": "5f37521647d8"
+    },
+    {
+      "text": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think. Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
+      "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.001666666666667,
+      "key": "15c06d8d5664"
+    },
+    {
+      "text": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation. The documentary chronicles how Star Trek’s positions on everything from race to AI were way ahead of their time.",
+      "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.501666666666667,
+      "key": "84e5c344b300"
+    },
+    {
+      "text": "Google Fitbit Edge: Specs, Features, Price, Release Date. The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
+      "url": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.001666666666667,
+      "key": "ff3b200df6de"
+    },
+    {
+      "text": "How Apple Puts Indigenous Languages on the iPhone Keyboard. To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
+      "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.751666666666667,
+      "key": "aa2498b15493"
+    },
+    {
+      "text": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer. Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesota state Senate candidate.",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.001666666666667,
+      "key": "ab69f040128f"
+    },
+    {
+      "text": "AlterMe Review: Fitness Built Around My DNA. Six months with AlterMe’s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I’d hoped.",
+      "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.435,
+      "key": "93ccc4fdbad3"
+    },
+    {
+      "text": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age. After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+      "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.501666666666667,
+      "key": "7a3b6dc008ce"
+    },
+    {
+      "text": "Far-Right Election Groups Are Now Targeting Nursing Homes. Inspired by new guidance from the Trump administration, right-wing election groups are targeting nursing homes, baselessly claiming that left-wing groups are stealing residents’ votes.",
+      "url": "https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.751666666666667,
+      "key": "db2b09c2dd3b"
+    },
+    {
+      "text": "The Best Gifts for the Techie in Your Life (2026). Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
+      "url": "https://www.wired.com/story/best-tech-gifts/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.001666666666667,
+      "key": "ff11cf3ab192"
+    },
+    {
+      "text": "Protester punched in face by Trump supporter, mocked by president at Ohio rally: 'Gotta go on a diet'. A supporter of President Donald Trump punched a heckler wearing a &quot;Release the Epstein Files&quot; shirt at the president&apos;s Youngstown, Ohio, rally.",
+      "url": "https://www.foxnews.com/politics/protester-punched-face-trump-supporter-mocked-president-ohio-rally-gotta-go-diet",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.24555555555555555,
+      "key": "2ac09ede234d"
+    },
+    {
+      "text": "Bills-Rams delivered every ounce of Super Bowl LXI preview talk as overtime thriller deserves a rematch. The Buffalo Bills outlasted the Los Angeles Rams, 37-34, in overtime after a blocked field goal and Tyler Bass&apos; clutch kick sealed the wild finish.",
+      "url": "https://www.foxnews.com/outkick-sports/bills-rams-delivered-every-ounce-super-bowl-lxi-preview-talk-overtime-thriller-deserves-rematch",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.0325,
+      "key": "927360574856"
+    },
+    {
+      "text": "Rays bullpen suffers embarrassing late meltdown as Cleveland bullies Tampa Bay in Game 1. Jose Ramirez&apos;s clutch ninth-inning single sparked a four-run Cleveland Guardians rally that broke open ALCS Game 1 against the Tampa Bay Rays.",
+      "url": "https://www.foxnews.com/outkick-sports/rays-bullpen-suffers-embarrassing-late-meltdown-cleveland-bullies-tampa-bay-game-1",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5255555555555556,
+      "key": "9e1111e0cd2f"
+    },
+    {
+      "text": "Former Eagles CB Asante Samuel calls out coach Nick Sirianni after brutal London loss: 'You lost the game'. Asante Samuel ripped Nick Sirianni for skipping a squib kick that let the Jacksonville Jaguars set up a walk-off field goal to stun the Eagles.",
+      "url": "https://www.foxnews.com/outkick-sports/former-eagles-cb-asante-samuel-calls-out-coach-nick-sirianni-brutal-london-loss-you-lost-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.607222222222222,
+      "key": "ab411ed4ebe1"
+    },
+    {
+      "text": "Man admits to dismembering ex-girlfriend, keeping severed head in suitcase after she played him 'like a fool'. A New York man pleaded guilty to second-degree murder after he admitted that he murdered and dismembered his ex-girlfriend and kept her severed head in a suitcase.",
+      "url": "https://www.foxnews.com/us/man-admits-dismembering-ex-girlfriend-keeping-severed-head-suitcase-played-fool",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.6933333333333334,
+      "key": "337b2e0bebca"
+    },
+    {
+      "text": "Bears kicker goes viral after trying to trip Packers receiver who decked Chicago coach on sideline. Matthew Golden crashed into a Bears coach on the NFC North sideline, and Cairo Santos&apos; attempted trip in response quickly went viral after the rout.",
+      "url": "https://www.foxnews.com/outkick-sports/bears-kicker-goes-viral-trying-trip-packers-receiver-decked-chicago-coach-sideline",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8866666666666667,
+      "key": "6a82cffd2282"
+    },
+    {
+      "text": "ABC accuses FCC of trying to 'inflict maximal coercive pressure' with probe against network. Disney&apos;s latest filing accused the FCC on Monday of using early broadcast license renewals to dodge judicial review and exert coercive pressure on ABC.",
+      "url": "https://www.foxnews.com/media/abc-accuses-fcc-trying-inflict-maximal-coercive-pressure-probe-against-network",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.1963888888888885,
+      "key": "75a9a2c6c117"
+    },
+    {
+      "text": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers. Milwaukee&apos;s BABIP machine and unhittable bullpen put the Los Angeles Dodgers&apos; three-peat hopes on life support with a commanding 2-0 NLCS lead.",
+      "url": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-brink-milwaukee-babip-machine-dials-another-win-brewers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.391666666666667,
+      "key": "2b82af34df71"
+    },
+    {
+      "text": "WNBA gives Cheryl Reeve another award after playoff collapse and years of outspoken left-wing politics. Cheryl Reeve won WNBA Executive of the Year for a third time, but the Lynx&apos;s historic first-round playoff sweep raises questions about the honor.",
+      "url": "https://www.foxnews.com/outkick-sports/wnba-gives-cheryl-reeve-another-award-after-playoff-collapse-years-outspoken-left-wing-politics",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.4925,
+      "key": "8a39d7fc69e7"
+    },
+    {
+      "text": "Online marketplace jewelry listing tied to armed robbery in affluent Tennessee city. A Facebook Marketplace jewelry listing lured armed robbers to a Franklin, Tennessee, home, sparking a police chase and three arrests on felony charges.",
+      "url": "https://www.foxnews.com/us/online-marketplace-jewelry-listing-tied-armed-robbery-affluent-tennessee-city",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.542777777777777,
+      "key": "4733696d0ede"
+    },
+    {
+      "text": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack. Gen. Alexus Grynkewich outlined NATO&apos;s strategy to &quot;block, blunt and break&quot; enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
+      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.833888888888889,
+      "key": "9c300ab7545f"
+    },
+    {
+      "text": "NPR CEO who previously called First Amendment a 'challenge' to receive 'First Amendment Award'. NPR CEO Katherine Maher will receive Harper&apos;s Magazine First Amendment Award despite once calling the amendment a &quot;challenge&quot; to fighting disinformation.",
+      "url": "https://www.foxnews.com/media/npr-ceo-previously-called-first-amendment-challenge-receive-first-amendment-award",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.035,
+      "key": "706ad2639752"
+    },
+    {
+      "text": "Abdul El-Sayed's alleged family ties to Muslim Brotherhood surface after denying any link during NBC interview. Abdul El-Sayed denied any Muslim Brotherhood ties on &quot;Meet the Press,&quot; but his half-sister&apos;s social media posts appear to tell a different story.",
+      "url": "https://www.foxnews.com/media/abdul-el-sayed-alleged-family-ties-muslim-brotherhood-surface-after-denying-link-nbc-interview",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.050833333333333,
+      "key": "6f3f359dd8b1"
+    },
+    {
+      "text": "Pro wrestler's reference to deadly Saudi airport attack during match entrance costs him job at TNA Wrestling. Max Caster&apos;s Bound for Glory rap referenced the Riyadh airport attack, prompting TNA to ban him and scrub all related content from social media.",
+      "url": "https://www.foxnews.com/outkick-sports/pro-wrestler-reference-deadly-saudi-airport-attack-match-entrance-costs-job-tna-wrestling",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.595555555555555,
+      "key": "57dc5900ce51"
+    },
+    {
+      "text": "Eric Trump trashes ABC over 'bulls--- hit piece,' backs call for FCC probe into revised story. Eric Trump backed Sen. Bernie Moreno&apos;s call for an FCC investigation into ABC News&apos; erroneous report linking his family to Anduril Pentagon contracts.",
+      "url": "https://www.foxnews.com/media/eric-trump-trashes-abc-bulls-hit-piece-backs-call-fcc-probe-revised-story",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.707222222222223,
+      "key": "2371852303ce"
+    },
+    {
+      "text": "New White House press secretary a \"devoted fan\" of Trump and MAGA. Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.7552777777777777,
+      "key": "3f7340eb74dd"
+    },
+    {
+      "text": "Government spent $10 million on pro-Trump ads after president said super PAC would fund. Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.7708333333333333,
+      "key": "55178f0f1a06"
+    },
+    {
+      "text": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant. The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 6.7625,
+      "key": "251f0c9d4a8e"
+    },
+    {
+      "text": "India's opposition parties march to top court as protests over voter lists escalate. Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.018888888888888,
+      "key": "2b6af8a1463f"
+    },
+    {
+      "text": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader. The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.551666666666666,
+      "key": "56a8671aa6ac"
+    },
+    {
+      "text": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments. The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.050555555555556,
+      "key": "169ce0d1f33e"
+    },
+    {
+      "text": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.41638888888889,
+      "key": "4208c531b1b9"
+    },
+    {
+      "text": "Texas' 15th Congressional District provides clues to state's Latino vote. The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote in Texas.",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.43361111111111,
+      "key": "b26b145b035a"
+    },
+    {
+      "text": "2 Americans win Nobel Prize in economics for work on boom-bust cycles. Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.462777777777777,
+      "key": "6c54d22d306c"
+    }
+  ],
+  "contexts": {}
+}

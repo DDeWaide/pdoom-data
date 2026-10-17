@@ -1,0 +1,813 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-17T13:05:38.361704+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 9,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20261009074217",
+    "NPR World": null,
+    "Al Jazeera": "20261009094844",
+    "MIT Technology Review": "20261009095914",
+    "Ars Technica": "20261009095326",
+    "The Verge AI": null,
+    "Wired": "20261009094847",
+    "CNN Top Stories": "20261009094944",
+    "Fox News Latest": "20261009095444",
+    "NPR News": "20261009095843",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": "20261009035054",
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Firing squad execution to be livestreamed, Pentagon says. Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.62,
+      "key": "e5c647a910b4"
+    },
+    {
+      "text": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC. Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.518611111111111,
+      "key": "785f0c070273"
+    },
+    {
+      "text": "ICE agent shoots man in New York City. The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.266111111111111,
+      "key": "ef5f0319085b"
+    },
+    {
+      "text": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge. Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.18,
+      "key": "59ef0764c592"
+    },
+    {
+      "text": "Protesters blame 'vulture funds' for Spain's housing crisis. Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.536388888888888,
+      "key": "bd1e009ff2ba"
+    },
+    {
+      "text": "Cars torched and shops looted as anti-migrant violence erupts in South Africa. South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.9652777777777777,
+      "key": "5d1c08a162eb"
+    },
+    {
+      "text": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee. A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.8075,
+      "key": "cc666d07424e"
+    },
+    {
+      "text": "Adidas sues Australian label White Fox over four stripes design. The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.093333333333334,
+      "key": "bc0a01a2ed68"
+    },
+    {
+      "text": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize. Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 17.148333333333333,
+      "key": "f0a48fb3b19f"
+    },
+    {
+      "text": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture. The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.055,
+      "key": "d88b43b52899"
+    },
+    {
+      "text": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation. Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.63111111111111,
+      "key": "dd865c2a0fcd"
+    },
+    {
+      "text": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'. Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.168055555555554,
+      "key": "1528c8e19536"
+    },
+    {
+      "text": "US deportations to African countries unlawful and exploit suffering, rights group says. More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.429166666666667,
+      "key": "a6f3ad5fa05d"
+    },
+    {
+      "text": "Outspoken Indian actor Nana Patekar dies suddenly at 75. Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.068333333333333,
+      "key": "885391a381b8"
+    },
+    {
+      "text": "Residents airlifted to safety after flooding in central Chile. The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 20.181944444444444,
+      "key": "ef5decf6cdf5"
+    },
+    {
+      "text": "Navi Pillay wins Nobel Peace Prize. International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.34055555555555556,
+      "key": "685fa9911816"
+    },
+    {
+      "text": "Everton’s US owners seek sale of controlling stake in Premier League club. Premier League club Everton open to selling controlling stake after &#039;safely&#039; balancing historical financial troubles.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.36277777777777775,
+      "key": "73fed39126ec"
+    },
+    {
+      "text": "2026 Nobel Peace Prize awarded to Navi Pillay. This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7002777777777778,
+      "key": "5195ea1fe5d4"
+    },
+    {
+      "text": "NBA star Wembanyama to French students: ‘I hear you’. San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7830555555555555,
+      "key": "c9396cf90199"
+    },
+    {
+      "text": "New York police push politician to ground during anti-ICE protest. New York police push politician to ground during anti-ICE protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8152777777777778,
+      "key": "5fabc2204207"
+    },
+    {
+      "text": "Japan’s Okinawa calls for review of US forces pact after killing. Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9611111111111111,
+      "key": "2e6a0db27f10"
+    },
+    {
+      "text": "LeBron James stars in NBA preseason debut but Nets defeat 76ers. All-time leading scorer LeBron James makes 76ers debut following LA Lakers switch in NBA preseason, but Nets claim win.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3922222222222222,
+      "key": "36eef4926841"
+    },
+    {
+      "text": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody. Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7138888888888888,
+      "key": "fcc49b9ecfba"
+    },
+    {
+      "text": "Three years after October 7, prolonged war takes its toll on Israelis. Children’s psychiatric emergency visits have more than doubled in Israel, study shows.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.8522222222222222,
+      "key": "739e9173aa09"
+    },
+    {
+      "text": "Why has Iraq decided to ban online map service Waze?. Iraq plans to ban Waze, citing Israeli origins, and suggests alternatives like Google Maps or local app in development.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0080555555555555,
+      "key": "ddb6c63248e6"
+    },
+    {
+      "text": "Who is Dov Lando, the Israeli rabbi criticising Zionism?. The senior rabbi, whose party is in Netanyahu&#039;s coalition, has caused uproar in Israel by calling Zionism disastrous.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.8925,
+      "key": "cca7a7c1639b"
+    },
+    {
+      "text": "Afghanistan’s emerald miners struggle with tools but attract global buyers. Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir&#039;s steep valleys.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.198888888888889,
+      "key": "dffe504ac8a9"
+    },
+    {
+      "text": "Trump says US will not strike Iran before midterm elections. Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.443611111111111,
+      "key": "25f20058d610"
+    },
+    {
+      "text": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro. Arrest warrant for presidential candidate&#039;s brother is issued weeks before Brazil&#039;s runoff election.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.48,
+      "key": "54d250faff04"
+    },
+    {
+      "text": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs. As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.9277777777777776,
+      "key": "f40cdfcdfab7"
+    },
+    {
+      "text": "We’re putting too much faith in AI’s ability to say no. Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea tha",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.9872222222222222,
+      "key": "53142e2798d7"
+    },
+    {
+      "text": "Job titles of the future: Delivery drone air traffic controller. The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#823",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.9872222222222222,
+      "key": "27b7de80012e"
+    },
+    {
+      "text": "We’re still figuring out the side effects of GLP-1 weight-loss drugs. This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.9872222222222222,
+      "key": "8071a8f8898d"
+    },
+    {
+      "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses. Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI rep",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 9.847222222222221,
+      "key": "0ec781f0ea2f"
+    },
+    {
+      "text": "The Download: AI roadblocks for humanoids and portable rubber dams. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.820555555555554,
+      "key": "ae98b99d2a61"
+    },
+    {
+      "text": "Why we’re watching these climate tech companies. This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technolo",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.987222222222222,
+      "key": "095453f90ba1"
+    },
+    {
+      "text": "SpaceX calls for better coordination in orbit after near-misses with Starlink. \"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.265,
+      "key": "3a8d11b2c0b6"
+    },
+    {
+      "text": "Judge weighs if Trump can charge $100K for early access to Truth Social posts. Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.006944444444445,
+      "key": "276105d85da9"
+    },
+    {
+      "text": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms. After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.231944444444444,
+      "key": "c72634498698"
+    },
+    {
+      "text": "Feds get ready to rewrite car headlight rules. Reducing glare and allowing modern light technologies will be two goals.",
+      "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.453611111111112,
+      "key": "84bf55d77318"
+    },
+    {
+      "text": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing. Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.625833333333333,
+      "key": "75f34f32f9f2"
+    },
+    {
+      "text": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027. Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+      "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.935833333333333,
+      "key": "77706b714627"
+    },
+    {
+      "text": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches. Mass surveillance gets stupider.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.182222222222222,
+      "key": "3affee3fe917"
+    },
+    {
+      "text": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries. \"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\"",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.448333333333334,
+      "key": "0d62e37cbd91"
+    },
+    {
+      "text": "An experimental tour-de-force: Entanglement between glass bead and light. Getting a glass bead to act like a quantum object by entangling it with light.",
+      "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.134166666666667,
+      "key": "6443eb43c6da"
+    },
+    {
+      "text": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever. Amazon killed its app store, so Google Play it is.",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.344444444444445,
+      "key": "38a67db2dde0"
+    },
+    {
+      "text": "Amazon builds 1,000th satellite, will launch space internet service by end of year. \"If this was easy, everybody else would be doing it.\"",
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.413888888888888,
+      "key": "c7ac8f836774"
+    },
+    {
+      "text": "Internal files add to evidence of an ExxonMobil climate deception campaign. Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 19.81222222222222,
+      "key": "9addc202c721"
+    },
+    {
+      "text": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots. Full-stack safety solution for physical AI is being used by robotics companies.",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.63138888888889,
+      "key": "bcfe7721c331"
+    },
+    {
+      "text": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist. Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.886666666666667,
+      "key": "345411628f67"
+    },
+    {
+      "text": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up. Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
+      "url": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.31305555555555553,
+      "key": "fd705d425536"
+    },
+    {
+      "text": "America’s Hybrid Hype Has Hit the Used Market. Demand is so high that some used cars are selling for more than new ones.",
+      "url": "https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.8130555555555555,
+      "key": "e1942381710d"
+    },
+    {
+      "text": "TurboTax Full Service Coupons This October 2026. Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "6f54c77b0fa4"
+    },
+    {
+      "text": "Ulta Promo Codes: Up to 20% Off in October 2026. Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "26ae034b1555"
+    },
+    {
+      "text": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances. Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "19fd0435122d"
+    },
+    {
+      "text": "Valvoline Coupons and Promo Codes for October 2026. We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "d7dc2a7ab69f"
+    },
+    {
+      "text": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts. Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+      "url": "https://www.wired.com/story/lovehoney-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "cc54138968bf"
+    },
+    {
+      "text": "Instacart Promo Code: $15 Off | October 2026. Find the best Instacart promo code for massive savings in October 2026.",
+      "url": "https://www.wired.com/story/instacart-promo/code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "4b0344478aa5"
+    },
+    {
+      "text": "We-Vibe Discount Codes and Deals: Up to 60% Off. Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "a8e030fba64f"
+    },
+    {
+      "text": "Herman Miller Promo Codes: 40% Off October 2026. Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in October 2026.",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "48d9037cf78c"
+    },
+    {
+      "text": "30% VistaPrint Coupon & Promo Codes | October 2026. From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.813055555555556,
+      "key": "9602b1cec98a"
+    },
+    {
+      "text": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests. Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court.",
+      "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.043333333333333,
+      "key": "e7ed30e53a60"
+    },
+    {
+      "text": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power. Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
+      "url": "https://www.wired.com/story/come-see-uncanny-valley-live/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.313055555555556,
+      "key": "221a172dffaa"
+    },
+    {
+      "text": "Schumer says he's not going anywhere, but his own candidates aren't ready to back him. Chuck Schumer told Politico he is running for re-election as leader, but candidates like Adam Hamilton and Sen. Elissa Slotkin want fresh leadership.",
+      "url": "https://www.foxnews.com/politics/schumer-says-hes-not-going-anywhere-his-own-candidates-arent-ready-back-him",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.39805555555555555,
+      "key": "f31c0149707d"
+    },
+    {
+      "text": "Democrats say they'll make life affordable. Your wallet may disagree. Democrats are pushing affordability as their 2026 message, but a financial advisor asks whether subsidies actually lower costs or just shift the bill.",
+      "url": "https://www.foxnews.com/opinion/democrats-say-theyll-make-life-affordable-your-wallet-may-disagree",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9047222222222222,
+      "key": "bae611537f42"
+    },
+    {
+      "text": "Creators of October 7 play call fire alarm disruption at Northwestern a 'cowardly' attempt at intimidation. A fire alarm disrupted the play &quot;OCTOBER 7&quot; at Northwestern University&apos;s Cahn Auditorium, but defiant audience members returned to give a standing ovation.",
+      "url": "https://www.foxnews.com/media/creators-october-7-play-call-fire-alarm-disruption-northwestern-cowardly-attempt-intimidation",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9077777777777778,
+      "key": "c8b30b0f5a6a"
+    },
+    {
+      "text": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx. Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York City.",
+      "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.243055555555555,
+      "key": "33b237927924"
+    },
+    {
+      "text": "Guardians force decisive ALDS Game 5 as White Sox miss chance to reach first ALCS since 2005. White Sox-Guardians ALDS Game 4 saw Cleveland erupt for two fifth-inning home runs to erase Chicago&apos;s lead and force a decisive Game 5 Saturday.",
+      "url": "https://www.foxnews.com/outkick-sports/guardians-force-decisive-alds-game-5-white-sox-miss-chance-reach-first-alcs-since-2005",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.532777777777778,
+      "key": "042ce58e281b"
+    },
+    {
+      "text": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers. Bucky Irving&apos;s 72-yard run sparked a Tampa Bay Buccaneers comeback as rookie Jalon Daniels led the charge to upset the Dallas Cowboys at home.",
+      "url": "https://www.foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.9927777777777775,
+      "key": "ee31ba6ff3cd"
+    },
+    {
+      "text": "A'ja Wilson wins record fifth MVP as first three-peat in WNBA history strengthens all-time greatness case. The Las Vegas Aces star&apos;s fifth WNBA MVP puts her alongside Bill Russell, Kareem Abdul-Jabbar and Michael Jordan in rarefied historic air.",
+      "url": "https://www.foxnews.com/outkick-sports/aja-wilson-wins-record-fifth-wnba-mvp-first-three-peat-wnba-history-strengthens-all-time-greatness-case",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.155833333333334,
+      "key": "65d2748c99cb"
+    },
+    {
+      "text": "Tony Romo got disqualified from his Korn Ferry qualifier the same day he 'parted ways' with CBS Sports. Tony Romo was disqualified from a Korn Ferry Tour pre-qualifier for signing an incorrect scorecard on the same day he parted ways with CBS Sports.",
+      "url": "https://www.foxnews.com/outkick-sports/tony-romo-disqualified-korn-ferry-qualifier-parted-ways-cbs-sports",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.6497222222222225,
+      "key": "7b91ad765ed9"
+    },
+    {
+      "text": "Rumbling volcano forces immediate trail closures at popular vacation hot spot. The Kīlauea volcano shows renewed spattering at two vents as USGS scientists monitor for a possible 55th episode of lava fountains at the summit.",
+      "url": "https://www.foxnews.com/travel/rumbling-volcano-forces-immediate-trail-closures-popular-vacation-hot-spot",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.862777777777778,
+      "key": "4a1d7f44308e"
+    },
+    {
+      "text": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion. The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
+      "url": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.316666666666666,
+      "key": "e0092d059748"
+    },
+    {
+      "text": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source. A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+      "url": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.358055555555556,
+      "key": "07705c320e89"
+    },
+    {
+      "text": "Luka Dončić says he 'definitely' regrets playing through hamstring injury that ended his season. Luka Dončić revealed he felt a hamstring tweak against the Oklahoma City Thunder but pushed through, a decision he says cost the Lakers a title.",
+      "url": "https://www.foxnews.com/outkick-sports/luka-doncic-definitely-regrets-playing-through-hamstring-injury-ended-season",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.4075,
+      "key": "dd4fc0ad18b1"
+    },
+    {
+      "text": "Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran and more. Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled with personal attacks and accusations.",
+      "url": "https://www.foxnews.com/politics/michigan-senate-debate-erupts-personal-attacks-rogers-el-sayed-clash-over-israel-iran-more",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.450833333333334,
+      "key": "c43345948999"
+    },
+    {
+      "text": "Missouri football's Johnnie 'DJ' Jones recovering after successful heart transplant, coach says. Johnnie &quot;DJ&quot; Jones underwent heart transplant surgery Wednesday after Mayo Clinic doctors in Jacksonville detected a serious cardiac condition.",
+      "url": "https://www.foxnews.com/outkick-sports/missouri-football-johnnie-dj-jones-recovering-successful-heart-transplant-coach-says",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.863333333333333,
+      "key": "aa1bd9234196"
+    },
+    {
+      "text": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station. Jacob Aaron Hicks allegedly emailed a Tucson news station claiming an imminent bomb strike against the White House, prompting an FBI investigation.",
+      "url": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.674444444444445,
+      "key": "b38651f34a90"
+    },
+    {
+      "text": "Fill in the blank in the quiz: A plague research employee in Russia died from ____. Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "6963553a4cf1"
+    },
+    {
+      "text": "In Central African Republic, deported immigrants find themselves in limbo. The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "6d097ef70df4"
+    },
+    {
+      "text": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat. Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "a980c8829888"
+    },
+    {
+      "text": "Why we remember: One student's journey into memory. Why one teen can't let go of the time he ate fries with his great-grandpa.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "75605c3a67ae"
+    },
+    {
+      "text": "Why mailing a ballot close to Election Day may get it rejected for a late postmark. If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "b48901fb466b"
+    },
+    {
+      "text": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work. A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "da3ecae3d21d"
+    },
+    {
+      "text": "A student hated reading for years. Her podcast explores finding the right diagnosis. Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9786111111111111,
+      "key": "f2f29abcf04b"
+    },
+    {
+      "text": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR. Gulf Coast Preps for Isaias, Ukraine expects Russian winter offensive, and Trump's Iran War in focus as Midterms approach.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.5075,
+      "key": "421b02648298"
+    },
+    {
+      "text": "25 years later an Afghan couple looks back at the invasion. Twenty-five years ago this week, the U.S. invaded Afghanistan. For StoryCorps, one Afghan couple offers an account of their experience after the invasion and eventual U.S. withdrawal.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5989180/25-years-later-an-afghan-couple-looks-back-at-the-invasion",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.5775,
+      "key": "eecf1b466f28"
+    },
+    {
+      "text": "South African Human Rights lawyer Navi Pillay wins Nobel Peace Prize. South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.5908333333333333,
+      "key": "cfcded37d687"
+    },
+    {
+      "text": "Number of known species of giant waterlilies almost doubles. A new species of giant waterlily identified with the help of social media and satellite photos is just one of three discovered in the past few years",
+      "url": "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 4.848333333333334,
+      "key": "08557be40060"
+    },
+    {
+      "text": "The big unanswered question about Russia’s ‘plague’ death. Russia says it is winding down precautionary measures taken after a lab worker at a plague research institute died. But what made officials think these were needed at all?",
+      "url": "https://www.newscientist.com/article/2592786-the-big-unanswered-question-about-russias-plague-death/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 10.547777777777778,
+      "key": "f831b104b276"
+    },
+    {
+      "text": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof. When OpenAI announced its surprise solution to the Navier-Stokes problem, it produced one proof for humans and one for computers – however, they don't match",
+      "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 11.792777777777777,
+      "key": "1d6495fcfe2a"
+    },
+    {
+      "text": "Record El Niño threatens Great Barrier Reef with ecological shift. Researchers are worried about the impact the strongest-known El Niño will have on the Great Barrier Reef, and whether anything can be done to avert the World Heritage Area’s demise",
+      "url": "https://www.newscientist.com/article/2592422-record-el-nino-threatens-great-barrier-reef-with-ecological-shift/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 14.848333333333333,
+      "key": "2231260d6647"
+    },
+    {
+      "text": "The world may never go back to how it was after this monster El Niño. This El Niño is forecast to end around June next year after smashing all records, but its impacts could persist indefinitely in some parts of the world",
+      "url": "https://www.newscientist.com/article/2592450-the-world-may-never-go-back-to-how-it-was-after-this-monster-el-nino/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 16.848333333333333,
+      "key": "bce377aa6041"
+    },
+    {
+      "text": "The most interesting mathematical discoveries in OpenAI’s 722 new papers. OpenAI has released hundreds of papers claiming to make progress on the biggest open problems in mathematics – here are some with the most potential",
+      "url": "https://www.newscientist.com/article/2592703-the-most-interesting-mathematical-discoveries-in-openais-722-new-papers/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 19.211944444444445,
+      "key": "6b389056a0ad"
+    },
+    {
+      "text": "194-year-old tortoise has exceptional DNA repair systems that fight off ageing. The genome of Jonathan the giant tortoise, a 194-year-old resident of St Helena island, has been probed to understand how he has been alive for more than double his species’ average life expectancy",
+      "url": "https://www.newscientist.com/article/2592213-secrets-of-longevity-of-jonathan-the-nearly-200-year-old-tortoise/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 33.848333333333336,
+      "key": "00f8ab5a2152"
+    },
+    {
+      "text": "Neanderthal Europe was as much a wooden age as a stone age. When Neanderthals dominated Europe, it was likely that wood was at least as important to them as stone for working into tools",
+      "url": "https://www.newscientist.com/article/2592417-neanderthal-europe-was-as-much-a-wooden-age-as-a-stone-age/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 33.848333333333336,
+      "key": "28287c6c88e9"
+    },
+    {
+      "text": "Why gatekeeping is needed in the age of AI. Large language models have unleashed a torrent of text – dealing with it won't be easy",
+      "url": "https://www.newscientist.com/article/2592280-__trashed-141/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 34.848333333333336,
+      "key": "9e83191af63a"
+    },
+    {
+      "text": "Colonisation of Australia led to big increase in wildfire danger. An analysis of lake sediments in south-eastern Australia has revealed that the expulsion of Indigenous communities in the 19th century resulted in an explosion of tree cover and more devastating wildfires",
+      "url": "https://www.newscientist.com/article/2592220-colonisation-of-australia-led-to-big-increase-in-wildfire-danger/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 36.848333333333336,
+      "key": "2c8bb3cc81f5"
+    }
+  ],
+  "contexts": {}
+}

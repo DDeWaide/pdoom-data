@@ -1,0 +1,493 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-10-17T12:52:02.756045+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260908064632",
+    "NPR World": null,
+    "Al Jazeera": "20260908093823",
+    "MIT Technology Review": "20260908064825",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": "20260908000347",
+    "CNN Top Stories": "20260908043121",
+    "Fox News Latest": "20260908044228",
+    "NPR News": "20260908060358",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Canada braces for prolonged trade war as counter-tariffs on US take effect. The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.1216666666666666,
+      "key": "dffcddb5a2d2"
+    },
+    {
+      "text": "Palestinian parents fear for children's lives at school as settler attacks grow. A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.565277777777778,
+      "key": "7ba2e864080e"
+    },
+    {
+      "text": "Flight recorders recovered from Amazon cargo plane crash. Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.391388888888889,
+      "key": "6d99278d6e78"
+    },
+    {
+      "text": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win. The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.70861111111111,
+      "key": "426eca54e14d"
+    },
+    {
+      "text": "Eiffel Tower shut by staff protest after female workers moved for religious visit. An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
+      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.996666666666667,
+      "key": "93b46befb32b"
+    },
+    {
+      "text": "Trial over alleged murders of Australian surfer brothers starts in Mexico. The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.226666666666667,
+      "key": "a1d406091bd5"
+    },
+    {
+      "text": "North Korea and Russia open first road bridge linking both countries. It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.8847222222222224,
+      "key": "300540afb3c9"
+    },
+    {
+      "text": "Ukraine's chief prosecutor resigns over call centre corruption scandal. In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.645833333333333,
+      "key": "ce4ffb604760"
+    },
+    {
+      "text": "Trump threatens to stop sale of Canadian Bombardier jets in US. The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.963611111111111,
+      "key": "58c978edcc32"
+    },
+    {
+      "text": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić. Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.928333333333333,
+      "key": "5a492dccfe74"
+    },
+    {
+      "text": "Israeli strikes in southern Lebanese village kill 12. Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 17.11916666666667,
+      "key": "640ae9191f31"
+    },
+    {
+      "text": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status. The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.311666666666667,
+      "key": "a5bbe2564954"
+    },
+    {
+      "text": "Nepal observes national day of mourning for victims of flash flood disaster. Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 21.251666666666665,
+      "key": "d11d51465569"
+    },
+    {
+      "text": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes. Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 23.713333333333335,
+      "key": "063020f41477"
+    },
+    {
+      "text": "A food safety officer has become a social media star in India - why?. Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.098055555555556,
+      "key": "413b19af0160"
+    },
+    {
+      "text": "Houthi attacks on southern Saudi Arabia reportedly injure dozens. Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9280555555555555,
+      "key": "8bf5b014b564"
+    },
+    {
+      "text": "As fuel prices rise again, Iran’s government urges citizens to cut back. New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3816666666666666,
+      "key": "69b4e401b8d8"
+    },
+    {
+      "text": "Indonesia airports reopen after volcanic ash disrupts thousands of flights. Five airports reopen after authorities cleared volcanic ash from critical infrastructure.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5663888888888888,
+      "key": "5db7f082e145"
+    },
+    {
+      "text": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces. Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9575,
+      "key": "ae813930d358"
+    },
+    {
+      "text": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals. Real Madrid&#039;s Kylian Mbappe enters Champions League season hoping for Ballon d&#039;Or after record World Cup goal haul.",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0483333333333333,
+      "key": "d0fe5fc1f98e"
+    },
+    {
+      "text": "Eiffel Tower reopens after protest over removing women staff. A Hindu religious delegation had requested that &#039;interactions with women&#039; be limited during its visit.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4294444444444445,
+      "key": "cd1173b3d5e9"
+    },
+    {
+      "text": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters. Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men&#039;s.",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6730555555555555,
+      "key": "f2f757faa72b"
+    },
+    {
+      "text": "Palestine weekly: Israeli ministers push for depopulation of Gaza. Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.064722222222223,
+      "key": "0f7d86b626bc"
+    },
+    {
+      "text": "Forest fires force evacuations near resorts in Antalya. Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.706666666666667,
+      "key": "fa5462880506"
+    },
+    {
+      "text": "Mladic’s funeral: Were no lessons learned?. Thirty years of international justice has taught political leaders little.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.840833333333333,
+      "key": "969c14cbb08d"
+    },
+    {
+      "text": "Polls suggest tight presidential race as Brazil marks Independence Day. Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.147222222222222,
+      "key": "9652db6eac5a"
+    },
+    {
+      "text": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites. Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.201944444444444,
+      "key": "77d348fdb2ea"
+    },
+    {
+      "text": "‘House moved like jelly’ says resident near Bolivia barracks blast. Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.229444444444445,
+      "key": "73d3cb5470b7"
+    },
+    {
+      "text": "Real Madrid vs Inter: Champions League – preview, team news, prediction. Mourinho kicks off the record 15-time Champions League winners&#039; European campaign against Serie A champions Inter.",
+      "url": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.357777777777778,
+      "key": "ce71a1d77e14"
+    },
+    {
+      "text": "Flash floods fill the streets of a neighbourhood in central Morocco. Videos show floodwaters swamping homes, shops and streets in Azilal in central Morocco, after heavy thunderstorms.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.618055555555555,
+      "key": "d02823be05cc"
+    },
+    {
+      "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zer",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 18.64027777777778,
+      "key": "fbe94593de54"
+    },
+    {
+      "text": "Le Creuset x Star Trek Collection: Prices, availability, release date. Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan.",
+      "url": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 1.0630555555555556,
+      "key": "01d2a08a308d"
+    },
+    {
+      "text": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More. From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year.",
+      "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 7.502777777777778,
+      "key": "4d4b9224e9c5"
+    },
+    {
+      "text": "The 57 Best Deals From the REI Labor Day Sale. Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale.",
+      "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.504722222222222,
+      "key": "4558b72af883"
+    },
+    {
+      "text": "Two of the Universe's Great Mysteries May Have Their Own Dimension. Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a “dark dimension” may be responsible.",
+      "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.063055555555556,
+      "key": "42005d949dc6"
+    },
+    {
+      "text": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.. The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
+      "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.563055555555556,
+      "key": "dc23884ff88d"
+    },
+    {
+      "text": "Every Samsung Galaxy Phone Comes With This Unique Add-On. It’s called the Edge Panel. Here’s how to make the most of it.",
+      "url": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.063055555555556,
+      "key": "2ad78345da91"
+    },
+    {
+      "text": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback. Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.563055555555556,
+      "key": "2be090ef05e5"
+    },
+    {
+      "text": "How to Watch the Apple September Event (2026). Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
+      "url": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.813055555555556,
+      "key": "66640a3e4fab"
+    },
+    {
+      "text": "What’s the Best Kindle of 2026 (So Far)?. I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.99638888888889,
+      "key": "50682bd6a227"
+    },
+    {
+      "text": "The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes. It’s one of the best times of the year to buy a mattress, and our top tested picks are on sale.",
+      "url": "https://www.wired.com/story/labor-day-mattress-deals-9-7-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.463055555555556,
+      "key": "180299693f56"
+    },
+    {
+      "text": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv. Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner&apos;s visit to the city for peace negotiations.",
+      "url": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.2802777777777778,
+      "key": "d454460869e5"
+    },
+    {
+      "text": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report. Andy Burnham&apos;s UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu&apos;s ministers and U.S. lawmakers.",
+      "url": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.7333333333333334,
+      "key": "fb6a3aadcd87"
+    },
+    {
+      "text": "FSU-SMU game turns into old-school football after stadium power outage wipes out in-game communication. A power outage plunged Doak Campbell Stadium into darkness minutes before kickoff, forcing SMU and Florida State to play without communications.",
+      "url": "https://www.foxnews.com/outkick-sports/fsu-smu-game-turns-old-school-football-stadium-power-outage-wipes-in-game-communication",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.1505555555555556,
+      "key": "2cd6f1dd009e"
+    },
+    {
+      "text": "Popular TV host, media star faces hanging after conviction in major synthetic drug trafficking case. Sarah Khalifa was among 12 defendants sentenced to death after prosecutors accused the group of manufacturing and trafficking synthetic narcotics.",
+      "url": "https://www.foxnews.com/world/popular-tv-host-media-star-faces-hanging-conviction-major-synthetic-drug-trafficking-case",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.246111111111111,
+      "key": "63ced991c54e"
+    },
+    {
+      "text": "Climber dies in fatal fall on Colorado 14er south of Aspen. A 21-member rescue team was dispatched to the remote mountain after nearby hikers witnessed the climber fall and officials determined the injuries were not survivable.",
+      "url": "https://www.foxnews.com/us/climber-dies-fatal-fall-colorado-14er-south-aspen",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.3025,
+      "key": "654dde6afff4"
+    },
+    {
+      "text": "Aaron Judge returns to Yankees after 83 games missed with rib injury ahead of postseason push. The New York Yankees activated Aaron Judge from the 60-day injured list after a broken rib, skipping a rehab assignment ahead of the Rockies series.",
+      "url": "https://www.foxnews.com/outkick-sports/aaron-judge-returns-yankees-83-games-missed-rib-injury-postseason-push",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.6527777777777777,
+      "key": "80bc1d4f5ea0"
+    },
+    {
+      "text": "Ex-MLB southpaw Thomas Pannone dominates for Nashville Sounds with 94-pitch Triple-A perfect game. Thomas Pannone retired all 27 batters on just 94 pitches for the Nashville Sounds, completing Minor League Baseball&apos;s first perfect game since 2017.",
+      "url": "https://www.foxnews.com/outkick-sports/ex-mlb-southpaw-thomas-pannone-dominates-nashville-sounds-94-pitch-triple-a-perfect-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.8808333333333334,
+      "key": "c3611f8dcfb3"
+    },
+    {
+      "text": "Giants shockingly release longest-tenured player Darius Slayton as John Harbaugh era begins. Darius Slayton posted a heartfelt farewell after the New York Giants surprisingly cut their longest-tenured player just days before Week 1.",
+      "url": "https://www.foxnews.com/outkick-sports/giants-shockingly-release-longest-tenured-player-darius-slayton-john-harbaugh-era-begins",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.171944444444445,
+      "key": "3e8158443c93"
+    },
+    {
+      "text": "US forces sink narco-refueling station linked to Ecuadorian cartel in Pacific: SOUTHCOM. U.S. forces sank a Los Choneros refueling vessel in the Eastern Pacific after SOUTHCOM said it supported at-sea drug trafficking operations.",
+      "url": "https://www.foxnews.com/us/us-forces-sink-narco-refueling-station-linked-ecuadorian-cartel-pacific-southcom",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.296111111111111,
+      "key": "86645d925f85"
+    },
+    {
+      "text": "Julia Louis-Dreyfus reveals ‘tons’ of friction behind the scenes of ‘Seinfeld’. Julia Louis-Dreyfus opened up on the &quot;Friends Keep Secrets&quot; podcast about the arguments and hard work that shaped &quot;Seinfeld&quot; into a phenomenon.",
+      "url": "https://www.foxnews.com/entertainment/julia-louis-dreyfus-reveals-tons-friction-behind-scenes-seinfeld",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.010277777777778,
+      "key": "f48a3fe4eac5"
+    },
+    {
+      "text": "Christine Taylor was asked to lose 10 pounds after landing Marcia Brady role in 'Brady Bunch Movie'. Christine Taylor revealed she was asked to lose 10 pounds for her role as Marcia Brady in &quot;The Brady Bunch Movie&quot; during the &quot;Office Ladies&quot; podcast.",
+      "url": "https://www.foxnews.com/entertainment/christine-taylor-asked-lose-10-pounds-after-landing-marcia-brady-role-brady-bunch-movie",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.261388888888889,
+      "key": "c8f346b10faf"
+    },
+    {
+      "text": "Jimmy John's employee accused of opening fire on car, shooting 14-year-old girl in leg: police. Police say that a dispute at a St. Louis Jimmy John&apos;s escalated into gunfire, leaving a 14-year-old girl wounded and an employee facing felony charges.",
+      "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.5488888888888885,
+      "key": "9b70dfa4ccf0"
+    },
+    {
+      "text": "SEC teams went 16-0 in Week 1, is the conference back on top of college football world?. The SEC went 16-0 in week one, but after three straight Big Ten national championships, do the results really shift the college football hierarchy?",
+      "url": "https://www.foxnews.com/outkick-sports/sec-teams-went-16-0-week-one-is-conference-back-top-college-football-world",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.646944444444444,
+      "key": "9621862bd4d9"
+    },
+    {
+      "text": "Georgetown students plan Charlie Kirk 'lookalike contest' on anniversary of his assassination. Georgetown University students promoted a Charlie Kirk lookalike contest on Fizz, the anonymous social media app, drawing over 2,200 upvotes on campus.",
+      "url": "https://www.foxnews.com/media/georgetown-students-plan-charlie-kirk-lookalike-contest-anniversary-assassination",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.698611111111111,
+      "key": "e788afdb423f"
+    },
+    {
+      "text": "Fans disagree with Portland Thorns over reason for ejection in XX-XY apparel dispute: 'They are lying'. Video shows Portland Thorns fans removed from Providence Park over women&apos;s sports apparel, with Amy Sousa denying claims of distributing materials.",
+      "url": "https://www.foxnews.com/outkick-sports/fans-battle-portland-thorns-reason-ejection-xx-xy-apparel-dispute-lying",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.848611111111111,
+      "key": "cce6817de43f"
+    },
+    {
+      "text": "Russia and North Korea open the first road across their shared border. Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia's war against Ukraine in return for economic and military assistance.",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.38722222222222225,
+      "key": "7a4b01ff88a7"
+    },
+    {
+      "text": "Scene at Miami airport where five died described as 'utter devastation'. An Amazon Prime cargo plane overran the runway, crashed and rammed into vehicles, where it then caught on fire. All those who died were passengers on the ground.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 34.15833333333333,
+      "key": "42a68468fcf2"
+    }
+  ],
+  "contexts": {}
+}

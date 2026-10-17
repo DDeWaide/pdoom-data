@@ -1,0 +1,573 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-10-17T12:44:26.613177+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260826075244",
+    "NPR World": "20260826062326",
+    "Al Jazeera": "20260826051316",
+    "MIT Technology Review": "20260826084607",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260826042244",
+    "Fox News Latest": "20260826041411",
+    "NPR News": "20260826054803",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%. The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.029722222222222,
+      "key": "9aad19c12d5e"
+    },
+    {
+      "text": "China hits out at 'illegal' new US sanctions on Iran and trading partners. The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.985555555555557,
+      "key": "e40d0d01cd0b"
+    },
+    {
+      "text": "CIA chief travels to Moscow for unannounced talks, US media reports. Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.075,
+      "key": "6e9e38ebf5b4"
+    },
+    {
+      "text": "Mass arrests in global crackdown on West African cyber-crime networks. The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.368611111111111,
+      "key": "b5cd723ea68d"
+    },
+    {
+      "text": "Brain disease in dead NFL players 'higher than previously shown'. A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.967777777777776,
+      "key": "ea09c0d7de09"
+    },
+    {
+      "text": "Tornado tears through French village, leaving dozens hurt and homes ravaged. The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 23.0075,
+      "key": "0a864c250801"
+    },
+    {
+      "text": "European rights court orders Turkey to free imprisoned businessman. Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.906666666666666,
+      "key": "e7c8c509d577"
+    },
+    {
+      "text": "Nigeria's president orders manhunt after kidnappers upload victim video. The footage shows dozens of men, women and children sitting in a forest.",
+      "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.209166666666667,
+      "key": "43ec8b151e35"
+    },
+    {
+      "text": "Lockerbie bombing trial postponed days before it was due to start. The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.978055555555557,
+      "key": "198e02ed9111"
+    },
+    {
+      "text": "Swedish military seeks to take over Russian-owned estate near naval base. The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.565,
+      "key": "e2d2aefebe33"
+    },
+    {
+      "text": "Two unvaccinated people die of measles in Pennsylvania. Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.16,
+      "key": "7472a419c108"
+    },
+    {
+      "text": "French tourist dies in Death Valley after car gets stuck in mud. The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 29.72972222222222,
+      "key": "7648d5336df0"
+    },
+    {
+      "text": "US firefighters say major blaze near Reno about a quarter contained. But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 22.061666666666667,
+      "key": "6912988700d5"
+    },
+    {
+      "text": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series. Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 24.221944444444443,
+      "key": "70d59a96b3d5"
+    },
+    {
+      "text": "NZ religious sect leader jailed over death of Chinese follower. The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 28.752777777777776,
+      "key": "abe9c9c082ba"
+    },
+    {
+      "text": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead. It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure the community nestled in the hills above Port-au-Prince.",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 0.6311111111111111,
+      "key": "6b2694701859"
+    },
+    {
+      "text": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates. The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 15.052222222222222,
+      "key": "ffd4846f3e8f"
+    },
+    {
+      "text": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase. The world largely moved on from the Rohingya crisis. But the exodus has not stopped, aid is shrinking and a generation of refugees is growing up with little prospect of going home.",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 15.403888888888888,
+      "key": "b6deae24aafa"
+    },
+    {
+      "text": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting. President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 19.240277777777777,
+      "key": "ca4475e2e981"
+    },
+    {
+      "text": "U.K. will help Ukraine make long-range missiles by sharing classified tech information. Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 25.156388888888888,
+      "key": "33a1b95badf3"
+    },
+    {
+      "text": "6 months on, U.S. Navy families who evacuated Bahrain remain in limbo. When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 32.02027777777778,
+      "key": "a9a5c6b081a6"
+    },
+    {
+      "text": "The view from Canada after U.S. trade negotiations collapse. NPR's Adrian Florido speaks with The Globe and Mail columnist Andrew Coyne about the reaction in Canada to Prime Minister Mark Carney rejecting a U.S. trade deal.",
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5942972/the-view-from-canada-after-u-s-trade-negotiations-collapse",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 33.715,
+      "key": "1ecdba7ee9a5"
+    },
+    {
+      "text": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran. The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 41.95722222222222,
+      "key": "7ca1614ec68e"
+    },
+    {
+      "text": "At least 15 newborns killed in Pakistan hospital fire. Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7669444444444444,
+      "key": "1cfa6df18e26"
+    },
+    {
+      "text": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says. Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3980555555555556,
+      "key": "8297abe43dad"
+    },
+    {
+      "text": "Instagram chief testifies at Meta trial, says few teens used safety feature. Meta is on trial over claims it hooked young users on its platforms despite mental health risks.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5472222222222223,
+      "key": "3f77e51305f9"
+    },
+    {
+      "text": "Who were the Syrian Democratic Forces and why dissolve?. Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7425,
+      "key": "b58b46d92cfb"
+    },
+    {
+      "text": "Israeli soldiers block Knesset member from besieged Palestinian home. Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3177777777777777,
+      "key": "fc866c911b0e"
+    },
+    {
+      "text": "Mamdani opposes Hindu nationalist event in New York. Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.437222222222222,
+      "key": "68ff832314f1"
+    },
+    {
+      "text": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse. Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.321111111111111,
+      "key": "3a9ee16401fe"
+    },
+    {
+      "text": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan. Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4905555555555554,
+      "key": "78bf603b387e"
+    },
+    {
+      "text": "Is Sudan’s battlefield shaping the terms of its next political phase?. Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.216388888888889,
+      "key": "98f58d207657"
+    },
+    {
+      "text": "Human rights situation in Myanmar ‘plummets to new low’, UN says. New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.",
+      "url": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.7375,
+      "key": "9b58ee778c2f"
+    },
+    {
+      "text": "Iran war live: Iran says Hormuz remains closed despite Oman route deal. Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.221111111111111,
+      "key": "8e5d21a3e694"
+    },
+    {
+      "text": "Brazil fines TikTok $30m for child data privacy violations. Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.1075,
+      "key": "e096ce7641f2"
+    },
+    {
+      "text": "Why can’t America agree on what time it is?. Why can’t America agree on what time it is?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.126111111111111,
+      "key": "783d114cd007"
+    },
+    {
+      "text": "US judge blocks Ohio law requiring proof of citizenship to register to vote. The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.687777777777778,
+      "key": "11e40bb74b53"
+    },
+    {
+      "text": "Who was the ‘Queen of Country’ Dolly Parton?. ‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.7347222222222225,
+      "key": "37d410996690"
+    },
+    {
+      "text": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?. It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats b",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 1.7519444444444445,
+      "key": "9869ae11c300"
+    },
+    {
+      "text": "Addressing a sticking point in sustainable adhesives. Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the c",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "4a2df77fb887"
+    },
+    {
+      "text": "YouTuber finds niche as college admissions mentor. As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, s",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "a7342fbc6273"
+    },
+    {
+      "text": "Launching youth entrepreneurship. Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education&",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "d0cdd5b0b776"
+    },
+    {
+      "text": "A new stamp on cyberfraud prevention. For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief ",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "3a8bc5914d19"
+    },
+    {
+      "text": "AgeLab research inspires an A I startup. When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for&",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "0502d89ab1d1"
+    },
+    {
+      "text": "Amping up T cells to target cancer. Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vacc",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "9b3111087ef7"
+    },
+    {
+      "text": "Taking your temperature from the inside. Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by ",
+      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "7d4ebd31649f"
+    },
+    {
+      "text": "Seeing through murky waters. When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "adb9744684af"
+    },
+    {
+      "text": "Your brain on AI. Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.&#160; Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at t",
+      "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.768611111111111,
+      "key": "49f0e45b8054"
+    },
+    {
+      "text": "Prosecutor in infamous killer mom case says women on Lindsay Clancy jury may bring ‘strange twist’ to verdict. Rep. Tommy Pope, who prosecuted Susan Smith, says women jurors may be less sympathetic to Lindsay Clancy&apos;s postpartum psychosis defense than expected.",
+      "url": "https://www.foxnews.com/us/prosecutor-infamous-killer-mom-case-says-women-lindsay-clancy-jury-may-bring-strange-twist-verdict",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.22416666666666665,
+      "key": "c672c6313100"
+    },
+    {
+      "text": "NYC manhunt underway for suspect accused of deadly shootings across 2 boroughs days apart. The NYPD released surveillance images of Jesus Acosta, wanted in a fatal Bronx deli robbery and a deadly Brooklyn shooting two days earlier.",
+      "url": "https://www.foxnews.com/us/nyc-manhunt-underway-suspect-accused-deadly-shootings-across-2-boroughs-days-apart",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5747222222222222,
+      "key": "f42efcc5acde"
+    },
+    {
+      "text": "Trump-endorsed candidate clears key hurdle in red state gubernatorial race. Mike Mazzei secured Trump&apos;s endorsement and defeated Gentner Drummond in Oklahoma&apos;s GOP governor runoff, promising to eliminate the state&apos;s income tax.",
+      "url": "https://www.foxnews.com/politics/trump-endorsed-candidate-clears-key-hurdle-red-state-gubernatorial-race",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1455555555555557,
+      "key": "99f735e4bacc"
+    },
+    {
+      "text": "Newly released texts confirm Anthony Fauci and other 'experts' always knew mask mandates wouldn't work. Michael Osterholm texted Anthony Fauci and Rochelle Walensky that cloth face masks offered very limited protection against COVID transmission.",
+      "url": "https://www.foxnews.com/outkick-analysis/newly-released-texts-confirm-anthony-fauci-other-experts-always-knew-mask-mandates-wouldnt-work",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4016666666666666,
+      "key": "2a94f2a2f7ce"
+    },
+    {
+      "text": "Dolly Parton refused to pick political sides for decades: ‘I’m not in politics, I’m an entertainer’. Dolly Parton, who died Tuesday at 80, built a career on refusing to take political sides despite repeated pressure involving Trump and Clinton.",
+      "url": "https://www.foxnews.com/politics/dolly-parton-refused-pick-political-sides-decades-im-not-politics-im-entertainer",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.181388888888889,
+      "key": "22bdac9c8f13"
+    },
+    {
+      "text": "College athletics' latest mess: Court orders say athletes can play, but SEC and Big Ten ready to fight. The SEC and Big Ten voted to bar athletes with pro sports experience, but attorney Ryan Downton says the move violates multiple court orders.",
+      "url": "https://www.foxnews.com/outkick-sports/college-athletics-latest-mess-court-orders-say-athletes-can-play-sec-big-ten-ready-fight",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2355555555555555,
+      "key": "9be4ce7d0337"
+    },
+    {
+      "text": "Surrogate, California couple clash in court as newborn fights for life after heart surgery. Nausheen Gilkar told a Dallas court her newborn is suffering after open-heart surgery as the surrogate custody fight with McKenna West intensifies.",
+      "url": "https://www.foxnews.com/us/surrogate-california-couple-clash-court-newborn-fights-life-after-heart-surgery",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5575,
+      "key": "c2f7c4f40485"
+    },
+    {
+      "text": "Hochul remains defiant after sheriffs sue over law banning cooperation with ICE: 'Bring it on'. More than a dozen New York sheriffs are suing state officials over a new state law that prohibits law enforcement from cooperating with ICE.",
+      "url": "https://www.foxnews.com/politics/hochul-remains-defiant-sheriffs-sue-law-banning-cooperation-ice-bring-it-on",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.635,
+      "key": "1588a95490a7"
+    },
+    {
+      "text": "Attempted drone incursion at Virginia prison leads to $324K contraband haul with meth, 17 cellphones. A drone smuggling attempt at a Virginia prison led to a $324,000 contraband seizure including methamphetamine and 17 cellphones, officials said.",
+      "url": "https://www.foxnews.com/us/attempted-drone-incursion-virginia-prison-leads-324k-contraband-haul-meth-17-cellphones",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.6925,
+      "key": "90a9de853f4d"
+    },
+    {
+      "text": "Falcons' starting QB post is Michael Penix Jr's to lose amid Tua Tagovailoa's struggles: report. Tua Tagovailoa&apos;s inconsistent play in training camp and preseason has reportedly made the Atlanta Falcons&apos; starting job Michael Penix Jr.&apos;s to lose.",
+      "url": "https://www.foxnews.com/outkick-sports/falcons-starting-qb-post-michael-penix-jr-lose-amid-tua-tagovailoa-struggles-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.765277777777778,
+      "key": "d8976bd2bdcb"
+    },
+    {
+      "text": "Timberwolves’ LaMelo Ball hires driver following reckless driving incidents in Charlotte, brother Lonzo says. Lonzo Ball revealed that LaMelo Ball has a driver to help with his many road situations after buying $1 million cars and finding ways to damage them.",
+      "url": "https://www.foxnews.com//timberwolves-lamelo-ball-hires-driver-following-reckless-driving-incidents-in-charlotte-brother-lonzo-says-2",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.0669444444444443,
+      "key": "29f9f224bc27"
+    },
+    {
+      "text": "Trump endorsement boosts sister of late Lindsey Graham to historic runoff victory. President Donald Trump&apos;s endorsement and an $800,000 MAGA Inc. blitz helped Darline Graham defeat Ralph Norman in the South Carolina Senate runoff.",
+      "url": "https://www.foxnews.com/politics/trump-endorsement-boosts-sister-late-lindsey-graham-historic-runoff-win",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.098333333333333,
+      "key": "8fb8a0f5cb56"
+    },
+    {
+      "text": "Democratic newcomer scores runoff upset in Oklahoma, vows to impeach Trump if elected. N’Kiyla Jasmine Thomas defeated Jim Priest in the runoff race for the Democratic Senate nomination in Oklahoma.",
+      "url": "https://www.foxnews.com/politics/democratic-newcomer-scores-runoff-upset-oklahoma-vows-impeach-trump-elected",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.218888888888889,
+      "key": "8643cb1e8bf2"
+    },
+    {
+      "text": "Seattle man allegedly targeted governor after telling hospital of murderous plan: docs. A Seattle man allegedly told authorities he planned to surveil Washington Gov. Bob Ferguson&apos;s mansion and harm anyone standing in his way inside.",
+      "url": "https://www.foxnews.com/politics/seattle-man-allegedly-targeted-governor-telling-hospital-murderous-plan-docs",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2463888888888888,
+      "key": "e0ed96b01f37"
+    },
+    {
+      "text": "Target faces renewed backlash for Halloween costume with 'minstrel show features'. Retailer Target pulled a children's Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures.",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.034722222222222224,
+      "key": "a88643d20cf8"
+    },
+    {
+      "text": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial. The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 6.951666666666667,
+      "key": "e725b3e46614"
+    },
+    {
+      "text": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina. In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.0025,
+      "key": "d39f9800e550"
+    },
+    {
+      "text": "Dolly Parton, one of country music's most singular performers, has died at age 80. The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.508611111111112,
+      "key": "de3eb7a88505"
+    },
+    {
+      "text": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated. The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.544444444444444,
+      "key": "ff927ff152b8"
+    },
+    {
+      "text": "Several states will decide voter ID ballot measures this year. Voters in at least six states will soon decide ballot measures related to voter ID — the largest number of voter ID measures in a single year. The tally includes three prominent swing states.",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.124166666666667,
+      "key": "be8753dd3de7"
+    }
+  ],
+  "contexts": {}
+}

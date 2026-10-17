@@ -1,0 +1,485 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-10-17T12:41:51.814377+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 6,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260820053753",
+    "MIT Technology Review": "20260820071304",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260820233455",
+    "Fox News Latest": "20260820214731",
+    "NPR News": "20260820085211",
+    "ABC News Top": null,
+    "Science Daily": "20260820151415",
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies. In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.525,
+      "key": "b10124d209af"
+    },
+    {
+      "text": "At least 6 killed in multiple Russian missile strikes across Ukraine. Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6419444444444444,
+      "key": "78a6764735be"
+    },
+    {
+      "text": "Trump vows ‘economic warfare’ on countries helping Iran. US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.1119444444444444,
+      "key": "16e29abb219c"
+    },
+    {
+      "text": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections. Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7933333333333334,
+      "key": "3d1e29f8a47b"
+    },
+    {
+      "text": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia. Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.36,
+      "key": "7c8f2b60d991"
+    },
+    {
+      "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance. Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.6866666666666665,
+      "key": "1845868a7226"
+    },
+    {
+      "text": "Bodycam captures police team falling when deck collapses in Missouri. Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.0125,
+      "key": "f9f943c15a2a"
+    },
+    {
+      "text": "Publisher of US military newspaper resigns over differences with government. Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.061111111111111,
+      "key": "592d60d5e640"
+    },
+    {
+      "text": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn. Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.181666666666667,
+      "key": "c13eeda39f41"
+    },
+    {
+      "text": "Harry Kane scores goal by winning Golden Shoe for the second time. English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.415,
+      "key": "553bbe9db9a7"
+    },
+    {
+      "text": "Nigeria’s election campaign begins with Tinubu facing a reform test. Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.53,
+      "key": "21e8903c3b6b"
+    },
+    {
+      "text": "Iran war live: Trump announces ‘most crushing’ Iran sanctions. Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.631388888888889,
+      "key": "821a8e90e452"
+    },
+    {
+      "text": "US national debt passes record $40 trillion. The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration.",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.643611111111111,
+      "key": "1353e8a63779"
+    },
+    {
+      "text": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother. The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.685,
+      "key": "299de55e9855"
+    },
+    {
+      "text": "Kosovo finds remains of 23 people in mass graves search. The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.705555555555556,
+      "key": "6d618287308d"
+    },
+    {
+      "text": "The Download: AI’s self-improvement problem, and what’s driving the heat. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need f",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.051111111111112,
+      "key": "02ff804ea930"
+    },
+    {
+      "text": "Child-monitoring apps might need a reboot. Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.217777777777776,
+      "key": "ed26d6cda12b"
+    },
+    {
+      "text": "Seattle Times columnist resigns after paper allegedly refused to run 'Save Women's Sports' column. Matt Calkins claims the Seattle Times refused to publish his column on two student-athletes who oppose transgender athletes in women&apos;s sports.",
+      "url": "https://www.foxnews.com/outkick-sports/seattle-times-columnist-resigns-paper-allegedly-refused-run-save-womens-sports-column",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.14055555555555554,
+      "key": "7c7ee9ebd721"
+    },
+    {
+      "text": "From Colin Kaepernick to Dylan Mulvaney, Nike's decade of left-wing activism has finally caught up to it. From Colin Kaepernick to Dylan Mulvaney to a federal EEOC investigation, Nike&apos;s decade of left-wing activism coincides with a 12-year stock low.",
+      "url": "https://www.foxnews.com/outkick-sports/colin-kaepernick-dylan-mulvaney-nikes-decade-left-wing-activism-finally-caught-up",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.3611111111111111,
+      "key": "b1986967b3ed"
+    },
+    {
+      "text": "Taylor Sheridan's $330M Four Sixes Ranch purchase forced him out of retirement plans. Taylor Sheridan reveals how buying the Four Sixes Ranch for $330 million forced him out of retirement and into his exclusive Paramount deal.",
+      "url": "https://www.foxnews.com/entertainment/taylor-sheridan-330m-four-sixes-ranch-purchase-forced-him-retirement-plans",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.4288888888888889,
+      "key": "38508a9d0400"
+    },
+    {
+      "text": "Unknown hacker allegedly leaks several minutes of Grand Theft Auto VI gameplay ahead of Netflix reveal. An anonymous X user allegedly leaked &quot;Grand Theft Auto VI&quot; gameplay footage showing Miami landmarks, sparking heated debate over the game&apos;s graphics.",
+      "url": "https://www.foxnews.com/outkick-culture/unknown-hacker-leaks-grand-theft-auto-vi-gameplay-netflix-reveal",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.4552777777777778,
+      "key": "25fc4cece01b"
+    },
+    {
+      "text": "California controller candidate slams massive education spending despite worse student results. Herb Morgan says California&apos;s per-pupil spending jumped from $16,300 to $27,400 yet test scores trail states spending half as much on education.",
+      "url": "https://www.foxnews.com/politics/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.49416666666666664,
+      "key": "513106526404"
+    },
+    {
+      "text": "Cancer vaccine prevents deadly melanoma from returning or spreading in landmark trial. Merck and Moderna&apos;s mRNA cancer vaccine hit its Phase 3 trial endpoint, showing improved recurrence-free survival in melanoma patients after surgery.",
+      "url": "https://www.foxnews.com/health/cancer-vaccine-prevents-deadly-melanoma-returning-spreading-landmark-trial",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9622222222222222,
+      "key": "2fd7cf60b08e"
+    },
+    {
+      "text": "Frank Isola comments on Michael Wilbon naming him preferred 'PTI' co-host when Tony Kornheiser retires. Tony Kornheiser and Michael Wilbon signed new three-year ESPN deals, but &quot;Pardon the Interruption&quot; faces major questions about its future.",
+      "url": "https://www.foxnews.com/outkick-sports/frank-isola-comments-michael-wilbon-naming-him-preferred-pti-co-host-tony-kornheiser-retires",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.0352777777777777,
+      "key": "dcba3c7a1c07"
+    },
+    {
+      "text": "Sean Duffy faces family dilemma over embattled Ivy League school and Christian values. Sean Duffy accused Harvard University of indoctrinating students with views contrary to his Catholic faith as his daughter Paloma eyes admission.",
+      "url": "https://www.foxnews.com/politics/sean-duffy-faces-family-dilemma-embattled-ivy-league-school-christian-values",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.106111111111111,
+      "key": "b1b73ef24eac"
+    },
+    {
+      "text": "IndyCar driver Graham Rahal reflects on opportunity to compete at Freedom 250 Grand Prix: 'Iconic moment'. Graham Rahal calls the Freedom Grand Prix 250 an &quot;iconic moment&quot; as IndyCar prepares to race through Washington, D.C., streets past Capitol Hill.",
+      "url": "https://www.foxnews.com/outkick-sports/indycar-driver-graham-rahal-reflects-opportunity-compete-freedom-250-grand-prix-iconic-moment",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.3369444444444445,
+      "key": "02b2a8d7deb8"
+    },
+    {
+      "text": "First lady Melania Trump, Fox Corporation announce landmark strategic alliance to grow Fostering the Future. Fox Corporation is directly co-funding first lady Melania Trump’s $2 million scholarship initiative through her Fostering the Future initiative.",
+      "url": "https://www.foxnews.com/media/first-lady-melania-trump-fox-corporation-announce-landmark-strategic-alliance-grow-fostering-future",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4652777777777777,
+      "key": "755ed876cae6"
+    },
+    {
+      "text": "ACM Honors 2026 red carpet: Vote on your favorite country star looks. Eric Church, Carly Pearce and more country stars hit the ACM Honors 2026 red carpet in standout styles. See all the looks and vote for your favorite fashion moment.",
+      "url": "https://www.foxnews.com/entertainment/acm-honors-2026-red-carpet-vote-your-favorite-country-star-looks",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.583611111111111,
+      "key": "922733a8d915"
+    },
+    {
+      "text": "Prince Harry, Meghan Markle’s UK move puts fresh spotlight on their explosive claims against royal family. From the Oprah Winfrey interview to the memoir &quot;Spare,&quot; a look at Prince Harry and Meghan Markle&apos;s most damaging allegations against the monarchy.",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markles-uk-move-puts-fresh-spotlight-explosive-claims-against-royal-family",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.6794444444444445,
+      "key": "1346b5c23629"
+    },
+    {
+      "text": "Democrats who ‘never voted Republican’ back Rogers over El-Sayed in razor-close race. Mike Rogers unveils his &quot;Democrats for Mike Rogers&quot; coalition in Detroit, courting voters unhappy with Abdul El-Sayed&apos;s far-left policy positions.",
+      "url": "https://www.foxnews.com/politics/democrats-never-voted-republican-back-rogers-el-sayed-razor-close-race",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.0102777777777776,
+      "key": "7591de85cfd4"
+    },
+    {
+      "text": "NASCAR's Natalie Decker is having a pool party for Daytona weekend, ESPN reporter cries & even more McAfee!. Natalie Decker preps for a Daytona pool party, Holly Rowe cries over a WNBA crowd, and Pete Alonso gets robbed of a home run in Thursday&apos;s recap.",
+      "url": "https://www.foxnews.com/outkick-sports/nascars-natalie-decker-pool-party-daytona-weekend-espn-reporter-cries-mcafee",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.1233333333333335,
+      "key": "2e84d4aa9171"
+    },
+    {
+      "text": "Angel Dad takes major new role after daughter’s killing sparks sweeping illegal alien crackdown. Angel Dad Joe Abraham, whose daughter Katie Abraham was killed in an illegal alien hit-and-run, will lead ICE&apos;s VOICE office as executive director.",
+      "url": "https://www.foxnews.com/politics/angel-dad-takes-major-new-role-after-daughters-killing-sparks-sweeping-illegal-alien-crackdown",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.144722222222222,
+      "key": "a8dfd289e23e"
+    },
+    {
+      "text": "Chinese court sentences founder of property developer Evergrande to life in prison. Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.3377777777777777,
+      "key": "b16c33ba83db"
+    },
+    {
+      "text": "Prince Harry and Meghan are returning to the U.K. with their children. Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5747222222222224,
+      "key": "586cc5b7fe2e"
+    },
+    {
+      "text": "Israeli military launches criminal probes into killings of 5-year-old and paramedics. Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.0216666666666665,
+      "key": "473f5df0806c"
+    },
+    {
+      "text": "California passes toughest wildfire rules in the U.S. for home landscaping. California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.549722222222222,
+      "key": "89c2037695d7"
+    },
+    {
+      "text": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting. A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.405555555555555,
+      "key": "93bd93ad442c"
+    },
+    {
+      "text": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta. The former Meta employee testified that the company culture prioritized user numbers over child safety measures.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.532222222222222,
+      "key": "24e570c8ee11"
+    },
+    {
+      "text": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T. The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates — pushing up borrowing costs for everyone else.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.70888888888889,
+      "key": "dd604541422f"
+    },
+    {
+      "text": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records. Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.116666666666667,
+      "key": "11d2a73083a9"
+    },
+    {
+      "text": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8. Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 14.852222222222222,
+      "key": "ccb62a13c376"
+    },
+    {
+      "text": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer. There's a reason why the escapist hit from singer Aitana has swept most of the Spanish-language world.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.808333333333334,
+      "key": "dcb51785f3da"
+    },
+    {
+      "text": "The “Asian water tower” is losing 24 billion tonnes of groundwater every year. The “Asian Water Tower” is losing roughly 24.2 billion tonnes of groundwater every year, with some of the worst declines hitting densely populated farming regions. Glacier melt may temporarily soften the crisis around the 2060s, but without changes in water use, researchers expect depletion to accelerate afterward.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "5542c0d1a440"
+    },
+    {
+      "text": "Schizophrenia’s lost brain connections follow a surprising pattern. Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region th",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "812d904752c6"
+    },
+    {
+      "text": "This total solar eclipse looked strangely golden — here’s why. Spain’s total solar eclipse delivered an unexpected sight: a corona glowing gold instead of its usual pearly white. Because the Sun was setting, its light passed through more atmosphere, while smoke from nearby wildfires filtered out even more blue light. The result was a dramatic golden eclipse, punctuated by a bright",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "5c516b4a9fd1"
+    },
+    {
+      "text": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater. A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of debris blasted across the surrounding surface. The impact even exposed fresh material buried beneath",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "be6e53de0e42"
+    },
+    {
+      "text": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery. Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could help scientists boost fusion energy output while revealing more about the exotic diamond rain hidden inside ice giant pla",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "a37ce11ee6e5"
+    },
+    {
+      "text": "Knee osteoarthritis isn’t inevitable — here’s what you can do. Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress on the knees and help keep pain in check.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002420.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "ffcca8d43ee4"
+    },
+    {
+      "text": "Scientists say the human family tree may need a major rewrite. The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to separate them. The proposed shake-up could provide a simpler, more accurate picture of our surprisingly com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "ade600f74e64"
+    },
+    {
+      "text": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND. Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "23fa28b07ce9"
+    },
+    {
+      "text": "More than 1,000 genetic switches reveal why female immunity is different. More than 1,000 genetic switches behave differently in male and female immune cells, helping explain why women are much more vulnerable to autoimmune diseases such as lupus. Female immune systems appear genetically tuned for stronger inflammatory responses—a powerful defense against infection that may also make dangero",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041239.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "1040fa84525f"
+    },
+    {
+      "text": "Pollen has a surprising problem — and honeybees have found a way around it. Honeybees can apparently detect when their food has the wrong balance of essential nutrients and adjust how much they eat to avoid potentially harmful excesses. They also transform pollen into remarkably well-balanced “baby food” for their larvae, revealing a sophisticated nutritional strategy hidden inside the hive.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "fe92d2d45fbc"
+    },
+    {
+      "text": "MIT physicists discover electrons rebuilding like ice inside a quantum material. MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The discovery could help explain how exotic properties such as superconductivity and magnetism develop and co",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "327c3e4f15f0"
+    },
+    {
+      "text": "Coffee drinkers have less fat, more muscle, and surprising hormone differences. Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated ",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "3a6650d07885"
+    },
+    {
+      "text": "This 23-foot crocodylian may have ruled South America’s food chain. Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At around seven meters long, Purussaurus may eve",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "6587ba017286"
+    },
+    {
+      "text": "Researchers reveal deeper workings of brain’s information hub. The brain has a remarkably flexible system for handling uncertainty and changing situations. Researchers found that the frontoparietal cortex constantly shifts how it communicates with other brain regions depending on what information is needed to make a decision. Rather than simply becoming more active when things get",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041224.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "93e37f97a7c8"
+    },
+    {
+      "text": "Tiny quantum engines reveal useful energy hiding in “waste heat”. A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of Basel researchers have developed a theoretical framework that brings quantum physics and thermodynamics ",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+      "source": "Science Daily",
+      "weight": 1.1,
+      "age_hours": null,
+      "key": "6cd37d70da0c"
+    }
+  ],
+  "contexts": {}
+}

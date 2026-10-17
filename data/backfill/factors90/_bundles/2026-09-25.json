@@ -1,0 +1,557 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-10-17T12:58:05.025427+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260925071652",
+    "NPR World": "20260925123622",
+    "Al Jazeera": "20260925055533",
+    "MIT Technology Review": "20260925094837",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260925042114",
+    "Fox News Latest": "20260925052154",
+    "NPR News": "20260925123622",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner. Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.6094444444444445,
+      "key": "a7567985c25b"
+    },
+    {
+      "text": "Xi got Trump's red carpet welcome - but not everything he wanted. China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.328611111111111,
+      "key": "786f260ae39b"
+    },
+    {
+      "text": "Netanyahu defends Israeli military action as delegates walk out before UN speech. The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.546666666666667,
+      "key": "40705c2fb2c3"
+    },
+    {
+      "text": "Media outlets banned by Trump denied access to White House dinner despite judge's order. CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.104722222222223,
+      "key": "2c95086842aa"
+    },
+    {
+      "text": "Hundreds of thousands expected in Paris for Pope's visit. The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.997777777777777,
+      "key": "8692e95cf552"
+    },
+    {
+      "text": "Why Australia chose the world's biggest political stage to reveal OpenAI hack. Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.17,
+      "key": "092afa7b6959"
+    },
+    {
+      "text": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says. Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.237777777777778,
+      "key": "9ef9afa9f5af"
+    },
+    {
+      "text": "Priest killed and four injured in knife attack at Polish abbey. A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.977777777777778,
+      "key": "37c56c6cc2d8"
+    },
+    {
+      "text": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class. Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.731388888888889,
+      "key": "3a0efcca5e58"
+    },
+    {
+      "text": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout. Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.352222222222222,
+      "key": "178aac836925"
+    },
+    {
+      "text": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting. The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.651944444444444,
+      "key": "871daa99c312"
+    },
+    {
+      "text": "105-year-old investigated for crimes at Nazi PoW camp in Germany. The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 16.655,
+      "key": "81d11ed3ff26"
+    },
+    {
+      "text": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat. The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.273055555555555,
+      "key": "35bfdc89040f"
+    },
+    {
+      "text": "Greek PM urges UK PM to return Elgin Marbles permanently. Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.671944444444444,
+      "key": "cf8023a7ba0c"
+    },
+    {
+      "text": "Rogue OpenAI agent 'infiltrated' Australian government website in world first. Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.579166666666667,
+      "key": "ea681587e123"
+    },
+    {
+      "text": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech. Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 1.2916666666666667,
+      "key": "eb0066b7c9b4"
+    },
+    {
+      "text": "Former U.S. ambassador to China on Xi Jinping's visit to Washington. NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 1.7961111111111112,
+      "key": "b9ececbf6e64"
+    },
+    {
+      "text": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly. Middle East crises in focus as U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 2.1886111111111113,
+      "key": "876e6463b7bc"
+    },
+    {
+      "text": "Is Switzerland's neutrality at a crossroads?. Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 3.6061111111111113,
+      "key": "9490d24aa9a6"
+    },
+    {
+      "text": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists. NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 3.91,
+      "key": "d80a961e63f2"
+    },
+    {
+      "text": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA. NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 3.9230555555555555,
+      "key": "17301c4cac5f"
+    },
+    {
+      "text": "Trump's state dinner for Xi features sea bass and a long list of tech titans. A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night state dinner honoring China's leader Xi Jinping.",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 6.289722222222222,
+      "key": "47fd21df3493"
+    },
+    {
+      "text": "Trump and Xi strike cordial tone at summit amid underlying tensions. Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 23.885277777777777,
+      "key": "dcdff9e77512"
+    },
+    {
+      "text": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split. A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition's Steve Inskeep for a Newsmakers interview.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 25.435555555555556,
+      "key": "5ebb12522101"
+    },
+    {
+      "text": "Needy couples got cash and a spending plan. Results were good -- and bad. In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 25.8825,
+      "key": "46e906f148e2"
+    },
+    {
+      "text": "Tata v Tata: What’s behind India’s big boardroom brawl?. India&#039;s most famous conglomerate is knee-deep in feuds over who gets to decide the Tata Group&#039;s future.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.5527777777777778,
+      "key": "16262d0a799d"
+    },
+    {
+      "text": "Multiple regions in Russia come under Ukrainian drone attacks. Ukraine has targeted an industrial plant in Russia&#039;s Perm region with a massive drone swarm.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6161111111111112,
+      "key": "a44ce4437f40"
+    },
+    {
+      "text": "Israeli football player sent off after gun-firing goal celebration. Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7608333333333334,
+      "key": "a1511d9724db"
+    },
+    {
+      "text": "Pakistani forces kill Afghan Taliban fighters in border escalation. Pakistan&#039;s security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5563888888888888,
+      "key": "bb6d6e0bd415"
+    },
+    {
+      "text": "Jewish protestors join Free Palestine march to denounce Netanyahu. Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0972222222222223,
+      "key": "d79184423a1c"
+    },
+    {
+      "text": "Young men flee Tigray amid fears of forced recruitment. Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.174166666666667,
+      "key": "f84613868520"
+    },
+    {
+      "text": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities. Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.2355555555555555,
+      "key": "91eddb55644c"
+    },
+    {
+      "text": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting. Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.336388888888889,
+      "key": "d18bba3da83d"
+    },
+    {
+      "text": "When AI’s moving this fast, who’s protecting us?. The people building the world’s most powerful AI systems are now warning governments about losing control.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3441666666666667,
+      "key": "30f8181a8fda"
+    },
+    {
+      "text": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu. Rights groups accuse UN of hosting a &#039;war criminal&#039; as delegations walk out during Israeli prime minister&#039;s speech.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.327777777777778,
+      "key": "1dfe307b7d62"
+    },
+    {
+      "text": "Contrasting treatment of Israel and Palestine on display at the UN. Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4880555555555555,
+      "key": "b69e7a489f9d"
+    },
+    {
+      "text": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit. Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.5213888888888887,
+      "key": "94e8e3fcebaf"
+    },
+    {
+      "text": "Meloni government bans burqas, caps foreign students in Italian schools. Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.801111111111111,
+      "key": "2eb657716100"
+    },
+    {
+      "text": "Trump praises US-China friendship at state dinner with Xi Jinping. The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.921388888888889,
+      "key": "9e35f6924bfa"
+    },
+    {
+      "text": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika. Forty-nine passengers have been rescued and a search is under way for the missing.",
+      "url": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.288888888888889,
+      "key": "5546f71e152d"
+    },
+    {
+      "text": "The Pentagon wants $30 million to build an AI-powered lie detector. The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a techniqu",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.5366666666666666,
+      "key": "9ca573b63832"
+    },
+    {
+      "text": "Young organs may not be a fountain of youth for recipients. Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, huma",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.8102777777777778,
+      "key": "a217be8deddc"
+    },
+    {
+      "text": "The Download: a bid to scrap the virtual wall and AI hits Climate Week. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to in",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.64361111111111,
+      "key": "cf406ad2d29d"
+    },
+    {
+      "text": "AI is dominating the conversation at Climate Week. This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the ",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.810277777777777,
+      "key": "0dd3c135cefc"
+    },
+    {
+      "text": "UMass Dartmouth football murder suspect overstayed tourist visa, received deferred action: federal sources. Chukwunonso Eze entered the U.S. on a tourist visa in 2015 and received deferred action under both Biden and Trump before he allegedly killed a UMass Dartmouth football player.",
+      "url": "https://www.foxnews.com/politics/umass-dartmouth-football-murder-suspect-overstayed-tourist-visa-received-deferred-action-federal-sources",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.3708333333333333,
+      "key": "a0f225b9cfb4"
+    },
+    {
+      "text": "Packers' shocking blowout loss to Falcons should put coach Matt LaFleur on the hot seat. The Green Bay Packers fell to 1-2 as Matt LaFleur&apos;s hot seat questions intensify after a blowout home loss to the Atlanta Falcons on Thursday night.",
+      "url": "https://www.foxnews.com/outkick-sports/packers-shocking-blowout-loss-falcons-should-put-coach-matt-lafleur-hot-seat",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5222222222222221,
+      "key": "db106dbe1556"
+    },
+    {
+      "text": "Indiana Fever routed by Lynx in regular season finale as Caitlin Clark posts career-worst performance. Caitlin Clark was held to a career-worst two points on 1-of-12 shooting as the Minnesota Lynx routed the Indiana Fever 86-66 in the finale.",
+      "url": "https://www.foxnews.com/outkick-sports/indiana-fever-routed-lynx-regular-season-finale-caitlin-clark-career-worst-performance",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.7802777777777776,
+      "key": "8a136201d623"
+    },
+    {
+      "text": "Pittsburgh doctor stabbed to death after intruder allegedly attacks him, wife as they slept: police. Dr. Idris Evans was stabbed to death in his Edgewood, Pennsylvania, home while sleeping as his wife fights for her life in critical condition.",
+      "url": "https://www.foxnews.com/us/pittsburgh-doctor-stabbed-death-intruder-allegedly-attacks-wife-slept-police",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.0383333333333336,
+      "key": "a5ca230fdc0f"
+    },
+    {
+      "text": "New Jersey Gov Mikie Sherrill calls on lieutenant governor to resign after sexual harassment investigation. New Jersey Gov. Mikie Sherrill gave Lt. Gov. Dale Caldwell a Friday deadline to resign after investigators substantiated sexual harassment and ethics violations.",
+      "url": "https://www.foxnews.com/politics/new-jersey-gov-mikie-sherrill-calls-lieutenant-governor-resign-sexual-harassment-investigation",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.798888888888889,
+      "key": "5d3abde00e79"
+    },
+    {
+      "text": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised. ShinyHunters claims it stole FBI employees&apos; names, addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. An expert weighs in.",
+      "url": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.376111111111111,
+      "key": "54a4ff5a6655"
+    },
+    {
+      "text": "Mamdani-backed socialist arrested at anti-Netanyahu protest outside UN. Mamdani-backed socialist House candidate Darializa Avila Chevalier, was arrested at an anti-Netanyahu protest blocking roads near the U.N. General Assembly meeting Thursday.",
+      "url": "https://www.foxnews.com/politics/mamdani-backed-socialist-house-nominee-arrested-anti-netanyahu-protest-outside-un",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.398055555555556,
+      "key": "e693964c7491"
+    },
+    {
+      "text": "JJ Redick takes shot at LeBron James, promises starters will not be all 'white guys' in odd presser. JJ Redick made an awkward quip about his Lakers starting lineup&apos;s racial makeup while addressing the viral &quot;Snowtime&quot; nickname for Luka Doncic&apos;s squad.",
+      "url": "https://www.foxnews.com/outkick-sports/jj-redick-takes-shot-lebron-james-promises-starters-not-all-white-guys-odd-presser",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.4725,
+      "key": "0a5ee0c1802b"
+    },
+    {
+      "text": "Final Sophie Cunningham rally of the 2026 regular season pits supporters against trans activists in Minnesota. A pro-transgender counterprotester told Sophie Cunningham supporters they &quot;should have been aborted&quot; outside the Indiana Fever&apos;s Minnesota Lynx game.",
+      "url": "https://www.foxnews.com/outkick-sports/final-sophie-cunningham-rally-2026-regular-season-pits-supporters-against-trans-activists-minnesota",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.611111111111111,
+      "key": "1d8a5997ebac"
+    },
+    {
+      "text": "Kyle Juszczyk responds to beer fine by explaining in detail his celebration is about his nickname – Juice. Kyle Juszczyk says his touchdown celebration is about drinking juice, not beer, and George Kittle jokingly wants to change his teammate&apos;s nickname.",
+      "url": "https://www.foxnews.com/outkick-sports/kyle-juszczyk-responds-beer-fine-explaining-detail-celebration-nickname-juice",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.8116666666666665,
+      "key": "221abffd10b9"
+    },
+    {
+      "text": "Michigan nurse accused of breaking bones and bruising premature infant at children's hospital. Kieran Ansley allegedly left a premature baby with broken bones and bruises at Helen DeVos Children&apos;s Hospital, entering her room 27 times that night.",
+      "url": "https://www.foxnews.com/us/michigan-nurse-accused-breaking-bones-bruising-premature-infant-childrens-hospital",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.901666666666666,
+      "key": "d92563ed1823"
+    },
+    {
+      "text": "Xi can’t escape protesters’ cries at deafening dinner demonstration. Protesters chanting &quot;Free Hong Kong&quot; and demanding freedom for political prisoners were heard over Trump&apos;s State Dinner welcoming Xi Jinping.",
+      "url": "https://www.foxnews.com/politics/xi-escape-protesters-cries-deafening-dinner-demonstration",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.909166666666667,
+      "key": "c6495c8e4d92"
+    },
+    {
+      "text": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium. Iranian President Masoud Pezeshkian claims Tehran will submit its nuclear program to verification and dilute enriched uranium to ease tensions.",
+      "url": "https://www.foxnews.com/world/iranian-president-blames-us-middle-east-conflict-denying-nuclear-ambitions-offers-dilute-uranium",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.9383333333333335,
+      "key": "cb43b9f1f126"
+    },
+    {
+      "text": "Meet 'the devil': Actor who plays Satan, Judas Iscariot shares power of comedy in uncertain political times. Jarret LeMaster has played Satan and Adolf Hitler but now voices Bumblebee in the Transformers 40th anniversary short alongside Frank Welker.",
+      "url": "https://www.foxnews.com/lifestyle/meet-devil-actor-plays-satan-judas-iscariot-shares-power-comedy-uncertain-political-times",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.136388888888889,
+      "key": "b2557e9d890a"
+    },
+    {
+      "text": "Turning Point USA fires back at ICE shooting lawyer over deleted Charlie Kirk post. Turning Point USA&apos;s Andrew Kolvet called the ICE shooting victim and his attorney a &quot;perfect match&quot; after her deleted post about Charlie Kirk resurfaced.",
+      "url": "https://www.foxnews.com/media/turning-point-usa-fires-back-ice-shooting-lawyer-over-deleted-charlie-kirk-post",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.372777777777777,
+      "key": "2d5a50ceff29"
+    },
+    {
+      "text": "Why this Pokémon set is dropping in value. How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.606111111111111,
+      "key": "0866a99abac6"
+    },
+    {
+      "text": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments. Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.5894444444444447,
+      "key": "af9f7ef72b2e"
+    },
+    {
+      "text": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____. Plus: It's a very special week! But which one?",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.5894444444444447,
+      "key": "6e6382b63d94"
+    },
+    {
+      "text": "Americans are confused and worried about elections. Will that impact turnout?. New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.6061111111111113,
+      "key": "4b28c7e01225"
+    },
+    {
+      "text": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage. Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it's impossible to pick up all the pieces.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.6061111111111113,
+      "key": "fa1cd87c4c9f"
+    },
+    {
+      "text": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care. The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.6061111111111113,
+      "key": "b737e892254f"
+    },
+    {
+      "text": "American farmers are hurting -- and worried about their futures. Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.6061111111111113,
+      "key": "2363a909dbd8"
+    }
+  ],
+  "contexts": {}
+}

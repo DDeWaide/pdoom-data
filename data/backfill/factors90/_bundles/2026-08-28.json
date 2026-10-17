@@ -1,0 +1,509 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-10-17T12:45:24.413101+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260828224334",
+    "NPR World": null,
+    "Al Jazeera": "20260828163038",
+    "MIT Technology Review": null,
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": "20260828053412",
+    "CNN Top Stories": "20260828042139",
+    "Fox News Latest": "20260828044254",
+    "NPR News": null,
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Footage of Tibet floods isn't being shown in China - and we know little about victims there. Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.6313888888888889,
+      "key": "af8aa0e795f7"
+    },
+    {
+      "text": "Norway mourns King Harald as Haakon VIII ascends throne. Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.0469444444444442,
+      "key": "0516ecd372ab"
+    },
+    {
+      "text": "Oslo mayor calls off wedding ceremony after death of Norway's king. Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.883333333333333,
+      "key": "aee8708cadf2"
+    },
+    {
+      "text": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say. But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.636388888888889,
+      "key": "78f1adebd149"
+    },
+    {
+      "text": "Right-wing commentator Milo Yiannopoulos detained by ICE. The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.698611111111111,
+      "key": "904634bd8b9d"
+    },
+    {
+      "text": "Berlin is being blackmailed by hackers, mayor says. Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.2425,
+      "key": "62d6ebb8bad8"
+    },
+    {
+      "text": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight. Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.238333333333333,
+      "key": "921994f5896d"
+    },
+    {
+      "text": "Greenland says findings on genocide allegation not final. Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
+      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.7622222222222224,
+      "key": "5b0bce2ceed1"
+    },
+    {
+      "text": "Violence breaks out in Ceuta as migrant crisis continues. A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.209722222222222,
+      "key": "62689e7e79d6"
+    },
+    {
+      "text": "World's youngest reigning traditional monarch dies aged 34. King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
+      "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.502777777777778,
+      "key": "3cf50cf7f84a"
+    },
+    {
+      "text": "US plans to cut off military aid to key Middle East ally, BBC told. Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.9652777777777777,
+      "key": "2dcc73794c44"
+    },
+    {
+      "text": "Two-year curfew lifted in Sudan's capital. The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.411388888888888,
+      "key": "0898cd13b69b"
+    },
+    {
+      "text": "Shootings surge as drug gangs torment Brussels. This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.037777777777778,
+      "key": "bfb77189dd5e"
+    },
+    {
+      "text": "Trump signs order to rename Lake Ontario as Lake America. Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.290277777777778,
+      "key": "1a696d1d8793"
+    },
+    {
+      "text": "Dutch court sentences man to life over Rwanda genocide. The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.463333333333333,
+      "key": "66aa6f65fec2"
+    },
+    {
+      "text": "Kenyan police fire tear gas at Nairobi protest against import duty hike. Traders frustrated by more than $5,000 duty hike they say will hurt small businesses.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/kenyan-police-fire-tear-gas-at-nairobi-protest-against-import-duty-hike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.3061111111111111,
+      "key": "1a61a7024a06"
+    },
+    {
+      "text": "The two types of Israeli settlers. Israeli settlement expansion in the occupied West Bank isn’t just driven by ideology, but also by economic incentives.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/the-two-types-of-israeli-settlers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.475,
+      "key": "a433627e3e63"
+    },
+    {
+      "text": "LIVE: Crystal Palace vs Manchester City – Premier League. Live coverage and text updates from our commentary stream as Erling Haaland will look to fire City to consecutive wins.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.49194444444444446,
+      "key": "049d5c4bdd2d"
+    },
+    {
+      "text": "6 months of war on Iran. The US-Israeli war on Iran has reached the six-month mark, with no sign of slowing down.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3530555555555555,
+      "key": "4d8472ff0275"
+    },
+    {
+      "text": "Nepali families pray for miracles with relatives missing after flood. At a Kathmandu hospital, families peer at lists of those who are critical, dead — or have been released.",
+      "url": "https://www.aljazeera.com/features/2026/8/28/nepali-families-pray-for-miracles-with-relatives-missing-after-flood?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5133333333333334,
+      "key": "05a0f91b0cfd"
+    },
+    {
+      "text": "Can Trump really rename Lake Ontario, ‘Lake America’?. Amid tariff war with Canada, Trump has signed an executive order renaming the shared lake.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9052777777777778,
+      "key": "6a4bd55089cd"
+    },
+    {
+      "text": "Oneness or Hindu supremacy? RSS chief Bhagwat’s secretive New York hosts. RSS chief Mohan Bhagwat is scheduled to speak at an event in New York on Saturday.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/oneness-or-hindu-supremacy-rss-chief-bhagwats-secretive-new-york-hosts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.1661111111111113,
+      "key": "4f0c7d4536ba"
+    },
+    {
+      "text": "UK has billions in contracts with firms tied to illegal Israeli settlements. Al Jazeera investigation reveals UK public money flowing to companies linked to Israeli settlements in occupied land.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.8427777777777776,
+      "key": "5ae666d4fe23"
+    },
+    {
+      "text": "Europa League draw: Bournemouth, Sunderland get glamour ties with AC Milan. Teams playing in UEFA&#039;s Europa League and Conference League find out their opponents as league phase draws made.",
+      "url": "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.953611111111111,
+      "key": "100fb950a08a"
+    },
+    {
+      "text": "Qatar pledges support for efforts to end Libya’s political division. Qatari minister meets army chief amid efforts to bridge longstanding political divisions in Libya.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/qatar-pledges-support-for-efforts-to-end-libyas-political-division?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.200277777777778,
+      "key": "aeeddeeaf14b"
+    },
+    {
+      "text": "Dutch court hands life sentence to Rwandan man for genocide role. Eugene N. was convicted for his part in a massacre at a stadium in which 3,000 Tutsis were slaughtered.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/dutch-court-hands-life-sentence-to-rwandan-man-for-genocide-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.2177777777777776,
+      "key": "f16786c2254b"
+    },
+    {
+      "text": "US ICE agency to spend $16.7m on electric shock gloves. The much-criticised immigration agency has agreed a contract for 6,000 pairs of gloves that will deliver painful shocks.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/us-ice-agency-to-spend-16-7m-on-electric-shock-gloves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.25,
+      "key": "6c0fd27f14ca"
+    },
+    {
+      "text": "Narrow escape for woman as Russian drone hits residential area. Video shows the moment a Russian attack hit a parking lot near Ukraine’s capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/narrow-escape-for-woman-as-russian-drone-hits-residential-area?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.5122222222222224,
+      "key": "613ec1e43a6d"
+    },
+    {
+      "text": "After six months of war, what have US, Iran gained and lost?. Many of the US president&#039;s goals remain unfulfilled, despite claims of victory.",
+      "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.891111111111111,
+      "key": "c228d6785d9a"
+    },
+    {
+      "text": "Nepal-Tibet flood: Families of missing people endure agonising wait. Families are waiting for news of their loved ones as rescue teams race to reach survivors of the Nepal-Tibet flash flood",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepal-tibet-flood-families-of-missing-people-endure-agonising-wait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.946388888888889,
+      "key": "8b6be4e0e588"
+    },
+    {
+      "text": "Uber Eats Promo Codes: $15 Off │September 2026. Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+      "url": "https://www.wired.com/story/uber-eats-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "07ae7cd654da"
+    },
+    {
+      "text": "Reebok Discount Code: Save 15%+ in September 2026. Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
+      "url": "https://www.wired.com/story/reebok-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "57854bbba46a"
+    },
+    {
+      "text": "Hotels.com Coupon Codes for September 2026. Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "65a858ced16c"
+    },
+    {
+      "text": "Gametime Promo Code: Save on Tickets in September 2026. Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
+      "url": "https://www.wired.com/story/gametime-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "5ef0059e0d99"
+    },
+    {
+      "text": "30% VistaPrint Coupon & Promo Codes | September 2026. From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "daa6af1a1ef5"
+    },
+    {
+      "text": "Maytag Promo Codes: 15% Off Appliances. Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "url": "https://www.wired.com/story/maytag-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "0d26b62ae789"
+    },
+    {
+      "text": "Chatbooks Promo Code: Save up to 40% on Photo Books in September 2026. Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
+      "url": "https://www.wired.com/story/chatbooks-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.57,
+      "key": "215a3690f785"
+    },
+    {
+      "text": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic. A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.4994444444444444,
+      "key": "319d13201baa"
+    },
+    {
+      "text": "6 Takeaways From the GTA VI Extended Look. Grand Theft Auto VI is nigh. Here’s what the developer revealed about its highly anticipated game.",
+      "url": "https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.062222222222223,
+      "key": "fc4e68f210fd"
+    },
+    {
+      "text": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?. This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.427222222222222,
+      "key": "36c36333d1d1"
+    },
+    {
+      "text": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling. Michele Spagnuolo was arrested for alleged insider trading on Polymarket, but the Switzerland-based engineer says he was simply gambling—activity that is beyond the reach of US commodities law.",
+      "url": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.359166666666667,
+      "key": "4464fbe4e869"
+    },
+    {
+      "text": "Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375. I combed through the Labor Day sales to find the power tools and other essentials that cover nearly every household repair.",
+      "url": "https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.145,
+      "key": "ac7107923770"
+    },
+    {
+      "text": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend. After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.365277777777777,
+      "key": "8b388f8ed82c"
+    },
+    {
+      "text": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World. The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.455555555555556,
+      "key": "e52f4ff3ec84"
+    },
+    {
+      "text": "Netflix Failed at Video Games. Now It’s Trying to Promote Them. Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
+      "url": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.145,
+      "key": "c4319c8d8d71"
+    },
+    {
+      "text": "Fiery views on Lindsay Clancy at work could get you fired — and be perfectly legal, employment lawyer warns. Lindsay Clancy&apos;s murder trial has sparked heated workplace debates, but an employment law expert warns fiery opinions could legally get you fired.",
+      "url": "https://www.foxnews.com/us/fiery-views-lindsay-clancy-work-could-get-you-fired-perfectly-legal-employment-lawyer-warns",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.7022222222222222,
+      "key": "c8ed33593bb1"
+    },
+    {
+      "text": "Suspected human smugglers lead cops on 100-mph chase before bailing and allegedly committing armed carjacking. Helicopter video captures the 100-mph chase in Fabens, Texas, as two suspected human smugglers bail out and one allegedly carjacks a civilian at gunpoint.",
+      "url": "https://www.foxnews.com/us/suspected-human-smugglers-lead-cops-100-mph-chase-before-bailing-allegedly-committing-armed-carjacking",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8547222222222223,
+      "key": "89e4ae7af8e4"
+    },
+    {
+      "text": "Aliyah Boston addresses Caitlin Clark's viral smile at Angel Reese on 'Post Moves' podcast. Aliyah Boston addressed Caitlin Clark&apos;s viral smile at Angel Reese on her podcast with Candace Parker, revealing how the Fever reacted to the meme.",
+      "url": "https://www.foxnews.com/outkick-sports/aliyah-boston-addresses-caitlin-clarks-viral-smile-angel-reese-post-moves-podcast",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4630555555555556,
+      "key": "897e91c195e6"
+    },
+    {
+      "text": "Tony Romo hit with several new citations after OWI arrest, further jeopardizing return to NFL broadcasts. Tony Romo faces three new Milwaukee citations including operating while intoxicated and open intoxicants tied to his July arrest on a highway.",
+      "url": "https://www.foxnews.com/outkick-sports/tony-romo-hit-several-new-citations-after-owi-arrest-further-jeopardizing-return-nfl-broadcasts",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.8475,
+      "key": "0d0a059af408"
+    },
+    {
+      "text": "California authorities identify final unknown victim of ‘Happy Face Killer’ Keith Jesperson after 34 years. DNA testing confirmed Lydia Jane Wade McWhorter as the &apos;Happy Face Killer&apos;s&apos; final unidentified victim, found along a California highway in 1992.",
+      "url": "https://www.foxnews.com/us/california-authorities-identify-final-unknown-victim-happy-face-killer-keith-jesperson-after-34-years",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2219444444444445,
+      "key": "00812737369f"
+    },
+    {
+      "text": "New York Gov Hochul rejects Trump's 'Lake America' renaming with blunt message. New York Gov. Kathy Hochul pushed back on President Donald Trump&apos;s executive order to rename Lake Ontario to &quot;Lake America&quot; amid his trade war with Canada.",
+      "url": "https://www.foxnews.com/politics/new-york-gov-hochul-rejects-trumps-lake-america-renaming-blunt-message",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.435,
+      "key": "43b1ee6d88f9"
+    },
+    {
+      "text": "Old Al Michaels stumbles through awkward Lake America-Trump jab during Thursday Night Football broadcast. Al Michaels dropped a smug Trump joke about Lake Ontario&apos;s renaming during Thursday Night Football, leaving Kirk Herbstreit frozen in silence.",
+      "url": "https://www.foxnews.com/outkick-sports/al-michaels-stumbles-awkward-lake-america-trump-jab-thursday-night-football-broadcast",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.4544444444444444,
+      "key": "37c977b4e1a5"
+    },
+    {
+      "text": "Fired Stars and Stripes staffers sue Pentagon, allege retaliation and First Amendment violation. Fired Stars and Stripes staffers allege the Pentagon retaliated against them for First Amendment-protected speech and USS Abraham Lincoln reporting.",
+      "url": "https://www.foxnews.com/media/fired-stars-stripes-staffers-sue-pentagon-allege-retaliation-first-amendment-violation",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5297222222222224,
+      "key": "d1a961a50fa5"
+    },
+    {
+      "text": "Maine meteorologist suffers giggle attack on live TV after prank backfires spectacularly. Patrick Osborn struggled to finish his WABI weather report after a prank involving Charlie Brown audio sent him into a fit of laughter.",
+      "url": "https://www.foxnews.com/us/maine-meteorologist-suffers-giggle-attack-live-tv-after-prank-backfires-spectacularly",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8355555555555556,
+      "key": "3688de5138dc"
+    },
+    {
+      "text": "Broncos coach Sean Payton buries Geoff Schwartz after analyst butchers Bo Nix's downfield game. Sean Payton fired back at analyst Geoff Schwartz after his claim that Bo Nix doesn&apos;t push the ball downfield was corrected by deep-ball stats.",
+      "url": "https://www.foxnews.com/outkick-sports/broncos-coach-sean-payton-buries-geoff-schwartz-analyst-butchers-bo-nix-downfield-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.0388888888888888,
+      "key": "34b9f89470f0"
+    },
+    {
+      "text": "Dodgers owner Mark Walter denies reports, says team payroll is supported by revenue: 'There has been no fraud'. TWG Global denies fraud allegations in a new statement, saying no one has been harmed and that the Los Angeles Dodgers have top revenue in baseball.",
+      "url": "https://www.foxnews.com/outkick-sports/dodgers-owner-mark-walter-denies-reports-says-team-payroll-supported-revenue-no-fraud",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2869444444444444,
+      "key": "02a4b9cd432c"
+    },
+    {
+      "text": "Dolly Parton's beloved literacy mission sees surge of support after country icon's death. Alabama&apos;s proposed Dolly Parton Imagination Library license plate surged from 40 to over 550 commitments in 24 hours after the icon&apos;s death.",
+      "url": "https://www.foxnews.com/lifestyle/dolly-parton-beloved-literacy-mission-sees-surge-support-after-country-icon-death",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.464166666666667,
+      "key": "088fe732dfe5"
+    },
+    {
+      "text": "CNN apologizes after mistakenly airing image of Dolly Parton impersonator during report on icon's death. CNN issued an apology after accidentally airing a photo of Dolly Parton impersonator Kelly Vohnn during a report on the music icon&apos;s death.",
+      "url": "https://www.foxnews.com/media/cnn-apologizes-mistakenly-airing-image-dolly-parton-impersonator-report-icon-passing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.7316666666666665,
+      "key": "a7c613bc5b0b"
+    },
+    {
+      "text": "Prosecutor says he has portion of Josh Jacobs' domestic incident with ex-girlfriend on video. Surveillance video from Josh Jacobs&apos; garage allegedly corroborates his ex-girlfriend&apos;s account of the battery, raising questions about his NFL future.",
+      "url": "https://www.foxnews.com/outkick-sports/prosecutor-says-portion-josh-jacobs-domestic-incident-ex-girlfriend-video",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.002222222222223,
+      "key": "9f3f89528c75"
+    },
+    {
+      "text": "Mark Ruffalo accused of antisemitism by Hollywood insiders over Paramount merger remarks. The Brigade, a group of nearly 1,000 Jewish entertainment industry members, accused Mark Ruffalo of invoking antisemitic tropes about the Paramount merger.",
+      "url": "https://www.foxnews.com/media/mark-ruffalo-accused-antisemitism-hollywood-insiders-paramount-merger-remarks",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.060555555555555,
+      "key": "5cc6a9ac30be"
+    }
+  ],
+  "contexts": {}
+}

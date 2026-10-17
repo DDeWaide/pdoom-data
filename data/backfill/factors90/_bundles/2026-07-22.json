@@ -1,0 +1,349 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-10-17T12:31:47.033604+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 4,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260722064537",
+    "MIT Technology Review": null,
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260722043114",
+    "Fox News Latest": "20260722044232",
+    "NPR News": "20260722002246",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Can Pakistan-administered Kashmir’s election overcome a violent summer?. After months of protests and a crackdown, Pakistan-administered Kashmir heads into elections clouded by uncertainty.",
+      "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.5405555555555556,
+      "key": "c0ea55e0a6fe"
+    },
+    {
+      "text": "Goats of football: Indian village holds tournament with an indigenous twist. In a remote district surrounded by forests and hills, teams from tribal villages compete for football glory - and goats.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.4422222222222223,
+      "key": "3a19570235f0"
+    },
+    {
+      "text": "US expands strikes on 11th straight night of attacks. The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.67,
+      "key": "54028d1fd076"
+    },
+    {
+      "text": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war. US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7127777777777777,
+      "key": "66f7891b466a"
+    },
+    {
+      "text": "Guyana ferry capsize death toll rises to 53 as survivors describe terror. A ferry capsized in Guyana over the weekend, killing at least 53 people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9672222222222222,
+      "key": "784623e679c9"
+    },
+    {
+      "text": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him. NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6275,
+      "key": "a220174394af"
+    },
+    {
+      "text": "Palestine weekly: Ahead of elections, Israel doubles down on attacks. Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.9905555555555554,
+      "key": "ecd1dee34a00"
+    },
+    {
+      "text": "More than 140 dead, missing on refugee boat stranded off Mauritania. Boat carrying migrants and refugees from Africa ran out of fuel, leading to a tragedy with 143 dead and 38 rescued.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.000277777777778,
+      "key": "94e869575694"
+    },
+    {
+      "text": "France becomes first EU country to officially ban social media for children. France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket bans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.1905555555555556,
+      "key": "39e97edb307b"
+    },
+    {
+      "text": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel. A deadly attack near Anefis exposes the growing challenges facing Mali&#039;s military leaders.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.1066666666666665,
+      "key": "cfbce0113359"
+    },
+    {
+      "text": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company. OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.145,
+      "key": "cf945e4d2272"
+    },
+    {
+      "text": "US targets China in move to ban military-grade drone imports. Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.394444444444445,
+      "key": "5a6b86773eeb"
+    },
+    {
+      "text": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak. US officials claim evidence points to lettuce grown in Mexico, which Mexico&#039;s Health Ministry disputes.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.735833333333333,
+      "key": "a2664a7595aa"
+    },
+    {
+      "text": "Desperate families search rubble weeks after Venezuela earthquakes. Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.000555555555556,
+      "key": "f3830e67ad2a"
+    },
+    {
+      "text": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon. Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.402222222222222,
+      "key": "7974f0f74b35"
+    },
+    {
+      "text": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment. Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
+      "url": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.7672222222222222,
+      "key": "b2c2797d5a42"
+    },
+    {
+      "text": "House narrowly backs allowing troops, Pentagon workers to carry personal guns on military bases. The House voted 215-214 to presume approval when qualified service members and civilian employees request to carry personal firearms on bases.",
+      "url": "https://www.foxnews.com/politics/house-narrowly-backs-allowing-troops-pentagon-workers-carry-personal-guns-military-bases",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.04,
+      "key": "4efbff1ce863"
+    },
+    {
+      "text": "Progressive wave crashes in Sun Belt battleground as moderate holds his seat. Rep. Greg Stanton defeated socialist challenger Kai Newkirk in Arizona&apos;s 4th District primary despite attacks over Israel and immigration, bucking a national trend.",
+      "url": "https://www.foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.2844444444444445,
+      "key": "c2dd82033da1"
+    },
+    {
+      "text": "Ex-NFL star backed by Trump wins battleground state primary: 'True America First Conservative'. Ex-NFL kicker Jay Feely won the GOP nomination for Arizona’s 1st District, setting up a high-stakes general election fight for a competitive Phoenix-area House seat.",
+      "url": "https://www.foxnews.com/politics/ex-nfl-star-backed-trump-wins-battleground-state-primary-true-america-first-conservative",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.3594444444444445,
+      "key": "33febd16ebd2"
+    },
+    {
+      "text": "Los Angeles Angels fired advance scout nicknamed 'Baseball Spy' after he was caught filming Rockies. The Los Angeles Angels fired one of their scouts, Justin Prinstein, after he was caught filming Rockies coaches at Coors Field, leaving plenty of questions.",
+      "url": "https://www.foxnews.com/outkick-sports/los-angeles-angels-fired-advance-scout-nicknamed-baseball-spy-caught-filming-rockies",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.3733333333333333,
+      "key": "2f4b70d8c8d4"
+    },
+    {
+      "text": "Ex-sheriff backed by Trump storms to victory in race to replace longtime GOP firebrand. Mark Lamb secured Trump&apos;s backing and cleared the GOP primary to replace Andy Biggs, but allegations about sexual images shadowed his campaign.",
+      "url": "https://www.foxnews.com/politics/ex-sheriff-backed-trump-storms-victory-race-replace-longtime-gop-firebrand",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4633333333333334,
+      "key": "25f698116c3c"
+    },
+    {
+      "text": "Trump-backed firebrand wins Arizona GOP governor primary, setting up high-stakes showdown. Andy Biggs captured the Arizona GOP gubernatorial nomination, setting up a general election showdown against Democratic Gov. Katie Hobbs in November.",
+      "url": "https://www.foxnews.com/politics/trump-backed-firebrand-wins-arizona-gop-governor-primary-setting-up-high-stakes-showdown",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5263888888888888,
+      "key": "00bbe4250a09"
+    },
+    {
+      "text": "Vulnerable Republican wins GOP primary in Arizona toss-up district Dems aim to flip blue. Rep. Juan Ciscomani will face Democrat JoAnna Mendoza in a toss-up Arizona House race that could determine which party controls Congress after midterms.",
+      "url": "https://www.foxnews.com/politics/vulnerable-republican-wins-gop-primary-arizona-toss-up-district-dems-aim-flip-blue",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.9302777777777778,
+      "key": "3a02bac6d641"
+    },
+    {
+      "text": "EXCLUSIVE: Franklin Graham visits emergency hospital treating Venezuela earthquake victims. Franklin Graham visited a Samaritan&apos;s Purse field hospital in Venezuela where doctors perform orthopedic surgeries and pray with earthquake survivors.",
+      "url": "https://www.foxnews.com/faith-values/exclusive-franklin-graham-visits-emergency-hospital-caring-venezuela-earthquake-victims",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.0633333333333335,
+      "key": "0f27ff210507"
+    },
+    {
+      "text": "Democrats re-nominate Arizona governor, setting stage for high-stakes November battle. Katie Hobbs won her party&apos;s nomination after running unopposed in Arizona&apos;s Democratic primary for governor. She spent roughly $7 million on ads targeting independent and GOP voters.",
+      "url": "https://www.foxnews.com/politics/democrats-re-nominate-arizona-governor-setting-stage-high-stakes-november-battle",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.265,
+      "key": "4f82e26c813a"
+    },
+    {
+      "text": "Trump wants FIFA President Gianni Infantino to become the next UN secretary-general: report. Trump reportedly wants FIFA President Gianni Infantino to become the next UN secretary-general, citing his ability to bring people together.",
+      "url": "https://www.foxnews.com/sports/trump-wants-fifa-president-gianni-infantino-become-next-un-secretary-general-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.4,
+      "key": "06e420e1569f"
+    },
+    {
+      "text": "House GOP votes to punt government shutdown battle to after November midterms. Speaker Mike Johnson warns Democrats would force another government shutdown before midterms as the Senate crafts its own continuing resolution.",
+      "url": "https://www.foxnews.com/politics/house-gop-votes-punt-government-shutdown-battle-after-november-midterms",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.433611111111111,
+      "key": "7d54a036861a"
+    },
+    {
+      "text": "Woman's remains identified by DNA in Virginia, exposing second alleged murder linked to same 4 suspects. DNA analysis identified Helen Marie Pullen Banks months after her remains were found, linking her death to four suspects in a second Virginia murder.",
+      "url": "https://www.foxnews.com/us/womans-remains-identified-dna-virginia-exposing-second-alleged-murder-linked-same-4-suspects",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5033333333333334,
+      "key": "09a306420829"
+    },
+    {
+      "text": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat. Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.",
+      "url": "https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.7269444444444444,
+      "key": "5c7af8cd283b"
+    },
+    {
+      "text": "Panthers' Taylor Moton moved to non-football injury list with blood clot as offensive line concerns grow. Taylor Moton was diagnosed with a lung clot and placed on blood thinners, leaving the Panthers without both starting tackles heading into training camp.",
+      "url": "https://www.foxnews.com/sports/panthers-taylor-moton-moved-non-football-injury-list-blood-clot-offensive-line-concerns-grow",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8222222222222224,
+      "key": "06f6d49c833e"
+    },
+    {
+      "text": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans. In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.6891666666666665,
+      "key": "a4eaf622637c"
+    },
+    {
+      "text": "Ukraine's Zelenskyy fires his military chief after protests and names a new one. President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine's armed forces following days of protests demanding his removal. Zelenskyy appointed Mykhailo Drapatyi as the new army chief.",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.878888888888889,
+      "key": "7e6cdd533eaa"
+    },
+    {
+      "text": "Nicaragua's President Ortega says no more elections, extending his 20-year rule. The announcement effectively canceled Nicaragua's next elections, originally scheduled for November 2027.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 5.2011111111111115,
+      "key": "1fe18abbb0cd"
+    },
+    {
+      "text": "Is that food really made with 100% avocado oil? Likely not. A new study finds that consumers who are paying a premium for foods advertised as made with avocado oil are probably not getting what they think they're buying.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902084/avocado-oil-health-fraud-study",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 6.365,
+      "key": "4a8a75e49570"
+    },
+    {
+      "text": "The best games of 2026 so far, picked by NPR's staff. Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.379444444444445,
+      "key": "3cfd8a2fcdc3"
+    },
+    {
+      "text": "India's youth-led Cockroach movement vows to continue protest after police crackdown. The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.363888888888889,
+      "key": "d33821f0a992"
+    },
+    {
+      "text": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown. Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.168055555555556,
+      "key": "d8399f799ec3"
+    },
+    {
+      "text": "Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request. Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.684722222222222,
+      "key": "6f8494f668d7"
+    },
+    {
+      "text": "Trump imposes 50% tariffs on Canadian goods. President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.853333333333333,
+      "key": "05659a5ff9c7"
+    },
+    {
+      "text": "The best economic ideas from around the world — Planet Money Summer School is back. Our free economics course for your ears is on a quest for great economics ideas.",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.879444444444445,
+      "key": "7bffdacb574c"
+    }
+  ],
+  "contexts": {}
+}
