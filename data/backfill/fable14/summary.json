@@ -1,0 +1,328 @@
+{
+  "fable14": {
+    "days": 12,
+    "noise": {
+      "days": 12,
+      "pooled_within_day_sd": 3.19,
+      "median_within_day_sd": 2.82,
+      "p90_within_day_sd": 4.43,
+      "mean_se": 1.12,
+      "median_se": 0.78
+    },
+    "series": {
+      "consecutive_day_changes": 10,
+      "change_sd": 10.39,
+      "change_mean_abs": 7.92,
+      "change_p90_abs": 16.2,
+      "change_p95_abs": 17.1,
+      "change_max_abs": 18.0,
+      "upward_p90": 16.15,
+      "upward_p95": 17.07,
+      "days_up_over_10": 2,
+      "days_abs_over_10": 3,
+      "variogram": [
+        [
+          1,
+          108.0
+        ],
+        [
+          2,
+          105.25
+        ],
+        [
+          3,
+          35.11
+        ],
+        [
+          4,
+          110.16
+        ],
+        [
+          5,
+          112.89
+        ],
+        [
+          6,
+          15.2
+        ]
+      ],
+      "measurement_sd_estimate": 7.67,
+      "measurement_sd_lag1_check": 6.78,
+      "process_sd_estimate": 0.0,
+      "mix_sd_estimate": 7.55,
+      "note": "Variogram estimates; on 90 days expect about +/-0.5 on the measurement SD and +/-0.7 on the process SD (more with real shocks in the window). A process SD of 0 means 'below detection', not zero. The split assumes noise independent from day to day, which the model's favorite numbers violate a little."
+    },
+    "quantization": {
+      "samples": 60,
+      "distinct_values": 33,
+      "distinct_share": 0.55,
+      "top_values": [
+        [
+          59.4,
+          6
+        ],
+        [
+          57.6,
+          5
+        ],
+        [
+          48.7,
+          3
+        ],
+        [
+          54.7,
+          3
+        ],
+        [
+          58.6,
+          3
+        ],
+        [
+          54.6,
+          3
+        ],
+        [
+          58.4,
+          3
+        ],
+        [
+          48.6,
+          3
+        ],
+        [
+          56.2,
+          2
+        ],
+        [
+          46.3,
+          2
+        ]
+      ],
+      "top_decimals": [
+        [
+          0.6,
+          22
+        ],
+        [
+          0.7,
+          15
+        ],
+        [
+          0.4,
+          13
+        ],
+        [
+          0.3,
+          4
+        ],
+        [
+          0.2,
+          3
+        ]
+      ],
+      "top10_share": 0.55
+    },
+    "suggested": {
+      "mix_sd": 7.55,
+      "measurement_sd": 7.67,
+      "trigger": 15.0,
+      "shock_sd": 17.0,
+      "how": "mix_sd goes in PDOOM_MIX_SD (adaptive mode). trigger = 2.5 * sqrt(2) * measured noise sd, clamped to 6-15: a noise-only day rarely clears it. shock_sd is left alone: ~90 days hold too few real shocks to re-estimate it."
+    }
+  },
+  "opus90": {
+    "days": 85,
+    "noise": {
+      "days": 85,
+      "pooled_within_day_sd": 2.65,
+      "median_within_day_sd": 1.57,
+      "p90_within_day_sd": 4.0,
+      "mean_se": 0.85,
+      "median_se": 0.49
+    },
+    "series": {
+      "consecutive_day_changes": 79,
+      "change_sd": 11.44,
+      "change_mean_abs": 8.04,
+      "change_p90_abs": 21.08,
+      "change_p95_abs": 24.22,
+      "change_max_abs": 31.2,
+      "upward_p90": 19.38,
+      "upward_p95": 24.22,
+      "days_up_over_10": 12,
+      "days_abs_over_10": 24,
+      "variogram": [
+        [
+          1,
+          130.96
+        ],
+        [
+          2,
+          117.02
+        ],
+        [
+          3,
+          123.69
+        ],
+        [
+          4,
+          104.62
+        ],
+        [
+          5,
+          146.76
+        ],
+        [
+          6,
+          118.23
+        ],
+        [
+          7,
+          124.1
+        ]
+      ],
+      "measurement_sd_estimate": 7.84,
+      "measurement_sd_lag1_check": 8.31,
+      "process_sd_estimate": 0.42,
+      "mix_sd_estimate": 7.73,
+      "note": "Variogram estimates; on 90 days expect about +/-0.5 on the measurement SD and +/-0.7 on the process SD (more with real shocks in the window). A process SD of 0 means 'below detection', not zero. The split assumes noise independent from day to day, which the model's favorite numbers violate a little."
+    },
+    "quantization": {
+      "samples": 425,
+      "distinct_values": 86,
+      "distinct_share": 0.202,
+      "top_values": [
+        [
+          58.7,
+          47
+        ],
+        [
+          56.3,
+          44
+        ],
+        [
+          57.4,
+          24
+        ],
+        [
+          56.4,
+          21
+        ],
+        [
+          57.6,
+          17
+        ],
+        [
+          47.6,
+          12
+        ],
+        [
+          46.8,
+          11
+        ],
+        [
+          46.3,
+          11
+        ],
+        [
+          57.3,
+          10
+        ],
+        [
+          53.6,
+          9
+        ]
+      ],
+      "top_decimals": [
+        [
+          0.7,
+          146
+        ],
+        [
+          0.3,
+          86
+        ],
+        [
+          0.6,
+          81
+        ],
+        [
+          0.4,
+          71
+        ],
+        [
+          0.8,
+          39
+        ]
+      ],
+      "top10_share": 0.485
+    },
+    "suggested": {
+      "mix_sd": 7.73,
+      "measurement_sd": 7.84,
+      "trigger": 15.0,
+      "shock_sd": 17.0,
+      "how": "mix_sd goes in PDOOM_MIX_SD (adaptive mode). trigger = 2.5 * sqrt(2) * measured noise sd, clamped to 6-15: a noise-only day rarely clears it. shock_sd is left alone: ~90 days hold too few real shocks to re-estimate it."
+    }
+  },
+  "replays": {
+    "v2_fixed": {
+      "published_sd": 2.26,
+      "mean_abs_move": 2.62,
+      "p90_abs_move": 5.0,
+      "max_abs_move": 6.3,
+      "days_moved_over_3": 4,
+      "rmse_vs_raw": 4.7,
+      "params": {
+        "noise_sd": 5.5,
+        "shock_sd": 17.0,
+        "trigger": 10.0,
+        "width": 2.5,
+        "mode": "fixed"
+      }
+    },
+    "v3_adaptive": {
+      "published_sd": 2.3,
+      "mean_abs_move": 2.65,
+      "p90_abs_move": 4.5,
+      "max_abs_move": 5.9,
+      "days_moved_over_3": 4,
+      "rmse_vs_raw": 4.76,
+      "params": {
+        "noise_sd": 5.5,
+        "shock_sd": 17.0,
+        "trigger": 10.0,
+        "width": 2.5,
+        "mode": "adaptive",
+        "mix_sd": 4.5
+      }
+    },
+    "measured": {
+      "published_sd": 1.1,
+      "mean_abs_move": 1.04,
+      "p90_abs_move": 1.8,
+      "max_abs_move": 2.2,
+      "days_moved_over_3": 0,
+      "rmse_vs_raw": 5.54,
+      "params": {
+        "noise_sd": 5.5,
+        "shock_sd": 17.0,
+        "trigger": 15.0,
+        "width": 2.5,
+        "mode": "adaptive",
+        "mix_sd": 7.55
+      }
+    },
+    "actual_published": {
+      "published_sd": 1.0,
+      "mean_abs_move": 1.05,
+      "p90_abs_move": 2.1,
+      "max_abs_move": 2.5,
+      "days_moved_over_3": 0,
+      "rmse_vs_raw": 6.73
+    }
+  },
+  "tag_correlations": {
+    "fable14~opus90": 0.881
+  }
+}

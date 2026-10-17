@@ -28,3 +28,56 @@ Validation against headline-log.json (reconstructed days the log covers):
   overall recall 12% over 11 day(s). Misses are mostly items that entered a feed between the Wayback capture and the pipeline's scrape.
 
 12 bundle(s) in backfill/bundles for 2026-10-04..2026-10-17 (2 day(s) missing)
+bundles exit 0; bundles on disk: 13
+== cost/submit 2026-10-17T13:46:02Z ==
+12 day(s) x 5 sample(s) = 60 requests on claude-fable-5-1
+  input  ~380,359 tokens (chars/3.6 estimate)
+  output ~90,000 tokens (1500 per call, a default; production will record the real figure)
+  ~$4.15 at batch rates (half of list)
+12 day(s) x 5 sample(s) = 60 requests on claude-fable-5-1 (~380,359 in / ~90,000 out tokens, ~$4.15 at batch rates)
+  Submitted msgbatch_017xmeGAapvg2jW34EYM5E7j: 60 requests, status in_progress
+Run recorded in backfill/runs/fable14.json. Collect with:
+  python3 pdoom-backfill.py collect msgbatch_017xmeGAapvg2jW34EYM5E7j --tag fable14 --wait
+== collect 2026-10-17T13:46:04Z ==
+  msgbatch_017xmeGAapvg2jW34EYM5E7j: in_progress {"processing": 60, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_017xmeGAapvg2jW34EYM5E7j: in_progress {"processing": 60, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_017xmeGAapvg2jW34EYM5E7j: in_progress {"processing": 60, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_017xmeGAapvg2jW34EYM5E7j: 60 results
+60 result(s), 60 usable -> backfill/results/fable14.jsonl
+  usage: 543,480 in / 119,075 out tokens
+== analyze 2026-10-17T13:49:05Z ==
+
+fable14: 12 day(s)
+  noise  days: 12
+  noise  pooled_within_day_sd: 3.19
+  noise  median_within_day_sd: 2.82
+  noise  p90_within_day_sd: 4.43
+  noise  mean_se: 1.12
+  noise  median_se: 0.78
+  series consecutive_day_changes: 10
+  series change_sd: 10.39
+  series change_mean_abs: 7.92
+  series change_p90_abs: 16.2
+  series change_p95_abs: 17.1
+  series change_max_abs: 18.0
+  series upward_p90: 16.15
+  series upward_p95: 17.07
+  series days_up_over_10: 2
+  series days_abs_over_10: 3
+  series variogram: [[1, 108.0], [2, 105.25], [3, 35.11], [4, 110.16], [5, 112.89], [6, 15.2]]
+  series measurement_sd_estimate: 7.67
+  series measurement_sd_lag1_check: 6.78
+  series process_sd_estimate: 0.0
+  series mix_sd_estimate: 7.55
+  quantization: 33 distinct values in 60 samples; top: [[59.4, 6], [57.6, 5], [48.7, 3], [54.7, 3], [58.6, 3]]
+  suggested: mix_sd 7.55  trigger 15.0  (measurement sd 7.67)
+  replays:
+    v2_fixed           published_sd 2.26  mean|move| 2.62  p90 5.0  max 6.3  rmse_vs_raw 4.7
+    v3_adaptive        published_sd 2.3  mean|move| 2.65  p90 4.5  max 5.9  rmse_vs_raw 4.76
+    measured           published_sd 1.1  mean|move| 1.04  p90 1.8  max 2.2  rmse_vs_raw 5.54
+    actual_published   published_sd 1.0  mean|move| 1.05  p90 2.1  max 2.5  rmse_vs_raw 6.73
+  head-to-head correlations: {'fable14~opus90': 0.881}
+    fable14    pooled sd 3.19  median sd 2.82  distinct share 0.55
+    opus90     pooled sd 2.65  median sd 1.57  distinct share 0.202
+
+Report: backfill/report/report.html
