@@ -36,3 +36,71 @@ Validation against headline-log.json (reconstructed days the log covers):
   overall recall 12% over 28 day(s). Misses are mostly items that entered a feed between the Wayback capture and the pipeline's scrape.
 
 86 bundle(s) in backfill/bundles for 2026-07-19..2026-10-17 (5 day(s) missing)
+bundles exit 0; bundles on disk: 87
+== cost/submit 2026-10-17T14:05:42Z ==
+86 day(s) x 5 sample(s) = 430 requests on claude-opus-5-5
+  input  ~2,362,936 tokens (chars/3.6 estimate)
+  output ~538,747 tokens (1253 per call, the recent production average)
+  ~$10.11 at batch rates (half of list)
+Using the rubric in prompts/doom-factors-v4.txt (sha 39d4f75eedc0) instead of production's DOOM_PROMPT.
+86 day(s) x 5 sample(s) = 430 requests on claude-opus-5-5 (~2,362,936 in / ~538,747 out tokens, ~$10.11 at batch rates)
+  Submitted msgbatch_01HpuEuPjvie6wJ29g461vgr: 430 requests, status in_progress
+Run recorded in backfill/runs/factors90.json. Collect with:
+  python3 pdoom-backfill.py collect msgbatch_01HpuEuPjvie6wJ29g461vgr --tag factors90 --wait
+== collect 2026-10-17T14:05:49Z ==
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: in_progress {"processing": 430, "succeeded": 0, "errored": 0, "canceled": 0, "expired": 0}
+  msgbatch_01HpuEuPjvie6wJ29g461vgr: 430 results
+430 result(s), 425 usable -> backfill/results/factors90.jsonl
+  usage: 3,409,884 in / 856,530 out tokens
+== analyze 2026-10-17T14:16:52Z ==
+
+factors90: 85 day(s)
+  noise  days: 85
+  noise  pooled_within_day_sd: 1.89
+  noise  median_within_day_sd: 1.51
+  noise  p90_within_day_sd: 3.05
+  noise  mean_se: 0.65
+  noise  median_se: 0.43
+  series consecutive_day_changes: 79
+  series change_sd: 9.6
+  series change_mean_abs: 6.13
+  series change_p90_abs: 17.2
+  series change_p95_abs: 22.11
+  series change_max_abs: 33.3
+  series upward_p90: 15.27
+  series upward_p95: 20.86
+  series days_up_over_10: 8
+  series days_abs_over_10: 16
+  series variogram: [[1, 92.16], [2, 83.26], [3, 86.15], [4, 55.44], [5, 100.77], [6, 72.96], [7, 76.6]]
+  series measurement_sd_estimate: 6.65
+  series measurement_sd_lag1_check: 6.85
+  series process_sd_estimate: 0.0
+  series mix_sd_estimate: 6.6
+  quantization: 159 distinct values in 425 samples; top: [[64.7, 12], [64.2, 9], [64.9, 8], [62.8, 8], [65.6, 8]]
+  suggested: mix_sd 6.6  trigger 15.0  (measurement sd 6.65)
+  composites (factors90):
+    max          distinct 0.068  top10 0.896  within-day sd 1.81  change sd 9.15  level 53.2-65.1 (mean 60.0)
+    max_breadth  distinct 0.374  top10 0.191  within-day sd 1.89  change sd 9.6  level 55.8-67.8 (mean 62.6)
+    mean         distinct 0.369  top10 0.155  within-day sd 1.07  change sd 6.35  level 18.8-31.2 (mean 24.4)
+    power        distinct 0.336  top10 0.221  within-day sd 1.14  change sd 5.56  level 34.0-41.8 (mean 37.3)
+    fronts: AI Capability 19.0±9.4, Alignment 23.0±15.7, Governance 22.1±6.4, Geopolitics 59.4±8.4, Nuclear 16.3±6.8, Biotech 17.2±12.5, Cyber 20.7±12.3, Climate 24.3±12.1, Wild Card 18.0±5.7
+  replays:
+    v2_fixed           published_sd 2.83  mean|move| 1.88  p90 4.64  max 11.2  rmse_vs_raw 4.47
+    v3_adaptive        published_sd 2.9  mean|move| 2.04  p90 5.24  max 11.8  rmse_vs_raw 4.36
+    measured           published_sd 2.25  mean|move| 1.0  p90 2.57  max 6.8  rmse_vs_raw 5.2
+    actual_published   published_sd 6.8  mean|move| 1.72  p90 2.97  max 14.3  rmse_vs_raw 19.91
+  head-to-head correlations: {'factors90~opus90': 0.839}
+    factors90  pooled sd 1.89  median sd 1.51  distinct share 0.374
+    opus90     pooled sd 2.65  median sd 1.57  distinct share 0.202
+
+Report: backfill/report/report.html
