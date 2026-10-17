@@ -9,3 +9,4 @@ Reconstructing 5 day(s) from the Wayback Machine, one day at a time (~1 request/
   2026-07-30 (day): 2/16 feeds, 18 new headlines, 227s | 4 to go, ETA ~15 min
     Wayback gave up: HTTP 403 FORBIDDEN for https://web.archive.org/cdx/search/cdx?url=www.theguardian.com/world/rss&from=20260801&to=20260831&output=json&fl=timest
     https://www.theguardian.com/world/rss: excluded from the Wayback Machine for 2026-08 (403); skipping it
+    Wayback gave up: URLError: <urlopen error [Errno 111] Connection refused> for https://web.archive.org/cdx/search/cdx?url=feeds.abcnews.com/abcnews/topstories&from=20260801&to=20260831&output=json&fl
