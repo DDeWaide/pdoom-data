@@ -1,0 +1,605 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-10-17T12:57:47.929664+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260924090633",
+    "MIT Technology Review": "20260924075656",
+    "Ars Technica": "20260924123849",
+    "The Verge AI": null,
+    "Wired": "20260924085338",
+    "CNN Top Stories": "20260924075225",
+    "Fox News Latest": "20260924052215",
+    "NPR News": "20260924064351",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Netanyahu takes UN stage with one eye on Israel’s election. As criticism of Israel intensifies, Israeli PM Netanyahu heads to the UN with his own political future in focus.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.43,
+      "key": "8aa000711b53"
+    },
+    {
+      "text": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea. The president criticised North Korea for using citizens like &#039;currency&#039; to aid Russia in its war against Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.615,
+      "key": "01dd6d943ff3"
+    },
+    {
+      "text": "China vs US: Who is winning the AI race, in four charts. The US dominates AI spending and computing power, but China is ahead in research and closing the gap on advanced models.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/china-vs-us-who-is-winning-the-ai-race-in-four-charts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2208333333333334,
+      "key": "c47be882891f"
+    },
+    {
+      "text": "UN funding cuts hit refugees at Cox’s Bazar settlement. Refugees living in Cox’s Bazar in Bangladesh are feeling the brunt of severe UN funding cuts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/un-funding-cuts-hit-refugees-at-coxs-bazar-settlement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2375,
+      "key": "b8a6da8eb32a"
+    },
+    {
+      "text": "Monarchy-aligned PAM leads in Morocco election provisional results. Authenticity and Modernity Party (PAM) took 97 out of 395 seats in parliament, as turnout falls to 38 percent.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.416111111111111,
+      "key": "567bedafa531"
+    },
+    {
+      "text": "Gaza watches Israel’s elections with fear and antipathy. Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9919444444444445,
+      "key": "299f8f5b9cc5"
+    },
+    {
+      "text": "Pakistan says it launches air strikes on Afghanistan after drone attacks. Strikes carried out in southeastern province of Khost cause no casualties, governor&#039;s office says.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6130555555555555,
+      "key": "a4c443dda1a0"
+    },
+    {
+      "text": "Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan. Media reports say US withheld army chief&#039;s visa to pressure him into accepting a 90-day truce in Sudan&#039;s civil war.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6902777777777778,
+      "key": "76ec77a95304"
+    },
+    {
+      "text": "Pakistan-administered Kashmir votes for president amid unrest. Lawmakers will choose a president despite seven vacant seats in districts at the centre of months of unrest.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/pakistan-administered-kashmir-votes-for-president-amid-unrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.781111111111111,
+      "key": "4f4e290e669a"
+    },
+    {
+      "text": "Trump-Xi summit: Here’s what’s on the agenda, and why it matters. The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.9175,
+      "key": "675c7689bb2c"
+    },
+    {
+      "text": "Gaza $2.45 billion reconstruction plan. Who decides its future?. Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.957777777777778,
+      "key": "5193a52c1024"
+    },
+    {
+      "text": "Harry Kane eyes career as NFL kicker after football retirement. England&#039;s captain and record goal scorer says a transition into American football could be on the cards.",
+      "url": "https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.185277777777778,
+      "key": "9d9e24ae51be"
+    },
+    {
+      "text": "Trump and Xi summit will focus on ‘stalibising’ ties, experts say. Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals.",
+      "url": "https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.189722222222222,
+      "key": "e5b3d1c4cf69"
+    },
+    {
+      "text": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy. Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.963611111111111,
+      "key": "18356112d000"
+    },
+    {
+      "text": "Sikorski: Russia doesn’t have the forces to invade NATO. In an interview with Al Jazeera, Polish FM Radoslaw Sikorski says Russia ‘doesn’t have the force to invade NATO.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_russia-doesnt-have-theforces-to-invade-nato-240926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.025833333333333,
+      "key": "57e306de9f6a"
+    },
+    {
+      "text": "A congressional representative just proposed killing America’s border tower program. Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we look",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 14.779166666666667,
+      "key": "9077679ba285"
+    },
+    {
+      "text": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta sm",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.782222222222224,
+      "key": "05e427441dab"
+    },
+    {
+      "text": "The AI Hype Index: AI loves cheating. Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.948888888888888,
+      "key": "8ecf0c33622a"
+    },
+    {
+      "text": "Smart glasses are already causing havoc in India. Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.948888888888888,
+      "key": "9a1829bf8b30"
+    },
+    {
+      "text": "There's a new way to break RSA that's faster than anything we've seen before. Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 1.3847222222222222,
+      "key": "3b9278807fd8"
+    },
+    {
+      "text": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder. Usable local AI is a lot of fun, but how much would you pay for it?",
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 1.6458333333333333,
+      "key": "ef81ff9b268d"
+    },
+    {
+      "text": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access. US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.356666666666667,
+      "key": "1de3651883d5"
+    },
+    {
+      "text": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real. It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.870277777777778,
+      "key": "14facbc801b3"
+    },
+    {
+      "text": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits. The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.332222222222223,
+      "key": "48fe8c249711"
+    },
+    {
+      "text": "Here's the Torcal, the first fully electric Bentley. It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.545,
+      "key": "947990810a16"
+    },
+    {
+      "text": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say. Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.7725,
+      "key": "a4cd70829d44"
+    },
+    {
+      "text": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them. $11M competition showed wildfire detection is still easier than stopping fires.",
+      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.16861111111111,
+      "key": "1747c72eca5b"
+    },
+    {
+      "text": "Discord age verification rolls out today with changes spurred by user backlash. Discord will try to automatically estimate ages, require verification when it can't.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.56,
+      "key": "88f72586149f"
+    },
+    {
+      "text": "YouTube promises custom feeds and a lot more AI later this year. YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.04888888888889,
+      "key": "6feb769720fb"
+    },
+    {
+      "text": "Contrary to some reports, you don't have two brains. A bad press release makes a good excuse to look at how developmental biology works.",
+      "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.85361111111111,
+      "key": "8c7752e579a4"
+    },
+    {
+      "text": "Netflix releases trailer for Brad Bird's Ray Gunn. \"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
+      "url": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.19972222222222,
+      "key": "4373a10bd455"
+    },
+    {
+      "text": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges. \"So absurd and embarrassing ...\"",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.98611111111111,
+      "key": "63c0879308c6"
+    },
+    {
+      "text": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans. \"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+      "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 19.464166666666667,
+      "key": "9f2599b9ff17"
+    },
+    {
+      "text": "After multiple deaths and injuries, NHTSA is investigating comma.ai. Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.307222222222222,
+      "key": "2d173f04ce3f"
+    },
+    {
+      "text": "Peacock Promo Codes: 40% Off September 2026. Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "c1050ad96545"
+    },
+    {
+      "text": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026. Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+      "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "7b353bbb3af8"
+    },
+    {
+      "text": "AirDoctor Coupon Codes: 40% Off | September 2026. Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "f6880c3c9ec4"
+    },
+    {
+      "text": "TurboTax Full Service Coupons This September 2026. Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "9eb888495407"
+    },
+    {
+      "text": "Wayfair Coupons: Up to 80% Off September 2026. Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "61cb16b0af06"
+    },
+    {
+      "text": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist. Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "url": "https://www.wired.com/story/hr-block-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "8a1fccb74860"
+    },
+    {
+      "text": "Starz Promo Codes: $5 Off for September 2026. Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026.",
+      "url": "https://www.wired.com/story/starz-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "594b07ca046d"
+    },
+    {
+      "text": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping. Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
+      "url": "https://www.wired.com/story/vitamix-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8938888888888887,
+      "key": "73275b0bbed9"
+    },
+    {
+      "text": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon. The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
+      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.893888888888888,
+      "key": "788cbc378acb"
+    },
+    {
+      "text": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices. At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.181666666666667,
+      "key": "068e623009b2"
+    },
+    {
+      "text": "A US-China AI Hotline Won't Be Ready For a While. As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.893888888888888,
+      "key": "91df8918d601"
+    },
+    {
+      "text": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot. A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.393888888888888,
+      "key": "0b6e112f6a34"
+    },
+    {
+      "text": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV. The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
+      "url": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.643888888888888,
+      "key": "c92976bf47a0"
+    },
+    {
+      "text": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit. A First Amendment lawsuit alleges Kingsport Police in Tennessee raided Joshua Gibbons&apos; home after he filmed and criticized a cop speeding at night.",
+      "url": "https://www.foxnews.com/us/tennessee-cops-raided-mans-home-after-criticized-officer-speeding-lawsuit",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5583333333333333,
+      "key": "cfe80204e657"
+    },
+    {
+      "text": "Aaron Judge says he intends to be ready for Yankees' Wild Card series despite calf injury. Aaron Judge said he intends to be ready for Game 1 of the AL Wild Card series, but Yankees manager Aaron Boone is planning without him for now.",
+      "url": "https://www.foxnews.com/outkick-sports/aaron-judge-intends-ready-yankees-wild-card-series-despite-calf-injury",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.569722222222222,
+      "key": "302cd3bab381"
+    },
+    {
+      "text": "Illegal alien allegedly grabs school police officer's gun, shoots him in femoral artery: DOJ. Jose Santiago Pantoja-Morales allegedly grabbed a Dallas ISD officer&apos;s gun during a struggle and shot him in the femoral artery near LBJ Freeway.",
+      "url": "https://www.foxnews.com/politics/illegal-alien-allegedly-grabs-school-police-officer-gun-shoots-femoral-artery-doj",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2425,
+      "key": "4409591ad5b1"
+    },
+    {
+      "text": "Michigan student confronts El-Sayed over Iran stance in tense exchange: ‘Do you stand with us?’. A Persian student confronted Democratic U.S. Senate candidate Abdul El-Sayed over leaked audio about Iran&apos;s Khamenei and his silence on the IRGC.",
+      "url": "https://www.foxnews.com/politics/michigan-student-confronts-el-sayed-over-iran-stance-tense-exchange-do-you-stand-us",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.454166666666667,
+      "key": "60de00185eb3"
+    },
+    {
+      "text": "NYC kitten rescue defends ‘NO F---ING MAGA’ adoption policy as PETA calls for it to be abolished. PETA calls on Itty Bitty City Kitties to abolish its adoption policy after the NYC kitten rescue declared &quot;NO F---ING MAGA&quot; on social media.",
+      "url": "https://www.foxnews.com/politics/nyc-kitten-rescue-defends-no-f-ing-maga-adoption-policy-peta-calls-abolished",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.808611111111111,
+      "key": "0761a74ca703"
+    },
+    {
+      "text": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time. Harry Kane says playing in the NFL as a placekicker is &quot;a lot more realistic&quot; than golf and could pair it with a future MLS career stateside.",
+      "url": "https://www.foxnews.com/outkick-sports/english-soccer-star-harry-kane-wants-play-mls-kick-nfl-same-time",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.999722222222222,
+      "key": "9246c1bd16ed"
+    },
+    {
+      "text": "Trump likely ‘smirked’ as 'crass' Iranian president lashed out at US in UN speech: expert. Masoud Pezeshkian accused the U.S. and Israel of attacking Iran at the United Nations, and an expert says Trump likely responded with a smirk.",
+      "url": "https://www.foxnews.com/world/trump-smirked-iranian-president-lashed-us-fiery-un-speech-expert",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.189722222222223,
+      "key": "e54d542726ec"
+    },
+    {
+      "text": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case. A man who died in 1982 of cyanide poisoning in an Idaho church has been identified, raising questions about the Chicago Tylenol murders.",
+      "url": "https://www.foxnews.com/us/tylenol-murders-mystery-deepens-sheriff-office-solves-decades-old-unknown-wanderer-cold-case",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.227222222222222,
+      "key": "395475fe870f"
+    },
+    {
+      "text": "Blue Jays' Vladimir Guerrero Jr. says his $500M contract was for past performance – not future results. Vladimir Guerrero Jr. said his $500 million Blue Jays contract was based on past performance, sparking fan backlash amid a career-worst season.",
+      "url": "https://www.foxnews.com/outkick-sports/blue-jays-vladimir-guerrero-jr-500m-contract-past-performance-not-future-results",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.2716666666666665,
+      "key": "61365fe87fde"
+    },
+    {
+      "text": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds. A study of nearly 8.8 million adults links every extra 100 grams of ultra-processed foods daily to higher risks of cardiovascular disease and cancer.",
+      "url": "https://www.foxnews.com/food-drink/just-one-small-serving-ultra-processed-food-day-linked-higher-disease-risk-major-study-finds",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.446666666666666,
+      "key": "cea699787d78"
+    },
+    {
+      "text": "'Home Improvement' star Jonathan Taylor Thomas arrested for alleged public intoxication, resisting deputy. Former &quot;Home Improvement&quot; child star Jonathan Taylor Thomas was detained in Westlake Village, California, after reportedly exiting a vehicle.",
+      "url": "https://www.foxnews.com/entertainment/home-improvement-star-jonathan-taylor-thomas-arrested-alleged-public-intoxication-resisting-deputy",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.541666666666667,
+      "key": "7ef4983dd9de"
+    },
+    {
+      "text": "Cardinals coach Mike LaFleur backs Marvin Harrison Jr as viral videos fuel questions about receiver's effort. Marvin Harrison Jr. has just one catch through two games as clips questioning his effort fuel criticism of the Arizona Cardinals&apos; third-year wideout.",
+      "url": "https://www.foxnews.com/outkick-sports/cardinals-coach-mike-lafleur-backs-marvin-harrison-jr-viral-videos-fuel-questions-receiver-effort",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.6125,
+      "key": "237ea13f4a7e"
+    },
+    {
+      "text": "Bessent reveals extension to Busan agreement with China until January. Treasury Secretary Scott Bessent outlines three ways the Iran war could end while warning Tehran is a &quot;cornered animal&quot; running out of options.",
+      "url": "https://www.foxnews.com/media/bessent-reveals-extension-busan-agreement-china-january",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.901388888888889,
+      "key": "eb9d5d491e39"
+    },
+    {
+      "text": "Local Virginia GOP chair says Arlington County officials prioritize illegal immigrants over public safety. Arlington County&apos;s sanctuary policies face sharp criticism in a House Judiciary Committee report over its limits on federal immigration enforcement.",
+      "url": "https://www.foxnews.com/us/local-virginia-gop-chair-says-arlington-county-officials-prioritize-illegal-immigrants-over-public-safety",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.201944444444444,
+      "key": "1ed7e91e6c66"
+    },
+    {
+      "text": "Sharp weapon discovered by TSA tucked inside unusual item in passenger's carry-on bag. A pocketknife hidden inside a flight passenger&apos;s toothpaste tube in a bag was flagged during X-ray screening at Dallas Love Field after a TSA officer spotted a metal object.",
+      "url": "https://www.foxnews.com/travel/sharp-weapon-discovered-tsa-tucked-inside-unusual-item-passengers-carry-on-bag",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.323055555555555,
+      "key": "d752aecf6ead"
+    },
+    {
+      "text": "Judge orders Trump administration to restore journalists' access to White House. A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.37916666666666665,
+      "key": "67700d3dce0c"
+    },
+    {
+      "text": "Venezuela's acting leader promises elections at the 'right moment'. Venezuela's acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation's people will determine the \"right moment.\"",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.0505555555555555,
+      "key": "575f23204d95"
+    },
+    {
+      "text": "OpenAI's breach of Australian health department website prompts rebuke. Prime Minister Anthony Albanese said he was extremely concerned about OpenAI 's breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.4944444444444445,
+      "key": "41ed153d11b8"
+    },
+    {
+      "text": "Fears of return to war grow in Ethiopia's Tigray region. Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.3369444444444443,
+      "key": "52d9bc901ca3"
+    },
+    {
+      "text": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii. Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane. Forecasters warned another system headed for Hawaii could cause catastrophic flooding later in the week.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.401666666666667,
+      "key": "29a98d994da3"
+    },
+    {
+      "text": "Judge considers restoring journalists' access to White House after Trump's ban. Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.053333333333333,
+      "key": "0de5fac953ce"
+    },
+    {
+      "text": "Trump and Xi meet at moment of global consequence. It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.342222222222222,
+      "key": "ff3cf8fae9b0"
+    },
+    {
+      "text": "Iran's president gives a rare wartime speech at the U.N.. Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.48638888888889,
+      "key": "35cd39bfc27f"
+    },
+    {
+      "text": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood. Bishop Fulton Sheen, who charmed millions of television viewers on his show Life Is Worth Living,'will come one step closer to being declared a saint.",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.572222222222223,
+      "key": "2caac82b35c3"
+    },
+    {
+      "text": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi. As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 14.499722222222223,
+      "key": "96a4a69e8935"
+    }
+  ],
+  "contexts": {}
+}

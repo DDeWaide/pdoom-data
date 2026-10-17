@@ -1,0 +1,605 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-10-17T12:34:02.665628+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260729062217",
+    "MIT Technology Review": "20260729080034",
+    "Ars Technica": "20260729050723",
+    "The Verge AI": null,
+    "Wired": "20260729232851",
+    "CNN Top Stories": "20260729044128",
+    "Fox News Latest": "20260729053151",
+    "NPR News": "20260729184236",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Iran attacks US bases in Middle East as Trump meets Netanyahu. Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6538888888888889,
+      "key": "fd5ca2b84400"
+    },
+    {
+      "text": "China puts the ‘squeeze’ on Taiwan with new maritime patrols. New law enforcement operations could quickly escalate into a blockade of Taiwan, say analysts.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9997222222222222,
+      "key": "941624ef41b4"
+    },
+    {
+      "text": "Latest images of damage as death toll from Japan’s Kyushu quake rises. The death toll from Japan’s Kyushu island quake rises to 13.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/latest-images-of-damage-as-death-toll-from-japans-kyushu-quake-rises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.061388888888889,
+      "key": "d064ee4f186c"
+    },
+    {
+      "text": "Protesters storm hotel, heckle Netanyahu in Washington DC. Activists protested at a hotel where Israeli Prime Minister Benjamin Netanyahu was having dinner in Washington, DC.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2455555555555555,
+      "key": "3bf27a926ded"
+    },
+    {
+      "text": "Trump meets Netanyahu for a record seventh White House visit. Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5811111111111111,
+      "key": "2f03e9addff4"
+    },
+    {
+      "text": "Haitians living in fear as Temporary Protected Status ends in the US. New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.2172222222222224,
+      "key": "b9a46bb6e05f"
+    },
+    {
+      "text": "Iran missiles target US forces in Jordan after a five-day pause in war. The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4588888888888887,
+      "key": "d246eb75a13d"
+    },
+    {
+      "text": "Israel kills Palestinian, destroys mosque in Gaza. Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.605,
+      "key": "f519d0d0708b"
+    },
+    {
+      "text": "OpenAI’s rogue agent hacked an account at a second technology firm: Report. The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.276666666666666,
+      "key": "fbb9fa06767f"
+    },
+    {
+      "text": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq. Riyadh says its targeted attacks were done in coordination with the US military.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.748333333333333,
+      "key": "59b0f041d59c"
+    },
+    {
+      "text": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps. After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.8675,
+      "key": "0de9b2b579f3"
+    },
+    {
+      "text": "Media not invited as Trump, Netanyahu hold talks at the White House. US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.039444444444444,
+      "key": "80a0f9d0db44"
+    },
+    {
+      "text": "Turkiye takes ‘historic step’ on energy alliance with Iraq. Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.252222222222223,
+      "key": "a51993ad66e1"
+    },
+    {
+      "text": "Protests in Lima as Keiko Fujimori sworn in as Peru president. Keiko Fujimori has been sworn in as Peru&#039;s president amid protests and promises to crackdown on crime.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.307777777777778,
+      "key": "215adc3b2414"
+    },
+    {
+      "text": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA. Football&#039;s world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events.",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.946666666666666,
+      "key": "930a3094225f"
+    },
+    {
+      "text": "The Download: OpenAI’s predictable hack, and an AI stock sell-off. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how so",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.842777777777776,
+      "key": "2fd2cafb916f"
+    },
+    {
+      "text": "Samsung’s chip workers are jumping ship to rival SK Hynix. Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.69361111111111,
+      "key": "f998e662ba1d"
+    },
+    {
+      "text": "Audi has a new flagship designed with the US in mind: The 2027 Q9. The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 4.1130555555555555,
+      "key": "40075dfb4989"
+    },
+    {
+      "text": "Reaction wheel failures leave Swift rescue mission spinning in orbit. \"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+      "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 6.973055555555556,
+      "key": "e1937ef3288f"
+    },
+    {
+      "text": "College lab class ends with 32 people on antibiotics for deadly germ exposure. Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
+      "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.291944444444445,
+      "key": "cb198fe737ab"
+    },
+    {
+      "text": "We now have a better understanding how OpenAI hacked into Hugging Face. 10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.512222222222222,
+      "key": "a2328808a029"
+    },
+    {
+      "text": "eBay pays $46M to journalists it targeted in bizarre harassment campaign. eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.085555555555555,
+      "key": "fee56bd219fd"
+    },
+    {
+      "text": "Study: Dinosaurs were charbroiled after Chicxulub impact. “We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
+      "url": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.260555555555555,
+      "key": "96a1448cdc93"
+    },
+    {
+      "text": "Philly suburb: Sure, build that data center—but first meet our 43 demands. The final condition will shock you! (It won’t. It’s taxes.)",
+      "url": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.401111111111112,
+      "key": "059d28ca32b0"
+    },
+    {
+      "text": "Despite AI hype, Google's data shows workers aren't automating themselves away. Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.784166666666666,
+      "key": "a6d8a76858d6"
+    },
+    {
+      "text": "New airliner sets record flying 24 hrs nonstop from Australia to France. Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 10.39638888888889,
+      "key": "5b07d813081e"
+    },
+    {
+      "text": "Judge blocks first state law that would have banned prediction markets. Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 10.602777777777778,
+      "key": "4c5aba28e0b8"
+    },
+    {
+      "text": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link. Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.849444444444444,
+      "key": "a49948ef4cd1"
+    },
+    {
+      "text": "As US measles cases rise, biotech firms start developing new treatments. The US is making measles great again, so treatment options are needed for the most vulnerable.",
+      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.583333333333334,
+      "key": "5980f0dc1c29"
+    },
+    {
+      "text": "Microsoft unveils AI security tools it says outperform competing platforms. Microsoft says tools cost less than competing ones and outperform them, too.",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 31.185833333333335,
+      "key": "5a85fe21bf53"
+    },
+    {
+      "text": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers. Starlink has a Texas factory but also makes routers in Vietnam.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 31.448888888888888,
+      "key": "7b3c1cef1e32"
+    },
+    {
+      "text": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies. Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 32.419444444444444,
+      "key": "8f3c0cf9e849"
+    },
+    {
+      "text": "It Looks Like Nothing Can Dent MAGA’s Support for ICE. Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
+      "url": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.4808333333333334,
+      "key": "0d4380dade39"
+    },
+    {
+      "text": "Save Up to $100 on Apple’s Newest AirPods (2026). Save up to $100 on Apple’s latest AirPods models before prices go back up.",
+      "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.7447222222222223,
+      "key": "850d0a9a76b9"
+    },
+    {
+      "text": "Which of Dyson’s 2026 Vacuum Models Is the Best?. Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
+      "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.340833333333333,
+      "key": "b42a2aeb179a"
+    },
+    {
+      "text": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models. I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.980833333333333,
+      "key": "e2c6333e7224"
+    },
+    {
+      "text": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe. Climate change is helping invasive species to not only establish themselves across the continent but to stay alive for longer. Scientists suggest we get used to it.",
+      "url": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.951666666666667,
+      "key": "55e974bce66b"
+    },
+    {
+      "text": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law. Elon Musk’s platform attacked the country’s “invasive” information-gathering powers as it demands the government drop efforts to strengthen its no-children policy.",
+      "url": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 9.684722222222222,
+      "key": "4ff9f33c3785"
+    },
+    {
+      "text": "Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest. Our field-tested gear includes power banks, electrolytes, outdoor blankets, earplugs, and more.",
+      "url": "https://www.wired.com/story/best-festival-gear/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.930833333333334,
+      "key": "2549616d0575"
+    },
+    {
+      "text": "The 15 Best Pool Accessories to Upgrade Your Summer (2026). These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
+      "url": "https://www.wired.com/story/the-best-pool-accessories/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.464166666666667,
+      "key": "8b9d2ff09207"
+    },
+    {
+      "text": "Love It or Hate It, the Ferrari Luce Is a Thrilling Drive. WIRED test-drove a preproduction version of the Luce, the storied Italian automaker’s controversial electric car, and it was remarkably surprising. Will it convert Ferrari fanatics?",
+      "url": "https://www.wired.com/story/first-drive-ferrari-luce/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.480833333333333,
+      "key": "e7778a25fe9b"
+    },
+    {
+      "text": "23 WIRED-Approved Gifts for Frequent Travelers (2026). For the frequent flier who treats the Delta Sky Club like their second home.",
+      "url": "https://www.wired.com/gallery/best-travel-gift/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 11.914166666666667,
+      "key": "35e80b276f96"
+    },
+    {
+      "text": "Mac Mini Availability: Long Waits and Higher Prices. Thanks to the surge in local AI processing and the ongoing memory shortage, it’s incredibly difficult to buy a Mac Mini.",
+      "url": "https://www.wired.com/story/mac-mini-availability/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.480833333333333,
+      "key": "3ea7483a5f55"
+    },
+    {
+      "text": "Apple Upgrade Isn’t the Best Way to Buy an iPhone. With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
+      "url": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.730833333333333,
+      "key": "0be86944a660"
+    },
+    {
+      "text": "Best Ethernet Switches: Fast, Reliable, and Secure. If your router is short on ports, you can add more with one of the best Ethernet switches. These are my top picks from what I’ve tested.",
+      "url": "https://www.wired.com/story/best-ethernet-switches/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.980833333333333,
+      "key": "7ae1fc9f2c56"
+    },
+    {
+      "text": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’. Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.980833333333333,
+      "key": "1780b0be3f88"
+    },
+    {
+      "text": "How to Bring a Geothermal Well Back from the Dead. Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years.",
+      "url": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.480833333333333,
+      "key": "6c8b6281deca"
+    },
+    {
+      "text": "Caitlin Clark erupts for 32 points as Fever hold off Storm to complete season-series sweep. Caitlin Clark scored 32 points as the Indiana Fever beat the Seattle Storm 103-95, extending the Storm&apos;s home struggles at Climate Pledge Arena.",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-erupts-32-points-fever-hold-off-storm-complete-season-series-sweep",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.02,
+      "key": "6bd4b0a34e39"
+    },
+    {
+      "text": "Lindsay Clancy’s ex-husband details pill use as expert says evidence could shape murder trial. Prosecutors showed jurors nine prescription bottles still containing pills, challenging claims that Lindsay Clancy was overmedicated before the killings.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-pill-use-expert-says-evidence-could-shape-murder-trial",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5294444444444444,
+      "key": "d6e18f53af77"
+    },
+    {
+      "text": "Bret Bielema roasts Nick Saban, SEC, at Big Ten media days: 'They want to live in 2005 forever'. Bert Bielema fired back at Greg Sankey and the SEC at Big Ten media days, saying they want to &quot;live in 2005 forever&quot; while NIL has leveled the field.",
+      "url": "https://www.foxnews.com/outkick-sports/bret-bielema-roasts-nick-saban-sec-big-ten-media-days-want-live-2005-forever",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5236111111111112,
+      "key": "58fd4b2098c0"
+    },
+    {
+      "text": "Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest. Benjamin Netanyahu says he will visit New York City, despite Mayor Zohran Mamdani&apos;s repeated calls for his arrest under an ICC warrant.",
+      "url": "https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5277777777777777,
+      "key": "05d053032d31"
+    },
+    {
+      "text": "Zelenskyy says Putin 'lost the initiative' as Ukraine's tech industry reshapes the war. Ukraine&apos;s Volodymyr Zelenskyy says Vladimir Putin is losing 30,000 soldiers per month and lost the initiative in the Ukraine war due to advancing mil-tech.",
+      "url": "https://www.foxnews.com/media/zelenskyy-says-putin-lost-initiative-ukraine-tech-industry-reshapes-war",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5277777777777777,
+      "key": "509bfde7b58c"
+    },
+    {
+      "text": "BTK killer Dennis Rader's daughter Kerri Rawson hit with domestic violence injunction: report. Kerri Rawson&apos;s ex-husband alleges the BTK serial killer&apos;s daughter warned him their children would be murdered, leading to a Florida injunction.",
+      "url": "https://www.foxnews.com/us/btk-killer-dennis-raders-daughter-kerri-rawson-hit-domestic-violence-injunction-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8680555555555554,
+      "key": "9d027f5aea24"
+    },
+    {
+      "text": "Sophie Cunningham rally rocks WNBA game as 'save women's sports' activists face counterprotest. Footage shows crowds holding signs outside the Seattle Storm game as Sophie Cunningham fans rallied in support of her women&apos;s sports stance.",
+      "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-rally-rocks-wnba-game-save-womens-sports-activists-face-counterprotest",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.937222222222222,
+      "key": "8e6170b2bb77"
+    },
+    {
+      "text": "Murdered 9-year-old begged not to go on trip with dad months before he allegedly killed her, mom testifies. Kali Galanis testified that Melina Frattolin begged not to travel overseas with her father before the girl&apos;s death near Lake George, New York.",
+      "url": "https://www.foxnews.com/us/murdered-9-year-old-begged-not-go-trip-dad-months-before-allegedly-killed-her-mom-testifies",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.946388888888889,
+      "key": "147e4258fca6"
+    },
+    {
+      "text": "Bodycam shows Tony Romo arguing with officer before refusing breath test during DUI arrest. Former Dallas Cowboys quarterback Tony Romo&apos;s arrest was captured on bodycam video obtained by the New York post and released Tuesday.",
+      "url": "https://www.foxnews.com/sports/bodycam-shows-tony-romo-arguing-officer-before-refusing-breath-test-during-dui-arrest",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.971111111111111,
+      "key": "e1834e731462"
+    },
+    {
+      "text": "Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report. Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran&apos;s executions, with some sewing their lips shut in protest.",
+      "url": "https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.3844444444444446,
+      "key": "bc9de03dc759"
+    },
+    {
+      "text": "Bryan Kohberger's stunning claims draw fiery response from defense expert who uncovered key evidence. A former Kohberger defense expert claims mystery hairs found at the murder scene were not Kohberger’s, raising new questions as he seeks to withdraw his guilty plea in court.",
+      "url": "https://www.foxnews.com/true-crime/bryan-kohbergers-stunning-claims-draw-fiery-response-from-defense-expert-who-uncovered-key-evidence",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.8125,
+      "key": "3ff977061aa7"
+    },
+    {
+      "text": "New Maine law limits police cooperation with federal immigration officials. Three new laws restrict cooperation between Maine law enforcement and ICE, including limiting cooperation with federal immigration officials.",
+      "url": "https://www.foxnews.com/politics/maine-law-limits-police-cooperation-federal-immigration-officials",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.016111111111111,
+      "key": "20e0a7824178"
+    },
+    {
+      "text": "Bari Weiss poaches conservative NY Times columnist, others join '60 Minutes' in CBS program shakeup. Ross Douthat leaves the New York Times after 17 years to join &quot;60 Minutes&quot; as a correspondent under new executive producer Nick Bilton&apos;s shakeup.",
+      "url": "https://www.foxnews.com/media/bari-weiss-poaches-conservative-ny-times-columnist-others-join-60-minutes-cbs-program-shakeup",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.019444444444445,
+      "key": "beb3f50efce1"
+    },
+    {
+      "text": "GOP governor survives challenge from Bitcoin evangelist in gubernatorial runoff. South Dakota&apos;s first gubernatorial primary runoff pitted incumbent Larry Rhoden against outsider Toby Doeden after neither cleared the 35% threshold to win outright.",
+      "url": "https://www.foxnews.com/politics/gop-governor-survives-challenge-from-bitcoin-evangelist-gubernatorial-runoff",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.211944444444445,
+      "key": "4e4f256004f4"
+    },
+    {
+      "text": "Aaron Rodgers doubles down on retirement plans at Steelers training camp: 'This is it'. Aaron Rodgers told reporters at Steelers training camp there is &quot;zero debate&quot; about his retirement after this final season — his 22nd in the NFL.",
+      "url": "https://www.foxnews.com/sports/aaron-rodgers-doubles-down-retirement-plans-steelers-training-camp-this-is-it",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.235277777777778,
+      "key": "097525456e8f"
+    },
+    {
+      "text": "'Taiwan Travelogue' rethinks history, colonialism, and identity. The author and translator of Taiwan Travelogue, the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan's colonial ties to Japan and escalating geopolitical pressure from China.",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.7783333333333333,
+      "key": "513f6ca9dc00"
+    },
+    {
+      "text": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself. The renowned classics scholar caused a stir when her critical review of Christopher Nolan's The Odyssey went viral. Wilson explains her reaction to the film and why she's translating the poem again.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.848888888888889,
+      "key": "528ee6081b1f"
+    },
+    {
+      "text": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains. Chitral borders Afghanistan and isn't easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches.",
+      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.358055555555556,
+      "key": "884b68643915"
+    },
+    {
+      "text": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic. The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 7.696944444444444,
+      "key": "a7e49b6154f2"
+    },
+    {
+      "text": "New York school pauses plan to deploy humanlike AI robot teacher after backlash. A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.295555555555556,
+      "key": "ad58093c933b"
+    },
+    {
+      "text": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq. The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy.",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.5925,
+      "key": "79ac87d3869d"
+    },
+    {
+      "text": "'Machines are collaborators' at this new museum of AI art. \"What is beyond reality?\" asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.71,
+      "key": "6a369736d4d6"
+    },
+    {
+      "text": "As extreme heat grips the South and West, here's how to stay safe. Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.71,
+      "key": "566b7c8b5c70"
+    },
+    {
+      "text": "To win over working-class voters, Democrats need to stop talking about democracy. Working-class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.71,
+      "key": "df7b5ad3630f"
+    },
+    {
+      "text": "More Americans are going bankrupt. What does that mean?. The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.71,
+      "key": "c85d4176faf2"
+    }
+  ],
+  "contexts": {}
+}

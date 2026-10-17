@@ -1,0 +1,485 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-10-17T12:32:53.777590+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260726000152",
+    "NPR World": null,
+    "Al Jazeera": "20260726023800",
+    "MIT Technology Review": "20260726175819",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260726043136",
+    "Fox News Latest": "20260726050121",
+    "NPR News": "20260726194102",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": "20260726034054",
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "More than 250,000 flee wildfires in France and Spain. Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.803333333333334,
+      "key": "eed22e751ad2"
+    },
+    {
+      "text": "Trump takes swipes at press during White House Correspondents' Dinner. The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.179166666666667,
+      "key": "c0c490fe8154"
+    },
+    {
+      "text": "India's 'cockroach' protest called off after education minister quits. The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.285,
+      "key": "a4947a10a0f0"
+    },
+    {
+      "text": "Iran-backed Houthis claim missile attack on Saudi Arabia. US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 17.453333333333333,
+      "key": "156d5393bc7f"
+    },
+    {
+      "text": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion. Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 21.78388888888889,
+      "key": "a5127a5e4f4f"
+    },
+    {
+      "text": "Trump orders Smithsonian to post warnings about 'inaccurate' US history. The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 21.64527777777778,
+      "key": "1ba0084606a3"
+    },
+    {
+      "text": "Pizza, pasta, potatoes, protein - how Italian children became so overweight. The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.5291666666666667,
+      "key": "d714f8e722c6"
+    },
+    {
+      "text": "Israel arrests nine at Tel Aviv protest against West Bank settler violence. Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7511111111111111,
+      "key": "3ab3225868de"
+    },
+    {
+      "text": "Yemen’s Houthis target Saudi oil facilities along the Red Sea. Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.8133333333333332,
+      "key": "07f9dd2c3b04"
+    },
+    {
+      "text": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos. Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4955555555555557,
+      "key": "0f0e24259dd9"
+    },
+    {
+      "text": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack. Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.626388888888889,
+      "key": "92d9b76ff996"
+    },
+    {
+      "text": "What’s behind the Israeli crackdown in the occupied West Bank?. Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.120833333333333,
+      "key": "0c8be33411d8"
+    },
+    {
+      "text": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel. Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.3541666666666665,
+      "key": "28f80776de93"
+    },
+    {
+      "text": "Fire tears through Indonesian village in West Java. A fire has torn through a traditional village in the Sukabumi Regency of Indonesia&#039;s West Java province.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.437777777777778,
+      "key": "9520101b9a47"
+    },
+    {
+      "text": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event. German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.1113888888888885,
+      "key": "90bcedd5a678"
+    },
+    {
+      "text": "Israeli forces target Gaza’s Al-Aqsa hospital. At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.506666666666667,
+      "key": "2bef32d84470"
+    },
+    {
+      "text": "What’s next for Venezuela’s path to recovery from devastating earthquakes?. The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.639166666666667,
+      "key": "7002149d4f10"
+    },
+    {
+      "text": "Israeli forces tear gas journalists reporting Nablus shootout. Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.493333333333333,
+      "key": "170c14f8cd8d"
+    },
+    {
+      "text": "How India’s ‘Cockroach’ protesters shook the Modi government. India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.670833333333333,
+      "key": "ab7a5776a1ba"
+    },
+    {
+      "text": "Head of police in northern Gaza killed in Israeli strike. Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of &#039;spreading chaos&#039; in the Gaza Strip.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.621388888888889,
+      "key": "299cbf32fc5e"
+    },
+    {
+      "text": "At least 35 killed after two buses collide in eastern Syria. At least 35 killed after two buses collide in eastern Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.258333333333334,
+      "key": "9aacef4fb134"
+    },
+    {
+      "text": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’. Outbreak is spreading at the fastest rate ever recorded as confirmed cases in DRC surpass 3,000.",
+      "url": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 8.164166666666667,
+      "key": "18e10ecd36bc"
+    },
+    {
+      "text": "WNBA All-Star Game draws record crowd as Caitlin Clark’s Team Spoon holds off Team Coop. Jonquel Jones posted 22 points, 13 rebounds and eight assists as Team Spoon topped Team Coop in a record-setting WNBA All-Star Game in Chicago.",
+      "url": "https://www.foxnews.com/sports/wnba-all-star-game-draws-record-crowd-caitlin-clark-team-spoon-holds-team-coop",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5725,
+      "key": "5e3466bab195"
+    },
+    {
+      "text": "Seattle Storm's Dominique Malonga becomes youngest player to dunk in WNBA All-Star Game history. Dominique Malonga caught a feed from Angel Reese and threw down a historic dunk, becoming the youngest player to accomplish the feat in an All-Star Game.",
+      "url": "https://www.foxnews.com/outkick-sports/seattle-storm-dominique-malonga-youngest-player-dunk-wnba-all-star-game-history",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2019444444444445,
+      "key": "1258dcd661b3"
+    },
+    {
+      "text": "California authorities search for 2 children allegedly abducted by father, fear for their safety. Solomon and Marozhina Sukonick were last seen in Lancaster with their father, and authorities say there is concern for the abducted children&apos;s well-being.",
+      "url": "https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.943888888888889,
+      "key": "850bdba25a43"
+    },
+    {
+      "text": "At least 1 shot, 1 detained after reported active shooter at Texas mall: police. At least one person was shot and another detained after Harris County deputies responded to an active shooter report at Deerbrook Mall in Humble, Texas.",
+      "url": "https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.310277777777778,
+      "key": "dbb766143ba4"
+    },
+    {
+      "text": "Knicks star Karl Anthony-Towns reportedly attends Jewish fundraiser as other NBA players take opposite stand. Karl Anthony-Towns attended a Chazaq fundraiser in New York City amid rising antisemitic hate crimes that account for roughly 60% of all incidents.",
+      "url": "https://www.foxnews.com/outkick-sports/knicks-star-karl-anthony-towns-reportedly-attends-jewish-fundraiser-nba-players-take-opposite-stand",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.451111111111111,
+      "key": "dc766c750fc2"
+    },
+    {
+      "text": "WNBA commissioner vows to crack down on 'racism, misogyny,' dodges big questions at All-Star press conference. WNBA Commissioner Cathy Engelbert addressed racism, misogyny, homophobia and threats against players but faced criticism for dodging key questions.",
+      "url": "https://www.foxnews.com/sports/wnba-commissioner-vows-crack-down-racism-misogyny-dodges-big-questions-all-star-press-conference",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.220833333333333,
+      "key": "e6bf459fd0e6"
+    },
+    {
+      "text": "Ted Danson wanted to 'stop being a liar' at the end of 'Cheers' saying he 'f---ed up' his life so badly. Ted Danson revealed on his podcast that he &quot;f---ed up&quot; his personal life so badly he didn&apos;t even realize that &quot;Cheers&quot; had ended back in 1993.",
+      "url": "https://www.foxnews.com/entertainment/ted-danson-wanted-stop-being-liar-end-cheers-saying-he-f-ed-up-his-life-so-badly",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.021388888888889,
+      "key": "6c9c5577170d"
+    },
+    {
+      "text": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections. A federal appeals court blocked Trump&apos;s executive order on mail-in voting rules in 23 states, potentially sending the fight to the Supreme Court.",
+      "url": "https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.035555555555556,
+      "key": "85d49f505db7"
+    },
+    {
+      "text": "These female athletes need to speak up about keeping women's sports for women, like Sophie Cunningham did. From Simone Biles to Caitlin Clark, here&apos;s what the biggest names in women&apos;s sports have said about transgender athletes competing against females.",
+      "url": "https://www.foxnews.com/outkick-sports/female-athletes-speak-up-keeping-womens-sports-women-sophie-cunningham",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.49,
+      "key": "a92055d968e5"
+    },
+    {
+      "text": "Flyers Matvei Michkov throws down disgusting Michigan move goal in charity hockey game. Matvei Michkov pulled off a stunning Michigan goal at a charity game in Russia featuring Alex Ovechkin, Artemi Panarin, and Mikhail Sergachev.",
+      "url": "https://www.foxnews.com/outkick-sports/flyers-matvei-michkov-throws-down-disgusting-michigan-move-goal-charity-hockey-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.280277777777778,
+      "key": "a4408ffa228a"
+    },
+    {
+      "text": "Miami Marlins’ collapse back to mediocrity is so predictable you could set your watch to it. The Miami Marlins have lost ten straight games since their historic June, and the Eury Perez perfect game controversy may have cursed their playoff race.",
+      "url": "https://www.foxnews.com/outkick-sports/miami-marlins-collapse-back-mediocrity-predictable-set-watch",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.414444444444444,
+      "key": "c211a3010f8c"
+    },
+    {
+      "text": "Atlanta Braves fan taunts The Freeze with a blown kiss and gets passed in spectacular fashion. The Atlanta Braves&apos; The Freeze delivered a viral moment after a fan&apos;s mid-race taunt backfired spectacularly during the warning track showdown at the ballpark.",
+      "url": "https://www.foxnews.com/sports/atlanta-braves-fan-taunts-freeze-blown-kiss-passed-spectacular-fashion",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.448055555555555,
+      "key": "b1f3ca5713ab"
+    },
+    {
+      "text": "Bargain buffet refuses to die while luxury dining takes over Vegas. Las Vegas buffets are vanishing from the Strip, with only four remaining as the city shifts toward luxury dining and wealthier casino visitors.",
+      "url": "https://www.foxnews.com/travel/bargain-buffet-refuses-die-while-luxury-dining-takes-over-vegas",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.471111111111111,
+      "key": "413e41a9aac7"
+    },
+    {
+      "text": "At least 1 dead, several injured after van rams into crowd at Pride festival; suspect 'known to police'. A van rammed into the Christopher Street Day festival in Berlin&apos;s Tiergarten, killing one person, and police launched an intensive manhunt and later identified a suspect with alleged Islamic ties.",
+      "url": "https://www.foxnews.com/world/police-cancel-gay-pride-festival-car-rams-crowd-leaving-several-injured",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.779444444444445,
+      "key": "a14cedf17eb7"
+    },
+    {
+      "text": "Tour de France rider crashes into the back of support vehicle that slammed on the brakes. Einer Rubio needed 20 stitches and a helicopter evacuation after slamming into a support vehicle on Alpe d&apos;Huez during Tour de France Stage 19.",
+      "url": "https://www.foxnews.com/outkick-sports/tour-de-france-rider-crashes-back-support-vehicle-slammed-brakes",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.886111111111111,
+      "key": "3bbfc9ac60b8"
+    },
+    {
+      "text": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race. The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.458888888888889,
+      "key": "6d31181871bd"
+    },
+    {
+      "text": "U.S. pauses attacks on Iran for a second straight day and Tehran does too. The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.4155555555555557,
+      "key": "602a1f6855ca"
+    },
+    {
+      "text": "Rage-giving, innovation and cuts: How public media has survived without federal funds. A year after President Trump signed a law ending six decades of federal funding of public media, it's a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.68388888888889,
+      "key": "2f735a76ccaa"
+    },
+    {
+      "text": "Lebanese displaced by war turn to satellites to check their homes. Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.68388888888889,
+      "key": "0da5f2c0597b"
+    },
+    {
+      "text": "ADHD looks different in women and poses unique health risks. For decades, ADHD was viewed as a childhood condition that mostly affected boys. Researchers now know ADHD manifests differently in girls, but many still go undiagnosed until adulthood.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.68388888888889,
+      "key": "262c43b77dda"
+    },
+    {
+      "text": "Climate change is now threatening a pillar of childhood: summer break. When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.68388888888889,
+      "key": "78e9ad0e565f"
+    },
+    {
+      "text": "Meet the robots programmed by kids to speak their Indigenous languages. Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.68388888888889,
+      "key": "b82d3c9f24e9"
+    },
+    {
+      "text": "Suspect in Berlin Pride vehicle attack is dead, police say. Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 18.501666666666665,
+      "key": "ae8148fe37c2"
+    },
+    {
+      "text": "France and Spain fires force more than 300,000 to flee homes. In France, around 50,000 people were evacuated from their homes overnight into Sunday, according to interior minister Laurent Nuñez. At least one person has died in a fire in Spain, officials said.",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 18.588055555555556,
+      "key": "66e04a9bbb2f"
+    },
+    {
+      "text": "Biden ghostwriter tapes to be released. Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 24.07888888888889,
+      "key": "9f0f430564a1"
+    },
+    {
+      "text": "One of NASA’s crucial links to deep space is at risk of burning down. The Deep Space Network is our best way to communicate with spacecraft beyond Earth’s orbit, and one of its three stations around the world is in the middle of a wildfire",
+      "url": "https://www.newscientist.com/article/2581311-one-of-nasas-crucial-links-to-deep-space-is-at-risk-of-burning-down/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 30.18138888888889,
+      "key": "031efa43f1ea"
+    },
+    {
+      "text": "Clothes made from living fungi can clean and repair themselves. Researchers have created a textile made from the parasitic fungus Cordyceps militaris, which is biodegradable and can be adapted for different purposes with various microbes",
+      "url": "https://www.newscientist.com/article/2581227-clothes-made-from-living-fungi-can-clean-and-repair-themselves/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 33.665,
+      "key": "af7dedf9b40c"
+    },
+    {
+      "text": "Having a young biological age could help with weight loss. In a small study, restricting calories led to greater weight loss among people with a biological age younger than their chronological age",
+      "url": "https://www.newscientist.com/article/2581243-having-a-young-biological-age-could-help-with-weight-loss/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 38.724444444444444,
+      "key": "c0a8e6747930"
+    },
+    {
+      "text": "10 of the best pictures of solar eclipses throughout history. Humans have been observing solar eclipses for millennia – carving, painting, sketching and finally photographing as the moon blocks out the disc of the sun",
+      "url": "https://www.newscientist.com/article/2580240-10-of-the-best-pictures-of-solar-eclipses-throughout-history/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 40.681666666666665,
+      "key": "76d40350da0a"
+    },
+    {
+      "text": "Most neurons seem to be jacks-of-all-trades, not specialists. We tend to think of the brain as being made up of highly specialised cells, but a study in mice suggests that most neurons are generalists",
+      "url": "https://www.newscientist.com/article/2581104-most-neurons-seem-to-be-jacks-of-all-trades-not-specialists/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 41.681666666666665,
+      "key": "6c182e6d1c97"
+    },
+    {
+      "text": "We now know how a black hole can be flung across the universe. When researchers found evidence of a black hole flying out of its galaxy, nobody knew how that could happen. Now we have an explanation",
+      "url": "https://www.newscientist.com/article/2580928-we-now-know-how-a-black-hole-can-be-flung-across-the-universe/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 42.681666666666665,
+      "key": "b3f629852ae1"
+    },
+    {
+      "text": "This El Niño will be the hottest by a huge margin. The super El Niño now developing in the tropical Pacific has a 90 per cent chance of becoming the strongest in 150 years, breaking global temperature records and unleashing extreme weather",
+      "url": "https://www.newscientist.com/article/2581151-this-el-nino-will-be-the-hottest-by-a-huge-margin/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 57.670833333333334,
+      "key": "bfd819f09af2"
+    },
+    {
+      "text": "Extremely basic AI prompt cracks decades-old maths problem. For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
+      "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 60.13305555555556,
+      "key": "b89ea729d015"
+    },
+    {
+      "text": "Can sounds make plants grow bigger? A start-up says they can. Haivya has developed acoustic signals designed to influence plant development, and its trials reportedly show large yield increases in soybean, pepper and cannabis crops",
+      "url": "https://www.newscientist.com/article/2581022-can-sounds-make-plants-grow-bigger-a-start-up-says-they-can/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 60.681666666666665,
+      "key": "34102ab20001"
+    },
+    {
+      "text": "Fields medal 2026: Work on unifying laws of physics wins maths prize. Mathematicians who helped unify laws of physics and cracked decades-old problems in geometry are among this year's recipients of the Fields medal",
+      "url": "https://www.newscientist.com/article/2580296-fields-medal-2026-work-on-unifying-laws-of-physics-wins-maths-prize/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 62.14833333333333,
+      "key": "28f4311b9d20"
+    }
+  ],
+  "contexts": {}
+}

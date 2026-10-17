@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-10-17T12:47:08.521899+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260829070058",
+    "NPR World": null,
+    "Al Jazeera": "20260829103841",
+    "MIT Technology Review": "20260829070234",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260829011144",
+    "Fox News Latest": "20260829050246",
+    "NPR News": null,
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil. Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.308611111111111,
+      "key": "0dcbf56ed7ba"
+    },
+    {
+      "text": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy. A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.478055555555556,
+      "key": "7706a70936df"
+    },
+    {
+      "text": "Close race as Iceland votes on whether to restart talks on joining EU. Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.0775,
+      "key": "99fed6ff7723"
+    },
+    {
+      "text": "Canada poaches dozens of top US researchers for its universities. Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.222222222222222,
+      "key": "f322d2a890a0"
+    },
+    {
+      "text": "Norway mourns King Harald as new era begins under Haakon VIII. King Harald, Europe&#039;s oldest monarch, was viewed as a reformer who embraced inclusivity.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8844444444444445,
+      "key": "7096d3a1ecd5"
+    },
+    {
+      "text": "US revokes visa of former Iraqi minister after watchlist listing. The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5530555555555556,
+      "key": "b12b11ff80d3"
+    },
+    {
+      "text": "Chelsea vs Brighton: Premier League – preview, team news, prediction. Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7927777777777778,
+      "key": "5f1dd1ea8509"
+    },
+    {
+      "text": "Liverpool vs Nottingham Forest LIVE: Premier League. Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.093611111111111,
+      "key": "0a1568eaf326"
+    },
+    {
+      "text": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record. Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.085277777777778,
+      "key": "eb8edc1c0042"
+    },
+    {
+      "text": "India and Pakistan are united in spending citizen lives like pocket change. Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.505,
+      "key": "b507f23d6770"
+    },
+    {
+      "text": "Six months into the Iran war, a new Gulf security architecture is emerging. Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.445277777777778,
+      "key": "31a0869b8524"
+    },
+    {
+      "text": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’. Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.187777777777778,
+      "key": "eb1622aa9839"
+    },
+    {
+      "text": "Iceland heads to the polls in knife-edge vote on restarting EU talks. Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.331944444444445,
+      "key": "1557cd25d208"
+    },
+    {
+      "text": "What’s in the US-Venezuela ‘biggest oil deal in world history?’. US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.377777777777778,
+      "key": "9be7732114a6"
+    },
+    {
+      "text": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89. Norwegians are saying goodbye to King Harald V, Europe’s oldest reigning monarch.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.397222222222222,
+      "key": "1c52a0986748"
+    },
+    {
+      "text": "Ecuador sentences ex-president Moreno to five years in jail in bribery case. Lenin Moreno, 73, has also been permanently barred from holding any public office in the future.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/ecuador-sentences-ex-president-moreno-to-five-years-in-jail-in-bribery-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.837777777777778,
+      "key": "4934bf45d398"
+    },
+    {
+      "text": "Nepal and China resume flood rescue as death toll surpasses 600. Rescue operations have resumed after a brief pause, but experts caution of danger from a newly formed lake.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.045277777777778,
+      "key": "a6e6059997cd"
+    },
+    {
+      "text": "Guinea-Bissau votes on a stronger presidency: What’s at stake?. The proposed constitution would give the president more power and reshape parliament and elections.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/guinea-bissau-votes-on-a-stronger-presidency-whats-at-stake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 8.00388888888889,
+      "key": "6f09f406873c"
+    },
+    {
+      "text": "Trump announces ‘biggest oil deal in world history’ with Venezuela. US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 8.097222222222221,
+      "key": "f6f6879b71aa"
+    },
+    {
+      "text": "The Download: a secretive antiaging drug and joining virtual power plants. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab o",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 18.451944444444443,
+      "key": "9064a9d21342"
+    },
+    {
+      "text": "How to sign up for a virtual power plant—and decide whether you should. MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.04277777777778,
+      "key": "84748931ead1"
+    },
+    {
+      "text": "A startup claims it’s found a drug to make your blood young. I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging tre",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 35.23916666666667,
+      "key": "f02d40b95ccb"
+    },
+    {
+      "text": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and t",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 42.87611111111111,
+      "key": "448fcba76d24"
+    },
+    {
+      "text": "Is Slate Auto’s new electric truck the EV Americans need?. EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate A",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 45.04277777777778,
+      "key": "a01a7fad54ad"
+    },
+    {
+      "text": "Texas Gov. Greg Abbott moves to cut state funding for AI-powered Flock cameras amid privacy concerns. Greg Abbott ordered Texas agencies to pause funding for Flock Safety&apos;s AI-powered license plate readers as cities cancel contracts over privacy.",
+      "url": "https://www.foxnews.com/politics/texas-gov-greg-abbott-moves-cut-state-funding-ai-powered-flock-cameras-amid-privacy-concerns",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.145,
+      "key": "4548f7925b2f"
+    },
+    {
+      "text": "Umpire Bill Miller goes 0-for-8 on ABS challenges in Reds' 10-8 win over Cubs at Wrigley Field. Umpire Bill Miller went 0-for-8 on ABS challenges during the Reds&apos; 10-8 win over the Chicago Cubs at Wrigley Field, the worst such mark this MLB season.",
+      "url": "https://www.foxnews.com/outkick-sports/umpire-bill-miller-goes-0-8-abs-challenges-reds-10-8-win-cubs-wrigley-field",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.2941666666666667,
+      "key": "d7f3ff0d2baa"
+    },
+    {
+      "text": "Caitlin Clark, Indiana Fever go into FIBA World Cup break with big win over Connecticut. Caitlin Clark and Kelsey Mitchell each scored 34 points as the Fever routed the Sun 111-91, extending their WNBA record for 30-point games by teammates in a season.",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-fiba-world-cup-break-big-win-connecticut",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2894444444444444,
+      "key": "46ef9db4da66"
+    },
+    {
+      "text": "Falcons QB Tua Tagovailoa booed by Dolphins fans as Miami pays price for failed relationship. Tua Tagovailoa completed 7 of 8 passes against his former team but still hasn&apos;t locked down the Atlanta Falcons starting job over Michael Penix Jr.",
+      "url": "https://www.foxnews.com/outkick-sports/falcons-qb-tua-tagovailoa-booed-dolphins-fans-miami-pays-price-failed-relationship",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.9219444444444442,
+      "key": "d0b1a9d1050a"
+    },
+    {
+      "text": "Chris Sale turns back clock, hits triple digits and completes gem on emotional night in Braves sweep. Drake Baldwin&apos;s first-pitch homer off Yoshinobu Yamamoto was all Chris Sale needed to shut out the Dodgers with 11 strikeouts and zero walks.",
+      "url": "https://www.foxnews.com/outkick-sports/chris-sale-turns-back-clock-hits-triple-digits-completes-gem-emotional-night-braves-sweep",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.4583333333333335,
+      "key": "5043b1fad22f"
+    },
+    {
+      "text": "WATCH: Wanted man escapes cops twice by running onto freeway, then walks into their Panda Express lunch. Body camera video captures the moment a wanted man walked into a Panda Express where the same officers he&apos;d twice escaped were eating lunch.",
+      "url": "https://www.foxnews.com/us/wanted-man-escapes-cops-twice-running-freeway-walks-panda-express-lunch",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.605,
+      "key": "36d7c42e1963"
+    },
+    {
+      "text": "Enes Kanter Freedom's legal representatives file FOIA request related to Chicago Sky ejection incident. AFPI filed a six-page public-records request with the government entity that owns Wintrust Arena after Enes Kanter Freedom&apos;s removal from a Sky game.",
+      "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedoms-legal-representatives-file-foia-request-related-chicago-sky-ejection-incident",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.962222222222222,
+      "key": "1992e04963c5"
+    },
+    {
+      "text": "Royce White shows up to Indiana Fever game in blonde wig amid WNBA Draft pursuit. Royce White attended an Indiana Fever game in a blonde wig as part of his public campaign to enter the 2027 WNBA Draft as a transgender woman.",
+      "url": "https://www.foxnews.com/outkick-sports/royce-white-shows-indiana-fever-game-blonde-wig-amid-wnba-draft-pursuit",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.262777777777778,
+      "key": "7d823c00d827"
+    },
+    {
+      "text": "Woman allegedly ejected from roller coaster, suffers serious injuries after dragged along track: reports. Nicki Parker, 60, was dragged 20 to 30 seconds along the Rocky Mountain Coaster track at Copper Mountain Resort after being ejected from her seat, an attorney claims.",
+      "url": "https://www.foxnews.com/travel/woman-allegedly-ejected-roller-coaster-suffers-serious-injuries-dragged-along-track-reports",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.432777777777778,
+      "key": "2da41d6f7e1f"
+    },
+    {
+      "text": "Tarik Skubal gets emotional during highly anticipated return to Detroit after blockbuster trade. Tarik Skubal got misty-eyed during a tribute video and standing ovation at Comerica Park before facing former teammate Gleyber Torres on the mound.",
+      "url": "https://www.foxnews.com/outkick-sports/tarik-skubal-emotional-return-detroit-blockbuster-trade",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.594444444444444,
+      "key": "c0936724b301"
+    },
+    {
+      "text": "CBC releases policy change after controversy about refusing to refer to 9/11 as  ‘terrorist attacks’. The Canadian Broadcasting Corporation&apos;s leaked memo told journalists not to call 9/11 a terrorist attack, sparking outrage before the anniversary.",
+      "url": "https://www.foxnews.com/media/cbc-releases-policy-change-after-controversy-about-refusing-refer-9-11-terrorist-attacks",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.195,
+      "key": "950f09721f82"
+    },
+    {
+      "text": "Colorado Avalanche sign defenseman Cale Makar to record-setting eight-year contract extension. Cale Makar&apos;s eight-year, $163.2 million extension makes him the NHL&apos;s highest-paid player, but pressure to win another Stanley Cup intensifies.",
+      "url": "https://www.foxnews.com/outkick-sports/colorado-avalanche-sign-defenseman-cale-makar-record-setting-eight-year-contract-extension",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.376666666666667,
+      "key": "1da42f9b18a3"
+    },
+    {
+      "text": "Hochul boasts 'I just banned it' as New York outlaws local police partnerships with ICE. Kathy Hochul says 287(g) agreements are now banned in New York, but DHS warns the restriction will force more federal agents into communities.",
+      "url": "https://www.foxnews.com/media/hochul-boasts-banned-new-york-outlaws-local-police-partnerships-ice",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.613611111111111,
+      "key": "1284ed959e95"
+    },
+    {
+      "text": "Measles deaths may have been 'fabricated,' RFK Jr claims after coroner raises questions. RFK Jr. alleged Pennsylvania&apos;s two measles-associated deaths may have been &quot;fabricated&quot; as a dispute with Gov. Josh Shapiro over the outbreak intensifies.",
+      "url": "https://www.foxnews.com/health/measles-deaths-fabricated-rfk-jr-claims-coroner-raises-questions",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.6338888888888885,
+      "key": "5a0b36421714"
+    },
+    {
+      "text": "North Carolina vs TCU Horned Frogs best bet: Why Bill Belichick's Tar Heels are live underdogs in Week 0. Bill Belichick&apos;s North Carolina Tar Heels open as 9-point underdogs against TCU Horned Frogs at Aviva Stadium in Dublin for Week 0 college football.",
+      "url": "https://www.foxnews.com/outkick-sports/north-carolina-vs-tcu-horned-frogs-best-bet-bill-belichick-tar-heels-live-underdogs-week-0",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.7875,
+      "key": "11ef084c43b6"
+    }
+  ],
+  "contexts": {}
+}

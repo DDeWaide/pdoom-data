@@ -1,0 +1,525 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-17T13:03:39.837515+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20261005034952",
+    "NPR World": null,
+    "Al Jazeera": "20261005094820",
+    "MIT Technology Review": "20261005094600",
+    "Ars Technica": "20261005094947",
+    "The Verge AI": null,
+    "Wired": "20261005095115",
+    "CNN Top Stories": "20261005094845",
+    "Fox News Latest": "20261005095150",
+    "NPR News": "20261005094638",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Watch: What we know about Russian strikes on Kyiv bridges. BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.405555555555555,
+      "key": "2bce4b092dbf"
+    },
+    {
+      "text": "Yemen's government announces all-out war to reclaim land from Houthis. The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.972777777777777,
+      "key": "4b50782209ba"
+    },
+    {
+      "text": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round. With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.56,
+      "key": "24616f90cb9b"
+    },
+    {
+      "text": "Ethiopian rebel forces withdraw from Tigray regional capital. Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.279722222222222,
+      "key": "1fae5bc48462"
+    },
+    {
+      "text": "Christa Pike's prognosis still unclear after failed execution, lawyer says. Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.417777777777777,
+      "key": "0238090eb7ce"
+    },
+    {
+      "text": "Indian police accused of sexually harassing journalists at protest. The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.809166666666666,
+      "key": "a345f3ebb396"
+    },
+    {
+      "text": "US Marine arrested over murder of woman in Japan's Okinawa. Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.215277777777779,
+      "key": "a987df5b9424"
+    },
+    {
+      "text": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off. Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.5841666666666665,
+      "key": "d51418dd5c09"
+    },
+    {
+      "text": "Rescuers suspend search for survivors after plane went missing off US coast. The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.342777777777778,
+      "key": "dde34bafe51d"
+    },
+    {
+      "text": "Why Canada is wargaming a (long shot) US invasion. Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 28.329444444444444,
+      "key": "d6012bc47884"
+    },
+    {
+      "text": "Formula One to probe software bug behind Bahrain GP chaos in Sepang. Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7705555555555555,
+      "key": "718f2695b259"
+    },
+    {
+      "text": "‘If I didn’t write what moved me, it’d be like putting myself in prison’. Award-winning author Arundhati Roy discusses why she&#039;s not afraid to address politically charged topics.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8055555555555556,
+      "key": "4df2eafebe11"
+    },
+    {
+      "text": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis. Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8830555555555556,
+      "key": "7696a01cc8bb"
+    },
+    {
+      "text": "Pakistan installs fishing nets at security outposts to block drone attacks. Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.4627777777777777,
+      "key": "e3dcac611aa1"
+    },
+    {
+      "text": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format. Only one point separates Group A1 leaders France and second-placed Belgium before Monday&#039;s clash.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7152777777777777,
+      "key": "380e89228a40"
+    },
+    {
+      "text": "Spain’s Pedro Sanchez announces snap election amid housing crisis. Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5608333333333335,
+      "key": "28d24b98fbcb"
+    },
+    {
+      "text": "World Space Week: Which countries have sent people to space?. At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7005555555555554,
+      "key": "e44e6504b3fe"
+    },
+    {
+      "text": "Djokovic defeats top seed Zverev to reach China Open semifinals. Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.868611111111111,
+      "key": "743a9ad77c93"
+    },
+    {
+      "text": "Middle East oil exports surpass pre-war levels despite tensions, data shows. IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.456388888888889,
+      "key": "c754d9690410"
+    },
+    {
+      "text": "Who were the top teen athletes at the Asian Games?. China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
+      "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.595,
+      "key": "96a7b0b0870f"
+    },
+    {
+      "text": "Samoa PM apologises after Nazi salute video emerges. Pacific island nation’s leader says 2007 video showing him saying &#039;Heil Hitler&#039; does not reflect his beliefs.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.664166666666667,
+      "key": "fbbeda811790"
+    },
+    {
+      "text": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff. Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.6658333333333335,
+      "key": "a27d0be7891a"
+    },
+    {
+      "text": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son. A California woman allegedly sent photos and videos of President Lai&#039;s son and his family to Chinese officials.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.583333333333333,
+      "key": "be75f49c21ea"
+    },
+    {
+      "text": "Russian lab worker dies of suspected plague in Siberia; US monitoring case. A Russian agency links the lab worker&#039;s death to &#039;pneumonia of unknown&#039; origin.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.674722222222222,
+      "key": "6d7c4e556c79"
+    },
+    {
+      "text": "Singapore turns matchmaker amid rock-bottom birthrate. City-state launches dating platform for government workers, drawing curiosity, amusement and scorn.",
+      "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.0008333333333335,
+      "key": "2445fba09459"
+    },
+    {
+      "text": "People really hate AI, so why can’t they get enough?. Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 1.7666666666666666,
+      "key": "6899d76d0967"
+    },
+    {
+      "text": "EmTech Future 2026: When AI Meets Everything. Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 5.766666666666667,
+      "key": "14686348f344"
+    },
+    {
+      "text": "New forensic evidence supports Egyptian \"retainer sacrifice\". Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.815277777777778,
+      "key": "0979f59b4556"
+    },
+    {
+      "text": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife. Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.259166666666665,
+      "key": "1eb8a0081494"
+    },
+    {
+      "text": "All hail electrification. But let’s talk about the hard part.. The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 22.731666666666666,
+      "key": "5d84a8780f6a"
+    },
+    {
+      "text": "A Prediction Market About the Past? Sure, Why Not!. As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3541666666666667,
+      "key": "6125f2cccfba"
+    },
+    {
+      "text": "Staples Print and Marketing Services Review: Fast Holiday Gifts. Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
+      "url": "https://www.wired.com/story/staples-print-and-marketing-services/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.8541666666666666,
+      "key": "c0326c74a8c4"
+    },
+    {
+      "text": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them. Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.804166666666667,
+      "key": "935dcaab161a"
+    },
+    {
+      "text": "The Best Gifts Under $25 for Everyone on Your List (2026). We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.854166666666668,
+      "key": "796fd611ce9d"
+    },
+    {
+      "text": "Meta Glasses Nova (Gen 3) Review: Not Much New. Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "url": "https://www.wired.com/review/meta-glasses-gen-3/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.354166666666668,
+      "key": "4ccc854526f4"
+    },
+    {
+      "text": "The Best Online Gift Cards and Digital Gift Ideas (2026). Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+      "url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.354166666666668,
+      "key": "1087a6f15d2e"
+    },
+    {
+      "text": "Rural Data Centers Are in for a Big Federal Tax Break. Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.854166666666668,
+      "key": "98ed5b76c48c"
+    },
+    {
+      "text": "Wall Street has a new rival, and it's deep in the heart of this southern state. The Texas Stock Exchange wants to challenge Wall Street&apos;s dominance as former Rep. Jeb Hensarling says Texas is America&apos;s new economic center.",
+      "url": "https://www.foxnews.com/politics/wall-street-new-rival-deep-heart-southern-state",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8491666666666666,
+      "key": "52fbfa31d21e"
+    },
+    {
+      "text": "America must defend our digital infrastructure, here and overseas, to win the next war. Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+      "url": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8563888888888889,
+      "key": "86c88ab302a7"
+    },
+    {
+      "text": "LEE CARTER: Polls say Democrats could swamp Republicans. As a pollster, I have a question. Democrats lead polls and push affordability as their message, but the question is whether rejection of Trump alone is enough without a real cause.",
+      "url": "https://www.foxnews.com/opinion/lee-carter-polls-say-democrats-could-swamp-republicans-pollster-question",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8622222222222222,
+      "key": "32caa8fc3844"
+    },
+    {
+      "text": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports. Enes Kanter Freedom explains how defying Turkey and China over human rights prepared him to speak out on fair competition in women&apos;s sports.",
+      "url": "https://www.foxnews.com/opinion/enes-kanter-freedom-price-silence-wont-stop-defending-womens-sports",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9338888888888889,
+      "key": "fbd60aeaab5e"
+    },
+    {
+      "text": "AI is supercharging political ad wars. But viral doesn’t mean victorious. AI political ads are flooding campaigns with cheaper attack ads and deepfake content, but strategists question whether the tech wins elections.",
+      "url": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.855,
+      "key": "17a028485038"
+    },
+    {
+      "text": "The politics of hypocrisy: How scandal is treated with selective outrage. Controversial candidates are fueling midterm frustration, exposing both parties’ selective outrage as they defend flawed nominees and warn the other side is worse.",
+      "url": "https://www.foxnews.com/opinion/politics-hypocrisy-how-scandal-treated-selective-outrage",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8494444444444444,
+      "key": "f85166091963"
+    },
+    {
+      "text": "Coast Guard personnel exchange gunfire with shooters across US-Mexico border. Coast Guard personnel returned fire after shots came from the Mexican side of the southern border, prompting a massive troop deployment to the region.",
+      "url": "https://www.foxnews.com/world/coast-guard-personnel-exchange-gunfire-shooters-us-mexico-border",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.111666666666667,
+      "key": "ce73707b9333"
+    },
+    {
+      "text": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike. The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
+      "url": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.493888888888889,
+      "key": "8bd6d62a0d3b"
+    },
+    {
+      "text": "Tetairoa McMillan career day spoils Jared Goff's huge game as soft Lions defense flops on SNF. Tetairoa McMillan&apos;s 14-catch, 192-yard masterclass and Bryce Young&apos;s 329-yard night powered the Panthers past the Lions 32-26 on Sunday Night Football.",
+      "url": "https://www.foxnews.com/outkick-sports/tetairoa-mcmillan-career-day-spoils-jared-goff-huge-game-soft-lions-defense-flops-snf",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.638888888888889,
+      "key": "60064aef66f8"
+    },
+    {
+      "text": "San Diego Padres blow late lead as star closer Mason Miller crumbles in brutal walk-off to Brewers. San Diego Padres trail 2-0 in the NLDS after Mason Miller walked three batters in the ninth to set up Jackson Chourio&apos;s walk-off two-run single.",
+      "url": "https://www.foxnews.com/outkick-sports/san-diego-padres-blow-late-lead-star-closer-mason-miller-crumbles-brutal-walk-off-brewers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.5825,
+      "key": "39ce5edde4fc"
+    },
+    {
+      "text": "Shark bites fisherman twice during kayaking encounter along California beach. A Malibu shark encounter sent a kayaker to the hospital after he reportedly reeled in a suspected mako shark while fishing off the California coast.",
+      "url": "https://www.foxnews.com/us/shark-bites-fisherman-twice-kayaking-encounter-california-beach",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.745,
+      "key": "44eedf11bd16"
+    },
+    {
+      "text": "Mass shooting at Georgia block party leaves 2 dead, 35 injured. A mass shooting at a block party in South Georgia left two people dead and more than three dozen others wounded early Sunday morning, according to officials.",
+      "url": "https://www.foxnews.com/us/mass-shooting-georgia-block-party-leaves-2-dead-35-injured",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.880277777777778,
+      "key": "92fcf61f662f"
+    },
+    {
+      "text": "Chiefs' Tyquan Thornton didn't realize his foot was pointing the wrong direction after game-changing catch. Tyquan Thornton caught a 55-yard pass from Patrick Mahomes, then looked down to discover a gruesome left ankle injury in the Chiefs-Raiders game.",
+      "url": "https://www.foxnews.com/outkick-sports/chiefs-tyquan-thornton-didnt-realize-foot-pointing-wrong-direction-game-changing-catch",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.915555555555556,
+      "key": "185b17c060ca"
+    },
+    {
+      "text": "Attorney for accused Cornell student calls on Letitia James to step aside over prior comments. New York Attorney General Letitia James faces a recusal call after her prior public statements appeared to support the accuser in the Cornell alleged sexual assault case.",
+      "url": "https://www.foxnews.com/us/attorney-accused-cornell-student-calls-letitia-james-step-aside-over-prior-comments",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.921666666666667,
+      "key": "ac17e8f1c481"
+    },
+    {
+      "text": "Teresa Giudice's daughter Milania writes birthday tribute to sister Gabriella months after 911 call and arrest. Teresa Giudice&apos;s daughter Milania shared an emotional birthday tribute to sister Gabriella months after the 911 call and simple assault arrest.",
+      "url": "https://www.foxnews.com/entertainment/teresa-giudice-daughter-milania-writes-birthday-tribute-sister-gabriella-months-after-911-call-arrest",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.930833333333333,
+      "key": "0d38f73dbbb9"
+    },
+    {
+      "text": "Spain's prime minister calls early elections as pressure mounts over housing crisis. Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5119444444444444,
+      "key": "7138dcf83490"
+    },
+    {
+      "text": "Republicans and Democrats find a unifying target: Pharmacy benefit managers. Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7772222222222223,
+      "key": "ad30ac2f45f6"
+    },
+    {
+      "text": "Supreme Court's new term kicks off with blockbuster climate change case. The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7772222222222223,
+      "key": "ae5a6d1b6f20"
+    },
+    {
+      "text": "From floating saunas to clinical trials: How heat might help mental health. While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7772222222222223,
+      "key": "f0e5c7b7ba7d"
+    },
+    {
+      "text": "Voters are increasingly using AI chatbots to fact-check and compare candidates. Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7772222222222223,
+      "key": "88845d58babc"
+    },
+    {
+      "text": "Super El Niño is here. What's so super about it?. This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7772222222222223,
+      "key": "e84fd082b77d"
+    },
+    {
+      "text": "Morning news brief. Investigators are still searching for the motive behind a midair attack aboard a FlyDubai plane, SCOTUS term begins with climate change case, Brazil's presidential race heads to run-off.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5986099/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.0152777777777777,
+      "key": "461244d7ab7a"
+    },
+    {
+      "text": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground. Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.484166666666667,
+      "key": "5952fee43362"
+    },
+    {
+      "text": "Brazil votes, with Lula facing Bolsonaro's son. In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.908055555555556,
+      "key": "201f4d4f35f6"
+    },
+    {
+      "text": "Trump names national intelligence chief Jay Clayton as new AI czar. Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.16388888888889,
+      "key": "3ca7a5b5daf4"
+    }
+  ],
+  "contexts": {}
+}

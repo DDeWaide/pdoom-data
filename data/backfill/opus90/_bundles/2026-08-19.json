@@ -1,0 +1,501 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-10-17T12:41:27.064040+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260819031654",
+    "MIT Technology Review": "20260819090447",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": "20260819150058",
+    "CNN Top Stories": null,
+    "Fox News Latest": "20260819125925",
+    "NPR News": "20260819081603",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "US, Canada reach trade deal to avert steep tariffs, Trump says. Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6941666666666667,
+      "key": "d9a87f282b76"
+    },
+    {
+      "text": "US refineries taking in half of Venezuela’s oil output, official says. US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.2697222222222222,
+      "key": "f3338620c808"
+    },
+    {
+      "text": "How Ebola became the deadliest outbreak in DR Congo’s history. Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.388888888888889,
+      "key": "67334bdb8478"
+    },
+    {
+      "text": "US ambassador to Israel calls settler violence ‘terror’. US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.462222222222222,
+      "key": "6a15897eca62"
+    },
+    {
+      "text": "Quebec separatist says no independence referendum while Trump in office. Leader of Canadian province&#039;s secessionist party says debate over independence stymied by turbulence in US politics.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.9980555555555557,
+      "key": "0f2c0b0966f1"
+    },
+    {
+      "text": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’. Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.2816666666666667,
+      "key": "b49cd559097b"
+    },
+    {
+      "text": "Al Jazeera reports from Indonesia’s quake zone, desperate for help. Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.286388888888889,
+      "key": "13ee0bad77e3"
+    },
+    {
+      "text": "Democrats call for USS Lincoln probe, question US Navy’s readiness. Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.527222222222222,
+      "key": "d2843adccd81"
+    },
+    {
+      "text": "Minnesota official sues Texas governor to force ICE agent’s extradition. State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.351111111111111,
+      "key": "4d67f61434e0"
+    },
+    {
+      "text": "Bolivia arrests political adviser to Latin American right-wingers. Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.436388888888889,
+      "key": "596630e12c74"
+    },
+    {
+      "text": "Trump administration moves to end rule protecting swaths of forest land. US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.835277777777778,
+      "key": "5cd0a09fee3f"
+    },
+    {
+      "text": "Why is the US ramping up Tomahawk production?. The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.846388888888889,
+      "key": "4aa43339170c"
+    },
+    {
+      "text": "Syria opens Assad-era nuclear programme to UN probe. UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.863333333333333,
+      "key": "c0459adca236"
+    },
+    {
+      "text": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO. Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.867222222222222,
+      "key": "3771257f84e6"
+    },
+    {
+      "text": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal. US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
+      "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.215277777777778,
+      "key": "45a69475bf34"
+    },
+    {
+      "text": "The Download: how people really use AI, and Flock’s design choices. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only ",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 20.913055555555555,
+      "key": "978539515fe9"
+    },
+    {
+      "text": "We still don’t know how people are really using AI. AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford T",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.967777777777776,
+      "key": "4009a1e672bd"
+    },
+    {
+      "text": "The role of the astronaut is in flux. When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic touchdown of&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.079722222222223,
+      "key": "ce494e56666e"
+    },
+    {
+      "text": "AI’s recursive self-improvement might not come so quickly after all. The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-i",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.079722222222223,
+      "key": "2658c6e80183"
+    },
+    {
+      "text": "Why Is It Absolute Hell to Buy a Movie Ticket Now?. Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
+      "url": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.465,
+      "key": "9ac7989a5f4b"
+    },
+    {
+      "text": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign. What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
+      "url": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.4994444444444444,
+      "key": "99ef9eb1535b"
+    },
+    {
+      "text": "I Tried a Window-Cleaning Robot: Do Not Recommend. I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
+      "url": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.8827777777777777,
+      "key": "acf3700a3c77"
+    },
+    {
+      "text": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport. Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
+      "url": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.016111111111111,
+      "key": "7925d8838002"
+    },
+    {
+      "text": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It. The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
+      "url": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.266111111111111,
+      "key": "2e200cf34695"
+    },
+    {
+      "text": "Dell XPS 13 vs. MacBook Neo: A Surprising Upset. The Dell XPS 13 and MacBook Neo are both premium-feeling laptops with only 8 GB of RAM. Which $700 laptop is the better buy?",
+      "url": "https://www.wired.com/story/macbook-neo-vs-dell-xps-13/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.516111111111111,
+      "key": "f519229938de"
+    },
+    {
+      "text": "There’s a Very Simple Reason Why You Love the Slate Truck. The car world is filled with designers still obsessed with shoehorning sex into their rides. Slate went a different route, and it’s why people are smitten with the charming electric pickup.",
+      "url": "https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.516111111111111,
+      "key": "9d4ece94c898"
+    },
+    {
+      "text": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces. The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
+      "url": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.016111111111111,
+      "key": "012fc4c2b4c0"
+    },
+    {
+      "text": "Hot or Not Built the Internet We’re Still Swiping Through. The early website Hot or Not taught its users to rank people at scale. Twenty-six years later, dating apps are trying to escape the culture the site helped create.",
+      "url": "https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.266111111111111,
+      "key": "2cd7ee94a034"
+    },
+    {
+      "text": "Flock Has a Powerful New AI Tool for Police. We Got Its Code. Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.016111111111111,
+      "key": "b36529a6a813"
+    },
+    {
+      "text": "Ulta Promo Codes: Up to 20% Off in August 2026. Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.016111111111112,
+      "key": "caa6c4c8c10c"
+    },
+    {
+      "text": "Uber Eats Promo Codes: $15 Off│August 2026. Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+      "url": "https://www.wired.com/story/uber-eats-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.016111111111112,
+      "key": "828b0d90e2c9"
+    },
+    {
+      "text": "Hotels.com Coupon Codes for August 2026. Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.016111111111112,
+      "key": "346126f0122d"
+    },
+    {
+      "text": "Wayfair Coupons: Up to 80% Off August 2026. Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.016111111111112,
+      "key": "e5c83438a968"
+    },
+    {
+      "text": "50% Off DoorDash Promo Code | August 2026. Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.016111111111112,
+      "key": "a70446f6fa4d"
+    },
+    {
+      "text": "Aussie tennis star Nick Kyrgios hit with suspension after testing positive for cocaine at ATP event. Nick Kyrgios revealed his provisional suspension after testing positive for cocaine at the Mallorca Open, citing his injuries and mental toll.",
+      "url": "https://www.foxnews.com/outkick-sports/aussie-tennis-star-nick-kyrgios-suspension-testing-positive-cocaine-atp-event",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.16583333333333333,
+      "key": "eceb9ea52c70"
+    },
+    {
+      "text": "Turkey accuses Netanyahu of pursuing ‘expansionist’ policies after Israeli strike on Syrian airbase. Turkey accused Benjamin Netanyahu of pursuing expansionist policies with recent Israeli airstrikes on Syria&apos;s Abu al-Duhur airbase near Aleppo.",
+      "url": "https://www.foxnews.com/politics/turkey-accuses-netanyahu-pursuing-expansionist-policies-israeli-strike-syrian-airbase",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.4538888888888889,
+      "key": "7a952a2fce48"
+    },
+    {
+      "text": "Mystery voicemail scam can hit without your phone ever ringing. Silent voicemails from rotating numbers flood one man&apos;s phone every 20 minutes, raising questions about ringless voicemail spam and callback scams.",
+      "url": "https://www.foxnews.com/science/mystery-voicemail-scam-can-hit-without-your-phone-ever-ringing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5091666666666667,
+      "key": "51e92d01a3da"
+    },
+    {
+      "text": "Louisiana football phenom Peyton Houston credits faith, family for his remarkable success. Peyton Houston, the four-star LSU recruit and Evangel Christian Academy quarterback, reveals how faith and family fuel his 4.0 GPA and dominance.",
+      "url": "https://www.foxnews.com/media/louisiana-football-phenom-peyton-houston-credits-faith-family-remarkable-success",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.5819444444444445,
+      "key": "f3d92d09a52e"
+    },
+    {
+      "text": "Hayden Panettiere’s ex Brian Hickerson reportedly handed police bag of medication after her death. Brian Hickerson called 911 after finding Hayden Panettiere unresponsive at a Greenville, South Carolina, apartment, according to a police report.",
+      "url": "https://www.foxnews.com/entertainment/hayden-panettiere-ex-brian-hickerson-reportedly-handed-police-bag-medication-after-her-death",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.7627777777777778,
+      "key": "b0eba51faf46"
+    },
+    {
+      "text": "Massive brawl erupts at Wisconsin State Fair as seven arrested during chaotic closing hours. Viral video shows massive brawls erupting during the Wisconsin State Fair&apos;s closing hours as seven people were arrested and an officer was struck.",
+      "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8036111111111112,
+      "key": "a919c798ab0a"
+    },
+    {
+      "text": "PGA TOUR 2026: BMW Championship best bets at Bellerive Country Club for the FedExCup Playoffs. Scottie Scheffler enters the BMW Championship at Bellerive Country Club as a heavy betting favorite after winning the St. Jude by eight strokes.",
+      "url": "https://www.foxnews.com/outkick-sports/pga-tour-2026-bmw-championship-best-bets-bellerive-country-club-fedexcup-playoffs",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9802777777777778,
+      "key": "90ccc9eddc10"
+    },
+    {
+      "text": "Ancient shipwreck gives up dazzling treasures after more than 1,300 years underwater. Gold coins, jeweled buckles and a signet ring from a shipwreck near Croatia&apos;s Mljet island suggest a powerful Byzantine Empire figure was aboard.",
+      "url": "https://www.foxnews.com/travel/ancient-shipwreck-gives-up-dazzling-treasures-after-1300-years-underwater",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9897222222222222,
+      "key": "d4664da7b6b2"
+    },
+    {
+      "text": "Does pot make you a better parent? This 'garden mom' says yes, but the reality is hazy. Taylor Mitchem shares her daily cannabis routine as a mom while a cardiovascular surgeon warns smoking weed raises heart disease and arrhythmia risks.",
+      "url": "https://www.foxnews.com/media/pot-make-better-parent-garden-mom-says-yes-reality-hazy",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9902777777777778,
+      "key": "ca5b210ec37f"
+    },
+    {
+      "text": "Far-left socialist wins massive Florida upset: Key takeaways from Tuesday's primaries and more top headlines",
+      "url": "https://www.foxnews.com/us/far-left-socialist-wins-massive-florida-upset-key-takeaways-tuesday-primaries-more-top-headlines",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1727777777777777,
+      "key": "28c2c4cbfa10"
+    },
+    {
+      "text": "AEW's Willow Nightingale opens up about winning title, All In expectations ahead of Mercedes Moné match. Willow Nightingale reveals her mental game plan for defending the AEW Women&apos;s World Championship against Mercedes Moné at All In at Wembley Stadium.",
+      "url": "https://www.foxnews.com/outkick-sports/aew-willow-nightingale-opens-winning-title-all-in-expectations-ahead-mercedes-mone-match",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.2661111111111112,
+      "key": "bb0c2f636f71"
+    },
+    {
+      "text": "Exclusive: Sam Burns wants LIV Golf stars Jon Rahm, Bryson DeChambeau back on the PGA Tour. Sam Burns tells OutKick he&apos;d welcome Jon Rahm and Bryson DeChambeau back on the PGA Tour as LIV Golf faces an uncertain future beyond 2026.",
+      "url": "https://www.foxnews.com/outkick-sports/exclusive-sam-burns-wants-liv-golf-stars-jon-rahm-bryson-dechambeau-back-pga-tour",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4741666666666666,
+      "key": "ab0a8073883e"
+    },
+    {
+      "text": "Former CDC advisor says decline in kindergarten vaccinations nothing to worry about: 'Keep calm and carry on'. Robert Malone says the 0.1% decline in kindergarten vaccination rates is not alarming, arguing CDC data still shows very high compliance levels.",
+      "url": "https://www.foxnews.com/us/former-cdc-advisor-says-decline-kindergarten-vaccinations-nothing-worry-about-keep-calm-carry-on",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.6594444444444445,
+      "key": "372757be8690"
+    },
+    {
+      "text": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'. Marco Rubio called the International Criminal Court &quot;corrupt&quot; as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+      "url": "https://www.foxnews.com/us/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.7402777777777778,
+      "key": "6654adfcf03b"
+    },
+    {
+      "text": "Robot performs 26 cataract surgeries with surgeon control. ForSight Robotics says its JASPER platform completed 26 fully robotic-assisted cataract surgeries without ever converting to manual operation.",
+      "url": "https://www.foxnews.com/science/robot-performs-26-cataract-surgeries-surgeon-control",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.76,
+      "key": "b89e10c334cc"
+    },
+    {
+      "text": "Israel strikes an air base in Syria to prevent Turkish troops from deploying. Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providing assistance to Syria's military.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.4011111111111111,
+      "key": "3d0eb7c40d8c"
+    },
+    {
+      "text": "Liberia agrees to take 1,200 third-country deportees from the U.S.. The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.3033333333333332,
+      "key": "72e35a7b7a88"
+    },
+    {
+      "text": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports. President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.348611111111111,
+      "key": "f8a42bc23761"
+    },
+    {
+      "text": "Key results from Florida primaries, so far. Voters in Florida are picking their party's candidates for governor, Senate and a number of U.S. House seats after redistricting.",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.24611111111111,
+      "key": "cb7b15d2b25a"
+    },
+    {
+      "text": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat. Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office.",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.195833333333333,
+      "key": "f8567b01cd5a"
+    },
+    {
+      "text": "ABC and Disney sue FCC, alleging First Amendment violations. The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show The View.",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.41,
+      "key": "1980b65eefc3"
+    },
+    {
+      "text": "'Profits won.' The child safety trial against Meta kicks off in federal court. Opening arguments are underway in a trial that pits four states against the company that owns Facebook and Instagram. They allege that Meta knew its products could hook kids — and lied about the danger.",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 14.609444444444444,
+      "key": "6cb17f96a09b"
+    },
+    {
+      "text": "S. Korea stresses US alliance amid confusion over Trump drill cut. Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 16.939722222222223,
+      "key": "015e14acc7a3"
+    },
+    {
+      "text": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries. The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 20.59111111111111,
+      "key": "96dc8761c157"
+    },
+    {
+      "text": "The grueling fight over who profits from AI music. AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 21.7675,
+      "key": "e7a30af5eda6"
+    }
+  ],
+  "contexts": {}
+}

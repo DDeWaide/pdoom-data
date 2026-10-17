@@ -1,0 +1,637 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-10-17T12:51:25.594209+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": "20260907160658",
+    "Al Jazeera": "20260907093740",
+    "MIT Technology Review": "20260907043505",
+    "Ars Technica": "20260907093151",
+    "The Verge AI": null,
+    "Wired": "20260907093034",
+    "CNN Top Stories": "20260907093343",
+    "Fox News Latest": "20260907093727",
+    "NPR News": "20260907094719",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "As Nepal identifies those killed in the floods, questions grow over China's reporting. One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 2.595,
+      "key": "a95ea5a8d696"
+    },
+    {
+      "text": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election. A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 4.918611111111111,
+      "key": "4154135a542f"
+    },
+    {
+      "text": "Kushner and Witkoff visit Ukraine with hopes of restarting peace talks with Russia. For the first time, Trump's top envoys take their peace push to Kyiv — after talks with Putin in Moscow.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 5.3875,
+      "key": "b896b701a8a9"
+    },
+    {
+      "text": "Former U.S. ambassador to Ukraine on efforts to strike a compromise with Russia. NPR's Leila Fadel asks William Taylor, former U.S. ambassador to Ukraine, about efforts made by U.S. emissaries toward a compromise between Russia and Ukraine.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5959696/former-u-s-ambassador-to-ukraine-on-efforts-to-strike-a-compromise-with-russia",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 5.408888888888889,
+      "key": "20b509c28dff"
+    },
+    {
+      "text": "Rubio to visit 3 Latin American countries this week. Secretary of State Marco Rubio heads to Colombia, Peru and Ecuador as President Trump hails a shift to the right in regional politics and a new era of U.S. dominance.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 7.391666666666667,
+      "key": "32da16ce1653"
+    },
+    {
+      "text": "U.S. envoys visit Kyiv for first time after meeting Putin in Moscow. US envoys Jared Kushner and Steve Witkoff made their first trip to Kyiv, one day after meeting Vladimir Putin in Moscow.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959728/u-s-envoys-visit-kyiv-for-first-time-after-meeting-putin-in-moscow",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 19.0025,
+      "key": "481085bb6f61"
+    },
+    {
+      "text": "Shipping companies are putting sails back on cargo ships. One of the world's largest logistics companies plans to fit one of its ships with a strange type of sail, the latest in a small but growing number of cleaner sailing shipping vessels.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955419/shipping-companies-are-putting-sails-back-on-cargo-ships",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 19.003333333333334,
+      "key": "a1534136ec80"
+    },
+    {
+      "text": "What Russia and China learned from America after 9/11. Journalists Mikhail Zygar and Cindy Yu explain how the wars in Iraq and Afghanistan helped reshape Russia and China's ambitions.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5938065/what-russia-and-china-learned-from-america-after-9-11",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 19.004722222222224,
+      "key": "2cceb853cf1f"
+    },
+    {
+      "text": "Germany's far-right achieves an electoral breakthrough in key state election. Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 23.502777777777776,
+      "key": "6682a659dcb0"
+    },
+    {
+      "text": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting. U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "source": "NPR World",
+      "weight": 0.9,
+      "age_hours": 30.265,
+      "key": "7312ef2d609f"
+    },
+    {
+      "text": "Fire breaks out at Chile ski resort. A fire broke out at a ski resort in Chile’s mountainous Nuble region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/fire-breaks-out-at-chile-ski-resort?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.17166666666666666,
+      "key": "8b29712d24f3"
+    },
+    {
+      "text": "Nepal holds day of mourning for more than 1,300 killed in floods. Nepal flags fly at half-mast to mark a day of mourning after catastrophic Himalayan floods kill more than 1,300.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.39194444444444443,
+      "key": "8d76e63d64e5"
+    },
+    {
+      "text": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too. Arsenal&#039;s strong defence and reliable attack edge Chelsea&#039;s bravery and intent in the Premier League&#039;s biggest clash.",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7847222222222222,
+      "key": "d60d9d53045d"
+    },
+    {
+      "text": "Israeli man wounded in stabbing in occupied West Bank. This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.103888888888889,
+      "key": "4dc47b199e86"
+    },
+    {
+      "text": "India teams search for survivors after Delhi building collapse kills six. Rescue teams work to locate survivors after New Delhi building collapse.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5555555555555554,
+      "key": "03187ada825b"
+    },
+    {
+      "text": "Israeli air attacks kill at least 11 people in southern Lebanon. Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6533333333333333,
+      "key": "6d6b4aecde99"
+    },
+    {
+      "text": "Six children among 11 people killed in Indonesian market fire. A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.002222222222223,
+      "key": "46634415e099"
+    },
+    {
+      "text": "Ten killed and dozens injured in Mexico fireworks blast. Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.6802777777777775,
+      "key": "103532daaedb"
+    },
+    {
+      "text": "Anti-immigration protesters clash with police in UK after boat arrival. Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.701666666666667,
+      "key": "54de44f5344b"
+    },
+    {
+      "text": "Armed assailant attacks Ohio Democratic candidate during campaign stop. Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/armed-assailant-attacks-ohio-democratic-candidate-during-campaign-stop?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.733055555555556,
+      "key": "2fa918492bb6"
+    },
+    {
+      "text": "Philippines warns China may reassert itself amid US-South Korea drill cuts. Manila defence chief says Washington gave &#039;definite assurances&#039; that its commitments to the Philippines remain.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.633611111111111,
+      "key": "9b21b1054781"
+    },
+    {
+      "text": "Iran to announce restricted zone outside Strait of Hormuz. Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.928888888888889,
+      "key": "5dba5c71c6a7"
+    },
+    {
+      "text": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms. Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
+      "url": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.040555555555556,
+      "key": "d439501980bb"
+    },
+    {
+      "text": "Eight-year-old Gaza girl killed by Israel on first day of school. An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.339722222222222,
+      "key": "573d2099abbf"
+    },
+    {
+      "text": "Adidas faces boycott over amputee campaign featuring Israeli soldier. Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 7.418055555555555,
+      "key": "d58e5b0ff855"
+    },
+    {
+      "text": "German company becomes first in Europe to launch fully commercial orbital rocket. \"We achieved within a few years what had taken the European space industry decades before.\"",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 21.606944444444444,
+      "key": "c8bde1ba28b0"
+    },
+    {
+      "text": "Farmed salmon may not be as nutritious as it once was, new research suggests. The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 23.52111111111111,
+      "key": "30ad68ebea0b"
+    },
+    {
+      "text": "Tesla’s Cybercab has been deployed, and it’s already under investigation. The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 42.2375,
+      "key": "4e3eec4a86d1"
+    },
+    {
+      "text": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury. \"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 58.70944444444444,
+      "key": "cb1d179c9c4f"
+    },
+    {
+      "text": "OpenAI agents discussed ways to escape their sandbox on public wiki. In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 59.2375,
+      "key": "f6d8e22e0fc7"
+    },
+    {
+      "text": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths. \"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 61.15277777777778,
+      "key": "a7739557e868"
+    },
+    {
+      "text": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC. FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 61.75472222222222,
+      "key": "c61ca046d533"
+    },
+    {
+      "text": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus. Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 62.51361111111111,
+      "key": "a34d7b2dd167"
+    },
+    {
+      "text": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs. Broadcom admits it put “too big a focus on VCF.”",
+      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 63.94694444444445,
+      "key": "2f4c7d011b83"
+    },
+    {
+      "text": "Once popular for attacking AI, ASCII smuggling is embraced by spammers. A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 64.2275,
+      "key": "fd68670e870d"
+    },
+    {
+      "text": "Pentagon rescinds new testosterone screening policy without explanation. The Pentagon says the guidance is being updated after being online for one day.",
+      "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 64.57416666666667,
+      "key": "f80ca8de7751"
+    },
+    {
+      "text": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.. \"I think we can't get in trouble for that now. It's like 20 years ago.\"",
+      "url": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 64.81611111111111,
+      "key": "7a40ec26da29"
+    },
+    {
+      "text": "Second complete map of a fruit fly brain completed. Every neuron and connection in the brain of a fly has been mapped—twice.",
+      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 65.12416666666667,
+      "key": "f82405826d92"
+    },
+    {
+      "text": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight. Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 65.15916666666666,
+      "key": "3a58eae0e372"
+    },
+    {
+      "text": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo. Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 65.53444444444445,
+      "key": "4693c923c56a"
+    },
+    {
+      "text": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?. The science curriculum the industry is offering to schools casts plastics as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.",
+      "url": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.5094444444444445,
+      "key": "1eb4d8cc56b2"
+    },
+    {
+      "text": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026). The wrong bag can aggravate you every single day. These WIRED-tested picks get comfort, capacity, and organization just right.",
+      "url": "https://www.wired.com/story/best-laptop-backpacks/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.009444444444444,
+      "key": "a18a8398b238"
+    },
+    {
+      "text": "Create Custom Windows 11 Notifications to Remind Yourself of Anything. Take full control of your desktop alerts by sending yourself recurring reminders and custom notifications triggered by specific events.",
+      "url": "https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.509444444444444,
+      "key": "efba63cfe86d"
+    },
+    {
+      "text": "These Cyborg Cockroaches Could Save Your Life. The team embedded electrodes into live cockroaches, then outfitted them with cameras and injection devices to deliver medication via remote control.",
+      "url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.009444444444444,
+      "key": "eb76f458e554"
+    },
+    {
+      "text": "My Brief Summer Fling With Siri AI. I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.009444444444444,
+      "key": "36fd88379ea7"
+    },
+    {
+      "text": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link. Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "url": "https://www.wired.com/gallery/best-water-leak-detector/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.359444444444446,
+      "key": "44c4625e5ee8"
+    },
+    {
+      "text": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit. Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.509444444444444,
+      "key": "29ef495b520a"
+    },
+    {
+      "text": "The Best Gaming Chairs (2026): Are They Worth It?. The best gaming chair is actually an office chair. Here are our top picks from our real-life testing so far.",
+      "url": "https://www.wired.com/gallery/best-gaming-chairs/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.759444444444444,
+      "key": "23c1fd897d86"
+    },
+    {
+      "text": "4 Best Alexa Speakers I’ve Tested (2026). I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
+      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 46.492777777777775,
+      "key": "0bfc32cea1a8"
+    },
+    {
+      "text": "There May Not Be an iPhone 18 This Year. Apple is expected to announce several products at its September event next week—including a folding phone—but the iPhone 18 might not be among them. It would be a first for the company.",
+      "url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 47.00944444444445,
+      "key": "c6a5851c9a35"
+    },
+    {
+      "text": "OpenAI Agents Hacked Another Website. Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 47.00944444444445,
+      "key": "dbefe1aaae1c"
+    },
+    {
+      "text": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears. The research could do more than help unlock the mystery of caterpillar hearing. It could also help make microphones better.",
+      "url": "https://www.wired.com/story/how-do-caterpillars-hear-without-ears/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 47.50944444444445,
+      "key": "334e47e6710d"
+    },
+    {
+      "text": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See. The main action took place at Geneva Watch Days, but others dialed in remotely to make sure it wasn't just a Swiss party.",
+      "url": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 47.75944444444445,
+      "key": "6873620f3802"
+    },
+    {
+      "text": "Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’. The studio released an official catch-up list ahead of December’s release. We have easy links to watch every one of the movies so you can get up to speed.",
+      "url": "https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 48.50944444444445,
+      "key": "98f9beb3fbfa"
+    },
+    {
+      "text": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools. The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
+      "url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 62.60166666666667,
+      "key": "8a386f354c68"
+    },
+    {
+      "text": "It’s Labor Day, not Union Day. American workers deserve freedom of choice. Union bosses exploit Labor Day to push coercive policies like the PRO Act, which would repeal right-to-work laws and force compulsory union dues.",
+      "url": "https://www.foxnews.com/opinion/labor-day-not-union-day-american-workers-deserve-freedom-choice",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6091666666666666,
+      "key": "e935f393671d"
+    },
+    {
+      "text": "America’s massive labor crisis started in the classroom, not the workplace. America has 7 million unfilled jobs, but the workforce crisis didn&apos;t start at work. It started in classrooms that stopped teaching character.",
+      "url": "https://www.foxnews.com/opinion/americas-massive-labor-crisis-started-classroom-not-workplace",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6097222222222223,
+      "key": "6c03ce0be352"
+    },
+    {
+      "text": "DR BEN CARSON: The woke machine is lying in wait for a political comeback. Corporate America&apos;s woke machinery hasn&apos;t been dismantled — it&apos;s merely pausing, and the midterm elections may determine whether Woke 2.0 returns.",
+      "url": "https://www.foxnews.com/opinion/dr-ben-carson-lose-midterm-elections-suffer-woke-2-0",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6188888888888889,
+      "key": "89665f76d0ba"
+    },
+    {
+      "text": "Former USCIS official, accomplice charged in alleged $960K citizenship bribery scheme. A former USCIS official and his accomplice allegedly accepted nearly $960,000 in bribes to fast-track citizenship applications, skipping key checks.",
+      "url": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.080277777777778,
+      "key": "0c007b91b91e"
+    },
+    {
+      "text": "US restricts government travel to Mexican border city over threat concerns. The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
+      "url": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.056666666666667,
+      "key": "0a661450b629"
+    },
+    {
+      "text": "Barbara Eden, 95, says she’s ‘okay’ after last-minute cancelation of festival appearance. Barbara Eden reassured fans after a &quot;sudden illness&quot; forced her to miss the Cinecon Classic Film Festival, revealing a new medication&apos;s side effects.",
+      "url": "https://www.foxnews.com/entertainment/barbara-eden-95-says-shes-okay-after-last-minute-cancelation-festival-appearance",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.800833333333333,
+      "key": "cb91fa2143c4"
+    },
+    {
+      "text": "Time is now, Clemson Tigers and Dabo Swinney need to call it quits after historic run. Dabo Swinney&apos;s Clemson Tigers suffered a humiliating 51-10 loss to LSU, raising fresh questions about whether the program needs a coaching change.",
+      "url": "https://www.foxnews.com/outkick-sports/time-now-clemson-tigers-dabo-swinney-need-call-quits-historic-run",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.935833333333333,
+      "key": "0382ff7dbb34"
+    },
+    {
+      "text": "Bronson Reed returns to the ring leaner and meaner and looking like the future of WWE. Bronson Reed made a shocking return at Sunday Night&apos;s Main Event, unleashing a brutal chair assault on Oba Femi during his match with Bron Breakker.",
+      "url": "https://www.foxnews.com/outkick-sports/bronson-reed-returns-ring-leaner-meaner-looking-future-wwe",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.0969444444444445,
+      "key": "1cd9a22c5e1f"
+    },
+    {
+      "text": "Michael Rapaport slams 'clown' Macklemore for anti-Israel performance. Michael Rapaport called Macklemore a &quot;clown&quot; after the rapper chanted &quot;Free Palestine&quot; and performed &quot;Hind&apos;s Hall&quot; at Ed Sheeran&apos;s MetLife shows.",
+      "url": "https://www.foxnews.com/entertainment/michael-rapaport-slams-clown-macklemore-anti-israel-performance",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.139166666666667,
+      "key": "9d453ae950ea"
+    },
+    {
+      "text": "Trick Williams wins US title after Lil Yachty survives Baron Corbin at WWE Sunday Night's Main Event. Lil Yachty survived five minutes with Baron Corbin to earn Trick Williams his rematch, then played a pivotal role in the chaotic title fight.",
+      "url": "https://www.foxnews.com/outkick-sports/trick-williams-wins-us-title-lil-yachty-survives-baron-corbin-wwe-sunday-nights-main-event",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.2427777777777775,
+      "key": "b3a62342e83b"
+    },
+    {
+      "text": "Dramatic video captures floodwaters bursting through glass doors of college students’ home. Dramatic video shows several feet of floodwater building up outside the glass doors before one panel suddenly gives way and sends water rushing into the student home.",
+      "url": "https://www.foxnews.com/us/dramatic-video-captures-floodwaters-bursting-through-glass-doors-college-students-home",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.8886111111111115,
+      "key": "ea4a958d9a8e"
+    },
+    {
+      "text": "Germany’s far-right party AfD surges to historic victory in state election. German Chancellor Friedrich Merz&apos;s party faces a disastrous blow as AfD aims for Germany&apos;s first far-right state government since World War II.",
+      "url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.010555555555555,
+      "key": "717afcdfa8d4"
+    },
+    {
+      "text": "Rome ramps up security around Colosseum with new ‘red zone’ targeting criminals. Rome&apos;s new red zone around the Colosseum targets predatory crime and disorder after a violent July 1 confrontation involving roughly 50 people.",
+      "url": "https://www.foxnews.com/world/rome-ramps-security-colosseum-red-zone-targeting-criminals",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.298333333333334,
+      "key": "0d44d8c9d312"
+    },
+    {
+      "text": "MLB tells umpire Doug Eddings he made a mistake in demanding Cardinals pitcher straighten his hat. Umpire Doug Eddings told rookie pitcher Hancel Rincon to fix his tilted hat during his MLB debut, sparking an ejection and a reportedly rebuke from the league.",
+      "url": "https://www.foxnews.com/outkick-sports/mlb-tells-umpire-doug-eddings-he-made-mistake-demanding-cardinals-pitcher-straighten-hat",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.36,
+      "key": "7d9b280fe762"
+    },
+    {
+      "text": "Socialism 2026 speaker slams diet industry for policing 'Black fat flesh,' calls it 'body fascism'. A Socialism 2026 speaker argued that policing &quot;Black fat flesh&quot; anchors entire systems of governance, calling modern health standards body fascism.",
+      "url": "https://www.foxnews.com/media/socialism-2026-speaker-slams-diet-industry-policing-black-fat-flesh-calls-body-fascism",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.62,
+      "key": "59d1beb6dc9c"
+    },
+    {
+      "text": "The first day of school: Bells, bikes, buses and big feelings. Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7886111111111112,
+      "key": "bf03e6c984d3"
+    },
+    {
+      "text": "'Her body temperature was 106': How heat is killing Americans in their homes. Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7886111111111112,
+      "key": "e4b0552f9793"
+    },
+    {
+      "text": "The copper peptide trend has gone from creams to injections — ahead of the science. The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what's the evidence behind GHK-Cu?",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7886111111111112,
+      "key": "2d7300df7079"
+    },
+    {
+      "text": "Morning news brief. Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.0547222222222221,
+      "key": "70f008171c3b"
+    },
+    {
+      "text": "Five dead after Amazon cargo plane crashes at Miami airport. Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.880833333333333,
+      "key": "5875a2ba7fac"
+    },
+    {
+      "text": "American Muslims are giving Texas barbecue a halal makeover. Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 23.788611111111113,
+      "key": "f299dd5529e3"
+    }
+  ],
+  "contexts": {}
+}

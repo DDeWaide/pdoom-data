@@ -1,0 +1,269 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-10-17T12:35:59.860167+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 4,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260802042902",
+    "MIT Technology Review": "20260802052900",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260802031157",
+    "Fox News Latest": "20260802050230",
+    "NPR News": null,
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "How Virunga Park protects people and gorillas from Ebola in eastern DRC. Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7097222222222223,
+      "key": "754f9fd36fe6"
+    },
+    {
+      "text": "Trump cancels Iran strike, says ‘deal perimeters’ reached. The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8719444444444444,
+      "key": "3630b9578c30"
+    },
+    {
+      "text": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan. Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5030555555555556,
+      "key": "6022802adee8"
+    },
+    {
+      "text": "Is criticism of Spain on border management legitimate or politics?. Tens of thousands of migrants briefly cross into Spain&#039;s north African territory of Ceuta from Morocco.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.5586111111111112,
+      "key": "31562c442542"
+    },
+    {
+      "text": "US embassies issue alerts after Trump vows to hit Iran ‘hard’. US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0808333333333335,
+      "key": "c659656fdd4c"
+    },
+    {
+      "text": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines. Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7111111111111112,
+      "key": "40a32f2c1abd"
+    },
+    {
+      "text": "Gunman kills two in Idaho fast-food restaurant shooting. Deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0383333333333336,
+      "key": "7c39d288908c"
+    },
+    {
+      "text": "Hungary plans to shut down only nuclear power plant amid drought. Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
+      "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.660277777777778,
+      "key": "afacce3a673b"
+    },
+    {
+      "text": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed. Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.483888888888889,
+      "key": "68a7da8767cc"
+    },
+    {
+      "text": "Singapore bans UK band Massive Attack over Palestinian flag. Singapore barred two members of British band Massive Attack from re-entering the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.525555555555556,
+      "key": "6f3ffdf302ef"
+    },
+    {
+      "text": "New York Times reveals Trump administration subpoena over North Korea story. The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.7716666666666665,
+      "key": "9e71a6e652ad"
+    },
+    {
+      "text": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?. Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.222777777777778,
+      "key": "2533dade013c"
+    },
+    {
+      "text": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating. No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.907222222222222,
+      "key": "1318530ea3ad"
+    },
+    {
+      "text": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks. Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.9527777777777775,
+      "key": "3552b67d324c"
+    },
+    {
+      "text": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?. What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
+      "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.776666666666666,
+      "key": "479e9ce9d376"
+    },
+    {
+      "text": "Fox News Campus Radicals Newsletter: Parents left in the dark, Trump starving socialist breeding grounds. Stay up to date with the Fox News Campus Radicals newsletter.",
+      "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.49444444444444446,
+      "key": "45868bc44838"
+    },
+    {
+      "text": "Texas man allegedly bought 77 head of cattle with bad checks totaling over $159K: sheriff. A 25-year-old man from Barry, Texas, allegedly used bad checks to purchase 77 head of cattle worth over $159,000 from Buffalo Livestock Marketing.",
+      "url": "https://www.foxnews.com/us/texas-man-allegedly-bought-77-head-cattle-bad-checks-totaling-over-159k-sheriff",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.153888888888889,
+      "key": "ec03d23f2b6f"
+    },
+    {
+      "text": "Chiefs rookie standout Cyrus Allen exits practice after scary collision with teammate Kaiir Elam. Tests revealed a shin bruise for Cyrus Allen after the Chiefs rookie collided with Kaiir Elam during a special teams drill at training camp.",
+      "url": "https://www.foxnews.com/sports/chiefs-rookie-standout-cyrus-allen-exits-practice-after-scary-collision-teammate-kaiir-elam",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.593888888888889,
+      "key": "ca39ff6bd19a"
+    },
+    {
+      "text": "Oba Femi shows the future of WWE is here as he takes down Brock Lesnar in Hell in a Cell match at SummerSlam. Brock Lesnar delivered a tombstone piledriver and multiple F5s inside Hell in a Cell, but Oba Femi&apos;s Fall from Grace sealed a stunning outcome.",
+      "url": "https://www.foxnews.com/sports/oba-femi-shows-future-wwe-takes-down-brock-lesnar-hell-cell-match-summerslam",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.1841666666666666,
+      "key": "d6f825dc3703"
+    },
+    {
+      "text": "The Bellas' alliance with Paige crumbles after stunning SummerSlam loss to Fatal Influence. Nikki Bella turned on Paige with a vicious clothesline after Fatal Influence&apos;s SummerSlam victory, leaving her former partner stunned in the ring.",
+      "url": "https://www.foxnews.com/sports/bellas-alliance-paige-crumbles-stunning-summerslam-loss-fatal-influence",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.3072222222222223,
+      "key": "68b9b4014707"
+    },
+    {
+      "text": "Randy Orton puts his fangs into Cody Rhodes, costs him WWE title against CM Punk at SummerSlam. Randy Orton&apos;s shocking RKO out of nowhere cost Cody Rhodes the Undisputed WWE Championship as CM Punk capitalized with a Go to Sleep at SummerSlam.",
+      "url": "https://www.foxnews.com/sports/randy-orton-puts-fangs-cody-rhodes-costs-wwe-title-cm-punk-summerslam",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.7330555555555556,
+      "key": "663dcfe2b8c4"
+    },
+    {
+      "text": "'Sopranos' star sings national anthem at Mets game on same day that fellow castmember dies. Jamie-Lynn Sigler sang the National Anthem at a New York Mets game on the same day Vincent Pastore&apos;s death was announced, stunning fans of the show.",
+      "url": "https://www.foxnews.com/outkick-sports/sopranos-star-sings-national-anthem-mets-game-castmember-dies",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8672222222222223,
+      "key": "f0a05d638ada"
+    },
+    {
+      "text": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan. Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.",
+      "url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.0516666666666667,
+      "key": "282ddd2fdb9d"
+    },
+    {
+      "text": "Liv Morgan proves herself as top women's star in WWE as she retains title at SummerSlam over Iyo Sky. Liv Morgan retained the Women&apos;s World Championship at SummerSlam after a brutal sequence of Oblivion finishers put Iyo Sky down for the count.",
+      "url": "https://www.foxnews.com/sports/liv-morgan-proves-herself-top-womens-star-wwe-retains-title-summerslam-iyo-sky",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.6966666666666668,
+      "key": "c90ffe5bf535"
+    },
+    {
+      "text": "Stephanie White, let me 'educate' you on the science of why men don't belong in women's sports. Stephanie White said she wasn&apos;t educated enough on the science of males in women&apos;s sports. Here&apos;s what biology and sports science say about fairness.",
+      "url": "https://www.foxnews.com/outkick-analysis/stephanie-white-educate-science-why-men-dont-belong-womens-sports",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.7830555555555554,
+      "key": "7f496f91e430"
+    },
+    {
+      "text": "Democratic socialist headed for $142K legislature salary begs for rent handout, deletes post after backlash. Brian Romero&apos;s GoFundMe seeking $2,000 for rent and groceries raised eyebrows given his expected $142,000 annual Assembly salary once sworn in.",
+      "url": "https://www.foxnews.com/politics/democratic-socialist-headed-142k-legislature-salary-begs-rent-handout-deletes-post-backlash",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.216944444444445,
+      "key": "5708c5a444ba"
+    },
+    {
+      "text": "Social media was not loving Caitlin Clark getting snubbed by TV network's MVP graphic. Ion&apos;s WNBA MVP race graphic left out Caitlin Clark, and social media fans had very strong reactions to the conspicuous omission of the No. 22 star.",
+      "url": "https://www.foxnews.com/outkick-sports/social-media-not-loving-caitlin-clark-snubbed-tv-networks-mvp-graphic",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.285277777777778,
+      "key": "0fcee8378517"
+    },
+    {
+      "text": "Multiple people killed in shooting at Idaho In-N-Out restaurant, suspect dead. A gunman opened fire at an In-N-Out Burger in Twin Falls, Idaho, leaving multiple fatalities before the suspected shooter was found deceased nearby.",
+      "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.437777777777778,
+      "key": "7ea159d1bdf5"
+    },
+    {
+      "text": "Alexander Rossi reacts to his first laps in the next generation of IndyCar. Alexander Rossi called IndyCar&apos;s IR-28 shakedown at Indianapolis Motor Speedway smooth as &quot;Christmas morning,&quot; but weather limited full testing.",
+      "url": "https://www.foxnews.com/outkick-sports/alexander-rossi-reacts-first-laps-next-generation-indycar",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.115555555555556,
+      "key": "09ec8386bc71"
+    },
+    {
+      "text": "Nicole 'Snooki' Polizzi undergoes major surgery six months after her cervical cancer diagnosis. Snooki&apos;s emotional video documents her hysterectomy after cervical cancer, revealing which organs doctors removed to ensure they got everything.",
+      "url": "https://www.foxnews.com/entertainment/nicole-snooki-polizzi-undergoes-major-surgery-six-months-cervical-cancer-diagnosis",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.504166666666666,
+      "key": "7b4463dcaa10"
+    }
+  ],
+  "contexts": {}
+}

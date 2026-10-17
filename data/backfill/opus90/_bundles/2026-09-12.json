@@ -1,0 +1,717 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-10-17T12:53:40.646056+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260912225754",
+    "NPR World": null,
+    "Al Jazeera": "20260912111241",
+    "MIT Technology Review": "20260912071848",
+    "Ars Technica": "20260912132115",
+    "The Verge AI": null,
+    "Wired": "20260912144007",
+    "CNN Top Stories": "20260912034114",
+    "Fox News Latest": "20260912091616",
+    "NPR News": "20260912130733",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Anthropic boss Dario Amodei calls for AI development to slow down. The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.6852777777777779,
+      "key": "a071324ed6df"
+    },
+    {
+      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq. Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.70111111111111,
+      "key": "79313a5c8fa0"
+    },
+    {
+      "text": "Trump's comments on a united Ireland may have targeted audience across the Atlantic. Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.5405555555555555,
+      "key": "f05f4ed08723"
+    },
+    {
+      "text": "Fire at nursing home in Chile kills 16 residents. Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.351111111111111,
+      "key": "56be4dec15b6"
+    },
+    {
+      "text": "French officials investigate if malicious act caused train derailment. Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.866944444444444,
+      "key": "f02691119321"
+    },
+    {
+      "text": "Uganda's King Oyo buried amid calls for unity over his successor. A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.039722222222222,
+      "key": "09cc5d1ec6a0"
+    },
+    {
+      "text": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC. A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 17.044166666666666,
+      "key": "0e8ae1d32ef1"
+    },
+    {
+      "text": "Death toll from Philippines ferry fire rises to 76, with more still missing. Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.799722222222222,
+      "key": "699a4db3d82e"
+    },
+    {
+      "text": "Record heatwaves in France set to make champagne stronger. Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.956111111111111,
+      "key": "a028976cf5b5"
+    },
+    {
+      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat. Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.5080555555555555,
+      "key": "5a1005300c1a"
+    },
+    {
+      "text": "Bulgaria investigates fire at weapons  site that owner calls sabotage. Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.325833333333334,
+      "key": "7b512cd420a0"
+    },
+    {
+      "text": "Arrest made over the death of black woman found hanged from tree in Mississippi. Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 20.468055555555555,
+      "key": "4538a9f6b74a"
+    },
+    {
+      "text": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial. The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.893888888888888,
+      "key": "4a5e9c727b2b"
+    },
+    {
+      "text": "Tragic death of woman who testified against father in notorious mafia murder of mother. Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 26.39027777777778,
+      "key": "7f8eac608287"
+    },
+    {
+      "text": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders. The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 12.963611111111112,
+      "key": "b0281cf0f912"
+    },
+    {
+      "text": "Two men receive jail terms for violent burglary of Man City’s Donnarumma. Two men jailed after Italy international Gianluigi Donnarumma and his now wife attacked in Paris home during PSG stint.",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.5919444444444445,
+      "key": "65ed668d2827"
+    },
+    {
+      "text": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means. Baghdad launches investigation, closes border after confirming strike came from Iraqi territory.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6063888888888889,
+      "key": "530b3b2f83e3"
+    },
+    {
+      "text": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season. Kylian Mbappe went trophyless in his first two Real Madrid seasons, but hopes World Cup goals boost Ballon d&#039;Or bid.",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.3116666666666668,
+      "key": "d2271ebf6970"
+    },
+    {
+      "text": "What did US intelligence know before the 9/11 attacks?. The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.6972222222222222,
+      "key": "9ea6f379a4be"
+    },
+    {
+      "text": "Fighting re-erupts in Yemen and civilians are paying the price. More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.698611111111111,
+      "key": "4bee63c4008f"
+    },
+    {
+      "text": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right. The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3944444444444444,
+      "key": "36336f454c12"
+    },
+    {
+      "text": "Guatemalan judge clears deputy minister, three leaders of terrorism charges. Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4227777777777777,
+      "key": "e9464e29936c"
+    },
+    {
+      "text": "Sweden heads to the polls: What’s at stake in the knife-edge election?. Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5036111111111112,
+      "key": "6fe3654da08e"
+    },
+    {
+      "text": "Russia strikes cargo vessels, steel plants across Ukraine. Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.564722222222222,
+      "key": "fba6c1c699c5"
+    },
+    {
+      "text": "Trump may be BRICS’s best recruitment agent. The US president wants to weaken BRICS, but he may end up doing the opposite.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4763888888888888,
+      "key": "edd8f7d3bb60"
+    },
+    {
+      "text": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs. Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India&#039;s capital.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.5308333333333333,
+      "key": "4d960b2f275d"
+    },
+    {
+      "text": "How to plan a wedding when you don’t know what tomorrow will bring. In Gaza, weddings have become acts of defiance. Couples marry in tents and rebuild, choosing love despite suffering.",
+      "url": "https://www.aljazeera.com/features/longform/2026/9/12/how-to-plan-a-wedding-when-you-dont-know-what-tomorrow-will-bring?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.6547222222222224,
+      "key": "d83fc543e947"
+    },
+    {
+      "text": "Man waving Palestinian flag tackled on Yankee Stadium field. A man waving a Palestinian flag ran onto the field at Yankee Stadium during a Yankees-Mets MLB game.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/man-waving-palestinian-flag-tackled-on-yankee-stadium-field?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.9175,
+      "key": "6d16af2e9405"
+    },
+    {
+      "text": "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship. World and Olympic champion Armand &#039;Mondo&#039; Duplantis delivered a faultless display of pole vaulting to seal victory.",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/mondo-duplantis-jakob-ingebrigtsen-world-athletics-ultimate-championship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.917777777777778,
+      "key": "6cd1535e083c"
+    },
+    {
+      "text": "Shelton advances to US Open 2026 men’s final for Zverev showdown. On Sunday, Shelton will bid to become to become the first American man to win a Grand Slam title since 2003.",
+      "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.544722222222222,
+      "key": "0757c2e8796c"
+    },
+    {
+      "text": "Roundtables: AI’s apocalypse crisis. Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporte",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 11.228333333333333,
+      "key": "85e8120d69eb"
+    },
+    {
+      "text": "The Download: biotech’s future and cheaper, cleaner steel. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best youn",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.14666666666667,
+      "key": "cfedbcf5e3dc"
+    },
+    {
+      "text": "I spent $4,000 on a robot dog from China. Unitree might be the world’s most important robotics company.",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 2.3394444444444447,
+      "key": "9f03de6c4ff2"
+    },
+    {
+      "text": "Some satellite companies still have an appetite for boutique launch services. \"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 13.775,
+      "key": "24539fc68107"
+    },
+    {
+      "text": "Random rewards enrich classic game-theory insights. Simple games gain rich strategies in the face of noise.",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.66638888888889,
+      "key": "1cfe6f2c2698"
+    },
+    {
+      "text": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland. The strain lurking in the inflatable structure was hypervirulent.",
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.113611111111112,
+      "key": "14ae2e3204cc"
+    },
+    {
+      "text": "Trump's forced coal plant extensions thrown out by judge. The Department of Energy declared an \"emergency\" when none existed.",
+      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.804444444444446,
+      "key": "28c25b73cf26"
+    },
+    {
+      "text": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses. \"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 17.785,
+      "key": "31f32d8fe44e"
+    },
+    {
+      "text": "Scientists unlock secrets of ancient Egyptian materials with proteomics. Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+      "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.526666666666667,
+      "key": "f175cbc148d1"
+    },
+    {
+      "text": "Oracle tries to appease Stargate data center opponents with renewables push. Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 18.98138888888889,
+      "key": "1b4490c80ed4"
+    },
+    {
+      "text": "NASA moving at warp speed to set up US Space Academy. NASA asks US states to show them the money.",
+      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 21.00888888888889,
+      "key": "416b51f21edb"
+    },
+    {
+      "text": "Claude users found ways around safeguards for bioweapons research. Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 24.31111111111111,
+      "key": "52b51f598725"
+    },
+    {
+      "text": "ClickFix attacks infecting PCs and Macs are going viral. Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 25.838055555555556,
+      "key": "d8d18773b147"
+    },
+    {
+      "text": "What happens when quantum mechanics and relativity meet?. Experiment put atoms in a superposition of trajectories to find out.",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 26.02027777777778,
+      "key": "9ee9416f63df"
+    },
+    {
+      "text": "Could United Launch Alliance's money problems finally force its owners to sell?. ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 26.341944444444444,
+      "key": "2757ca524339"
+    },
+    {
+      "text": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?. \"We felt like now is the time to pour gas on that fire.\"",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 26.345833333333335,
+      "key": "1d47ae6c54f5"
+    },
+    {
+      "text": "10 Best Standing Desks Worth Buying in 2026. Take your home office to new heights with our favorite motorized standing desks.",
+      "url": "https://www.wired.com/gallery/best-standing-desks/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.535277777777778,
+      "key": "205e2063ae23"
+    },
+    {
+      "text": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’. A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold.",
+      "url": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 3.6686111111111113,
+      "key": "c05ea42a18da"
+    },
+    {
+      "text": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models. I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.168611111111111,
+      "key": "33ae8df14a51"
+    },
+    {
+      "text": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere. Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.168611111111111,
+      "key": "26bdcbfab097"
+    },
+    {
+      "text": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.668611111111111,
+      "key": "af91dcd58d17"
+    },
+    {
+      "text": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring. Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+      "url": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.668611111111111,
+      "key": "f30f5043bdbc"
+    },
+    {
+      "text": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules. And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
+      "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.168611111111111,
+      "key": "d8b790e8623d"
+    },
+    {
+      "text": "The 9 Best TV Shows to Stream This Month (September 2026). South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 19.05666666666667,
+      "key": "b05233fef960"
+    },
+    {
+      "text": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades. The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
+      "url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 19.309166666666666,
+      "key": "4df67dad6420"
+    },
+    {
+      "text": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems. The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 19.678333333333335,
+      "key": "83003682f967"
+    },
+    {
+      "text": "Petlibro Offers: 30% Off in September 2026. Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+      "url": "https://www.wired.com/story/petlibro-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 22.338333333333335,
+      "key": "c18891a3f8eb"
+    },
+    {
+      "text": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’. Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 23.66861111111111,
+      "key": "4daa8ff49d3f"
+    },
+    {
+      "text": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass. Braden Sinclair is one of just 50 people in the world who can have unlimited pasta at the chain for life. Now, fans are deciding what he should eat next.",
+      "url": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 27.66861111111111,
+      "key": "d4751164f366"
+    },
+    {
+      "text": "8 Best Travel Adapters (2026): 20+ Models Tested. When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 27.66861111111111,
+      "key": "7b9f6df14040"
+    },
+    {
+      "text": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It. The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 27.91861111111111,
+      "key": "24e2a4b605f0"
+    },
+    {
+      "text": "Dabble Promo Code FOXNEWS: Pay $5 get $50. Claim the Dabble promo code FOXNEWS for September 2026. Get $50 when you play $5 with Dabble Fantasy, see how to sign up, the full terms, and whether the offer is worth it.",
+      "url": "https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-pay-5-get-50",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.733333333333333,
+      "key": "39d493a5b5f7"
+    },
+    {
+      "text": "Yankees, sports world remember 25th anniversary of 9/11 with 'God Bless America' and moments of silence. The New York Mets and New York Yankees wore first-responder caps at Yankee Stadium as MLB marked the 25th anniversary of 9/11 with league-wide tributes.",
+      "url": "https://www.foxnews.com/outkick-sports/yankees-sports-world-remember-25th-anniversary-9-11-god-bless-america-moments-silence",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.348611111111111,
+      "key": "a8961264584f"
+    },
+    {
+      "text": "Betr Promo Code FOXNEWS: Two No Sweat Entries, up to $200. Claim the Betr promo code FOXNEWS for September 2026. Get Two No Sweat Entries, up to $200, see how to sign up, the full terms, and whether the offer is worth it.",
+      "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-two-no-sweat-entries-up-200",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.446666666666666,
+      "key": "ec3344dc1e4d"
+    },
+    {
+      "text": "Underdog Promo Code FOXNEWS: Deposit match up to $1,000. Claim the Underdog promo code FOXNEWS for September 2026. Get Deposit match up to $1,000, see how to sign up, the full terms, and whether the offer is worth it.",
+      "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-deposit-match-up-1000",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.8375,
+      "key": "89407953da09"
+    },
+    {
+      "text": "El-Sayed ignites firestorm after sharing 9/11 message on social media: 'Piece of s---'. Abdul El-Sayed&apos;s 9/11 video message drew fierce online backlash over his association with Hasan Piker, who notoriously claimed America deserved 9/11.",
+      "url": "https://www.foxnews.com/politics/el-sayed-ignites-backlash-after-sharing-9-11-message-social-media",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.084722222222222,
+      "key": "1e3becff15c8"
+    },
+    {
+      "text": "Fox News True Crime Newsletter: Lindsay Clancy jurors, Bryan Kohberger's legal move, Menendez brothers hearing. Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
+      "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-lindsay-clancy-jurors-bryan-kohbergers-legal-move-menendez-brothers-hearing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.735833333333334,
+      "key": "1716c0a61623"
+    },
+    {
+      "text": "Firefighter caught on camera ripping pro-Palestinian agitator in Elmo costume near Ground Zero on 9/11. Video captured a firefighter confronting a pro-Palestinian agitator in an Elmo costume near the Ground Zero 9/11 memorial service.",
+      "url": "https://www.foxnews.com/us/firefighter-caught-camera-ripping-pro-palestinian-agitator-elmo-costume-near-ground-zero-9-11",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.89638888888889,
+      "key": "e4e770ae5a78"
+    },
+    {
+      "text": "EXCLUSIVE: Pence group knocks Vance plan to pay stay-at-home parents up to $9K per child. Advancing American Freedom warns JD Vance&apos;s childcare subsidy for stay-at-home parents could invite government intrusion and create work disincentives.",
+      "url": "https://www.foxnews.com/politics/pence-group-knocks-vance-plan-pay-stay-at-home-parents-9k-per-child",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.965833333333334,
+      "key": "d927d39e07a3"
+    },
+    {
+      "text": "30% of college students say violence acceptable way to stop speakers on campuses, survey finds. The Foundation for Individual Rights and Expression survey finds 30% of students find violence acceptable to stop speakers, one year after Charlie Kirk&apos;s assasination.",
+      "url": "https://www.foxnews.com/media/thirty-percent-college-students-say-violence-acceptable-way-stop-speakers-campuses-survey-finds",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.178611111111111,
+      "key": "1d6cac9c4c86"
+    },
+    {
+      "text": "WWE's Rey Mysterio reflects on Triplemania involvement, says he's unfazed going into match with 7-foot-3 giant. Rey Mysterio faces the 7-foot-3 Omos in the Triplemania 34 main event in Las Vegas, with Omos&apos; AAA future hanging in the balance of the match.",
+      "url": "https://www.foxnews.com/outkick-sports/wwe-rey-mysterio-reflects-triplemania-involvement-unfazed-match-7-foot-3-giant",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.672222222222222,
+      "key": "e8a3a3418643"
+    },
+    {
+      "text": "De Niro calls controversial Mamdani police comments 'ridiculous' as he defends mayor going to 9/11 service. Robert De Niro called Zohran Mamdani&apos;s defund the police comments &quot;ridiculous&quot; but argued the NYC mayor should still attend the 9/11 memorial.",
+      "url": "https://www.foxnews.com/media/de-niro-calls-controversial-mamdani-police-comments-ridiculous-defends-mayor-going-911-service",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.912777777777778,
+      "key": "18a245b65dca"
+    },
+    {
+      "text": "Fox News Entertainment newsletter: King Charles shuts down Harry and Meghan; Prince George starts at Eton. The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+      "url": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-king-charles-shuts-down-harry-meghan-prince-george-starts-eton",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.928611111111111,
+      "key": "bd869c8d642f"
+    },
+    {
+      "text": "Clinton, Bush received multiple warnings on bin Laden hijack plots before 9/11, declassified files show. Bill Clinton and George W. Bush received repeated CIA warnings that Usama bin Laden&apos;s network planned to hijack jets and attack U.S. cities.",
+      "url": "https://www.foxnews.com/politics/clinton-bush-received-multiple-warnings-bin-laden-hijack-plots-before-9-11-declassified-files-show",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.973888888888888,
+      "key": "a40a889e6c14"
+    },
+    {
+      "text": "Tua Tagovailoa ruled out of Falcons' opener with oblique injury, Cooper Rush steps in against Steelers. Cooper Rush will start for the Atlanta Falcons in Week 1 against the Pittsburgh Steelers after Tua Tagovailoa was ruled week-to-week with an oblique issue.",
+      "url": "https://www.foxnews.com/outkick-sports/tua-tagovailoa-ruled-out-falcons-opener-oblique-injury-cooper-rush-steps-steelers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 11.011111111111111,
+      "key": "8d2cb689fcd6"
+    },
+    {
+      "text": "Rutgers ‘Antifa’ professor who fled US over political atmosphere after Kirk murder pens book on ‘fascist’ US. Mark Bray&apos;s new book chronicles his family&apos;s flight to Spain after alleged death threats and doxxing after the assassination of Charlie Kirk.",
+      "url": "https://www.foxnews.com/media/rutgers-antifa-professor-who-fled-us-over-political-atmosphere-after-kirk-murder-pens-book-fascist-us",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 11.267222222222221,
+      "key": "1d51afc005e7"
+    },
+    {
+      "text": "OPINION: 25 years on, a nation still mourns. A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.1258333333333332,
+      "key": "a2d85b0e95e6"
+    },
+    {
+      "text": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage. As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability.",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.1258333333333335,
+      "key": "b5d043c1e10d"
+    },
+    {
+      "text": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg. U.S. President Donald Trump has held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.205277777777778,
+      "key": "fa12f8654a9c"
+    },
+    {
+      "text": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries. Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
+      "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.1258333333333335,
+      "key": "e13a8e30d7c5"
+    },
+    {
+      "text": "Why are the people building the most powerful AI so worried about what it could do?. As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.1258333333333335,
+      "key": "ce22d0549212"
+    },
+    {
+      "text": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?. The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.1258333333333335,
+      "key": "8be07461c33f"
+    },
+    {
+      "text": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon. The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.1258333333333335,
+      "key": "5bb048779016"
+    },
+    {
+      "text": "BRICS leaders meet in India as wars and US tensions test the bloc. Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 5.810555555555555,
+      "key": "bde798267164"
+    },
+    {
+      "text": "Yemen's Houthis capture a Red Sea island in threat to shipping. Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 7.173611111111111,
+      "key": "c0867c96906a"
+    },
+    {
+      "text": "How shofars became the spiritual soundtrack of Rosh Hashanah. Rosh Hashanah, the Jewish New Year, begins at sunset Friday. For many Jews around the world, a highlight of the holiday will be hearing the shofar: an animal's horn blown like a trumpet.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 16.63388888888889,
+      "key": "c2b9f7921ae9"
+    }
+  ],
+  "contexts": {}
+}

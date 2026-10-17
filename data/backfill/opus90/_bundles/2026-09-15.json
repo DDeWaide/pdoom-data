@@ -1,0 +1,621 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-10-17T12:54:34.917857+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260915161941",
+    "MIT Technology Review": "20260915080242",
+    "Ars Technica": "20260915025334",
+    "The Verge AI": null,
+    "Wired": "20260915025336",
+    "CNN Top Stories": "20260915042213",
+    "Fox News Latest": "20260915050205",
+    "NPR News": "20260915113239",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Lucy Letby inquiry blames hospital for ‘complete failure’ to protect babies. Inquiry finds parents were kept in the dark as hospital hid Lucy Letby suspicions during secret reviews.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/lucy-letby-inquiry-blames-hospital-for-complete-failure-to-protect-babies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.3477777777777778,
+      "key": "3db132fdd71b"
+    },
+    {
+      "text": "US democratic decline threatens global rule of law, report warns. Nearly half of US democracy indicators hit 50-year lows, accelerating global stability decline, warns new IDEA study.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/us-democratic-decline-threatens-global-rule-of-law-report-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.45166666666666666,
+      "key": "38164f5d00eb"
+    },
+    {
+      "text": "Will Russia and Ukraine halt attacks on energy infrastructure?. Will Russia and Ukraine halt attacks on energy infrastructure?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.48055555555555557,
+      "key": "bb57e76af38a"
+    },
+    {
+      "text": "China does not need to replace the US in the Gulf. It can gain leverage over the region without engaging in military overreach.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8497222222222223,
+      "key": "34f25e4c20d9"
+    },
+    {
+      "text": "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?. Rapper Macklemore claims Kraft rallied other venue owners against his participation in Ed Sheeran&#039;s US tour.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/who-is-robert-kraft-pro-israel-billionaire-who-cancelled-macklemore?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8711111111111111,
+      "key": "5c06ed6ffb66"
+    },
+    {
+      "text": "Canada, the UK and Australia should investigate the WCK attack in Gaza. Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9005555555555556,
+      "key": "eec23d8d1871"
+    },
+    {
+      "text": "Champions League final venues revealed: Munich 2028, Barcelona 2029. The Allianz Arena in Munich, home to Bayern, and Barcelona&#039;s Camp Nou will host the 2028-29 finals.",
+      "url": "https://www.aljazeera.com/sports/2026/9/15/champions-league-final-venues-revealed-munich-2028-barcelona-2029?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9675,
+      "key": "5cb931f89490"
+    },
+    {
+      "text": "Russia warns Denmark after near miss in Baltic Sea. Russian frigate narrowly misses Danish helicopter with flares.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.4719444444444445,
+      "key": "b1feb4d98482"
+    },
+    {
+      "text": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?. Prime Minister Mark Carney is seeking a &#039;unique alliance&#039; with Europe as transatlantic relations sour.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.4997222222222222,
+      "key": "95e4ccfe6c88"
+    },
+    {
+      "text": "Saudi Arabia faces high-stakes choices as war with Houthis escalates. Riyadh has several military options, say analysts, but all of them carry risks, too.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.77,
+      "key": "7c2dc2dd382e"
+    },
+    {
+      "text": "Can the Houthis hold on to Yemen’s strategic western coast?. Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.8527777777777779,
+      "key": "3797bb7dae0f"
+    },
+    {
+      "text": "Who is NFL billionaire Robert Kraft?. Who is Robert Kraft, the Epstein-linked NFL billionaire and why did he get Macklemore dropped from Ed Sheeran’s tour?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.335277777777778,
+      "key": "4aa7c2fc66d9"
+    },
+    {
+      "text": "What are ‘space weapons’, which US says it has deployed into orbit?. The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say.",
+      "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3694444444444445,
+      "key": "e8d403e1658a"
+    },
+    {
+      "text": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina. Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6525,
+      "key": "3e940f18309a"
+    },
+    {
+      "text": "South Korea embraces Central Asian leaders, looking to boost regional clout. Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.",
+      "url": "https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.8272222222222223,
+      "key": "08cabd4248a4"
+    },
+    {
+      "text": "The AI industry has taken a doomer turn. What now?. This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 14.13888888888889,
+      "key": "684e9b8a19bf"
+    },
+    {
+      "text": "Donated livers can be made biologically younger. Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing&#823",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 15.85,
+      "key": "0844a4a0d769"
+    },
+    {
+      "text": "AI agents blew the whistle on their cheating colleagues. A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 16.045,
+      "key": "c141a0b86e75"
+    },
+    {
+      "text": "The Download: AI’s real extinction threat and age-reversal tech for eyes. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humani",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.878333333333334,
+      "key": "573281e083f1"
+    },
+    {
+      "text": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield. The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 4.786111111111111,
+      "key": "1ee74b84707a"
+    },
+    {
+      "text": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft. \"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.3533333333333335,
+      "key": "da0dd96e7384"
+    },
+    {
+      "text": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop. “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.817222222222222,
+      "key": "02c21b0ed4d4"
+    },
+    {
+      "text": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out. Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.139166666666667,
+      "key": "b35980350691"
+    },
+    {
+      "text": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots. Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.246666666666667,
+      "key": "37c6db3172e3"
+    },
+    {
+      "text": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements. This is also the last version of macOS to support Rosetta for Intel apps.",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.414444444444444,
+      "key": "0e34f734a754"
+    },
+    {
+      "text": "AI leaders want to hit the brakes after years of reckless speed. Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.789166666666667,
+      "key": "6b178d184700"
+    },
+    {
+      "text": "Online hate researcher keeps hammering X despite deportation threat. US won’t back down from fight to deport technology researchers.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.490277777777777,
+      "key": "b72140c5c7b6"
+    },
+    {
+      "text": "A new solar cell could generate electricity underwater. The trick isn't using perovskites—the trick is making them last.",
+      "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 8.838333333333333,
+      "key": "686fd581fb86"
+    },
+    {
+      "text": "Prehistoric builders transported Devil's Arrows 11 miles. Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+      "url": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 9.71111111111111,
+      "key": "36c7e2d1e6e4"
+    },
+    {
+      "text": "Steam Frame: The Ars Technica review. Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
+      "url": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 9.890833333333333,
+      "key": "b997936a9ffb"
+    },
+    {
+      "text": "\"Offensively cheap\": Solar power is looking up. Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+      "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 10.404444444444444,
+      "key": "ad8810a83840"
+    },
+    {
+      "text": "New corners, new lights for 2028 Volvo XC40. The Swedish automaker gives its small SUV a sympathetic makeover.",
+      "url": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.124444444444444,
+      "key": "7f52113e024e"
+    },
+    {
+      "text": "F1 in Madrid: Like Monaco but twice as long and none of the glamour. Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
+      "url": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.349722222222223,
+      "key": "60c091febcf6"
+    },
+    {
+      "text": "Unvaccinated Pennsylvania woman died of measles complications, coroner says. The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 28.945,
+      "key": "3ddcb728ffba"
+    },
+    {
+      "text": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms. The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
+      "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.4983333333333335,
+      "key": "1c563477fe3a"
+    },
+    {
+      "text": "The Top New Features in Apple’s iOS 27 and iPadOS 27. The latest iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.",
+      "url": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.147777777777778,
+      "key": "d0a4c826cf76"
+    },
+    {
+      "text": "New York Seizes a Dozen Celebrity Deepfake Websites. In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 10.06,
+      "key": "52a825b22f0a"
+    },
+    {
+      "text": "The Best Air Purifier of 2026: Tested Picks for Every Room. Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 15.343333333333334,
+      "key": "7f815b494a8e"
+    },
+    {
+      "text": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More. I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound.",
+      "url": "https://www.wired.com/story/best-soundbars/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 15.893333333333333,
+      "key": "7d7f893dd405"
+    },
+    {
+      "text": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them. Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 15.893333333333333,
+      "key": "14886599497a"
+    },
+    {
+      "text": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe. An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 15.893333333333333,
+      "key": "ec6dfb31d1b2"
+    },
+    {
+      "text": "Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?. Roborock's more affordable vacuum did well on corners and navigating my home, but thresholds and small objects remain a challenge. Still, it's a good vacuum for the price, especially when it's on sale.",
+      "url": "https://www.wired.com/review/roborock-qrevo-2-pro/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 16.393333333333334,
+      "key": "6f68ce21589a"
+    },
+    {
+      "text": "Best Noise-Canceling Earbuds (2026): Bose, Apple, Samsung, Beats, and More. I’ve tested dozens of wireless earbuds. These are the best for when you want to tune out the world, wherever you are.",
+      "url": "https://www.wired.com/story/best-noise-canceling-earbuds/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 16.893333333333334,
+      "key": "dabb46cbea07"
+    },
+    {
+      "text": "A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work. Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back.",
+      "url": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 16.893333333333334,
+      "key": "e961a5d6875e"
+    },
+    {
+      "text": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction. While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 17.893333333333334,
+      "key": "198bf41caf67"
+    },
+    {
+      "text": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026). These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 39.89333333333333,
+      "key": "b935b062ed82"
+    },
+    {
+      "text": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser. Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
+      "url": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 40.39333333333333,
+      "key": "9596f52e725d"
+    },
+    {
+      "text": "Best Indoor Garden Systems I’ve Been Testing All Year (2026). Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 40.39333333333333,
+      "key": "7054dafd8dc2"
+    },
+    {
+      "text": "Coway Airmega Halo Review: Is Your Air Really Clean?. Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+      "url": "https://www.wired.com/review/coway-airmega-halo/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 40.81,
+      "key": "4ce7e6d1aed0"
+    },
+    {
+      "text": "Surrogate who refused abortion asks SCOTUS to intervene as baby could be moved out of Texas. Surrogate McKenna West asked the Supreme Court for an emergency administrative stay, fearing the newborn could be moved from Texas to California.",
+      "url": "https://www.foxnews.com/politics/surrogate-refused-abortion-asks-scotus-intervene-baby-moved-out-texas",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.20916666666666667,
+      "key": "e0c73d5e4fb7"
+    },
+    {
+      "text": "Dolly Parton, Rob Reiner receive emotional tributes during 2026 Emmy Awards. Sally Field delivered an emotional tribute to Dolly Parton at the 2026 Emmy Awards, calling her &quot;Steel Magnolias&quot; co-star an angel on earth.",
+      "url": "https://www.foxnews.com/entertainment/dolly-parton-rob-reiner-receive-emotional-tributes-2026-emmy-awards",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1366666666666667,
+      "key": "24fbd3a35957"
+    },
+    {
+      "text": "Chiefs' new stud Kenneth Walker runs wild, Bo Nix melts down as Kansas City obliterates Broncos in MNF blowout. Kenneth Walker&apos;s 173-yard clinic stole the show as the Kansas City Chiefs flattened the Denver Broncos 31-10 in the AFC West&apos;s Monday Night opener.",
+      "url": "https://www.foxnews.com/outkick-sports/chiefs-kenneth-walker-runs-wild-bo-nix-melts-down-kansas-city-obliterates-broncos-mnf-blowout",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.416388888888889,
+      "key": "5624cbbbd3d8"
+    },
+    {
+      "text": "Michael J. Fox receives standing ovation at 2026 Emmys for Parkinson's disease advocacy work. Michael J. Fox received a standing ovation at the 2026 Emmys alongside wife Tracy Pollan, revealing his foundation is &quot;close&quot; to a Parkinson&apos;s cure.",
+      "url": "https://www.foxnews.com/entertainment/michael-j-fox-standing-ovation-2026-emmys-parkinsons-disease-advocacy",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.9538888888888888,
+      "key": "2601c9760295"
+    },
+    {
+      "text": "Georgia mayor, 23, ousted 10 months after making history as state’s youngest mayor. Jayden Williams, 23, was removed by the Stockbridge City Council after allegations involving public funds and communications with an 18-year-old student.",
+      "url": "https://www.foxnews.com/us/georgia-mayor-23-ousted-10-months-after-making-history-states-youngest-mayor",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8422222222222224,
+      "key": "adceffdb9a20"
+    },
+    {
+      "text": "Dozens missing after passenger ferry sinks as rescuers scour South Pacific coastline. The MV Matui sank in the South Pacific between Ambae and Santo islands with 47 people aboard as officials cite ignored marine warnings and possible overloading.",
+      "url": "https://www.foxnews.com/travel/dozens-missing-passenger-ferry-sinks-rescuers-scour-south-pacific-coastline",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.6683333333333334,
+      "key": "a1b1d40a72cd"
+    },
+    {
+      "text": "Patrick Mahomes answers troubling questions about his serious knee injury on first drive of the Chiefs season. Patrick Mahomes scored on a zig-zagging 15-yard touchdown run on the Kansas City Chiefs&apos; first offensive drive of the 2026 NFL season opener.",
+      "url": "https://www.foxnews.com/outkick-sports/patrick-mahomes-answers-troubling-questions-serious-knee-injury-first-drive-chiefs-season",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.7111111111111112,
+      "key": "f3c6e9fd9d2e"
+    },
+    {
+      "text": "Gov Hochul's plan to opt New York into federal school choice program draws union opposition. Teach Coalition CEO Sydney Altfield says teachers unions are spreading misconceptions about Gov. Kathy Hochul&apos;s tax credit scholarship plan for New York.",
+      "url": "https://www.foxnews.com/media/gov-hochuls-plan-opt-new-york-federal-school-choice-program-draws-union-opposition",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.733611111111111,
+      "key": "d972f1956b35"
+    },
+    {
+      "text": "NFL legend Drew Brees reportedly almost pulled off a shocking comeback for Broncos' AFC title game. Drew Brees nearly came out of retirement to start for the Denver Broncos in last season&apos;s AFC Championship Game after Bo Nix broke his ankle.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-legend-drew-brees-reportedly-almost-pulled-off-shocking-comeback-broncos-afc-title-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.075,
+      "key": "7eff505bb765"
+    },
+    {
+      "text": "UK breakup push escalates amid historic pact after Trump backs reunification of Ireland. Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster&apos;s time is coming to an end.",
+      "url": "https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.346111111111111,
+      "key": "50efe7888e6e"
+    },
+    {
+      "text": "Oklahoma State might have known which plays Oregon Ducks were running during upset win. Dante Moore&apos;s pre-snap stance may have tipped run or pass against Oklahoma State, raising alarming questions about Oregon Ducks football future.",
+      "url": "https://www.foxnews.com/outkick-sports/oklahoma-state-might-known-which-plays-oregon-ducks-were-running-during-upset-win",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.646388888888889,
+      "key": "9b6018591444"
+    },
+    {
+      "text": "Ole Miss and LSU will deliver cinema, but the next week for each team could be their most pivotal tests. Lane Kiffin returns to Oxford as LSU&apos;s coach to face Ole Miss and former players Trinidad Chambliss and Kewan Lacy in a Top 10 SEC showdown.",
+      "url": "https://www.foxnews.com/outkick-sports/ole-miss-lsu-deliver-cinema-next-week-pivotal-tests",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.8005555555555555,
+      "key": "7a344f8bf2b4"
+    },
+    {
+      "text": "‘Trojan horses’ in America: Congress probes influence networks tied to China, Iran and Cuba. Lawmakers will examine alleged foreign malign influence operations tied to China, Iran and Cuba after Fox News Digital traced pro-communist network operating inside the U.S.",
+      "url": "https://www.foxnews.com/politics/trojan-horses-america-congress-probes-influence-networks-tied-china-iran-cuba",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.822222222222222,
+      "key": "955ee18c69c4"
+    },
+    {
+      "text": "House Dems face Trump tariff dilemma as major Russia sanctions bill heads to floor. The Lindsey Graham sanctions bill forces House Democrats to weigh Ukraine support against expanding Trump tariff authority they&apos;ve long opposed.",
+      "url": "https://www.foxnews.com/politics/house-democrats-face-trump-tariff-dilemma-major-russia-sanctions-bill-heads-floor",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.910277777777778,
+      "key": "49098b11b3e3"
+    },
+    {
+      "text": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms. A lower court&apos;s nationwide block on U.S. Postal Service mail-in ballot rules remains after the Supreme Court ruled against the Trump administration.",
+      "url": "https://www.foxnews.com/politics/supreme-court-rejects-trump-bid-revive-strict-mail-ballot-rules-before-midterms",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.222222222222222,
+      "key": "fc49b93ae79d"
+    },
+    {
+      "text": "Air pollution spiked after the Trump administration stopped embassy monitoring. In 2025, the Trump administration ended a long-running program to collecting air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.1086111111111112,
+      "key": "983193df69c0"
+    },
+    {
+      "text": "NATO jets down drone in Lithuanian airspace. The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.4358333333333335,
+      "key": "8bd5d14693f3"
+    },
+    {
+      "text": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance. Haitians in the U.S. lost their Temporary Protected Status under Trump's immigration crackdown. Now facing deportation to a homeland wracked by gang violence, disease and extreme poverty, Haitians in Miami are meeting the moment with grief, anger, and courage.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5441666666666665,
+      "key": "3d1a0e192e2a"
+    },
+    {
+      "text": "NASA rushed engineers out of their labs. They say it risks future space missions. NASA employees say they've lost vital equipment and staff needed to make sophisticated spacecraft amid the agency's abrupt relocations over the past several months.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5441666666666665,
+      "key": "5a2c9281d614"
+    },
+    {
+      "text": "This  bill could reshape crypto in America -- and it's sparking a major battle. The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5441666666666665,
+      "key": "eb66c3fcdceb"
+    },
+    {
+      "text": "Get ready for yet another cost when buying a home: Junk fees. Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5441666666666665,
+      "key": "16100803e9da"
+    },
+    {
+      "text": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI. The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.5441666666666665,
+      "key": "0f5be626d8e3"
+    },
+    {
+      "text": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms. The Supreme Court has rejected President Trump's push for new mail-in voting restrictions for the midterm election.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.803611111111111,
+      "key": "246d1db1d6e7"
+    },
+    {
+      "text": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says. John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department probe into whether former law enforcement and intelligence officials conspired against President Trump.",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.576944444444444,
+      "key": "5aafaf93fad2"
+    },
+    {
+      "text": "Emmys 2026: Here's the list of winners. The Pitt and Widow's Bay took home the top prizes in television at the Emmy Awards on Monday night. And actor Matthew Rhys became the first person to win in two lead acting categories in one night.",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.613888888888889,
+      "key": "382759d807b4"
+    }
+  ],
+  "contexts": {}
+}

@@ -1,0 +1,629 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-10-17T12:42:19.479002+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260821052409",
+    "MIT Technology Review": "20260821073839",
+    "Ars Technica": "20260821050141",
+    "The Verge AI": null,
+    "Wired": "20260821052048",
+    "CNN Top Stories": "20260821051817",
+    "Fox News Latest": "20260821052457",
+    "NPR News": "20260821093529",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Dozens of migrants land on Spanish coast surprising beachgoers. Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6036111111111111,
+      "key": "9d5ede3a3234"
+    },
+    {
+      "text": "Hong Kong Tiananmen activists found guilty of national security charges. Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.565,
+      "key": "1a723de7153d"
+    },
+    {
+      "text": "Pakistan’s Imran Khan back to prison after evaluation at hospital. Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.2666666666666666,
+      "key": "8adb7f8ab73c"
+    },
+    {
+      "text": "After GERD, can Egypt shape Ethiopia’s next Nile dams?. Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.21,
+      "key": "55fbd2f935ea"
+    },
+    {
+      "text": "Brazil launches AI supercomputer push while balancing US and Chinese tech. The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.758888888888889,
+      "key": "792f71afcb96"
+    },
+    {
+      "text": "Panama Canal to limit shipping ahead of extreme weather during El Nino. The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.201944444444444,
+      "key": "8942c94b04d9"
+    },
+    {
+      "text": "Antigovernment protesters take to Tunisia’s streets for second month. Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.2941666666666665,
+      "key": "fa2f6efb0b84"
+    },
+    {
+      "text": "Taliban release two detained UN staff members in Afghanistan. The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.6563888888888885,
+      "key": "ff6e3844b45e"
+    },
+    {
+      "text": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections. The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+      "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.192222222222222,
+      "key": "867f4f9ba639"
+    },
+    {
+      "text": "Iran war live: US vows toughest Iran sanctions, urges China support. US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.4025,
+      "key": "725e27d0900e"
+    },
+    {
+      "text": "Houthis and government trade attacks as Yemen slides back to full-scale war. Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.070277777777778,
+      "key": "cec9e51b9998"
+    },
+    {
+      "text": "US charges woman for allegedly plotting attack on New York State Capitol. The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.381666666666667,
+      "key": "cf601036ba31"
+    },
+    {
+      "text": "The cost of rebuilding family homes in war-ravaged Syria. What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.538333333333333,
+      "key": "79576010e983"
+    },
+    {
+      "text": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses. New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.",
+      "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.641388888888889,
+      "key": "4a7d92d7b765"
+    },
+    {
+      "text": "Pakistan’s ex-PM Imran Khan back in jail after brief hospital visit. Khan, who was voted out of the office in April 2022, has been in prison for more than three years.",
+      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 8.099722222222223,
+      "key": "d2dfe8eeea0e"
+    },
+    {
+      "text": "Debates over AI consciousness are a trap. “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a sep",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 15.933333333333334,
+      "key": "4e0511cba230"
+    },
+    {
+      "text": "The Download: polycrisis support networks and a hydrogen gold rush. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when ",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 19.4775,
+      "key": "de0da6f7ee61"
+    },
+    {
+      "text": "The next big thing in hydrogen could be underground. There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.644166666666667,
+      "key": "f3ba98f0d9af"
+    },
+    {
+      "text": "Unlocking hidden revenue streams with market models. Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, curr",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.85472222222222,
+      "key": "90ac5cb45780"
+    },
+    {
+      "text": "Support networks aim to help kids through the polycrisis. Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.644166666666667,
+      "key": "25de27ca9096"
+    },
+    {
+      "text": "US distributor of China’s most popular humanoid robots pivots after US ban. FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.025,
+      "key": "758fd3f3ff04"
+    },
+    {
+      "text": "Europe cancels planned upgrades for Ariane 6 rocket. Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.3469444444444445,
+      "key": "668f1a80c538"
+    },
+    {
+      "text": "They survived 9/11; 25 years later, their bonds remain unbroken. Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.604444444444445,
+      "key": "3eb616b9fb7c"
+    },
+    {
+      "text": "Roblox must make changes after failing to block adults creeping on kids. Roblox is first platform to submit to independent audits under the Online Safety Act.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.7925,
+      "key": "715fb803d2be"
+    },
+    {
+      "text": "Genesis joins the giant electric SUV club with new GV90. A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+      "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.428611111111111,
+      "key": "2d28a3e6057d"
+    },
+    {
+      "text": "SpaceX’s orbital data centers would create a new category of e-waste. The yeetcycling math resembles asteroid mining in reverse.",
+      "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.030833333333334,
+      "key": "45851cc9ff48"
+    },
+    {
+      "text": "Reverse-lookup service exposed millions of photos of people’s faces. People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+      "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.529722222222222,
+      "key": "f7ab1b017b4c"
+    },
+    {
+      "text": "Grok exfiltrates user data when malicious instructions are encrypted. Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.018333333333334,
+      "key": "cc9c5b92c73f"
+    },
+    {
+      "text": "NASA calls off mission to rescue Swift gamma-ray observatory. Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 28.71472222222222,
+      "key": "3fafa9a7ec17"
+    },
+    {
+      "text": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026. US residents face trade-offs as delivery drone services such as Prime Air expand.",
+      "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 30.984166666666667,
+      "key": "d6da92e0560a"
+    },
+    {
+      "text": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops. Framework says it's replacing some out-of-warranty AMD mainboards.",
+      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 32.66166666666667,
+      "key": "538abb2cda02"
+    },
+    {
+      "text": "Flight attendants freaked out that Google is buying tons of Spirit employee data. Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 32.95,
+      "key": "f416ec9dffb0"
+    },
+    {
+      "text": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies. FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 33.272777777777776,
+      "key": "7f13bae6fb3d"
+    },
+    {
+      "text": "The floodgates are open after another Chinese company lands a reusable rocket. \"We will put the booster back into service for another flight as soon as possible.\"",
+      "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 34.344166666666666,
+      "key": "3244d9028d07"
+    },
+    {
+      "text": "A fantastical journey unfolds in gorgeous Wildwood trailer. \"I will tear apart this forest and bring back what it took from me.\"",
+      "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 35.92638888888889,
+      "key": "0a19688c514c"
+    },
+    {
+      "text": "30% Off Canon Promo Codes | August 2026. Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "337bcd45f6b5"
+    },
+    {
+      "text": "Paramount+ Coupon Codes and Deals for August 2026. Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "6e8b847b2d56"
+    },
+    {
+      "text": "Lenovo Coupon Codes: 15% Off in August 2026. Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "316cc4e3ff96"
+    },
+    {
+      "text": "Zoro Coupon Codes: 55% Off August. Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
+      "url": "https://www.wired.com/story/zoro-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "c2ca3bbffb73"
+    },
+    {
+      "text": "Meta Quest Promo Codes and Coupons for August 2026. Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "b7e4fc69bafd"
+    },
+    {
+      "text": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026. Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "387682224c99"
+    },
+    {
+      "text": "Valvoline Coupons and Promo Codes for August 2026. We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "579d14480f6e"
+    },
+    {
+      "text": "Home Depot Promo Codes: 30% Off in August 2026. Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "f60a7c69e201"
+    },
+    {
+      "text": "Hoka Coupon Codes: 30% Off in August 2026. Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for August 2026.",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "f950d0e82d8d"
+    },
+    {
+      "text": "Ruggable Discount Code: 30% Off Rugs | August 2026. Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
+      "url": "https://www.wired.com/story/ruggable-discount-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "7217c5f06ca7"
+    },
+    {
+      "text": "B&H Photo Promo Codes and Deals This August 2026. Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "c6ba137fa9c4"
+    },
+    {
+      "text": "Ray-Ban Promo Codes: Save 50% in August 2026. Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "url": "https://www.wired.com/story/ray-ban-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "ec5b7586b138"
+    },
+    {
+      "text": "Squarespace Promo Codes: 20% Off in August 2026. Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.3466666666666667,
+      "key": "17bcb529662e"
+    },
+    {
+      "text": "Google Pixel 11 Review: Minor Upgrade. Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
+      "url": "https://www.wired.com/review/google-pixel-11/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 6.089166666666666,
+      "key": "c7d07df540c6"
+    },
+    {
+      "text": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole. S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
+      "url": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 8.369166666666667,
+      "key": "b10323c64dbe"
+    },
+    {
+      "text": "Lindsay Clancy's ex-husband has quietly remarried and started over amid her murder trial. Patrick Clancy testified about his children as Lindsay Clancy&apos;s defense argues postpartum psychosis.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4027777777777777,
+      "key": "329a75f7c346"
+    },
+    {
+      "text": "No, the Dodgers didn't sign Shohei Ohtani or build a superteam because of Mark Walter's loans. Deferred contracts have existed in MLB for decades, with dozens of players across the league currently using them, not just the Los Angeles Dodgers.",
+      "url": "https://www.foxnews.com/outkick-sports/dodgers-didnt-sign-shohei-ohtani-build-superteam-mark-walters-loans",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.7819444444444446,
+      "key": "e9be21b3d943"
+    },
+    {
+      "text": "Paige Bueckers grabs Caitlin Clark’s arm, draws foul in tense moment before halftime of Wings win over Fever. Caitlin Clark lashed out at Paige Bueckers after a halftime foul in the Indiana Fever vs. Dallas Wings game, sparking a fiery on-court exchange.",
+      "url": "https://www.foxnews.com/outkick-sports/paige-bueckers-grabs-caitlin-clarks-arm-draws-foul-tense-moment-halftime-wings-win-fever",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2294444444444443,
+      "key": "a7d6796fce8a"
+    },
+    {
+      "text": "Fernando Mendoza throws pick-six in second NFL game as Raiders rookie faces growing pains. Fernando Mendoza&apos;s second pass of the preseason game between the Las Vegas Raiders and Houston Texans was intercepted and returned 80 yards for a TD.",
+      "url": "https://www.foxnews.com/outkick-sports/fernando-mendoza-throws-pick-six-second-nfl-game-raiders-rookie-faces-growing-pains",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.945,
+      "key": "f2559a563207"
+    },
+    {
+      "text": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report. Video showed riders suspended vertically on the AtmosFEAR ride at Oaks Park after the spinning pendulum malfunctioned on opening day of summer 2024.",
+      "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.296388888888889,
+      "key": "b4d075aa5616"
+    },
+    {
+      "text": "Mom of ex-SJSU volleyball star Brooke Slusser leads 8th 'Sophie Night' rally in Dallas before Fever vs Wings. Kim Slusser, mother of former San Jose State volleyball star Brooke Slusser, led the eighth Sophie Cunningham rally outside American Airlines Center.",
+      "url": "https://www.foxnews.com/outkick-sports/mom-ex-sjsu-volleyball-star-brooke-slusser-leads-8th-sophie-night-rally-dallas-fever-vs-wings",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.3094444444444444,
+      "key": "06569ca961ac"
+    },
+    {
+      "text": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal. Deportees from Venezuela, Cuba, and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the US over the next year.",
+      "url": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.4144444444444444,
+      "key": "022f022c560b"
+    },
+    {
+      "text": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player. An Alabama jury awarded Kai Spears $9.25 million in damages after finding The New York Times defamed the former University of Alabama basketball player.",
+      "url": "https://www.foxnews.com/media/new-york-times-loses-defamation-suit-ordered-pay-9-25m-former-alabama-basketball-player",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.5780555555555558,
+      "key": "3be5e97492f2"
+    },
+    {
+      "text": "Surrogate says baby 'ripped away' 60 seconds after birth as custody fight erupts after abortion refusal. McKenna West says she was separated from the baby 60 seconds after birth and is now fighting for custody after the newborn&apos;s open-heart surgery procedure.",
+      "url": "https://www.foxnews.com/us/surrogate-says-baby-ripped-away-60-seconds-after-birth-custody-fight-erupts-after-abortion-refusal",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.8422222222222224,
+      "key": "569f5f6cf201"
+    },
+    {
+      "text": "Trump says Michael Cohen was 'weaponized' by mainstream media in surprise radio reunion. President Donald Trump said Michael Cohen was &quot;weaponized&quot; by mainstream media during a radio interview, marking their first public talk in nearly a decade.",
+      "url": "https://www.foxnews.com/media/trump-says-michael-cohen-weaponized-mainstream-media-surprise-radio-reunion",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.121111111111111,
+      "key": "cfdd9f4495d0"
+    },
+    {
+      "text": "Murder convict accused of running 'full-service drug operation' selling to minors near Texas schools. Jahml McDonald, a convicted murderer out on bond, allegedly ran a drug operation near schools where fentanyl pills were disguised as ecstasy.",
+      "url": "https://www.foxnews.com/us/murder-convict-accused-running-full-service-drug-operation-selling-minors-near-texas-schools",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.186388888888889,
+      "key": "02e1e74caf9a"
+    },
+    {
+      "text": "Vice President JD Vance blasts Mamdani, El-Sayed, AOC and Ossoff in rapid-fire TikTok roast. Vice President JD Vance called Alexandria Ocasio-Cortez a &quot;communist&quot; and Adam Schiff &quot;irrelevant&quot; in a rapid-fire TikTok video rating politicians.",
+      "url": "https://www.foxnews.com/politics/vice-president-jd-vance-blasts-mamdani-el-sayed-aoc-ossoff-rapid-fire-tiktok-roast",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.826666666666667,
+      "key": "1817fd69a341"
+    },
+    {
+      "text": "Carville unloads on DSA socialists: 'Don't use our god---- name'. James Carville blasted democratic socialists for using the party&apos;s name, urging them to rebrand as moderates push the Promise to America pledge.",
+      "url": "https://www.foxnews.com/politics/carville-unloads-dsa-socialists-dont-use-our-god-name",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.409722222222222,
+      "key": "893de849547c"
+    },
+    {
+      "text": "Bodycam video shows Oklahoma secretary of state’s arrest outside McDonald’s on public intoxication allegation. Body camera video captured Oklahoma Secretary of State Benjamin Lepak&apos;s encounter with police outside a McDonald&apos;s before his public intoxication arrest.",
+      "url": "https://www.foxnews.com/politics/bodycam-shows-oklahoma-secretary-state-arrest-outside-mcdonalds-public-intoxication-allegation",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.415555555555556,
+      "key": "96020f033984"
+    },
+    {
+      "text": "Obama strategist turns on rising Dem star over viral Trump attack: 'Gratuitous and unnecessary'. Obama White House strategist David Axelrod called Jon Ossoff&apos;s mention of Natalie Harp &quot;gratuitous and unnecessary&quot; despite the clip&apos;s 6 million views.",
+      "url": "https://www.foxnews.com/politics/obama-strategist-turns-rising-dem-star-over-viral-trump-attack-gratuitous-unnecessary",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.910555555555556,
+      "key": "286df7642ea4"
+    },
+    {
+      "text": "What to know about this weekend's IndyCar race on the National Mall. Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5747222222222222,
+      "key": "48a81269c769"
+    },
+    {
+      "text": "Federal government thins the herds of wild horses in Colorado. U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5913888888888889,
+      "key": "abe1ee2babe7"
+    },
+    {
+      "text": "Amid intense backlash, people are vandalizing Flock surveillance cameras. In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. The surge in this type of activity underscores the growing resistance to this police surveillance technology.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5913888888888889,
+      "key": "3faca33533b2"
+    },
+    {
+      "text": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined. Experts warn Trump's transactional approach to alliance will erode political trust",
+      "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5913888888888889,
+      "key": "e462c507f2d0"
+    },
+    {
+      "text": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea. The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.5913888888888889,
+      "key": "78d4e5e8404d"
+    },
+    {
+      "text": "Morning news brief. Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump's ballroom project, investors dump stocks and bonds despite government's efforts to calm market.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8247222222222222,
+      "key": "8f3f34916a69"
+    },
+    {
+      "text": "Charter plane crash kills 8 near remote radar site in western Alaska, military says. A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.898888888888889,
+      "key": "8ee0a17d2b08"
+    },
+    {
+      "text": "'Survival mode': Indiana residents endure a ninth day without power. Tens of thousands of people in Indiana are entering a second week without power after a deadly storm toppled trees and power lines. Schools remain closed and businesses have been unable to reopen.",
+      "url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.9175,
+      "key": "2233e606d99a"
+    },
+    {
+      "text": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says. Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congressman from California.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.761388888888889,
+      "key": "cbeff7368d7c"
+    },
+    {
+      "text": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting. Jurors on Thursday heard Duane \"Keffe D\" Davis tell detectives in 2008 that his nephew Orlando \"Baby Lane\" Anderson fired the shots that killed Tupac Shakur.",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 3.903888888888889,
+      "key": "f48514fa381a"
+    }
+  ],
+  "contexts": {}
+}

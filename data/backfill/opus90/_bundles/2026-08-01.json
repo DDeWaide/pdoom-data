@@ -1,0 +1,485 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-10-17T12:35:47.916921+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 6,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260801083252",
+    "NPR World": null,
+    "Al Jazeera": "20260801053744",
+    "MIT Technology Review": "20260801010615",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260801033136",
+    "Fox News Latest": "20260801050257",
+    "NPR News": "20260801203210",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Fifa scraps controversial World Cup investment plan. Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.839166666666667,
+      "key": "ea5b26bf798a"
+    },
+    {
+      "text": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco. Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 15.484722222222222,
+      "key": "90f9855fc3ef"
+    },
+    {
+      "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge. Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.5155555555555558,
+      "key": "1ba850e0bf73"
+    },
+    {
+      "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say. The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.14527777777777778,
+      "key": "af91149eafc8"
+    },
+    {
+      "text": "Race to rescue remaining climbers after deadly avalanche in Pakistan. Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.1727777777777777,
+      "key": "48ef322c510b"
+    },
+    {
+      "text": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned. Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.189722222222223,
+      "key": "3eb754938421"
+    },
+    {
+      "text": "Hundreds escape Greek wildfire by sea as blazes continue across Europe. Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 18.1125,
+      "key": "96ee78489978"
+    },
+    {
+      "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts. Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.577777777777778,
+      "key": "49d8f15cb673"
+    },
+    {
+      "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs. President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.2025,
+      "key": "a78440a5ef26"
+    },
+    {
+      "text": "UK rapper Yung Filly found not guilty of raping woman after Australian show. The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 27.192777777777778,
+      "key": "2d7863ae7484"
+    },
+    {
+      "text": "Danube's record low levels force shutdown of Hungary's only nuclear plant. Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 38.62444444444444,
+      "key": "860a49e93617"
+    },
+    {
+      "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM. The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 40.95055555555555,
+      "key": "c6650cc7e4f4"
+    },
+    {
+      "text": "Father of teen school shooter sentenced to 15 years in prison. \"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 38.98638888888889,
+      "key": "a838e0888126"
+    },
+    {
+      "text": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect. Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 44.31444444444445,
+      "key": "e4b08f86b076"
+    },
+    {
+      "text": "Nicaraguan leader proposes extending presidential term by another year. It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 45.979166666666664,
+      "key": "5b7c16738b41"
+    },
+    {
+      "text": "Protesters detained at rally in support of Pakistan-administered Kashmir. Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9727777777777777,
+      "key": "a753b4417c69"
+    },
+    {
+      "text": "US drops charges against Olympian for damage to Reflecting Pool. The US Department of Justice has moved to dismiss its case against Olympian David Hearn.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0261111111111112,
+      "key": "17bf168a2e26"
+    },
+    {
+      "text": "Peru’s ex-president Humala released after conviction overturned. Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7552777777777777,
+      "key": "95e8c38b67b2"
+    },
+    {
+      "text": "Yemen’s Houthis deny plan to charge ships transiting Red Sea. Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0683333333333334,
+      "key": "265fb8e4afbd"
+    },
+    {
+      "text": "Is Israel really ready to withdraw from Gaza?. Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.2644444444444445,
+      "key": "ec9d61c06ac5"
+    },
+    {
+      "text": "Liberia’s kush crisis: The hidden trade behind a generation at risk. As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.3208333333333333,
+      "key": "5e45358d1dd9"
+    },
+    {
+      "text": "Russian missile attack kills three in Ukraine’s Kyiv. Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.528888888888889,
+      "key": "3a9e92db21d8"
+    },
+    {
+      "text": "US military says F-35B jet fighter crashes in California, pilot safe. The jet went down on Friday near the Miramar airbase in San Diego.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.7047222222222222,
+      "key": "dff66094d163"
+    },
+    {
+      "text": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know. How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.446111111111111,
+      "key": "b09106b1b038"
+    },
+    {
+      "text": "Israel launches attacks across Gaza one day after Hamas agrees to disarm. Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.818611111111111,
+      "key": "3f6703a909b7"
+    },
+    {
+      "text": "Trump administration to dismiss Reflecting Pool charges against David Hearn. US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.585277777777778,
+      "key": "3fd5993a2d94"
+    },
+    {
+      "text": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond. An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.634444444444444,
+      "key": "1e0e8633c5ce"
+    },
+    {
+      "text": "FIFA’s Infantino scraps controversial World Cup private investment plan. FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.835833333333333,
+      "key": "5c29cd2e65f5"
+    },
+    {
+      "text": "Analyst: the US faces a strategic ‘dead end’ in Iran. Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.113888888888889,
+      "key": "d93e4e45988f"
+    },
+    {
+      "text": "US proposes cuts to Colorado River use for Arizona, California and Nevada. The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.",
+      "url": "https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.1883333333333335,
+      "key": "8d398b64a59a"
+    },
+    {
+      "text": "The Download: Montana’s new experimental drug rules. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—s",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 12.8375,
+      "key": "750ececde0ce"
+    },
+    {
+      "text": "Montana’s new “right to try” law can’t come soon enough for some. Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test&#82",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 16.104166666666668,
+      "key": "19b9dfc42374"
+    },
+    {
+      "text": "Bill Belichick avoids specifics as North Carolina launches probe into GM Michael Lombardi. Michael Lombardi, the highest-paid GM at a public institution, is under official investigation as Bill Belichick&apos;s North Carolina program faces scrutiny.",
+      "url": "https://www.foxnews.com/sports/bill-belichick-avoids-specifics-north-carolina-launches-probe-gm-michael-lombardi",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1288888888888888,
+      "key": "0b258017871d"
+    },
+    {
+      "text": "Mamdani not called to speak at NYC funeral of Army sergeant killed in Iranian attack: report. NYC Mayor Zohran Mamdani was reportedly blocked from speaking at Army Sgt. Angel Sarah Rampersad&apos;s funeral as her family sought to avoid political distractions.",
+      "url": "https://www.foxnews.com/politics/mamdani-not-called-speak-nyc-funeral-army-sergeant-killed-iranian-attack-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.165,
+      "key": "120c6b3ca8e8"
+    },
+    {
+      "text": "SEC, Big Ten agree to support historic 'Protect College Sports Act' after intense negotiations. The retention pool jumped to $22.5 million as Senators Ted Cruz and Maria Cantwell secured support from Big Ten and SEC before the August recess.",
+      "url": "https://www.foxnews.com/outkick-sports/sec-big-ten-agree-support-historic-protect-college-sports-act-intense-negotiations",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2088888888888887,
+      "key": "c9b780f7bc03"
+    },
+    {
+      "text": "American climber's remains found after avalanche in Pakistan, other mountaineers still missing. American climber Sarah Mallory Geis was among at least 10 mountaineers caught in a Broad Peak avalanche as rescue teams search for others.",
+      "url": "https://www.foxnews.com/world/american-climber-remains-found-avalanche-pakistan-mountaineers-missing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.089166666666667,
+      "key": "3d7e069b86f5"
+    },
+    {
+      "text": "Norwegian soccer star Erling Haaland's top-tier summer continues, snags pinnacle of celebrity photo-ops. Erling Haaland scored a celebrity photo with Michael Jordan after his breakout 2026 FIFA World Cup run leading a surprising Norwegian squad.",
+      "url": "https://www.foxnews.com/outkick-sports/norwegian-soccer-star-erling-haaland-top-tier-summer-continues-snags-pinnacle-celebrity-photo-ops",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.8755555555555556,
+      "key": "dbf30f76455f"
+    },
+    {
+      "text": "Police search for gunman after Walmart employee shot during dispute in Pennsylvania. An innocent Walmart employee was shot after two men got into an argument at a Pennsylvania Walmart, police said. The suspected gunman fled before officers arrived",
+      "url": "https://www.foxnews.com/us/police-search-gunman-walmart-employee-shot-dispute-pennsylvania",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.041666666666667,
+      "key": "2b9be0cfe145"
+    },
+    {
+      "text": "NCAA rocked by Colorado judge's 2022 class eligibility ruling that could reshape college sports this year. A Colorado federal judge ordered the NCAA to create a blanket waiver granting all 2022-class college athletes an additional eligibility year.",
+      "url": "https://www.foxnews.com/outkick-sports/ncaa-rocked-colorado-judge-2022-class-eligibility-ruling-reshape-college-sports-year",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.186111111111111,
+      "key": "3005de343ac9"
+    },
+    {
+      "text": "New York nuns will not be forced to comply with assisted-suicide law while case progresses. Catholic nuns sued New York over a law forcing them to recommend assisted suicide to terminally ill patients, and a federal judge blocked them having to comply while the case is pending.",
+      "url": "https://www.foxnews.com/media/new-york-nuns-not-forced-comply-assisted-suicide-law-case-progresses",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.7316666666666665,
+      "key": "7a80d816c86d"
+    },
+    {
+      "text": "Liberal podcaster says he was 'doxed' by Mamdani's 'wanted poster' of property owners. Liberal podcaster Scott Galloway said New York City Mayor Zohran Mamdani&apos;s pied-a-terre tax database amounts to doxing property owners, turning a tax list into a &quot;wanted poster.&quot;",
+      "url": "https://www.foxnews.com/media/liberal-podcaster-says-he-doxed-mamdanis-wanted-poster-property-owners",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.120833333333334,
+      "key": "1a06ec573a70"
+    },
+    {
+      "text": "Cam Skattebo's backflipping at Fanatics Fest reportedly earned him a talking-to from Giants. Cam Skattebo&apos;s backflip at Fanatics Fest had Giants fans worried after his leg injury, and coach John Harbaugh and GM Joe Schoen reportedly stepped in.",
+      "url": "https://www.foxnews.com/outkick-sports/cam-skattebo-backflipping-fanatics-fest-reportedly-earned-him-talking-giants",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.493055555555555,
+      "key": "a3bca474d0e5"
+    },
+    {
+      "text": "Former Latvian 'Dancing with the Stars' contestant arrested by ICE after violent criminal history revealed. Former Latvian &quot;Dancing with the Stars&quot; contestant Roberts Nemiro was arrested by ICE after allegedly overstaying his visa, according to DHS.",
+      "url": "https://www.foxnews.com/us/former-latvian-dancing-stars-contestant-arrested-ice-after-violent-criminal-history-revealed",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.559444444444445,
+      "key": "2feabfc2e976"
+    },
+    {
+      "text": "Pro Bowl offensive lineman Andrus Peat announces his retirement from the NFL at 32. Andrus Peat spent 11 NFL seasons with the New Orleans Saints, Las Vegas Raiders and Pittsburgh Steelers after being drafted in the 2015 NFL Draft out of Stanford.",
+      "url": "https://www.foxnews.com/sports/pro-bowl-offensive-lineman-andrus-peat-announces-retirement-nfl-32",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.298333333333333,
+      "key": "362356b22871"
+    },
+    {
+      "text": "ICE lodges detainer on Salvadoran national, 18, accused of 2 fatal shootings in Houston. ICE lodged an ice detainer against Jefferson Adonay Velasquez-Torres, who came here illegally from El Salvador in 2014 and is charged with two murders in Houston.",
+      "url": "https://www.foxnews.com/politics/ice-lodges-detainer-salvadoran-national-18-accused-2-fatal-shootings-houston",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.454166666666667,
+      "key": "661bdf5564e1"
+    },
+    {
+      "text": "Socialist frontrunner in the hot seat after 'Cancel Thanksgiving' post emerges online. Francesca Hong, a Democratic Socialist frontrunner in the Wisconsin governor race, once called to cancel Thanksgiving in a since-deleted post.",
+      "url": "https://www.foxnews.com/politics/wisconsin-dem-frontrunner-called-cancel-thanksgiving-resurfaced-post",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.5475,
+      "key": "7570c46de5ae"
+    },
+    {
+      "text": "'Jeopardy!' host Ken Jennings infuriates trans activists with sarcastic joke over NY Times games boycott. Ken Jennings sarcastically claimed he received &quot;written approval from the trans community&quot; to keep his New York Times games subscription, sparking backlash.",
+      "url": "https://www.foxnews.com/media/jeopardy-host-ken-jennings-infuriates-trans-activists-sarcastic-joke-nyt-games-boycott",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.689444444444445,
+      "key": "c990d764a12c"
+    },
+    {
+      "text": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues. Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine's missile defense systems.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.07722222222222222,
+      "key": "f965a052c3b8"
+    },
+    {
+      "text": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge. The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.978611111111111,
+      "key": "920454c5d303"
+    },
+    {
+      "text": "Opinion: Remembering Margo Howard. Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.536111111111111,
+      "key": "a1f747932c96"
+    },
+    {
+      "text": "How these slum dwellers went from one-room shacks to beautiful new apartments. It's a bold new experiment and it's already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
+      "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.286666666666667,
+      "key": "78ab7d0ca0e0"
+    },
+    {
+      "text": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned. The FDA is poised to render a decision on Moderna's mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.536111111111111,
+      "key": "6eed170fef9c"
+    },
+    {
+      "text": "Lebanese who fled the Israeli invasion visit to see what's left. Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.536111111111111,
+      "key": "bb2b1e21eef6"
+    },
+    {
+      "text": "More than 25,000 children lose previous legal protections, as federal contract ends. Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.536111111111111,
+      "key": "c7ab7bd3a2c2"
+    },
+    {
+      "text": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco. The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.934722222222222,
+      "key": "170e34e1fde8"
+    },
+    {
+      "text": "Why did OpenAI's and Anthropic's AI models hack other companies?. OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.536111111111111,
+      "key": "a1204b95b505"
+    },
+    {
+      "text": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified. In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.536111111111111,
+      "key": "ff56d56f149a"
+    }
+  ],
+  "contexts": {}
+}

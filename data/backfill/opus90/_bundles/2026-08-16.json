@@ -1,0 +1,533 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-10-17T12:40:37.453246+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260816005930",
+    "MIT Technology Review": "20260816095031",
+    "Ars Technica": "20260816154826",
+    "The Verge AI": null,
+    "Wired": "20260816153043",
+    "CNN Top Stories": "20260816043246",
+    "Fox News Latest": "20260816075654",
+    "NPR News": "20260816060515",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Army drops roses on Syrian crowds in a far cry from war. Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.155,
+      "key": "a308959dcf52"
+    },
+    {
+      "text": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit. Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.24194444444444443,
+      "key": "80dc08feb973"
+    },
+    {
+      "text": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon. Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9791666666666666,
+      "key": "bc9de06c5d7c"
+    },
+    {
+      "text": "Yemen’s government says Houthi strikes hit residential areas in Marib. Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.538888888888889,
+      "key": "0baadab45e54"
+    },
+    {
+      "text": "At least five reported dead amid flooding in US state of Indiana. Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.6655555555555555,
+      "key": "d56debd02349"
+    },
+    {
+      "text": "Colombia asks Trump to suspend tariffs as country reels from earthquake. Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9119444444444444,
+      "key": "2fb2f845690b"
+    },
+    {
+      "text": "US Democrats finalise major shakeup to 2028 presidential primary calendar. South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.612222222222222,
+      "key": "6b73910d6708"
+    },
+    {
+      "text": "Why is the latest Ebola outbreak worsening?. Virus spreading in DRC faster than containment efforts.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.98,
+      "key": "0311d6c005bd"
+    },
+    {
+      "text": "Qatar denies it is detaining three Iranian bomber pilots. Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.066944444444444,
+      "key": "3fdf55f0e7e1"
+    },
+    {
+      "text": "California tackles multiple wildfires as firefighter workforce faces strain. The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.3116666666666665,
+      "key": "34eef2035993"
+    },
+    {
+      "text": "Canadian petition to expel US ambassador gains over 170,000 signatures. The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.8325,
+      "key": "1ef91f01b7ab"
+    },
+    {
+      "text": "Moroccan police intercept migrants heading for Ceuta enclave. Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.873055555555555,
+      "key": "daf1dd0c9672"
+    },
+    {
+      "text": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave. A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.219444444444444,
+      "key": "dee8bd01e71b"
+    },
+    {
+      "text": "Death toll from Zimbabwe ferry disaster rises to 72. Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.823333333333333,
+      "key": "f302e378d48d"
+    },
+    {
+      "text": "La Liga: Real Madrid key talking points heading into new 2026-27 season. Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.668611111111111,
+      "key": "42246d9ca49c"
+    },
+    {
+      "text": "Wildfire smoke now bigger prenatal threat than human sources of air pollution. Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 5.7908333333333335,
+      "key": "7065a6be09ea"
+    },
+    {
+      "text": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape. Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+      "url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.5119444444444445,
+      "key": "50b3179c433e"
+    },
+    {
+      "text": "Astronomers Discover the Existence of a Black Hole Star. An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
+      "url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.5119444444444445,
+      "key": "276cdfc4a89a"
+    },
+    {
+      "text": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses. In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
+      "url": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.0119444444444445,
+      "key": "eb94435054d5"
+    },
+    {
+      "text": "Someone Finally Fixed Installing Apps on a Mac. The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+      "url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.0119444444444445,
+      "key": "2a2dc0d7960c"
+    },
+    {
+      "text": "TerraMow V1000 Review: Show Your Lawn Some Love. With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+      "url": "https://www.wired.com/review/terramow-v1000/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.0119444444444445,
+      "key": "8c3d89016564"
+    },
+    {
+      "text": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos. Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.",
+      "url": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.5119444444444445,
+      "key": "1917c7118b72"
+    },
+    {
+      "text": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall. Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 5.961944444444445,
+      "key": "58d7bc152261"
+    },
+    {
+      "text": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29151.79861111111,
+      "key": "f0c344e1a1c4"
+    },
+    {
+      "text": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": null,
+      "key": "67e098fd5e8e"
+    },
+    {
+      "text": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory. • Fox-Dominion trial delay 'is not unusual,' judge says • Fox News' defamation battle isn't stopping Trump's election lies",
+      "url": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29196.526388888888,
+      "key": "f582a22f2d4a"
+    },
+    {
+      "text": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'. The judge just announced in court that a settlement has been reached in the historic defamation case between Fox News and Dominion Voting Systems.",
+      "url": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29156.074722222223,
+      "key": "8082130b2fd7"
+    },
+    {
+      "text": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement. A settlement has been reached in Dominion Voting Systems' defamation case against Fox News, the judge for the case announced. The network will pay more than $787 million to Dominion, a lawyer for the company said.",
+      "url": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29167.250555555554,
+      "key": "748333ce2d44"
+    },
+    {
+      "text": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden. • DeSantis goes to Washington, a place he once despised, looking for support to take on Trump • Opinion: For the GOP to win, it must ditch Trump • Chris Christie mulling 2024 White House bid • Analysis: The fire next time has begun burning in Tennessee",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29167.966944444444,
+      "key": "1d56d49d676a"
+    },
+    {
+      "text": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges. • 'A major part of Ralph died': Aunt of teen shot after ringing wrong doorbell speaks • 20-year-old woman shot after friend turned into the wrong driveway in upstate New York, officials say",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29160.061388888887,
+      "key": "e2fc10a370bd"
+    },
+    {
+      "text": "Newly released video shows scene of Jeremy Renner's snowplow accident. Newly released body camera footage shows firefighters and sheriff's deputies rushing to help actor Jeremy Renner after a near-fatal snowplow accident in January. The \"Avengers\" actor broke more than 30 bones and suffered other severe injuries. CNN's Chloe Melas has more.",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29174.384166666667,
+      "key": "089af5ce0308"
+    },
+    {
+      "text": "Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together. It's sourdough bread and handstands for Jake Gyllenhaal and Jamie Lee Curtis.",
+      "url": "https://www.cnn.com/2023/04/18/entertainment/jake-gyllenhaal-jamie-lee-curtis-pandemic-living/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29173.870555555557,
+      "key": "e36109af5c22"
+    },
+    {
+      "text": "Toddler crawls through White House fence, prompts Secret Service response. A tiny intruder infiltrated White House grounds Tuesday, prompting a swift response from the US Secret Service.",
+      "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29170.908333333333,
+      "key": "1c762b2a01a3"
+    },
+    {
+      "text": "Jamie Foxx remains hospitalized nearly a week after 'medical complication'. Jamie Foxx remains hospitalized in Georgia nearly a week after his daughter revealed the actor experienced a \"medical complication,\" a source with knowledge of the matter told CNN on Monday.",
+      "url": "https://www.cnn.com/2023/04/17/entertainment/jamie-foxx-remains-hospitalized/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29188.094166666666,
+      "key": "8885376bf4b4"
+    },
+    {
+      "text": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'. A 13-year-old in Ohio has died after \"he took a bunch of Benadryl,\" trying a dangerous TikTok challenge that's circulating online, according to a CNN affiliate and a GoFundMe account from his family.",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29149.527777777777,
+      "key": "fcf490935e93"
+    },
+    {
+      "text": "See pizza delivery guy take out suspect fleeing police. Pizza guy delivers more than a pie, taking out a fleeing suspect. CNN's Jeanne Moos shows him putting his best foot forward.",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/pizza-guy-trips-perp-moos-cprog-orig-bdk.cnn",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29171.873333333333,
+      "key": "596b64345627"
+    },
+    {
+      "text": "Netflix is winding down its DVD business after 25 years. Netflix is officially winding down the business that helped make it a household name.",
+      "url": "https://www.cnn.com/2023/04/18/media/netflix-dvd-red-envelopes/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29168.36527777778,
+      "key": "218c6650fc39"
+    },
+    {
+      "text": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams. Artificial intelligence tools such as ChatGPT could lead to a \"turbocharging\" of consumer harms including fraud and scams, and the US government has substantial authority to crack down on AI-driven consumer harms under existing law, members of the Federal Trade Commission said Tuesday.",
+      "url": "https://www.cnn.com/2023/04/18/tech/lina-khan-ai-warning/index.html",
+      "source": "CNN Top Stories",
+      "weight": 0.9,
+      "age_hours": 29170.55222222222,
+      "key": "b2c546914619"
+    },
+    {
+      "text": "Routine California traffic stop leads to seizure of 30 pounds of cocaine worth more than $800K. A California Highway Patrol canine officer stopped a Honda CR-V in Merced County and allegedly found 30 pounds of suspected cocaine worth $817,200.",
+      "url": "https://www.foxnews.com/us/routine-california-traffic-stop-leads-seizure-30-pounds-cocaine-worth-more-800k",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1427777777777777,
+      "key": "a2a63e2071be"
+    },
+    {
+      "text": "Mets' Jefry Yan, known for high-flying strikeout celebration, performs it too soon in hilarious blunder. Mets reliever Jefry Yan thought he had strike three against the Nationals, but as he jumped in the air to perform his signature celebration, he realized the umpire didn&apos;t call it.",
+      "url": "https://www.foxnews.com/outkick-sports/mets-jefry-yan-known-high-flying-strikeout-celebration-performs-too-soon-hilarious-blunder",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.196666666666666,
+      "key": "04ec3ac5abb5"
+    },
+    {
+      "text": "Michael Penix Jr and Tua Tagovailoa have already given us a potential 'Meme of the Year' contender. Michael Penix Jr.&apos;s bewildered sideline reaction pointing at Tua Tagovailoa during the Falcons&apos; preseason opener is already going viral as a meme.",
+      "url": "https://www.foxnews.com/outkick-sports/michael-penix-jr-tua-tagovailoa-meme-year-contender",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.729166666666667,
+      "key": "246646710a49"
+    },
+    {
+      "text": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail. A runner on Anchorage&apos;s Wolverine Bowl trail used bear spray to fend off a brown bear and was hospitalized, marking the second attack in the area in weeks.",
+      "url": "https://www.foxnews.com/us/alaska-runner-hospitalized-bear-spray-fight-off-brown-bear-alaska-trail",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.407777777777778,
+      "key": "1c11839e2ac3"
+    },
+    {
+      "text": "Nevada man funneled 140 guns to violent Mexican drug cartels, including powerful 'military-style' rifles: DOJ. Luis Alberto Osorio admitted to buying 140 firearms including military-style rifles for violent Mexican drug-trafficking organizations in a straw purchase scheme.",
+      "url": "https://www.foxnews.com/us/nevada-man-funneled-140-guns-violent-mexican-drug-cartels-powerful-military-style-rifles-doj",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.845,
+      "key": "fa4efc447dc5"
+    },
+    {
+      "text": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos. Jessica Simpson shared bikini photos from her Turks and Caicos birthday trip on Instagram, lounging in a black polka dot two-piece in paradise.",
+      "url": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.191666666666666,
+      "key": "56e14bec37d2"
+    },
+    {
+      "text": "Bills' Dion Dawkins sparks intense debate after picking up his dog's poop on practice field. Video shows Buffalo Bills offensive tackle Dion Dawkins scooping dog poop off the NFL practice field in Crocs, igniting a fierce online debate.",
+      "url": "https://www.foxnews.com/outkick-sports/bills-dion-dawkins-sparks-intense-debate-picking-up-dogs-poop-practice-field",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.301111111111111,
+      "key": "7bc29887da4d"
+    },
+    {
+      "text": "Deshaun Watson's first game since 2024 a success because he wasn't as bad as Shedeur Sanders or Dillon Gabriel. Deshaun Watson completed 11 of 15 passes in his return from dual Achilles tears, while Shedeur Sanders and Dillon Gabriel both threw interceptions.",
+      "url": "https://www.foxnews.com/outkick-sports/deshaun-watson-first-game-since-2024-success-wasnt-bad-shedeur-sanders-dillon-gabriel",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.863888888888889,
+      "key": "b23ac0723893"
+    },
+    {
+      "text": "Vikings fear worst as Jamal Adams, former All-Pro safety, suffers knee injury in preseason game: 'Not good'. Jamal Adams was carted off at MetLife Stadium with a knee injury, and Vikings head coach Kevin O&apos;Connell said the first look was &quot;not good&quot; for the veteran.",
+      "url": "https://www.foxnews.com/sports/vikings-fear-worst-jamal-adams-former-all-pro-safety-suffers-knee-injury-preseason-game-not-good",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.278055555555556,
+      "key": "a0cb26f166e3"
+    },
+    {
+      "text": "Jaxson Dart gets last laugh against blitzing Vikings coach Brian Flores and the ominous blue medical tent. Jaxson Dart was rocked by a Jay Ward blitz in the Giants-Vikings preseason opener, causing another medical evaluation for a concussion and questions about his return to play.",
+      "url": "https://www.foxnews.com/outkick-sports/jaxson-dart-last-laugh-blitzing-vikings-coach-brian-flores-ominous-blue-medical-tent",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.735277777777778,
+      "key": "bf12f3c25f20"
+    },
+    {
+      "text": "Henry Winkler opens up about the unexpected career he considered before becoming an actor. Henry Winkler almost studied to become a child psychologist before transitioning into a career as an actor and finding fame as Fonzie on &quot;Happy Days.&quot;",
+      "url": "https://www.foxnews.com/entertainment/henry-winkler-opens-about-unexpected-career-considered-before-becoming-actor",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.475555555555555,
+      "key": "4eb2906a38d7"
+    },
+    {
+      "text": "Roger Miller given stark choice after getting caught stealing: ‘You can go to jail or you can go in the Army’. Dean Miller says his father joined the Army as a teen after he was caught stealing from a club. The judge then gave him a choice between jail and the Army.",
+      "url": "https://www.foxnews.com/entertainment/roger-miller-given-stark-choice-after-getting-caught-stealing-you-can-go-jail-you-can-go-army",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.651666666666667,
+      "key": "031c2979df87"
+    },
+    {
+      "text": "Ex-detective who served fraction of 102-year sentence faces new charges after cold case review. Former Los Angeles vice detective Michael Douglas Brambles, paroled in 2020 under California&apos;s elderly inmates law, faces new kidnapping charges.",
+      "url": "https://www.foxnews.com/us/ex-detective-served-fraction-102-year-sentence-faces-new-charges-cold-case-review",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.73,
+      "key": "ca10669965b9"
+    },
+    {
+      "text": "Mets become latest on social media to troll Jayden Daniels amid No 5 jersey feud with LSU. The New York Mets trolled Jayden Daniels on X after beating the Washington Nationals, joining the viral mockery over his cease-and-desist letter to LSU.",
+      "url": "https://www.foxnews.com/outkick-sports/mets-latest-social-media-troll-jayden-daniels-no-5-jersey-feud-lsu",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.196388888888889,
+      "key": "f339f6a41a8b"
+    },
+    {
+      "text": "Indiana Pacers' star Tyrese Haliburton has one major problem with the new NBA schedule. Tyrese Haliburton questioned why his Achilles return after 16 months won&apos;t be on national TV, calling out the NBA schedule on a recent podcast.",
+      "url": "https://www.foxnews.com/outkick-sports/indiana-pacers-star-tyrese-haliburton-major-problem-new-nba-schedule",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 10.36138888888889,
+      "key": "ca86209fc2ac"
+    },
+    {
+      "text": "Are robotaxis finally here?. Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.581666666666667,
+      "key": "43bc928cdfef"
+    },
+    {
+      "text": "State Department spokesperson on Iran war and U.S. visa revocations. NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 8.74,
+      "key": "08569941224e"
+    },
+    {
+      "text": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid. Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.017222222222221,
+      "key": "a6ce4c8e0784"
+    },
+    {
+      "text": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board. President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.72861111111111,
+      "key": "75f5cde96767"
+    },
+    {
+      "text": "Trump administration wants to allow companies to hack foreign cybercriminals. The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.661388888888888,
+      "key": "f669fc4fdba4"
+    },
+    {
+      "text": "Jason Arday, Cambridge professor accused of plagiarism, is found dead. Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.008888888888889,
+      "key": "bc35053c7e84"
+    },
+    {
+      "text": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis. Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 19.920833333333334,
+      "key": "bb7fb246af1a"
+    },
+    {
+      "text": "5 exercises that can prevent (and relieve!) pregnancy pain. Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 21.020833333333332,
+      "key": "a1531a8d1a66"
+    },
+    {
+      "text": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards. When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 21.0875,
+      "key": "b246a5fde6bd"
+    },
+    {
+      "text": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47. A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 21.59861111111111,
+      "key": "c77688968368"
+    }
+  ],
+  "contexts": {}
+}

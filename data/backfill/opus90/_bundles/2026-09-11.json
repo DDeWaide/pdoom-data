@@ -1,0 +1,685 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-10-17T12:53:10.060348+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 8,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260911084823",
+    "MIT Technology Review": "20260911094558",
+    "Ars Technica": "20260911091650",
+    "The Verge AI": "20260911132613",
+    "Wired": "20260911095141",
+    "CNN Top Stories": "20260911094813",
+    "Fox News Latest": "20260911093925",
+    "NPR News": "20260911092054",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Pro-Palestine student suspended by King’s College London returns to campus. College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.43916666666666665,
+      "key": "a66f2c4abed9"
+    },
+    {
+      "text": "What did 25 years of the “war on terror” leave behind?. US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.46416666666666667,
+      "key": "1eb0bf36826f"
+    },
+    {
+      "text": "How 9/11 helped Israel sell its war on Palestinians to America. The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.5013888888888889,
+      "key": "e9a691de48d1"
+    },
+    {
+      "text": "Anthropic warns of bids to use AI to build biological weapons. Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6611111111111111,
+      "key": "0fb86ee900a0"
+    },
+    {
+      "text": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists. Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.7986111111111112,
+      "key": "97be2b17f727"
+    },
+    {
+      "text": "UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US. UEFA urges US court to deny FIFA subsidiaries&#039; bid to join Gianni Infantino discovery fight as president battle rumbles.",
+      "url": "https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.8411111111111111,
+      "key": "f2375e402ce2"
+    },
+    {
+      "text": "From hours at security to bulletproof cockpits: How 9/11 changed air travel. One of the biggest changes to US aviation travel was the Aviation and Transportation Security Act (TSA).",
+      "url": "https://www.aljazeera.com/news/2026/9/11/from-hours-at-security-to-bulletproof-cockpits-how-9-11-changed-air?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.081388888888889,
+      "key": "649058519c0e"
+    },
+    {
+      "text": "BRICS summit: Is the bloc truly challenging a Western-dominated world?. Some experts say BRICS need not replace the West to succeed - only make Western dominance harder to exercise.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0997222222222223,
+      "key": "dfb6e254430a"
+    },
+    {
+      "text": "Settlers, soldiers, and Israeli impunity in the West Bank. Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+      "url": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.1944444444444444,
+      "key": "400844c1af98"
+    },
+    {
+      "text": "‘Not dolls to play with’: Afghan medical students face Pakistan expulsion. Students say they were legally admitted and funded to study in Pakistan, but now face being sent home mid-degree.",
+      "url": "https://www.aljazeera.com/features/2026/9/11/not-dolls-to-play-with-afghan-medical-students-face-pakistan-expulsion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.271388888888889,
+      "key": "e5a2248c22f7"
+    },
+    {
+      "text": "Is the US more anti-Muslim now than after 9/11?. Twenty-five years after 9/11, negative perceptions of Islam persist even as Muslim political representation grows.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7911111111111113,
+      "key": "4e76db7c7dfb"
+    },
+    {
+      "text": "Hundreds flee as fire destroys migrant shelters in Ceuta. Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.2197222222222224,
+      "key": "862dfd3c1f54"
+    },
+    {
+      "text": "How 9/11 conspiracy theories moved into mainstream American politics. Social media and distrust of government has helped disinformation reach increasingly large audiences.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.305,
+      "key": "c37c30a8db70"
+    },
+    {
+      "text": "‘Everything changed’: The human cost of 25 years of US wars. Successive wars launched after 9/11 have killed at least 4.5 million people and displaced more than 38 million others.",
+      "url": "https://www.aljazeera.com/news/longform/2026/9/11/everything-changed-the-human-cost-of-25-years-of-us-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.354722222222222,
+      "key": "d4402735c171"
+    },
+    {
+      "text": "NAZA, the Israeli film revealing new layers of the Gaza genocide. A 25-minute standing ovation at the Biennale has put NAZA, an Israeli-made film confronting Israel’s genocide in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.3802777777777777,
+      "key": "b809ae6e0e21"
+    },
+    {
+      "text": "Meet the under-35s shaping the future of biotech. Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who a",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 0.7661111111111111,
+      "key": "26e61e135024"
+    },
+    {
+      "text": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli ",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.599444444444444,
+      "key": "3f465819298d"
+    },
+    {
+      "text": "Powering AI is an architecture problem. On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,50",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.766111111111112,
+      "key": "ae3d5808be21"
+    },
+    {
+      "text": "This road map could help us decide whether to deploy solar geoengineering. A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could co",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 22.766111111111112,
+      "key": "417b2e0ed8b4"
+    },
+    {
+      "text": "Can the US battery market untangle from China?. The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Ch",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 23.766111111111112,
+      "key": "c3726660f7dd"
+    },
+    {
+      "text": "God told them to sell crypto. Their investors lost everything.. This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his min",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.766111111111112,
+      "key": "a5c6c2d2c4d1"
+    },
+    {
+      "text": "Healthcare AI’s next test is integration. The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generatin",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.799166666666668,
+      "key": "3db9e5d5f79c"
+    },
+    {
+      "text": "Boy developed \"toasted skin\" condition from using a laptop every day. Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.0125,
+      "key": "86b738525b58"
+    },
+    {
+      "text": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions. Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 12.355833333333333,
+      "key": "3f142f5f6f15"
+    },
+    {
+      "text": "Europe will go it alone on Venus mission after NASA yanks radar instrument. Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
+      "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.1225,
+      "key": "de8f1a0ade43"
+    },
+    {
+      "text": "Android can now securely migrate your logins between password managers. App support is slim right now, but Google says more are coming.",
+      "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 14.594722222222222,
+      "key": "51efca3803a9"
+    },
+    {
+      "text": "Panic builds over bankrupt Spirit’s looming data sale to Google. \"Bankruptcy cannot become the new land grab for AI.”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.043333333333333,
+      "key": "9ad7098f5a79"
+    },
+    {
+      "text": "Physicist does the math on Star Trek’s “Picard maneuver”. The trick from Next Generation would be even more effective in real life.",
+      "url": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.37138888888889,
+      "key": "7cc08c0ec18d"
+    },
+    {
+      "text": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats. Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 15.778055555555556,
+      "key": "b5b00829cd97"
+    },
+    {
+      "text": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster. DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 16.38277777777778,
+      "key": "f8c7c7e52b67"
+    },
+    {
+      "text": "Artemis II commander and pilot become NASA's first astronaut emeriti. \"Artemis II is done.\"",
+      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 21.76888888888889,
+      "key": "f4b6f3146e02"
+    },
+    {
+      "text": "Four groups caught using the same Chrome and Windows exploit kit. A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 36.36333333333334,
+      "key": "4b1eaa98a0af"
+    },
+    {
+      "text": "Slack can now vibe-code interactive charts and reports inside chats. A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, ",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 15.937222222222223,
+      "key": "cc6c0a7deb28"
+    },
+    {
+      "text": "Schools are catching on to Big Tech’s playbook. It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 17.60972222222222,
+      "key": "eba0399d25c0"
+    },
+    {
+      "text": "Universal Music is launching an AI music platform with ElevenLabs. Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with Eleve",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 21.326944444444443,
+      "key": "1c62a6c2df80"
+    },
+    {
+      "text": "Meta’s Muse AI works and creeps me out. Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed ",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 1.2558333333333334,
+      "key": "357f22a7c3c9"
+    },
+    {
+      "text": "Why the current tech backlash feels different. This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Ni",
+      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 23.607777777777777,
+      "key": "a6b1529ba3c8"
+    },
+    {
+      "text": "Mathematicians want proof OpenAI didn’t use their work. Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 26.108055555555556,
+      "key": "07c4bbacb029"
+    },
+    {
+      "text": "Suno releases its first AI music model made with record industry help. Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 39.653055555555554,
+      "key": "2600237fb659"
+    },
+    {
+      "text": "OpenAI’s sly mathematical breakthrough sends a chill through academia. OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the brea",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 17.675,
+      "key": "303472e18931"
+    },
+    {
+      "text": "Read the Apple document explaining how new listening features still protect your privacy. At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. I",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 40.69166666666667,
+      "key": "1e0acd6598dc"
+    },
+    {
+      "text": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI. Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 41.08222222222222,
+      "key": "26694a10d290"
+    },
+    {
+      "text": "The US and Mexico Announce They’re Teaming Up Against Drones. The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+      "url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.6113888888888889,
+      "key": "25c15ffe73a2"
+    },
+    {
+      "text": "Why So Many AI Researchers Think the Machines Could Kill Everyone. A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.8613888888888889,
+      "key": "c6e50b74dc74"
+    },
+    {
+      "text": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money. Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
+      "url": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.8613888888888889,
+      "key": "b0804f41e85f"
+    },
+    {
+      "text": "Chewy Promo Codes: $20 Off September 2026. Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "b7dcb334b7fd"
+    },
+    {
+      "text": "Home Depot Promo Codes: 30% Off in September 2026. Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "0e3aea3a0af3"
+    },
+    {
+      "text": "Corsair Discount Code: Up to 50% Off for September 2026. Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "url": "https://www.wired.com/story/corsair-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "93d3abde6ffe"
+    },
+    {
+      "text": "Lenovo Coupon Codes: 15% Off in September 2026. Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "befcee433305"
+    },
+    {
+      "text": "50% Off DoorDash Promo Code | September 2026. Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "55c6ee81010f"
+    },
+    {
+      "text": "30% Off Canon Promo Codes | September 2026. Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "56e442686460"
+    },
+    {
+      "text": "Surfshark Promo Codes: 87% Off | September 2026. Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "d2d6e505dbda"
+    },
+    {
+      "text": "LG Promo Codes and Coupons for September 2026. Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "6e5c27e9044f"
+    },
+    {
+      "text": "Ulta Promo Codes: Up to 20% Off in September 2026. Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "500f39a479fb"
+    },
+    {
+      "text": "Stearns and Foster Promo Codes: $300 Off in September 2026. Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.",
+      "url": "https://www.wired.com/story/stearns-and-foster-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "3c047289f555"
+    },
+    {
+      "text": "Sealy Promo Codes: $100 Off. Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "c455134aef7b"
+    },
+    {
+      "text": "AT&T Promo Codes: $50 Off This September 2026. Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 4.8613888888888885,
+      "key": "e217e8d58392"
+    },
+    {
+      "text": "Mamdani heads to 9/11 memorial despite 110,000-signature push from victims’ families to stay away. Scores of New Yorkers and 9/11 families signed a petition urging Zohran Mamdani to skip the Ground Zero memorial over his Ramzi Kassem pick.",
+      "url": "https://www.foxnews.com/politics/mamdani-heads-9-11-memorial-despite-110000-signature-push-from-victims-families-stay-away",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.15388888888888888,
+      "key": "3b1d04dc8b0f"
+    },
+    {
+      "text": "9/11 hero’s legacy lives on 25 years later as son unveils new tech lifeline for those facing grief. Doora, an AI grief chatbot from nonprofit Hold the Door, launched on the 9/11 anniversary to honor a father killed in the World Trade Center.",
+      "url": "https://www.foxnews.com/politics/9-11-heros-legacy-lives-25-years-later-son-unveils-new-tech-lifeline-those-facing-grief",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6405555555555555,
+      "key": "2e70fb0a5323"
+    },
+    {
+      "text": "Republican cavalry arrives for Ken Paxton as big-bucks Texas offensive opens cash floodgates. Top Senate Republicans are pouring eight figures into a new Texas PAC to boost Ken Paxton against James Talarico in a razor-thin Senate showdown.",
+      "url": "https://www.foxnews.com/politics/republican-cavalry-arrives-ken-paxton-big-bucks-texas-offensive-opens-cash-floodgates",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6413888888888889,
+      "key": "ef32e1111635"
+    },
+    {
+      "text": "JOHN ONDRASIK: What 9/11 taught us about courage, unity and the price of freedom. The song &quot;Tuesday&quot; honors September 11 victims as its creator asks whether America could still unite if another 9/11-scale attack struck today.",
+      "url": "https://www.foxnews.com/opinion/john-ondrasik-what-911-taught-us-about-courage-unity-price-freedom",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6416666666666667,
+      "key": "c3bb51e66bc5"
+    },
+    {
+      "text": "The Hispanic vote is up for grabs in 2026. Candidates who ignore it will lose. Hispanic voters in battleground districts remain persuadable heading into 2026, with over half undecided and cost of living topping their concerns.",
+      "url": "https://www.foxnews.com/opinion/hispanic-vote-grabs-2026-candidates-ignore-lose",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6427777777777778,
+      "key": "399885e0deee"
+    },
+    {
+      "text": "Trump set to honor 9/11 victims, first responders at Pentagon on 25th anniversary. President Donald Trump will attend a Pentagon ceremony on the 25th anniversary of 9/11 while JD Vance joins former presidents at the World Trade Center.",
+      "url": "https://www.foxnews.com/politics/trump-set-honor-9-11-victims-first-responders-pentagon-25th-anniversary",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6447222222222222,
+      "key": "931ca7be7d61"
+    },
+    {
+      "text": "Trump issues blunt midterm warning, Vance greeted with ‘48’ chants: Top takeaways from GOP convention. President Donald Trump led the Dallas crowd in a voting pledge and warned supporters they&apos;d &quot;go to hell&quot; if they skip the midterm elections this November.",
+      "url": "https://www.foxnews.com/politics/trump-issues-blunt-midterm-warning-vance-greeted-48-chants-top-takeaways-gop-convention",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6541666666666667,
+      "key": "d72caac871c9"
+    },
+    {
+      "text": "FRANK SILLER: Everyone else was running away on 9/11. My brother ran toward the Twin Towers. Stephen Siller&apos;s brother Frank recounts the FDNY firefighter&apos;s final drive toward the World Trade Center through the Brooklyn-Battery Tunnel on 9/11.",
+      "url": "https://www.foxnews.com/opinion/frank-siller-everyone-else-running-away-911-my-brother-ran-toward-twin-towers",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.8158333333333333,
+      "key": "0cb6937a38fa"
+    },
+    {
+      "text": "MIKE PENCE: Remember the fallen — and the generation that defended America since 9/11. From the World Trade Center to the hunt for Osama bin Laden and ISIS, a generation of Americans answered the call after the September 11 attacks.",
+      "url": "https://www.foxnews.com/opinion/mike-pence-remember-fallen-generation-defended-america-since-9-11",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.1419444444444444,
+      "key": "be9762110bfa"
+    },
+    {
+      "text": "Trump admin's list of US-designated 'foreign terrorist' groups in Latin America expands to 21. Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America.",
+      "url": "https://www.foxnews.com/politics/trumps-list-us-designated-foreign-terrorist-groups-latin-america-expands-21",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.8569444444444445,
+      "key": "88a1dc786493"
+    },
+    {
+      "text": "Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?. Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.",
+      "url": "https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.567222222222222,
+      "key": "2d552bbb987b"
+    },
+    {
+      "text": "‘I’m coming home’: Last words haunt a 9/11 daughter 25 years later as she builds a legacy in his honor. Kayla Fallon Smith lost her father in the 9/11 World Trade Center attacks at age 8 and now runs a nonprofit offering equine therapy to veterans.",
+      "url": "https://www.foxnews.com/us/im-coming-home-last-words-haunt-911-daughter-25-years-later-builds-legacy-his-honor",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.643888888888889,
+      "key": "91914b1fd3d3"
+    },
+    {
+      "text": "American Jessica Pegula falls to top-ranked Aryna Sabalenka in straight sets in US Open semifinal. Aryna Sabalenka dominated Jessica Pegula with 29 winners to reach the U.S. Open final, where Coco Gauff or Elena Rybakina awaits Saturday night.",
+      "url": "https://www.foxnews.com/outkick-sports/american-jessica-pegula-falls-top-ranked-aryna-sabalenka-straight-sets-us-open-semifinal",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.4816666666666665,
+      "key": "c7d7581883e1"
+    },
+    {
+      "text": "Megan Rapinoe says women's sports are facing 'regression' of 'equal rights' in new Kamala Harris interview. Kamala Harris joined Megan Rapinoe for a new interview touching on women&apos;s sports, politics, and a puzzling tangent about &quot;the boy next door.&quot;",
+      "url": "https://www.foxnews.com/outkick-sports/megan-rapinoe-says-womens-sports-are-facing-regression-of-equal-rights-in-new-kamala-harris-interview",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.1369444444444445,
+      "key": "adeea1db5553"
+    },
+    {
+      "text": "Charlie Kirk supporters return to site of assassination 1 year later: ‘We are still standing’. Turning Point USA returned to Utah Valley University to reclaim the space where Charlie Kirk was assassinated, unveiling a new statue in his honor.",
+      "url": "https://www.foxnews.com/us/charlie-kirk-supporters-return-site-assassination-1-year-later-still-standing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.310555555555555,
+      "key": "23621f05c53d"
+    },
+    {
+      "text": "Sorry, we can't pay you $5,000 to do the news quiz. We're public media. Plus: donkeys, maps, art, iPhones and more!",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.33166666666666667,
+      "key": "f27ae420ceb5"
+    },
+    {
+      "text": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk. In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "dac56a66a9ca"
+    },
+    {
+      "text": "Empty seats, socialism and Trump dominate the Republican midterm convention. The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "e8576f227103"
+    },
+    {
+      "text": "Trump administration allows TPS to continue for Salvadorans – for now. The Trump administration declined this week to terminate TPS for Salvadorans, even though it has done so for people from other countries like Haiti and Syria. But it also hasn't said whether it will extend the protection in the future.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "9254cd96e135"
+    },
+    {
+      "text": "They cleaned up ground zero. Now many are hiding from ICE. After 9/11, thousands of rescue and cleanup crews went to work at ground zero. They were exposed to toxic debris and experienced psychological trauma. Today, many say they live in fear of deportation.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "18a8e3de08a2"
+    },
+    {
+      "text": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve. The U.S. marks the 25th anniversary of 9/11. Events will honor those lost, at a time when Americans are divided about the meaning and legacy of the terrorist attacks.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "9d841c9be519"
+    },
+    {
+      "text": "The U.S.-Canada trade war is creating a headache for auto-parts makers. For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "57de40840b29"
+    },
+    {
+      "text": "These Michigan swing voters are bracing for higher prices from trade war with Canada. President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.34833333333333333,
+      "key": "511ce61b5ddd"
+    },
+    {
+      "text": "Why Houthi gains in Yemen could push gas prices even higher. A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.8075,
+      "key": "582dbb305c60"
+    },
+    {
+      "text": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison. The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 2.647222222222222,
+      "key": "0d99efc444ff"
+    }
+  ],
+  "contexts": {}
+}

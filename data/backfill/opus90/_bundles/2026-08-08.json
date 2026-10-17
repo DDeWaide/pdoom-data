@@ -1,0 +1,485 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-10-17T12:38:04.724238+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260808234528",
+    "NPR World": null,
+    "Al Jazeera": "20260808081133",
+    "MIT Technology Review": "20260808051226",
+    "Ars Technica": null,
+    "The Verge AI": "20260808025022",
+    "Wired": null,
+    "CNN Top Stories": "20260808042118",
+    "Fox News Latest": "20260808065114",
+    "NPR News": "20260808062601",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait. Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 4.441944444444444,
+      "key": "5c60574ef3a7"
+    },
+    {
+      "text": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general. The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.813611111111111,
+      "key": "63903c8f5c10"
+    },
+    {
+      "text": "US offers $1bn to Colombia on new right-wing president's first day of office. Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.779444444444445,
+      "key": "37ef1f4337a4"
+    },
+    {
+      "text": "Messi's father Jorge dies aged 68 after illness. Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.904722222222222,
+      "key": "0b35f527d1ed"
+    },
+    {
+      "text": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit. The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.365833333333334,
+      "key": "7d4679880e7d"
+    },
+    {
+      "text": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM. Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 7.764166666666667,
+      "key": "e4dac05cf5aa"
+    },
+    {
+      "text": "Paris tells e-scooter riders to wear safety gear or face fines. Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 3.45,
+      "key": "be7945e45753"
+    },
+    {
+      "text": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies. Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.335833333333333,
+      "key": "ea923190a890"
+    },
+    {
+      "text": "Child among three killed in Russian missile attacks near Kyiv. Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 5.650833333333333,
+      "key": "5628cdc658bf"
+    },
+    {
+      "text": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China. The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.503055555555555,
+      "key": "70dbbad53f26"
+    },
+    {
+      "text": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes. The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.7261111111111112,
+      "key": "8759108326b4"
+    },
+    {
+      "text": "Thai PM vows to introduce stricter gun laws after eight killed in shooting. Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 26.433611111111112,
+      "key": "b1da154d3d30"
+    },
+    {
+      "text": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks. The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 31.52861111111111,
+      "key": "05132c52a51a"
+    },
+    {
+      "text": "NBA forward Clarke's death due to effects of drugs. Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 11.673333333333334,
+      "key": "d7e6fe1ee573"
+    },
+    {
+      "text": "South Korea FA apologises over ‘sexual services’ allegations. Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.37,
+      "key": "855637b2789a"
+    },
+    {
+      "text": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules. Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.1308333333333334,
+      "key": "464ec7c05ffa"
+    },
+    {
+      "text": "Hundreds camp on sweltering Rome street amid tussle over squatted building. After a fire broke out, the building was cleared in what activists say was a politically motivated move.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.426388888888889,
+      "key": "1e5a1c7d3e7d"
+    },
+    {
+      "text": "Bangladesh say Shakib will not play cricket again after Hasina event. Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6777777777777776,
+      "key": "cdd05d01df9a"
+    },
+    {
+      "text": "Violence is driving Palestinian Christians out of their Holy Land. Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7133333333333334,
+      "key": "7aed4d455b34"
+    },
+    {
+      "text": "FIFA’s Infantino backed in Colombia where he attends president inauguration. FIFA president Gianni Infantino gets South American football&#039;s backing while at Abelardo de la Espriella&#039;s inauguration.",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0183333333333335,
+      "key": "dc5a3fb0c7c5"
+    },
+    {
+      "text": "Norway Football Federation calls for FIFA president to resign. Norway’s football federation has called on Gianni Infantino to resign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.560277777777778,
+      "key": "7db24c84c49f"
+    },
+    {
+      "text": "Armenia puts Church leader on trial for allegedly being a Russian spy. Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.6641666666666666,
+      "key": "9b665d1e4f13"
+    },
+    {
+      "text": "‘I’ve never been counted’: DR Congo’s first census in 42 years. For many Congolese, the census is about identity, recognition and finally being recorded by the state.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.696388888888889,
+      "key": "12a45447482b"
+    },
+    {
+      "text": "Russian strikes near Ukrainian capital kill three, including child. Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.88,
+      "key": "1bfb1db45e4d"
+    },
+    {
+      "text": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation. Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.480555555555555,
+      "key": "59c715335d5b"
+    },
+    {
+      "text": "US Senate passes Russia sanctions that could hurt India and China. The US Senate approved its strongest move against Russia under Trump.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.847777777777778,
+      "key": "a0d4be35fb92"
+    },
+    {
+      "text": "Submerged Indonesian village re-emerges as drought lowers water levels. Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.291944444444445,
+      "key": "f479bbcc8402"
+    },
+    {
+      "text": "US courts clear way for deportations of South Sudan, Myanmar nationals. Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.051388888888889,
+      "key": "96e9d0a16ab9"
+    },
+    {
+      "text": "What could the Mecca defence pact mean for the US role in the Middle East?. Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
+      "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.705277777777778,
+      "key": "aed593db2be1"
+    },
+    {
+      "text": "The Download: a censorship conspiracy theory and the first virus created by AI. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing cir",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 14.873888888888889,
+      "key": "2f6c9ca3d5e9"
+    },
+    {
+      "text": "How ideas of a vast censorship network moved from the online fringe to Trump policy. This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutti",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 15.207222222222223,
+      "key": "880c3f29fdf8"
+    },
+    {
+      "text": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore. It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 6.808611111111111,
+      "key": "85cf6058739e"
+    },
+    {
+      "text": "Watching Roku’s AI channel is like eating from a trough. The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constan",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 7.843333333333334,
+      "key": "d0ff0796ba63"
+    },
+    {
+      "text": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful. OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted th",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 8.163333333333334,
+      "key": "9ee77aea9732"
+    },
+    {
+      "text": "What&#8217;s behind the Google AI shake-up. Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 9.739444444444445,
+      "key": "9b1e321cb5ad"
+    },
+    {
+      "text": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker. The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 29.8975,
+      "key": "3e5da3c7f943"
+    },
+    {
+      "text": "Suno shares plans to combat spammy AI music. Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is roll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 33.1775,
+      "key": "c92094d1d2f7"
+    },
+    {
+      "text": "OpenAI is giving ChatGPT free users unlimited text chats. OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 32.57805555555556,
+      "key": "ada3ea1199ba"
+    },
+    {
+      "text": "SoftBank donated $50 million to Trump’s library months before federal data center deal. SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard ",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 36.041666666666664,
+      "key": "7b82729a15cf"
+    },
+    {
+      "text": "The left and right agree on one thing: no data centers. Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. S",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 36.53194444444444,
+      "key": "b0004715ba24"
+    },
+    {
+      "text": "The messy politics behind Google’s big AI shakeup. In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the real",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge AI",
+      "weight": 1.3,
+      "age_hours": 36.37611111111111,
+      "key": "35424f5ef49f"
+    },
+    {
+      "text": "Two men accused of posing as federal agents arrested after allegedly targeting 85-year-old in $200K gold scam. Two men allegedly posed as federal agents to scam an 85-year-old Washington, D.C., man out of over $200,000 in gold bars before police moved in.",
+      "url": "https://www.foxnews.com/us/two-men-accused-posing-federal-agents-arrested-allegedly-targeting-85-year-old-200k-gold-scam",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.979722222222222,
+      "key": "7fc2030676f7"
+    },
+    {
+      "text": "Trump urges Jeanine Pirro to revisit dropped Lincoln Memorial Reflecting Pool vandalism case. President Donald Trump urged Jeanine Pirro to revisit the dropped vandalism case, sharing photos he says show knife cuts at the Reflecting Pool.",
+      "url": "https://www.foxnews.com/politics/trump-urges-jeanine-pirro-revisit-dropped-lincoln-memorial-reflecting-pool-vandalism-case",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.944166666666667,
+      "key": "902fd2e4cadb"
+    },
+    {
+      "text": "Ex-MLB pitcher gives his take on Mets reliever Jefry Yan's wild strikeout split celebration. Mets reliever Jefry Yan&apos;s wild strikeout celebration is turning heads, and ex-MLB pitcher Collin Balester weighs in on the unorthodox routine.",
+      "url": "https://www.foxnews.com/outkick-sports/ex-mlb-pitcher-gives-take-mets-reliever-jefry-yan-wild-strikeout-split-celebration",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.401388888888889,
+      "key": "2a13420d0578"
+    },
+    {
+      "text": "More than 50 bodies found decomposing inside Chicago funeral home after neighbors complained of 'stench'. Over 50 bodies were found decomposing at a South Side funeral home after months of complaints about a foul stench from nearby Chicago residents.",
+      "url": "https://www.foxnews.com/us/more-than-50-bodies-found-decomposing-inside-chicago-funeral-home-after-neighbors-complained-stench",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.8,
+      "key": "5a82f407b1f5"
+    },
+    {
+      "text": "Former NBA player Royce White says he is declaring for next WNBA Draft after Enes Kanter announcement. Royce White says he&apos;s declaring for the 2027 WNBA Draft as a transgender woman, joining Enes Kanter Freedom in challenging the league&apos;s eligibility rules.",
+      "url": "https://www.foxnews.com/outkick-sports/former-nba-player-royce-white-declaring-next-wnba-draft-enes-kanter-announcement",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.6,
+      "key": "8aba4284e07e"
+    },
+    {
+      "text": "Trump ally 'El Tigre' sworn in as Colombia's new president amid continent's rightward shift. Abelardo de la Espriella inherits soaring violence, a fragmented Congress and a $34 billion financing gap as he vows to rebuild U.S. ties.",
+      "url": "https://www.foxnews.com/world/trump-ally-el-tigre-sworn-colombias-new-president-amid-continents-rightward-shift",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.801388888888889,
+      "key": "3bd84b40c36a"
+    },
+    {
+      "text": "Hasan Piker calls for Democrats who oppose Abdul El-Sayed to be 'punished'. Socialist Twitch streamer Hasan Piker demands Democrats punish those who do not support Abdul El-Sayed&apos;s Michigan Senate bid, prompting sharp pushback.",
+      "url": "https://www.foxnews.com/media/hasan-piker-calls-democrats-oppose-abdul-el-sayed-punished",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.848611111111111,
+      "key": "ae7c951ac9b0"
+    },
+    {
+      "text": "President Trump pumps up the 'Protect College Sports Act' as the Senate works to pass it. Trump urged Congress on Truth Social to pass the &quot;Protect College Sports Act,&quot; warning that women&apos;s and Olympic sports will disappear without it.",
+      "url": "https://www.foxnews.com/outkick-sports/president-trump-pumps-protect-college-sports-act-senate-works-pass",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.428333333333334,
+      "key": "b3f3ab9a6774"
+    },
+    {
+      "text": "Former Air Force Secretary Frank Kendall has security clearance revoked over Air Force One disclosure. The Department of War revoked former Air Force Secretary Frank Kendall’s eligibility to access classified information and hold sensitive positions.",
+      "url": "https://www.foxnews.com/politics/former-air-force-secretary-frank-kendall-security-clearance-revoked-air-force-one-disclosure",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.575,
+      "key": "2cbcc31591e3"
+    },
+    {
+      "text": "Dem attorney backs GOP hopeful in Michigan race against El-Sayed, 'jumping ship' from his party's 'lunatics'. Julian Epstein says Democrats have &quot;gone off the deep end&quot; with Abdul El-Sayed&apos;s nomination, declaring his support for Republican Mike Rogers.",
+      "url": "https://www.foxnews.com/media/dem-attorney-backs-gop-hopeful-michigan-race-against-el-sayed-jumping-ship-partys-lunatics",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.620277777777778,
+      "key": "1f33642ad206"
+    },
+    {
+      "text": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report. Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
+      "url": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.185,
+      "key": "d587a2cd0136"
+    },
+    {
+      "text": "Late NBA player Brandon Clarke died of accidental heroin and cocaine overdose, authorities say. Brandon Clarke was found dead in his Los Angeles home from the effects of heroin and cocaine in what authorities ruled an accidental overdose.",
+      "url": "https://www.foxnews.com/sports/late-nba-player-brandon-clarke-died-accidental-heroin-cocaine-overdose-authorities-say",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.516388888888889,
+      "key": "a9d17374f889"
+    },
+    {
+      "text": "Chilling new video shows armed citizens, off-duty trooper confront In-N-Out gunman during deadly rampage. Newly released video shows the Twin Falls, Idaho, In-N-Out Burger gunman&apos;s deadly path and how an off-duty trooper and armed bystander confronted him.",
+      "url": "https://www.foxnews.com/us/chilling-new-video-shows-armed-citizens-off-duty-trooper-confront-in-n-out-gunman-deadly-rampage",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.781944444444445,
+      "key": "907b399f233a"
+    },
+    {
+      "text": "The Pittsburgh Penguins may have just given out one of the riskiest contracts in NHL history. In an NHL offseason featuring Patrick Kane and Macklin Celebrini, the Pittsburgh Penguins&apos; Ville Koivunen deal may be the biggest gamble of all.",
+      "url": "https://www.foxnews.com/outkick-sports/pittsburgh-penguins-riskiest-contracts-nhl-history",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 8.848611111111111,
+      "key": "f8329025d61e"
+    },
+    {
+      "text": "Former first lady Jill Biden doubts she'll see a woman president in her lifetime. Jill Biden told Kelly Ripa she doubts she&apos;ll see a female president in her lifetime despite believing Kamala Harris was going to win in 2024.",
+      "url": "https://www.foxnews.com/media/former-first-lady-jill-biden-doubts-shell-see-woman-president-lifetime",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 9.145555555555555,
+      "key": "dcc2cd695e5a"
+    },
+    {
+      "text": "Women in Maine may choose the victor in this year's Senate race. The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.023055555555555,
+      "key": "01e2d31f8a91"
+    }
+  ],
+  "contexts": {}
+}

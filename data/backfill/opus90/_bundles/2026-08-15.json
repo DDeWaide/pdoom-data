@@ -1,0 +1,621 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-10-17T12:40:11.531454+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 7,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260815182805",
+    "MIT Technology Review": "20260815095448",
+    "Ars Technica": "20260815225041",
+    "The Verge AI": null,
+    "Wired": "20260815230107",
+    "CNN Top Stories": "20260815043144",
+    "Fox News Latest": "20260815055501",
+    "NPR News": "20260815063017",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Cleanup underway as Russian oil spill reaches Oman’s coastline. Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.2813888888888889,
+      "key": "e2140868f2bc"
+    },
+    {
+      "text": "US aircraft carrier expected to relieve USS Lincoln in Middle East. The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6397222222222222,
+      "key": "4662be00140f"
+    },
+    {
+      "text": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur. The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
+      "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.6591666666666667,
+      "key": "2206460c6816"
+    },
+    {
+      "text": "Tropical Storm Lala expected to strengthen as it nears Hawaii. Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0022222222222221,
+      "key": "9133bdd30617"
+    },
+    {
+      "text": "UK PM Burnham reacts to death of former Cambridge professor. Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.1480555555555556,
+      "key": "bd2d43dfd43d"
+    },
+    {
+      "text": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact. Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.803611111111111,
+      "key": "b21347d26338"
+    },
+    {
+      "text": "One killed, dozens injured after wildfire hits Croatian coast. At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9166666666666667,
+      "key": "d9e9259c835e"
+    },
+    {
+      "text": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return. Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.1727777777777777,
+      "key": "9883bd852264"
+    },
+    {
+      "text": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package. Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6330555555555555,
+      "key": "e152b1766fa8"
+    },
+    {
+      "text": "Israeli settlers besiege Palestinian families in occupied West Bank. Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6661111111111113,
+      "key": "e7e9bd8a0bb8"
+    },
+    {
+      "text": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests. A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0372222222222223,
+      "key": "b020c34e61b8"
+    },
+    {
+      "text": "How blind football is helping women overcome barriers in Mexico. Mexico is sending its first blind women&#039;s football team to compete in an international tournament. Players cannot wait.",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.2055555555555557,
+      "key": "1099a3356fce"
+    },
+    {
+      "text": "The next Yemen war might be different. Drones are no longer the advantage for only one side.",
+      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.932777777777778,
+      "key": "83f2f37f94ad"
+    },
+    {
+      "text": "Afghans mark five years of Taliban rule. Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.253888888888889,
+      "key": "1aa647c69b66"
+    },
+    {
+      "text": "Black professor at centre of Cambridge plagiarism row found dead. Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.276111111111111,
+      "key": "2b2bde7c457f"
+    },
+    {
+      "text": "The Download: Flock’s new rules, cloning’s future, and children’s cells. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.624166666666667,
+      "key": "29ce9d9396d8"
+    },
+    {
+      "text": "This scientist is helping build a missing map of childhood. In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.913333333333334,
+      "key": "1f58566ba78f"
+    },
+    {
+      "text": "Job titles of the future: Space travel agent. Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.&#160; The experi",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.913333333333334,
+      "key": "5fedd68872c6"
+    },
+    {
+      "text": "Cloning could be used to save species—or make human “organ sacks”. This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y ",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 24.913333333333334,
+      "key": "ff9e26edb5fa"
+    },
+    {
+      "text": "VisionQuest trailer kicks off Disney's D23 fan event. Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 1.4872222222222222,
+      "key": "02ad9b121147"
+    },
+    {
+      "text": "Ukraine strikes major Russian rocket factory with cruise missiles. \"Flamingo missiles were used. A good achievement.\"",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 7.076666666666667,
+      "key": "1644d1e06bb3"
+    },
+    {
+      "text": "So much solar: Digging into the list of every US power plant that went online this year. Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 11.678888888888888,
+      "key": "02c71ace640f"
+    },
+    {
+      "text": "Vulnerability giving attackers full control of Macs is under active exploitation. Screen-sharing bug lets remote hackers log in without a password.",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 28.3075,
+      "key": "2754e9f6149a"
+    },
+    {
+      "text": "First test flight of largest all-electric aircraft used just $5 of electricity. Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 28.838333333333335,
+      "key": "1be0c7c8b0bc"
+    },
+    {
+      "text": "Suspecting court of using AI, man injected prompts in filings to try to win case. Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 29.39666666666667,
+      "key": "50b7d133f285"
+    },
+    {
+      "text": "State judge orders Kalshi to stop offering sports bets and other wagers. Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 29.624166666666667,
+      "key": "7001bfdbf5a4"
+    },
+    {
+      "text": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider. \"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 29.779722222222222,
+      "key": "bc195a4ea458"
+    },
+    {
+      "text": "Policy experts: Europe stuck between \"rock and a hard place\" on launch. It turns out that the economics of rocket reuse are pretty, pretty good.",
+      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 30.355555555555554,
+      "key": "2821ac104224"
+    },
+    {
+      "text": "Ars Live recap: How can we stop publishers from killing their own games?. The Stop Killing Games movement faces an uphill battle.",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 30.65111111111111,
+      "key": "edf982979268"
+    },
+    {
+      "text": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play. Third-party app stores are about to become more visible in Google Play.",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 31.066944444444445,
+      "key": "819fe8b478ff"
+    },
+    {
+      "text": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision. Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 31.538611111111113,
+      "key": "01551ed053d4"
+    },
+    {
+      "text": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response. Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+      "url": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 31.790277777777778,
+      "key": "80fc23a2382d"
+    },
+    {
+      "text": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground. US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 32.39083333333333,
+      "key": "631d06bc006d"
+    },
+    {
+      "text": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan. \"We’ve never seen launch capacity so constrained.\"",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+      "source": "Ars Technica",
+      "weight": 1.1,
+      "age_hours": 35.83111111111111,
+      "key": "5d6f912e3945"
+    },
+    {
+      "text": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride. This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
+      "url": "https://www.wired.com/review/retrospec-joe-rev-2/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.018611111111111,
+      "key": "d0a03aefa2f9"
+    },
+    {
+      "text": "This Beautifully Weird Necklace Is Secretly a USB Drive. Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+      "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.018611111111111,
+      "key": "998226218815"
+    },
+    {
+      "text": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026). These are the Apple Watch accessories I recommend adding to your setup.",
+      "url": "https://www.wired.com/story/best-apple-watch-accessories/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.518611111111111,
+      "key": "b94be1ee4470"
+    },
+    {
+      "text": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade. New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+      "url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 12.518611111111111,
+      "key": "97b62d2d7c8a"
+    },
+    {
+      "text": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts. Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
+      "url": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.001944444444444,
+      "key": "f48e0ba74fe0"
+    },
+    {
+      "text": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever. A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+      "url": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.018611111111111,
+      "key": "3bce7ae2f1f3"
+    },
+    {
+      "text": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026). We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+      "url": "https://www.wired.com/story/best-apple-watch-bands/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.46861111111111,
+      "key": "cdb230a20e51"
+    },
+    {
+      "text": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater. The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
+      "url": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 13.518611111111111,
+      "key": "2bb23cf465ad"
+    },
+    {
+      "text": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out. When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 14.018611111111111,
+      "key": "40f9ebe832e7"
+    },
+    {
+      "text": "Google Workspace Promo Codes: 14% Off for August 2026. Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 18.01861111111111,
+      "key": "3b05efdf9da9"
+    },
+    {
+      "text": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG. At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+      "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 25.29722222222222,
+      "key": "b1374cc26a23"
+    },
+    {
+      "text": "The Best Movies to Stream This Month (August 2026). Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 25.712777777777777,
+      "key": "5857ec5baf58"
+    },
+    {
+      "text": "The Next Big Influencer Is This 4-Foot-Tall Robot From China. The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 26.034444444444443,
+      "key": "ea5385064aaf"
+    },
+    {
+      "text": "Tech Visionary Says the Big AI Labs Don’t Get What People Want. Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 32.01861111111111,
+      "key": "b9ea456dbb95"
+    },
+    {
+      "text": "Best Wireless Chargers (2026): My Picks After Testing 100+. Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 35.01861111111111,
+      "key": "a03eefd930c3"
+    },
+    {
+      "text": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue. Larry Montes is facing multiple charges after allegedly striking a congregant and headbutting a security team member during Shabbat services at Central Synagogue in New York City.",
+      "url": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.4541666666666666,
+      "key": "6f764cff4c71"
+    },
+    {
+      "text": "Caitlin Clark overcomes injury scare, drops 29 points on Dallas Wings as Fever take top spot in East. Caitlin Clark rolled her ankle late in the first half and hobbled to the locker room, but what she did after halftime stunned Gainbridge Fieldhouse.",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-overcomes-injury-scare-drops-29-points-dallas-wings-fever-take-top-spot-east",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.4155555555555557,
+      "key": "ea9302ec8486"
+    },
+    {
+      "text": "Shake Shack worker allegedly calls out before robbing own restaurant, returns in uniform 2 days later. An Arizona Shake Shack employee allegedly robbed his own restaurant at gunpoint, locked co-workers in a cooler, then returned in uniform two days later.",
+      "url": "https://www.foxnews.com/us/shake-shack-worker-allegedly-calls-out-before-robbing-own-restaurant-returns-uniform-2-days-later",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.848333333333333,
+      "key": "9b286bb0cc02"
+    },
+    {
+      "text": "Construction workers uncover $10 million in gold while building sewer under former brewery. Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder&apos;s fee remains uncertain.",
+      "url": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.764722222222222,
+      "key": "78d45d115b81"
+    },
+    {
+      "text": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim. Texas Gov. Greg Abbott directed a review of state grants to DFW Airport and George Bush Intercontinental over planned Islamic wudu ablution stations.",
+      "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.016111111111111,
+      "key": "05bc12d16c5d"
+    },
+    {
+      "text": "US flag football team stunned by American Samoa in shocking first loss in 14 years. Taulia Tagovailoa led American Samoa to a stunning upset over the U.S. Men&apos;s Flag National Team, snapping a 14-year win streak in Düsseldorf, Germany.",
+      "url": "https://www.foxnews.com/outkick-sports/us-flag-football-team-stunned-american-samoa-shocking-first-loss-14-years",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.4127777777777775,
+      "key": "714be3e0d061"
+    },
+    {
+      "text": "Ex-Cambridge professor found dead after plagiarism scandal led to abrupt resignation. Jason Arday, the Cambridge University professor who resigned last week amid plagiarism and falsehood allegations, was found dead at a south London address.",
+      "url": "https://www.foxnews.com/media/ex-cambridge-professor-found-dead-after-plagiarism-scandal-led-abrupt-resignation",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.943333333333333,
+      "key": "fcafc3f23b64"
+    },
+    {
+      "text": "Wisconsin Democratic candidate says her party 'left behind' rural America. Wisconsin congressional candidate Rebecca Cooke explained what it means to be a Blue Dog Democrat and how she connects with rural and working-class voters her party has left behind.",
+      "url": "https://www.foxnews.com/media/wisconsin-democratic-candidate-says-her-party-left-behind-rural-america",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.108888888888889,
+      "key": "97bd3ce0db3e"
+    },
+    {
+      "text": "California teen faces prison after viral video shows him squaring up, repeatedly kicking sea lion in the face. Tyler Muehl admitted to kicking a sea lion in La Jolla while referring to himself as UFC fighter Max Holloway. He faces up to a year in prison.",
+      "url": "https://www.foxnews.com/us/california-teen-called-max-holloway-pleads-guilty-video-shows-kicking-sea-lion-face",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.316388888888889,
+      "key": "cfafb5eedf53"
+    },
+    {
+      "text": "Delta flight diverted twice after lavatory leak floods cabin, leaves passengers stranded for hours. Delta Air Lines Flight 81 declared an emergency for an overweight landing at Heathrow after a lavatory issue forced the Paris-to-Seattle diversion.",
+      "url": "https://www.foxnews.com/us/delta-flight-diverted-twice-lavatory-leak-floods-cabin-leaves-passengers-stranded-hours",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.471111111111111,
+      "key": "5f2458be449c"
+    },
+    {
+      "text": "Reagan National Airport makes drastic change following deadly 2025 midair collision. Ronald Reagan Washington National Airport received new surface movement radar to help controllers track aircraft on runways in low visibility.",
+      "url": "https://www.foxnews.com/politics/reagan-national-airport-makes-drastic-change-following-deadly-2025-midair-collision",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.583888888888889,
+      "key": "20cc61d04916"
+    },
+    {
+      "text": "Vegas Golden Knights unveil quintessentially Sin City center ice design for 10th season. The Vegas Golden Knights unveiled a bold new center ice design ahead of their tenth NHL season, and social media had plenty of opinions about it.",
+      "url": "https://www.foxnews.com/outkick-sports/vegas-golden-knights-unveil-quintessentially-sin-city-center-ice-design-10th-season",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.964722222222222,
+      "key": "f4b5a50f6523"
+    },
+    {
+      "text": "El-Sayed’s half sister offered Oct 7 ‘blessing,’ one year after Hamas attack: ‘Allahu Akbar’. Eman Abdelhadi delivered an &quot;October 7th blessing&quot; without mentioning those killed by Hamas as her brother, Abdul El-Sayed, campaigns in Michigan.",
+      "url": "https://www.foxnews.com/politics/el-sayeds-half-sister-offered-oct-7-blessing-one-year-after-hamas-attack-allahu-akbar",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.060277777777777,
+      "key": "acf90b528b89"
+    },
+    {
+      "text": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police. A Missaukee County, Michigan, shooting left six dead across multiple locations as police hunted suspect Chad Hickman, who was considered armed and dangerous.",
+      "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.121944444444445,
+      "key": "da4f5977cb7c"
+    },
+    {
+      "text": "Kelly Osbourne blasts Dee Snider as 'spectacularly classless' for claiming Ozzy didn’t write his own songs. Kelly Osbourne called Dee Snider&apos;s claims about her father&apos;s songwriting &quot;spectacularly classless,&quot; igniting a fierce debate over Ozzy Osbourne&apos;s legacy.",
+      "url": "https://www.foxnews.com/entertainment/kelly-osbourne-blasts-dee-snider-spectacularly-classless-claiming-ozzy-didnt-write-his-own-songs",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 7.301388888888889,
+      "key": "55c660af6304"
+    },
+    {
+      "text": "How Americans deceive ourselves about slavery. Clint Smith's How the Word Is Passed explores how slavery is — and isn't — taught. And Above Ground includes poems to his children about what their ancestors endured and escaped. He spoke with Fresh Air in 2021 and 2023.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 12.288055555555555,
+      "key": "3ff9e6685545"
+    },
+    {
+      "text": "As speed cameras spread to more states, so does the backlash from drivers. Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.588611111111112,
+      "key": "3399ef78a445"
+    },
+    {
+      "text": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again. Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.873055555555556,
+      "key": "f8f8b8f42003"
+    },
+    {
+      "text": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain. Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 14.414722222222222,
+      "key": "cf10cab95a67"
+    },
+    {
+      "text": "We learned 5 important things about the economy this week. From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.717222222222222,
+      "key": "7b711929f361"
+    },
+    {
+      "text": "The Taliban has taken a terrible toll on the education of girls -- and boys as well. Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 15.815277777777778,
+      "key": "6621b6d9db9c"
+    },
+    {
+      "text": "U.S. missionary who was kidnapped in Niger is released. Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 18.3075,
+      "key": "1ad620b8a604"
+    },
+    {
+      "text": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln. Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 19.459722222222222,
+      "key": "14cafff55050"
+    },
+    {
+      "text": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'. Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 19.71611111111111,
+      "key": "bc826dc9ef66"
+    },
+    {
+      "text": "From Europe to Asia, floods to heatwaves, world experiences weather shocks. At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 20.0,
+      "key": "2ba101091199"
+    }
+  ],
+  "contexts": {}
+}

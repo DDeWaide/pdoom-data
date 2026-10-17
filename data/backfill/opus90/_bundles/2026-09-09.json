@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-10-17T12:52:11.929155+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": null,
+    "NPR World": null,
+    "Al Jazeera": "20260909151956",
+    "MIT Technology Review": "20260909081235",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260909051120",
+    "Fox News Latest": "20260909050315",
+    "NPR News": "20260909095648",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power. Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.62,
+      "key": "354605814e85"
+    },
+    {
+      "text": "Hutu and Tutsi: The history behind the divide. How a colonial legacy continues to shape conflict and identity.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9577777777777777,
+      "key": "921cac7c0cc9"
+    },
+    {
+      "text": "What is Jordan’s Al-Azraq base and why is Iran targeting it?. Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.0155555555555555,
+      "key": "fd66d66b0792"
+    },
+    {
+      "text": "Pakistan all out for 133 in third Test vs England after squad changes. England&#039;s pacers cleaned up Pakistan in 34 overs after the visitors&#039; top five batters failed to score double figures.",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.075,
+      "key": "f457d068c24d"
+    },
+    {
+      "text": "Dortmund’s Karetsas hospitalised after collapsing in Champions League match. Greek teenage star Konstantinos Karetsas faced &#039;circulatory problems&#039; and was stretchered off during the match against Villarreal.",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/dortmunds-karetsas-hospitalised-after-collapsing-in-champions-league-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.683888888888889,
+      "key": "73c4eadd49a6"
+    },
+    {
+      "text": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire. The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.7394444444444443,
+      "key": "d838443e4445"
+    },
+    {
+      "text": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says. Authorities have not clarified what caused the explosion near the city of Sarmada.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.2883333333333336,
+      "key": "5da63a88991b"
+    },
+    {
+      "text": "Journalists missing after Indonesian volcanic eruption. Journalists missing after Indonesian volcanic eruption",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4788888888888887,
+      "key": "21b4e9b52e02"
+    },
+    {
+      "text": "AI researcher quits Anthropic saying AI race ‘could kill us all’. AI researcher warns the industry is racing towards superintelligent AI that could improve itself beyond human control.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.5722222222222224,
+      "key": "fc596205786e"
+    },
+    {
+      "text": "Video: Why are Republicans hosting a midterm convention?. US Republicans are hosting their first ever midterm convention, but why?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.6438888888888887,
+      "key": "2578b610541f"
+    },
+    {
+      "text": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks. Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.8919444444444444,
+      "key": "9de4e870d614"
+    },
+    {
+      "text": "How has Israel hit back against sanctions by the UK, others?. Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+      "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.035,
+      "key": "5d750f25782d"
+    },
+    {
+      "text": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense. Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
+      "url": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.202777777777778,
+      "key": "58f9d6cd9eb1"
+    },
+    {
+      "text": "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V. Thousands line streets of Norway&#039;s capital as King Harald V is laid to rest during service attended by world leaders.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.346388888888889,
+      "key": "ff7aea94bf00"
+    },
+    {
+      "text": "Video: Dozens protest potential Strait of Hormuz deployment. Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.4522222222222223,
+      "key": "2874938cc477"
+    },
+    {
+      "text": "What OpenAI’s latest controversy tells us about the future of math. OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But t",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 5.0408333333333335,
+      "key": "03f1d57a2785"
+    },
+    {
+      "text": "The Download: our 35 Innovators Under 35 this year. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimp",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 20.043055555555554,
+      "key": "a1d2b07e284a"
+    },
+    {
+      "text": "This founder is teaching chips how to recycle (their energy). Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.60972222222222,
+      "key": "197c3a0a793b"
+    },
+    {
+      "text": "This AI entrepreneur is developing agents that can plan ahead for the unexpected. Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.643055555555556,
+      "key": "6e3a24b4e070"
+    },
+    {
+      "text": "This founder is making cheaper, cleaner steel. The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger c",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.65972222222222,
+      "key": "0feef4c3e455"
+    },
+    {
+      "text": "This geneticist’s age-reversal tech could help restore sight. Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see on",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 21.676388888888887,
+      "key": "4794f0341af8"
+    },
+    {
+      "text": "State of play: Retiring Dem senator’s daughter holds slight lead in closely watched race. Stefany Shaheen and Maura Sullivan remain locked in a too-close-to-call New Hampshire primary as Chris Pappas vacates the seat for a Senate bid.",
+      "url": "https://www.foxnews.com/politics/retiring-dem-senators-daughter-holds-slight-lead-closely-watched-race",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6794444444444444,
+      "key": "493355c3645a"
+    },
+    {
+      "text": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB. The NTSB said the cargo jet’s wheel brakes were applied, but its speed brakes and thrust reversers did not deploy, according to available data.",
+      "url": "https://www.foxnews.com/us/data-shows-amazon-jets-key-braking-systems-did-not-deploy-deadly-miami-crash-ntsb",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.9338888888888889,
+      "key": "a41846289acf"
+    },
+    {
+      "text": "LSU leaves former pro-athletes off final roster, one night before SEC takes Lane Kiffin and Tigers to court. The LSU Tigers finalized their 105-player roster without former Ole Miss players Dae&apos;Quan Wright and Zxavian Harris amid the ongoing SEC lawsuit.",
+      "url": "https://www.foxnews.com/outkick-sports/lsu-leaves-former-pro-athletes-off-final-roster-one-night-before-sec-takes-lane-kiffin-tigers-court",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.0319444444444446,
+      "key": "2c80e471cc06"
+    },
+    {
+      "text": "LIV Golf files for bankruptcy after Saudi fund pulls support, leaving players owed millions in unpaid money. LIV Golf filed for Chapter 11 bankruptcy in New Jersey after Saudi Arabia&apos;s Public Investment Fund halted funding to focus on domestic projects.",
+      "url": "https://www.foxnews.com/outkick-sports/liv-golf-files-bankruptcy-saudi-fund-pulls-support-leaving-players-owed-millions-unpaid-money",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.0469444444444442,
+      "key": "8ba2797a53c1"
+    },
+    {
+      "text": "Aaron Judge held hitless in long-awaited return to New York Yankees lineup from rib fracture. Aaron Judge went 0-for-3 with two strikeouts in his long-awaited Yankees return, but Heliot Ramos launched a three-run homer to steal the show.",
+      "url": "https://www.foxnews.com/outkick-sports/aaron-judge-held-hitless-long-awaited-return-new-york-yankees-lineup-rib-fracture",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.465,
+      "key": "2160c6cff4ff"
+    },
+    {
+      "text": "LA Times sports editor says that college football schedules need to change due to 'climate change'. Texas Longhorns fans fled to the concourse seeking shade as extreme heat sparked debate over college football scheduling in early September.",
+      "url": "https://www.foxnews.com/outkick-sports/la-times-sports-editor-says-college-football-schedules-need-change-climate-change",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.8819444444444446,
+      "key": "b2698f5f9dfa"
+    },
+    {
+      "text": "Former Lakers coach Phil Jackson to be honored with statue at famed Star Plaza, team says. Phil Jackson&apos;s statue will join nine others at Star Plaza, honoring the coach who delivered five titles with Kobe Bryant and Shaquille O&apos;Neal.",
+      "url": "https://www.foxnews.com/outkick-sports/former-lakers-coach-phil-jackson-honored-statue-star-plaza-team-says",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.2005555555555554,
+      "key": "6127afe44811"
+    },
+    {
+      "text": "Ex-Dem lobbyist for company that promoted addictive opioid clears key gubernatorial hurdle. Cinde Warmington faces renewed attacks over her Purdue Pharma legal work as she secures the Democratic nomination for New Hampshire governor.",
+      "url": "https://www.foxnews.com/politics/ex-dem-lobbyist-company-promoted-addictive-opioid-clears-key-gubernatorial-hurdle",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.581111111111111,
+      "key": "9c29f87a2149"
+    },
+    {
+      "text": "Wild US Open doubles match devolves into player box taunts, a cold net snub, utter chaos. Hsieh Su-wei and Chan Hao-ching&apos;s decade-long feud exploded at the US Open with mid-match taunts, an umpire confrontation, and a brutal handshake snub.",
+      "url": "https://www.foxnews.com/outkick-sports/wild-us-open-doubles-match-devolves-player-box-taunts-cold-net-snub-utter-chaos",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.6455555555555557,
+      "key": "f3ca4ab0f61f"
+    },
+    {
+      "text": "Massive alligator attacks young swimmer in nature preserve despite posted warning. A 9-to-12-foot alligator bit a young swimmer at Weeki Wachee Preserve in a no-swimming zone in Florida, leaving the group stranded on a sandbar in the water.",
+      "url": "https://www.foxnews.com/travel/massive-alligator-attacks-young-swimmer-nature-preserve-despite-posted-warning",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.785,
+      "key": "9a38a1d3ab21"
+    },
+    {
+      "text": "Wife of top ex-Biden advisor easily advances to House showdown in November. Maggie Goodlander faced challenger Paige Beauchemin in the New Hampshire Democratic primary as the district braces for a reshaped political map.",
+      "url": "https://www.foxnews.com/politics/wife-top-ex-biden-advisor-easily-advances-house-showdown-november",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.312777777777778,
+      "key": "215c6a505cfc"
+    },
+    {
+      "text": "Ex-NFL star believes Mike McDaniel's 'best decision of his career' was joining Chargers with Justin Herbert. Shawne Merriman said Mike McDaniel&apos;s explosive scheme could unlock a new gear for Justin Herbert and the Los Angeles Chargers&apos; playoff hopes.",
+      "url": "https://www.foxnews.com/outkick-sports/ex-nfl-star-believes-mike-mcdaniels-best-decision-career-joining-chargers-justin-herbert",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.429722222222222,
+      "key": "1fe2f1f33f68"
+    },
+    {
+      "text": "Trump-backed candidate wins high-stakes GOP primary for New Hampshire battleground district. Donald Trump endorsed Anthony DiLorenzo defeated Novel Iron Works owner Hollie Noveletsky and state Rep. Brian Cole to clinch the GOP nomination for the Granite State&apos;s 1st Congressional District.",
+      "url": "https://www.foxnews.com/politics/trump-backed-candidate-wins-high-stakes-gop-primary-new-hampshire-battleground-district",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.551666666666667,
+      "key": "d9fa663380ea"
+    },
+    {
+      "text": "Cold case takes grim turn after remains identified as runaway teen; homicide investigation underway. Advanced DNA testing and genetic genealogy identified remains found near a North Carolina manufacturing facility as those of a Maryland teen who vanished in 1977.",
+      "url": "https://www.foxnews.com/us/cold-case-takes-grim-turn-after-remains-identified-runaway-teen-homicide-investigation-underway",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.670555555555556,
+      "key": "ddfd9e20bf68"
+    },
+    {
+      "text": "Establishment Dem defeats socialist challenger in crucial battleground Senate primary. Chris Pappas defeated Karishma Manzur in the New Hampshire Senate primary, but a heated general election awaits against a former U.S. senator.",
+      "url": "https://www.foxnews.com/politics/establishment-dem-defeats-socialist-challenger-crucial-battleground-senate-primary",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.710277777777778,
+      "key": "390c31d4a06f"
+    },
+    {
+      "text": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates. Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investigators released Tuesday.",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.7877777777777778,
+      "key": "7fd75270bcc7"
+    },
+    {
+      "text": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member. A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.8625,
+      "key": "34a134323132"
+    },
+    {
+      "text": "COMIC: If we fight, is our love doomed? And other honest questions about conflict. Arguing with a partner or a loved one can be anxiety-inducing. Conflict resolution facilitator Priya Parker explains how to start and end a fight — while easing dread for everyone.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.93,
+      "key": "1f98d945bc6e"
+    },
+    {
+      "text": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas. Republicans have never held a midterm convention before. But there's also never been a president like Donald Trump. Billed as a \"Trumpapalooza,\" the unprecedented event kicks of in Dallas Wednesday.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9466666666666667,
+      "key": "4236178e9ab1"
+    },
+    {
+      "text": "Judges may face unprecedented decisions this election. A new guide seeks to help. The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9466666666666667,
+      "key": "00f1bb83046c"
+    },
+    {
+      "text": "Citing the 'Deep State,' Trump overhauls the intelligence community. The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9466666666666667,
+      "key": "3da512e30a06"
+    },
+    {
+      "text": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty. Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 0.9466666666666667,
+      "key": "876e0b486f47"
+    },
+    {
+      "text": "Morning news brief. Back-and-forth strikes between the U.S. and Iran continue, U.K. imposes sanctions on Israeli settlements, accusing settlers of \"ethnic cleansing,\" Smithsonian Secretary Lonnie G. Bunch III resigns.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.1705555555555556,
+      "key": "3588b793f873"
+    },
+    {
+      "text": "TSA brings back gate access for some people without plane tickets 25 years after 9/11. The move is a start toward reviving a tradition that largely disappeared after the Sept. 11, 2001, attacks 25 years ago this week.",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.247777777777777,
+      "key": "41b35b515d86"
+    },
+    {
+      "text": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship. The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.600833333333333,
+      "key": "8dfc66a5129e"
+    }
+  ],
+  "contexts": {}
+}

@@ -1,0 +1,437 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-10-17T12:47:36.646835+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 5,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260830154351",
+    "NPR World": null,
+    "Al Jazeera": null,
+    "MIT Technology Review": null,
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": "20260830110255",
+    "CNN Top Stories": "20260830032135",
+    "Fox News Latest": "20260830043220",
+    "NPR News": null,
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": "20260830095117",
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Iceland votes against restarting EU membership talks. Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 0.9794444444444445,
+      "key": "6f86b2521ca9"
+    },
+    {
+      "text": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five. Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.995277777777778,
+      "key": "0eea3ab19b07"
+    },
+    {
+      "text": "Canada installs large Lake Ontario sign in latest jab at US. Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 1.3022222222222222,
+      "key": "5416baf933f1"
+    },
+    {
+      "text": "WhatsApp chat used to send cash for crime and extremism. The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.731944444444444,
+      "key": "90c5ae7d51b2"
+    },
+    {
+      "text": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot. An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.509722222222223,
+      "key": "9060692c8c80"
+    },
+    {
+      "text": "Zambian opposition leader charged with treason. Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.591111111111111,
+      "key": "e2a4f88c66f9"
+    },
+    {
+      "text": "Right-wing commentator Milo Yiannopoulos deported from US to UK. The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 21.8525,
+      "key": "af43205a599c"
+    },
+    {
+      "text": "Norway's new king remembers 'my dear father' in first speech. Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 20.623055555555556,
+      "key": "a2d62abeb553"
+    },
+    {
+      "text": "Former Ecuadorian president imprisoned for corruption. Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 19.9825,
+      "key": "8b64f67f8f2a"
+    },
+    {
+      "text": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets. The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 32.54638888888889,
+      "key": "58ded3b567cf"
+    },
+    {
+      "text": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills. The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 30.921388888888888,
+      "key": "040426d8eba2"
+    },
+    {
+      "text": "Why the Hottest New Wearables Want to Be Ignored. Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.5486111111111112,
+      "key": "41751bdbe010"
+    },
+    {
+      "text": "The Best Label Makers (2026): Brother, Niimbot, Dymo. Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.",
+      "url": "https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 0.9986111111111111,
+      "key": "597ec97c6435"
+    },
+    {
+      "text": "How to Escape Group Chat Hell. Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.",
+      "url": "https://www.wired.com/story/how-to-escape-from-group-chat-hell/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 1.0486111111111112,
+      "key": "ab7ae7777e91"
+    },
+    {
+      "text": "Scientists Create the Littlest Big Bang to Study the Universe's Origins. The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
+      "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 2.048611111111111,
+      "key": "7f1250da4731"
+    },
+    {
+      "text": "Soundcore Liberty 5 Pro Review: Master of Phone Calls. Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
+      "url": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 24.04861111111111,
+      "key": "b74b6c98da29"
+    },
+    {
+      "text": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap. Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
+      "url": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 24.54861111111111,
+      "key": "a793e2f74768"
+    },
+    {
+      "text": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn. Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 24.54861111111111,
+      "key": "7233e44c88cb"
+    },
+    {
+      "text": "How to Run a Chatbot on Your Own Computer. Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 25.04861111111111,
+      "key": "ac657056fdd0"
+    },
+    {
+      "text": "Psilocybin Might Make Your Brain Live in the Moment. Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
+      "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 26.04861111111111,
+      "key": "494ef4ddf34b"
+    },
+    {
+      "text": "Motorola Coupon Code for September 2026. Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+      "url": "https://www.wired.com/story/motorola-coupon-code/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 30.04861111111111,
+      "key": "145ab8e0fd0f"
+    },
+    {
+      "text": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands. The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 36.56166666666667,
+      "key": "1082180cd990"
+    },
+    {
+      "text": "Milo Yiannopoulos Detained by ICE in Louisiana. The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
+      "url": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 39.312222222222225,
+      "key": "26030f1782e4"
+    },
+    {
+      "text": "Microsoft Teams Has Become a Haven for Scammers in China. Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 40.660555555555554,
+      "key": "c3aa00c61f0f"
+    },
+    {
+      "text": "Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart. “Do we need to look at the ceiling before going to the bathroom? Can we actually trust the water is safe to drink?” asks one GSA worker.",
+      "url": "https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 41.81,
+      "key": "a076839fdd84"
+    },
+    {
+      "text": "AI Has Human Doctors Asking: What’s Left for Us?. A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "source": "Wired",
+      "weight": 1.0,
+      "age_hours": 44.048611111111114,
+      "key": "b58cc3811c27"
+    },
+    {
+      "text": "North Carolina warns mobile petting zoo visitors of rabies exposure after baby goats test positive. Baby goats at Farm Adventures, a North Carolina mobile petting zoo, tested positive for rabies after a skunk entered their pen and bit them.",
+      "url": "https://www.foxnews.com/us/north-carolina-warns-visitors-rabies-exposure-baby-goats-mobile-petting-zoo-test-positive",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6008333333333333,
+      "key": "181693239649"
+    },
+    {
+      "text": "South Carolina police officer killed, another wounded in gunfight with suspect who had extensive record. Officer Christopher DeLong, 29, was killed while responding to a domestic dispute call in Columbia, South Carolina. He leaves behind a wife and two young children.",
+      "url": "https://www.foxnews.com/us/south-carolina-police-officer-killed-another-wounded-gunfight-suspect-who-had-extensive-record",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 0.6744444444444444,
+      "key": "a430f4648156"
+    },
+    {
+      "text": "Retired Port Authority officers tell Mamdani, Hochul to stay away from Ground Zero on 9/11. Retired Port Authority police officers are urging Zohran Mamdani and Kathy Hochul to skip the 25th anniversary 9/11 commemoration at Ground Zero.",
+      "url": "https://www.foxnews.com/us/retired-port-authority-officers-tell-mamdani-hochul-stay-away-from-ground-zero-9-11",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.5297222222222222,
+      "key": "d203173b0c71"
+    },
+    {
+      "text": "PGA Tour taps Donald Trump to reprise honorary chairman role for Presidents Cup, White House confirms. The PGA Tour announced Donald Trump as honorary chairman of the 2026 Presidents Cup at Medinah Country Club, continuing a tradition of world leaders.",
+      "url": "https://www.foxnews.com/outkick-sports/pga-tour-taps-donald-trump-reprise-honorary-chairman-role-presidents-cup-white-house-confirms",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 1.6188888888888888,
+      "key": "bc7f8adf2058"
+    },
+    {
+      "text": "Former California councilman's corruption unmasked after FBI finds cash buried in backyard. Ricardo Pacheco buried $62,900 in cash in his backyard as part of a bribery scheme involving Baldwin Park police union contracts and marijuana permits.",
+      "url": "https://www.foxnews.com/us/former-california-councilman-corruption-unmasked-fbi-finds-cash-buried-backyard",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.5588888888888888,
+      "key": "224acd2eb70a"
+    },
+    {
+      "text": "Footage of two planes stunning a rugby stadium with one of the wildest flyovers ever goes viral. A pair of Embraer E-Jets from Airlink buzzed a Cape Town rugby stadium at jaw-dropping altitude before the All Blacks vs. Springboks match began.",
+      "url": "https://www.foxnews.com/outkick-sports/footage-two-planes-stunning-rugby-stadium-wildest-flyovers-viral",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.693888888888889,
+      "key": "6a87e90a8963"
+    },
+    {
+      "text": "Country duo Dan + Shay nearly broke up at height of success when their communication faltered. Dan + Shay reveal the late-night conversation at Dan Smyers&apos; home that saved their partnership after a 2021 communication breakdown nearly ended it all.",
+      "url": "https://www.foxnews.com/entertainment/country-duo-dan-shay-nearly-broke-height-success-communication-faltered",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.839166666666667,
+      "key": "c13b944e9ebb"
+    },
+    {
+      "text": "Division-II running back pronounced dead after medical emergency in team's season opener. MicahJo Barnett scored a touchdown shortly before a fatal medical emergency struck during William Jewell College&apos;s season opener in Liberty, Missouri.",
+      "url": "https://www.foxnews.com/outkick-sports/division-ii-running-back-pronounced-dead-after-medical-emergency-teams-season-opener",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.233055555555556,
+      "key": "88de60a36bc6"
+    },
+    {
+      "text": "Mississippi mayor argues against lowering flag for Dolly Parton after her death. Olive Branch, Mississippi, Mayor Ken Adams argued against lowering the flag to half-staff for Dolly Parton, saying the honor should be reserved.",
+      "url": "https://www.foxnews.com/politics/mississippi-mayor-argues-lowering-flag-dolly-parton-her-death",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.304444444444444,
+      "key": "9d9ac366655f"
+    },
+    {
+      "text": "Natasha Cloud refuses to address Enes Kanter Freedom by name in first comments on ejection incident. Natasha Cloud called Enes Kanter Freedom an &quot;irrelevant person&quot; in her first public comments since their courtside confrontation at a Chicago Sky game.",
+      "url": "https://www.foxnews.com/outkick-sports/natasha-cloud-refuses-address-enes-kanter-freedom-name-first-comments-ejection-incident",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.759444444444444,
+      "key": "edbdf854ddcc"
+    },
+    {
+      "text": "Social media rips dude who snatched Liverpool star's match-worn jersey from two kids … or did he?. Alexander Isak tossed his jersey to a young soccer fan after Liverpool&apos;s 2-2 draw with Nottingham Forest, but a man appeared to intercept it.",
+      "url": "https://www.foxnews.com/outkick-sports/social-media-rips-dude-snatched-liverpool-star-match-worn-jersey-two-kids",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.3677777777777775,
+      "key": "28ef40d9aeba"
+    },
+    {
+      "text": "USC football ripped for pathetic crowd at home opener: 'Absolutely embarrassing'. USC opened its 2026 season against San Jose State at the Coliseum with a dominant blowout, but photos reveal an embarrassingly empty stadium.",
+      "url": "https://www.foxnews.com/outkick-sports/usc-football-ripped-pathetic-crowd-home-opener-absolutely-embarrassing",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.948333333333333,
+      "key": "383900cda05e"
+    },
+    {
+      "text": "Drug institute warns that Trump-shaped ecstasy pills contain potentially fatal ingredient. The Trimbos Institute in the Netherlands issued a red alert after Donald Trump-shaped ecstasy pills containing potentially fatal PMMA were handed in at testing centers.",
+      "url": "https://www.foxnews.com/health/drug-institute-warns-trump-shaped-ecstasy-pills-contain-potentially-fatal-ingredient",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.061111111111111,
+      "key": "d6c07143aaa3"
+    },
+    {
+      "text": "Royce White became a fan-favorite guest at Fever game amid Simone Biles' appearance. Royce White showed up unannounced to Friday&apos;s Indiana Fever game and was mobbed by fans, a stark contrast to Enes Kanter Freedom&apos;s Chicago ejection.",
+      "url": "https://www.foxnews.com/outkick-sports/royce-white-fan-favorite-guest-fever-game-amid-simone-biles-appearance",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.286944444444444,
+      "key": "6cdcb82270a6"
+    },
+    {
+      "text": "Dems face uphill battle in challenge to Georgia congressional map under new SCOTUS rules. Biden branded Georgia&apos;s election law &quot;Jim Crow,&quot; and now the state&apos;s redistricting maps face a tougher legal test after the Supreme Court&apos;s Callais ruling.",
+      "url": "https://www.foxnews.com/politics/georgia-map-challengers-face-uphill-battle-under-new-scotus-test-after-jim-crow-2-0-firestorm",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.383333333333334,
+      "key": "c389e5f422e0"
+    },
+    {
+      "text": "Healed fang wound found on 520-million-year-old apex predator. Something took a bite out of one of the biggest predators in Cambrian seas, an extraordinary fossil shows – and it could well be cannibalism",
+      "url": "https://www.newscientist.com/article/2586883-healed-fang-wound-found-on-520-million-year-old-apex-predator/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 43.85472222222222,
+      "key": "3f3beebf900e"
+    },
+    {
+      "text": "NASA’s huge Nancy Grace Roman Space Telescope is about to launch. The Nancy Grace Roman Space Telescope, which launches on 30 August, will observe space with the same detail as the Hubble Space Telescope, but over a much larger area",
+      "url": "https://www.newscientist.com/article/2586796-nasas-huge-nancy-grace-roman-space-telescope-is-about-to-launch/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 45.85472222222222,
+      "key": "0d6372cee035"
+    },
+    {
+      "text": "Fastest star ever spotted at the centre of our galaxy. A newfound star called S301 is both the fastest ever seen and the closest to a supermassive black hole –and it could make bafflingly difficult tests of gravity possible at last",
+      "url": "https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 47.054722222222225,
+      "key": "6726ad27cff7"
+    },
+    {
+      "text": "Where and when to see 2027’s ‘solar eclipse of the century’. The total solar eclipse on 2 August 2027 is due to be the longest one until the year 2114, and researchers, eclipse chasers and tourists alike are on the edge of their seats",
+      "url": "https://www.newscientist.com/article/2586640-where-and-when-to-see-2027s-solar-eclipse-of-the-century/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 47.85472222222222,
+      "key": "c131e68ac166"
+    },
+    {
+      "text": "Exclusive video of world’s first echidna puggle to be born at a university. Echidnas are a difficult animal to breed in captivity, but scientists in Sydney have now managed it, which could improve our understanding of the evolution of pregnancy in mammals",
+      "url": "https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 49.30916666666667,
+      "key": "8b4e1aa7dc3f"
+    },
+    {
+      "text": "Galapagos corals suggest climate change drives stronger El Niños. Coral records from the Galapagos Islands indicate El Niños have been gathering strength over the past 40 years, in line with rising global temperatures",
+      "url": "https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 63.85472222222222,
+      "key": "4ca3ec58a1f1"
+    },
+    {
+      "text": "Astonishing whale feeding frenzy seen off the eastern coast of Greenland. The population of baleen whales along eastern Greenland has boomed in recent decades, and reporter Leah Crane recounts a profound experience of seeing them",
+      "url": "https://www.newscientist.com/article/2586630-astonishing-whale-feeding-frenzy-seen-off-the-eastern-coast-of-greenland/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 65.85472222222222,
+      "key": "d6987b8e9d92"
+    },
+    {
+      "text": "Octopuses released into Adriatic Sea to tackle invasive crabs. Atlantic blue crabs have moved into the Mediterranean and Adriatic seas, where they are a problem both for ecosystems and local economies, but octopuses might offer a solution",
+      "url": "https://www.newscientist.com/article/2586778-octopuses-released-into-adriatic-sea-to-tackle-invasive-crabs/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 67.85472222222222,
+      "key": "3cd9baa8a5b4"
+    },
+    {
+      "text": "Exercise may create new neurons by making other brain cells contract. Physical activity causes a type of brain cell called astrocytes to contract, which then leads to the formation of new neurons, according to a study in mice",
+      "url": "https://www.newscientist.com/article/2586505-exercise-may-create-new-neurons-by-making-other-brain-cells-contract/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 69.85472222222222,
+      "key": "a55f627ba0db"
+    },
+    {
+      "text": "Driving data can predict crash black spots before accidents happen. An analysis of data collected from hundreds of thousands of cars in Australia offers an insight into driving behaviour that can be used to identify sections of road where crashes may occur in the future",
+      "url": "https://www.newscientist.com/article/2586721-driving-data-predicts-crash-black-spots-before-accidents-happen/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
+      "source": "New Scientist",
+      "weight": 1.0,
+      "age_hours": 69.85472222222222,
+      "key": "0626d78e5a78"
+    }
+  ],
+  "contexts": {}
+}

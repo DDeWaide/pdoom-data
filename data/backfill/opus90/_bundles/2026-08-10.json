@@ -1,0 +1,477 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-10-17T12:38:42.735513+00:00",
+  "source": "wayback",
+  "prompt_version": null,
+  "scoring_model": null,
+  "feeds_captured": 6,
+  "coverage": {
+    "The Guardian World": null,
+    "BBC World": "20260810055239",
+    "NPR World": null,
+    "Al Jazeera": "20260810054920",
+    "MIT Technology Review": "20260810133004",
+    "Ars Technica": null,
+    "The Verge AI": null,
+    "Wired": null,
+    "CNN Top Stories": "20260810043132",
+    "Fox News Latest": "20260810044232",
+    "NPR News": "20260810221455",
+    "ABC News Top": null,
+    "Science Daily": null,
+    "New Scientist": null,
+    "CNBC World": null,
+    "Hacker News Best": null
+  },
+  "headlines": [
+    {
+      "text": "Suspected crime boss Daniel Kinahan appears in court after extradition. The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.905833333333334,
+      "key": "f4b19092864b"
+    },
+    {
+      "text": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says. Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 8.459722222222222,
+      "key": "ee9c24da7586"
+    },
+    {
+      "text": "Evidence that South African special forces murdered top detective shared with BBC. Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 6.786111111111111,
+      "key": "b0be075188c7"
+    },
+    {
+      "text": "Drones spotted over German base days after Leipzig bomb incident. Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.574722222222222,
+      "key": "8b838bcdfd6b"
+    },
+    {
+      "text": "Ancient Roman shipwreck discovered off Sicily coast. Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 17.420277777777777,
+      "key": "8eb7d5416f3c"
+    },
+    {
+      "text": "Residents warned to brace for the worst as Canada wildfire rages out of control. One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 2.3133333333333335,
+      "key": "24ea17b086b9"
+    },
+    {
+      "text": "Ecuador charges ex-minister over presidential candidate assassination case. Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 14.309722222222222,
+      "key": "65e9c1508a58"
+    },
+    {
+      "text": "Nigerian army says it safely rescued 33 people kidnapped by gunmen. The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 9.919722222222223,
+      "key": "7d7d7b618417"
+    },
+    {
+      "text": "Perez Hilton faces long recovery after reports he self-harmed during livestream. The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 25.3425,
+      "key": "b0dd9ad4df60"
+    },
+    {
+      "text": "Puerto Rico rations water supplies due to intense drought. Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 13.154444444444444,
+      "key": "bd61fae20638"
+    },
+    {
+      "text": "An unbearable rotting stench is plaguing an LA neighbourhood. Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 29.619722222222222,
+      "key": "66af5a4152cc"
+    },
+    {
+      "text": "Israel accused of weaponising archaeology at ancient West Bank sites. Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 30.148611111111112,
+      "key": "bd3987ca6619"
+    },
+    {
+      "text": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant. Twelve other people initially rescued from the water are all reported to be in stable condition.",
+      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "weight": 1.0,
+      "age_hours": 10.208333333333334,
+      "key": "ef7996e7f52e"
+    },
+    {
+      "text": "Wildfires bear down on homes in Canada’s Okanagan region. A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 0.9938888888888889,
+      "key": "6e3c8a57282e"
+    },
+    {
+      "text": "Trump names Will Scharf as White House counsel ahead of midterms. Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.8163888888888888,
+      "key": "b8e2b81cb0a6"
+    },
+    {
+      "text": "Brazilian player falls into tunnel celebrating goal. Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 1.9722222222222223,
+      "key": "a5b841c3afdb"
+    },
+    {
+      "text": "Trump signals shift to economic pressure on Iran over new military strikes. US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.0169444444444444,
+      "key": "7636eaebfd5a"
+    },
+    {
+      "text": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz. Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.4116666666666666,
+      "key": "bad3429e6fa2"
+    },
+    {
+      "text": "Clashes in Iraq’s Kut city during protests over power shortages. Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.7558333333333334,
+      "key": "43e0dea805de"
+    },
+    {
+      "text": "Israel confirms death of Palestinian detainee, nearly two years late. The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 2.826388888888889,
+      "key": "00c1b294999d"
+    },
+    {
+      "text": "Malaysian PM Anwar Ibrahim undergoes medical procedure. Malaysia&#039;s government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 3.0080555555555555,
+      "key": "c6c1eada356f"
+    },
+    {
+      "text": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition. Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.095277777777778,
+      "key": "07dc60f19770"
+    },
+    {
+      "text": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port. Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.248333333333333,
+      "key": "488fcb71b67c"
+    },
+    {
+      "text": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?. Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 4.966944444444445,
+      "key": "d3d45df28407"
+    },
+    {
+      "text": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha. The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha and its commercial port.",
+      "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.493611111111111,
+      "key": "5e5c13e018c1"
+    },
+    {
+      "text": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan. Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 5.822222222222222,
+      "key": "b6b6520a10a2"
+    },
+    {
+      "text": "F-16s intercept two aircraft near Trump’s New Jersey golf club. F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.345,
+      "key": "efb7d4c7d597"
+    },
+    {
+      "text": "Union reports 108 attacks on Palestinian journalists in July. Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "source": "Al Jazeera",
+      "weight": 0.8,
+      "age_hours": 6.798611111111111,
+      "key": "fb16ed282f75"
+    },
+    {
+      "text": "The Download: AI agents for science, and the “censorship-industrial complex”. This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for scienc",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 1.3344444444444445,
+      "key": "76736f880aef"
+    },
+    {
+      "text": "AI for science needs reasoning, not just data. Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arr",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 4.501111111111111,
+      "key": "0ee934781d26"
+    },
+    {
+      "text": "These startups are chasing the next big thing in LLMs. MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review",
+      "weight": 1.2,
+      "age_hours": 4.501111111111111,
+      "key": "f7b1b4ab6a5a"
+    },
+    {
+      "text": "Brooks Koepka calls first year back on PGA Tour 'pretty pathetic' after missing FedExCup Playoffs. Brooks Koepka called his year &quot;pathetic&quot; after finishing 94th in FedExCup Playoffs standings and missing the St. Jude Championship playoff cutoff.",
+      "url": "https://www.foxnews.com/sports/brooks-koepka-calls-first-year-back-pga-tour-pretty-pathetic-missing-fedexcup-playoffs",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.2994444444444446,
+      "key": "d0ca48987ad1"
+    },
+    {
+      "text": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law. Sadie M. Flores faces grooming a minor charges under a Kentucky law that took effect just weeks before her arrest at Graves County Middle School.",
+      "url": "https://www.foxnews.com/us/kentucky-middle-school-teacher-accused-crossing-line-student-arrested-under-new-anti-grooming-law",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.892777777777778,
+      "key": "4bd0894a247a"
+    },
+    {
+      "text": "North Dakota mom stabs her 2 children to death in 'horrific' killing that left cops traumatized: officials. A North Dakota mother faces murder and attempted murder charges after allegedly stabbing her 5-month-old and 3-year-old to death in a home attack.",
+      "url": "https://www.foxnews.com/us/north-dakota-mom-stabs-2-children-death-horrific-killing-left-cops-traumatized-officials",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 2.923888888888889,
+      "key": "e5d04db42a50"
+    },
+    {
+      "text": "Alexandria Ocasio-Cortez shrugs off past 'defund the police' comments, joking 'Woke 1 was crazy'. Alexandria Ocasio-Cortez joked that &quot;Woke 1 was crazy&quot; while defending socialist politicians&apos; past comments on defunding police and abolishing prisons.",
+      "url": "https://www.foxnews.com/media/alexandria-ocasio-cortez-shrugs-off-past-defund-police-comments-joking-woke-1-crazy",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.7725,
+      "key": "b895ff1e82e2"
+    },
+    {
+      "text": "Joan Jett cancels remaining 2026 concerts after undergoing surgery for 'fractured vertebrae'. Joan Jett underwent orthopedic surgery on a fractured vertebrae, forcing cancellation of her September shows including Bourbon &amp; Beyond festival.",
+      "url": "https://www.foxnews.com/entertainment/joan-jett-cancels-remaining-2026-concerts-undergoing-surgery-fractured-vertebrae",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 3.795,
+      "key": "ae5e495d2d3e"
+    },
+    {
+      "text": "Aces coach Becky Hammon benches 3 starters in what looks like WNBA scheduling protest in national TV game. Becky Hammon benched three Las Vegas Aces starters including the league&apos;s four-time MVP A&apos;ja Wilson for a nationally televised ABC game against the Liberty during back-to-back.",
+      "url": "https://www.foxnews.com/sports/aces-coach-becky-hammon-benches-3-starters-wnba-scheduling-protest-national-tv-game",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.025833333333333,
+      "key": "2af3716ee1eb"
+    },
+    {
+      "text": "Bernie Sanders demands Democrats ban super PACs from primaries, blasts AIPAC, ‘corrupt system’. Sanders is urging Democratic leaders to ban super PACs from party primaries, citing concerns about outside spending and influence.",
+      "url": "https://www.foxnews.com/politics/bernie-sanders-demands-democrats-ban-super-pacs-from-primaries-blasts-aipac-corrupt-system",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.699722222222222,
+      "key": "8347c2f81ab7"
+    },
+    {
+      "text": "Flock Safety cameras need constitutional guardrails before further deployment, Tennessee mayor argues. Knox County, Tennessee, Mayor Glenn Jacobs calls for a nationwide pause on Flock Safety cameras, citing dozens of abuse cases and no federal framework.",
+      "url": "https://www.foxnews.com/media/flock-safety-cameras-need-constitutional-guardrails-before-further-deployment-tennessee-mayor-argues",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.814166666666667,
+      "key": "10838abcafed"
+    },
+    {
+      "text": "Trump doubles down on reflecting pool vandalism allegations, cites new witness account. Trump shared court documents on Truth Social showing a National Park Service employee alleged David Hearn &quot;violently&quot; ripped at the Reflecting Pool.",
+      "url": "https://www.foxnews.com/politics/trump-doubles-down-reflecting-pool-vandalism-allegations-cites-new-witness-account",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 4.823055555555555,
+      "key": "9c21afb4f5c9"
+    },
+    {
+      "text": "RNC warns socialists push Democrats ‘off cliff’ after DSA co-chair offers no tax rate. DSA co-chair Megan Romer could not identify a tax rate or threshold for taxing millionaires when pressed, intensifying Democratic Party debate.",
+      "url": "https://www.foxnews.com/media/rnc-warns-socialists-push-democrats-off-cliff-dsa-co-chair-offers-no-tax-rate",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.201666666666667,
+      "key": "5e0e6619c3f0"
+    },
+    {
+      "text": "AOC documents egg-freezing journey, takes aim at Trump admin over women's reproductive choices. Alexandria Ocasio-Cortez revealed she is freezing her eggs in Instagram videos, saying the decision empowers her while blaming the Trump administration.",
+      "url": "https://www.foxnews.com/politics/aoc-documents-egg-freezing-journey-takes-aim-trump-admin-womens-reproductive-choices",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.581666666666667,
+      "key": "6e441afd255e"
+    },
+    {
+      "text": "Buffalo Bills fans at the brand new $2.2 billion Highmark Stadium are finding their views are obstructed. The Buffalo Bills&apos; $2.2 billion Highmark Stadium has a major problem: expensive seats with views blocked by glass panes, platforms, and railings.",
+      "url": "https://www.foxnews.com/outkick-sports/buffalo-bills-fans-brand-new-2-2-billion-highmark-stadium-finding-views-obstructed",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 5.795555555555556,
+      "key": "d1c6badf0325"
+    },
+    {
+      "text": "WWE's Chelsea Green dealt more bad luck, reveals broken orbital bone less than week after winning title. Chelsea Green says she suffered a broken orbital bone during a tag team match days after winning the Interim WWE Women&apos;s Championship at SummerSlam.",
+      "url": "https://www.foxnews.com/sports/wwe-chelsea-green-dealt-more-bad-luck-reveals-broken-orbital-bone-less-than-week-after-winning-title",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.395,
+      "key": "e0c252aa2541"
+    },
+    {
+      "text": "Lions announce Teddy Bridgewater has retired again, leaving team in middle of training camp. Teddy Bridgewater retired mid-training camp, and Lions head coach Dan Campbell said this time it feels final, with the team signing Josh Dobbs to fill the spot",
+      "url": "https://www.foxnews.com/sports/lions-announce-teddy-bridgewater-retired-again-leaving-team-middle-training-camp",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.6369444444444445,
+      "key": "7dcb8cc26493"
+    },
+    {
+      "text": "Hasan Piker stands by 'intentionally provocative' claims that Hamas is 'a thousand times better' than Israel. Hasan Piker told Rolling Stone Magazine that his Hamas comments were &quot;intentionally provocative&quot; but defended the rhetoric as a way to force audiences to think.",
+      "url": "https://www.foxnews.com/media/hasan-piker-stands-intentionally-provocative-claims-hamas-a-thousand-times-better-than-israel",
+      "source": "Fox News Latest",
+      "weight": 0.9,
+      "age_hours": 6.745555555555556,
+      "key": "7d106d770ffe"
+    },
+    {
+      "text": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure. The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it's not over yet: His lawyers are fighting to close the case permanently.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.4319444444444445,
+      "key": "2b28b2489466"
+    },
+    {
+      "text": "Trump and RFK Jr. try again to upend vaccines for kids. President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 1.831388888888889,
+      "key": "2ab871428e96"
+    },
+    {
+      "text": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'. Journalist Gil Durán argues that a small circle of Silicon Valley billionaires and venture capitalists have concluded that democracy is in their way — and that they should be governing in its place.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 4.611944444444444,
+      "key": "530ccd656df3"
+    },
+    {
+      "text": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage. Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
+      "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 6.113611111111111,
+      "key": "85e55aa09f28"
+    },
+    {
+      "text": "Does spending money make you feel bad? Read this comic. If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 7.905555555555556,
+      "key": "0bc6274d04b0"
+    },
+    {
+      "text": "Flood death toll in India's Assam reaches 100 as thousands lose their homes. Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 9.597222222222221,
+      "key": "abc951089b08"
+    },
+    {
+      "text": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms. A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 10.5325,
+      "key": "77380efd412a"
+    },
+    {
+      "text": "People with disabilities say Medicaid income limits can stifle career advancement. Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 11.248611111111112,
+      "key": "3ee1e6a9f54b"
+    },
+    {
+      "text": "In a competitive Maine Senate race, women voters could be the deciders. The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.248611111111112,
+      "key": "8451bcf9239c"
+    },
+    {
+      "text": "Who really needs testosterone?. The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+      "source": "NPR News",
+      "weight": 0.9,
+      "age_hours": 13.248611111111112,
+      "key": "6c5dc7f848e2"
+    }
+  ],
+  "contexts": {}
+}
