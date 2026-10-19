@@ -24634,5 +24634,378 @@
       },
       "estimated_usd": 1.2987
     }
+  },
+  {
+    "date": "2026-10-19",
+    "generated_at": "2026-10-19T09:43:09.432723+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 55.7,
+      "raw_percentage": 56.0,
+      "blind_scores": [
+        54.7,
+        55.8,
+        55.8,
+        56.3,
+        57.6
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.05,
+        "min": 54.7,
+        "max": 57.6,
+        "se": 0.2
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 54.7,
+        "2": 57.6,
+        "3": 55.8,
+        "4": 56.3,
+        "5": 55.8
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "medium": 2
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 4,
+            "low": 1
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "It wears the 'A SMALL DISAGREEMENT' form with genuine understatement, delivers a fresh sharp line ('a seat at the table is becoming optional for the country being fought over'), and avoids Candidate 1's recycled 'AI news felt calm' closer from 10-18 and Candidate 2's off-directive headline and repea",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 21.7,
+            "scores": [
+              19.0,
+              21.0,
+              22.0,
+              22.0,
+              22.0
+            ]
+          },
+          "Alignment": {
+            "value": 19.0,
+            "scores": [
+              16.0,
+              19.0,
+              19.0,
+              19.0,
+              23.0
+            ]
+          },
+          "Governance": {
+            "value": 18.3,
+            "scores": [
+              17.0,
+              17.0,
+              17.0,
+              21.0,
+              21.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 64.0,
+            "scores": [
+              62.0,
+              64.0,
+              64.0,
+              64.0,
+              64.0
+            ]
+          },
+          "Nuclear": {
+            "value": 14.0,
+            "scores": [
+              10.0,
+              14.0,
+              14.0,
+              14.0,
+              14.0
+            ]
+          },
+          "Biotech": {
+            "value": 7.0,
+            "scores": [
+              7.0,
+              7.0,
+              7.0,
+              7.0,
+              7.0
+            ]
+          },
+          "Cyber": {
+            "value": 16.7,
+            "scores": [
+              15.0,
+              16.0,
+              17.0,
+              17.0,
+              21.0
+            ]
+          },
+          "Climate": {
+            "value": 13.0,
+            "scores": [
+              13.0,
+              13.0,
+              13.0,
+              13.0,
+              15.0
+            ]
+          },
+          "Wild Card": {
+            "value": 31.0,
+            "scores": [
+              26.0,
+              29.0,
+              31.0,
+              33.0,
+              33.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 65.9,
+            "sd": 0.97,
+            "se": 0.27,
+            "scores": [
+              63.9,
+              65.5,
+              66.0,
+              66.2,
+              66.2
+            ]
+          },
+          "power": {
+            "value": 37.8,
+            "sd": 0.63,
+            "se": 0.19,
+            "scores": [
+              36.5,
+              37.5,
+              37.8,
+              38.0,
+              38.0
+            ]
+          },
+          "mean": {
+            "value": 22.8,
+            "sd": 0.99,
+            "se": 0.37,
+            "scores": [
+              21.1,
+              22.3,
+              22.9,
+              23.3,
+              23.6
+            ]
+          },
+          "max": {
+            "value": 64.0,
+            "sd": 0.89,
+            "se": 0.0,
+            "scores": [
+              62.0,
+              64.0,
+              64.0,
+              64.0,
+              64.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 8.59,
+        "K": 0.423,
+        "shock_p": 0.023,
+        "innovation": 0.6,
+        "prev": 55.4,
+        "noise_sd": 4.5,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Ukraine and the U.S. are at odds over Starshield. Here's what to know. Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+      "category": "Geopolitics",
+      "blurb": "A MINOR SIGNAL ISSUE OVER UKRAINE",
+      "summary": "Kyiv says its military satellite link went dark and points at Washington, which insists nothing was paused. Meanwhile Trump has frozen Russian sanctions and Putin is floating a Trump-Xi summit on Ukraine without Zelenskyy, so a seat at the table is becoming optional for the country being fought over. Around the Gulf, 24 ships have been attacked and 6,000 sailors are stuck near Hormuz, and Iran says it has a 'new operational plan' ready if the U.S. resumes strikes.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Hybrid latent-space reasoning agents went open-source, and Claude copies left alone on a virtual island started to 'play,' which is either charming or a preview."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "France is in its worst unrest in years before a budget vote, Alberta votes on whether to hold a separation referendum, and Pakistan is using anti-terror law against opposition figures."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Two hot wars are running at once, with Russia and Ukraine trading strikes on St Petersburg as the U.S.-Ukraine alliance frays, and the Iran conflict still choking Hormuz shipping."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Anthropic gave an outside watchdog 'employee-like' access and the right to publish without approval, a rare procedural win against a backdrop of 63% of Americans fearing AI could end humanity."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "An alleged Saudi-linked bugging of OpenAI's boardroom, a deadly fire at a Canadian military base, and a bomb-threat diversion of an Israeli flight round out the strangeness."
+        }
+      ],
+      "mood": [
+        "fraying",
+        "static-filled",
+        "uneasy",
+        "besieged"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A flat autumn plain in the Ukrainian southeast at dusk, with the bare treeline of a shelterbelt standing as a jagged black strip across the lower third of the frame. Above it the sky is a furnace of blood orange, bleeding upward into deep black, and the horizon glows as though lit from underneath by a volcano. The cool tones are nearly extinguished. Brushed across the burning sky is a thin, broken string of tiny dark satellite dots, with a gap in the middle where the line of dots simply stops. In the foreground, on a mud-churned dirt track beside a shattered khrushchovka-style apartment block, two figures stand in full black silhouette against the glow. One is a stooped elderly woman in a headscarf and long coat, leaning on a cane. The other is a Ukrainian policeman in a peaked cap, standing close beside her and looking up at the sky with his shoulders slumped. Both are drawn whole, from head to boots, with sharp pixel edges rimmed by a thin orange light. Beside them on the ground sits a white flat Starlink dish on a kickstand, a dead silhouette with its cable trailing off to a dark doorway. Behind them the apartment block's blown-out windows are rectangles of black, and a collapsed balcony hangs from its facade. Far across the field, a small hexacopter delivery drone hangs motionless in the sky, its bundle of water bottles dangling beneath it. The mood is quiet abandonment and dependence on a signal that has gone dark. Dense, dithered pixel-art clouds, hard-edged, high contrast, and a palette limited to blood orange, ember red, and near-black.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The Starlink dish at lower right is rendered as a glowing orange tilted oval on a thin stand, not the white, dead silhouette the prompt described. It reads more as a satellite dish or a plate, and the cable to the doorway is hard to see.",
+          "The elderly woman's cane is barely visible and merges into her dark silhouette. The policeman's slumped posture and upward gaze can't be read because he is in full silhouette seen from behind.",
+          "The satellite-dot string across the sky looks more like a power line or bunting. The gap in the middle is subtle.",
+          "The drone with its water-bottle bundle is small and distant. The bundle reads as a dark cage or basket.",
+          "The shattered apartment block on the right is very dark and noisy. The collapsed balcony and the vines or debris hanging from it are hard to parse, though nothing looks fused or broken.",
+          "The orange patches on the muddy ground look like odd cross or diamond shapes, not clear puddle reflections."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 44.3,
+      "driver": "Scientists who discovered a third form of magnetism win major physics prize. Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+      "category": "Science",
+      "blurb": "PHYSICISTS UNMASK A THIRD KIND OF MAGNETISM",
+      "summary": "For more than a century, textbooks counted two kinds of magnetism. Now the physicists who found a third, altermagnetism, have won a major prize for a discovery that could reshape computing and electronics. Elsewhere in the lab, researchers mapped three brain pathways behind lasting relief from deep brain stimulation for severe depression, and archaeologists in Peru uncovered 1,200-year-old mummified hairless dogs buried lovingly alongside the people who raised them.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Altermagnetism earns its discoverers a major physics prize and opens a new frontier for quantum research and faster, leaner electronics."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Anthropic has given an outside AI watchdog employee-like access, with freedom to publish its findings independently."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A blind Virginia college student and her guide dog Beasley are exploring Scotland together as she continues her studies abroad."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Solar panels are spreading across Pakistan's farmland, bringing clean power to the fields that feed the country."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Dogs, it turns out, agree with humans that 'bouba' sounds round and 'kiki' sounds spiky, a charming hint at a shared sense across species."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "curiosity",
+        "delight",
+        "discovery"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 best wears the front-page-triumph directive with the single strong verb 'UNMASK', opens freshly with the century-of-textbooks setup, and steers clear of the brain and depression ground recent cards have already covered, despite one 'Elsewhere' transition.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-19.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on a quiet cobbled lane in the old town of Mainz, Germany, with deep blue-black shadows filling the sky and the sides of the frame. All light comes from artificial sources: golden-yellow gas-style streetlamps and a backlit poster column. The wet cobblestones hold long, shimmering reflections of warm yellow and fresh green. In the background the red sandstone cathedral rises as a dark silhouette. Its tower windows and a few floodlights glow amber against the night.\n\nIn the foreground stands a round, backlit advertising column. Its glowing poster is the focus and shows the story only through pictures, with no lettering. Two small panels sit on the left. In the first, a grid of tiny golden arrows all point up. In the second, the arrows alternate up and down. A third, much larger panel on the right blazes in fresh green and gold. It shows two interlocking lattices, one rotated against the other, with a bright ribbon of light running through the balanced grid. A faint laurel wreath is drawn around the glowing panel.\n\nBeside the column, a lone whole figure in a long coat, seen as a dark silhouette, stands with a bicycle and looks up at the poster. The green glow washes across their face and shoulders. A newspaper vending box under a nearby lamp shows a front page with a small picture of the same glowing lattice. A scatter of green and golden light spills across the wet street. Warm confident golden-yellow and fresh green dominate the palette, with only small touches of deep shadow.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The bicycle is drawn at an odd angle. The two wheels overlap and the frame is hard to read, though it still reads as a bike held by the figure.",
+          "The newspaper on the vending box looks pasted on rather than sitting inside the box. Its headline is only tiny marks, which is acceptable.",
+          "The figure is almost entirely a dark silhouette seen from behind, so the green glow on the face and shoulders is barely visible.",
+          "The cathedral glows golden-brown rather than red sandstone, which is a palette choice.",
+          "The arrow panels on the column are small and a bit muddy, and the middle arrows in the lower panel are hard to make out."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 199802,
+        "output_tokens": 24915,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17696,
+        "output_tokens": 8151,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.4144
+    }
   }
 ]
