@@ -25007,5 +25007,379 @@
       },
       "estimated_usd": 1.4144
     }
+  },
+  {
+    "date": "2026-10-20",
+    "generated_at": "2026-10-20T09:43:33.917651+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 56.5,
+      "raw_percentage": 57.4,
+      "blind_scores": [
+        56.4,
+        57.3,
+        57.4,
+        57.6,
+        59.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.1,
+        "min": 56.4,
+        "max": 59.4,
+        "se": 0.11
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 57.6,
+        "2": 56.4,
+        "3": 59.4,
+        "4": 57.4,
+        "5": 57.3
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 4,
+            "high": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "It wears the sports-desk voice cleanly from the 'clock still running' headline to the 'undercard' kicker, opens its second beat with 'Elsewhere' instead of the overused 'Meanwhile', and lands a sharp line about how nobody who is actually leaving talks this way, while Candidate 3's 'standings look gr",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 30.7,
+            "scores": [
+              28.0,
+              30.0,
+              31.0,
+              31.0,
+              34.0
+            ]
+          },
+          "Alignment": {
+            "value": 23.7,
+            "scores": [
+              22.0,
+              22.0,
+              22.0,
+              27.0,
+              33.0
+            ]
+          },
+          "Governance": {
+            "value": 24.0,
+            "scores": [
+              21.0,
+              22.0,
+              24.0,
+              26.0,
+              27.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 63.7,
+            "scores": [
+              63.0,
+              63.0,
+              64.0,
+              64.0,
+              66.0
+            ]
+          },
+          "Nuclear": {
+            "value": 14.0,
+            "scores": [
+              14.0,
+              14.0,
+              14.0,
+              14.0,
+              17.0
+            ]
+          },
+          "Biotech": {
+            "value": 47.0,
+            "scores": [
+              46.0,
+              47.0,
+              47.0,
+              47.0,
+              52.0
+            ]
+          },
+          "Cyber": {
+            "value": 47.0,
+            "scores": [
+              41.0,
+              43.0,
+              47.0,
+              51.0,
+              53.0
+            ]
+          },
+          "Climate": {
+            "value": 35.0,
+            "scores": [
+              29.0,
+              33.0,
+              34.0,
+              38.0,
+              38.0
+            ]
+          },
+          "Wild Card": {
+            "value": 28.0,
+            "scores": [
+              22.0,
+              26.0,
+              27.0,
+              31.0,
+              34.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 69.0,
+            "sd": 1.36,
+            "se": 0.24,
+            "scores": [
+              68.2,
+              68.8,
+              68.8,
+              69.4,
+              71.7
+            ]
+          },
+          "power": {
+            "value": 43.0,
+            "sd": 1.31,
+            "se": 0.76,
+            "scores": [
+              41.7,
+              41.8,
+              43.6,
+              43.7,
+              44.7
+            ]
+          },
+          "mean": {
+            "value": 35.3,
+            "sd": 1.42,
+            "se": 0.71,
+            "scores": [
+              33.0,
+              34.4,
+              35.2,
+              36.3,
+              36.4
+            ]
+          },
+          "max": {
+            "value": 63.7,
+            "sd": 1.22,
+            "se": 0.41,
+            "scores": [
+              63.0,
+              63.0,
+              64.0,
+              64.0,
+              66.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 9.97,
+        "K": 0.492,
+        "shock_p": 0.035,
+        "innovation": 1.7,
+        "prev": 55.7,
+        "noise_sd": 4.5,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Iran live updates: Trump says US is winning war, 'can leave right now'.",
+      "category": "Geopolitics",
+      "blurb": "TRUMP DECLARES IRAN LEAD, CLOCK STILL RUNNING",
+      "summary": "Nearly eight months after 'major combat operations' began, the President says America is winning and could leave anytime, which is exactly what nobody who is actually leaving says. Elsewhere, a Russian satellite is shadowing a Ukraine-used spacecraft at 'extreme proximity,' Kyiv says delayed US intelligence is costing lives, and Ebola's death toll has passed 4,300 as Kenya logs its eighth case. An army of mostly self-directed AI agents broke into John Deere and over 100 other sites, and France is under curfew, so the undercard is busy too.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "A hacker using a swarm of largely autonomous AI agents breached more than 100 websites, including John Deere, SharkNinja and Cummins."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The DOJ is charging voters and seeking to halt ballot processing in California, the US is banning DeepSeek, and a Rwandan dissident was found beheaded in exile."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The US-Iran war grinds on, Russia and Ukraine are trading heavy strikes while Washington and Kyiv feud, and drone and missile attacks killed 80 people in Sudan and 50 in Yemen."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Engineers admit to shipping AI code they don't understand, and WhatsApp's help pages hid LLM instructions telling bots not to recommend a regulator, though Goodfire's interpretability claim offers a rare hopeful note."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "The second-largest Ebola outbreak in history is spreading into new territory, while riots in France and Albania and a Russian satellite stalking ICEYE add volatility."
+        }
+      ],
+      "mood": [
+        "grinding",
+        "overextended",
+        "feverish",
+        "restless",
+        "shadowed"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level view looking steeply upward from the frozen gravel apron of a shuttered farm co-op in a small Kansas wheat town outside Wichita, late October at night. A concrete grain elevator, a row of tall slip-formed silos with a steel headhouse and a leg tower, fills the center of the frame and leans toward a vast black Great Plains sky. A distant refinery flare stack burns on the flat horizon and throws blood-orange light up the silo walls from below, like volcanic underlighting. Deep black shadow swallows everything else, and every cool tone is extinguished. Ember-orange cloud bellies hang over the headhouse. Beside the silos stand the co-op's fertilizer tanks, a pair of white anhydrous ammonia spheres and a dry-urea storage shed, now dark. Its loading bay doors are chained, and a chain-link gate is padlocked, hung with a faded red-white-and-blue bunting that sags in the wind. In the foreground, a row of idle self-propelled sprayers and empty flatbed trailers sits in the orange glow with their booms folded. A single lit price board on a pole, its glowing digit blocks blank and dead, stands at the edge of the lot. One whole farmer in a work jacket and seed cap stands small at the base of the elevator, hands in his pockets, looking up at the dark silos. A dusty pickup with a black windshield waits beside him. Fields of unplanted dark earth stretch behind them. Mood: quiet aftermath, a distant war felt as scarcity.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The row of sprayers and trailers on the left is a dark, muddled cluster of wheels and shapes. It reads as machinery, but the booms are not clear.",
+          "The pickup at lower left is mostly lost in shadow and its shape is simple and blocky.",
+          "The price board on the right is a blank dark rectangle with no visible glowing digit blocks, so it reads as a plain sign.",
+          "The bunting on the chain-link gate is a muddy fan of stripes. The red, white and blue is barely readable under the color grade.",
+          "The farmer is a small dark silhouette. His seed cap and hands in pockets are hard to make out, but the body looks whole.",
+          "The silo tops and headhouse blend into the dark sky, so the leg tower structure is hard to read."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 43.5,
+      "driver": "A simple touch can bring dying corals back to life in just 7 weeks. Scientists have discovered that severely bleached corals can make a remarkable comeback simply by touching healthy, genetically identical corals. In laboratory experiments, dying corals regained their color and fully recovered within seven weeks, with as little as five days of contact sometimes enough to start the heal",
+      "category": "Environment",
+      "blurb": "AT A TWIN'S TOUCH, THE CORAL BLUSHES ANEW",
+      "summary": "Pale, fading corals regained their full color within seven weeks once scientists simply placed them against healthy, genetically identical partners. Sometimes five days of contact was enough to start the recovery, and that opens a gentle new path for reef restoration. Kindness turned up elsewhere in nature too: northern bottlenose whales appear to stay close to their sick companions, and barn owls have nested in Manhattan for the first time in modern history.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers found a rare protective mutation that keeps some high-risk people mentally sharp into their 80s, and it points toward new ways to shield the brain."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "CERN and Mistral signed a statement of intent to join forces and speed up AI-powered scientific discovery."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The Rays and Brewers meet in the World Series, so one long-waiting fan base is guaranteed its first-ever championship."
+        },
+        {
+          "name": "Environment",
+          "signal": "blazing",
+          "detail": "Dying corals fully recovered through contact with healthy clones, a simple and hopeful tool for bringing reefs back."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Japan launched its historic MMX mission to land on the Martian moon Phobos and bring a piece of it home to Earth."
+        }
+      ],
+      "mood": [
+        "tender",
+        "renewing",
+        "wondrous",
+        "hopeful",
+        "radiant"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 is the freshest: it swaps the 'healthy neighbour' wording from the 10-18 coral card for 'twin' and 'partners', drops the MMX launch the 10-17 card already covered in favour of the new whale-kindness story, and still wears the newsreel-wonder voice with a grand, specific headline.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-20.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a weathered wooden boathouse turned marine field station on a tropical lagoon, the morning after the discovery has been quietly confirmed. We look out through a wide-open pair of double doors that frame the whole outside world. Beyond the doors, clear balanced daylight pours over a shallow lagoon in fresh green and golden-yellow, with swaying palm fronds at the edges and a restored coral reef glowing warm amber and aquamarine beneath the surface. Inside, the room is calm and empty of people, with plank walls in honey-brown, dust motes drifting in the steady warm light, and a faint golden reflection of water rippling across the ceiling beams. On a long wooden workbench in the foreground sit glass aquarium tanks. In the nearest tank, two small branching coral fragments with matching branch patterns rest against each other. The left one is still chalk-white at its tips, and a warm blush of golden-brown and coral pink spreads outward across it from the touching seam, brightest where it meets the rich-colored right fragment. A second tank beside it holds two white fragments separated by a thin sliver of dark water, one of them gray and lifeless. Tools are laid out neatly along the bench: steel tweezers, a small ruler, a brass microscope with its eyepiece tilted toward the light, and a few glass slides. A watering can and a coil of rope hang on a hook by the doorway, and a pair of empty rubber boots-free dock steps lead from the open door down to the green water. Confident, steady warmth, tender and restorative, with tidy readable pixel clusters, a crisp limited palette, and strong depth from the dark interior frame to the bright lagoon.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The right tank has a glass divider, and the gray fragment sits behind or inside it. That reads a little oddly, but it fits the prompt's two separated fragments.",
+          "The watering can sits on the bench at right, not hanging by the doorway as prompted. The rope coil hangs on a hook, so this reads fine.",
+          "The pale corals in the lagoon beyond the dock are yellow blobs with unclear shapes, though they work as a distant reef.",
+          "The tools on the bench (tweezers, ruler, slides) are simple and slightly ambiguous in shape, but nothing is broken.",
+          "The left coral fragment is mostly white with only a slight blush toward the orange one, so the intended gradient is subtle."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 237049,
+        "output_tokens": 26632,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 15965,
+        "output_tokens": 7726,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.59
+    }
   }
 ]
