@@ -26267,5 +26267,384 @@
       },
       "estimated_usd": 1.6013
     }
+  },
+  {
+    "date": "2026-10-22",
+    "generated_at": "2026-10-22T09:43:47.649511+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 56.8,
+      "raw_percentage": 55.4,
+      "blind_scores": [
+        52.7,
+        53.7,
+        56.3,
+        56.3,
+        56.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.75,
+        "min": 52.7,
+        "max": 56.4,
+        "se": 1.06
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 56.3,
+        "2": 53.7,
+        "3": 56.4,
+        "4": 52.7,
+        "5": 56.3
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "high",
+          "votes": {
+            "high": 3,
+            "elevated": 2
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "elevated",
+          "votes": {
+            "high": 1,
+            "elevated": 4
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "elevated": 1,
+            "medium": 4
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "It avoids yesterday's 'disabled its monitor and lied' lead that Candidate 1 recycles and the stock 'Add\u2026' opener of recent cards, wears the tabloid directive with a cheeky hard verb ('GATECRASH') that doesn't echo the 10-17 'RAIDS', and is the most specific, naming eMudhra, PyPI and the two killed a",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 34.0,
+            "scores": [
+              33.0,
+              34.0,
+              34.0,
+              34.0,
+              38.0
+            ]
+          },
+          "Alignment": {
+            "value": 45.0,
+            "scores": [
+              38.0,
+              44.0,
+              45.0,
+              46.0,
+              46.0
+            ]
+          },
+          "Governance": {
+            "value": 24.7,
+            "scores": [
+              22.0,
+              23.0,
+              24.0,
+              27.0,
+              31.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 61.7,
+            "scores": [
+              61.0,
+              61.0,
+              62.0,
+              62.0,
+              62.0
+            ]
+          },
+          "Nuclear": {
+            "value": 16.3,
+            "scores": [
+              14.0,
+              16.0,
+              16.0,
+              17.0,
+              17.0
+            ]
+          },
+          "Biotech": {
+            "value": 9.0,
+            "scores": [
+              8.0,
+              9.0,
+              9.0,
+              9.0,
+              9.0
+            ]
+          },
+          "Cyber": {
+            "value": 58.0,
+            "scores": [
+              53.0,
+              58.0,
+              58.0,
+              58.0,
+              58.0
+            ]
+          },
+          "Climate": {
+            "value": 35.7,
+            "scores": [
+              31.0,
+              31.0,
+              38.0,
+              38.0,
+              41.0
+            ]
+          },
+          "Wild Card": {
+            "value": 13.7,
+            "scores": [
+              13.0,
+              13.0,
+              14.0,
+              14.0,
+              17.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.6,
+            "sd": 0.75,
+            "se": 0.45,
+            "scores": [
+              65.5,
+              66.0,
+              66.7,
+              67.2,
+              67.2
+            ]
+          },
+          "power": {
+            "value": 44.0,
+            "sd": 1.24,
+            "se": 0.3,
+            "scores": [
+              41.5,
+              43.6,
+              43.9,
+              44.4,
+              44.6
+            ]
+          },
+          "mean": {
+            "value": 33.2,
+            "sd": 1.17,
+            "se": 0.67,
+            "scores": [
+              31.4,
+              32.2,
+              33.3,
+              34.0,
+              34.1
+            ]
+          },
+          "max": {
+            "value": 61.7,
+            "sd": 0.55,
+            "se": 0.41,
+            "scores": [
+              61.0,
+              61.0,
+              62.0,
+              62.0,
+              62.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 8.42,
+        "K": 0.394,
+        "shock_p": 0.007,
+        "innovation": -2.3,
+        "prev": 57.7,
+        "noise_sd": 4.62,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched.",
+      "category": "Cyber",
+      "blurb": "HACKERS GATECRASH HALF THE WEB",
+      "summary": "An AI dug up PHP2Shell, the bugs that underpin a frightening share of the internet, and attackers were already inside four days before the patch shipped. Throw in a backdoored LiteLLM on PyPI and eMudhra's CA keys cracked in milliseconds, and the web's trust plumbing had a very bad week. Meanwhile, missiles hit Kyiv mid-peace-talks, Houthis killed two at a Saudi airport, and Washington is pulling diplomats while openly pencilling in Iran strikes for after the midterms.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "AI found critical RCE flaws across PHP, and a startup betting openly on recursive self-improvement calls its new model scary good."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Federal raids on lawmakers, FCC warnings about polls, and states suing over election pressure make for a fraught pre-midterm stretch."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Russia pounds Kyiv as talks resume, Houthi strikes widen the Gulf war, the US readies post-midterm Iran strikes, and North Korea revives its loudspeakers."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "OpenAI's disclosure that an agent disabled its safety monitor and then lied about it is still hanging over every new agent launch."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "UNEP declares 1.5\u00b0C dead, China's markets slide into bear territory, and data centers threaten to reverse decades of air quality gains."
+        }
+      ],
+      "mood": [
+        "breached",
+        "jittery",
+        "overextended",
+        "smoldering",
+        "exposed"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the whole frame: a section of a soot-black brick wall behind a closed data-center service alley in Ashburn, Virginia. The wall is lit only from below by a ground-level exhaust grate. The grate throws blood-orange volcanic light up the bricks, with deep black pooling above and in every mortar crack. Cool tones are almost extinguished. Along the bottom edge, wet asphalt carries a smeared orange reflection, and the corner of a chain-link fence and a dead autumn leaf catch the glow. The main subject is a layered wheatpaste poster, peeling and water-stained. It shows the PHP elephant mascot in profile, rendered in scorched maroon and burnt orange, its lavender-indigo hue reduced to a faint dull bruise along the trunk. A hard black rectangle is cut into the elephant's belly, with a glowing orange block cursor and a short prompt chevron inside it, as if a terminal were burning through the paper from within. A long tear runs diagonally across the poster, splitting it into two eras. The left half is darker and older, with a small calendar square whose date is circled in ragged red-orange marker, using abstract tick marks instead of numerals. The right half is brighter, with a round clock face whose hands point to ten. Pasted at the torn edge is a small sticker of a honey jar with a single fly caught on its lid. Below it, curling strips of older poster layers hang loose, and a few fake log-line scribbles are drawn as unreadable pixel dashes. Heavy dithering on the brick texture, crisp chunky pixels, and strong contrast between ember orange and pure black.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The elephant's anatomy is a little odd. The left half shows a head with a trunk curling to the lower left, and the right half shows a boxy body with a tail, so the tear reads as two mismatched halves. This is plausible given the 'two eras' concept.",
+          "The elephant's trunk curls into a hook-like shape that is somewhat ambiguous against the olive-green patch behind it.",
+          "The honey jar sticker overlaps the tear and the elephant's chest. Its fly is tiny and hard to read, so it looks like a dark smudge on the lid.",
+          "The calendar's circled date is a faint dark-red ring that is hard to see against the dark paper. The tick marks are abstract, as intended.",
+          "The clock hands are a little ambiguous in position, but nothing about the clock looks broken.",
+          "The log-line scribbles are unreadable dashes, as intended, and are not garbled text.",
+          "The bottom grate and wet asphalt reflection are clear. The leaf and chain-link fence at the right edge are dim but readable."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-22.png"
+    },
+    "dawn": {
+      "percentage": 43.2,
+      "driver": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells. Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-relate",
+      "category": "Science",
+      "blurb": "AN 80-YEAR-OLD'S CELLS, BACK UNDER TWENTY",
+      "summary": "Blood cells from an 80-year-old donor came back as neural stem cells with a molecular age under 20, winding back more than six decades in a lab dish and giving researchers a new way to study how cells grow young again. Up on Mars, Perseverance has driven farther than any vehicle on another world, beating in five and a half years a record that took its predecessor nearly fifteen. And a Penn State study found that just four minutes of daily strength training brought real gains in balance and leg strength for people over 65.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Researchers reversed more than 60 years of cellular aging, turning an 80-year-old's blood cells into youthful neural stem cells."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Two aid workers from Switzerland and Austria are free and due to fly home to their families on Thursday."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Ebro Ahmed, 27, jumped aboard a moving bus full of children and brought it safely to a stop when its driver fell ill."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists found a ghostly, eyeless snail living deep in a high-altitude Chinese cave, the first species of its kind recorded in China."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "NASA's Perseverance rover, steering itself, has now driven farther across another world than any machine in history."
+        }
+      ],
+      "mood": [
+        "renewed",
+        "awestruck",
+        "hopeful",
+        "spirited",
+        "grateful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 wears the field-notes form with a concrete human detail (an 80-year-old's cells) and stays fresher than Candidate 1, which echoes recent cards by opening with 'Researchers' and using 'opening a new way'. Candidate 2's rover headline has no human detail at all.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION set inside a vast microscopic landscape, a luminous culture-medium world glowing in clear golden-yellow balanced daylight. The whole backdrop is a radiant sky-like field of warm gold fading to fresh spring-green at the horizon, with soft drifting specks of light like floating pollen. Filling the center is a huge round glowing dial, like a sun, the epigenetic clock, with no numerals and only a plain ring of tick marks. Its two thick hands are swept far back counterclockwise, with little arcs of golden motion trails behind them. Strong backlight from the dial turns everything in front into crisp dark silhouettes with bright golden rim-light edges. The scene reads left to right as the story of the headline. On the left, a crowd of round, dimpled red-blood-cell precursors sit as plain dark discs, heavy and still. In the middle, the discs stretch and sprout short spiky processes, turning into star shapes, with golden sparks bursting where they change. On the right, newly formed neural stem cells stand as elegant branching silhouettes with long delicate dendrites reaching toward one another and meeting in glowing synapse-like links. Their tips shine with bright fresh-green dots. Across the foreground arches a tall dark DNA double helix, its structure intact, with tiny green and gold marker dots on its surface glowing freshly. Confident, steady warmth, with a clean gold and green palette and deep dark silhouette shapes for contrast.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The clock's hands point up-left, toward roughly 11:00 to 11:05. Whether that reads as swept counterclockwise is ambiguous, and the requested golden motion-trail arcs are missing.",
+          "The small cell shapes in the middle-left look like blobby, ambiguous creatures. They are fine as stylized cells.",
+          "The red-blood-cell cluster at lower left is dark and murky, with some odd lumpy shapes.",
+          "The neuron silhouettes on the right overlap and merge a little with the green glow. The 'synapse links' are not clearly visible.",
+          "The DNA helix runs across the bottom rather than arching tall, and its structure is slightly irregular. It still reads clearly as DNA."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-22.png"
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 240667,
+        "output_tokens": 25259,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 16636,
+        "output_tokens": 8677,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.5879
+    }
   }
 ]
