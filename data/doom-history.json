@@ -26130,5 +26130,384 @@
       },
       "estimated_usd": 1.5879
     }
+  },
+  {
+    "date": "2026-10-23",
+    "generated_at": "2026-10-23T09:43:56.194836+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 53.7,
+      "raw_percentage": 47.1,
+      "blind_scores": [
+        46.3,
+        46.8,
+        46.8,
+        47.6,
+        47.6
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.57,
+        "min": 46.3,
+        "max": 47.6,
+        "se": 0.33
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 47.6,
+        "2": 46.8,
+        "3": 46.3,
+        "4": 46.8,
+        "5": 47.6
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 avoids the 'pencilled in' and 'bold way to' phrasing from recent cards (unlike 2) and the 'Throw in' opener from yesterday (unlike 1), its blurb fits the newsreel form exactly ('IN WASHINGTON AND JERUSALEM, THE WAR MAPS UNFURL'), and its line about a launch window 'scheduled politely aft",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 28.0,
+            "scores": [
+              26.0,
+              26.0,
+              27.0,
+              31.0,
+              31.0
+            ]
+          },
+          "Alignment": {
+            "value": 14.0,
+            "scores": [
+              13.0,
+              14.0,
+              14.0,
+              14.0,
+              16.0
+            ]
+          },
+          "Governance": {
+            "value": 25.0,
+            "scores": [
+              17.0,
+              23.0,
+              25.0,
+              27.0,
+              29.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 58.0,
+            "scores": [
+              52.0,
+              58.0,
+              58.0,
+              58.0,
+              61.0
+            ]
+          },
+          "Nuclear": {
+            "value": 22.7,
+            "scores": [
+              19.0,
+              22.0,
+              23.0,
+              23.0,
+              24.0
+            ]
+          },
+          "Biotech": {
+            "value": 29.7,
+            "scores": [
+              27.0,
+              29.0,
+              29.0,
+              31.0,
+              34.0
+            ]
+          },
+          "Cyber": {
+            "value": 52.7,
+            "scores": [
+              49.0,
+              52.0,
+              53.0,
+              53.0,
+              56.0
+            ]
+          },
+          "Climate": {
+            "value": 38.0,
+            "scores": [
+              37.0,
+              38.0,
+              38.0,
+              38.0,
+              38.0
+            ]
+          },
+          "Wild Card": {
+            "value": 24.3,
+            "scores": [
+              19.0,
+              19.0,
+              27.0,
+              27.0,
+              29.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 62.9,
+            "sd": 3.47,
+            "se": 0.0,
+            "scores": [
+              56.4,
+              62.9,
+              62.9,
+              62.9,
+              65.8
+            ]
+          },
+          "power": {
+            "value": 40.7,
+            "sd": 1.72,
+            "se": 0.33,
+            "scores": [
+              37.1,
+              40.4,
+              40.4,
+              41.2,
+              41.3
+            ]
+          },
+          "mean": {
+            "value": 32.8,
+            "sd": 1.08,
+            "se": 0.04,
+            "scores": [
+              30.4,
+              32.7,
+              32.8,
+              32.8,
+              32.9
+            ]
+          },
+          "max": {
+            "value": 58.0,
+            "sd": 3.29,
+            "se": 0.0,
+            "scores": [
+              52.0,
+              58.0,
+              58.0,
+              58.0,
+              61.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 6.49,
+        "K": 0.319,
+        "shock_p": 0.0,
+        "innovation": -9.7,
+        "prev": 56.8,
+        "noise_sd": 4.51,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR. The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
+      "category": "Geopolitics",
+      "blurb": "IN WASHINGTON AND JERUSALEM, THE WAR MAPS UNFURL",
+      "summary": "Apparently the next round with Iran has a launch window, and it is scheduled politely after the votes are counted. Meanwhile, oil is parked above $100, Europe enters winter with record-low gas reserves, analysts give the world a month or two of oil if Hormuz shuts again, and the internet is still patching an AI-discovered PHP hole while a certificate authority admits it minted keys for any site. Add Ebola patients possibly crossing paths at Entebbe, Paris under curfew, and an attorney general who won't rule out a 'doomsday' certification scenario, and the plot is thickening on several fronts.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "AI turned a theoretical 2024 attack into a live threat to two-thirds of websites, and Codex helped jailbreak the Switch 2, so offensive capability is very much shipping."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The DOJ is hedging on intervening in midterm certification, AI lobbying hit record highs, and Meta faces election-interference accusations in Brazil."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "US-Israel strike planning on Iran, triple-digit oil, depleted energy reserves, a Russian 'stalker satellite' and the Starlink tug-of-war over Ukraine all point the wrong way."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Labs are pushing autonomous agent fleets and sandboxes like OpenShell, while LLM-assisted formal verification is a rare bit of good news on the safety side."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola contact tracing across Nigeria and Kenya, a compromised intermediate CA, a deadly Tibet quake and French riots keep the unexpected side of the ledger busy."
+        }
+      ],
+      "mood": [
+        "foreboding",
+        "brittle",
+        "scheduled",
+        "overstretched",
+        "jittery"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene of a suburban American polling place the morning after Election Day, a brick elementary-school gymnasium in a Pennsylvania town, seen from the cracked asphalt parking lot with the camera low and looking toward the open double doors. Bare oaks stand black against a sky of deep black fading to a thin blood-orange smear at the horizon. Wet fallen leaves in rust and ember tones cover the asphalt and curb. All light comes from artificial sources: a sodium streetlamp casting a volcanic orange pool, and the gym doorway glowing from inside like a furnace mouth. Inside, rows of empty gray voting booths with their curtains drawn back stand in silhouette, and a dark folding table holds a stack of ballot boxes. A lone custodian, fully visible in a dark work jacket, pushes a wide push-broom across the lot, sweeping leaves and crumpled red-white-and-blue flyers into a heap, the flyers showing only blocks of color with no lettering. Beside the door, a blank plastic sandwich-board sign lies toppled on its side, and a blank wire-stake yard sign leans crooked in the grass. On the brick wall above the doors, a lit window of a school office holds a small television, its flickering orange glow showing the pale outline of a map of Iran with a single red marker. A tiny, plain, blank round paper sticker, a simple pale disc with a small red-and-blue stripe and no markings or lettering, lies on the wet asphalt in the foreground, catching the light. Cool tones are nearly extinguished, and the palette is blood orange, ember red, and deep black, with harsh underlit shadows and a heavy, quiet dread.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 2,
+        "used": 2,
+        "rejected": [
+          {
+            "image": 1,
+            "defects": [
+              "The \"I Voted\" sticker on the asphalt in the foreground carries garbled, illegible lettering (something like \"VATCD\"). It is large and bright enough that a reader will notice the gibberish."
+            ]
+          }
+        ],
+        "major": [],
+        "minor": [
+          "The custodian is a dark silhouette with little detail. The broom handle reaches the ground, but the broom head and the swept pile of leaves and flyers are hard to read.",
+          "The sandwich-board sign and the yard sign are blank, flat tan rectangles that look a little like boxes or panels. The yard sign's stakes are hard to make out.",
+          "The lit window on the upper wall shows a vague yellow blob that reads loosely as a map, with a faint red dot. It is not clearly Iran, but nothing in it looks like garbled text.",
+          "The foreground sticker is a small glowing disc with an orange stripe. It looks like a coin or a bottle cap.",
+          "The voting booths and ballot-box table inside the doorway are murky, and the booths read as dark vertical shapes.",
+          "The dark sky and the blood-orange horizon smear are mostly lost, so the bare tree on the left reads as a reddish haze."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 46.3,
+      "driver": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%. Markers released top-line results today after previously reporting the trial succeeded.",
+      "category": "Medicine",
+      "blurb": "A HELPFUL LITTLE JAB AGAINST CANCER",
+      "summary": "A personalized mRNA cancer vaccine from Moderna and Merck lowered the risk of recurrence or death by 42 percent, according to top-line trial results released today. It joins a strong day for cancer research: scientists also identified specialized immune cells that can recognize and destroy small cell lung cancer even when tumors try to hide. And in Cambridge, researchers built a $10 optical chip with lab-grade precision that is small enough to wear on your wrist.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "An analysis of 2,884 exploding stars suggests dark energy may change over time, and a lab experiment has recreated tiny solar nanoflares that may help explain why the sun's corona is so hot."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Two pharmaceutical giants pooled their strengths to build a vaccine that teaches each patient's immune system to recognize their own cancer."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "glimmer",
+          "detail": "Seven-year-old Jordan Sunshine found a way to ease his anxiety by singing on the streets of Los Angeles, and he is winning hearts as he does it."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Iguaz\u00fa Falls is pouring near-record volumes of water over its mile-wide cliffs on the Brazil-Argentina border."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "A microscopic image of inkjet droplets landing on paper won Germany's Ole Bielfeldt the top prize in Nikon's Small World contest."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "steady",
+        "curious",
+        "warm",
+        "quietly triumphant"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 wears the understatement directive well with 'A HELPFUL LITTLE JAB AGAINST CANCER' and avoids recent-card reuse, whereas Candidate 1 leans on the overused 'quietly' and Candidate 2 repeats 'Elsewhere in the lab' verbatim from the 10-19 card.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-23.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from the grass of a small community garden at the edge of a suburban neighborhood, in clear balanced midday daylight with confident, steady warmth. Tall sunflowers with golden-yellow petals and fresh green leaves tower overhead like a canopy. A wide blue sky with a few soft clouds opens between them, and the light is clear golden-yellow and fresh green. Raised wooden garden beds, a watering can and rows of young green seedlings frame the bottom edge. Standing on the garden path above the camera, seen whole from a low angle, is a middle-aged woman in a sun hat and a loose linen shirt. She has a faint pale surgical scar on her forearm and is lifting a ripe tomato toward the light with a relaxed, quietly grateful smile. Beside her, a teenage son in a yellow t-shirt leans on a garden fork and laughs, and a small dog sits in the grass at their feet. Her sleeve is rolled up, and a small round bandage on her upper arm hints at a recent injection. On the garden fence behind them hangs a canvas tote bag with a small medical appointment card tucked in its pocket, next to a calendar page with a circled date. A single ribbon of soft violet-pink light, subtle and no more than a few pixels wide, curls through the sky between the sunflowers as the only hint of the personalized mRNA medicine. The mood is quiet, grounded and cautiously hopeful, with an ordinary day continuing and no hospital or lab shown. Rich dithered pixel shading and crisp pixel edges, with warm amber highlights on skin and leaves.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The purple-pink ribbon in the sky reads as a large faint circle or halo, not a thin curl, and it may puzzle readers. It is what the prompt asked for and is subtle enough to pass.",
+          "The camera angle is only mildly low, so the 'looking up from the grass' effect is weaker than described. The woman's stance and proportions look slightly stretched, but this is acceptable stylization.",
+          "The scar and the injection bandage on the woman's arm are barely visible, and the calendar and appointment card are only tiny marks. None of this is a visible flaw.",
+          "The boy's jeans and the fork handle overlap a little at the lower right, but the shapes still read clearly."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 257423,
+        "output_tokens": 23853,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 8,
+        "input_tokens": 18450,
+        "output_tokens": 7922,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.6229
+    }
   }
 ]
