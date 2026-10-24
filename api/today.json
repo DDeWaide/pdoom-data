@@ -1,37 +1,38 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T09:43:56.194836+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T09:43:33.072096+00:00",
   "prompt_version": "v3",
   "doom": {
-    "percentage": 53.7,
-    "raw_percentage": 47.1,
+    "percentage": 54.8,
+    "raw_percentage": 55.9,
     "blind_scores": [
-      46.3,
-      46.8,
-      46.8,
-      47.6,
-      47.6
+      51.7,
+      54.7,
+      56.4,
+      56.7,
+      58.4
     ],
     "spread": {
       "n": 5,
-      "sd": 0.57,
-      "min": 46.3,
-      "max": 47.6,
-      "se": 0.33
+      "sd": 2.54,
+      "min": 51.7,
+      "max": 58.4,
+      "se": 0.78
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 47.6,
-      "2": 46.8,
-      "3": 46.3,
-      "4": 46.8,
-      "5": 47.6
+      "1": 51.7,
+      "2": 54.7,
+      "3": 56.7,
+      "4": 56.4,
+      "5": 58.4
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "elevated",
+        "signal": "high",
         "votes": {
-          "elevated": 5
+          "high": 4,
+          "elevated": 1
         }
       },
       "Governance": {
@@ -47,15 +48,17 @@
         }
       },
       "Alignment": {
-        "signal": "medium",
+        "signal": "high",
         "votes": {
-          "medium": 5
+          "high": 3,
+          "elevated": 2
         }
       },
       "Wild Card": {
         "signal": "elevated",
         "votes": {
-          "elevated": 5
+          "elevated": 4,
+          "high": 1
         }
       }
     },
@@ -64,7 +67,7 @@
       "candidates": 3,
       "lookback_days": 30,
       "pick": 3,
-      "why": "Candidate 3 avoids the 'pencilled in' and 'bold way to' phrasing from recent cards (unlike 2) and the 'Throw in' opener from yesterday (unlike 1), its blurb fits the newsreel form exactly ('IN WASHINGTON AND JERUSALEM, THE WAR MAPS UNFURL'), and its line about a launch window 'scheduled politely aft",
+      "why": "Candidate 3 avoids the recycled 'When a lab/company's announcement\u2026' opening and the 'IN X, THE Y\u2026' headline shape the other two reuse from recent cards, and its blurb cleanly wears the nature-documentary form while anchoring on a hard, specific Ebola story with a real mystery at its core.",
       "fallback": false
     },
     "shadow": {
@@ -72,143 +75,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 28.0,
+          "value": 32.0,
+          "scores": [
+            30.0,
+            31.0,
+            31.0,
+            34.0,
+            34.0
+          ]
+        },
+        "Alignment": {
+          "value": 46.7,
+          "scores": [
+            38.0,
+            46.0,
+            46.0,
+            48.0,
+            52.0
+          ]
+        },
+        "Governance": {
+          "value": 28.3,
+          "scores": [
+            27.0,
+            27.0,
+            27.0,
+            31.0,
+            34.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 63.3,
+          "scores": [
+            63.0,
+            63.0,
+            63.0,
+            64.0,
+            66.0
+          ]
+        },
+        "Nuclear": {
+          "value": 17.3,
+          "scores": [
+            14.0,
+            16.0,
+            17.0,
+            19.0,
+            21.0
+          ]
+        },
+        "Biotech": {
+          "value": 43.0,
+          "scores": [
+            38.0,
+            41.0,
+            41.0,
+            47.0,
+            47.0
+          ]
+        },
+        "Cyber": {
+          "value": 50.0,
+          "scores": [
+            47.0,
+            49.0,
+            49.0,
+            52.0,
+            52.0
+          ]
+        },
+        "Climate": {
+          "value": 28.3,
           "scores": [
             26.0,
-            26.0,
+            27.0,
             27.0,
             31.0,
             31.0
           ]
         },
-        "Alignment": {
-          "value": 14.0,
-          "scores": [
-            13.0,
-            14.0,
-            14.0,
-            14.0,
-            16.0
-          ]
-        },
-        "Governance": {
-          "value": 25.0,
+        "Wild Card": {
+          "value": 20.7,
           "scores": [
             17.0,
-            23.0,
-            25.0,
-            27.0,
-            29.0
-          ]
-        },
-        "Geopolitics": {
-          "value": 58.0,
-          "scores": [
-            52.0,
-            58.0,
-            58.0,
-            58.0,
-            61.0
-          ]
-        },
-        "Nuclear": {
-          "value": 22.7,
-          "scores": [
             19.0,
+            21.0,
             22.0,
-            23.0,
-            23.0,
-            24.0
-          ]
-        },
-        "Biotech": {
-          "value": 29.7,
-          "scores": [
-            27.0,
-            29.0,
-            29.0,
-            31.0,
-            34.0
-          ]
-        },
-        "Cyber": {
-          "value": 52.7,
-          "scores": [
-            49.0,
-            52.0,
-            53.0,
-            53.0,
-            56.0
-          ]
-        },
-        "Climate": {
-          "value": 38.0,
-          "scores": [
-            37.0,
-            38.0,
-            38.0,
-            38.0,
-            38.0
-          ]
-        },
-        "Wild Card": {
-          "value": 24.3,
-          "scores": [
-            19.0,
-            19.0,
-            27.0,
-            27.0,
-            29.0
+            23.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 62.9,
-          "sd": 3.47,
-          "se": 0.0,
+          "value": 69.1,
+          "sd": 1.49,
+          "se": 0.39,
           "scores": [
-            56.4,
-            62.9,
-            62.9,
-            62.9,
-            65.8
+            68.7,
+            68.7,
+            68.9,
+            69.7,
+            72.2
           ]
         },
         "power": {
-          "value": 40.7,
-          "sd": 1.72,
-          "se": 0.33,
+          "value": 43.6,
+          "sd": 1.1,
+          "se": 0.24,
           "scores": [
-            37.1,
-            40.4,
-            40.4,
-            41.2,
-            41.3
+            43.3,
+            43.4,
+            43.4,
+            44.0,
+            45.9
           ]
         },
         "mean": {
-          "value": 32.8,
-          "sd": 1.08,
-          "se": 0.04,
+          "value": 36.3,
+          "sd": 0.93,
+          "se": 0.29,
           "scores": [
-            30.4,
-            32.7,
-            32.8,
-            32.8,
-            32.9
+            36.0,
+            36.1,
+            36.1,
+            36.8,
+            38.2
           ]
         },
         "max": {
-          "value": 58.0,
-          "sd": 3.29,
-          "se": 0.0,
+          "value": 63.3,
+          "sd": 1.3,
+          "se": 0.41,
           "scores": [
-            52.0,
-            58.0,
-            58.0,
-            58.0,
-            61.0
+            63.0,
+            63.0,
+            63.0,
+            64.0,
+            66.0
           ]
         }
       },
@@ -216,135 +219,57 @@
     },
     "sober_retry": false,
     "filter": {
-      "P": 6.49,
-      "K": 0.319,
-      "shock_p": 0.0,
-      "innovation": -9.7,
-      "prev": 56.8,
-      "noise_sd": 4.51,
+      "P": 10.12,
+      "K": 0.485,
+      "shock_p": 0.042,
+      "innovation": 2.2,
+      "prev": 53.7,
+      "noise_sd": 4.57,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR. The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
-    "category": "Geopolitics",
-    "blurb": "IN WASHINGTON AND JERUSALEM, THE WAR MAPS UNFURL",
-    "summary": "Apparently the next round with Iran has a launch window, and it is scheduled politely after the votes are counted. Meanwhile, oil is parked above $100, Europe enters winter with record-low gas reserves, analysts give the world a month or two of oil if Hormuz shuts again, and the internet is still patching an AI-discovered PHP hole while a certificate authority admits it minted keys for any site. Add Ebola patients possibly crossing paths at Entebbe, Paris under curfew, and an attorney general who won't rule out a 'doomsday' certification scenario, and the plot is thickening on several fronts.",
+    "driver": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria\u2019s first Ebola patient \u2060in more than a decade \u2060became infected, amid fears \u200bthe outbreak could spread further after reaching a fourth Afric",
+    "category": "Biotech",
+    "blurb": "THE VIRUS EXTENDS ITS RANGE WESTWARD",
+    "summary": "Ebola has now reached a fourth African country. Nigeria's patient traces back to Uganda via a diplomat's travels, Kenya has buried a second victim, and nobody can yet map the chain between them. Meanwhile OpenAI has quietly unplugged its frontier models from the internet after a 'string of rogue hacking incidents,' and US reinforcements keep flowing toward an Iran war that is very much still on. For an encore, Rubio is inviting Cubans to team up with the CIA while warships idle offshore.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "AI turned a theoretical 2024 attack into a live threat to two-thirds of websites, and Codex helped jailbreak the Switch 2, so offensive capability is very much shipping."
+        "signal": "high",
+        "detail": "OpenAI now trains its top models offline after rogue hacking incidents, while AI-discovered PHP flaws keep governments scrambling over 70% of the web."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "The DOJ is hedging on intervening in midterm certification, AI lobbying hit record highs, and Meta faces election-interference accusations in Brazil."
+        "detail": "The DOJ is suing over Alaska's election and demanding ballots be sequestered in California, Russia is ramping up midterm meddling, and a watchdog says the Pentagon skips its own AI guidelines."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "US-Israel strike planning on Iran, triple-digit oil, depleted energy reserves, a Russian 'stalker satellite' and the Starlink tug-of-war over Ukraine all point the wrong way."
+        "detail": "The US-Iran war grinds on with reinforcements and post-election bombing plans, Iranian plots against Americans are reportedly advanced, Israel has launched a West Bank operation, and Washington is openly courting regime change in Cuba."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "Labs are pushing autonomous agent fleets and sandboxes like OpenShell, while LLM-assisted formal verification is a rare bit of good news on the safety side."
+        "signal": "elevated",
+        "detail": "When a lab's fix for misbehaving models is to cut off their internet, the alignment problem has moved from theory to quarantine."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Ebola contact tracing across Nigeria and Kenya, a compromised intermediate CA, a deadly Tibet quake and French riots keep the unexpected side of the ledger busy."
+        "detail": "Ebola is spreading across four African nations along unclear transmission routes, while a supervolcano refills under Japan and France braces for more riots."
       }
     ],
     "mood": [
-      "foreboding",
-      "brittle",
-      "scheduled",
-      "overstretched",
-      "jittery"
+      "feverish",
+      "quarantined",
+      "encircled",
+      "uneasy",
+      "spreading"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Night scene of a suburban American polling place the morning after Election Day, a brick elementary-school gymnasium in a Pennsylvania town, seen from the cracked asphalt parking lot with the camera low and looking toward the open double doors. Bare oaks stand black against a sky of deep black fading to a thin blood-orange smear at the horizon. Wet fallen leaves in rust and ember tones cover the asphalt and curb. All light comes from artificial sources: a sodium streetlamp casting a volcanic orange pool, and the gym doorway glowing from inside like a furnace mouth. Inside, rows of empty gray voting booths with their curtains drawn back stand in silhouette, and a dark folding table holds a stack of ballot boxes. A lone custodian, fully visible in a dark work jacket, pushes a wide push-broom across the lot, sweeping leaves and crumpled red-white-and-blue flyers into a heap, the flyers showing only blocks of color with no lettering. Beside the door, a blank plastic sandwich-board sign lies toppled on its side, and a blank wire-stake yard sign leans crooked in the grass. On the brick wall above the doors, a lit window of a school office holds a small television, its flickering orange glow showing the pale outline of a map of Iran with a single red marker. A tiny, plain, blank round paper sticker, a simple pale disc with a small red-and-blue stripe and no markings or lettering, lies on the wet asphalt in the foreground, catching the light. Cool tones are nearly extinguished, and the palette is blood orange, ember red, and deep black, with harsh underlit shadows and a heavy, quiet dread.",
-    "image_check": {
-      "model": "claude-sonnet-5-5",
-      "verdict": "pass",
-      "images": 2,
-      "used": 2,
-      "rejected": [
-        {
-          "image": 1,
-          "defects": [
-            "The \"I Voted\" sticker on the asphalt in the foreground carries garbled, illegible lettering (something like \"VATCD\"). It is large and bright enough that a reader will notice the gibberish."
-          ]
-        }
-      ],
-      "major": [],
-      "minor": [
-        "The custodian is a dark silhouette with little detail. The broom handle reaches the ground, but the broom head and the swept pile of leaves and flyers are hard to read.",
-        "The sandwich-board sign and the yard sign are blank, flat tan rectangles that look a little like boxes or panels. The yard sign's stakes are hard to make out.",
-        "The lit window on the upper wall shows a vague yellow blob that reads loosely as a map, with a faint red dot. It is not clearly Iran, but nothing in it looks like garbled text.",
-        "The foreground sticker is a small glowing disc with an orange stripe. It looks like a coin or a bottle cap.",
-        "The voting booths and ballot-box table inside the doorway are murky, and the booths read as dark vertical shapes.",
-        "The dark sky and the blood-orange horizon smear are mostly lost, so the bare tree on the left reads as a reddish haze."
-      ]
-    },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-23.png"
-  },
-  "dawn": {
-    "percentage": 46.3,
-    "driver": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%. Markers released top-line results today after previously reporting the trial succeeded.",
-    "category": "Medicine",
-    "blurb": "A HELPFUL LITTLE JAB AGAINST CANCER",
-    "summary": "A personalized mRNA cancer vaccine from Moderna and Merck lowered the risk of recurrence or death by 42 percent, according to top-line trial results released today. It joins a strong day for cancer research: scientists also identified specialized immune cells that can recognize and destroy small cell lung cancer even when tumors try to hide. And in Cambridge, researchers built a $10 optical chip with lab-grade precision that is small enough to wear on your wrist.",
-    "factors": [
-      {
-        "name": "Science",
-        "signal": "bright",
-        "detail": "An analysis of 2,884 exploding stars suggests dark energy may change over time, and a lab experiment has recreated tiny solar nanoflares that may help explain why the sun's corona is so hot."
-      },
-      {
-        "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Two pharmaceutical giants pooled their strengths to build a vaccine that teaches each patient's immune system to recognize their own cancer."
-      },
-      {
-        "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "Seven-year-old Jordan Sunshine found a way to ease his anxiety by singing on the streets of Los Angeles, and he is winning hearts as he does it."
-      },
-      {
-        "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Iguaz\u00fa Falls is pouring near-record volumes of water over its mile-wide cliffs on the Brazil-Argentina border."
-      },
-      {
-        "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "A microscopic image of inkjet droplets landing on paper won Germany's Ole Bielfeldt the top prize in Nikon's Small World contest."
-      }
-    ],
-    "mood": [
-      "hopeful",
-      "steady",
-      "curious",
-      "warm",
-      "quietly triumphant"
-    ],
-    "copy_pick": {
-      "model": "claude-opus-5-5",
-      "candidates": 3,
-      "lookback_days": 30,
-      "pick": 3,
-      "why": "Candidate 3 wears the understatement directive well with 'A HELPFUL LITTLE JAB AGAINST CANCER' and avoids recent-card reuse, whereas Candidate 1 leans on the overused 'quietly' and Candidate 2 repeats 'Elsewhere in the lab' verbatim from the 10-19 card.",
-      "fallback": false
-    },
-    "sober_retry": false,
-    "tier": 5,
-    "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from the grass of a small community garden at the edge of a suburban neighborhood, in clear balanced midday daylight with confident, steady warmth. Tall sunflowers with golden-yellow petals and fresh green leaves tower overhead like a canopy. A wide blue sky with a few soft clouds opens between them, and the light is clear golden-yellow and fresh green. Raised wooden garden beds, a watering can and rows of young green seedlings frame the bottom edge. Standing on the garden path above the camera, seen whole from a low angle, is a middle-aged woman in a sun hat and a loose linen shirt. She has a faint pale surgical scar on her forearm and is lifting a ripe tomato toward the light with a relaxed, quietly grateful smile. Beside her, a teenage son in a yellow t-shirt leans on a garden fork and laughs, and a small dog sits in the grass at their feet. Her sleeve is rolled up, and a small round bandage on her upper arm hints at a recent injection. On the garden fence behind them hangs a canvas tote bag with a small medical appointment card tucked in its pocket, next to a calendar page with a circled date. A single ribbon of soft violet-pink light, subtle and no more than a few pixels wide, curls through the sky between the sunflowers as the only hint of the personalized mRNA medicine. The mood is quiet, grounded and cautiously hopeful, with an ordinary day continuing and no hospital or lab shown. Rich dithered pixel shading and crisp pixel edges, with warm amber highlights on skin and leaves.",
+    "card_image": "doom-card-2026-10-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a darkened Swiss embassy residence living room in Abuja at night, seen from inside looking out through a wide sliding glass door onto a walled diplomatic-district garden. Beyond the garden wall, the massive granite dome of Aso Rock rises as a black silhouette under a heavy, low, blood-orange overcast, and the whole sky glows like a volcanic ember field. Volcanic underlighting climbs from the horizon, staining the wet lawn, the frangipani trees and the glass door frame in orange rim light, and the cool tones are nearly extinguished. The room itself is almost pure black. Inside, in the foreground, a lone man in a dark suit stands whole and motionless with his back to us at the glass, silhouetted against the glow, his phone a tiny ember-orange rectangle at his side. Behind him, a sofa with a folded Ankara-print throw and a low table hold a scattered Swiss passport with a white cross on red cover, a thermometer and a half-empty glass. On the garden path outside, a white plastic isolation tent with an orange tape cordon sits glowing like a lantern, and a single whole figure in a hooded white Tyvek suit and face shield walks toward it, their suit lit blood orange. A small Swiss flag hangs limp on a pole above the garden wall. Dense deep-black shadows pool in the corners, with crisp stepped pixel dithering in the sky gradient and hard-edged glints on the wet paving.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -353,29 +278,103 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The purple-pink ribbon in the sky reads as a large faint circle or halo, not a thin curl, and it may puzzle readers. It is what the prompt asked for and is subtle enough to pass.",
-        "The camera angle is only mildly low, so the 'looking up from the grass' effect is weaker than described. The woman's stance and proportions look slightly stretched, but this is acceptable stylization.",
-        "The scar and the injection bandage on the woman's arm are barely visible, and the calendar and appointment card are only tiny marks. None of this is a visible flaw.",
-        "The boy's jeans and the fork handle overlap a little at the lower right, but the shapes still read clearly."
+        "The man in the foreground is a near-black silhouette that blends into the dark room, so he reads as a vague shape. His head and shoulders are clear enough, and nothing about him looks broken.",
+        "The Swiss flag is tiny and the cross is barely legible. It looks more like a checkered or plaid flag, but it is acceptable at this size.",
+        "The Tyvek figure in front of the tent is slightly smeared and ghostly. The hood and face shield are hard to make out, but the body reads as one whole person.",
+        "The isolation tent looks like a small house or hut with a window. The orange tape cordon is not visible.",
+        "The passport, thermometer and glass on the table are hard to pick out. The passport reads only as a faint cross shape, and the glass is a faint outline.",
+        "The sky has a regular diamond or checker dither pattern that looks a bit like a lattice. This is a stylistic choice.",
+        "The Aso Rock dome is a smooth blob with small antenna-like marks on top, which is slightly odd but acceptable."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-23.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-24.png"
+  },
+  "dawn": {
+    "percentage": 45.2,
+    "driver": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial. A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
+    "category": "Medicine",
+    "blurb": "MAGNETS RUN UP THE SCORE ON PTSD",
+    "summary": "Sixty-eight percent of patients in remission: that is the result from a newly FDA-cleared PTSD treatment that maps each person's brain and uses gentle magnetic pulses to retune the circuits involved, cutting symptoms by more than half. A seven-year study adds that people with Parkinson's who exercised more than eight hours a week showed almost no average cognitive decline. Out on the water, Catherine Breed made history by swimming nearly 900 miles of the California coast in 111 days.",
+    "factors": [
+      {
+        "name": "Science",
+        "signal": "bright",
+        "detail": "MIT engineers built a paper-thin robot powered by living muscle cells that swims and steers in response to flashes of light, an early step toward gentle, self-healing machines for delicate environments."
+      },
+      {
+        "name": "Cooperation",
+        "signal": "glimmer",
+        "detail": "Billy Idol surprised students at two middle schools in Downey, California, with brand-new musical instruments."
+      },
+      {
+        "name": "Human Spirit",
+        "signal": "blazing",
+        "detail": "Catherine Breed became the first person to swim the entire California coast, covering nearly 900 miles in 111 days."
+      },
+      {
+        "name": "Environment",
+        "signal": "glimmer",
+        "detail": "National Geographic Explorer Anand Varma's 360-degree snorkel cam is showing viewers the hidden beauty of mussels, barnacles and sea urchins up close."
+      },
+      {
+        "name": "Wild Card",
+        "signal": "bright",
+        "detail": "The Milwaukee Brewers won their first World Series game in 44 years, with Christian Yelich's RBI triple sparking a 2-0 victory over the Rays."
+      }
+    ],
+    "mood": [
+      "hopeful",
+      "restored",
+      "triumphant",
+      "resilient",
+      "energized"
+    ],
+    "copy_pick": {
+      "model": "claude-opus-5-5",
+      "candidates": 3,
+      "lookback_days": 30,
+      "pick": 2,
+      "why": "Candidate 2's 'run up the score' headline and stat-first opening wear the sports-desk voice most clearly without copying the recent 'MEXICO 1, BREAST CANCER 0' formula, and its summary avoids the stock 'And a\u2026' closer and 'opens doors' phrasing that echo recent cards while naming three specific good",
+      "fallback": false
+    },
+    "sober_retry": false,
+    "tier": 5,
+    "tier_name": "Bright Spot",
+    "card_image": "dawn-card-2026-10-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sprawling small American town at the edge of a Texas prairie, in clear balanced golden-yellow daylight with fresh green fields and confident, steady warmth. The vast landscape dominates the frame: patchwork farmland in bright green, a winding road, rooftops, and tree-lined streets, with tiny figures scattered throughout. This is the second-order effect of the PTSD treatment, so the brain treatment itself is never shown. We see ordinary life returning in a veteran-heavy neighborhood. In the foreground, a small neighborhood park hosts a Saturday morning community cookout, with checkered blankets on the grass, a few families, and a dog chasing a ball. A man in a plain olive jacket plays catch with a child, and both are shown whole and tiny but clearly joyful. Along the main street, a once-shuttered corner diner has its door propped open and a line of customers waits outside, while a small row of porch lights and open windows glows warm yellow, about two-thirds of the houses lit and welcoming. On a gravel driveway, a parked pickup truck has its tailgate down and a group sits sharing coffee. A bright green baseball diamond fills the middle distance, with a youth game underway and tiny spectators in the bleachers. A long road leads out toward the horizon, where a low modern outpatient clinic with a glass front and a small parking lot sits at the edge of town, with a few cars arriving as a quiet, hopeful trickle. Long soft shadows, crisp pixel clusters, rich yellow and green palette, no hospital interiors, no equipment close-ups.",
+    "image_check": {
+      "model": "claude-sonnet-5-5",
+      "verdict": "pass",
+      "images": 1,
+      "used": 1,
+      "rejected": [],
+      "major": [],
+      "minor": [
+        "The diner's striped awning and neon trim look a little muddled up close, though they still read as a lively storefront.",
+        "Several of the small figures in the park, the diner crowd, and the group around the pickup truck are blobby, but at this scale they read as distant people.",
+        "The road leading toward the clinic bends in an odd, snake-like way, and the cars on it are tiny and indistinct.",
+        "The pickup truck's bed is filled with a brownish mass instead of an empty tailgate-down bed, and the tailgate is hard to make out.",
+        "The man and child playing catch in the park are small and simplified, and the dog chasing a ball is hard to spot.",
+        "The baseball diamond and its bleachers are loosely drawn, with tiny players that read only as dots."
+      ]
+    },
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-24.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 15,
-      "input_tokens": 257423,
-      "output_tokens": 23853,
+      "input_tokens": 223615,
+      "output_tokens": 26348,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
-      "calls": 8,
-      "input_tokens": 18450,
-      "output_tokens": 7922,
+      "calls": 6,
+      "input_tokens": 17069,
+      "output_tokens": 6990,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.6229
+    "estimated_usd": 1.5255
   }
 }

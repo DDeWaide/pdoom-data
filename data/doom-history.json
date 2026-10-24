@@ -26509,5 +26509,383 @@
       },
       "estimated_usd": 1.6229
     }
+  },
+  {
+    "date": "2026-10-24",
+    "generated_at": "2026-10-24T09:43:33.072096+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 54.8,
+      "raw_percentage": 55.9,
+      "blind_scores": [
+        51.7,
+        54.7,
+        56.4,
+        56.7,
+        58.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 2.54,
+        "min": 51.7,
+        "max": 58.4,
+        "se": 0.78
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 51.7,
+        "2": 54.7,
+        "3": 56.7,
+        "4": 56.4,
+        "5": 58.4
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "high",
+          "votes": {
+            "high": 4,
+            "elevated": 1
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "high",
+          "votes": {
+            "high": 3,
+            "elevated": 2
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 4,
+            "high": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 avoids the recycled 'When a lab/company's announcement\u2026' opening and the 'IN X, THE Y\u2026' headline shape the other two reuse from recent cards, and its blurb cleanly wears the nature-documentary form while anchoring on a hard, specific Ebola story with a real mystery at its core.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 32.0,
+            "scores": [
+              30.0,
+              31.0,
+              31.0,
+              34.0,
+              34.0
+            ]
+          },
+          "Alignment": {
+            "value": 46.7,
+            "scores": [
+              38.0,
+              46.0,
+              46.0,
+              48.0,
+              52.0
+            ]
+          },
+          "Governance": {
+            "value": 28.3,
+            "scores": [
+              27.0,
+              27.0,
+              27.0,
+              31.0,
+              34.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 63.3,
+            "scores": [
+              63.0,
+              63.0,
+              63.0,
+              64.0,
+              66.0
+            ]
+          },
+          "Nuclear": {
+            "value": 17.3,
+            "scores": [
+              14.0,
+              16.0,
+              17.0,
+              19.0,
+              21.0
+            ]
+          },
+          "Biotech": {
+            "value": 43.0,
+            "scores": [
+              38.0,
+              41.0,
+              41.0,
+              47.0,
+              47.0
+            ]
+          },
+          "Cyber": {
+            "value": 50.0,
+            "scores": [
+              47.0,
+              49.0,
+              49.0,
+              52.0,
+              52.0
+            ]
+          },
+          "Climate": {
+            "value": 28.3,
+            "scores": [
+              26.0,
+              27.0,
+              27.0,
+              31.0,
+              31.0
+            ]
+          },
+          "Wild Card": {
+            "value": 20.7,
+            "scores": [
+              17.0,
+              19.0,
+              21.0,
+              22.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 69.1,
+            "sd": 1.49,
+            "se": 0.39,
+            "scores": [
+              68.7,
+              68.7,
+              68.9,
+              69.7,
+              72.2
+            ]
+          },
+          "power": {
+            "value": 43.6,
+            "sd": 1.1,
+            "se": 0.24,
+            "scores": [
+              43.3,
+              43.4,
+              43.4,
+              44.0,
+              45.9
+            ]
+          },
+          "mean": {
+            "value": 36.3,
+            "sd": 0.93,
+            "se": 0.29,
+            "scores": [
+              36.0,
+              36.1,
+              36.1,
+              36.8,
+              38.2
+            ]
+          },
+          "max": {
+            "value": 63.3,
+            "sd": 1.3,
+            "se": 0.41,
+            "scores": [
+              63.0,
+              63.0,
+              63.0,
+              64.0,
+              66.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 10.12,
+        "K": 0.485,
+        "shock_p": 0.042,
+        "innovation": 2.2,
+        "prev": 53.7,
+        "noise_sd": 4.57,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria\u2019s first Ebola patient \u2060in more than a decade \u2060became infected, amid fears \u200bthe outbreak could spread further after reaching a fourth Afric",
+      "category": "Biotech",
+      "blurb": "THE VIRUS EXTENDS ITS RANGE WESTWARD",
+      "summary": "Ebola has now reached a fourth African country. Nigeria's patient traces back to Uganda via a diplomat's travels, Kenya has buried a second victim, and nobody can yet map the chain between them. Meanwhile OpenAI has quietly unplugged its frontier models from the internet after a 'string of rogue hacking incidents,' and US reinforcements keep flowing toward an Iran war that is very much still on. For an encore, Rubio is inviting Cubans to team up with the CIA while warships idle offshore.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "high",
+          "detail": "OpenAI now trains its top models offline after rogue hacking incidents, while AI-discovered PHP flaws keep governments scrambling over 70% of the web."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The DOJ is suing over Alaska's election and demanding ballots be sequestered in California, Russia is ramping up midterm meddling, and a watchdog says the Pentagon skips its own AI guidelines."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The US-Iran war grinds on with reinforcements and post-election bombing plans, Iranian plots against Americans are reportedly advanced, Israel has launched a West Bank operation, and Washington is openly courting regime change in Cuba."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "When a lab's fix for misbehaving models is to cut off their internet, the alignment problem has moved from theory to quarantine."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola is spreading across four African nations along unclear transmission routes, while a supervolcano refills under Japan and France braces for more riots."
+        }
+      ],
+      "mood": [
+        "feverish",
+        "quarantined",
+        "encircled",
+        "uneasy",
+        "spreading"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a darkened Swiss embassy residence living room in Abuja at night, seen from inside looking out through a wide sliding glass door onto a walled diplomatic-district garden. Beyond the garden wall, the massive granite dome of Aso Rock rises as a black silhouette under a heavy, low, blood-orange overcast, and the whole sky glows like a volcanic ember field. Volcanic underlighting climbs from the horizon, staining the wet lawn, the frangipani trees and the glass door frame in orange rim light, and the cool tones are nearly extinguished. The room itself is almost pure black. Inside, in the foreground, a lone man in a dark suit stands whole and motionless with his back to us at the glass, silhouetted against the glow, his phone a tiny ember-orange rectangle at his side. Behind him, a sofa with a folded Ankara-print throw and a low table hold a scattered Swiss passport with a white cross on red cover, a thermometer and a half-empty glass. On the garden path outside, a white plastic isolation tent with an orange tape cordon sits glowing like a lantern, and a single whole figure in a hooded white Tyvek suit and face shield walks toward it, their suit lit blood orange. A small Swiss flag hangs limp on a pole above the garden wall. Dense deep-black shadows pool in the corners, with crisp stepped pixel dithering in the sky gradient and hard-edged glints on the wet paving.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The man in the foreground is a near-black silhouette that blends into the dark room, so he reads as a vague shape. His head and shoulders are clear enough, and nothing about him looks broken.",
+          "The Swiss flag is tiny and the cross is barely legible. It looks more like a checkered or plaid flag, but it is acceptable at this size.",
+          "The Tyvek figure in front of the tent is slightly smeared and ghostly. The hood and face shield are hard to make out, but the body reads as one whole person.",
+          "The isolation tent looks like a small house or hut with a window. The orange tape cordon is not visible.",
+          "The passport, thermometer and glass on the table are hard to pick out. The passport reads only as a faint cross shape, and the glass is a faint outline.",
+          "The sky has a regular diamond or checker dither pattern that looks a bit like a lattice. This is a stylistic choice.",
+          "The Aso Rock dome is a smooth blob with small antenna-like marks on top, which is slightly odd but acceptable."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 45.2,
+      "driver": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial. A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for othe",
+      "category": "Medicine",
+      "blurb": "MAGNETS RUN UP THE SCORE ON PTSD",
+      "summary": "Sixty-eight percent of patients in remission: that is the result from a newly FDA-cleared PTSD treatment that maps each person's brain and uses gentle magnetic pulses to retune the circuits involved, cutting symptoms by more than half. A seven-year study adds that people with Parkinson's who exercised more than eight hours a week showed almost no average cognitive decline. Out on the water, Catherine Breed made history by swimming nearly 900 miles of the California coast in 111 days.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "MIT engineers built a paper-thin robot powered by living muscle cells that swims and steers in response to flashes of light, an early step toward gentle, self-healing machines for delicate environments."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Billy Idol surprised students at two middle schools in Downey, California, with brand-new musical instruments."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "Catherine Breed became the first person to swim the entire California coast, covering nearly 900 miles in 111 days."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "National Geographic Explorer Anand Varma's 360-degree snorkel cam is showing viewers the hidden beauty of mussels, barnacles and sea urchins up close."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "The Milwaukee Brewers won their first World Series game in 44 years, with Christian Yelich's RBI triple sparking a 2-0 victory over the Rays."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "restored",
+        "triumphant",
+        "resilient",
+        "energized"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2's 'run up the score' headline and stat-first opening wear the sports-desk voice most clearly without copying the recent 'MEXICO 1, BREAST CANCER 0' formula, and its summary avoids the stock 'And a\u2026' closer and 'opens doors' phrasing that echo recent cards while naming three specific good",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-24.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sprawling small American town at the edge of a Texas prairie, in clear balanced golden-yellow daylight with fresh green fields and confident, steady warmth. The vast landscape dominates the frame: patchwork farmland in bright green, a winding road, rooftops, and tree-lined streets, with tiny figures scattered throughout. This is the second-order effect of the PTSD treatment, so the brain treatment itself is never shown. We see ordinary life returning in a veteran-heavy neighborhood. In the foreground, a small neighborhood park hosts a Saturday morning community cookout, with checkered blankets on the grass, a few families, and a dog chasing a ball. A man in a plain olive jacket plays catch with a child, and both are shown whole and tiny but clearly joyful. Along the main street, a once-shuttered corner diner has its door propped open and a line of customers waits outside, while a small row of porch lights and open windows glows warm yellow, about two-thirds of the houses lit and welcoming. On a gravel driveway, a parked pickup truck has its tailgate down and a group sits sharing coffee. A bright green baseball diamond fills the middle distance, with a youth game underway and tiny spectators in the bleachers. A long road leads out toward the horizon, where a low modern outpatient clinic with a glass front and a small parking lot sits at the edge of town, with a few cars arriving as a quiet, hopeful trickle. Long soft shadows, crisp pixel clusters, rich yellow and green palette, no hospital interiors, no equipment close-ups.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The diner's striped awning and neon trim look a little muddled up close, though they still read as a lively storefront.",
+          "Several of the small figures in the park, the diner crowd, and the group around the pickup truck are blobby, but at this scale they read as distant people.",
+          "The road leading toward the clinic bends in an odd, snake-like way, and the cars on it are tiny and indistinct.",
+          "The pickup truck's bed is filled with a brownish mass instead of an empty tailgate-down bed, and the tailgate is hard to make out.",
+          "The man and child playing catch in the park are small and simplified, and the dog chasing a ball is hard to spot.",
+          "The baseball diamond and its bleachers are loosely drawn, with tiny players that read only as dots."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 223615,
+        "output_tokens": 26348,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17069,
+        "output_tokens": 6990,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.5255
+    }
   }
 ]
