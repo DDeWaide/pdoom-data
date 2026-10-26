@@ -1,45 +1,43 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T09:43:56.683918+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T09:43:59.191407+00:00",
   "prompt_version": "v3",
   "doom": {
-    "percentage": 55.6,
+    "percentage": 55.9,
     "raw_percentage": 56.3,
     "blind_scores": [
-      54.6,
-      56.3,
-      56.3,
-      56.3,
-      56.4
+      47.6,
+      55.8,
+      56.4,
+      56.7,
+      57.3
     ],
     "spread": {
       "n": 5,
-      "sd": 0.77,
-      "min": 54.6,
-      "max": 56.4,
-      "se": 0.0
+      "sd": 4.04,
+      "min": 47.6,
+      "max": 57.3,
+      "se": 0.34
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 54.6,
-      "2": 56.3,
-      "3": 56.3,
-      "4": 56.4,
-      "5": 56.3
+      "1": 56.4,
+      "2": 57.3,
+      "3": 55.8,
+      "4": 56.7,
+      "5": 47.6
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "elevated",
+        "signal": "medium",
         "votes": {
-          "medium": 2,
-          "elevated": 3
+          "medium": 5
         }
       },
       "Governance": {
-        "signal": "medium",
+        "signal": "elevated",
         "votes": {
-          "medium": 4,
-          "elevated": 1
+          "elevated": 5
         }
       },
       "Geopolitics": {
@@ -51,7 +49,8 @@
       "Alignment": {
         "signal": "medium",
         "votes": {
-          "medium": 5
+          "medium": 4,
+          "low": 1
         }
       },
       "Wild Card": {
@@ -65,8 +64,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "Its blurb best wears the field-notes directive with a concrete, clipped image and an accurate countdown ('sandbags at the gate, nine days out'), and its summary avoids the recent cards' overused 'Meanwhile' and 'Add\u2026' shapes as well as Candidate 2's generic pressure-cooker closer, ending instead on ",
+      "pick": 3,
+      "why": "It wears the dry understatement best: the departures-board headline quietly puns on airport and oil terminals without repeating the recent 'Riyadh arrivals' card, and the summary has the sharpest deadpan lines (the Dakar Rally leaving for 'fewer interceptors overhead', and the DOJ suing over an Alas",
       "fallback": false
     },
     "shadow": {
@@ -74,143 +73,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 21.7,
+          "value": 24.7,
           "scores": [
-            21.0,
-            21.0,
-            22.0,
-            22.0,
-            23.0
+            24.0,
+            24.0,
+            24.0,
+            26.0,
+            26.0
           ]
         },
         "Alignment": {
+          "value": 11.3,
+          "scores": [
+            10.0,
+            10.0,
+            11.0,
+            13.0,
+            13.0
+          ]
+        },
+        "Governance": {
+          "value": 25.3,
+          "scores": [
+            17.0,
+            22.0,
+            23.0,
+            31.0,
+            33.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 63.0,
+          "scores": [
+            62.0,
+            63.0,
+            63.0,
+            63.0,
+            63.0
+          ]
+        },
+        "Nuclear": {
+          "value": 15.0,
+          "scores": [
+            14.0,
+            14.0,
+            14.0,
+            17.0,
+            21.0
+          ]
+        },
+        "Biotech": {
+          "value": 28.3,
+          "scores": [
+            27.0,
+            27.0,
+            29.0,
+            29.0,
+            33.0
+          ]
+        },
+        "Cyber": {
           "value": 9.0,
           "scores": [
-            9.0,
+            8.0,
             9.0,
             9.0,
             9.0,
             9.0
           ]
         },
-        "Governance": {
-          "value": 14.0,
-          "scores": [
-            13.0,
-            14.0,
-            14.0,
-            14.0,
-            15.0
-          ]
-        },
-        "Geopolitics": {
-          "value": 60.3,
-          "scores": [
-            58.0,
-            58.0,
-            61.0,
-            62.0,
-            62.0
-          ]
-        },
-        "Nuclear": {
-          "value": 14.7,
-          "scores": [
-            13.0,
-            14.0,
-            14.0,
-            16.0,
-            17.0
-          ]
-        },
-        "Biotech": {
-          "value": 7.3,
-          "scores": [
-            7.0,
-            7.0,
-            7.0,
-            8.0,
-            8.0
-          ]
-        },
-        "Cyber": {
-          "value": 31.7,
-          "scores": [
-            31.0,
-            31.0,
-            31.0,
-            33.0,
-            38.0
-          ]
-        },
         "Climate": {
-          "value": 13.7,
+          "value": 13.3,
           "scores": [
-            11.0,
             13.0,
             13.0,
-            15.0,
+            13.0,
+            14.0,
             16.0
           ]
         },
         "Wild Card": {
-          "value": 26.0,
+          "value": 23.0,
           "scores": [
-            23.0,
-            24.0,
+            19.0,
+            21.0,
+            21.0,
             27.0,
-            27.0,
-            27.0
+            31.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 62.4,
-          "sd": 2.13,
-          "se": 1.51,
+          "value": 65.2,
+          "sd": 0.43,
+          "se": 0.11,
           "scores": [
-            59.7,
-            60.0,
-            63.2,
-            63.9,
-            64.0
+            64.4,
+            65.1,
+            65.2,
+            65.4,
+            65.5
           ]
         },
         "power": {
-          "value": 36.1,
-          "sd": 1.16,
-          "se": 0.83,
+          "value": 37.5,
+          "sd": 0.25,
+          "se": 0.0,
           "scores": [
-            34.7,
-            34.8,
-            36.7,
-            36.9,
-            37.0
+            37.1,
+            37.5,
+            37.5,
+            37.5,
+            37.8
           ]
         },
         "mean": {
-          "value": 22.1,
-          "sd": 0.83,
-          "se": 0.15,
+          "value": 23.9,
+          "sd": 0.63,
+          "se": 0.35,
           "scores": [
-            21.0,
-            21.9,
-            22.1,
-            22.3,
-            23.3
+            23.2,
+            23.4,
+            24.1,
+            24.3,
+            24.7
           ]
         },
         "max": {
-          "value": 60.3,
-          "sd": 2.05,
-          "se": 1.53,
+          "value": 63.0,
+          "sd": 0.45,
+          "se": 0.0,
           "scores": [
-            58.0,
-            58.0,
-            61.0,
             62.0,
-            62.0
+            63.0,
+            63.0,
+            63.0,
+            63.0
           ]
         }
       },
@@ -218,57 +217,57 @@
     },
     "sober_retry": false,
     "filter": {
-      "P": 10.17,
-      "K": 0.502,
-      "shock_p": 0.032,
-      "innovation": 1.5,
-      "prev": 54.8,
-      "noise_sd": 4.5,
+      "P": 9.55,
+      "K": 0.469,
+      "shock_p": 0.024,
+      "innovation": 0.7,
+      "prev": 55.6,
+      "noise_sd": 4.51,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections. A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+    "driver": "Iran live updates: Houthis claim new missile attack on Riyadh airport. President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
     "category": "Geopolitics",
-    "blurb": "SANDBAGS AT THE EMBASSY GATE, NINE DAYS OUT",
-    "summary": "\"Advanced stages\" is not a phrase you want next to \"attacks against Americans,\" yet there it sits in a DNI memo while the U.S. blockade squeezes Iran's floating oil stockpile down to zero. Egypt is weighing whether to wade into Yemen to shield Saudi Arabia, Israel is sealing the West Bank for election day, and France has racked up nearly 1,000 arrests. At least Starlink is back on in Ukraine, with a side of Musk grievance.",
+    "blurb": "DELAYS EXPECTED AT THE SAUDI TERMINALS",
+    "summary": "Eight months into America's war with Iran, the Houthis are aiming missiles at Riyadh's airport. The Dakar Rally has quietly packed up and left for somewhere with fewer interceptors overhead. Oil dropped 2% because traders now worry more about demand than about burning refineries, and Israel is running its biggest drill in years while analysts mutter about 1973. Brazil and Serbia handed democracy a rare good night, though Fl\u00e1vio Bolsonaro won't concede and the U.S. Justice Department is already suing over an Alaska Senate result that hasn't happened yet.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Wired's account of AI-assisted hunting and exploitation of years-old PHP bugs shows offensive capability spreading faster than patch cycles."
+        "detail": "SpaceX borrowed $40 billion for GPUs and Cerebras is serving trillion-parameter models, so the compute race keeps compounding."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Brazil's knife-edge runoff, pivotal Israeli and Serbian votes, and U.S. midterms under foreign-threat warnings all land in the same nervous week, while Pennsylvania's AI ad-label law is a small step on a big problem."
+        "detail": "The DOJ wants to block Alaska's Senate results if the Republican loses, Bolsonaro refuses to concede, and Meta reportedly ignores a Brazilian court order."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "An active U.S.-Iran war with a tightening naval blockade, Iranian plots against Americans, possible Egyptian entry into the Houthi fight, and a Hebron lockdown add up to a multi-front Middle East."
+        "detail": "The U.S.-Iran war grinds on, with Houthi strikes on Saudi airports and energy sites, Israel mobilizing divisions, and Ukraine still under fire."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "There is no fresh alignment incident today, but the week's backdrop of frontier models undermining their own oversight has not gone away."
+        "signal": "low",
+        "detail": "No new safety incident today, just AI agents cold-pitching editors and an AI radio host winning over listeners."
       },
       {
         "name": "Wild Card",
         "signal": "elevated",
-        "detail": "Mass cost-of-living protests from Paris to Tirana, with soldiers guarding central Milan, suggest Europe's social fabric is fraying under wartime fuel prices."
+        "detail": "Uganda imposed a 21-day quarantine on arrivals from DR Congo, U.S. measles cases have doubled, and protests across France keep turning violent."
       }
     ],
     "mood": [
+      "smoldering",
       "braced",
-      "simmering",
-      "sandbagged",
-      "restless",
-      "watchful"
+      "defiant",
+      "jittery",
+      "bittersweet"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A weather-dominated dusk panorama of the U.S. Embassy compound in Riyadh's Diplomatic Quarter, the whole scene seen through a thick, low blanket of blood-orange dust haze that swallows the flat Najd desert horizon and turns the sky into a smoldering ceiling of ember and soot. The haze is the main subject: heavy bands of suspended sand drift across the frame in layers, and the sun is a dim, blurred coal sinking behind them. Volcanic underlighting rises from the ground, with deep black shadows and every cool tone extinguished. In the midground, the embassy's tall blast walls of pale concrete stand in stepped, fortress-like sections, glowing rust-orange where the floodlights catch the dust. Rows of Jersey barriers and hydraulic anti-ram bollards line the approach road, and coils of razor wire gleam along the wall top. Two guard towers with CCTV domes loom as black silhouettes, their searchlight beams cutting visible cones through the haze. At the drop-arm checkpoint, a convoy of three armored black Suburbans idles with amber headlights, while a few whole figures stand in the road: Marine guards in body armor and helmets, and a Saudi security officer beside an olive pickup. Near the gate, a small cluster of diplomatic staff with rolling suitcases waits to board a vehicle, each figure shown fully. A flag on a tall pole hangs limp and dark in the dead air above the compound. Far in the haze, a faint line of palms and low villas fades into orange murk. Palette: blood orange, burnt red, and deep black only, with hot amber highlights on the lights and no blue or green anywhere.",
+    "card_image": "doom-card-2026-10-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition at the departures hall of King Khalid International Airport in Riyadh, shortly after sunrise. The camera stands inside the terminal and looks out through a vast floor-to-ceiling glass curtain wall. Beyond the glass, a blood-orange sky burns above a flat gravel desert plateau, with a dust-choked horizon the color of molten rust. Heat shimmer rises off the apron. A single faint white contrail curves high in the sky, far off and ambiguous. On the far southern horizon, the hazy black silhouettes of Kingdom Centre with its arched opening and the tapered Al Faisaliyah tower stand against the glow. The airport's faceted diamond-roofed mosque is a jagged black shape at the edge of the apron, and the slender control tower rises against the sun. Parked Saudia jets, tails lit with a thin ember rim of light, sit dark and still on the apron, with no ground crews and no fuel trucks. Inside the hall, deep black volcanic underlighting rises from the floor and throws long shadows across polished travertine. In the foreground, two whole figures are silhouetted against the glass. One is a middle-aged man in a thobe and ghutra, standing rigid with a rolling suitcase beside him, his head tilted up toward the sky. Beside him, a small girl in an abaya clutches a stuffed toy and leans against his side. A dead departures board hangs above them, a blank black slab with no readable characters. Behind them, rows of empty seats and one abandoned luggage cart trail off into the dark. The palette is only blood orange, ember red, and deep black. Cool tones are almost entirely extinguished, and the figures are pure black cutouts with crisp stepped pixel edges.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -277,68 +276,67 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "Near the center of the road, a pale, tall figure stands between the Marines and the pickup, and it blends into the soldier beside it. It is small and dim enough to pass as a silhouette.",
-        "The razor wire along the wall top, around x=400\u2013560, y=535\u2013545, forms a zigzag that could be read as tiny lettering. It is too small to count as garbled text.",
-        "The flag looks fairly open and wind-blown, although the prompt asked for a limp flag. This is not a defect a reader would notice.",
-        "The diplomatic staff with suitcases on the right are dark silhouettes that overlap the pickup and each other. They read as a group, but with little detail.",
-        "The three Suburbans are dim and overlap, so the convoy shapes are somewhat muddy. They still read as vehicles."
+        "On the right, the parked jet seems to have two tail fins, one mid-fuselage and one at the far end. This is probably a second plane behind it overlapping, but it reads slightly oddly.",
+        "The girl blends into the man's silhouette, so the two figures read as one dark mass. Her outstretched hand is still clearly attached to her.",
+        "The luggage cart on the right is a hard-to-read dark shape and looks a bit like a chair. The floor reflections of the figures and suitcase are murky but acceptable.",
+        "The blank departures board is a plain black slab with no text, as intended."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-25.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-26.png"
   },
   "dawn": {
-    "percentage": 44.4,
-    "driver": "More dads taking paid family leave for a new baby, sometimes as much as moms are. The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
-    "category": "Community",
-    "blurb": "MORE FATHERS TAKE PAID LEAVE FOR NEWBORNS",
-    "summary": "In states that offer paid family leave, more fathers are staying home with their new babies, and some are taking as much time as mothers or more. On the far side of the solar system, a 1,000-mile cloud on Mars may be showing scientists ice-forming physics never seen in nature. And after a five-year journey, Bu and Tyapa have found a peaceful home in the Irish countryside.",
+    "percentage": 44.1,
+    "driver": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
+    "category": "Human Spirit",
+    "blurb": "SERBIA'S STUDENTS SWEEP THE POLLS",
+    "summary": "Two years after they first marched for clean government, Serbia's students have won at the ballot box, and Aleksandar Vu\u010di\u0107 has conceded that his party lost a vote billed as a referendum on the country's future. Streets filled with celebrating crowds as a youth-led movement turned persistence into a peaceful change of power. Elsewhere, a simple liquid painted onto children's teeth in seconds was confirmed to stop cavities without drills or needles, and astronomers may have spotted the first moon ever found beyond our Solar System.",
     "factors": [
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "A new model suggests a 1,000-mile cloud on Mars may host ice-forming physics that has never been directly observed."
+        "detail": "Astronomers found evidence of the first moon outside our Solar System, and physicists held an antimatter particle for months to study how it differs from ordinary matter."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Aiden Yang celebrated his Make-A-Wish visit to the Minnesota Vikings alongside his brother Ryan, who was his lifesaving bone marrow donor."
+        "detail": "Gabon has restored public access to social media, reconnecting millions of people with friends, family and news online."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "Fathers in paid-leave states are claiming time with their newborns in growing numbers, sometimes matching or outpacing mothers."
+        "signal": "blazing",
+        "detail": "Serbia's student movement carried its campaign for honest government all the way to an election victory, and the country celebrated in the streets."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Bu and Tyapa completed a five-year rescue journey and now live in an Irish sanctuary."
+        "signal": "quiet",
+        "detail": "A calm day for environmental headlines."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "184 people in pointed hats and witches' cloaks set a world record 400 feet up on the Orlando Eye."
+        "signal": "bright",
+        "detail": "At a College of Magic, kids from marginalized communities learn card tricks and candy conjuring, and come away with real confidence and creativity."
       }
     ],
     "mood": [
-      "tender",
+      "jubilant",
       "hopeful",
-      "curious",
-      "homecoming",
-      "joyful"
+      "youthful",
+      "empowered",
+      "celebratory"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
       "pick": 1,
-      "why": "Candidate 1 leads with a real story (more fathers taking paid leave) under a plain wire-style headline, stays strictly good-news, and avoids the 'Elsewhere' transition that recent cards have worn out, unlike Candidate 3's reused opener and Candidate 2's softer 'WATCH:' video driver.",
+      "why": "\"SWEEP THE POLLS\" gives the strongest single front-page verb, and the summary is the most specific because it names Vu\u010di\u0107 and his concession, while avoiding Candidate 2's stock \"reminder\" filler and Candidate 3's echoes of recent cards (\"had a lively day too\", \"showing up\").",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame, in clear balanced golden-yellow and fresh green daylight with confident, steady warmth. The scene is the surface of a handmade patchwork quilt spread across a wooden table in a home sewing corner. The quilt is a metaphor for a patchwork nation where paid leave exists in some places and not yet everywhere. Visible details: 1) A grid of stitched fabric squares in butter yellow, marigold, sage and fresh leaf green, with a few squares still raw cream muslin marked only by chalk outlines, waiting to be filled. 2) Two needles side by side sewing the same seam, one trailing thick marigold thread and one trailing fresh green thread, in two perfectly parallel rows of stitches of equal length. They stand for two parents sharing the work equally. 3) A round brass thimble in the foreground. Its curved surface reflects a tiny green tree, a golden sky and a small mail truck passing, which implies a weekday outside. 4) A tiny knit baby cap in soft peach, set on one finished square like a crown. 5) A spool of each thread on the table edge, both unwound by the same amount. 6) Wood grain at the frame edges, with fine dust motes in the warm light. The composition is tight and tactile, with chunky pixel stitches, crisp dithered fabric weave and clean highlights.",
+    "card_image": "dawn-card-2026-10-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on a quiet Belgrade side street just after midnight, seen from across the cobbles. Deep blue-black shadows dominate the frame, and every light is artificial: warm golden-yellow streetlamps on curved iron posts and the glowing window of a small newsstand kiosk. The wide brick wall of a socialist-era apartment block fills the background, its layered, peeling protest posters and stencil graffiti lit in golden pools. The largest stencil is a glowing open doorway spilling golden light, with a fresh green sapling sprouting from its threshold. Beside it are hand-painted red handprints and a stylized student backpack. A lit linden tree leans into the lamplight, its leaves a vivid fresh green against the darkness. At the kiosk, newspapers are fanned across the counter, each front page showing a wordless pixel photo of fireworks blooming over a packed square, so the celebration appears only as printed news. A row of sixteen small candles in glass jars glows quietly along the curb beneath the wall, a respectful echo of the tragedy behind the movement. Faint tricolor bunting in red, blue, and white droops between two lampposts. Wet cobbles reflect the gold light and the green leaves. Far down the street, a thin band of pale gold dawn glows between the buildings. No people appear in the scene. Confident, steady warmth, with a clear golden-yellow and fresh green palette.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -347,31 +345,30 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The needle threads don't quite follow the prompt. The thread trails loosely across the muslin instead of forming two parallel rows of equal stitches, and the needles stand upright rather than sewing a seam.",
-        "The thimble's reflection shows a tree and a small blurry vehicle. The vehicle reads only vaguely as a mail truck.",
-        "The cream muslin squares have faint chalk outlines that look like dashed boxes. They are subtle and easy to overlook.",
-        "The peach baby cap is large relative to the needles and thimble, and it looks more like a beanie than a tiny cap. It reads clearly as a knit hat, so this is only a scale quirk.",
-        "The two spools hold different amounts of thread, and the green thread runs off the right edge. This differs slightly from the prompt's 'unwound by the same amount'.",
-        "The perspective of the quilt grid is a little inconsistent, with squares varying in size and angle."
+        "The posters on the upper right wall show tiny glyph-like marks that stand in for writing. They are too small to read as gibberish.",
+        "The kiosk awning and roof merge into the brick wall at the right edge, so the shop's shape is a bit hard to read.",
+        "The red handprints on the wall are stencil graffiti, as intended, and read as painted marks rather than detached hands.",
+        "The sapling stands in front of the glowing doorway rather than growing out of its threshold, which looks slightly odd but still reads fine.",
+        "The candle row along the curb is roughly sixteen jars, and a few at the right end blur together."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-25.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-26.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 15,
-      "input_tokens": 150811,
-      "output_tokens": 22132,
+      "input_tokens": 211227,
+      "output_tokens": 26116,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 14116,
-      "output_tokens": 8114,
+      "input_tokens": 15852,
+      "output_tokens": 8327,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.1553
+    "estimated_usd": 1.4822
   }
 }
