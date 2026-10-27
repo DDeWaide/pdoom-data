@@ -1,45 +1,45 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T14:36:55.869439+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T11:10:53.788463+00:00",
   "prompt_version": "v3",
   "doom": {
-    "percentage": 55.7,
-    "raw_percentage": 52.8,
+    "percentage": 55.5,
+    "raw_percentage": 55.0,
     "blind_scores": [
-      47.6,
-      48.7,
-      53.4,
-      56.4,
+      51.7,
+      54.6,
+      54.6,
+      55.8,
       56.4
     ],
     "spread": {
       "n": 5,
-      "sd": 4.17,
-      "min": 47.6,
+      "sd": 1.81,
+      "min": 51.7,
       "max": 56.4,
-      "se": 2.88
+      "se": 0.49
     },
     "aggregate": "trimmed",
     "sample_scores": {
       "1": 56.4,
-      "2": 47.6,
-      "3": 56.4,
-      "4": 53.4,
-      "5": 48.7
+      "2": 54.6,
+      "3": 55.8,
+      "4": 54.6,
+      "5": 51.7
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 4,
-          "elevated": 1
+          "low": 4,
+          "medium": 1
         }
       },
       "Governance": {
-        "signal": "elevated",
+        "signal": "medium",
         "votes": {
-          "elevated": 4,
-          "medium": 1
+          "medium": 3,
+          "elevated": 2
         }
       },
       "Geopolitics": {
@@ -49,17 +49,16 @@
         }
       },
       "Alignment": {
+        "signal": "low",
+        "votes": {
+          "low": 5
+        }
+      },
+      "Wild Card": {
         "signal": "medium",
         "votes": {
           "medium": 4,
           "elevated": 1
-        }
-      },
-      "Wild Card": {
-        "signal": "elevated",
-        "votes": {
-          "elevated": 4,
-          "medium": 1
         }
       }
     },
@@ -67,8 +66,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidate 2 avoids the near-verbatim echo of yesterday's 'Trump waived the sanctions Congress just passed' line that sinks 1 and 3, wears the wildlife framing with its 'neighbouring pride' headline, and adds the sharpest wit with the mined-strait irony and the Butlerian Jihad aside.",
+      "pick": 3,
+      "why": "It wears the sports-desk voice with a scoreline headline and refereeing mediators while avoiding yesterday's 'away games' and Oleshky lead and the old 'scoreboard' line, it adds a sharp specific ($3.66 gas), and it skips Candidate 1's limp 'no new explosion' filler.",
       "fallback": false
     },
     "shadow": {
@@ -76,266 +75,276 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 20.7,
-          "scores": [
-            19.0,
-            20.0,
-            20.0,
-            22.0,
-            22.0
-          ]
-        },
-        "Alignment": {
-          "value": 13.3,
+          "value": 14.0,
           "scores": [
             11.0,
-            13.0,
-            13.0,
+            14.0,
+            14.0,
             14.0,
             14.0
           ]
         },
-        "Governance": {
-          "value": 23.7,
+        "Alignment": {
+          "value": 12.3,
           "scores": [
-            21.0,
-            22.0,
-            23.0,
-            26.0,
-            27.0
-          ]
-        },
-        "Geopolitics": {
-          "value": 61.7,
-          "scores": [
-            61.0,
-            61.0,
-            62.0,
-            62.0,
-            63.0
-          ]
-        },
-        "Nuclear": {
-          "value": 14.3,
-          "scores": [
+            11.0,
+            11.0,
             13.0,
-            14.0,
-            14.0,
-            15.0,
-            15.0
+            13.0,
+            13.0
           ]
         },
-        "Biotech": {
-          "value": 7.0,
+        "Governance": {
+          "value": 18.3,
           "scores": [
-            7.0,
-            7.0,
-            7.0,
-            7.0,
-            8.0
-          ]
-        },
-        "Cyber": {
-          "value": 19.0,
-          "scores": [
+            17.0,
             17.0,
             19.0,
             19.0,
-            19.0,
-            21.0
+            22.0
           ]
         },
-        "Climate": {
-          "value": 7.0,
+        "Geopolitics": {
+          "value": 60.7,
           "scores": [
-            6.0,
-            6.0,
+            58.0,
+            58.0,
+            62.0,
+            62.0,
+            62.0
+          ]
+        },
+        "Nuclear": {
+          "value": 16.0,
+          "scores": [
+            14.0,
+            16.0,
+            16.0,
+            16.0,
+            19.0
+          ]
+        },
+        "Biotech": {
+          "value": 7.3,
+          "scores": [
+            7.0,
+            7.0,
             7.0,
             8.0,
             8.0
           ]
         },
-        "Wild Card": {
-          "value": 16.7,
+        "Cyber": {
+          "value": 8.7,
           "scores": [
-            16.0,
-            16.0,
+            8.0,
+            8.0,
+            9.0,
+            9.0,
+            9.0
+          ]
+        },
+        "Climate": {
+          "value": 21.3,
+          "scores": [
             17.0,
-            17.0,
+            21.0,
+            21.0,
+            22.0,
+            23.0
+          ]
+        },
+        "Wild Card": {
+          "value": 16.3,
+          "scores": [
+            11.0,
+            15.0,
+            16.0,
+            18.0,
             19.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 63.2,
-          "sd": 0.73,
-          "se": 0.27,
+          "value": 61.8,
+          "sd": 2.29,
+          "se": 1.66,
           "scores": [
-            62.4,
-            62.8,
-            63.4,
-            63.5,
-            64.3
+            59.0,
+            59.1,
+            63.1,
+            63.2,
+            63.4
           ]
         },
         "power": {
-          "value": 36.1,
-          "sd": 0.38,
-          "se": 0.15,
+          "value": 35.4,
+          "sd": 1.27,
+          "se": 0.9,
           "scores": [
-            35.7,
-            35.9,
-            36.2,
-            36.3,
-            36.7
+            33.8,
+            33.9,
+            36.1,
+            36.1,
+            36.3
           ]
         },
         "mean": {
-          "value": 20.1,
-          "sd": 0.67,
-          "se": 0.04,
+          "value": 19.3,
+          "sd": 0.78,
+          "se": 0.35,
           "scores": [
-            20.0,
-            20.1,
-            20.1,
-            20.2,
-            21.6
+            18.3,
+            18.9,
+            19.1,
+            19.8,
+            20.3
           ]
         },
         "max": {
-          "value": 61.7,
-          "sd": 0.84,
-          "se": 0.41,
+          "value": 60.7,
+          "sd": 2.19,
+          "se": 1.63,
           "scores": [
-            61.0,
-            61.0,
+            58.0,
+            58.0,
             62.0,
             62.0,
-            63.0
+            62.0
           ]
         }
       },
       "sober_retries": 0
     },
+    "blend": {
+      "weight": 0.0,
+      "method": "max_breadth",
+      "legacy": 55.0,
+      "composite": 61.8,
+      "source": "blend",
+      "start": "2026-10-27",
+      "days": 14,
+      "input": 55.0,
+      "se": 0.49
+    },
     "sober_retry": false,
     "filter": {
-      "P": 8.17,
-      "K": 0.286,
-      "shock_p": 0.004,
-      "innovation": -4.0,
-      "prev": 56.8,
-      "noise_sd": 5.34,
+      "P": 8.38,
+      "K": 0.409,
+      "shock_p": 0.013,
+      "innovation": -0.9,
+      "prev": 55.9,
+      "noise_sd": 4.53,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Egypt\u2019s Sisi seeks authorisation for defence assistance to Saudi Arabia. Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
+    "driver": "Iran says US \u2018not serious\u2019 about talks amid Tehran meeting. Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.",
     "category": "Geopolitics",
-    "blurb": "A NEIGHBOURING PRIDE PREPARES TO JOIN THE FIGHT",
-    "summary": "When Cairo starts asking parliament for permission to defend Riyadh, the Gulf standoff is no longer a two-player game. Meanwhile Washington and Tehran both swear they own the Strait of Hormuz, which is awkward given that naval mines keep holing ships there. Russia marked Trump's pause on its sanctions by killing eight Ukrainian civilians, and DeepSeek dropped another model while Hacker News reread the Butlerian Jihad wiki for tips.",
+    "blurb": "FOUR MEDIATORS, ZERO GOALS FOR DIPLOMACY",
+    "summary": "Pakistan, Turkiye and Saudi Arabia showed up in Tehran to referee, and Iran's verdict on Washington was 'not serious' while American gas creeps to $3.66 a gallon on war pricing. Elsewhere, Melania Trump brokered a ceasefire for a single town in Ukraine as Russian missiles hit everywhere else. Jordan is bombing Syria, North Korean howitzers are inching toward the border, and two men face national security charges at the RAF base used for the Iran strikes.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "DeepSeek's V4.1 Flash is out on Hugging Face and OpenRouter, keeping open-weight capability moving fast while websites start barricading against roaming AI agents."
+        "signal": "low",
+        "detail": "Today's AI news is about publishers selling content to AI agents and Instagram copying YouTube, so no new capability leap."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Newsom's executive order exploring AI kill switches is a real step, but it sits beside Trump waiving the Graham Act's Russia sanctions and encryption getting squeezed from Canada to Australia."
+        "detail": "Volunteers are setting up war rooms in case ICE appears at polling places, a sign of how much trust in the election process has frayed."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Mined ships in Hormuz, rival US and Iranian claims of control, Egypt lining up behind Saudi Arabia, and fresh deadly Russian strikes on Ukraine add up to a multi-front war map."
+        "detail": "The Iran war continues, mediation in Tehran stalled, Russia keeps shelling Ukraine, Jordan is striking inside Syria and North Korea is moving artillery forward."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "No new rogue-model incident today, but fake Claude downloads spreading malware and websites shutting out agents show the trust layer around AI is already fraying."
+        "signal": "low",
+        "detail": "ChatGPT keeps sending people to 404 Media for tech support, which is embarrassing but harmless."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "France's cost-of-living protests are spreading as the yellow vests join, West Bank settler attacks are escalating after an olive-seizure edict, and a 1960 doomsday forecast quietly comes due next month."
+        "signal": "medium",
+        "detail": "King tides are hitting both U.S. coasts and Ecuador's largest city is partly underwater, while the alleged sabotage at RAF Fairford is the kind of story that can escalate fast."
       }
     ],
     "mood": [
-      "encircled",
-      "brinkish",
-      "tense",
-      "volatile",
-      "sardonic"
+      "grinding",
+      "stalemated",
+      "uneasy",
+      "attritional"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-17.png",
+    "card_image": "doom-card-2026-10-27.png",
     "dalle_prompt": null,
     "image_check": null
   },
   "dawn": {
-    "percentage": 44.3,
-    "driver": "NASA\u2019s Roman Space Telescope exceeds expectations by nearly 30%. NASA\u2019s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe.",
-    "category": "Science",
-    "blurb": "ROMAN BLOWS PAST ITS SCOUTING REPORT",
-    "summary": "Engineers nudged a mirror just one-sixteenth the width of a human hair, and NASA's Roman Space Telescope now performs nearly 30% better than anyone projected, with its instruments in near-perfect alignment and ready to map the universe more sharply than planned. Down here, Stanford unveiled a label-free microscope that watches living cells work in real time. Researchers also reported a candidate drug that reversed severe fatty liver disease in animal models by restoring gut health.",
+    "percentage": 44.5,
+    "driver": "\u2018It\u2019s magical\u2019: London\u2019s iconic Oxford Street goes vehicle-free. The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.",
+    "category": "Community",
+    "blurb": "AND THE GREAT STREET WAS GIVEN TO WALKERS",
+    "summary": "The cars and buses are gone from London's Oxford Street, and the people who stepped onto its open pavement are calling it magical, while shops along the famous mile expect a lift from all the new foot traffic. Far above us, two veteran NASA orbiters are still circling Mars decades past their expected lifespans and still sending home discoveries from 140 million miles away. Golden State's Valkyries now stand one win from the first title in their history.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Roman's Wide Field Instrument is outperforming expectations by nearly 30% after a hair-fine mirror adjustment, and Stanford's new microscope lets scientists see living cells without dyes."
+        "signal": "bright",
+        "detail": "Two of NASA's oldest Mars orbiters have far outlived their planned missions and have reshaped what we know about the Red Planet."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "SpaceX delivered tiny brain models, 3D heart tissue and artificial-retina technology to the International Space Station, where researchers will run experiments aimed at restoring eyesight and treating brain diseases."
+        "signal": "quiet",
+        "detail": "A calm day on this front, with no standout joint ventures in the headlines."
       },
       {
         "name": "Human Spirit",
-        "signal": "glimmer",
-        "detail": "Pope Leo XIV left Rome's Gemelli Polyclinic fit and on his feet, and he will give the traditional Angelus blessing in St Peter's Square on Sunday."
+        "signal": "bright",
+        "detail": "Kiah Stokes and Veronica Burton powered the Valkyries to the brink of a first WNBA title, and Abhishek Sharma's century sealed India's T20 series win over New Zealand."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists found that the European nightjar generates thrust on its upward wingbeat, a clever trick of nature that could inspire new flying machines."
+        "detail": "One of Europe's busiest shopping streets has traded engines for footsteps, giving London a big new stretch of quiet, walkable city."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "A rare pink French royal diamond, famously recovered hidden inside an apple a century ago, is going on public display for the first time."
+        "signal": "glimmer",
+        "detail": "Aldi's low prices are winning over shoppers and pushing rival grocers to cut their own prices."
       }
     ],
     "mood": [
-      "sharp",
-      "triumphant",
-      "precise",
-      "curious",
-      "buoyant"
+      "wonder",
+      "openness",
+      "endurance",
+      "delight",
+      "momentum"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 3,
-      "why": "Candidate 3 wears the sports-desk voice with a fresh 'scouting report' headline. Candidate 2's 'X 130, Y 100' repeats the scoreboard shape of the recent 'MEXICO 1, BREAST CANCER 0' card, while Candidates 1 and 2 both open on the same colon-led fragment and Candidate 3 opens on a clean, specific line",
+      "pick": 1,
+      "why": "Candidate 1's grand, scriptural 'AND THE GREAT STREET WAS GIVEN TO WALKERS' fits the newsreel-wonder directive while avoiding the 'ABOVE MARS, THE\u2026' prepositional-opener shape that recent cards have worn out (and Mars was just featured), and it leads with a real, fresh news event rather than a 'Here",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-17.png",
+    "card_image": "dawn-card-2026-10-27.png",
     "dalle_prompt": null,
     "image_check": null
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 15,
-      "input_tokens": 133665,
-      "output_tokens": 22458,
+      "input_tokens": 95346,
+      "output_tokens": 21990,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 0.9838
+    "estimated_usd": 0.8212
   }
 }
