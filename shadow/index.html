@@ -232,7 +232,7 @@ footer.notes code { font-family: var(--mono); font-size: 12px; }
 <header class="masthead">
   <div class="eyebrow">pDoom · scorer calibration</div>
   <h1 class="wordmark"><span class="p">p</span>Doom Shadow Score</h1>
-  <p class="lede">Every daily run now scores the headlines twice. The <strong>published</strong> number still comes from the single-number scorer (five samples, trimmed mean, regime filter). The <strong>shadow</strong> scores nine fronts separately on a 0–100 scale and computes a composite in code. Only the published number reaches the app; the shadow is recorded in <code>doom.shadow</code> so the rubric's level and its breadth weight can be set from real input before it goes live. Decision point: about 30 production days, mid-November.</p>
+  <p class="lede">Every daily run scores the headlines twice. The single-number scorer (five samples, trimmed mean) is the <strong>raw aggregate</strong>; the <strong>shadow</strong> scores nine fronts separately on a 0–100 scale and computes a composite in code. Since Oct 28 the <strong>published</strong> number has been moving from the first to the second on a two-week eased ramp toward the max + breadth composite (about 30% on Nov 1, half on Nov 3, all of it from Nov 10), still through the regime filter. Each day's mix is recorded in <code>doom.blend</code>. Check-in: mid-November.</p>
   <div class="progress">
     <div class="row"><span>Production days with a shadow score</span><b id="prog-text">—</b></div>
     <div class="bar"><i id="prog-bar"></i></div>
@@ -391,6 +391,7 @@ footer.notes code { font-family: var(--mono); font-size: 12px; }
       sd: doom.spread && typeof doom.spread.sd === "number" ? doom.spread.sd : sd(samples),
       sober: !!doom.sober_retry,
       shadow: sh,
+      blend: doom.blend && typeof doom.blend.weight === "number" ? doom.blend.weight : null,
       promptVersion: entry.prompt_version || "v2"
     };
   }
@@ -650,7 +651,7 @@ footer.notes code { font-family: var(--mono); font-size: 12px; }
         if (extra) { var ex = document.createElement("small"); ex.textContent = " " + extra; vv.appendChild(ex); }
         d.appendChild(key); d.appendChild(nm); d.appendChild(vv); tip.appendChild(d);
       }
-      row("var(--published)", "Published", fmt(r.published));
+      row("var(--published)", "Published", fmt(r.published), r.blend > 0 ? Math.round(r.blend * 100) + "% shadow" : "");
       row("var(--muted)", "Raw aggregate", fmt(r.raw), r.samples.length ? "sd " + fmt(r.sd, 2) : "");
       var sv = shadowValue(r, state.method);
       row("var(--shadow)", "Shadow · " + METHOD_LABEL[state.method], fmt(sv), sv !== null ? "sd " + fmt(shadowSd(r, state.method), 2) : "");
@@ -771,6 +772,7 @@ footer.notes code { font-family: var(--mono); font-size: 12px; }
       td(tf ? tf.name + " " + fmt(tf.value, 0) : "—");
       var notes = document.createElement("span");
       if (r.test) { var p = document.createElement("span"); p.className = "pill"; p.textContent = "test run"; notes.appendChild(p); }
+      if (r.blend > 0) { var pb = document.createElement("span"); pb.className = "pill"; pb.textContent = "published " + Math.round(r.blend * 100) + "% shadow"; notes.appendChild(pb); }
       if (r.sober) { var p2 = document.createElement("span"); p2.className = "pill warn"; p2.textContent = "⚠ plain-voice retry"; notes.appendChild(p2); }
       if (r.shadow && r.shadow.sober_retries) { var p3 = document.createElement("span"); p3.className = "pill warn"; p3.textContent = "⚠ shadow retries " + r.shadow.sober_retries; notes.appendChild(p3); }
       if (!r.shadow && r.promptVersion !== "v2") { var p4 = document.createElement("span"); p4.className = "pill"; p4.textContent = r.promptVersion; notes.appendChild(p4); }
