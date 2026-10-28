@@ -28533,5 +28533,393 @@
       },
       "estimated_usd": 1.6657
     }
+  },
+  {
+    "date": "2026-10-28",
+    "generated_at": "2026-10-28T09:43:45.726711+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 56.5,
+      "raw_percentage": 57.4,
+      "blind_scores": [
+        56.4,
+        57.3,
+        57.4,
+        57.6,
+        57.6
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.5,
+        "min": 56.4,
+        "max": 57.6,
+        "se": 0.11
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 57.6,
+        "2": 57.6,
+        "3": 56.4,
+        "4": 57.3,
+        "5": 57.4
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 4,
+            "medium": 1
+          }
+        },
+        "Wild Card": {
+          "signal": "high",
+          "votes": {
+            "high": 4,
+            "elevated": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has the most specific deadpan headline in the required plain-noun, one-verb form, and its summary skips the Anthropic IPO and Oleshky-truce angles that yesterday's card already used, as well as Candidate 3's reworked 'is lovely' line.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 31.7,
+            "scores": [
+              30.0,
+              31.0,
+              31.0,
+              33.0,
+              34.0
+            ]
+          },
+          "Alignment": {
+            "value": 27.0,
+            "scores": [
+              27.0,
+              27.0,
+              27.0,
+              27.0,
+              29.0
+            ]
+          },
+          "Governance": {
+            "value": 33.0,
+            "scores": [
+              31.0,
+              31.0,
+              33.0,
+              35.0,
+              35.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 61.0,
+            "scores": [
+              61.0,
+              61.0,
+              61.0,
+              61.0,
+              63.0
+            ]
+          },
+          "Nuclear": {
+            "value": 14.0,
+            "scores": [
+              13.0,
+              14.0,
+              14.0,
+              14.0,
+              14.0
+            ]
+          },
+          "Biotech": {
+            "value": 53.7,
+            "scores": [
+              47.0,
+              52.0,
+              52.0,
+              57.0,
+              58.0
+            ]
+          },
+          "Cyber": {
+            "value": 29.0,
+            "scores": [
+              26.0,
+              26.0,
+              28.0,
+              33.0,
+              33.0
+            ]
+          },
+          "Climate": {
+            "value": 33.3,
+            "scores": [
+              27.0,
+              31.0,
+              33.0,
+              36.0,
+              37.0
+            ]
+          },
+          "Wild Card": {
+            "value": 20.7,
+            "scores": [
+              16.0,
+              19.0,
+              21.0,
+              22.0,
+              29.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.2,
+            "sd": 0.96,
+            "se": 0.19,
+            "scores": [
+              65.6,
+              66.0,
+              66.2,
+              66.5,
+              68.1
+            ]
+          },
+          "power": {
+            "value": 42.0,
+            "sd": 1.07,
+            "se": 0.48,
+            "scores": [
+              40.2,
+              41.4,
+              42.0,
+              42.7,
+              42.8
+            ]
+          },
+          "mean": {
+            "value": 33.8,
+            "sd": 1.14,
+            "se": 0.15,
+            "scores": [
+              32.1,
+              33.6,
+              33.9,
+              34.0,
+              35.3
+            ]
+          },
+          "max": {
+            "value": 61.0,
+            "sd": 0.89,
+            "se": 0.0,
+            "scores": [
+              61.0,
+              61.0,
+              61.0,
+              61.0,
+              63.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 0.0146,
+        "method": "max_breadth",
+        "legacy": 57.4,
+        "composite": 66.2,
+        "source": "blend",
+        "start": "2026-10-27",
+        "days": 14,
+        "input": 57.5,
+        "se": 0.11
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 10.36,
+        "K": 0.511,
+        "shock_p": 0.039,
+        "innovation": 2.0,
+        "prev": 55.5,
+        "noise_sd": 4.5,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion. Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+      "category": "Geopolitics",
+      "blurb": "IRAN WAR BILL REACHES $47 BILLION",
+      "summary": "A shooting war with Iran now has a $47 billion tab and an end date set entirely by presidential mood, while Houthi strikes on a Saudi refinery nudge oil upward. Elsewhere, the Ebola outbreak crossed 10,000 patients and a UEFI flaw left most of the planet's servers open at boot. Israel's deadlocked election and a Kherson truce brokered by Melania Trump round out a day where the good news needed a footnote.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "DeepMind's Genie 4 simulates interactive worlds with audio, and OpenAI's AI apparently disproved a 30-year-old computer science assumption."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Methane rules are being scrapped, ICE surveillance of activists is expanding, Delaware floats AI-run businesses with no human at the helm, and election-transfer jitters are building a week out."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The US-Iran war grinds on as Houthi strikes hit Saudi infrastructure, Israel's election ends in deadlock, and Russian drones still reach Kharkiv despite a local truce in Kherson."
+        },
+        {
+          "name": "Alignment",
+          "signal": "elevated",
+          "detail": "Anthropic's IPO filing lists blackmail, sentience, and human extinction as risk factors, now packaged for shareholders who want returns."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "high",
+          "detail": "Ebola hit a record 10,000 patients, measles keeps hopping between US states, and a firmware flaw exposes nearly every server on Earth."
+        }
+      ],
+      "mood": [
+        "costly",
+        "feverish",
+        "deadlocked",
+        "exposed",
+        "smoldering"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle over the flat, endless West Texas plains of the Llano Estacado at dusk, where a vast dry cotton-and-oil landscape stretches to a hazy horizon under a blood-orange sky streaked with dust. Deep black shadow pools across the land. Volcanic underlighting glows up from below, as if the ground itself were molten, and every cool tone is nearly extinguished. Dozens of oil pumpjacks sit in rows across the furrowed fields, their long horsehead arms frozen mid-nod and silhouetted in black against glowing orange soil. A dirt-road grid cuts the land into squares. At the center is the single clear metaphor: a gigantic hourglass, built like a rusted oil-field storage tank and standing on its base in a cracked clearing. The glass is black and fractured. Instead of sand, glowing blood-orange coins and crumpled green banknotes pour from the upper bulb into the lower one, which is already overflowing and spilling a molten drift across the plain. A huge crack runs up the glass. Beside it, a tiny whole figure in a dark suit with a long red tie stands on a small platform at a lever on the hourglass frame, one hand raised as if to tip it over or hold it still. A small crowd of tiny red-capped figures gathers at the base, and a few tiny families stand by a single parked pickup, looking up. In the foreground, a half-empty rack of missile crates sits in shadow at the edge of the clearing, with gaps where the stock should be. Far off, a line of wind turbines and grain elevators are black shapes against the glowing horizon. Palette: blood orange, ember red, and deep black, with only a trace of sickly money-green in the banknotes.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The tiny suited figure at the lever on the right-hand frame is hard to make out. It reads as a dark tower or scaffold, so the figure is effectively lost.",
+          "The hourglass glass is murky, and the crack in the upper bulb looks like a glowing zigzag. The coins and banknotes read as plain glowing sand.",
+          "The foreground missile crate rack at lower left is just dark slabs with red marks. It is hard to recognize but doesn't look broken.",
+          "The crowd at the base and the pickup truck are small dark clusters. Individual figures are crude but acceptable at this scale.",
+          "The pumpjacks and the ground grid are noisy, and some pumpjacks blend into the terrain.",
+          "The distant skyline on the right looks more like city towers than the wind turbines and grain elevators the prompt asked for."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-28.png"
+    },
+    "dawn": {
+      "percentage": 43.5,
+      "driver": "Do spiders dream? Scientists just found a surprising clue. Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisticated strategies. By re",
+      "category": "Discovery",
+      "blurb": "BY NIGHT, THE LITTLE HUNTER DREAMS",
+      "summary": "A clever Australian jumping spider, Portia fimbriata, appears to cycle through distinct sleep stages that include a dream-like REM state, University of Bonn researchers report. Such a familiar rhythm in such a tiny mind hints that dreaming may run far deeper in the tree of life than anyone guessed. Medicine had a bright day too: scientists have cracked a 30-year genetic puzzle behind severe inflammatory bowel disease, and a simple daily fiber supplement eased knee arthritis pain and built strength in a clinical trial.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers identified antibodies that switch off the body's own inflammation control, opening the way to more precise diagnosis and treatment for thousands of people with inflammatory bowel disease."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "A truce first arranged for the residents of Oleshky has been extended across the whole Kherson region, and both sides say it is holding."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Harry Kane became the first Englishman in 25 years to win the Ballon d'Or, sharing the night with Al\u00e8xia Putellas."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "In Nairobi, workers in a 'Green Army' are clearing and readying the city's waterways so neighborhoods stay safe through the coming rains."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Smithsonian scientists built Lumina, one of the most detailed simulations ever made of the universe's first two billion years."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "curiosity",
+        "tenderness",
+        "delight",
+        "hope"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "It is the only candidate without a bad-news hit, and its blurb 'BY NIGHT, THE LITTLE HUNTER DREAMS' matches the directive's nature-documentary form while naming the dreaming jumping spider with quiet awe and no openings or jokes borrowed from recent cards.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene of a wild garden edge in tropical Queensland at first light, just after a warm rain. Thick golden-yellow mist fills the whole frame, and fresh green foliage glows through it in clear, balanced daylight with a confident, steady warmth. Rain-bright banana leaves, tall ferns and a tangle of flowering shrubs layer back into the haze in softening bands of green and gold. The scene is the quiet habitat of the animal in the headline, with no laboratory anywhere in view. In the foreground, a broad leaf tip holds a tiny jumping spider asleep, legs curled under its body, big forward-facing eyes softly closed. It hangs in a small dew-beaded web, and each droplet is a single bright pixel of gold or white. Fine silk threads stretch from leaf to leaf, catching the light like strings of tiny lanterns. Thin drizzle falls in a few diagonal pixel streaks, and shafts of sunlight break through the mist. A small child in a yellow raincoat and green rubber boots kneels on a stepping-stone path a few paces back, whole and in profile. Her face is lit with wonder as she leans toward the leaf, and a small magnifying glass hangs from a string around her neck. Behind her a weathered wooden garden gate stands half-open, fading into the haze. The mood is gentle and hopeful, as if the whole waking garden were holding its breath so the sleeper can dream.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The jumping spider is small and blobby, with a skull-like face. It reads as a spider only after a second look.",
+          "The child's hands and knees are tucked together near the stone path and are a little hard to read. Her anatomy still holds together.",
+          "The web's threads run down off the leaf and fade into the path and foliage, so the web is slightly muddled where it ends.",
+          "The magnifying glass pendant is large and bright against the raincoat, but it is clearly an object on a string.",
+          "The gate is half-open and washed out by the haze. Its slats and hinge are somewhat mushy but acceptable."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-28.png"
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 239651,
+        "output_tokens": 25415,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 16845,
+        "output_tokens": 7470,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.5753
+    }
   }
 ]

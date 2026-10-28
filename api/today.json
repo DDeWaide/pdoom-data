@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T09:43:53.113765+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T09:43:45.726711+00:00",
   "prompt_version": "v3",
   "doom": {
-    "percentage": 55.5,
-    "raw_percentage": 54.9,
+    "percentage": 56.5,
+    "raw_percentage": 57.4,
     "blind_scores": [
-      51.4,
-      51.6,
       56.4,
-      56.7,
-      56.8
+      57.3,
+      57.4,
+      57.6,
+      57.6
     ],
     "spread": {
       "n": 5,
-      "sd": 2.82,
-      "min": 51.4,
-      "max": 56.8,
-      "se": 2.04
+      "sd": 0.5,
+      "min": 56.4,
+      "max": 57.6,
+      "se": 0.11
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 56.7,
-      "2": 56.4,
-      "3": 51.4,
-      "4": 56.8,
-      "5": 51.6
+      "1": 57.6,
+      "2": 57.6,
+      "3": 56.4,
+      "4": 57.3,
+      "5": 57.4
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "high",
+        "signal": "elevated",
         "votes": {
-          "high": 5
+          "elevated": 5
         }
       },
       "Governance": {
@@ -50,14 +50,14 @@
         "signal": "elevated",
         "votes": {
           "elevated": 4,
-          "high": 1
+          "medium": 1
         }
       },
       "Wild Card": {
-        "signal": "elevated",
+        "signal": "high",
         "votes": {
-          "elevated": 4,
-          "medium": 1
+          "high": 4,
+          "elevated": 1
         }
       }
     },
@@ -66,7 +66,7 @@
       "candidates": 3,
       "lookback_days": 30,
       "pick": 1,
-      "why": "It wears the sports-desk voice best ('three for three,' 'on a heater,' 'brutal away games') and opens fresh. The Anthropic-IPO-risk-factor angle that drives Candidates 2 and 3 was already the 09-29 lead, and Candidate 2 also recycles that card's 'scoreboard stays grim' closer.",
+      "why": "Candidate 1 has the most specific deadpan headline in the required plain-noun, one-verb form, and its summary skips the Anthropic IPO and Oleshky-truce angles that yesterday's card already used, as well as Candidate 3's reworked 'is lovely' line.",
       "fallback": false
     },
     "shadow": {
@@ -74,200 +74,212 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 38.0,
+          "value": 31.7,
           "scores": [
+            30.0,
+            31.0,
+            31.0,
             33.0,
-            38.0,
-            38.0,
-            38.0,
-            43.0
-          ]
-        },
-        "Alignment": {
-          "value": 30.3,
-          "scores": [
-            27.0,
-            29.0,
-            31.0,
-            31.0,
             34.0
           ]
         },
-        "Governance": {
-          "value": 23.3,
+        "Alignment": {
+          "value": 27.0,
           "scores": [
-            22.0,
-            22.0,
-            22.0,
-            26.0,
-            26.0
+            27.0,
+            27.0,
+            27.0,
+            27.0,
+            29.0
+          ]
+        },
+        "Governance": {
+          "value": 33.0,
+          "scores": [
+            31.0,
+            31.0,
+            33.0,
+            35.0,
+            35.0
           ]
         },
         "Geopolitics": {
-          "value": 59.3,
+          "value": 61.0,
           "scores": [
-            57.0,
-            58.0,
-            58.0,
-            62.0,
+            61.0,
+            61.0,
+            61.0,
+            61.0,
             63.0
           ]
         },
         "Nuclear": {
-          "value": 13.3,
+          "value": 14.0,
           "scores": [
             13.0,
-            13.0,
-            13.0,
+            14.0,
+            14.0,
             14.0,
             14.0
           ]
         },
         "Biotech": {
-          "value": 8.0,
+          "value": 53.7,
           "scores": [
-            8.0,
-            8.0,
-            8.0,
-            8.0,
-            9.0
+            47.0,
+            52.0,
+            52.0,
+            57.0,
+            58.0
           ]
         },
         "Cyber": {
-          "value": 17.0,
+          "value": 29.0,
           "scores": [
-            17.0,
-            17.0,
-            17.0,
-            17.0,
-            19.0
+            26.0,
+            26.0,
+            28.0,
+            33.0,
+            33.0
           ]
         },
         "Climate": {
-          "value": 41.0,
+          "value": 33.3,
           "scores": [
-            38.0,
-            41.0,
-            41.0,
-            41.0,
-            42.0
+            27.0,
+            31.0,
+            33.0,
+            36.0,
+            37.0
           ]
         },
         "Wild Card": {
-          "value": 14.7,
+          "value": 20.7,
           "scores": [
-            11.0,
-            11.0,
-            14.0,
+            16.0,
             19.0,
-            19.0
+            21.0,
+            22.0,
+            29.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 62.7,
-          "sd": 2.79,
-          "se": 1.82,
+          "value": 66.2,
+          "sd": 0.96,
+          "se": 0.19,
           "scores": [
-            60.4,
-            61.2,
-            61.3,
-            65.7,
-            66.3
+            65.6,
+            66.0,
+            66.2,
+            66.5,
+            68.1
           ]
         },
         "power": {
-          "value": 38.0,
-          "sd": 1.26,
-          "se": 0.9,
+          "value": 42.0,
+          "sd": 1.07,
+          "se": 0.48,
           "scores": [
-            37.0,
-            37.1,
-            37.4,
-            39.4,
-            39.5
+            40.2,
+            41.4,
+            42.0,
+            42.7,
+            42.8
           ]
         },
         "mean": {
-          "value": 27.2,
-          "sd": 0.93,
-          "se": 0.3,
+          "value": 33.8,
+          "sd": 1.14,
+          "se": 0.15,
           "scores": [
-            26.4,
-            26.8,
-            27.1,
-            27.6,
-            28.8
+            32.1,
+            33.6,
+            33.9,
+            34.0,
+            35.3
           ]
         },
         "max": {
-          "value": 59.3,
-          "sd": 2.7,
-          "se": 1.63,
+          "value": 61.0,
+          "sd": 0.89,
+          "se": 0.0,
           "scores": [
-            57.0,
-            58.0,
-            58.0,
-            62.0,
+            61.0,
+            61.0,
+            61.0,
+            61.0,
             63.0
           ]
         }
       },
       "sober_retries": 0
     },
+    "blend": {
+      "weight": 0.0146,
+      "method": "max_breadth",
+      "legacy": 57.4,
+      "composite": 66.2,
+      "source": "blend",
+      "start": "2026-10-27",
+      "days": 14,
+      "input": 57.5,
+      "se": 0.11
+    },
     "sober_retry": false,
     "filter": {
-      "P": 8.91,
-      "K": 0.365,
-      "shock_p": 0.012,
-      "innovation": -1.0,
-      "prev": 55.9,
-      "noise_sd": 4.94,
+      "P": 10.36,
+      "K": 0.511,
+      "shock_p": 0.039,
+      "innovation": 2.0,
+      "prev": 55.5,
+      "noise_sd": 4.5,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "OpenAI announces three big science discoveries and a new way to work with academics. Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes ",
-    "category": "AI Capability",
-    "blurb": "OPENAI GOES THREE FOR THREE IN THE LAB",
-    "summary": "Somewhere a complexity theorist is staring at a PDF titled 'The Exponential Time Hypothesis Is False,' while Anthropic files a 335-page IPO prospectus that doubles as an existential-risk pamphlet, ticker ANT. Meanwhile the U.S.-Israeli war with Iran grinds on behind hopeful oil-market diplomacy, Kyiv takes missiles even as a Melania-brokered micro-truce opens in Oleshky, and Sudan's RSF knocks out power stations while 30 countries warn of famine. The machines are on a heater, and the humans are still playing the same brutal away games.",
+    "driver": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion. Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+    "category": "Geopolitics",
+    "blurb": "IRAN WAR BILL REACHES $47 BILLION",
+    "summary": "A shooting war with Iran now has a $47 billion tab and an end date set entirely by presidential mood, while Houthi strikes on a Saudi refinery nudge oil upward. Elsewhere, the Ebola outbreak crossed 10,000 patients and a UEFI flaw left most of the planet's servers open at boot. Israel's deadlocked election and a Kherson truce brokered by Melania Trump round out a day where the good news needed a footnote.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "high",
-        "detail": "OpenAI claims new breakthroughs in math, CS and physics, including a reported refutation of the Exponential Time Hypothesis, and GPT-6.1 Terra drops the same day."
+        "signal": "elevated",
+        "detail": "DeepMind's Genie 4 simulates interactive worlds with audio, and OpenAI's AI apparently disproved a 30-year-old computer science assumption."
       },
       {
         "name": "Governance",
         "signal": "elevated",
-        "detail": "Anthropic's S-1 openly lists catastrophic and existential risks as business factors, the White House is withholding a FISA court ruling, and the EPA is quietly deleting its archive."
+        "detail": "Methane rules are being scrapped, ICE surveillance of activists is expanding, Delaware floats AI-run businesses with no human at the helm, and election-transfer jitters are building a week out."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "The U.S.-Israeli war with Iran and Russia's war in Ukraine both remain active, Sudan slides toward famine, and Israel votes under a sealed West Bank."
+        "detail": "The US-Iran war grinds on as Houthi strikes hit Saudi infrastructure, Israel's election ends in deadlock, and Russian drones still reach Kharkiv despite a local truce in Kherson."
       },
       {
         "name": "Alignment",
         "signal": "elevated",
-        "detail": "Cohere flags concerning behavior in a popular open-weight model, and nobody can recall that model once it is downloaded."
+        "detail": "Anthropic's IPO filing lists blackmail, sentience, and human extinction as risk factors, now packaged for shareholders who want returns."
       },
       {
         "name": "Wild Card",
-        "signal": "elevated",
-        "detail": "Satellites show the AMOC has slowed 14 percent, greenhouse gases hit new records, and Cyclone Arnab forces 400,000 evacuations in India."
+        "signal": "high",
+        "detail": "Ebola hit a record 10,000 patients, measles keeps hopping between US states, and a firmware flaw exposes nearly every server on Earth."
       }
     ],
     "mood": [
-      "dazzled",
-      "uneasy",
-      "war-weary",
-      "overclocked"
+      "costly",
+      "feverish",
+      "deadlocked",
+      "exposed",
+      "smoldering"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
-    "card_image": "doom-card-2026-10-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level, steep low-angle view looking straight up at the brutalist, stepped, spaceship-like concrete tower of Geisel Library at UC San Diego in La Jolla, late at night. The tower's cantilevered tiers loom overhead and fill most of the frame. Deep black sky and a low marine-layer haze press down between the tiers. Windows on every floor burn blood orange, as if the whole building is working through the night. Volcanic orange underlighting rises from the plaza floor and rakes across the underside of the concrete overhangs, throwing harsh shadows upward. Tall eucalyptus trunks and drooping leaf clusters frame the edges as black silhouettes with orange rims. Cool blue tones are almost entirely extinguished, with only a faint dying slate in the deepest corners. In the foreground, the aftermath of the AI discovery announcements: an overflowing book-return drop and wire recycling bins spill hundreds of printed manuscripts across the plaza steps, with drifts of paper lit from below like embers. Beyond them, a long, patient queue of about a dozen whole, small academic figures in rumpled sweaters and corduroy jackets, seen from behind, each clutching a thick stack of pages. They wait at a locked glass entrance doorway, and one figure leans on a wooden shepherd's crook-like cane. Their long shadows stretch up the concrete wall. A single dark laptop glows faintly orange on a bench, abandoned beside a cold coffee cup. The mood is weary, silent, and overwhelmed: humans buried under results they cannot verify fast enough.",
+    "card_image": "doom-card-2026-10-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Wide aerial view looking down at a 45-degree angle over the flat, endless West Texas plains of the Llano Estacado at dusk, where a vast dry cotton-and-oil landscape stretches to a hazy horizon under a blood-orange sky streaked with dust. Deep black shadow pools across the land. Volcanic underlighting glows up from below, as if the ground itself were molten, and every cool tone is nearly extinguished. Dozens of oil pumpjacks sit in rows across the furrowed fields, their long horsehead arms frozen mid-nod and silhouetted in black against glowing orange soil. A dirt-road grid cuts the land into squares. At the center is the single clear metaphor: a gigantic hourglass, built like a rusted oil-field storage tank and standing on its base in a cracked clearing. The glass is black and fractured. Instead of sand, glowing blood-orange coins and crumpled green banknotes pour from the upper bulb into the lower one, which is already overflowing and spilling a molten drift across the plain. A huge crack runs up the glass. Beside it, a tiny whole figure in a dark suit with a long red tie stands on a small platform at a lever on the hourglass frame, one hand raised as if to tip it over or hold it still. A small crowd of tiny red-capped figures gathers at the base, and a few tiny families stand by a single parked pickup, looking up. In the foreground, a half-empty rack of missile crates sits in shadow at the edge of the clearing, with gaps where the stock should be. Far off, a line of wind turbines and grain elevators are black shapes against the glowing horizon. Palette: blood orange, ember red, and deep black, with only a trace of sickly money-green in the banknotes.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -276,69 +288,69 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The queue of figures is mostly dark silhouettes. The three front figures on the right are blocky and roughly drawn, and the far-right figure is a heavy dark mass with a vague face. None of them show a clear anatomical error.",
-        "The figure leaning on a cane is hard to read. The cane is a faint vertical line near the second figure's hand, and no clear shepherd's-crook shape is visible.",
-        "The foreground paper drifts look like diamond-patterned tiles or a checkered floor, not scattered manuscripts. The bins and book-return drop on the left are murky and blend into each other.",
-        "The abandoned laptop and coffee cup on the bench are barely visible. The only candidate is a flat rectangular object at lower right.",
-        "The building's perspective is somewhat warped and the tiers are symmetrical in an odd way. This fits the surreal, stylized look.",
-        "The trees at the edges are drawn as dark silhouettes with orange rims, and the foliage is a bit noisy."
+        "The tiny suited figure at the lever on the right-hand frame is hard to make out. It reads as a dark tower or scaffold, so the figure is effectively lost.",
+        "The hourglass glass is murky, and the crack in the upper bulb looks like a glowing zigzag. The coins and banknotes read as plain glowing sand.",
+        "The foreground missile crate rack at lower left is just dark slabs with red marks. It is hard to recognize but doesn't look broken.",
+        "The crowd at the base and the pickup truck are small dark clusters. Individual figures are crude but acceptable at this scale.",
+        "The pumpjacks and the ground grid are noisy, and some pumpjacks blend into the terrain.",
+        "The distant skyline on the right looks more like city towers than the wind turbines and grain elevators the prompt asked for."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-27.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-28.png"
   },
   "dawn": {
-    "percentage": 44.5,
-    "driver": "AI detects \u201cinvisible\u201d signs of pancreatic cancer years before diagnosis. A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists. By spotting cancer-related cha",
-    "category": "Medicine",
-    "blurb": "WITNESS THE UNSEEN TUMOR, FOUND A YEAR EARLY",
-    "summary": "Pancreatic cancer could soon be caught well over a year before it shows on a scan. A new AI system called REDMOD found hidden warning signs an average of 475 days before diagnosis and was nearly twice as sensitive as experienced radiologists, giving doctors a real head start on one of medicine's hardest cancers to catch. Elsewhere, Harry Kane became the first Englishman in 25 years to win the Ballon d'Or, while Alexia Putellas collected her third women's crown.",
+    "percentage": 43.5,
+    "driver": "Do spiders dream? Scientists just found a surprising clue. Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisticated strategies. By re",
+    "category": "Discovery",
+    "blurb": "BY NIGHT, THE LITTLE HUNTER DREAMS",
+    "summary": "A clever Australian jumping spider, Portia fimbriata, appears to cycle through distinct sleep stages that include a dream-like REM state, University of Bonn researchers report. Such a familiar rhythm in such a tiny mind hints that dreaming may run far deeper in the tree of life than anyone guessed. Medicine had a bright day too: scientists have cracked a 30-year genetic puzzle behind severe inflammatory bowel disease, and a simple daily fiber supplement eased knee arthritis pain and built strength in a clinical trial.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Researchers announced a proof that the Exponential Time Hypothesis, a decades-old cornerstone assumption in computer science, is false."
+        "signal": "bright",
+        "detail": "Researchers identified antibodies that switch off the body's own inflammation control, opening the way to more precise diagnosis and treatment for thousands of people with inflammatory bowel disease."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "OpenAI unveiled three new discoveries in math, computer science and physics, this time vetted alongside external academic experts."
+        "detail": "A truce first arranged for the residents of Oleshky has been extended across the whole Kherson region, and both sides say it is holding."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Texas custodian Marilyn Hampton was honored in a tearful ceremony for four decades of caring for her school district."
+        "detail": "Harry Kane became the first Englishman in 25 years to win the Ballon d'Or, sharing the night with Al\u00e8xia Putellas."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists in China discovered D-rex, a nearly five-pound fungus that is the largest of its kind, with roots reaching back 65 million years."
+        "detail": "In Nairobi, workers in a 'Green Army' are clearing and readying the city's waterways so neighborhoods stay safe through the coming rains."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "A solar eclipse recorded in China in 709 BCE has been precisely reconstructed, giving scientists a fresh window into Earth's ancient rotation."
+        "detail": "Smithsonian scientists built Lumina, one of the most detailed simulations ever made of the universe's first two billion years."
       }
     ],
     "mood": [
-      "hopeful",
-      "awestruck",
-      "vigilant",
-      "triumphant",
-      "curious"
+      "wonder",
+      "curiosity",
+      "tenderness",
+      "delight",
+      "hope"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "\"WITNESS THE UNSEEN TUMOR\" best matches the BEHOLD-style newsreel form and plays wittily on seeing the unseeable, its summary names REDMOD's specifics without borrowing stock phrases from recent cards (unlike Candidate 3's \"opens the door\"), and it stays strictly good news.",
+      "pick": 1,
+      "why": "It is the only candidate without a bad-news hit, and its blurb 'BY NIGHT, THE LITTLE HUNTER DREAMS' matches the directive's nature-documentary form while naming the dreaming jumping spider with quiet awe and no openings or jokes borrowed from recent cards.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 5,
     "tier_name": "Bright Spot",
-    "card_image": "dawn-card-2026-10-27.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a quiet hospital radiology reading room the morning after a big announcement. We look from the back of the room toward a wide-open glass doorway and tall window. They frame a green hospital courtyard in clear, balanced golden-yellow and fresh green daylight, with a young sapling in a raised bed, trimmed hedges, and a gravel path. The room is calm, steady and warm. Pale yellow daylight spreads across a polished green-gray linoleum floor. Chairs are pushed back from a curved workstation desk, and the night's work is finished. Specific elements:\n1. A large monitor on the desk shows a gray axial abdominal CT slice. A thin luminous golden contour traces the tadpole-shaped pancreas, and a soft glowing cluster of tiny golden light-dots sits in the head of the organ, like a candle lit early.\n2. Beside the monitor, a pile of old film sleeves and printed scan folders lies open on the desk, as if someone had gone back to look at old scans again, next to two empty coffee mugs and a pair of reading glasses.\n3. A custodian in a teal uniform, drawn whole, pushes a mop cart across the floor toward the doorway. He glances back at the glowing monitor with a small satisfied smile.\n4. A corkboard on the wall holds a single violet awareness ribbon and a paper calendar with a long row of pages flipped back, with no legible writing.\n5. A small potted seedling with bright green leaves sits on the windowsill in the foreground, with the sapling in the courtyard beyond it, echoing early detection.\nLong soft window-light shadows, warm yellow highlights and fresh green accents, with a few teal touches on the screen, make a hushed hopeful morning-after mood.",
+    "card_image": "dawn-card-2026-10-28.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene of a wild garden edge in tropical Queensland at first light, just after a warm rain. Thick golden-yellow mist fills the whole frame, and fresh green foliage glows through it in clear, balanced daylight with a confident, steady warmth. Rain-bright banana leaves, tall ferns and a tangle of flowering shrubs layer back into the haze in softening bands of green and gold. The scene is the quiet habitat of the animal in the headline, with no laboratory anywhere in view. In the foreground, a broad leaf tip holds a tiny jumping spider asleep, legs curled under its body, big forward-facing eyes softly closed. It hangs in a small dew-beaded web, and each droplet is a single bright pixel of gold or white. Fine silk threads stretch from leaf to leaf, catching the light like strings of tiny lanterns. Thin drizzle falls in a few diagonal pixel streaks, and shafts of sunlight break through the mist. A small child in a yellow raincoat and green rubber boots kneels on a stepping-stone path a few paces back, whole and in profile. Her face is lit with wonder as she leans toward the leaf, and a small magnifying glass hangs from a string around her neck. Behind her a weathered wooden garden gate stands half-open, fading into the haze. The mood is gentle and hopeful, as if the whole waking garden were holding its breath so the sleeper can dream.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -347,29 +359,30 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The armrests and seat geometry of the two foreground chairs are a bit confusing, and the right chair is cropped by the frame edge.",
-        "The custodian's smile is turned toward the viewer rather than clearly back at the monitor. The mop handle rising from the cart is slightly ambiguous.",
-        "The wall panel next to the corkboard shows tiny glyph-like marks. They read as stand-in symbols, not garbled text.",
-        "The CT image is stylized, and the glowing contour and dots read as intended."
+        "The jumping spider is small and blobby, with a skull-like face. It reads as a spider only after a second look.",
+        "The child's hands and knees are tucked together near the stone path and are a little hard to read. Her anatomy still holds together.",
+        "The web's threads run down off the leaf and fade into the path and foliage, so the web is slightly muddled where it ends.",
+        "The magnifying glass pendant is large and bright against the raincoat, but it is clearly an object on a string.",
+        "The gate is half-open and washed out by the haze. Its slats and hinge are somewhat mushy but acceptable."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-27.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-28.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 15,
-      "input_tokens": 252182,
-      "output_tokens": 26923,
+      "input_tokens": 239651,
+      "output_tokens": 25415,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 17206,
-      "output_tokens": 8410,
+      "input_tokens": 16845,
+      "output_tokens": 7470,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.6657
+    "estimated_usd": 1.5753
   }
 }
