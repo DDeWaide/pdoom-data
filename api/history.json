@@ -28921,5 +28921,393 @@
       },
       "estimated_usd": 1.5753
     }
+  },
+  {
+    "date": "2026-10-29",
+    "generated_at": "2026-10-29T09:43:39.790173+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 56.6,
+      "raw_percentage": 56.3,
+      "blind_scores": [
+        55.8,
+        56.3,
+        56.3,
+        56.3,
+        56.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.24,
+        "min": 55.8,
+        "max": 56.4,
+        "se": 0.0
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 56.3,
+        "2": 56.3,
+        "3": 55.8,
+        "4": 56.4,
+        "5": 56.3
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "high": 2
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "high": 1,
+            "elevated": 4
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "With identical blurbs, Candidate 3 has the freshest, sharpest summary: the oil-traders-then-firing setup, the pointed Gemini-cyber-leap-same-day-as-DHS-dump pairing and a rudderless kicker that suits the tabloid directive, while avoiding yesterday's 'Elsewhere' and the stock 'only thing going well' ",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 31.0,
+            "scores": [
+              27.0,
+              31.0,
+              31.0,
+              31.0,
+              32.0
+            ]
+          },
+          "Alignment": {
+            "value": 16.0,
+            "scores": [
+              14.0,
+              16.0,
+              16.0,
+              16.0,
+              17.0
+            ]
+          },
+          "Governance": {
+            "value": 29.0,
+            "scores": [
+              19.0,
+              27.0,
+              29.0,
+              31.0,
+              35.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 60.7,
+            "scores": [
+              58.0,
+              60.0,
+              61.0,
+              61.0,
+              61.0
+            ]
+          },
+          "Nuclear": {
+            "value": 13.0,
+            "scores": [
+              13.0,
+              13.0,
+              13.0,
+              13.0,
+              14.0
+            ]
+          },
+          "Biotech": {
+            "value": 50.0,
+            "scores": [
+              47.0,
+              47.0,
+              49.0,
+              54.0,
+              57.0
+            ]
+          },
+          "Cyber": {
+            "value": 40.7,
+            "scores": [
+              38.0,
+              39.0,
+              41.0,
+              42.0,
+              46.0
+            ]
+          },
+          "Climate": {
+            "value": 33.3,
+            "scores": [
+              31.0,
+              33.0,
+              33.0,
+              34.0,
+              34.0
+            ]
+          },
+          "Wild Card": {
+            "value": 17.7,
+            "scores": [
+              13.0,
+              14.0,
+              17.0,
+              22.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 65.3,
+            "sd": 1.19,
+            "se": 0.34,
+            "scores": [
+              62.9,
+              64.8,
+              65.3,
+              65.7,
+              65.8
+            ]
+          },
+          "power": {
+            "value": 41.1,
+            "sd": 1.01,
+            "se": 0.65,
+            "scores": [
+              40.3,
+              40.4,
+              40.8,
+              42.1,
+              42.5
+            ]
+          },
+          "mean": {
+            "value": 32.5,
+            "sd": 0.77,
+            "se": 0.2,
+            "scores": [
+              31.0,
+              32.2,
+              32.7,
+              32.7,
+              32.9
+            ]
+          },
+          "max": {
+            "value": 60.7,
+            "sd": 1.3,
+            "se": 0.41,
+            "scores": [
+              58.0,
+              60.0,
+              61.0,
+              61.0,
+              61.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 0.0554,
+        "method": "max_breadth",
+        "legacy": 56.3,
+        "composite": 65.3,
+        "source": "blend",
+        "start": "2026-10-27",
+        "days": 14,
+        "input": 56.8,
+        "se": 0.02
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 9.3,
+        "K": 0.459,
+        "shock_p": 0.02,
+        "innovation": 0.3,
+        "prev": 56.5,
+        "noise_sd": 4.5,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks. Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+      "category": "Geopolitics",
+      "blurb": "HEGSETH AXES THE WAR PLANNER",
+      "summary": "Oil traders spent the morning pricing in peace with Iran, and then the Pentagon fired the general whose job was literally strategy, plans and policy. Meanwhile Google shipped Gemini 4 Carbon with a 'significant leap' in cybersecurity on the same day hackers dumped 41,000 DHS staff records, Ebola passed 10,000 infections, and Fl\u00e1vio Bolsonaro declared himself president of Brazil from a Miami tarmac. The war isn't new, but nobody seems to be steering it.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "Gemini 4 Carbon tops the leaderboards with headline gains in agentic and cybersecurity skills, while AI-guided drones edge toward making battlefield calls in Ukraine."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "A defeated candidate claims the Brazilian presidency from Florida, Egypt shuts Mada Masr, and RFK Jr. overrules the FDA to wave through unproven peptides."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The US-Israel war on Iran grinds on while its top planner gets sacked, Ethiopia arms up with Russian jets for Tigray, and China circles Pacific undersea cables."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Google's AI goes cagey about who won 2020, and a fingerprinting script reportedly generating bioweapon content suggests guardrails still have gaps."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Ebola tops 10,000 cases with warnings it could spread like Covid, the CDC flags drug-resistant bacteria, and Thwaites may melt twice as fast as modeled."
+        }
+      ],
+      "mood": [
+        "rudderless",
+        "feverish",
+        "jittery",
+        "sardonic"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-10-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the whole frame on a scuffed steel newsstand rack outside a Pentagon City Metro entrance in Arlington, Virginia, at dusk. Behind the rack, the pale limestone mass of the Pentagon is only a smear at the frame's edge, reflected in the rain-slicked glass of the newspaper box door. Wet copper and rust oak leaves are plastered against the metal base, and the low sky is thick with smoke-black cloud. The only light is blood-orange volcanic underlighting, a glow from below the frame that rims every edge in molten orange against deep black, with all cool tones nearly extinguished.\n\nThe central object is the front page of a folded broadsheet, pressed behind the scratched plexiglass. Its banner photo is a chunky, dithered black-and-orange halftone of an empty Army dress-green officer's coat on a wooden hanger, with three silver stars on the epaulet. They are the only bright, pale-metal pixels in the whole image. Beside the coat is a bare brass nameplate holder with its plate pulled out. The headline is shown only as thick, abstract black bars of illegible blocks of type, with no readable letters.\n\nPinned across the lower corner of the page, a smaller inset shows a stylized narrow strait with a single tanker silhouette, picked out in ember orange. A torn red-white-blue \"VOTE\" yard-sign scrap, faded to burnt orange, is wedged into the rack's corner, and a cardboard banker's box stands as a dark shape reflected in the glass. A single rain-streaked orange pixel highlight runs down the plexiglass like a crack.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The brass nameplate holder next to the coat is blocky and blends into a strap or sleeve shape, so it is hard to read as a nameplate holder.",
+          "The lower-right inset on the page is a muddy dark shape with an orange curve. It does not read clearly as a strait with a tanker.",
+          "The epaulet stars are tiny and look like a row of marks, not three clear stars.",
+          "The newspaper headline is only abstract black blocks. This is intentional and reads as stylized type.",
+          "The VOTE scrap is legible and spelled correctly.",
+          "The left-edge Pentagon and water scene is very dark and hard to identify, and the reflection in the glass is only suggested.",
+          "The banker's box on the right is a murky shape lost in shadow."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-10-29.png"
+    },
+    "dawn": {
+      "percentage": 43.4,
+      "driver": "Brewers beat the Rays 4-1 to win the first World Series title in franchise history.",
+      "category": "Human Spirit",
+      "blurb": "MILWAUKEE, SEASON 58, CHAMPIONS",
+      "summary": "The Milwaukee Brewers, the small-ball club from the smallest market in the majors, are World Series champions for the first time in their 58-year history. A franchise that started life as the Seattle Pilots in 1969 finally gets its parade, and a whole city gets to say the word 'champions' out loud. Farther out, astronomers using the Vera C. Rubin Observatory spotted what may be a new dwarf planet beyond Pluto, and explorer Ash Dykes finished a 500-mile kayak journey through the Congo Basin, paddling alongside monkeys and hippos.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Researchers found a hidden mechanism behind age-related muscle weakness, and partially restoring a key molecule reversed muscle wasting in mice."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Europe is planning its first undersea cable to Greenland, part of a Pan-Arctic link connecting Canada, Japan and South Korea."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "After 58 seasons, the scrappy Brewers brought Milwaukee its first World Series title."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Start-ups are betting that super-insulating aerogels can help millions of older homes in the UK and Europe reach net zero."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A possible new dwarf planet, 2026 ED138, may be as large as 1,500 kilometers across and could join an exclusive club beyond Pluto."
+        }
+      ],
+      "mood": [
+        "jubilant",
+        "hometown pride",
+        "wonder",
+        "underdog",
+        "adventurous"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has the freshest headline, a field-notes dateline ('MILWAUKEE, SEASON 58, CHAMPIONS') that skips the recent 'ONE\u2026' and 'number-phrase' shapes, and its line about a whole city getting to say 'champions' out loud is the sharpest human detail of the three, even though its 'Farther out' hand",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-10-29.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION inside the domed Tropicana Field at the instant the Brewers win the World Series, with strong backlight turning every figure into a crisp dark silhouette against a huge glowing golden-yellow burst of stadium floodlights behind the translucent roof panels. The dome's catwalks and white roof ribs radiate overhead like a cathedral ceiling, washed in clear golden-yellow light, while the artificial turf below glows fresh green in balanced, steady warmth. Golden confetti drifts down through the shafts of light, each piece catching a bright highlight. In the center of the infield, a joyful pile of Brewers players in silhouette leaps and embraces, caps flying into the air, with a slim young rookie at the middle of the scrum, arms raised high. On the mound to one side stands the tall young pitcher, whole and in silhouette, with one fist pumped toward the roof. Along the railing in the foreground, a row of fans in silhouette lean over with raised arms, some waving banners and navy-and-gold flags. In the front row, a gray-haired older fan, fully visible in silhouette, holds a faded pennant aloft in one hand and wipes his eyes with the other. A lone bat and a baseball rest on the bright green turf in the foreground, outlined in rim light. Rich navy shadows are kept to the silhouettes only, and the rest of the frame is saturated golden-yellow and fresh green. Triumphant, cathartic, communal mood.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The left pennant has small, unclear letters beside the logo. They read as a tiny mark rather than clear text.",
+          "The pile of players is a single dark mass with limbs and bodies hard to separate, and it sits on a floating oval disc of dirt. The pitcher's mound looks similarly detached.",
+          "The old man's raised arm holding the pennant is long and thin, and his head and shoulders are one dark blob. The pose is still readable.",
+          "Foreground fans are merged silhouettes with some fists and flags that are hard to match to bodies, but they are lost in shadow.",
+          "Dark vertical bars at the bottom, and a cut-off flag at the left edge, are cluttered but acceptable."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-10-29.png"
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 252619,
+        "output_tokens": 25062,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 14652,
+        "output_tokens": 7151,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.6125
+    }
   }
 ]
