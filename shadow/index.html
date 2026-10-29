@@ -232,7 +232,7 @@ footer.notes code { font-family: var(--mono); font-size: 12px; }
 <header class="masthead">
   <div class="eyebrow">pDoom · scorer calibration</div>
   <h1 class="wordmark"><span class="p">p</span>Doom Shadow Score</h1>
-  <p class="lede">Every daily run scores the headlines twice. The single-number scorer (five samples, trimmed mean) is the <strong>raw aggregate</strong>; the <strong>shadow</strong> scores nine fronts separately on a 0–100 scale and computes a composite in code. Since Oct 28 the <strong>published</strong> number has been moving from the first to the second on a two-week eased ramp toward the max + breadth composite (about 30% on Nov 1, half on Nov 3, all of it from Nov 10), still through the regime filter. Each day's mix is recorded in <code>doom.blend</code>. Check-in: mid-November.</p>
+  <p class="lede">Through Nov 2 every daily run scores the headlines twice. The single-number scorer (five samples, trimmed mean) is the <strong>raw aggregate</strong>; the <strong>shadow</strong> scores nine fronts separately on a 0–100 scale and computes a composite in code. The <strong>published</strong> number is moving from the first to the second's max + breadth composite in five even steps: 20% of the way on Oct 30, 40% on Oct 31, 60% on Nov 1, 80% on Nov 2. From Nov 3 the factor rubric is the scorer itself (number and card text), so the raw aggregate and shadow lines become one line. Each day's mix is recorded in <code>doom.blend</code>.</p>
   <div class="progress">
     <div class="row"><span>Production days with a shadow score</span><b id="prog-text">—</b></div>
     <div class="bar"><i id="prog-bar"></i></div>
