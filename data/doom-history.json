@@ -29571,5 +29571,400 @@
       },
       "estimated_usd": 1.5379
     }
+  },
+  {
+    "date": "2026-11-01",
+    "generated_at": "2026-11-01T10:43:00.989299+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 59.8,
+      "raw_percentage": 41.7,
+      "blind_scores": [
+        38.6,
+        41.7,
+        41.7,
+        41.7,
+        43.2
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.68,
+        "min": 38.6,
+        "max": 43.2,
+        "se": 0.0
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 41.7,
+        "2": 41.7,
+        "3": 41.7,
+        "4": 43.2,
+        "5": 38.6
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "medium": 2
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "high",
+          "votes": {
+            "high": 4,
+            "elevated": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Its headline '5,000 BURIED, 10,000 CHARTS OPEN' best fits the clipped field-notes form with one concrete image, and it avoids the stale 'X DEAD' and 'and counting' headline openers and the tired 'Add...' list sentence the other two reuse from recent cards, while its summary stays tight and specific.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 25.0,
+            "scores": [
+              24.0,
+              24.0,
+              24.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Alignment": {
+            "value": 15.7,
+            "scores": [
+              14.0,
+              14.0,
+              16.0,
+              17.0,
+              19.0
+            ]
+          },
+          "Governance": {
+            "value": 25.3,
+            "scores": [
+              22.0,
+              22.0,
+              27.0,
+              27.0,
+              33.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 48.3,
+            "scores": [
+              46.0,
+              47.0,
+              47.0,
+              51.0,
+              52.0
+            ]
+          },
+          "Nuclear": {
+            "value": 13.7,
+            "scores": [
+              13.0,
+              13.0,
+              14.0,
+              14.0,
+              14.0
+            ]
+          },
+          "Biotech": {
+            "value": 61.0,
+            "scores": [
+              58.0,
+              58.0,
+              62.0,
+              63.0,
+              64.0
+            ]
+          },
+          "Cyber": {
+            "value": 42.7,
+            "scores": [
+              38.0,
+              41.0,
+              41.0,
+              46.0,
+              47.0
+            ]
+          },
+          "Climate": {
+            "value": 17.3,
+            "scores": [
+              16.0,
+              16.0,
+              17.0,
+              19.0,
+              19.0
+            ]
+          },
+          "Wild Card": {
+            "value": 22.0,
+            "scores": [
+              17.0,
+              21.0,
+              22.0,
+              23.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 65.0,
+            "sd": 2.71,
+            "se": 1.75,
+            "scores": [
+              62.2,
+              62.4,
+              65.7,
+              67.0,
+              68.2
+            ]
+          },
+          "power": {
+            "value": 40.6,
+            "sd": 1.05,
+            "se": 0.51,
+            "scores": [
+              39.2,
+              40.1,
+              40.3,
+              41.4,
+              41.8
+            ]
+          },
+          "mean": {
+            "value": 30.4,
+            "sd": 0.88,
+            "se": 0.31,
+            "scores": [
+              28.8,
+              30.1,
+              30.2,
+              30.9,
+              31.0
+            ]
+          },
+          "max": {
+            "value": 61.0,
+            "sd": 2.83,
+            "se": 1.93,
+            "scores": [
+              58.0,
+              58.0,
+              62.0,
+              63.0,
+              64.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 0.6,
+        "method": "max_breadth",
+        "legacy": 41.7,
+        "composite": 65.0,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 55.7,
+        "se": 1.05,
+        "mode": "blend",
+        "scorer": "legacy",
+        "rebase": {
+          "from": 0.4,
+          "to": 0.6,
+          "gap": 10.1,
+          "gap_source": "recent",
+          "shift": 2.02
+        }
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 6.67,
+        "K": 0.312,
+        "shock_p": 0.002,
+        "innovation": -5.9,
+        "prev": 59.6,
+        "noise_sd": 4.62,
+        "mode": "adaptive",
+        "shift": 2.02
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak. Government data shows that more than 10,000 people have contracted the rare virus.",
+      "category": "Biotech",
+      "blurb": "5,000 BURIED, 10,000 CHARTS OPEN",
+      "summary": "Congo's Ebola outbreak has passed 5,000 deaths, the deadliest on record, while the Gulf adds another shipping mystery with a Qatari LNG carrier struck by 'unidentified objects.' Washington is passing letters and Qatari mediators to Tehran, but Trump says he's 'in no hurry,' which is not quite the same as peace. Meanwhile malware now uses LLMs to work out which victims are worth the most.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "An AI agent chose and injected a gene therapy into a live mouse's brain, and infostealers now use LLMs to triage and 'autodox' their victims."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "Two days before the midterms, a judge had to order the administration to stop threatening election officials, while $637 million in pop-up super PAC money floods the races."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Strikes on Iran could resume as Qatar shuttles between the two sides, a Qatari LNG carrier was hit in the Gulf, and cost-of-living riots spread across Germany and France."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Chatbots are leading hikers into danger and Anthropic is clamping down on users near large-model training, showing safety guardrails still being improvised in real time."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "high",
+          "detail": "With over 10,000 Ebola cases in DR Congo, plus a CVSS 9.8 Linux TCP flaw on the side, nature and kernel code are both acting up."
+        }
+      ],
+      "mood": [
+        "feverish",
+        "uneasy",
+        "waiting",
+        "brittle",
+        "overcast"
+      ],
+      "tier": 6,
+      "tier_name": "Threat Level",
+      "card_image": "doom-card-2026-11-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A weather-dominated dusk scene on a red laterite road at the edge of a village in Ituri province, north-east DR Congo, where a heavy tropical storm fills the sky. Towering black cumulonimbus roll over the green hills, and curtains of slanting rain and low drifting mist blur the banana groves and tin-roofed mud-brick houses into dark silhouettes. A glowing blood-orange seam of dying light burns along the horizon and reflects off the rain-slicked road in long rust-colored puddles. The palette is blood orange and deep black, lit from below as if by volcanic embers, with the cool tones almost entirely extinguished. In the center of the muddy road sits the burned-out shell of a white ambulance, its blackened frame still smoldering. A scorched Red Cross emblem is faintly visible on the charred door, and thick black smoke twists up into the rain, lit orange from beneath by the embers. Beside the wreck stand three whole figures in white Tyvek coveralls, hoods and face shields, their suits streaked with mud and glowing orange in the firelight. They stand close together, one with a chlorine backpack sprayer, facing the ruin. In the foreground, at the doorway of a mud-brick house, a yellow plastic handwashing bucket with a tap stands on a wooden stool in the downpour. Farther back, a line of villagers in worn T-shirts watch from beneath banana leaves and tarps, small dark silhouettes whose faces are hidden by the rain and gloom. At the far end of the road, an orange plastic fence and the tents of an Ebola treatment centre glow dimly through the mist. A long row of white sealed body bags lies under a tarp at the roadside, reflecting the orange light. The mood is dread, exhaustion and mistrust, with rain-streaked pixel dithering across the sky.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The three figures in white suits are slightly blurry, and their faces and hoods are hard to read, but they still look like three separate people.",
+          "The burned ambulance is dark and its outline blends into the background. Its frame looks skeletal, and the Red Cross door is the only clear detail. It reads as a wreck, though the shape is a little muddled.",
+          "The body bags on the right are hard to identify. They look like pale lumps or sandbags along the roadside, and the tarp is not clear.",
+          "The villagers in the distance and the treatment-centre tents are dim and indistinct, which fits the gloom.",
+          "The yellow bucket has a small reddish mark where the tap should be, and its stool is dark. The mark may be read as a cross or a tap, but it is not distinct."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 40.2,
+      "driver": "How one family gave a critical boost to gene therapy research. A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
+      "category": "Medicine",
+      "blurb": "FAMILY-FUNDED GENE THERAPY WINS FDA APPROVAL",
+      "summary": "One family set out to raise money for research into Sanfilippo syndrome, a rare childhood disease. They raised millions, and the FDA has now approved a gene therapy their support helped bring to life. In the southern Philippines, a newly seated local government marks a milestone in a long peace process. And an Italian farmer who planted mystery seeds from his attic got a harvest worth writing home about.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Physicists recreated the primordial matter of the early universe by colliding oxygen nuclei, showing it can form in smaller collisions than anyone had demonstrated."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "A new local government has taken its seat in the southern Philippines, a milestone for a peace process generations in the making."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A family's years of fundraising helped carry a gene therapy for Sanfilippo syndrome all the way to FDA approval."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Scientists found that trees use specialized wood like opposing muscles to straighten their trunks, a discovery that could lead to sturdier forests and crops."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "An Italian farmer planted unknown seeds he found in his attic, and they grew into something remarkable."
+        }
+      ],
+      "mood": [
+        "grateful",
+        "determined",
+        "hopeful",
+        "generous",
+        "curious"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has a wire-service headline that fits the directive's form and avoids the recent cards' tics: it doesn't use the overused 'Elsewhere' transition or the 'a treatment people can reach' line that Candidates 2 and 3 echo from the Oct 31 and Oct 7 cards, and it stays strictly on good news.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 5,
+      "tier_name": "Bright Spot",
+      "card_image": "dawn-card-2026-11-01.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame, in clear balanced golden-yellow and fresh green daylight with confident, steady warmth. The setting is only implied by reflections in glass: a curved mason-jar surface mirrors a sunlit green backyard lawn, a weathered wooden fence, and a warm golden sky, all stretched into soft pixel-banded highlights along the glass. The jar is a family donation jar packed with copper, silver, and gold coins in layered, glinting pixel clusters. A strip of masking tape on the glass carries a child's crayon drawing of a yellow sun and a small green heart, with no letters. From the center of the coins, a fresh green seedling bursts upward through a punched slot in the metal lid, which is slightly bent and cracked open by its push. The sprout's two bright leaves unfurl toward the light. A thin tendril of luminous gold curls from its stem in a double-helix twist, with one glowing teal-gold rung freshly mended. A dewdrop on the nearest leaf is faceted like a tiny twenty-sided capsid and catches a bright pixel sparkle. Rich, saturated lime and emerald greens, honey-gold coin highlights, and crisp dithered shadows in deep olive. The mood is tender and earned, a small gift growing into something alive.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The lid is drawn as a stack of thick gold coin-like discs rather than a plain metal jar lid, so it reads a little oddly as a lid. The cracked slot where the sprout pushes through is still readable.",
+          "The double-helix gold tendril is intertwined with the stems at the top and has a teal rung that floats a bit. It reads as a stylized DNA twist, which suits the symbolic art.",
+          "The reflections of the fence and lawn in the glass are loosely drawn and the left and right sides don't quite match. This is acceptable for glass reflections.",
+          "The dewdrop on the left leaf is a round green orb with a sparkle rather than clearly faceted. It looks like a gem or eye, but it is not distracting.",
+          "The tape label is a flat cardboard-colored strip rather than obvious masking tape. The sun and heart drawings are clear and carry no text."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 183248,
+        "output_tokens": 23263,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 14930,
+        "output_tokens": 8216,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.3103
+    }
   }
 ]
