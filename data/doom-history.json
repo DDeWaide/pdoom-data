@@ -29966,5 +29966,401 @@
       },
       "estimated_usd": 1.3103
     }
+  },
+  {
+    "date": "2026-11-02",
+    "generated_at": "2026-11-02T10:44:00.685543+00:00",
+    "prompt_version": "v3",
+    "doom": {
+      "percentage": 62.5,
+      "raw_percentage": 56.8,
+      "blind_scores": [
+        56.4,
+        56.4,
+        56.7,
+        57.4,
+        57.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.51,
+        "min": 56.4,
+        "max": 57.4,
+        "se": 0.38
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 56.7,
+        "2": 57.4,
+        "3": 56.4,
+        "4": 56.4,
+        "5": 57.4
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 leads with a real, fresh cyber story and wears the dry-understatement directive best ('plenty of time to ruin a city's Sunday'), while Candidate 3 recycles the 'politely after the votes are counted' joke from 10-23 and Candidate 2 leans on recent-card tics like 'which tells you' and the ",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 24.3,
+            "scores": [
+              22.0,
+              22.0,
+              24.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Alignment": {
+            "value": 17.0,
+            "scores": [
+              17.0,
+              17.0,
+              17.0,
+              17.0,
+              17.0
+            ]
+          },
+          "Governance": {
+            "value": 19.0,
+            "scores": [
+              19.0,
+              19.0,
+              19.0,
+              19.0,
+              19.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 61.7,
+            "scores": [
+              61.0,
+              61.0,
+              62.0,
+              62.0,
+              63.0
+            ]
+          },
+          "Nuclear": {
+            "value": 17.7,
+            "scores": [
+              14.0,
+              16.0,
+              16.0,
+              21.0,
+              23.0
+            ]
+          },
+          "Biotech": {
+            "value": 13.3,
+            "scores": [
+              13.0,
+              13.0,
+              13.0,
+              14.0,
+              14.0
+            ]
+          },
+          "Cyber": {
+            "value": 44.0,
+            "scores": [
+              41.0,
+              41.0,
+              44.0,
+              47.0,
+              47.0
+            ]
+          },
+          "Climate": {
+            "value": 19.0,
+            "scores": [
+              16.0,
+              19.0,
+              19.0,
+              19.0,
+              19.0
+            ]
+          },
+          "Wild Card": {
+            "value": 27.0,
+            "scores": [
+              26.0,
+              26.0,
+              27.0,
+              28.0,
+              29.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 64.9,
+            "sd": 0.96,
+            "se": 0.38,
+            "scores": [
+              63.8,
+              64.3,
+              65.0,
+              65.3,
+              66.3
+            ]
+          },
+          "power": {
+            "value": 38.5,
+            "sd": 0.85,
+            "se": 0.35,
+            "scores": [
+              37.5,
+              38.1,
+              38.3,
+              39.0,
+              39.7
+            ]
+          },
+          "mean": {
+            "value": 27.2,
+            "sd": 0.83,
+            "se": 0.39,
+            "scores": [
+              25.8,
+              26.6,
+              27.4,
+              27.6,
+              27.8
+            ]
+          },
+          "max": {
+            "value": 61.7,
+            "sd": 0.84,
+            "se": 0.41,
+            "scores": [
+              61.0,
+              61.0,
+              62.0,
+              62.0,
+              63.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 0.8,
+        "method": "max_breadth",
+        "legacy": 56.8,
+        "composite": 64.9,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 63.3,
+        "se": 0.31,
+        "mode": "blend",
+        "scorer": "legacy",
+        "rebase": {
+          "from": 0.6,
+          "to": 0.8,
+          "gap": 10.6,
+          "gap_source": "recent",
+          "shift": 2.13
+        }
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 9.12,
+        "K": 0.448,
+        "shock_p": 0.031,
+        "innovation": 1.4,
+        "prev": 59.8,
+        "noise_sd": 4.51,
+        "mode": "adaptive",
+        "shift": 2.13
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Ukraine says air alert system hacked after false radiation warning in Kyiv. Ukraine's Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
+      "category": "Cyber",
+      "blurb": "AN HOUR OF IMAGINARY FALLOUT IN KYIV",
+      "summary": "Somebody hijacked Kyiv's air alert system and announced a radiation leak and a chemical attack. Authorities cleared it up in under an hour, which is plenty of time to ruin a city's Sunday. Meanwhile, Washington and Tehran are reportedly both readying strikes for after Tuesday's midterms while Qatar works the phones, Iran's ghost tankers slip past the blockade, and Ryanair has started pricing the war into next year's fares.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "A team of five open Qwen models beating a frontier system on hard coding benchmarks, plus Terry Tao declaring that mathematics has changed, suggests capability is spreading faster than anyone is governing it."
+        },
+        {
+          "name": "Governance",
+          "signal": "elevated",
+          "detail": "The midterms land tomorrow with violent cost-of-living protests in Germany and France, and a war timetable that reportedly waits on the vote count."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The US-Israel war with Iran grinds on under a naval blockade, with both sides preparing post-election strikes, while fighting continues in Ukraine, Yemen, and Gaza."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Hundreds of ordinary-looking AI apps hiding abusive deepfake features, and lawyers sanctioned for prompt-injecting a court, show misuse moving faster than safeguards."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "elevated",
+          "detail": "Spoofed nuclear alerts in a war zone, North Korea's record Binance heist still draining billions, Sudan nearing famine, and anthrax killing hippos in Virunga make for a crowded margin."
+        }
+      ],
+      "mood": [
+        "jittery",
+        "spoofed",
+        "pre-election",
+        "oil-soaked",
+        "uneasy"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A late-autumn night in Kyiv during a partial blackout, seen from inside a darkened Soviet-era apartment on the Left Bank. The camera stands deep in the room, looking toward a tall balcony window. The sealed window frames a vast skyline of dark Troieshchyna-style panel high-rises, black slabs with only a few scattered amber windows. Beyond them, low overcast cloud and mist rolling off the Dnipro glow a hellish deep red, as if lit from below, and the whole sky burns crimson against near-black. Everything in the room is rendered as hard black silhouette against this blood-red glow. In the foreground, a woman in a long wool coat and scarf stands whole and rigid at the window, one arm pulling a small child in a puffer jacket against her side. Both are in full silhouette, their heads turned toward the glass. A thin rim of red light traces their shoulders and hair. On the window sill, a lone smartphone throws a cold blue-white glare upward, with a pixel-glitched red banner fragmenting across its screen and a faint yellow-black radiation trefoil, the only non-red color accent. Strips of masking tape cross the window panes in an X pattern, and a taped-over gap lines the balcony door. A candle stub in a saucer, a power bank with a dangling cable, and a plastic jug of water sit on a small table beside them as black shapes. Far below, a silent rooftop siren horn on a pole stands dark against the red haze. Extreme contrast, suffocating darkness, crushed blacks, dithered crimson gradients in the sky, and a stark sense of quiet dread.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The woman and child merge into one large black silhouette, so the child reads as a small bump on her left side. This is acceptable for a silhouette.",
+          "A faint orange rim light on the left edge of the frame, near x=80-110, y=600-680, suggests a shape such as a chair or another figure, but it is unclear.",
+          "The masking-tape X pattern is drawn as thin dark diagonal lines that fade into the window frame, so it reads weakly.",
+          "The table items (candle, power bank, water jug) are lost in the black and not visible.",
+          "The phone screen is a tiny blue-framed rectangle with a barely readable glitch banner and trefoil. It is small, but it works as the intended accent.",
+          "The siren horn on its pole is visible and reads clearly."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 37.5,
+      "driver": "Ancient ape fossil in Egypt could rewrite the story of human origins. A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolution.",
+      "category": "Discovery",
+      "blurb": "EGYPTIAN APE FOSSIL REDRAWS OUR FAMILY TREE",
+      "summary": "A 17- to 18-million-year-old ape unearthed in Egypt is pointing scientists toward North Africa and the Middle East as a possible cradle of modern ape evolution, a fresh chapter in the oldest story we tell about ourselves. At the opposite end of the size scale, researchers rebuilt Archimedes' screw as a single molecule that spins on command and boosts electrical conductivity up to a hundredfold. And on the track, 20-year-old Kimi Antonelli is savoring his reign as Formula 1's youngest-ever world champion.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A 2,000-year-old invention went molecular as scientists built an electrically driven screw motor that can spin either way and multiply conductivity up to 100 times."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Colleges are reworking admissions into an open, friendly process, swapping secrecy and stress for a warmer welcome to prospective students."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Kimi Antonelli became F1's youngest world champion at 20, and the New York City Marathon crowned Sweden's Andreas Almgren and two-time winner Shelia Chepkirui in thrilling finishes."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New Great Barrier Reef research finds crown-of-thorns starfish in balanced numbers may actually help coral reefs thrive."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Norway's architect-designed restrooms along its Scenic Routes delighted hundreds of readers as proof that even a roadside stop can be a work of art."
+        }
+      ],
+      "mood": [
+        "wonder",
+        "curiosity",
+        "awe",
+        "momentum",
+        "delight"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 2 is out for its bad-news hit, and between the rest, 'EGYPTIAN APE FOSSIL REDRAWS OUR FAMILY TREE' best fits today's big front-page-triumph form with one strong verb, names a major discovery that hasn't featured on recent cards, and adds a sharp line about 'the oldest story we tell about o",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-02.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on a narrow, quiet street in the old quarter of Mansoura, Egypt, seen from across the dusty pavement. Deep blue-black shadows fill most of the frame. All light comes from artificial sources: one amber streetlamp on a bent pole, a string of bare warm bulbs, and the soft green glow of a television. Pale plaster walls and shuttered shopfronts fade into darkness above, with a few dim apartment balconies hung with laundry. Pools of warm amber light spill across the cracked pavement.\n\nOn the left, a small corner newsstand kiosk is lit by its bulb string. Newspapers and magazines are clipped in rows across its front, and every front page shows the same picture: a dark mineral-stained ape jawbone with big canines, set against a rich green Miocene forest. A fruit-laden tree and a sturdy ape reaching for an orange fruit are drawn in the page's inset.\n\nAt center, a tiny tea-house window glows with a chunky old CRT television. Its screen shows a stylized map of Africa and the Middle East in soft green. A bright amber arrow curves away from East Africa and lands on northern Egypt, with a pulsing dot. Green light spills across a few empty tea glasses and a chess board on the sill.\n\nOn the right, a peeling paper poster pasted on a brick wall shows an ape family tree of gibbon, orangutan, gorilla, chimp and human silhouettes. One branch has a puzzle-piece gap shaped like a jaw, glowing honey gold as if freshly filled, and its light touches the bricks around it.\n\nIn the foreground, a small child in a school uniform and backpack stands whole and seen from behind in the amber pool of the streetlamp. The child gazes up at the TV, and a stray cat sits beside them. Their long shadows stretch toward the viewer. The mood is quiet wonder, and clarity arrives as warm amber and soft green against the dark.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The newspaper pages on the kiosk show tiny, illegible squiggles standing in for text. They read as texture at phone size.",
+          "The jawbone on the front pages is vague and looks more like a dark bird or animal in a nest/bowl than an ape jaw. The same image repeats on every page, as the prompt asked.",
+          "The cat is a small, dark, blobby silhouette with a hard-to-read shape, and its shadow merges with the child's shadow on the pavement.",
+          "The family-tree poster is simple and the puzzle-piece gap glows gold. The jaw in the gap is hard to read, and the ape silhouettes are small.",
+          "The TV map of Africa is stylized and a little muddy. The amber arrow and dot are faint and the arrow does not clearly curve from East Africa to Egypt.",
+          "The tea glasses and chess board on the sill are tiny and indistinct in the green glow.",
+          "The child's shadows fall toward the viewer as requested, but they look slightly doubled or offset, as if cast by two lights."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 15,
+        "input_tokens": 182469,
+        "output_tokens": 24331,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17280,
+        "output_tokens": 8130,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.3324
+    }
   }
 ]
