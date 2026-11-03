@@ -30900,5 +30900,404 @@
       },
       "estimated_usd": 1.3324
     }
+  },
+  {
+    "date": "2026-11-03",
+    "generated_at": "2026-11-03T10:43:13.554908+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 66.8,
+      "raw_percentage": 68.3,
+      "blind_scores": [
+        67.2,
+        67.6,
+        67.9,
+        69.3,
+        70.2
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.26,
+        "min": 67.2,
+        "max": 70.2,
+        "se": 0.66
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 69.3,
+        "2": 67.6,
+        "3": 67.2,
+        "4": 70.2,
+        "5": 67.9
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 4,
+            "medium": 1
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 4,
+            "medium": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "It wears the sports-desk directive most convincingly ('EARLY GOAL AT QESHM, POLLS STILL WARMING UP'), and its freezer-hack joke avoids repeating the recent 'someone/hackers turned supermarket fridges into ovens' shape. It also lands a specific, fresh AI-desk kicker instead of a generic sign-off.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 26.7,
+            "scores": [
+              23.0,
+              26.0,
+              27.0,
+              27.0,
+              31.0
+            ]
+          },
+          "Alignment": {
+            "value": 18.3,
+            "scores": [
+              16.0,
+              17.0,
+              19.0,
+              19.0,
+              21.0
+            ]
+          },
+          "Governance": {
+            "value": 23.0,
+            "scores": [
+              21.0,
+              23.0,
+              23.0,
+              23.0,
+              27.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 64.7,
+            "scores": [
+              64.0,
+              64.0,
+              64.0,
+              66.0,
+              66.0
+            ]
+          },
+          "Nuclear": {
+            "value": 13.7,
+            "scores": [
+              11.0,
+              13.0,
+              14.0,
+              14.0,
+              17.0
+            ]
+          },
+          "Biotech": {
+            "value": 23.7,
+            "scores": [
+              21.0,
+              22.0,
+              23.0,
+              26.0,
+              29.0
+            ]
+          },
+          "Cyber": {
+            "value": 46.7,
+            "scores": [
+              41.0,
+              46.0,
+              47.0,
+              47.0,
+              54.0
+            ]
+          },
+          "Climate": {
+            "value": 26.0,
+            "scores": [
+              26.0,
+              26.0,
+              26.0,
+              26.0,
+              27.0
+            ]
+          },
+          "Wild Card": {
+            "value": 17.0,
+            "scores": [
+              15.0,
+              15.0,
+              17.0,
+              19.0,
+              21.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 68.3,
+            "sd": 1.26,
+            "se": 0.66,
+            "scores": [
+              67.2,
+              67.6,
+              67.9,
+              69.3,
+              70.2
+            ]
+          },
+          "power": {
+            "value": 40.4,
+            "sd": 1.41,
+            "se": 0.31,
+            "scores": [
+              39.1,
+              40.1,
+              40.3,
+              40.9,
+              42.9
+            ]
+          },
+          "mean": {
+            "value": 28.9,
+            "sd": 1.56,
+            "se": 0.72,
+            "scores": [
+              27.4,
+              28.1,
+              28.7,
+              30.0,
+              31.3
+            ]
+          },
+          "max": {
+            "value": 64.7,
+            "sd": 1.1,
+            "se": 0.82,
+            "scores": [
+              64.0,
+              64.0,
+              64.0,
+              66.0,
+              66.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 68.3,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 68.3,
+        "se": 0.66,
+        "mode": "factors",
+        "scorer": "factors",
+        "rebase": {
+          "from": 0.8,
+          "to": 1.0,
+          "gap": 10.6,
+          "gap_source": "recent",
+          "shift": 2.13
+        }
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 12.46,
+        "K": 0.602,
+        "shock_p": 0.074,
+        "innovation": 3.7,
+        "prev": 62.5,
+        "noise_sd": 4.55,
+        "mode": "adaptive",
+        "shift": 2.13
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "US strikes Iranian island ahead of midterm elections. US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "category": "Geopolitics",
+      "blurb": "EARLY GOAL AT QESHM, POLLS STILL WARMING UP",
+      "summary": "Washington called its Qeshm Island strike 'limited and defensive,' and Trump called the whole thing a 'soft war,' which is a lovely phrase if you aren't a Gulf state bracing for the post-midterm encore. Meanwhile Russian glide bombs flattened a Ukrainian aid centre, and someone in Europe discovered that the scariest ransomware payload is 50-degree ice cream. On the AI desk, a hobbyist taught a model to rewrite another model's brain, and Hacker News handed it 2,500 upvotes.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Weight-space programming on Qwen and Anthropic's $895B in commitments show the field is still accelerating."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Regulators are being urged to block an IPO while the White House runs a 'Super Intelligence' naming loyalty test."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "U.S. strikes on Iranian soil and a deadly Russian bombing of an aid centre make this an active two-war day."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Chatbots misadvising voters on Election Day is sloppy and concerning, but nothing has gone rogue."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A tense midterm with court fights and ICE raids is turbulent politics, not chaos."
+        }
+      ],
+      "mood": [
+        "tense",
+        "volatile",
+        "defrosting",
+        "brinkish",
+        "electoral"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A ground-level, steep low-angle view looking up from the cracked concrete quay of Bandar Abbas port at night, the mainland city that depends on Qeshm Island across the Clarence Strait. Above the camera, a huge gantry crane rises like a black skeleton against a suffocating sky of near-black smoke and deep red cloud. The whole sky glows hellish crimson from a faint fire far across the water, and a low red haze rolls beneath the clouds. The palette is deep red and near-black, with extreme contrast and no daylight blue. In the foreground, a long row of stacked shipping containers towers overhead, their corrugated sides and rust streaks lit blood-red from below by a ground-level glow. They stand untouched and idle, with chains hanging slack from the crane spreader. A single sealed port gate of steel mesh stands closed in the middle distance. Beyond it, a line of about a dozen dock workers in hard hats and orange vests stands whole and still, silhouetted and facing the gate. A few wooden dhows are tied up in a row, motionless, with their masts pointing up into the red murk. Beyond the quay, the tall hull of a rust-red supertanker sits dark and lightless at anchor, with no cargo moving. At the far edge, across the black water, the low ridge of Qeshm Island is a thin jagged line under a smear of smoke, small and distant. A broken sodium light flickers on a pole at the edge of the frame. The scene shows a stalled harbor, with the blockade's second-order effect of idle cranes, a shut gate and waiting workers.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The dock workers in hard hats and orange vests that the prompt asked for are not visible. The scene reads as empty, but nothing looks broken.",
+          "The gantry crane is a dark, hard-to-read mass. Its legs and the hanging spreader blend into the black, so the structure is a little ambiguous.",
+          "The dhow masts on the right and the thin vertical streaks near the lamp pole are vague. They look like rain or rigging and are hard to identify.",
+          "The supertanker is a low, murky silhouette, not the 'tall hull' described, and it merges into the dark water.",
+          "The mesh gate or railing in the middle distance is mostly lost in shadow, and its checkered pattern is noisy.",
+          "The image is very dark overall, so much of the detail is hard to read on a phone screen. This comes from the color grade and is acceptable."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-03.png"
+    },
+    "dawn": {
+      "percentage": 33.2,
+      "driver": "Fossilised red blood cells found in 115m-year-old dinosaur\u2019s bone, say scientists. Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around bodyIt could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule tha",
+      "category": "Discovery",
+      "blurb": "AFTER 115 MILLION YEARS, THE BLOOD REMAINS",
+      "summary": "Inside a sliver of leg bone from an Aratasaurus found in Brazil, scientists have found abundant red blood cells preserved in three dimensions, along with traces of heme, the very molecule that once carried oxygen through a living dinosaur. It is a rare, intimate look at the animal itself rather than just its skeleton. Elsewhere, NASA's Perseverance rover rolled past 28 miles to drive farther than any vehicle has on another world, and students at Howell High School filled their football field with more than a quarter million pounds of donated food.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Chemical tests on a 115-million-year-old Aratasaurus bone revealed fossilized red blood cells and heme in stunning detail, opening a new window onto dinosaur biology."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Howell High School students and volunteers gathered over 250,000 pounds of food for the nonprofit Dermer Dreams in their 100-Yard Food Drive Challenge."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Two decades after receiving a bone marrow transplant from her sister, Kate Stevens ran a marathon alongside her."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Nations have adopted a new action plan aimed at meeting the 2030 targets for protecting nature."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Using autonomous navigation, NASA's Perseverance rover has traveled 28.10 miles across Mars, the longest drive ever made on another world."
+        }
+      ],
+      "mood": [
+        "awestruck",
+        "curious",
+        "generous",
+        "adventurous",
+        "wondrous"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidates 1 and 3 lead with Perseverance's distance record, which the Oct 22 card already ran, while Candidate 2 leads with the fresh dinosaur blood-cell discovery under a grand, marveling headline ('AFTER 115 MILLION YEARS, THE BLOOD REMAINS') that fits today's newsreel-wonder directive.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-03.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a small whitewashed field-station hut at the edge of a limestone quarry in the Araripe region of north-eastern Brazil, on the quiet morning after the discovery news. We look from the dim back of the room toward a wide open doorway and a shuttered window. Clean, soft amber morning light pours across a worn plank floor, and the shadows in the room are lifting. Through the doorway, terraced pale limestone quarry walls step down into the pit, ringed by soft green caatinga scrub and a few palms. Low golden mist drifts over the quarry floor. In the mist, one faint, ghostly outline of a small two-legged, meat-eating theropod walks across the far terrace, hinting at *Aratasaurus* without dominating the view. Inside the hut, a long wooden workbench in the foreground holds a fossil hind-limb bone resting open in a foam-lined crate, ivory with dark manganese-brown flecks. Beside it, a rock hammer, soft brushes, and a hand lens are laid neatly in a row. A single printed electron-microscope image is pinned to the plank wall. It shows tiny concave, doughnut-like crimson discs inside a narrow channel, with no text, and it is the one strong crimson accent in the room. An enamel coffee pot and two empty tin cups sit on a shelf. A straw broom leans by the doorframe, and the swept doorstep still shows fine dust. One lone field technician in a wide straw hat and work shirt stands whole in the doorway, seen from behind and silhouetted in amber light, holding a mug and gazing out at the misty quarry. The mood is calm, curious, and unresolved, with clarity arriving. Palette: warm amber, soft sage and moss green, bone ivory, with a touch of crimson.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The technician is seen from behind with his hands at his hips or sides, and the mug hand is partly hidden. Anatomy is hard to read but plausible.",
+          "The theropod in the mist is faint and a bit ambiguous, so it could be read as a small bird-like animal. This fits the 'ghostly' brief.",
+          "The pinned microscope image shows a red band with clustered red blobs rather than clear doughnut-shaped discs. It reads as abstract, but it works as the crimson accent.",
+          "The broom handle and a second stick lean by the window instead of the doorframe, and they overlap the shutter slightly. This is a small layout oddity.",
+          "The bone sits in a white tray that looks more like a shallow box than a foam-lined crate. The tools on the bench are slightly ambiguous, and the third tool looks like a pick or chisel with a brown blob on top.",
+          "The quarry terraces are heavily hazed and blur together. This reads as mist."
+        ]
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-03.png"
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 147283,
+        "output_tokens": 16989,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 15935,
+        "output_tokens": 7422,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.035
+    }
   }
 ]
