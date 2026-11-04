@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T10:43:13.554908+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:43:07.857320+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 66.8,
-    "raw_percentage": 68.3,
+    "percentage": 65.9,
+    "raw_percentage": 64.6,
     "blind_scores": [
-      67.2,
-      67.6,
-      67.9,
-      69.3,
-      70.2
+      60.9,
+      63.8,
+      63.8,
+      66.1,
+      66.5
     ],
     "spread": {
       "n": 5,
-      "sd": 1.26,
-      "min": 67.2,
-      "max": 70.2,
-      "se": 0.66
+      "sd": 2.24,
+      "min": 60.9,
+      "max": 66.5,
+      "se": 0.94
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 69.3,
-      "2": 67.6,
-      "3": 67.2,
-      "4": 70.2,
-      "5": 67.9
+      "1": 63.8,
+      "2": 63.8,
+      "3": 66.1,
+      "4": 66.5,
+      "5": 60.9
     },
     "factor_consensus": {
       "AI Capability": {
@@ -37,27 +37,29 @@
       "Governance": {
         "signal": "medium",
         "votes": {
-          "medium": 5
+          "medium": 4,
+          "low": 1
         }
       },
       "Geopolitics": {
         "signal": "high",
         "votes": {
-          "high": 5
+          "high": 4,
+          "elevated": 1
         }
       },
       "Alignment": {
         "signal": "low",
         "votes": {
-          "low": 4,
-          "medium": 1
+          "medium": 2,
+          "low": 3
         }
       },
       "Wild Card": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "low": 4,
-          "medium": 1
+          "low": 2,
+          "medium": 3
         }
       }
     },
@@ -66,7 +68,7 @@
       "candidates": 3,
       "lookback_days": 30,
       "pick": 2,
-      "why": "It wears the sports-desk directive most convincingly ('EARLY GOAL AT QESHM, POLLS STILL WARMING UP'), and its freezer-hack joke avoids repeating the recent 'someone/hackers turned supermarket fridges into ovens' shape. It also lands a specific, fresh AI-desk kicker instead of a generic sign-off.",
+      "why": "Its headline 'MISSILES FALL ON THE AID LINE' best fits the wire-service deadpan with one verb and no adjectives, and its summary stays tight, specific and witty ('the war hasn't been told yet') without recycling stale items like Candidate 3's Binance heist or its two-verb headline.",
       "fallback": false
     },
     "shadow": {
@@ -74,143 +76,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 26.7,
+          "value": 22.0,
           "scores": [
-            23.0,
-            26.0,
-            27.0,
-            27.0,
-            31.0
+            22.0,
+            22.0,
+            22.0,
+            22.0,
+            23.0
           ]
         },
         "Alignment": {
-          "value": 18.3,
+          "value": 19.3,
           "scores": [
-            16.0,
             17.0,
             19.0,
             19.0,
+            20.0,
             21.0
           ]
         },
         "Governance": {
-          "value": 23.0,
+          "value": 26.7,
           "scores": [
-            21.0,
-            23.0,
-            23.0,
-            23.0,
+            19.0,
+            26.0,
+            27.0,
+            27.0,
             27.0
           ]
         },
         "Geopolitics": {
-          "value": 64.7,
+          "value": 61.7,
           "scores": [
-            64.0,
-            64.0,
-            64.0,
-            66.0,
-            66.0
+            58.0,
+            61.0,
+            61.0,
+            63.0,
+            64.0
           ]
         },
         "Nuclear": {
-          "value": 13.7,
+          "value": 14.0,
           "scores": [
-            11.0,
             13.0,
             14.0,
             14.0,
-            17.0
+            14.0,
+            16.0
           ]
         },
         "Biotech": {
-          "value": 23.7,
+          "value": 22.0,
           "scores": [
+            21.0,
             21.0,
             22.0,
             23.0,
-            26.0,
-            29.0
+            24.0
           ]
         },
         "Cyber": {
-          "value": 46.7,
+          "value": 32.3,
           "scores": [
-            41.0,
-            46.0,
-            47.0,
-            47.0,
-            54.0
+            31.0,
+            31.0,
+            33.0,
+            33.0,
+            34.0
           ]
         },
         "Climate": {
-          "value": 26.0,
+          "value": 15.0,
           "scores": [
-            26.0,
-            26.0,
-            26.0,
-            26.0,
-            27.0
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0
           ]
         },
         "Wild Card": {
-          "value": 17.0,
+          "value": 20.3,
           "scores": [
             15.0,
-            15.0,
             17.0,
-            19.0,
-            21.0
+            21.0,
+            23.0,
+            23.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 68.3,
-          "sd": 1.26,
-          "se": 0.66,
+          "value": 64.6,
+          "sd": 2.24,
+          "se": 0.94,
           "scores": [
-            67.2,
-            67.6,
-            67.9,
-            69.3,
-            70.2
+            60.9,
+            63.8,
+            63.8,
+            66.1,
+            66.5
           ]
         },
         "power": {
-          "value": 40.4,
-          "sd": 1.41,
-          "se": 0.31,
+          "value": 37.1,
+          "sd": 1.11,
+          "se": 0.52,
           "scores": [
-            39.1,
-            40.1,
-            40.3,
-            40.9,
-            42.9
+            35.3,
+            36.6,
+            36.7,
+            37.9,
+            38.0
           ]
         },
         "mean": {
-          "value": 28.9,
-          "sd": 1.56,
-          "se": 0.72,
+          "value": 25.7,
+          "sd": 0.68,
+          "se": 0.07,
           "scores": [
-            27.4,
-            28.1,
-            28.7,
-            30.0,
-            31.3
+            24.9,
+            25.6,
+            25.7,
+            25.8,
+            26.8
           ]
         },
         "max": {
-          "value": 64.7,
-          "sd": 1.1,
+          "value": 61.7,
+          "sd": 2.3,
           "se": 0.82,
           "scores": [
-            64.0,
-            64.0,
-            64.0,
-            66.0,
-            66.0
+            58.0,
+            61.0,
+            61.0,
+            63.0,
+            64.0
           ]
         }
       },
@@ -220,76 +222,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 68.3,
+      "composite": 64.6,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 68.3,
-      "se": 0.66,
+      "input": 64.6,
+      "se": 0.94,
       "mode": "factors",
-      "scorer": "factors",
-      "rebase": {
-        "from": 0.8,
-        "to": 1.0,
-        "gap": 10.6,
-        "gap_source": "recent",
-        "shift": 2.13
-      }
+      "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 12.46,
-      "K": 0.602,
-      "shock_p": 0.074,
-      "innovation": 3.7,
-      "prev": 62.5,
-      "noise_sd": 4.55,
-      "mode": "adaptive",
-      "shift": 2.13
+      "P": 8.99,
+      "K": 0.425,
+      "shock_p": 0.008,
+      "innovation": -2.2,
+      "prev": 66.8,
+      "noise_sd": 4.6,
+      "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "US strikes Iranian island ahead of midterm elections. US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "driver": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing. Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
     "category": "Geopolitics",
-    "blurb": "EARLY GOAL AT QESHM, POLLS STILL WARMING UP",
-    "summary": "Washington called its Qeshm Island strike 'limited and defensive,' and Trump called the whole thing a 'soft war,' which is a lovely phrase if you aren't a Gulf state bracing for the post-midterm encore. Meanwhile Russian glide bombs flattened a Ukrainian aid centre, and someone in Europe discovered that the scariest ransomware payload is 50-degree ice cream. On the AI desk, a hobbyist taught a model to rewrite another model's brain, and Hacker News handed it 2,500 upvotes.",
+    "blurb": "MISSILES FALL ON THE AID LINE",
+    "summary": "While America spent the night refreshing electoral maps, Moscow timed 365 drones and missiles to the returns and hit an aid site, leaving 29 dead and 48 missing. Tehran's speaker cheered the 'NO TO WAR' vote, but the war hasn't been told yet. Meanwhile, OpenAI quietly re-ticked your data-sharing box, and a bootkit learned to walk straight past Secure Boot.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Weight-space programming on Qwen and Anthropic's $895B in commitments show the field is still accelerating."
+        "detail": "A 27B model reading weights on a laptop and Siri taking the controls of every app add up to a real step forward."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Regulators are being urged to block an IPO while the White House runs a 'Super Intelligence' naming loyalty test."
+        "detail": "Voters restored the checks and balances, while the DOJ sent target letters and Google held school search hostage to Gemini."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "U.S. strikes on Iranian soil and a deadly Russian bombing of an aid centre make this an active two-war day."
+        "detail": "Russia's election-night barrage killed 29 people at an aid site as the US-Iran conflict hovers near a new escalation."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "Chatbots misadvising voters on Election Day is sloppy and concerning, but nothing has gone rogue."
+        "signal": "medium",
+        "detail": "Opt-outs quietly turning back into opt-ins at OpenAI and Postman show that consent is still treated as a default setting."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "A tense midterm with court fights and ICE raids is turbulent politics, not chaos."
+        "detail": "Bomb threats on seven European flights and a disputed shell in Papua New Guinea are worrying but not spreading."
       }
     ],
     "mood": [
-      "tense",
-      "volatile",
-      "defrosting",
-      "brinkish",
-      "electoral"
+      "grim",
+      "distracted",
+      "wary",
+      "split-screen"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A ground-level, steep low-angle view looking up from the cracked concrete quay of Bandar Abbas port at night, the mainland city that depends on Qeshm Island across the Clarence Strait. Above the camera, a huge gantry crane rises like a black skeleton against a suffocating sky of near-black smoke and deep red cloud. The whole sky glows hellish crimson from a faint fire far across the water, and a low red haze rolls beneath the clouds. The palette is deep red and near-black, with extreme contrast and no daylight blue. In the foreground, a long row of stacked shipping containers towers overhead, their corrugated sides and rust streaks lit blood-red from below by a ground-level glow. They stand untouched and idle, with chains hanging slack from the crane spreader. A single sealed port gate of steel mesh stands closed in the middle distance. Beyond it, a line of about a dozen dock workers in hard hats and orange vests stands whole and still, silhouetted and facing the gate. A few wooden dhows are tied up in a row, motionless, with their masts pointing up into the red murk. Beyond the quay, the tall hull of a rust-red supertanker sits dark and lightless at anchor, with no cargo moving. At the far edge, across the black water, the low ridge of Qeshm Island is a thin jagged line under a smear of smoke, small and distant. A broken sodium light flickers on a pole at the edge of the frame. The scene shows a stalled harbor, with the blockade's second-order effect of idle cranes, a shut gate and waiting workers.",
+    "card_image": "doom-card-2026-11-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over the flat black steppe of Zaporizhzhia Oblast at night, a vast ploughed field stretching to a horizon swallowed by smoke, with a thin line of bare windbreak trees and a ribbon of wet dirt road cutting across it. A hellish deep-red glow rises from below the frame and from cracks in the earth, lighting the underside of low smoke clouds in crimson against near-black. The central visual metaphor is a giant chessboard laid into the field, its squares formed by the furrows and frost-whitened patches. The board is mid-collapse: the near half has split and subsided into a glowing red crater, and the squares tilt and slide into it. Scattered across the board stand oversized chess pieces, mostly black pawns, a few toppled. One dark pawn rests at the crater's very lip, leaning over the edge. At the far side, a single lone white king stands untouched, small and pale against the darkness. Along the road, a few tiny rescuers in reflective-striped gear, each shown whole, stand in a loose line near the crater with a single stretcher, dwarfed by the scale. Embers drift upward in the red-black air. Extreme contrast, suffocating darkness, palette limited to deep crimson, blood red, ember orange touches, and black.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -298,69 +291,68 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The dock workers in hard hats and orange vests that the prompt asked for are not visible. The scene reads as empty, but nothing looks broken.",
-        "The gantry crane is a dark, hard-to-read mass. Its legs and the hanging spreader blend into the black, so the structure is a little ambiguous.",
-        "The dhow masts on the right and the thin vertical streaks near the lamp pole are vague. They look like rain or rigging and are hard to identify.",
-        "The supertanker is a low, murky silhouette, not the 'tall hull' described, and it merges into the dark water.",
-        "The mesh gate or railing in the middle distance is mostly lost in shadow, and its checkered pattern is noisy.",
-        "The image is very dark overall, so much of the detail is hard to read on a phone screen. This comes from the color grade and is acceptable."
+        "The scene is extremely dark. The rescuers and stretcher the prompt asked for can't be made out, and the toppled pawns are barely visible.",
+        "The crater reads as a pit of tilted dark diamond tiles, and its geometry is confusing. It is hard to tell which parts are board squares and which are debris.",
+        "A wood-grain diagonal band in the lower right, presumably the wet dirt road, looks more like a plank or beam than a road.",
+        "The lone white king on the far side is small and dim, and it reads more like a pale bishop or pawn silhouette.",
+        "Dark pawn silhouettes on the board are mostly lost in shadow, and the one at the crater lip is hard to distinguish."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-03.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-04.png"
   },
   "dawn": {
-    "percentage": 33.2,
-    "driver": "Fossilised red blood cells found in 115m-year-old dinosaur\u2019s bone, say scientists. Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around bodyIt could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule tha",
-    "category": "Discovery",
-    "blurb": "AFTER 115 MILLION YEARS, THE BLOOD REMAINS",
-    "summary": "Inside a sliver of leg bone from an Aratasaurus found in Brazil, scientists have found abundant red blood cells preserved in three dimensions, along with traces of heme, the very molecule that once carried oxygen through a living dinosaur. It is a rare, intimate look at the animal itself rather than just its skeleton. Elsewhere, NASA's Perseverance rover rolled past 28 miles to drive farther than any vehicle has on another world, and students at Howell High School filled their football field with more than a quarter million pounds of donated food.",
+    "percentage": 34.1,
+    "driver": "A 50-year-old mystery of vanishing frogs reveals a hidden killer. A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease",
+    "category": "Environment",
+    "blurb": "SLOWLY, BRAZIL'S FROGS COME HOME",
+    "summary": "Many of Brazil's frogs have come back. Scientists solving a half-century-old puzzle found that numerous populations recovered after a fungus swept through, apparently growing tougher against it, a reminder of how resourceful nature can be when given time. Out in space, samples from the asteroid Ryugu turned out to hold all five genetic letters of DNA and RNA, and Voyager 1 is nearly one full light-day from home, still sending word back nearly 50 years after launch.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "Chemical tests on a 115-million-year-old Aratasaurus bone revealed fossilized red blood cells and heme in stunning detail, opening a new window onto dinosaur biology."
+        "detail": "Researchers found all five nucleobases of DNA and RNA in pristine samples from the 4.5-billion-year-old asteroid Ryugu, adding to the evidence that life's building blocks were widespread in the early solar system."
       },
       {
         "name": "Cooperation",
         "signal": "bright",
-        "detail": "Howell High School students and volunteers gathered over 250,000 pounds of food for the nonprofit Dermer Dreams in their 100-Yard Food Drive Challenge."
+        "detail": "Brazil published the first global roadmap for phasing out coal, oil and gas, giving every country practical steps it can start on now."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Two decades after receiving a bone marrow transplant from her sister, Kate Stevens ran a marathon alongside her."
+        "detail": "Voters elected the nation's first Black woman governor and its first Native American woman governor, widening who gets to lead."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Nations have adopted a new action plan aimed at meeting the 2030 targets for protecting nature."
+        "signal": "blazing",
+        "detail": "Frog populations in Brazil have rebounded and appear to have built tolerance to a fungus that once overwhelmed them."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Using autonomous navigation, NASA's Perseverance rover has traveled 28.10 miles across Mars, the longest drive ever made on another world."
+        "detail": "Voyager 1 is about to become the first human-made object one light-day from Earth, its mission extended by a clever energy-saving maneuver."
       }
     ],
     "mood": [
-      "awestruck",
-      "curious",
-      "generous",
-      "adventurous",
-      "wondrous"
+      "resilient",
+      "wonder",
+      "renewal",
+      "hopeful",
+      "awe"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidates 1 and 3 lead with Perseverance's distance record, which the Oct 22 card already ran, while Candidate 2 leads with the fresh dinosaur blood-cell discovery under a grand, marveling headline ('AFTER 115 MILLION YEARS, THE BLOOD REMAINS') that fits today's newsreel-wonder directive.",
+      "pick": 3,
+      "why": "Candidate 3 is the freshest: it avoids the 'Farther out'/'Further out' transitions recycled from the Oct 29 and Oct 17 cards, keeps a quiet nature-documentary headline in the directive's form, and accurately says 'many' frogs came back rather than overclaiming.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-03.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a small whitewashed field-station hut at the edge of a limestone quarry in the Araripe region of north-eastern Brazil, on the quiet morning after the discovery news. We look from the dim back of the room toward a wide open doorway and a shuttered window. Clean, soft amber morning light pours across a worn plank floor, and the shadows in the room are lifting. Through the doorway, terraced pale limestone quarry walls step down into the pit, ringed by soft green caatinga scrub and a few palms. Low golden mist drifts over the quarry floor. In the mist, one faint, ghostly outline of a small two-legged, meat-eating theropod walks across the far terrace, hinting at *Aratasaurus* without dominating the view. Inside the hut, a long wooden workbench in the foreground holds a fossil hind-limb bone resting open in a foam-lined crate, ivory with dark manganese-brown flecks. Beside it, a rock hammer, soft brushes, and a hand lens are laid neatly in a row. A single printed electron-microscope image is pinned to the plank wall. It shows tiny concave, doughnut-like crimson discs inside a narrow channel, with no text, and it is the one strong crimson accent in the room. An enamel coffee pot and two empty tin cups sit on a shelf. A straw broom leans by the doorframe, and the swept doorstep still shows fine dust. One lone field technician in a wide straw hat and work shirt stands whole in the doorway, seen from behind and silhouetted in amber light, holding a mug and gazing out at the misty quarry. The mood is calm, curious, and unresolved, with clarity arriving. Palette: warm amber, soft sage and moss green, bone ivory, with a touch of crimson.",
+    "card_image": "dawn-card-2026-11-04.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene of a smallholder's backyard on the forested edge of a small village in the Serra do Mar foothills, S\u00e3o Paulo state, Brazil, at first light. This is an adjacent place, far below the research station, where the returning frogs are heard rather than studied. Thick warm amber-gold mist pours down the green mountainside and fills the whole frame. Everything beyond the near foreground softens into layered silhouettes of tree ferns, banana plants and distant forested ridges, in soft green and honey-amber tones. Clean morning light brightens the haze from behind, so the shadows lift and the air clears toward the lower left. Elements: (1) a small rain-fed garden pond with a mossy stone rim, its surface scattered with lily pads and ringed by dewy grass. About seven small, healthy, generic Atlantic Forest tree frogs and pond frogs sit on the pads and stones in the foreground, glossy and alert. Several have their vocal sacs puffed out mid-chorus, and tiny ripples spread from them. (2) A bromeliad-covered wooden fence post beside the pond, with beads of water on the leaves and one bright green frog tucked into a leaf cup. (3) A modest whitewashed farmhouse with an orange clay-tile roof, half-dissolved in the mist in the middle distance, with a single warm amber lit doorway. (4) An old woman in a pale shawl, drawn whole and small, standing on the stone path with a steaming enamel mug. She is listening to the frog chorus with her head tilted toward the pond. (5) Banana leaves in the foreground, heavy with droplets, framing the scene on the right, with soft shafts of golden light cutting through the fog above the pond. The mood is quiet, reverent and gently triumphant, as if the forest's voice has come back.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -369,31 +361,29 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The technician is seen from behind with his hands at his hips or sides, and the mug hand is partly hidden. Anatomy is hard to read but plausible.",
-        "The theropod in the mist is faint and a bit ambiguous, so it could be read as a small bird-like animal. This fits the 'ghostly' brief.",
-        "The pinned microscope image shows a red band with clustered red blobs rather than clear doughnut-shaped discs. It reads as abstract, but it works as the crimson accent.",
-        "The broom handle and a second stick lean by the window instead of the doorframe, and they overlap the shutter slightly. This is a small layout oddity.",
-        "The bone sits in a white tray that looks more like a shallow box than a foam-lined crate. The tools on the bench are slightly ambiguous, and the third tool looks like a pick or chisel with a brown blob on top.",
-        "The quarry terraces are heavily hazed and blur together. This reads as mist."
+        "The old woman at right is small and partly overlapped by banana leaves and foliage, so her mug and hands read a little ambiguously, but her body is complete and connected.",
+        "A few frogs, especially the lower-center ones, have slightly blobby limbs that merge into the lily pads, which is acceptable at pixel-art scale.",
+        "The bromeliad frog is tucked into the leaf cup and is small and hard to read, but it is recognizable as a frog.",
+        "The farmhouse roofline and the lean-to roof on the left are slightly muddled in the haze, which suits the mist."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-03.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-04.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 147283,
-      "output_tokens": 16989,
+      "input_tokens": 152758,
+      "output_tokens": 17563,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 15935,
-      "output_tokens": 7422,
+      "input_tokens": 16453,
+      "output_tokens": 7137,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.035
+    "estimated_usd": 1.0666
   }
 }
