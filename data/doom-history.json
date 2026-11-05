@@ -31146,5 +31146,391 @@
       },
       "estimated_usd": 1.0666
     }
+  },
+  {
+    "date": "2026-11-05",
+    "generated_at": "2026-11-05T10:43:53.740624+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 66.2,
+      "raw_percentage": 66.6,
+      "blind_scores": [
+        65.9,
+        66.2,
+        66.6,
+        67.0,
+        67.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.6,
+        "min": 65.9,
+        "max": 67.4,
+        "se": 0.3
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 66.2,
+        "2": 67.4,
+        "3": 65.9,
+        "4": 66.6,
+        "5": 67.0
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has the punchiest tabloid headline ('COOK' is the hard, cheeky verb) and avoids the recycled supermarket-yogurt joke that Candidates 2 and 3 lift from the 10-12 card, though its 'America spent election night' line still echoes yesterday's opening.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 24.7,
+            "scores": [
+              23.0,
+              24.0,
+              24.0,
+              26.0,
+              27.0
+            ]
+          },
+          "Alignment": {
+            "value": 15.3,
+            "scores": [
+              14.0,
+              14.0,
+              16.0,
+              16.0,
+              17.0
+            ]
+          },
+          "Governance": {
+            "value": 22.0,
+            "scores": [
+              21.0,
+              22.0,
+              22.0,
+              22.0,
+              27.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 62.3,
+            "scores": [
+              62.0,
+              62.0,
+              62.0,
+              63.0,
+              63.0
+            ]
+          },
+          "Nuclear": {
+            "value": 9.0,
+            "scores": [
+              9.0,
+              9.0,
+              9.0,
+              9.0,
+              13.0
+            ]
+          },
+          "Biotech": {
+            "value": 38.3,
+            "scores": [
+              33.0,
+              34.0,
+              37.0,
+              44.0,
+              47.0
+            ]
+          },
+          "Cyber": {
+            "value": 58.0,
+            "scores": [
+              58.0,
+              58.0,
+              58.0,
+              58.0,
+              58.0
+            ]
+          },
+          "Climate": {
+            "value": 29.7,
+            "scores": [
+              26.0,
+              27.0,
+              31.0,
+              31.0,
+              31.0
+            ]
+          },
+          "Wild Card": {
+            "value": 15.7,
+            "scores": [
+              14.0,
+              14.0,
+              16.0,
+              17.0,
+              17.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.6,
+            "sd": 0.6,
+            "se": 0.3,
+            "scores": [
+              65.9,
+              66.2,
+              66.6,
+              67.0,
+              67.4
+            ]
+          },
+          "power": {
+            "value": 42.9,
+            "sd": 0.63,
+            "se": 0.47,
+            "scores": [
+              42.4,
+              42.4,
+              42.6,
+              43.6,
+              43.6
+            ]
+          },
+          "mean": {
+            "value": 30.7,
+            "sd": 1.07,
+            "se": 0.61,
+            "scores": [
+              29.7,
+              30.0,
+              30.4,
+              31.6,
+              32.2
+            ]
+          },
+          "max": {
+            "value": 62.3,
+            "sd": 0.55,
+            "se": 0.41,
+            "scores": [
+              62.0,
+              62.0,
+              62.0,
+              63.0,
+              63.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 66.6,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 66.6,
+        "se": 0.3,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 9.2,
+        "K": 0.452,
+        "shock_p": 0.024,
+        "innovation": 0.7,
+        "prev": 65.9,
+        "noise_sd": 4.51,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Blood banks targeted in latest European fridge cyberattacks. French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.",
+      "category": "Cyber",
+      "blurb": "CYBER CROOKS COOK THE BLOOD BANK",
+      "summary": "First it was supermarket freezers, and now someone is remotely warming France's blood supply like leftovers. Meanwhile America spent election night voting against data centers, Russia double-tapped a village, and Ebola caught a flight to London. The machines aren't rising up yet, but whoever is holding the thermostat clearly has opinions.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Open-weight models like Kimi K3.1 Pro and Ripple-65B keep closing the gap on agentic coding as OpenAI rolls out Images 2.6."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Voters slapped down data centers and AI buildouts at the ballot box, while Cruz races to pack the FCC before the gavel changes hands."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The Iran war, Russia's deadly double-tap strike in Ukraine and Yemen's grinding offensive add up to several hot wars at once."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Hinton's wistful 'better off without AI' and unsupervised agent chains are worrying, but nothing new has gone wrong today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Bomb threats keep scrambling European flights, and a pack of grizzlies made a grim headline in Canada."
+        }
+      ],
+      "mood": [
+        "chilled",
+        "sabotaged",
+        "feverish",
+        "restless"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. An extreme close-up fills the whole frame: a glass-fronted municipal notice case bolted to the pale rendered wall of a regional blood-donation centre in provincial France, at night. The wall edges are barely visible, stained and damp, with a drainpipe running down the left. A red grate glows at the base of the wall, throwing hellish light up from below across the glass and the plaster. The rest of the scene falls away into suffocating near-black. Behind the scratched glass hangs a faded donor-appeal poster. It shows a big smiling red blood-drop mascot with a thick white outline, and beside it a tall thermometer icon whose mercury has burst past the top into a bright orange-red bulge. Instead of lettering, the poster has only blocky grey bars of unreadable text and a small blue-white-red ribbon in one corner. Condensation beads on the inside of the glass and runs in long dripping streaks over the mascot's face. Frost along the bottom frame is melting into a dark puddle on the ledge. A torn supermarket flyer is pinned beside the poster, showing a row of open chiller doors with tiny wilted produce, curling in the heat. In the glass, a warped reflection of a flashing red alarm lamp over a distant loading bay and an empty delivery van. A single bare bulb is cut off at the frame edge. Palette: deep crimson, blood red and ember orange against ink-black shadows, with only a few icy blue-white glints on the glass. Extreme contrast, heavy dithering in the shadows.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The poster's text is only blurry grey bars and tiny marks, which is acceptable as stand-in lettering.",
+          "The mascot is a brownish drop, not the bright red the prompt asked for, and the condensation streaks on its face are faint.",
+          "The thermometer's burst-mercury bulge reads as a thin spiky sunburst above the tube, not a bright orange-red bulge.",
+          "The torn flyer on the right is dark and muddled. The chiller doors read as a dark grid, and the wilted produce is barely visible.",
+          "The reflection of the alarm lamp, loading bay and van is not readable. Only a few blue-white glints and an orange lamp are visible.",
+          "The wall-mounted lamp and brick-like area at upper right are murky and hard to interpret, but they sit in shadow.",
+          "The red grate at the bottom left glows as intended, but the melting frost and puddle are barely visible."
+        ]
+      }
+    },
+    "dawn": {
+      "percentage": 33.8,
+      "driver": "A third of babies with peanut allergy grow out of it by 1 year old. A significant proportion of babies with peanut allergies quickly grow out of the condition, a finding that could lift a large burden off children, parents and healthcare systems",
+      "category": "Medicine",
+      "blurb": "FIRST BIRTHDAY, PEANUTS BACK ON THE MENU",
+      "summary": "One in three babies with a peanut allergy outgrows it before their first birthday, researchers report. That could mean more families sharing the same snacks and fewer worried trips to the doctor. In Houston, high schoolers now run an auto shop open to the public, doing oil changes and tire rotations for their neighbors, and in a Spanish cave archaeologists have found a wall of engravings at least 19,000 years old.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Physicists at the Large Hadron Collider caught their first glimpse of the 'zeptoverse,' probing scales 100 billion times smaller than an atom."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "More Americans are pulling out their library cards and borrowing not just books but musical instruments and sewing machines."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A student-run auto shop in Houston is giving teenagers real hands-on skills and bringing the whole community through its doors."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "A test drive of the Slate electric truck prototype left a reviewer optimistic about a practical $25,000 EV."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "A close look at a well-visited Spanish cave wall revealed a stunning gallery of prehistoric engravings at least 19,000 years old."
+        }
+      ],
+      "mood": [
+        "relieved",
+        "curious",
+        "neighborly",
+        "wonder-struck",
+        "hopeful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 wears the field-notes directive with a concrete human image (a first birthday, peanuts back on the menu, teens doing oil changes and tire rotations for neighbors), and it alone avoids the overused 'Elsewhere' pivot and the 'ONE...' headline opening seen in recent cards.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-05.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION inside a bright Australian children's hospital allergy clinic during an oral food challenge, shot straight on toward a tall floor-to-ceiling window where strong golden-amber morning backlight floods in and turns every figure into a crisp dark silhouette with glowing rim-lit edges. Outside the glass, soft green eucalyptus branches and a faint Melbourne skyline dissolve into a warm amber-gold sky. Clean morning light, long shadows lifting across the pale floor, clarity arriving. Wisps of peanut-flour dust drift and sparkle in the sunbeams like tiny gold motes. In the centre, a whole mother silhouetted in full, seated on a small clinic chair and holding her baby up toward the light, her head tilted toward the child, one arm raised to wipe a tear while she smiles. The baby, in a high-backed clinic seat or on her lap, is a small round silhouette with chubby cheeks and a tuft of hair glowing like a halo, and is the brightest point in the frame. Beside them, a whole friendly nurse in scrubs kneels at the baby's level, a tiny spoon held out, her other arm lifted in a thumbs-up, her body fully visible in dark silhouette. On a low table in the foreground, a row of three small dosing cups in increasing sizes, a little bowl of pale tan peanut flour, an empty baby spoon, and a peanut butter jar with two teaspoons are all lit from behind with glowing tan edges. A peeled-off allergy label shaped like a small tag floats up near the window, dissolving into golden pixels, while a forgotten auto-injector pouch sits on a shelf at the far edge. Palette of warm amber, honey-gold, peanut-tan and soft fresh green, with deep warm brown-umber shadows. Gentle, quiet triumph, a breath released.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The nurse's arms are hard to read in silhouette: the thumbs-up hand and the spoon hand cross near her torso, though both appear to connect to her body.",
+          "The mother's raised hand and the arm holding the baby merge into her dark silhouette, so the baby looks a little like it is standing on her knee.",
+          "The baby is not clearly the brightest point in the frame, as the prompt asked.",
+          "The checklist chart on the right wall and the small icons on the table jar are tiny pixel marks with no readable text. This is acceptable.",
+          "The floating label tag is small and dissolves into pixels, so it is slightly ambiguous but reads as a symbolic element."
+        ]
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 170474,
+        "output_tokens": 17580,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 16628,
+        "output_tokens": 7541,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.1422
+    }
   }
 ]

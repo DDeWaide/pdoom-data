@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T10:43:07.857320+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T10:43:53.740624+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 65.9,
-    "raw_percentage": 64.6,
+    "percentage": 66.2,
+    "raw_percentage": 66.6,
     "blind_scores": [
-      60.9,
-      63.8,
-      63.8,
-      66.1,
-      66.5
+      65.9,
+      66.2,
+      66.6,
+      67.0,
+      67.4
     ],
     "spread": {
       "n": 5,
-      "sd": 2.24,
-      "min": 60.9,
-      "max": 66.5,
-      "se": 0.94
+      "sd": 0.6,
+      "min": 65.9,
+      "max": 67.4,
+      "se": 0.3
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 63.8,
-      "2": 63.8,
-      "3": 66.1,
-      "4": 66.5,
-      "5": 60.9
+      "1": 66.2,
+      "2": 67.4,
+      "3": 65.9,
+      "4": 66.6,
+      "5": 67.0
     },
     "factor_consensus": {
       "AI Capability": {
@@ -37,29 +37,25 @@
       "Governance": {
         "signal": "medium",
         "votes": {
-          "medium": 4,
-          "low": 1
+          "medium": 5
         }
       },
       "Geopolitics": {
         "signal": "high",
         "votes": {
-          "high": 4,
-          "elevated": 1
+          "high": 5
         }
       },
       "Alignment": {
         "signal": "low",
         "votes": {
-          "medium": 2,
-          "low": 3
+          "low": 5
         }
       },
       "Wild Card": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "low": 2,
-          "medium": 3
+          "low": 5
         }
       }
     },
@@ -67,8 +63,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Its headline 'MISSILES FALL ON THE AID LINE' best fits the wire-service deadpan with one verb and no adjectives, and its summary stays tight, specific and witty ('the war hasn't been told yet') without recycling stale items like Candidate 3's Binance heist or its two-verb headline.",
+      "pick": 1,
+      "why": "Candidate 1 has the punchiest tabloid headline ('COOK' is the hard, cheeky verb) and avoids the recycled supermarket-yogurt joke that Candidates 2 and 3 lift from the 10-12 card, though its 'America spent election night' line still echoes yesterday's opening.",
       "fallback": false
     },
     "shadow": {
@@ -76,143 +72,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 22.0,
+          "value": 24.7,
           "scores": [
-            22.0,
-            22.0,
-            22.0,
-            22.0,
-            23.0
-          ]
-        },
-        "Alignment": {
-          "value": 19.3,
-          "scores": [
-            17.0,
-            19.0,
-            19.0,
-            20.0,
-            21.0
-          ]
-        },
-        "Governance": {
-          "value": 26.7,
-          "scores": [
-            19.0,
+            23.0,
+            24.0,
+            24.0,
             26.0,
-            27.0,
-            27.0,
             27.0
           ]
         },
-        "Geopolitics": {
-          "value": 61.7,
+        "Alignment": {
+          "value": 15.3,
           "scores": [
-            58.0,
-            61.0,
-            61.0,
-            63.0,
-            64.0
-          ]
-        },
-        "Nuclear": {
-          "value": 14.0,
-          "scores": [
-            13.0,
             14.0,
             14.0,
-            14.0,
-            16.0
-          ]
-        },
-        "Biotech": {
-          "value": 22.0,
-          "scores": [
-            21.0,
-            21.0,
-            22.0,
-            23.0,
-            24.0
-          ]
-        },
-        "Cyber": {
-          "value": 32.3,
-          "scores": [
-            31.0,
-            31.0,
-            33.0,
-            33.0,
-            34.0
-          ]
-        },
-        "Climate": {
-          "value": 15.0,
-          "scores": [
-            13.0,
-            14.0,
-            15.0,
+            16.0,
             16.0,
             17.0
           ]
         },
-        "Wild Card": {
-          "value": 20.3,
+        "Governance": {
+          "value": 22.0,
           "scores": [
-            15.0,
-            17.0,
             21.0,
-            23.0,
-            23.0
+            22.0,
+            22.0,
+            22.0,
+            27.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 62.3,
+          "scores": [
+            62.0,
+            62.0,
+            62.0,
+            63.0,
+            63.0
+          ]
+        },
+        "Nuclear": {
+          "value": 9.0,
+          "scores": [
+            9.0,
+            9.0,
+            9.0,
+            9.0,
+            13.0
+          ]
+        },
+        "Biotech": {
+          "value": 38.3,
+          "scores": [
+            33.0,
+            34.0,
+            37.0,
+            44.0,
+            47.0
+          ]
+        },
+        "Cyber": {
+          "value": 58.0,
+          "scores": [
+            58.0,
+            58.0,
+            58.0,
+            58.0,
+            58.0
+          ]
+        },
+        "Climate": {
+          "value": 29.7,
+          "scores": [
+            26.0,
+            27.0,
+            31.0,
+            31.0,
+            31.0
+          ]
+        },
+        "Wild Card": {
+          "value": 15.7,
+          "scores": [
+            14.0,
+            14.0,
+            16.0,
+            17.0,
+            17.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 64.6,
-          "sd": 2.24,
-          "se": 0.94,
+          "value": 66.6,
+          "sd": 0.6,
+          "se": 0.3,
           "scores": [
-            60.9,
-            63.8,
-            63.8,
-            66.1,
-            66.5
+            65.9,
+            66.2,
+            66.6,
+            67.0,
+            67.4
           ]
         },
         "power": {
-          "value": 37.1,
-          "sd": 1.11,
-          "se": 0.52,
+          "value": 42.9,
+          "sd": 0.63,
+          "se": 0.47,
           "scores": [
-            35.3,
-            36.6,
-            36.7,
-            37.9,
-            38.0
+            42.4,
+            42.4,
+            42.6,
+            43.6,
+            43.6
           ]
         },
         "mean": {
-          "value": 25.7,
-          "sd": 0.68,
-          "se": 0.07,
+          "value": 30.7,
+          "sd": 1.07,
+          "se": 0.61,
           "scores": [
-            24.9,
-            25.6,
-            25.7,
-            25.8,
-            26.8
+            29.7,
+            30.0,
+            30.4,
+            31.6,
+            32.2
           ]
         },
         "max": {
-          "value": 61.7,
-          "sd": 2.3,
-          "se": 0.82,
+          "value": 62.3,
+          "sd": 0.55,
+          "se": 0.41,
           "scores": [
-            58.0,
-            61.0,
-            61.0,
+            62.0,
+            62.0,
+            62.0,
             63.0,
-            64.0
+            63.0
           ]
         }
       },
@@ -222,67 +218,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 64.6,
+      "composite": 66.6,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 64.6,
-      "se": 0.94,
+      "input": 66.6,
+      "se": 0.3,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 8.99,
-      "K": 0.425,
-      "shock_p": 0.008,
-      "innovation": -2.2,
-      "prev": 66.8,
-      "noise_sd": 4.6,
+      "P": 9.2,
+      "K": 0.452,
+      "shock_p": 0.024,
+      "innovation": 0.7,
+      "prev": 65.9,
+      "noise_sd": 4.51,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing. Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-    "category": "Geopolitics",
-    "blurb": "MISSILES FALL ON THE AID LINE",
-    "summary": "While America spent the night refreshing electoral maps, Moscow timed 365 drones and missiles to the returns and hit an aid site, leaving 29 dead and 48 missing. Tehran's speaker cheered the 'NO TO WAR' vote, but the war hasn't been told yet. Meanwhile, OpenAI quietly re-ticked your data-sharing box, and a bootkit learned to walk straight past Secure Boot.",
+    "driver": "Blood banks targeted in latest European fridge cyberattacks. French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.",
+    "category": "Cyber",
+    "blurb": "CYBER CROOKS COOK THE BLOOD BANK",
+    "summary": "First it was supermarket freezers, and now someone is remotely warming France's blood supply like leftovers. Meanwhile America spent election night voting against data centers, Russia double-tapped a village, and Ebola caught a flight to London. The machines aren't rising up yet, but whoever is holding the thermostat clearly has opinions.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "A 27B model reading weights on a laptop and Siri taking the controls of every app add up to a real step forward."
+        "detail": "Open-weight models like Kimi K3.1 Pro and Ripple-65B keep closing the gap on agentic coding as OpenAI rolls out Images 2.6."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Voters restored the checks and balances, while the DOJ sent target letters and Google held school search hostage to Gemini."
+        "detail": "Voters slapped down data centers and AI buildouts at the ballot box, while Cruz races to pack the FCC before the gavel changes hands."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Russia's election-night barrage killed 29 people at an aid site as the US-Iran conflict hovers near a new escalation."
+        "detail": "The Iran war, Russia's deadly double-tap strike in Ukraine and Yemen's grinding offensive add up to several hot wars at once."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "Opt-outs quietly turning back into opt-ins at OpenAI and Postman show that consent is still treated as a default setting."
+        "signal": "low",
+        "detail": "Hinton's wistful 'better off without AI' and unsupervised agent chains are worrying, but nothing new has gone wrong today."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "Bomb threats on seven European flights and a disputed shell in Papua New Guinea are worrying but not spreading."
+        "detail": "Bomb threats keep scrambling European flights, and a pack of grizzlies made a grim headline in Canada."
       }
     ],
     "mood": [
-      "grim",
-      "distracted",
-      "wary",
-      "split-screen"
+      "chilled",
+      "sabotaged",
+      "feverish",
+      "restless"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over the flat black steppe of Zaporizhzhia Oblast at night, a vast ploughed field stretching to a horizon swallowed by smoke, with a thin line of bare windbreak trees and a ribbon of wet dirt road cutting across it. A hellish deep-red glow rises from below the frame and from cracks in the earth, lighting the underside of low smoke clouds in crimson against near-black. The central visual metaphor is a giant chessboard laid into the field, its squares formed by the furrows and frost-whitened patches. The board is mid-collapse: the near half has split and subsided into a glowing red crater, and the squares tilt and slide into it. Scattered across the board stand oversized chess pieces, mostly black pawns, a few toppled. One dark pawn rests at the crater's very lip, leaning over the edge. At the far side, a single lone white king stands untouched, small and pale against the darkness. Along the road, a few tiny rescuers in reflective-striped gear, each shown whole, stand in a loose line near the crater with a single stretcher, dwarfed by the scale. Embers drift upward in the red-black air. Extreme contrast, suffocating darkness, palette limited to deep crimson, blood red, ember orange touches, and black.",
+    "card_image": "doom-card-2026-11-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. An extreme close-up fills the whole frame: a glass-fronted municipal notice case bolted to the pale rendered wall of a regional blood-donation centre in provincial France, at night. The wall edges are barely visible, stained and damp, with a drainpipe running down the left. A red grate glows at the base of the wall, throwing hellish light up from below across the glass and the plaster. The rest of the scene falls away into suffocating near-black. Behind the scratched glass hangs a faded donor-appeal poster. It shows a big smiling red blood-drop mascot with a thick white outline, and beside it a tall thermometer icon whose mercury has burst past the top into a bright orange-red bulge. Instead of lettering, the poster has only blocky grey bars of unreadable text and a small blue-white-red ribbon in one corner. Condensation beads on the inside of the glass and runs in long dripping streaks over the mascot's face. Frost along the bottom frame is melting into a dark puddle on the ledge. A torn supermarket flyer is pinned beside the poster, showing a row of open chiller doors with tiny wilted produce, curling in the heat. In the glass, a warped reflection of a flashing red alarm lamp over a distant loading bay and an empty delivery van. A single bare bulb is cut off at the frame edge. Palette: deep crimson, blood red and ember orange against ink-black shadows, with only a few icy blue-white glints on the glass. Extreme contrast, heavy dithering in the shadows.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -291,68 +287,70 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The scene is extremely dark. The rescuers and stretcher the prompt asked for can't be made out, and the toppled pawns are barely visible.",
-        "The crater reads as a pit of tilted dark diamond tiles, and its geometry is confusing. It is hard to tell which parts are board squares and which are debris.",
-        "A wood-grain diagonal band in the lower right, presumably the wet dirt road, looks more like a plank or beam than a road.",
-        "The lone white king on the far side is small and dim, and it reads more like a pale bishop or pawn silhouette.",
-        "Dark pawn silhouettes on the board are mostly lost in shadow, and the one at the crater lip is hard to distinguish."
+        "The poster's text is only blurry grey bars and tiny marks, which is acceptable as stand-in lettering.",
+        "The mascot is a brownish drop, not the bright red the prompt asked for, and the condensation streaks on its face are faint.",
+        "The thermometer's burst-mercury bulge reads as a thin spiky sunburst above the tube, not a bright orange-red bulge.",
+        "The torn flyer on the right is dark and muddled. The chiller doors read as a dark grid, and the wilted produce is barely visible.",
+        "The reflection of the alarm lamp, loading bay and van is not readable. Only a few blue-white glints and an orange lamp are visible.",
+        "The wall-mounted lamp and brick-like area at upper right are murky and hard to interpret, but they sit in shadow.",
+        "The red grate at the bottom left glows as intended, but the melting frost and puddle are barely visible."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-04.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-05.png"
   },
   "dawn": {
-    "percentage": 34.1,
-    "driver": "A 50-year-old mystery of vanishing frogs reveals a hidden killer. A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease",
-    "category": "Environment",
-    "blurb": "SLOWLY, BRAZIL'S FROGS COME HOME",
-    "summary": "Many of Brazil's frogs have come back. Scientists solving a half-century-old puzzle found that numerous populations recovered after a fungus swept through, apparently growing tougher against it, a reminder of how resourceful nature can be when given time. Out in space, samples from the asteroid Ryugu turned out to hold all five genetic letters of DNA and RNA, and Voyager 1 is nearly one full light-day from home, still sending word back nearly 50 years after launch.",
+    "percentage": 33.8,
+    "driver": "A third of babies with peanut allergy grow out of it by 1 year old. A significant proportion of babies with peanut allergies quickly grow out of the condition, a finding that could lift a large burden off children, parents and healthcare systems",
+    "category": "Medicine",
+    "blurb": "FIRST BIRTHDAY, PEANUTS BACK ON THE MENU",
+    "summary": "One in three babies with a peanut allergy outgrows it before their first birthday, researchers report. That could mean more families sharing the same snacks and fewer worried trips to the doctor. In Houston, high schoolers now run an auto shop open to the public, doing oil changes and tire rotations for their neighbors, and in a Spanish cave archaeologists have found a wall of engravings at least 19,000 years old.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Researchers found all five nucleobases of DNA and RNA in pristine samples from the 4.5-billion-year-old asteroid Ryugu, adding to the evidence that life's building blocks were widespread in the early solar system."
+        "signal": "bright",
+        "detail": "Physicists at the Large Hadron Collider caught their first glimpse of the 'zeptoverse,' probing scales 100 billion times smaller than an atom."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Brazil published the first global roadmap for phasing out coal, oil and gas, giving every country practical steps it can start on now."
+        "signal": "glimmer",
+        "detail": "More Americans are pulling out their library cards and borrowing not just books but musical instruments and sewing machines."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Voters elected the nation's first Black woman governor and its first Native American woman governor, widening who gets to lead."
+        "detail": "A student-run auto shop in Houston is giving teenagers real hands-on skills and bringing the whole community through its doors."
       },
       {
         "name": "Environment",
-        "signal": "blazing",
-        "detail": "Frog populations in Brazil have rebounded and appear to have built tolerance to a fungus that once overwhelmed them."
+        "signal": "glimmer",
+        "detail": "A test drive of the Slate electric truck prototype left a reviewer optimistic about a practical $25,000 EV."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Voyager 1 is about to become the first human-made object one light-day from Earth, its mission extended by a clever energy-saving maneuver."
+        "detail": "A close look at a well-visited Spanish cave wall revealed a stunning gallery of prehistoric engravings at least 19,000 years old."
       }
     ],
     "mood": [
-      "resilient",
-      "wonder",
-      "renewal",
-      "hopeful",
-      "awe"
+      "relieved",
+      "curious",
+      "neighborly",
+      "wonder-struck",
+      "hopeful"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
       "pick": 3,
-      "why": "Candidate 3 is the freshest: it avoids the 'Farther out'/'Further out' transitions recycled from the Oct 29 and Oct 17 cards, keeps a quiet nature-documentary headline in the directive's form, and accurately says 'many' frogs came back rather than overclaiming.",
+      "why": "Candidate 3 wears the field-notes directive with a concrete human image (a first birthday, peanuts back on the menu, teens doing oil changes and tire rotations for neighbors), and it alone avoids the overused 'Elsewhere' pivot and the 'ONE...' headline opening seen in recent cards.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-04.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene of a smallholder's backyard on the forested edge of a small village in the Serra do Mar foothills, S\u00e3o Paulo state, Brazil, at first light. This is an adjacent place, far below the research station, where the returning frogs are heard rather than studied. Thick warm amber-gold mist pours down the green mountainside and fills the whole frame. Everything beyond the near foreground softens into layered silhouettes of tree ferns, banana plants and distant forested ridges, in soft green and honey-amber tones. Clean morning light brightens the haze from behind, so the shadows lift and the air clears toward the lower left. Elements: (1) a small rain-fed garden pond with a mossy stone rim, its surface scattered with lily pads and ringed by dewy grass. About seven small, healthy, generic Atlantic Forest tree frogs and pond frogs sit on the pads and stones in the foreground, glossy and alert. Several have their vocal sacs puffed out mid-chorus, and tiny ripples spread from them. (2) A bromeliad-covered wooden fence post beside the pond, with beads of water on the leaves and one bright green frog tucked into a leaf cup. (3) A modest whitewashed farmhouse with an orange clay-tile roof, half-dissolved in the mist in the middle distance, with a single warm amber lit doorway. (4) An old woman in a pale shawl, drawn whole and small, standing on the stone path with a steaming enamel mug. She is listening to the frog chorus with her head tilted toward the pond. (5) Banana leaves in the foreground, heavy with droplets, framing the scene on the right, with soft shafts of golden light cutting through the fog above the pond. The mood is quiet, reverent and gently triumphant, as if the forest's voice has come back.",
+    "card_image": "dawn-card-2026-11-05.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION inside a bright Australian children's hospital allergy clinic during an oral food challenge, shot straight on toward a tall floor-to-ceiling window where strong golden-amber morning backlight floods in and turns every figure into a crisp dark silhouette with glowing rim-lit edges. Outside the glass, soft green eucalyptus branches and a faint Melbourne skyline dissolve into a warm amber-gold sky. Clean morning light, long shadows lifting across the pale floor, clarity arriving. Wisps of peanut-flour dust drift and sparkle in the sunbeams like tiny gold motes. In the centre, a whole mother silhouetted in full, seated on a small clinic chair and holding her baby up toward the light, her head tilted toward the child, one arm raised to wipe a tear while she smiles. The baby, in a high-backed clinic seat or on her lap, is a small round silhouette with chubby cheeks and a tuft of hair glowing like a halo, and is the brightest point in the frame. Beside them, a whole friendly nurse in scrubs kneels at the baby's level, a tiny spoon held out, her other arm lifted in a thumbs-up, her body fully visible in dark silhouette. On a low table in the foreground, a row of three small dosing cups in increasing sizes, a little bowl of pale tan peanut flour, an empty baby spoon, and a peanut butter jar with two teaspoons are all lit from behind with glowing tan edges. A peeled-off allergy label shaped like a small tag floats up near the window, dissolving into golden pixels, while a forgotten auto-injector pouch sits on a shelf at the far edge. Palette of warm amber, honey-gold, peanut-tan and soft fresh green, with deep warm brown-umber shadows. Gentle, quiet triumph, a breath released.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -361,29 +359,30 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The old woman at right is small and partly overlapped by banana leaves and foliage, so her mug and hands read a little ambiguously, but her body is complete and connected.",
-        "A few frogs, especially the lower-center ones, have slightly blobby limbs that merge into the lily pads, which is acceptable at pixel-art scale.",
-        "The bromeliad frog is tucked into the leaf cup and is small and hard to read, but it is recognizable as a frog.",
-        "The farmhouse roofline and the lean-to roof on the left are slightly muddled in the haze, which suits the mist."
+        "The nurse's arms are hard to read in silhouette: the thumbs-up hand and the spoon hand cross near her torso, though both appear to connect to her body.",
+        "The mother's raised hand and the arm holding the baby merge into her dark silhouette, so the baby looks a little like it is standing on her knee.",
+        "The baby is not clearly the brightest point in the frame, as the prompt asked.",
+        "The checklist chart on the right wall and the small icons on the table jar are tiny pixel marks with no readable text. This is acceptable.",
+        "The floating label tag is small and dissolves into pixels, so it is slightly ambiguous but reads as a symbolic element."
       ]
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-04.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-05.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 152758,
-      "output_tokens": 17563,
+      "input_tokens": 170474,
+      "output_tokens": 17580,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 16453,
-      "output_tokens": 7137,
+      "input_tokens": 16628,
+      "output_tokens": 7541,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0666
+    "estimated_usd": 1.1422
   }
 }
