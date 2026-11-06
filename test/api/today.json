@@ -1,31 +1,31 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T12:30:08.271718+00:00",
+  "generated_at": "2026-11-06T12:46:57.606432+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 54.8,
-    "raw_percentage": 32.1,
+    "percentage": 58.7,
+    "raw_percentage": 43.8,
     "blind_scores": [
-      32.0,
-      32.1,
-      32.1,
-      32.2,
-      39.6
+      39.5,
+      43.1,
+      44.2,
+      44.2,
+      47.5
     ],
     "spread": {
       "n": 5,
-      "sd": 3.35,
-      "min": 32.0,
-      "max": 39.6,
-      "se": 0.04
+      "sd": 2.87,
+      "min": 39.5,
+      "max": 47.5,
+      "se": 0.45
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 32.0,
-      "2": 39.6,
-      "3": 32.1,
-      "4": 32.2,
-      "5": 32.1
+      "1": 39.5,
+      "2": 44.2,
+      "3": 47.5,
+      "4": 43.1,
+      "5": 44.2
     },
     "factor_consensus": {
       "AI Capability": {
@@ -37,14 +37,14 @@
       "Governance": {
         "signal": "medium",
         "votes": {
-          "low": 2,
-          "medium": 3
+          "medium": 5
         }
       },
       "Geopolitics": {
-        "signal": "medium",
+        "signal": "elevated",
         "votes": {
-          "medium": 5
+          "medium": 1,
+          "elevated": 4
         }
       },
       "Alignment": {
@@ -64,8 +64,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidate 2 avoids the recycled 'machines aren't rising up' joke and exclamation-headline shape that sink Candidate 1, and its blurb, 'OVER EUROPE, FIGHTERS SHEPHERD THE FRIGHTENED AIRLINERS', wears the grand 1940s newsreel form far better than Candidate 3's flat 'morning flights', while the summary",
+      "pick": 3,
+      "why": "Candidate 3 has the freshest opening and avoids the 'While America\u2026' and exclamation-headline shapes recent cards have already used, wears the newsreel form cleanly in 'OVER EUROPE, FIGHTERS SHEPHERD THE AIRLINERS HOME', and lands the day's sharpest line about a hoax doing its job, which outweighs i",
       "fallback": false
     },
     "shadow": {
@@ -73,10 +73,10 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 10.0,
+          "value": 9.7,
           "scores": [
             9.0,
-            10.0,
+            9.0,
             10.0,
             10.0,
             10.0
@@ -93,123 +93,123 @@
           ]
         },
         "Governance": {
-          "value": 20.7,
+          "value": 21.3,
           "scores": [
-            17.0,
-            19.0,
+            21.0,
+            21.0,
             21.0,
             22.0,
             23.0
           ]
         },
         "Geopolitics": {
-          "value": 31.0,
+          "value": 42.7,
           "scores": [
-            29.0,
-            31.0,
-            31.0,
-            31.0,
-            34.0
+            38.0,
+            42.0,
+            43.0,
+            43.0,
+            46.0
           ]
         },
         "Nuclear": {
-          "value": 8.7,
+          "value": 9.3,
           "scores": [
-            7.0,
-            8.0,
             9.0,
             9.0,
+            9.0,
+            10.0,
             10.0
           ]
         },
         "Biotech": {
-          "value": 6.0,
+          "value": 6.3,
           "scores": [
             6.0,
             6.0,
             6.0,
-            6.0,
+            7.0,
             8.0
           ]
         },
         "Cyber": {
-          "value": 11.0,
+          "value": 13.3,
           "scores": [
-            9.0,
-            11.0,
-            11.0,
-            11.0,
-            13.0
+            12.0,
+            13.0,
+            13.0,
+            14.0,
+            14.0
           ]
         },
         "Climate": {
-          "value": 19.0,
+          "value": 19.7,
           "scores": [
-            15.0,
-            17.0,
-            17.0,
-            23.0,
+            19.0,
+            19.0,
+            19.0,
+            21.0,
             23.0
           ]
         },
         "Wild Card": {
-          "value": 28.7,
+          "value": 26.3,
           "scores": [
-            22.0,
-            27.0,
-            28.0,
+            23.0,
+            23.0,
+            25.0,
             31.0,
-            38.0
+            31.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 32.1,
-          "sd": 3.35,
-          "se": 0.04,
+          "value": 43.8,
+          "sd": 2.87,
+          "se": 0.45,
           "scores": [
-            32.0,
-            32.1,
-            32.1,
-            32.2,
-            39.6
+            39.5,
+            43.1,
+            44.2,
+            44.2,
+            47.5
           ]
         },
         "power": {
-          "value": 21.3,
-          "sd": 2.11,
-          "se": 0.23,
+          "value": 25.9,
+          "sd": 1.34,
+          "se": 0.31,
           "scores": [
-            20.4,
-            21.1,
-            21.2,
-            21.7,
-            25.7
+            25.1,
+            25.4,
+            26.0,
+            26.2,
+            28.5
           ]
         },
         "mean": {
-          "value": 15.4,
-          "sd": 1.16,
-          "se": 0.16,
+          "value": 17.3,
+          "sd": 0.71,
+          "se": 0.38,
           "scores": [
-            15.1,
-            15.3,
-            15.3,
-            15.7,
-            17.9
+            16.7,
+            16.9,
+            17.2,
+            17.9,
+            18.4
           ]
         },
         "max": {
-          "value": 31.0,
-          "sd": 3.13,
-          "se": 0.0,
+          "value": 42.7,
+          "sd": 2.88,
+          "se": 0.41,
           "scores": [
-            31.0,
-            31.0,
-            31.0,
-            31.0,
-            38.0
+            38.0,
+            42.0,
+            43.0,
+            43.0,
+            46.0
           ]
         }
       },
@@ -219,67 +219,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 32.1,
+      "composite": 43.8,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 32.1,
-      "se": 0.04,
+      "input": 43.8,
+      "se": 0.45,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 6.78,
-      "K": 0.335,
+      "P": 6.81,
+      "K": 0.333,
       "shock_p": 0.0,
-      "innovation": -34.1,
+      "innovation": -22.4,
       "prev": 66.2,
-      "noise_sd": 4.5,
+      "noise_sd": 4.52,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
     "driver": "Hoax or bomb threats? What we know about flight disruptions across Europe. Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
-    "category": "Wild Card",
-    "blurb": "OVER EUROPE, FIGHTERS SHEPHERD THE FRIGHTENED AIRLINERS",
-    "summary": "Nobody has found a single explosive, yet Europe is scrambling fighter jets to babysit passenger planes, which is a very expensive way to deliver a prank call. Meanwhile Moscow and Tehran are swapping rocket launchers like trading cards, and the AI boom is learning that a midterm landslide is louder than any keynote. NASA's Swift telescope also chose today to plunge into the sea off Indonesia, a fitting metaphor for nobody in particular.",
+    "category": "Geopolitics",
+    "blurb": "OVER EUROPE, FIGHTERS SHEPHERD THE AIRLINERS HOME",
+    "summary": "Nobody found a single explosive, yet half of Europe's airspace now comes with a fighter-jet chaperone, which is exactly the point of a hoax done well. Meanwhile, Moscow and Tehran are swapping rocket launchers like trading cards, and America's midterm earthquake has the AI data center boom wondering who paid for all that concrete. Add floods across the South and a NASA telescope dropping out of the sky over Indonesia, and today is less apocalypse than a very long list of loose ends.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "low",
-        "detail": "No new frontier leaps today, just MCP explainers and an AI trade bleeding on the stock ticker."
+        "detail": "No new frontier leaps today, just an MCP explainer making the rounds among developers."
       },
       {
         "name": "Governance",
-        "signal": "low",
-        "detail": "Voters, bankers and Amsterdam protesters are all leaning on the data center buildout at once, but this is friction rather than freefall."
+        "signal": "medium",
+        "detail": "The Democratic sweep, data center loan fire sales and an Amsterdam site break-in suggest the AI buildout's political weather has turned."
       },
       {
         "name": "Geopolitics",
-        "signal": "medium",
-        "detail": "Russia arming Iran with rocket launchers, plus a cooperation treaty in the works, deepens an axis that is already in the fight."
+        "signal": "elevated",
+        "detail": "Russia-Iran military ties deepen as the Iran war drags on and a continental bomb-threat wave rattles European skies."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "The machines kept their schemes to themselves today."
+        "detail": "No models caught scheming today, which is the most we can ask."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "A continent-wide wave of bomb threats has fighter escorts in the sky, and hoax or not, someone is testing Europe's nerves."
+        "detail": "Hoax threats, a falling space telescope and a doomsday cult verdict make for an eerie miscellany."
       }
     ],
     "mood": [
       "jittery",
       "suspicious",
-      "deflating",
-      "watchful"
+      "waterlogged",
+      "unsettled"
     ],
     "tier": 6,
     "tier_name": "Threat Level",
     "card_image": "doom-card-2026-11-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide, ground-level view across a remote parking stand at Venice Marco Polo airport at night, in the long hours after a bomb-threat diversion has been declared a hoax. The flat apron runs to the edge of the lagoon. Beyond a low fence, wooden bricole mooring posts stand in mist that glows blood orange, and a faint Venetian skyline of bell towers sits on the horizon. The sky is a bruised violet, striped with the thin, fading contrails of two fighter jets that have long since left. Every surface is lit from below by volcanic orange light. It comes from low ground-level floodlight bars and from the wet tarmac, which mirrors them in molten streaks, so the whole scene is bright and clearly readable. The shadows are plum and maroon.\n\nAt center stands a white Wizz Air A321 with a magenta tail, its belly and engines glowing orange from beneath. Its forward cargo hold is open, and the passengers' suitcases are lined up in neat rows on the tarmac beside it, waiting to be reloaded. A tracked bomb-disposal robot with its articulated arm folded sits parked in the foreground, rimmed in orange light. Next to it stands a technician in a bulky blast suit with the helmet off, whole and facing the plane, looking tired and calm. A police handler in a dark uniform and hi-vis vest sits beside a spaniel, which has its tongue out. In the middle distance a Polizia officer, whole and walking, winds up a long coil of striped cordon tape. A red fire engine and a bomb-disposal van stand idle with their light bars off, and the fire engine's red paint glows orange.\n\nThe mood is menacing and uneasy. The danger has passed, but the tarmac still looks hostile and wrong. Violet and blood-orange tones dominate, and there are almost no cool colors.",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A remote parking stand at Venice Marco Polo airport on the edge of the lagoon, the morning after the bomb-threat diversion, seen as a night scene with a deep violet sky glowing over flat marshy water. A Wizz Air Airbus A321 with a magenta tail sits isolated on the wet apron in the middle of the frame, its air-stairs still lowered and its cabin door open, every window lit blood orange from within. Tall floodlight masts and a ring of emergency vehicle lights pour wide pools of volcanic orange light up from the tarmac, so the fuselage, the puddles and the ground all glow. Spread across the apron are the signs of the cleared threat: a tracked bomb-disposal robot parked with its arm folded, a bomb-disposal van with its rear doors open, and a stretch of sagging police tape strung between traffic cones, now slack and unguarded. A row of passenger suitcases stands in tidy lines on the concrete, each one inspected and chalk-marked, with a sniffer dog sitting calmly beside its handler. The handler is a whole figure in a dark-blue Carabinieri uniform with a hi-vis vest. A second officer in a padded bomb suit with its visor up walks away toward a waiting van, finished for the night. In the background the Venetian lagoon glints bruised violet and orange, the distant skyline of Venice shows as small lit towers, and a Gripen-grey jet trail fades across the glowing sky. A control tower at the right glows with orange windows. Colors: blood orange and bruised violet, with light from below reaching every surface, wet tarmac reflecting the glow, shadows in violet and maroon, and no cool tones. The mood is angry and menacing, with a hollow silence after the false alarm. Everything is in plain view.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -288,74 +288,72 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The \"Wizz\" logo on the fuselage is stylized pixel lettering that reads roughly as \"WIZ\". It is small and plausible, not obvious gibberish.",
-        "The aircraft's rear stairs, cargo loader and wing area are a bit muddled where they overlap near the engine, and the tail and wing edge look slightly fused. It still reads as a plane.",
-        "The dog's body blends into the handler's legs and the orange ground, but it still reads as a spaniel with its tongue out.",
-        "The cordon-tape officer in the background is a dark silhouette, and the tape coil is hard to make out.",
-        "The row of silhouetted figures or posts along the horizon is ambiguous. They are distant and fit the bricole posts and crowd the prompt described.",
-        "The bomb-disposal robot's arm and claw are a bit tangled, but the robot reads clearly.",
-        "Strong orange and red saturation flattens some details, but nothing is too dark to read."
+        "A small stray red tail fin sticks up behind the aircraft's nose on the left. It is probably meant as a distant plane but reads as a leftover shape.",
+        "The bomb-disposal van's open rear shows muddy shapes inside that don't clearly read as equipment.",
+        "The police tape is a thin, faint line between the cones and is easy to miss.",
+        "The dog is small and its shape is a little muddled next to the handler's legs.",
+        "The aircraft's landing gear and the air-stairs are slightly blobby up close, but they read fine at phone size."
       ],
       "tone": {
-        "gain": 2.97,
-        "lit_before": 0.236,
-        "lit_share": 0.511
+        "gain": 2.91,
+        "lit_before": 0.205,
+        "lit_share": 0.514
       }
     }
   },
   "dawn": {
-    "percentage": 45.2,
-    "driver": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky.",
-    "category": "Human Spirit",
-    "blurb": "VOYAGER 1 HAS WANDERED SOMEWHAT FAR",
-    "summary": "A spacecraft launched in 1977 has just become the first human-made object to reach one light-day from Earth, so a message from home now takes a full day to reach Voyager 1. Overhead this month, fireballs, a close pairing of Mars and Jupiter and a supermoon give everyone a free show without leaving the backyard. Down here, a small trial found that four weeks of low-dose rapamycin improved brain blood flow in people carrying a high-risk Alzheimer's gene.",
+    "percentage": 41.3,
+    "driver": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin. A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the stronge",
+    "category": "Medicine",
+    "blurb": "A PLEASANT FOUR WEEKS FOR THE BRAIN",
+    "summary": "Four weeks of low-dose rapamycin improved blood flow in the brains of healthy middle-aged adults who carry the APOE4 gene variant, offering an early glimpse of protection that could start long before memory changes appear, with women benefiting most. Out in the dark, Voyager 1 is about to become the first spacecraft ever to sit a full light-day from home, and November's sky brings a supermoon and a close meeting of Mars and Jupiter for everyone else. Closer to the heart, a trial of nearly 5,800 adults found that artery calcium scans can guide statin use just as well as traditional risk scores while sparing many people pills they don't need.",
     "factors": [
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Low-dose rapamycin boosted brain blood flow in healthy middle-aged APOE4 carriers within a month, with women showing the strongest gains."
+        "detail": "A short course of low-dose rapamycin boosted brain blood flow in people at genetic risk for Alzheimer's, pointing toward prevention years ahead of symptoms."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Nearly 5,800 volunteers helped show that heart calcium scans can guide statin use as safely as traditional risk scores while prescribing to far fewer people."
+        "detail": "NASA is inviting private companies to pitch ideas for keeping the Hubble Space Telescope working well into the future."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Diyarbakir's Amedspor has climbed from Turkey's third tier to a top-of-the-table match in the Super Lig, carrying a proud fan base along with it."
+        "detail": "Voyager 1, launched in 1977, is reaching one light-day from Earth, the farthest any human-made object has traveled."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "After two years of testing, a reviewer has found kitchen composters worth recommending, making it easier to turn food scraps into soil."
+        "detail": "After two years of hands-on testing, a reviewer has named the kitchen composters actually worth bringing home, making food recycling easier for households."
       },
       {
         "name": "Wild Card",
-        "signal": "blazing",
-        "detail": "Voyager 1 is now one light-day from Earth, a distance no spacecraft has ever reached, nearly half a century after launch."
+        "signal": "bright",
+        "detail": "NASA's Swift Observatory was built to last two years and instead spent nearly 22 transforming what we know about black holes and exploding stars before its mission came to a close."
       }
     ],
     "mood": [
-      "awestruck",
-      "patient",
-      "far-reaching",
-      "starry",
-      "proud"
+      "hopeful",
+      "curious",
+      "wonder-struck",
+      "reassured",
+      "grateful"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidate 2 wears the understatement directive well with 'SOMEWHAT FAR' and steers clearest of the 11-04 card's 'one full light-day from home\u2026 still sending word back' phrasing, which Candidate 3 nearly copies and Candidate 1 partly echoes; it also adds a fresh, specific line about the free backyard",
+      "pick": 3,
+      "why": "It is the only candidate with no bad-news hits, its driver is a real study rather than a sky-watching listicle, and 'A PLEASANT FOUR WEEKS FOR THE BRAIN' fits the understatement directive while 1 and 2 lead with Voyager's light-day milestone, which the 11-04 card already covered.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 5,
     "tier_name": "Bright Spot",
     "card_image": "dawn-card-2026-11-06.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW from deep in the grass of an open hillside meadow, looking steeply upward at a grassy crest against a huge, clear, pale-blue afternoon sky. Late-afternoon daylight is balanced and steady, with clear golden-yellow sun and fresh spring-green grass, and a confident, warm glow over everything. Giant foreground blades of bright green grass frame the bottom corners. A towering old maple in golden-yellow autumn leaves rises on the right, its branches spreading across the upper frame. On the crest stand a mother and her young daughter, both fully visible and seen from below, with their backs partly turned and their faces tipped toward the eastern horizon in patient, bright-eyed anticipation. The mother wears a mustard-yellow knit sweater and holds a folded plaid wool blanket and a steel thermos. The girl wears a green puffy vest and holds a big chunky flashlight pointed up at the sky, switched off, as if saving it for later. Two folding camp chairs lean against the maple trunk, and a woven picnic basket sits in the grass beside it. The sky above them is empty and wide, so the coming night is implied only by their posture and their prepared gear. Crisp pixel clusters, dithered golden light on the grass and leaves, and long soft shadows stretching down the hill.",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from a brick-paved garden path in front of a mid-sized suburban home in Columbia, Missouri, in clear balanced golden-yellow and fresh green daylight with confident, steady warmth. Tall mature maple and sycamore trees fill the upper frame, their leaves bright fresh green with golden-yellow light filtering through. The underside of a wooden pergola, heavy with climbing vines, arches overhead against a pale clear sky. In the middle distance on a raised back porch, seen from below, a woman in her fifties with short silver-brown hair, a yellow cardigan and sturdy jeans stands whole and relaxed at the railing. She smiles calmly and looks out over the garden, holding a mug in one hand. Beside her, her grown daughter in a green sweater leans in and laughs, one arm around her shoulders. Both figures are fully visible and silhouetted against the bright sky. On the porch rail next to them sits a small weekly pill organizer with four rows of little compartments, the first few empty and the rest still full, implying a four-week routine. Below them in the foreground, raised garden beds burst with tomato plants, marigolds and bright green herbs, and a watering can rests on the brick path with droplets catching golden light. A few vine tendrils on the pergola curl into a subtle branching pattern like tiny blood vessels. The mood is quiet, steady, and protective: ordinary healthy life continuing, with the future looking secure. Crisp dithered pixel shading, a limited warm palette of golden yellows, leaf greens, and soft sky blue.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -364,33 +362,34 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The girl's flashlight is held out to the side and looks a bit like binoculars or a camera, not a flashlight pointed up.",
-        "The mother's arm holding the plaid blanket is hard to read, since the blanket hangs behind her hip with no clear hand or arm gripping it.",
-        "The green camp chair is partly hidden behind the red one, so the two blend together a little against the trunk.",
-        "The giant foreground grass blades are soft and blurry next to the crisp pixel clusters elsewhere, but they frame the scene as intended."
+        "The daughter's face in the green sweater is a smooth, nearly featureless blob, so she doesn't clearly read as laughing. At phone size it is small and passable.",
+        "The porch stairs and railing on the left join the deck a bit awkwardly, and the support posts under the deck are muddled.",
+        "The pill organizer on the rail is a small colorful block. Its rows of compartments aren't readable, but it works as a small object.",
+        "The mother's mug is small and hard to make out against her cardigan.",
+        "The pergola beams and vines at the top are dense and tangled. The blood-vessel vine pattern is subtle and just looks like tendrils."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.803,
-        "lit_share": 0.803
+        "lit_before": 0.595,
+        "lit_share": 0.595
       }
     }
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 73662,
-      "output_tokens": 15764,
+      "input_tokens": 75770,
+      "output_tokens": 15740,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
-      "calls": 7,
-      "input_tokens": 18067,
-      "output_tokens": 9425,
+      "calls": 6,
+      "input_tokens": 17265,
+      "output_tokens": 7075,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 0.7403
+    "estimated_usd": 0.7232
   }
 }
