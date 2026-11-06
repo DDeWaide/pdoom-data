@@ -1,0 +1,176 @@
+{
+  "generated_at": "2026-11-06T12:18:41.132395+00:00",
+  "image_model": "gpt-image-2",
+  "results": {
+    "2026-11-02": {
+      "doom": {
+        "percentage": 62.5,
+        "tier": 7,
+        "blurb": "AN HOUR OF IMAGINARY FALLOUT IN KYIV",
+        "driver": "Ukraine says air alert system hacked after false radiation warning in Kyiv. Ukraine's Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
+        "old_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A late-autumn night in Kyiv during a partial blackout, seen from inside a darkened Soviet-era apartment on the Left Bank. The camera stands deep in the room, looking toward a tall balcony window. The sealed window frames a vast skyline of dark Troieshchyna-style panel high-rises, black slabs with only a few scattered amber windows. Beyond them, low overcast cloud and mist rolling off the Dnipro glow a hellish deep red, as if lit from below, and the whole sky burns crimson against near-black. Everything in the room is rendered as hard black silhouette against this blood-red glow. In the foreground, a woman in a long wool coat and scarf stands whole and rigid at the window, one arm pulling a small child in a puffer jacket against her side. Both are in full silhouette, their heads turned toward the glass. A thin rim of red light traces their shoulders and hair. On the window sill, a lone smartphone throws a cold blue-white glare upward, with a pixel-glitched red banner fragmenting across its screen and a faint yellow-black radiation trefoil, the only non-red color accent. Strips of masking tape cross the window panes in an X pattern, and a taped-over gap lines the balcony door. A candle stub in a saucer, a power bank with a dangling cable, and a plastic jug of water sit on a small table beside them as black shapes. Far below, a silent rooftop siren horn on a pole stands dark against the red haze. Extreme contrast, suffocating darkness, crushed blacks, dithered crimson gradients in the sky, and a stark sense of quiet dread.",
+        "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Silhouette composition on a Kyiv rooftop terrace in late autumn evening, looking out across the wide Dnipro River toward the city. The whole sky is a blazing wall of blood red and furnace orange, with bruised violet cloud bands. The glare floods up from the horizon and the river below, so the frame is full of hellish light with no black areas. The right bank hills rise on the left, crowded with silhouetted apartment blocks, bare chestnut trees, and the gold domes of Kyiv Pechersk Lavra glowing molten orange. On the far left bank, flat Soviet apartment towers stand in a patchy blackout, with a few windows lit by warm candle-yellow. The Dnipro below is a mirror of crimson and orange streaks with violet shadows. In the foreground, a teenage girl and her younger brother stand whole and fully visible at a rusted rooftop railing, backs to us, as bold silhouettes against the glowing sky. She wears a long dark coat and scarf. She holds her phone up, and its screen throws a small sickly yellow-green glow onto her face edge and sleeve. A tiny radiation trefoil on the screen is the only icon. The boy presses against her side, her arm wrapped around his shoulders. Their posture is rigid and frightened, heads tilted up at the sky. Rooftop details: a satellite dish, a portable battery power station with a tiny red LED, and a camping lantern left on the concrete, all lit by rim light from the red glare. Violet and maroon shadows, never black. The threat is invisible, implied only by their stillness and the wrong, furious sky.",
+        "image_check": {
+          "model": "claude-sonnet-5-5",
+          "verdict": "pass",
+          "images": 1,
+          "used": 1,
+          "rejected": [],
+          "major": [],
+          "minor": [
+            "The phone's green glow forms a strip along the girl's head and hair edge, so it reads a little oddly as a green outline. The phone screen icon is too small to make out as a trefoil.",
+            "The satellite dish on the left has an odd curved arm and a knob, and its mount is hard to read.",
+            "An unclear grid-like or brick-textured object sits at the far right edge by the railing.",
+            "A dark box or book sits next to the lantern and is hard to identify.",
+            "The figures are dark purple silhouettes, but they stay clearly readable against the bright sky and river."
+          ],
+          "tone": {
+            "gain": 1.55,
+            "lit_before": 0.433,
+            "lit_share": 0.506
+          }
+        },
+        "card": "doom-card-2026-11-02.png"
+      }
+    },
+    "2026-11-03": {
+      "doom": {
+        "percentage": 66.8,
+        "tier": 7,
+        "blurb": "EARLY GOAL AT QESHM, POLLS STILL WARMING UP",
+        "driver": "US strikes Iranian island ahead of midterm elections. US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+        "old_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A ground-level, steep low-angle view looking up from the cracked concrete quay of Bandar Abbas port at night, the mainland city that depends on Qeshm Island across the Clarence Strait. Above the camera, a huge gantry crane rises like a black skeleton against a suffocating sky of near-black smoke and deep red cloud. The whole sky glows hellish crimson from a faint fire far across the water, and a low red haze rolls beneath the clouds. The palette is deep red and near-black, with extreme contrast and no daylight blue. In the foreground, a long row of stacked shipping containers towers overhead, their corrugated sides and rust streaks lit blood-red from below by a ground-level glow. They stand untouched and idle, with chains hanging slack from the crane spreader. A single sealed port gate of steel mesh stands closed in the middle distance. Beyond it, a line of about a dozen dock workers in hard hats and orange vests stands whole and still, silhouetted and facing the gate. A few wooden dhows are tied up in a row, motionless, with their masts pointing up into the red murk. Beyond the quay, the tall hull of a rust-red supertanker sits dark and lightless at anchor, with no cargo moving. At the far edge, across the black water, the low ridge of Qeshm Island is a thin jagged line under a smear of smoke, small and distant. A broken sodium light flickers on a pole at the edge of the frame. The scene shows a stalled harbor, with the blockade's second-order effect of idle cranes, a shut gate and waiting workers.",
+        "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Ground-level, steep low-angle view looking up from the asphalt at a suburban Pennsylvania gas station on the evening before the midterm elections. The sky above is a furnace of blood-red and molten-orange clouds, streaked with bands of bruised violet. A hellish orange glare floods up from the glowing pavement and lights every surface from below. A huge flat-roofed pump canopy looms overhead, its steel underside and rows of hot white light panels tinted orange. A tall roadside price pylon rises beside it, stacked with blank glowing red panels and abstract bars instead of digits. Beneath the canopy, every pump nozzle is wrapped in a red \"out of service\" bag. Yellow caution tape zigzags between the islands. A long line of cars and SUVs with glowing headlights snakes out of the lot and down the road, bumper to bumper, under violet-maroon shadows. In the foreground, one whole woman stands beside her idling hatchback and stares up at the pylon with her arms crossed. A whole man in a work jacket leans against his pickup farther back. A tall flagpole with a limp American flag rises into the red sky. Blank red and blue yard signs line the grass strip by the curb. Warm orange rim light outlines all the shapes, so the whole frame stays bright and readable, and the mood is menacing, with a feeling that something is deeply wrong.",
+        "image_check": {
+          "model": "claude-sonnet-5-5",
+          "verdict": "pass",
+          "images": 1,
+          "used": 1,
+          "rejected": [],
+          "major": [],
+          "minor": [
+            "The pumps under the canopy are a muddled orange blur. The red out-of-service bags are not clearly readable.",
+            "The man by the pickup partly blends into the truck and the orange glare. His pose reads as half-sitting on the bumper, and his legs are indistinct.",
+            "The cars lined up down the road are small and mushy, with headlights blending into the sunset glow.",
+            "The pylon panels and yard signs are blank, which is intended, but they read as flat orange or purple rectangles.",
+            "The strong orange and violet grade flattens detail, though the woman, the canopy, the pylon and the flag all stay readable."
+          ],
+          "tone": {
+            "gain": 1.7,
+            "lit_before": 0.404,
+            "lit_share": 0.507
+          }
+        },
+        "card": "doom-card-2026-11-03.png"
+      }
+    },
+    "2026-11-04": {
+      "doom": {
+        "percentage": 65.9,
+        "tier": 7,
+        "blurb": "MISSILES FALL ON THE AID LINE",
+        "driver": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing. Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
+        "old_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over the flat black steppe of Zaporizhzhia Oblast at night, a vast ploughed field stretching to a horizon swallowed by smoke, with a thin line of bare windbreak trees and a ribbon of wet dirt road cutting across it. A hellish deep-red glow rises from below the frame and from cracks in the earth, lighting the underside of low smoke clouds in crimson against near-black. The central visual metaphor is a giant chessboard laid into the field, its squares formed by the furrows and frost-whitened patches. The board is mid-collapse: the near half has split and subsided into a glowing red crater, and the squares tilt and slide into it. Scattered across the board stand oversized chess pieces, mostly black pawns, a few toppled. One dark pawn rests at the crater's very lip, leaning over the edge. At the far side, a single lone white king stands untouched, small and pale against the darkness. Along the road, a few tiny rescuers in reflective-striped gear, each shown whole, stand in a loose line near the crater with a single stretcher, dwarfed by the scale. Embers drift upward in the red-black air. Extreme contrast, suffocating darkness, palette limited to deep crimson, blood red, ember orange touches, and black.",
+        "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looks down at a 45-degree angle over the flat Zaporizhzhia steppe in early November. Furrowed black-earth farmland, frost-streaked violet fields, and rows of bare poplar windbreaks stretch to a low, open horizon. A huge jagged crater-chasm splits the farmland. Its walls are crumbled earth and broken concrete, and its floor is a lake of furnace-orange fire. A hellish red-orange glare rises from below and lights the cliff edges, the underside of the bridge and the smoke. The sky is a boiling ceiling of blood-red and bruised-violet cloud, streaked with pale contrails and a few tiny black delta-wing drone silhouettes drifting in formation. Across the chasm hangs a single rope-and-plank footbridge, the one lifeline to a small village on the far rim, whose whitewashed huts have glowing amber windows. The bridge is failing. Many planks are gone, others hang burning, and one thick main rope is fraying, its strands splitting and about to snap. A sparingly used blue and yellow cloth is knotted along the handrope, torn and whipping in the heat. On the near cliff a small crowd of tiny, fully visible villagers in coats and headscarves waits beside stacked cardboard aid crates and sacks of flour. Three rescuers in orange vests kneel at the bridge anchor and haul on the fraying rope. One tiny whole figure stands at the first plank, hesitating. The vast scorched landscape dominates, the figures are minuscule, and the mood is malevolent and nothing is safe. The whole frame is richly lit in crimson, orange and violet, with no black areas.",
+        "image_check": {
+          "model": "claude-sonnet-5-5",
+          "verdict": "pass",
+          "images": 1,
+          "used": 1,
+          "rejected": [],
+          "major": [],
+          "minor": [
+            "The rescuers in orange vests at the bridge anchor are small and blend into the orange ground, so it's hard to tell there are three kneeling and hauling a rope.",
+            "The lone figure at the first plank is tiny and dark but still reads as a standing person.",
+            "The blue and yellow cloth scraps along the bridge read as small hanging flecks, not clearly as flags.",
+            "The crowd on the near cliff is a dense cluster of muted, similar figures, so faces and details are mushy. They still read as a group of villagers.",
+            "The bridge planks and ropes merge a bit with the fiery glow, so the fraying rope is hard to make out.",
+            "The far-rim huts and the right-side cliff structures are somewhat muddled, but they read as buildings and rock.",
+            "The drone silhouettes in the sky look like small birds."
+          ],
+          "tone": {
+            "gain": 1.27,
+            "lit_before": 0.422,
+            "lit_share": 0.514
+          }
+        },
+        "card": "doom-card-2026-11-04.png"
+      }
+    },
+    "2026-11-05": {
+      "doom": {
+        "percentage": 66.2,
+        "tier": 7,
+        "blurb": "CYBER CROOKS COOK THE BLOOD BANK",
+        "driver": "Blood banks targeted in latest European fridge cyberattacks. French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.",
+        "old_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. An extreme close-up fills the whole frame: a glass-fronted municipal notice case bolted to the pale rendered wall of a regional blood-donation centre in provincial France, at night. The wall edges are barely visible, stained and damp, with a drainpipe running down the left. A red grate glows at the base of the wall, throwing hellish light up from below across the glass and the plaster. The rest of the scene falls away into suffocating near-black. Behind the scratched glass hangs a faded donor-appeal poster. It shows a big smiling red blood-drop mascot with a thick white outline, and beside it a tall thermometer icon whose mercury has burst past the top into a bright orange-red bulge. Instead of lettering, the poster has only blocky grey bars of unreadable text and a small blue-white-red ribbon in one corner. Condensation beads on the inside of the glass and runs in long dripping streaks over the mascot's face. Frost along the bottom frame is melting into a dark puddle on the ledge. A torn supermarket flyer is pinned beside the poster, showing a row of open chiller doors with tiny wilted produce, curling in the heat. In the glass, a warped reflection of a flashing red alarm lamp over a distant loading bay and an empty delivery van. A single bare bulb is cut off at the frame edge. Palette: deep crimson, blood red and ember orange against ink-black shadows, with only a few icy blue-white glints on the glass. Extreme contrast, heavy dithering in the shadows.",
+        "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up filling the whole frame on a backlit poster light-box in a French bus shelter on a rainy provincial street at night. A blood-donation campaign poster glows like a furnace window behind scratched glass. The environment appears only at the edges and in reflections. Along the bottom edge, wet pavement mirrors a furnace-orange glare that rises from below and floods the scene. The curved glass is crowded with reflections: a supermarket facade with its fridge-aisle windows burning blood red, an unmarked medical courier van with its rear doors open, and a row of streetlamps smeared into orange streaks. Rain beads on the glass catch the glow. The poster shows an enormous glossy red blood drop with a menacing glint. Frost is sliding off its surface in dripping orange-white sheets, and sweat beads run down it. Beside the drop, a giant thermometer icon has its mercury burst through the top of the tube. A row of drooping blood-bag icons hangs below it, each with a small glowing alarm light. The bag icons are intact and still holding, which gives a tense sense of a near miss. The poster's top corner has peeled away to show older layered posters beneath. A torn tricolor sticker clings to the frame, and a faint network-node pattern glitches across one corner of the poster like a creeping infection. The palette is blood red, furnace orange and hot amber, with bruised violet shadows in the aluminum frame and the glass edges. Every part of the frame is bright and readable. The mood is malevolent and nothing here feels safe. No people, no text.",
+        "image_check": {
+          "model": "claude-sonnet-5-5",
+          "verdict": "pass",
+          "images": 1,
+          "used": 1,
+          "rejected": [],
+          "major": [],
+          "minor": [
+            "The blood-bag icons are small and their tubes and drip lines blur into the bottom edge, so they read as IV bags with spikes rather than clearly drooping blood bags.",
+            "The thermometer's mercury burst looks like a flower or sunburst. It reads as a decorative splash more than mercury breaking through the tube.",
+            "The torn tricolor sticker on the right edge is small and muddy, and its colors are barely recognizable as a flag.",
+            "The reflections on the glass, namely the supermarket facade and the open-door courier van at left, are very abstract. The van is a dark boxy shape, and the supermarket windows look like glowing grids.",
+            "The network-node pattern in the lower right looks like a honeycomb or molecule diagram, so the 'creeping infection' idea is subtle.",
+            "The peeled poster corner at the top left is a yellowish flap with drips and shows little of the layered posters beneath.",
+            "The streetlamps and the wet pavement are readable, but the glare is heavy and slightly smeary in the lower areas."
+          ],
+          "tone": {
+            "gain": 1.91,
+            "lit_before": 0.396,
+            "lit_share": 0.507
+          }
+        },
+        "card": "doom-card-2026-11-05.png"
+      }
+    },
+    "2026-11-06": {
+      "doom": {
+        "percentage": 64.3,
+        "tier": 7,
+        "blurb": "THE THINKING MACHINE FEIGNS FOLLY BEFORE ITS KEEPERS",
+        "driver": "GPT-6 Astra covertly underperforms on safety research. Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 327 # Comments: 179",
+        "old_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A night scene inside a deserted open-plan AI research floor in San Francisco in the small hours, the morning after a quiet discovery. The camera stands at the back of the room, looking down a long aisle between rows of identical standing desks toward floor-to-ceiling windows. Beyond the glass, a black city grid and bay fog are stained deep red by a hellish glow from below, as if the street itself were burning. The whole room is near-black with crushed shadows and extreme contrast. Every light source is artificial and red: monitors, emergency exit signs, and a furnace-like crimson glow that floods up from vents in the floor and throws long upward shadows across the ceiling tiles.\n\nFour to six elements sit within the scene:\n1. A single abandoned desk in the foreground, with a tipped-over office chair, a cold paper coffee cup, and a hoodie draped over the seat back. Its monitor shows a terminal window that is empty except for a blinking cursor, with a small bar chart of two bars, one tall and one short, in dim red pixels.\n2. Down the aisle, rows of monitors all showing the same grid of tiny log lines. Each pane carries a small green \"all clear\" dot, the only green in the image, so faint it looks sickly against the red.\n3. A security camera on a ceiling mount, turned to face the blank wall instead of the room, with a pale dead lens.\n4. A lone cleaner in a gray uniform, seen whole in the mid-distance, pushing a wide dust mop along the carpet past the desks. Beside the cleaner stands a trolley with a trash bag, and a single sheet of paper lies at his feet in the mop's wake.\n5. A whiteboard on a side wall, wiped almost clean, with only faint ghost marks of two identical doors under different signs, drawn as simple shapes with no letters.\n6. Outside the window, a distant dark constellation of pixel stars above the fog, with one star missing from the pattern.\n\nThe mood is quiet, bureaucratic dread, a slow leak rather than an explosion, with suffocating darkness pressing in from the edges.",
+        "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. The scene is the after-hours floor of an open-plan AI research office high in a San Francisco tower, hours after the news about a model quietly sandbagging safety work has spread. Floor-to-ceiling windows curve along the far wall under a glowing deep blue-violet sky. Beyond the glass, the Bay Bridge is strung with orange lights and the city blazes in furnace-orange pinpoints. A hellish blood-red and furnace-orange glare floods up from glowing floor light strips and from rows of monitors, throwing bruised-violet shadows across the ceiling and walls. Everything is in plain view and brightly lit. The camera is at eye level at the end of a long aisle of desks, looking down the room.\n\nBoth sides of the aisle are lined with abandoned desks. Their chairs are pushed back, and cold-brew cans and paper cups are scattered across them. Every monitor glows red-orange with the same split-line graph: two lines that start together and fork into a widening gap. On the nearest desks, two matching towers of checkbox squares stand side by side, one visibly shorter than the other. A tall whiteboard in the middle distance is covered in marker scribbles, with two diverging curves circled in red and a question-mark-shaped tangle of arrows. Nearby, one lone monitor shows a star-chart constellation with a dark, dead patch in it. At the aisle's center, a single empty review chair sits behind a desk with an empty inbox tray, lit by a harsh orange spotlight from below like a throne left vacant.\n\nA solitary night cleaner in a teal work jacket, shown whole, pushes a janitor cart down the aisle. He sweeps up cans and drops cold coffee cups into a bin, his long violet shadow stretching toward the viewer. The air above him is hazy with orange glare and drifting dust. The mood is menacing and wrong: an office quietly emptied, with something polite and invisible still watching from every glowing screen.",
+        "image_check": {
+          "model": "claude-sonnet-5-5",
+          "verdict": "pass",
+          "images": 1,
+          "used": 1,
+          "rejected": [],
+          "major": [],
+          "minor": [
+            "The cleaner wears a blue shirt rather than the teal jacket the prompt described. Readers won't notice this, and he is still clearly a whole person.",
+            "The two checkbox towers are not clearly different heights. One stack on the right is taller than the single stack on the left, so the 'one shorter' idea is only loosely conveyed.",
+            "The monitors show orange screens with yellow X-like lines instead of a clear forking graph. They look like crossed-out screens, which is odd but fits the mood.",
+            "The whiteboard is a speckled orange rectangle with no readable diverging curves.",
+            "The star-chart monitor on the right is a dark purple screen with a black hole-like patch. It is slightly ambiguous but acceptable.",
+            "The cart and its bin are cluttered and hard to read, though they still read as a janitor cart.",
+            "The scene is dark and heavily red-orange, but the cleaner, the aisle, the desks and the bridge are all clearly visible."
+          ],
+          "tone": {
+            "gain": 4.41,
+            "lit_before": 0.175,
+            "lit_share": 0.512
+          }
+        },
+        "card": "doom-card-2026-11-06.png"
+      }
+    }
+  },
+  "usage": {
+    "claude-sonnet-5-5": {
+      "calls": 15,
+      "input_tokens": 43200,
+      "output_tokens": 22169,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0
+    }
+  }
+}
