@@ -31916,5 +31916,400 @@
       },
       "estimated_usd": 1.0623
     }
+  },
+  {
+    "date": "2026-11-07",
+    "generated_at": "2026-11-07T10:42:57.245654+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 63.3,
+      "raw_percentage": 61.3,
+      "blind_scores": [
+        60.8,
+        60.8,
+        61.5,
+        61.7,
+        61.8
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.49,
+        "min": 60.8,
+        "max": 61.8,
+        "se": 0.35
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 61.8,
+        "2": 60.8,
+        "3": 61.5,
+        "4": 60.8,
+        "5": 61.7
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has the most nature-documentary headline ('drift above the cable beds' reads like seabed wildlife), a fresh and specific FAA floppy-disk closer, and it avoids Candidate 3's rehash of yesterday's markets-panicking-at-the-wrong-thing joke and Candidate 2's 'exactly what...' echo and recycl",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 31.3,
+            "scores": [
+              31.0,
+              31.0,
+              31.0,
+              32.0,
+              33.0
+            ]
+          },
+          "Alignment": {
+            "value": 14.0,
+            "scores": [
+              11.0,
+              14.0,
+              14.0,
+              14.0,
+              16.0
+            ]
+          },
+          "Governance": {
+            "value": 25.0,
+            "scores": [
+              22.0,
+              23.0,
+              26.0,
+              26.0,
+              27.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 57.7,
+            "scores": [
+              57.0,
+              57.0,
+              58.0,
+              58.0,
+              58.0
+            ]
+          },
+          "Nuclear": {
+            "value": 27.0,
+            "scores": [
+              26.0,
+              27.0,
+              27.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Biotech": {
+            "value": 17.7,
+            "scores": [
+              16.0,
+              17.0,
+              17.0,
+              19.0,
+              19.0
+            ]
+          },
+          "Cyber": {
+            "value": 42.7,
+            "scores": [
+              41.0,
+              42.0,
+              42.0,
+              44.0,
+              46.0
+            ]
+          },
+          "Climate": {
+            "value": 19.0,
+            "scores": [
+              17.0,
+              19.0,
+              19.0,
+              19.0,
+              21.0
+            ]
+          },
+          "Wild Card": {
+            "value": 23.0,
+            "scores": [
+              22.0,
+              23.0,
+              23.0,
+              23.0,
+              26.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 61.3,
+            "sd": 0.49,
+            "se": 0.35,
+            "scores": [
+              60.8,
+              60.8,
+              61.5,
+              61.7,
+              61.8
+            ]
+          },
+          "power": {
+            "value": 37.0,
+            "sd": 0.15,
+            "se": 0.0,
+            "scores": [
+              36.9,
+              37.0,
+              37.0,
+              37.0,
+              37.3
+            ]
+          },
+          "mean": {
+            "value": 28.8,
+            "sd": 0.44,
+            "se": 0.11,
+            "scores": [
+              27.9,
+              28.6,
+              28.8,
+              28.9,
+              29.0
+            ]
+          },
+          "max": {
+            "value": 57.7,
+            "sd": 0.55,
+            "se": 0.41,
+            "scores": [
+              57.0,
+              57.0,
+              58.0,
+              58.0,
+              58.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 61.3,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 61.3,
+        "se": 0.35,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 6.54,
+        "K": 0.321,
+        "shock_p": 0.005,
+        "innovation": -3.0,
+        "prev": 64.3,
+        "noise_sd": 4.51,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Ships loiter near subsea cables amid Iran's warnings to Trump. Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "category": "Geopolitics",
+      "blurb": "STRANGE VESSELS DRIFT ABOVE THE CABLE BEDS",
+      "summary": "Trump calls the Qeshm missiles 'minor strikes' and 'not a war', which is a bold framing while Iran's ships idle over the internet's undersea plumbing and threaten to cut it. Meanwhile Chainalysis admits AI-assisted hackers walked off with every customer's keys, and Wired reports free Chinese models can now pick digital locks nearly as well as OpenAI's private one. At least the FAA promises to retire its floppy disks by 2028, assuming there's still a network to plug them into.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Claims that AI is speeding up AI research arrive alongside free Chinese models posting near-frontier hacking scores."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Midterm voters turned on Big Tech, Congress is summoning Jensen Huang, and data center protests are growing into actual break-ins."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "US strikes on Qeshm and Iranian threats against subsea cables keep a live interstate war simmering, even as Qatar works the back channel."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No new misbehaving-model headlines today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "Paraguay's bank collapse topples a president while hoax bomb threats keep diverting European flights."
+        }
+      ],
+      "mood": [
+        "submerged",
+        "jittery",
+        "brittle",
+        "watchful"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. The camera stands inside a high-floor apartment living room in Manama, Bahrain, in the middle of the night, looking toward a huge floor-to-ceiling window. Beyond it the Persian Gulf is a sheet of molten orange and blood red. A giant refinery flare and burning-sky glare on the far shore floods the whole scene from below and outside, turning the water into a furnace-colored mirror under a bruised violet sky. Tiny rust-red tanker silhouettes sit scattered on the glowing bay, each with a pinprick light. One gap in the pattern marks a ship that has gone dark. The skyline of Manama's towers and a curved causeway glow amber along the window's lower edge.\n\nInside, the room is lit by hard red-orange light spilling across a patterned Gulf-style carpet, a low sofa and a shelf. Violet and maroon shadows pool behind the furniture. A father in a white thobe stands whole at the glass with his arms crossed, a stark silhouette rimmed in orange. On the sofa a small girl in pajamas holds a tablet whose screen shows only a pale spinning loading circle, and beside her a mother holds a phone with a cracked blue glow. On the shelf a Wi-Fi router blinks a single angry red light, with a tangled cable trailing from it down the wall. A wall-mounted TV shows only a flickering signal-lost pattern of colored bars. Everything is in plain view, and the hellish glare makes the mood menacing and unsafe.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The father's thobe reads as maroon/purple rather than white because of the orange-red grade, but he is still a clear silhouette with crossed arms.",
+          "The mother's dark robe blends into the sofa and shadow at the lower right, so her lower body is hard to separate from the furniture.",
+          "The girl's tucked legs and feet are slightly muddled against the sofa cushions but still read as a seated child.",
+          "The 'dark ship' gap in the tanker pattern is not noticeable, and the tanker silhouettes are tiny.",
+          "The router and cable on the shelf and the TV color bars are small but legible, and there is no garbled text anywhere."
+        ],
+        "tone": {
+          "gain": 4.31,
+          "lit_before": 0.241,
+          "lit_share": 0.511
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 36.7,
+      "driver": "Less than 4 minutes of vigorous exercise a day could halve your dementia risk. Bursts of vigorous physical activity, such as carrying heavy shopping or rushing for the bus, seem to have a significant effect on our brain health and dementia risk",
+      "category": "Medicine",
+      "blurb": "SHOPPING BAGS 1, DEMENTIA 0",
+      "summary": "Hauling the groceries up the stairs or dashing for the bus may be doing your brain a real favour: researchers found that under four minutes a day of vigorous bursts was linked to roughly half the dementia risk. Your morning coffee may help too, with a 43-year study tying two to three cups a day to sharper thinking, and a separate study showed psilocybin building fresh neural connections in stressed brains. Further out, the Rubin Observatory spotted two hidden companions of the Milky Way after scanning just 7% of the sky.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "The Vera C. Rubin Observatory has found a faint new galaxy and a dust-hidden star cluster orbiting the Milky Way, and hundreds more may be waiting."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "inMusic, parent of Akai and Moog, is opening up the inner workings of its gear so the modding community can build on it freely."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Eddie, a 3-year-old Labrador, was named 2026 Hero Dog for transforming the daily life of his legally blind owner, Luis Rodriguez."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "New evidence shows Europe's wild past was a mosaic of open woodlands and colorful meadows, giving rewilding efforts a richer blueprint to work from."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "blazing",
+          "detail": "Voyager 1 is becoming the first spacecraft to travel a full light-day from Earth, nearly half a century after launch."
+        }
+      ],
+      "mood": [
+        "energized",
+        "sharp",
+        "playful",
+        "wonder",
+        "hopeful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "SHOPPING BAGS 1, DEMENTIA 0 wears the scoreboard form with a sharp, specific joke about a real study, while Candidate 1 reuses the Voyager light-day item from the 11-04 card and Candidate 2's blurb ignores the directive's format and echoes the 'medicine had more good news today' shape of recent card",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-07.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over the edge of a British market town on a clean, clear morning. Terraced brick streets and green allotment plots spill down a hillside into a wide valley of patchwork fields, with a last thin veil of mist lifting off the river and long soft shadows shortening in warm amber light. The palette is warm amber and soft green throughout, with pale gold roofs, fresh green hedgerows and clear, calm air. The scene shows the quiet second-order effect of fewer people falling ill with dementia. In the foreground, a low brick memory clinic with a slate roof and a small garden sits beside an almost empty car park, with only two parked cars and rows of bare, tidy white bay lines. Its wide lawn is unused and its door stands quietly shut. Just beyond it, a busy allotment field is full of tiny silver-haired gardeners in coats and scarves, tending bean rows, carrying watering cans and chatting over fences, each one a whole figure. On a winding lane through the middle ground, a red double-decker bus pauses at a stop while a few unhurried older adults step aboard with shopping bags. Farther along a path that stretches toward the horizon, a grandmother and a grandfather walk calmly hand in hand with small grandchildren toward a village school with a green playing field. Tiny figures and a vast, open, hopeful landscape dominate the frame.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The red double-decker bus on the lane looks a little blocky and its windows and doors are muddy, and its pixels blend slightly into the nearby figures and the terrace wall.",
+          "Several allotment gardeners are small, with blurry faces and clothing that merges into the plots. Some of them look a little fused with the beds and watering cans in the lower left.",
+          "A figure near the clinic's front corner and the car park edge is partly hidden by the hedge and fence.",
+          "The clinic's roof has an odd inner gable or hip, which makes the roofline a bit confusing.",
+          "The greenhouse and shed in the lower left are simplified and slightly unclear in shape.",
+          "The path group on the right (a grandparent with children) is tiny and loosely drawn, but it reads fine as a group of walkers."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.732,
+          "lit_share": 0.732
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 159114,
+        "output_tokens": 17421,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17938,
+        "output_tokens": 8470,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.1055
+    }
   }
 ]
