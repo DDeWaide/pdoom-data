@@ -32311,5 +32311,402 @@
       },
       "estimated_usd": 1.1055
     }
+  },
+  {
+    "date": "2026-11-08",
+    "generated_at": "2026-11-08T10:44:57.994326+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 65.0,
+      "raw_percentage": 66.4,
+      "blind_scores": [
+        65.7,
+        66.1,
+        66.3,
+        66.8,
+        69.3
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.43,
+        "min": 65.7,
+        "max": 69.3,
+        "se": 0.27
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 69.3,
+        "2": 66.8,
+        "3": 66.3,
+        "4": 65.7,
+        "5": 66.1
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "medium": 2,
+            "low": 3
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 has a clipped, concrete field-note headline and the sharpest line of the three ('attempted' as a generous word for a damaged facade), and it gives the over-used fridge-hack beat a new honeypot angle; Candidate 2 recycles the 'months into major combat operations' opener, and Candidate 3 r",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 28.3,
+            "scores": [
+              26.0,
+              27.0,
+              27.0,
+              31.0,
+              34.0
+            ]
+          },
+          "Alignment": {
+            "value": 19.3,
+            "scores": [
+              16.0,
+              17.0,
+              19.0,
+              22.0,
+              23.0
+            ]
+          },
+          "Governance": {
+            "value": 24.0,
+            "scores": [
+              22.0,
+              22.0,
+              24.0,
+              26.0,
+              27.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 63.0,
+            "scores": [
+              62.0,
+              63.0,
+              63.0,
+              63.0,
+              66.0
+            ]
+          },
+          "Nuclear": {
+            "value": 26.0,
+            "scores": [
+              24.0,
+              25.0,
+              26.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Biotech": {
+            "value": 7.3,
+            "scores": [
+              7.0,
+              7.0,
+              7.0,
+              8.0,
+              8.0
+            ]
+          },
+          "Cyber": {
+            "value": 39.0,
+            "scores": [
+              38.0,
+              38.0,
+              38.0,
+              41.0,
+              46.0
+            ]
+          },
+          "Climate": {
+            "value": 19.0,
+            "scores": [
+              17.0,
+              19.0,
+              19.0,
+              19.0,
+              19.0
+            ]
+          },
+          "Wild Card": {
+            "value": 21.7,
+            "scores": [
+              21.0,
+              21.0,
+              21.0,
+              23.0,
+              27.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.4,
+            "sd": 1.43,
+            "se": 0.27,
+            "scores": [
+              65.7,
+              66.1,
+              66.3,
+              66.8,
+              69.3
+            ]
+          },
+          "power": {
+            "value": 39.0,
+            "sd": 0.77,
+            "se": 0.5,
+            "scores": [
+              38.3,
+              38.5,
+              38.8,
+              39.8,
+              40.0
+            ]
+          },
+          "mean": {
+            "value": 27.9,
+            "sd": 1.0,
+            "se": 0.6,
+            "scores": [
+              26.6,
+              27.2,
+              27.8,
+              28.8,
+              28.9
+            ]
+          },
+          "max": {
+            "value": 63.0,
+            "sd": 1.52,
+            "se": 0.0,
+            "scores": [
+              62.0,
+              63.0,
+              63.0,
+              63.0,
+              66.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 66.4,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 66.4,
+        "se": 0.27,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 11.15,
+        "K": 0.548,
+        "shock_p": 0.06,
+        "innovation": 3.1,
+        "prev": 63.3,
+        "noise_sd": 4.51,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Saudi Aramco building in Riyadh damaged in \u2018attempted\u2019 attack.",
+      "category": "Geopolitics",
+      "blurb": "SHRAPNEL ON THE ARAMCO TOWER",
+      "summary": "Houthi missiles went looking for Riyadh and found an Aramco building, which the Saudis are calling merely 'attempted.' That is a generous word for a damaged facade. Meanwhile the US Navy disabled a St. Kitts-flagged freighter in the Gulf of Oman and Washington put a $20m bounty on Iran's nuclear secrets, so the Gulf remains open for business, just not shipping. Back home, supermarket fridges are now a cyber front, and hobbyists are building fake ones to watch the burglars work.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "METR's finding that AI is speeding up its own development still echoes, and world models are teaching machines to handle physics."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Export controls waved H200s through to a hollow Chinese office as voters punish data centers at the ballot box."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Missiles at Riyadh, a freighter disabled in the Gulf of Oman and Russian strikes on Ukraine's grid keep multiple wars burning."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Coding agents spilling secrets onto GitHub is embarrassing hygiene, not a rogue mind."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "A Krakow massacre, a continent of cost-of-living protests and a Paraguayan presidency lost to a bank collapse."
+        }
+      ],
+      "mood": [
+        "smoldering",
+        "brittle",
+        "jittery",
+        "grim"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A dust-choked dusk over the King Abdullah Financial District in north Riyadh, the whole sky a wall of blood-red and furnace-orange haze, with fine desert dust hanging so thick that the towers stand half-swallowed in glowing fog. The camera stands on an empty elevated highway on the flat dun-colored Najd plateau, looking across a stretch of rust-lit scrub at the faceted glass-and-steel towers of KAFD rising like jagged crystal teeth. Hellish orange glare floods the scene from below, as if the ground itself were a furnace, lighting the undersides of the haze and every tower facade, with bruised violet shadows pooling between the buildings. In the center, the Aramco tower stands taller than its neighbors, its glass skin glowing ember-orange. One wounded section high on its face is blown out, with spiderwebbed panels, torn metal fins and a ragged black-violet gash trailing a thin ribbon of smoke into the haze. Above the skyline, curving white interceptor contrails scar the red sky, and a fading orange-white airburst bloom hangs in the dust with a slow rain of glowing debris falling toward the district. In the lower foreground, the honeycomb-faceted metro station, shaped like a Zaha Hadid hive, glows from within. Beside it, a plaza is scattered with glittering shards of glass and metal that reflect the furnace light in sparks of orange and crimson. A lone security guard in a pale uniform stands whole and small beside a parked white pickup, staring up at the tower. The mood is malevolent and oppressive: every surface is lit in hot red and orange, nothing is hidden in black, and the atmosphere is the dominant element, turning the modern skyline into the boss stage of a 16-bit inferno.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The lone guard at lower center-right is a small, faint figure that blends into the orange palette, and the figure is hard to read. It doesn't show any clear anatomy errors.",
+          "The white pickup truck is a little muddled, with a blurry cab and windshield, but it still reads as a truck.",
+          "The 'metro station' is a looping hive-like structure with a muddled form, and the foreground plaza is a noisy field of orange speckle. Neither reads clearly as a plaza with glass shards.",
+          "The airburst is drawn as a bright sun-like starburst with thin rays instead of a debris-raining bloom, so it looks like the sun. The three interceptor contrails are short, diagonal streaks that look more like meteors.",
+          "The wound on the central tower is a dark, fuzzy patch with a smoke plume, and it reads more like a scorch mark than a blown-out section.",
+          "The color grade is monochrome orange with little contrast, so some of the towers' details are lost."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.669,
+          "lit_share": 0.669
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 35.0,
+      "driver": "A 55-Year-Old Math Problem Was Solved\u2014This Time by Humans. A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "category": "Discovery",
+      "blurb": "YOUNG MATHEMATICIANS CRACK 55-YEAR-OLD PUZZLE",
+      "summary": "A band of young mathematicians has solved a conjecture that sat open for 55 years, a problem first inspired by juggling, and they did it with clever use of randomness and plenty of friendship. In the US, homelessness saw its largest drop in more than a decade last year. And in Corpus Christi, firefighters dressed as superheroes rappelled down the glass walls of Driscoll Children's Hospital while young patients waved from the windows.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A team of young mathematicians cracked a 55-year-old conjecture rooted in the mathematics of juggling."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "US homelessness recorded its largest single-year decline in more than a decade, a shift both officials and advocacy groups are working to understand and extend."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Corpus Christi firefighters in superhero costumes rappelled down a children's hospital to delight the kids inside."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Engineers are finding ways to capture the heat that data centres release and put it to good use."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Genetics and archaeology together are revealing how Bantu speakers spread across much of Africa, filling in a great chapter of human history."
+        }
+      ],
+      "mood": [
+        "curious",
+        "playful",
+        "collaborative",
+        "delighted",
+        "hopeful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1's headline matches the wire-service subject-verb-object form exactly, it avoids the overused 'Elsewhere' transition (unlike Candidate 2), and it skips the 'AFTER N YEARS' headline shape recently used on 11-03 and 10-12 (unlike Candidate 3), while still naming the real story plainly.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-08.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on the face of an antique cream-enamel clock, seen straight on in clean, clear morning light. The palette is warm amber and soft green, and the mood is of shadows lifting and clarity arriving. The curved glass cover at the frame's edges holds a pale reflection of a dewy green meadow under a soft amber sky, which implies the outdoors without showing it. Around the dial sit seven evenly spaced brass studs with no numerals, a clock of seven positions. Seven juggling balls hang mid-flight above it, alternating amber and soft green, each with a single pip pattern instead of a number. Each ball traces its own luminous arc of pale gold light, with a different height and flight time, and each descends toward a different brass stud. No two arcs cross and no two balls share a landing. At the far left edge, a tangled scatter of golden straw strands lies in chaos on the enamel. As the strands move rightward they straighten and align into the calm, orderly arcs, so random mess resolves into pattern. A slim brass clock hand rests at the top stud, and its soft shadow lifts off the enamel. Crisp dithered highlights, chunky pixel clusters and a clean amber-and-green glow give a quiet, hopeful feel.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The clock hand points up at the top stud, but its pivot hub sits below center and the tip lands on a stud that sits below the top ball, so the layout reads as a hand rather than a clock face.",
+          "Only seven studs are present, and they sit in a fan pattern rather than around the dial. This is acceptable given the prompt.",
+          "Tiny tick marks and specks above two of the balls look like stray noise or faint text but are not readable.",
+          "The straw tangle at the lower left is dense and clumpy, and it only loosely straightens into the arcs, so the 'chaos to order' idea is weak.",
+          "The glass reflection at the corners is blocky and checkered, which looks slightly odd but fits the pixel style.",
+          "Some arcs are faint or end abruptly, so ball-to-stud pairing is not always clear. For example, the far-left arc starts in the straw and seems to have no ball."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.942,
+          "lit_share": 0.942
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 116475,
+        "output_tokens": 17858,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 15750,
+        "output_tokens": 7152,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 0.9261
+    }
   }
 ]
