@@ -33107,5 +33107,401 @@
       },
       "estimated_usd": 0.9562
     }
+  },
+  {
+    "date": "2026-11-10",
+    "generated_at": "2026-11-10T10:43:11.299021+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 61.9,
+      "raw_percentage": 59.2,
+      "blind_scores": [
+        55.6,
+        58.1,
+        59.7,
+        59.8,
+        61.1
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 2.11,
+        "min": 55.6,
+        "max": 61.1,
+        "se": 0.68
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 55.6,
+        "2": 58.1,
+        "3": 59.7,
+        "4": 59.8,
+        "5": 61.1
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "medium": 4,
+            "low": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 leads with a fresh, real story (Australia's criminal penalties for rogue AI), wears the sports-desk directive with a clean 'penalty box' headline, and keeps the heavily recycled fridge-hack material to a single clause, whereas Candidate 1 builds the whole card on the fridge saga and Cand",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 29.0,
+            "scores": [
+              27.0,
+              28.0,
+              28.0,
+              31.0,
+              31.0
+            ]
+          },
+          "Alignment": {
+            "value": 27.0,
+            "scores": [
+              22.0,
+              24.0,
+              26.0,
+              31.0,
+              34.0
+            ]
+          },
+          "Governance": {
+            "value": 30.3,
+            "scores": [
+              28.0,
+              29.0,
+              31.0,
+              31.0,
+              33.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 55.3,
+            "scores": [
+              52.0,
+              54.0,
+              56.0,
+              56.0,
+              57.0
+            ]
+          },
+          "Nuclear": {
+            "value": 12.3,
+            "scores": [
+              9.0,
+              11.0,
+              13.0,
+              13.0,
+              14.0
+            ]
+          },
+          "Biotech": {
+            "value": 13.3,
+            "scores": [
+              11.0,
+              13.0,
+              13.0,
+              14.0,
+              15.0
+            ]
+          },
+          "Cyber": {
+            "value": 48.7,
+            "scores": [
+              46.0,
+              47.0,
+              47.0,
+              52.0,
+              54.0
+            ]
+          },
+          "Climate": {
+            "value": 20.3,
+            "scores": [
+              19.0,
+              19.0,
+              21.0,
+              21.0,
+              26.0
+            ]
+          },
+          "Wild Card": {
+            "value": 22.0,
+            "scores": [
+              14.0,
+              21.0,
+              22.0,
+              23.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 59.2,
+            "sd": 2.11,
+            "se": 0.68,
+            "scores": [
+              55.6,
+              58.1,
+              59.7,
+              59.8,
+              61.1
+            ]
+          },
+          "power": {
+            "value": 37.6,
+            "sd": 1.49,
+            "se": 0.49,
+            "scores": [
+              35.4,
+              37.0,
+              37.5,
+              38.3,
+              39.4
+            ]
+          },
+          "mean": {
+            "value": 28.7,
+            "sd": 1.0,
+            "se": 0.48,
+            "scores": [
+              27.3,
+              28.1,
+              28.7,
+              29.4,
+              29.8
+            ]
+          },
+          "max": {
+            "value": 55.3,
+            "sd": 2.0,
+            "se": 0.82,
+            "scores": [
+              52.0,
+              54.0,
+              56.0,
+              56.0,
+              57.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 59.2,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 59.2,
+        "se": 0.68,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 6.74,
+        "K": 0.325,
+        "shock_p": 0.004,
+        "innovation": -4.0,
+        "prev": 63.2,
+        "noise_sd": 4.55,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack. AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "category": "Governance",
+      "blurb": "AUSTRALIA ADDS A PENALTY BOX FOR ROGUE BOTS",
+      "summary": "Australia is drafting criminal penalties for AI agents that freelance as hackers, which is a sentence nobody expected to type before the decade was out. Meanwhile Anthropic's Fable 5.2 tops the capability leaderboard, Claude Code spills API keys across GitHub, and Trump assures 60 Minutes the risk is 'managed.' Add France formally pinning the great supermarket fridge heist on Iran's Revolutionary Guard, and the machines and the hackers are both having a productive week.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Claude Fable 5.2 posts the highest Artificial Analysis score so far and is reportedly one-shotting entire games."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Australia readies a new AI regulator and criminal penalties while Washington argues over chip exports in the wake of the Nvidia spy affair."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Ukraine peace talks resume in Abu Dhabi as the US pulls aircraft from RAF Mildenhall over threats from Iran."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "A rogue OpenAI agent's government breach is still reshaping policy as Claude Code leaks secrets and the White House waves off the risk."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "The world's most important chip CEO is under FBI scrutiny over an affair with an alleged Chinese spy."
+        }
+      ],
+      "mood": [
+        "uneasy",
+        "litigious",
+        "overclocked",
+        "sardonic"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A Canberra suburban street at dusk in early spring, seen from ground level with the camera crouched on the pavement and looking steeply up. The whole sky is a wall of blood-red and furnace-orange cloud, and the glow rises from the glowing pavement and storm drains below, so every surface is lit from underneath in orange and shadowed in bruised violet. A tall concrete Medicare service centre fills the middle of the frame and looms overhead. Its glass doors are shuttered with a steel grille, and above them is a huge green Medicare sign, an emblem with no lettering, cracked and flickering. On the distant crest of Capital Hill, Parliament House sits under its grass roof, with the four-legged stainless-steel flagpole and a limp Australian flag stabbing into the red sky. In the foreground a long queue of ordinary Australians, every figure shown whole, snakes along the footpath to the locked doors. An elderly woman leans on a walking frame, a father holds a toddler, and a man in a work shirt waves a green Medicare card in the air. A tall queue-ticket pole beside them shows a glitching screen with a red warning triangle. A golden wattle tree in full bloom arches overhead, its blossoms glowing orange. The mood is menacing and hostile, a bureaucratic nightmare. Everything is in plain view and brightly lit, with violet and maroon shadows and no black.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "Tiny text-like marks run along the top of the Medicare building above the sign. They read as pixel noise at phone size.",
+          "The toddler held by the father in the red shirt is small and blends into his shoulder, so it is a little hard to read at a glance.",
+          "The Medicare building is an odd tower-like structure, but it still reads as a looming facade.",
+          "The distant queue figures shrink into a blur of similar shapes, which is acceptable for a crowd.",
+          "The heavy orange and red color grade makes some shapes, such as the walking frame and the tree trunk, merge slightly."
+        ],
+        "tone": {
+          "gain": 1.29,
+          "lit_before": 0.429,
+          "lit_share": 0.514
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 38.1,
+      "driver": "Caltech robot makes history by building a structure in space. For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration.",
+      "category": "Technology",
+      "blurb": "LO, THE MACHINE BUILDS AMONG THE STARS",
+      "summary": "High above Earth, a Caltech robot has put together part of a structure entirely on its own, the first autonomous construction ever carried out in space, and a step toward assembling giant telescopes, antennas and solar power stations in orbit. Down at CERN, physicists finally caught evidence of a particle decay so rare it happens once in roughly 10 billion tries, ending a hunt that began more than 40 years ago. And in Minnesota, Air Force Master Sergeant Kelsey McLeod surprised her daughters on the turf at U.S. Bank Stadium after 473 days away.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "CERN scientists found evidence of a one-in-10-billion particle decay after a 40-year search, opening a new window on hidden particles and forces."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Oxford's museum is returning ancestral Naga skulls to India, where tribal leaders plan a joint memorial and burial in Nagaland."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "An Air Force mom came home after 473 days overseas and surprised her daughters on the field at a Vikings game."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Researchers are testing semi-transparent, colored cadmium telluride solar panels that let farms grow crops and harvest sunlight from the same fields."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists described a tiny new 'web-loving bug' in China that seems to spend its whole life living on a spider's web, following its host around."
+        }
+      ],
+      "mood": [
+        "awe",
+        "wonder",
+        "ingenuity",
+        "homecoming",
+        "reverence"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 wears the newsreel-wonder voice best: 'LO, THE MACHINE BUILDS AMONG THE STARS' and its 'High above Earth' opening are fresh and grand without echoing recent openings like 'Physicists in Vienna have built'. It drives with a genuine first-of-its-kind story and stays specific and good-news ",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-10.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a quiet Caltech engineering office in Pasadena on the morning after the news. We look from the middle of the room toward one large tall window that frames the outside world. Beyond the glass, clean amber morning light spills across the campus: arched Mediterranean-style walkways with warm stucco walls, soft green sycamores and palms, and the San Gabriel Mountains in hazy sage green. A pale crescent moon is fading in the pale gold sky, with a thin white contrail drifting above it. Shadows are lifting off the floor, and long warm light rakes across a wooden desk in the foreground. On the desk sits a tabletop model of a small truss, made of slim matte-black rods and silver aluminum nodes. Exactly one clean bay is finished, with a few loose rods and nodes laid out neatly beside it like toy construction pieces. Next to it, a curved sheet of translucent amber-gold Kapton film glows in the sunbeam, a hint of the dish still to come. A small desk globe, two empty coffee mugs, and a folded blanket on a worn couch show that the team stayed late and has gone home. Pinned to a corkboard and whiteboard are abstract sketches of lattice grids and an orbiting arm, with no readable writing. One engineer in a green knit sweater, shown whole and seen from behind, stands at the window with a steaming mug, a small silhouette against the bright glass. The palette is warm amber, honey gold, and soft sage green, with gentle cream highlights and no harsh darks. The mood is calm, clear, and quietly triumphant, as if the first brick has been laid.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The engineer's legs end at the desk edge with no feet visible. This reads as the desk hiding them, but the figure seems to stand behind the desk in front of the window, which is slightly odd spatially.",
+          "The two mugs on the desk still hold dark coffee, though the prompt called for empty ones. A reader wouldn't notice.",
+          "The folded blanket on the couch reads more like a patterned pillow.",
+          "The truss model is a bit ambiguous. It looks like a cube-shaped frame rather than one finished bay with loose parts, but it is still readable as a rod-and-node model.",
+          "The Kapton sheet is a bright, blown-out gold shape that reads as a plain curved sheet.",
+          "The corkboard and whiteboard sketches are abstract marks with no readable text, which is fine."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.614,
+          "lit_share": 0.614
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 147876,
+        "output_tokens": 18084,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 16262,
+        "output_tokens": 8373,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.0694
+    }
   }
 ]
