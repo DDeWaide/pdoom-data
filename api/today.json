@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T10:43:18.161217+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T10:43:33.335790+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 65.4,
-    "raw_percentage": 67.0,
+    "percentage": 64.6,
+    "raw_percentage": 63.7,
     "blind_scores": [
-      66.2,
-      66.4,
-      67.0,
-      67.6,
-      68.1
+      60.3,
+      63.1,
+      63.2,
+      64.7,
+      65.4
     ],
     "spread": {
       "n": 5,
-      "sd": 0.8,
-      "min": 66.2,
-      "max": 68.1,
-      "se": 0.45
+      "sd": 1.96,
+      "min": 60.3,
+      "max": 65.4,
+      "se": 0.64
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 68.1,
-      "2": 67.6,
-      "3": 67.0,
-      "4": 66.2,
-      "5": 66.4
+      "1": 65.4,
+      "2": 60.3,
+      "3": 64.7,
+      "4": 63.2,
+      "5": 63.1
     },
     "factor_consensus": {
       "AI Capability": {
@@ -35,29 +35,28 @@
         }
       },
       "Governance": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "medium": 2,
-          "low": 3
+          "medium": 5
         }
       },
       "Geopolitics": {
         "signal": "high",
         "votes": {
-          "high": 5
+          "high": 4,
+          "elevated": 1
         }
       },
       "Alignment": {
         "signal": "low",
         "votes": {
-          "low": 3,
-          "medium": 2
+          "low": 5
         }
       },
       "Wild Card": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 5
+          "low": 5
         }
       }
     },
@@ -65,8 +64,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidate 2's 'MINES CLAIM THREE SHIPS' best fits the wire-service deadpan, steers clear of the 10-30 'FOUR TANKERS... HORMUZ' shape and the recent 'which is one way to' and 'bold' echoes, and its summary makes one sharp point: the war is leaking into London and DC zip codes.",
+      "pick": 3,
+      "why": "Its blurb 'BRITAIN COLLARS IRAN BASE PLOTTERS' wears the tabloid directive best with one hard, cheeky verb, and its summary avoids yesterday's 'leaking/spreading' framing with a fresh 'branch office in the UK' joke and a sharp polar-vortex closer, while the others echo the 11-11 and 11-09 cards' war",
       "fallback": false
     },
     "shadow": {
@@ -74,143 +73,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 31.7,
+          "value": 23.3,
           "scores": [
-            31.0,
-            31.0,
-            31.0,
-            33.0,
-            34.0
+            22.0,
+            23.0,
+            23.0,
+            24.0,
+            26.0
           ]
         },
         "Alignment": {
-          "value": 19.7,
+          "value": 10.3,
           "scores": [
-            19.0,
-            19.0,
-            19.0,
-            21.0,
-            22.0
+            9.0,
+            10.0,
+            10.0,
+            11.0,
+            11.0
           ]
         },
         "Governance": {
-          "value": 18.3,
-          "scores": [
-            16.0,
-            16.0,
-            17.0,
-            22.0,
-            23.0
-          ]
-        },
-        "Geopolitics": {
-          "value": 63.3,
-          "scores": [
-            63.0,
-            63.0,
-            63.0,
-            64.0,
-            64.0
-          ]
-        },
-        "Nuclear": {
-          "value": 12.7,
-          "scores": [
-            9.0,
-            11.0,
-            13.0,
-            14.0,
-            14.0
-          ]
-        },
-        "Biotech": {
-          "value": 45.7,
-          "scores": [
-            38.0,
-            44.0,
-            46.0,
-            47.0,
-            48.0
-          ]
-        },
-        "Cyber": {
           "value": 27.0,
           "scores": [
-            23.0,
+            27.0,
             27.0,
             27.0,
             27.0,
             31.0
           ]
         },
-        "Climate": {
-          "value": 19.7,
+        "Geopolitics": {
+          "value": 61.3,
           "scores": [
-            17.0,
-            19.0,
-            19.0,
-            21.0,
-            21.0
+            58.0,
+            61.0,
+            61.0,
+            62.0,
+            63.0
+          ]
+        },
+        "Nuclear": {
+          "value": 13.0,
+          "scores": [
+            10.0,
+            11.0,
+            14.0,
+            14.0,
+            14.0
+          ]
+        },
+        "Biotech": {
+          "value": 7.7,
+          "scores": [
+            7.0,
+            7.0,
+            8.0,
+            8.0,
+            8.0
+          ]
+        },
+        "Cyber": {
+          "value": 25.0,
+          "scores": [
+            22.0,
+            23.0,
+            26.0,
+            26.0,
+            29.0
+          ]
+        },
+        "Climate": {
+          "value": 29.0,
+          "scores": [
+            22.0,
+            27.0,
+            29.0,
+            31.0,
+            31.0
           ]
         },
         "Wild Card": {
-          "value": 22.3,
+          "value": 17.3,
           "scores": [
-            21.0,
-            21.0,
-            23.0,
-            23.0,
-            26.0
+            14.0,
+            16.0,
+            17.0,
+            19.0,
+            19.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 67.0,
-          "sd": 0.8,
-          "se": 0.45,
+          "value": 63.7,
+          "sd": 1.96,
+          "se": 0.64,
           "scores": [
-            66.2,
-            66.4,
-            67.0,
-            67.6,
-            68.1
+            60.3,
+            63.1,
+            63.2,
+            64.7,
+            65.4
           ]
         },
         "power": {
-          "value": 39.9,
-          "sd": 0.83,
-          "se": 0.15,
+          "value": 36.7,
+          "sd": 1.04,
+          "se": 0.47,
           "scores": [
-            38.6,
-            39.7,
-            39.8,
-            40.1,
-            40.9
+            35.0,
+            36.2,
+            36.4,
+            37.4,
+            37.6
           ]
         },
         "mean": {
-          "value": 28.9,
-          "sd": 1.37,
-          "se": 0.75,
+          "value": 23.5,
+          "sd": 0.88,
+          "se": 0.4,
           "scores": [
-            27.3,
-            28.0,
-            28.7,
-            30.0,
-            30.6
+            22.9,
+            23.1,
+            23.2,
+            24.1,
+            25.0
           ]
         },
         "max": {
-          "value": 63.3,
-          "sd": 0.55,
+          "value": 61.3,
+          "sd": 1.87,
           "se": 0.41,
           "scores": [
-            63.0,
-            63.0,
-            63.0,
-            64.0,
-            64.0
+            58.0,
+            61.0,
+            61.0,
+            62.0,
+            63.0
           ]
         }
       },
@@ -220,67 +219,68 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 67.0,
+      "composite": 63.7,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 67.0,
-      "se": 0.45,
+      "input": 63.7,
+      "se": 0.64,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 13.89,
-      "K": 0.679,
-      "shock_p": 0.123,
-      "innovation": 5.1,
-      "prev": 61.9,
-      "noise_sd": 4.52,
+      "P": 9.49,
+      "K": 0.459,
+      "shock_p": 0.009,
+      "innovation": -1.7,
+      "prev": 65.4,
+      "noise_sd": 4.55,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Iran denies talks with US, says Hormuz will stay shut until demands are met. Mohsen Rezaei&#039;s comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
+    "driver": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets. Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
     "category": "Geopolitics",
-    "blurb": "MINES CLAIM THREE SHIPS",
-    "summary": "Three ships burning on IRGC mines, a Treasury Secretary relocated to a military base because Tehran found his house on the internet, and an alleged Iran-backed plot near RAF Fairford: the war is now leaking into London and DC zip codes. Meanwhile Congo's Ebola count blew past 11,000 and Google released an agent swarm to the public, because apparently today needed more swarming things.",
+    "blurb": "BRITAIN COLLARS IRAN BASE PLOTTERS",
+    "summary": "Nearly 20 alleged attacks, one of them aimed at a British base full of American jets: the Iran war has apparently opened a branch office in the UK. Meanwhile the US Treasury Secretary now lives on a military base, Kushner and Witkoff are touring Moscow and Dublin, and Russia keeps switching off Ukraine's lights. The tech world is too busy watching Nvidia's boardroom soap opera to notice that the polar vortex just collapsed a month early.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Gemini 4 Carbon goes public with agent swarms, and AlphaProof Code and Gemini Robotics 2.5 round out a heavy DeepMind week."
+        "detail": "DeepMind verifying Signal's cryptography and AlphaGenome 2 decoding disease genetics point to AI quietly taking over serious scientific grunt work."
       },
       {
         "name": "Governance",
-        "signal": "low",
-        "detail": "A US-China AI dialogue and a regulation-minded Wiener headed to Congress amount to paperwork, not guardrails."
+        "signal": "medium",
+        "detail": "The world's most important chip CEO may be fired over an alleged MSS spy affair, just as Congress moves to tighten China export controls."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Hormuz stays shut and mined, Iran-linked plots surface in the UK, and Russia-Ukraine talks produce four hours of nothing."
+        "detail": "Iran-backed plots on a UK base hosting US jets show a hot war spilling into allied territory while Ukraine and Gaza keep burning."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "A new robot jailbreak benchmark, leaky Grok Build apps and AI-faked 911 calls show the misuse surface growing."
+        "signal": "low",
+        "detail": "No rogue-model headlines today, just think pieces weighing open AI risks."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "A US soldier is accused of spying for Russia in London while investors bunker into defensive stocks."
+        "signal": "low",
+        "detail": "A deadly ambush in Pakistan, Barcelona street clashes and an Indonesian resignation add noise but no global shockwave."
       }
     ],
     "mood": [
-      "smoldering",
       "besieged",
-      "jittery",
-      "feverish"
+      "paranoid",
+      "frosty",
+      "scandalized",
+      "tense"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-11.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over the eastern Strait of Hormuz, rendered as a vast molten landscape. The water is a sheet of glowing furnace-orange crude with blood-red ripples, and a hellish glare rises from it to light everything from below. On the left, the jagged tan-grey limestone cliffs of Oman's Musandam Peninsula plunge into the channel, their fjord inlets lit orange with bruised-violet shadow faces. A tiny fishing village of flat-roofed huts clings to a cove, and its windows glow. On the right, the low red-ochre, salt-streaked islands of Hormuz and Qeshm sit in a hazy crimson mist, with the Iranian mainland coast behind them. Spanning the whole narrow channel from cliff to island is a colossal rust-pitted iron chain, its links as big as houses, sagging just above the water. At its center hangs a giant black iron padlock, the size of a city block, clamped shut. A huge brass key is jammed in its keyhole, snapped off halfway and glinting gold-orange. Around the chain, black spiked naval mines with rusted horns bob in the glowing water. Each is ringed by a small burning slick, and together they form a menacing scatter across the strait. Thick black-violet smoke columns rise from two of the slicks into a blood-red sky streaked with furnace-orange cloud. On a lit ledge of the Musandam cliff, a few tiny whole figures stand in silhouette, dwarfed by the lock and looking out at it. No ships are visible, and the whole frame is vivid and fully readable.",
+    "card_image": "doom-card-2026-11-12.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. An extreme close-up fills the whole frame: a creased broadsheet newspaper lies flat on a scarred oak table in a Suffolk village pub near RAF Lakenheath. The pub window at the top edge of the frame holds a reflected view of the flat Breckland horizon. A flint-walled church tower and a row of grass-mounded aircraft shelters sit under a sky of blood-red and furnace-orange cloud. A hellish orange glare rises from below the frame, from an unseen glowing bar heater at table level. It floods upward across the paper so every fold and ink block is plainly visible. Shadows fall in bruised violet and maroon. The newspaper's front page is the main subject. A huge halftone photo, built from chunky red and orange pixel dots, shows a gray F-15E Strike Eagle tail fin with twin vertical stabilizers rising from a hardened shelter behind a razor-wire fence. Beneath it sits a smaller halftone of three hooded figures in puffer jackets standing in a car park, each shown whole, with phone-glow faces. A third small inset shows a lone figure in a U.S. Army camouflage uniform with bowed head between two uniformed British officers, all fully visible. Thick black bars and blocks stand in for headline and body type, with no readable letters. At the right edge, a half-drunk pint of bitter glows amber and holds a tiny curved reflection of the burning sky. A beer mat printed with a Union Jack and Stars and Stripes pattern lies beside it, one corner scorched and curling. A cracked burner phone lies on the paper's corner with its screen glowing a sickly Iranian green. The mood is malevolent and nothing feels safe, and the whole scene stays bright and readable at phone size.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -289,75 +289,75 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The chain on the left runs along and merges into the cliff face rather than clearly spanning from the cliff over the water, so its anchor point is a bit muddled.",
-        "The chain's right end curls into a loop on the island and ends abruptly, not reading as a clean attachment.",
-        "The padlock sits on the water rather than hanging from the chain, and the key is small and a little hard to read as snapped off.",
-        "The right-hand islands are flat, striated terraces that look more like stepped sand dunes than salt-streaked islands, and the Iranian mainland is hard to make out.",
-        "The tiny figures on the left ledge are very small and blobby, but they read as silhouettes.",
-        "The fishing village is barely visible; the cliff has glowing cave openings instead of obvious huts.",
-        "The mines are fairly evenly scattered and similar in size, which looks repetitive."
+        "The three hooded figures in the lower-left photo have dark, indistinct faces, with only small glowing phone lights. This matches the prompt and is fine at phone size.",
+        "The aircraft in the main photo is a dark halftone silhouette. The twin tail fins read clearly, but the fuselage and shelter blend into the fence and ground.",
+        "The Union Jack beer mat is partly cropped and its Stars and Stripes half is hard to make out. The scorched corner is subtle.",
+        "The phone screen shows a green blob with a dark shape, not a clearly cracked screen. It reads as a glowing phone.",
+        "The pint glass has a murky reflection, and the sky reflection is barely visible.",
+        "The headline and body-text blocks are plain black bars with no letters, so there is no garbled text.",
+        "The overall palette is very orange and dark, but the newspaper, glass and phone all stay readable."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.729,
-        "lit_share": 0.729
+        "lit_before": 0.502,
+        "lit_share": 0.502
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-11.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-12.png"
   },
   "dawn": {
-    "percentage": 34.6,
-    "driver": "Vin\u00edcius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal. Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+    "percentage": 35.4,
+    "driver": "Australian teen missing in bush for six days rescued alive. The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
     "category": "Human Spirit",
-    "blurb": "ON NEW LEGS, YOUNG ZAHER RISES",
-    "summary": "Zaher told the BBC last year that he dreamed of walking again and loved Vin\u00edcius Jr. Viewers answered with an appeal that got him prosthetic legs, and now his hero has sent him a personal message. In Trinidad and Tobago, Jason Jones won his 11-year legal fight as the court overturned the country's anti-homosexuality laws. And four NASA volunteers stepped out after more than a year in a simulated Mars habitat, where they grew their own food and learned lessons for future crews on the Moon and Mars.",
+    "blurb": "SIX DAYS IN THE BUSH, THEN GROUNDED",
+    "summary": "A 17-year-old who spent six days lost in the Australian bush is home, alive and in deep trouble with his mum, who says he is grounded for life and never leaving the house again. In southern Iraq the ancient marshes are coming back to life, and in Senegal young breakdancers are warming up for Africa's first-ever Olympic event. Off Florida, the record-setting SS United States has begun a new career as the world's largest artificial reef.",
     "factors": [
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Astronomers built a digital twin of the James Webb Space Telescope to strip away starlight glare, making faint exoplanets two to 15 times easier to spot, and found a hidden world with it."
+        "detail": "An independent re-analysis confirmed that the Event Horizon Telescope's famous black hole ring really is there, and general relativity holds up."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Volunteers with Musicians On Call are bringing live music to the bedsides of hospitalized veterans."
+        "detail": "Senegal is hosting the Youth Olympic Games, the first Olympic event ever held in Africa, and its breakdancers are ready to compete on home ground."
       },
       {
         "name": "Human Spirit",
         "signal": "blazing",
-        "detail": "A boy who dreamed of walking again now has prosthetic legs, thanks to strangers who answered his story, and a message from his football hero."
+        "detail": "Searchers brought a teenager home alive after six days in the Australian bush, and his mother greeted the news with relief and a joke."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground."
+        "signal": "bright",
+        "detail": "Water is returning to southern Iraq's marshes, where one of the world's oldest ways of life is beginning to revive."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Fossils from Thailand reveal Yakamys sirindhornae, a 66-pound rodent from 34 million years ago that shows giant rodents evolved far earlier than anyone knew."
+        "signal": "glimmer",
+        "detail": "At Children's Nebraska, window washers dressed as superheroes rappelled past patients' windows and made a hospital full of kids grin."
       }
     ],
     "mood": [
-      "tender",
-      "wondrous",
-      "uplifted",
-      "hopeful",
-      "awed"
+      "relieved",
+      "playful",
+      "renewed",
+      "joyful",
+      "homecoming"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "Its blurb 'ON NEW LEGS, YOUNG ZAHER RISES' matches the directive's quiet nature-documentary form, names the boy at the heart of a genuine small miracle, avoids repeating recent cards (unlike Candidate 3, which echoes the recent Hungary LGBTQ card), and stays purely on good news.",
+      "pick": 2,
+      "why": "Candidate 3 recycles the superheroes-at-a-children's-hospital bit from 11-08, so Candidate 2 wins: its terse field-note headline wears today's form and its 'home, alive and in deep trouble with his mum' line lands the one human detail with the day's sharpest wit.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-11.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene of a flat concrete rooftop in a crowded Cairo neighborhood where Sudanese families have settled, seen through thick, glowing morning haze. Warm amber mist fills the whole frame and softens everything beyond the rooftop edge into layered silhouettes: stacked brick apartment blocks with forests of satellite dishes, a distant minaret, and a few palm tops fading into the golden fog. Clean low sun burns through the haze and lifts the shadows, with soft green and amber tones throughout. In the foreground, rooftop planters of mint and leafy green plants hold glistening dew. A white football jersey with a crest-like emblem and no readable lettering hangs on a laundry line, backlit and glowing in the sun. A worn football rests on the concrete. Near it, a Sudanese boy of about thirteen stands tall and smiling on two sleek prosthetic legs, shown whole and dignified, wearing a white jersey. His mother stands beside him in a flowing sage-green headscarf and robe, one hand on his shoulder. Two other children in the mid-ground kick a second ball through the drifting mist. The mood is hopeful and tender: shadows lifting, clarity arriving.",
+    "card_image": "dawn-card-2026-11-12.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION in dense Victorian eucalypt forest east of Melbourne on Thursday morning, with the camera low in a ferny gully looking toward the sunrise. Towering gum trunks with peeling bark rise like dark columns, and a blazing amber-gold sun pours between them through soft drifting mist. The canopy of grey-green leaves is edged in glowing light, the forest floor is a carpet of bright soft-green ferns and damp leaf litter, and long shadows are lifting and thinning. In the middle distance a tall teenage boy stands upright and calm in a clearing, seen from behind as a pure black silhouette with no face, at the spot where he waited. Moving toward him through the mist are three rescuers in dark silhouette: a police officer with one arm outstretched, a second officer wiping their eyes, and a dog handler with a police dog straining happily ahead on its lead. At the right edge, a mother in silhouette runs into frame with her arms open, about to hold her son. A small helicopter hangs in the glowing sky between the trunks at upper left, its rotor wash stirring the mist. Warm amber light rims every figure, fern frond and strand of bark, and the palette is warm amber and soft green with clean morning clarity. The mood is a held breath released into relief.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -366,35 +366,34 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The boy's prosthetic legs are thin, dark and a little robotic. They read as prosthetics, and the legs and boots connect cleanly to his shorts.",
-        "The crest and swoosh-like marks on both jerseys are tiny and unreadable. They work as stand-ins for a logo, not as lettering.",
-        "The two children in the mid-ground are soft, hazy silhouettes with simplified limbs. This fits the haze and distance.",
-        "The mother's hand on the boy's shoulder is slightly blocky, but it connects to her arm and reads correctly.",
-        "The pixel dithering and heavy amber grade lower the contrast on the background buildings. This is intentional."
+        "The helicopter's tail boom runs into a dark tree branch at upper left, so the two blur together a little.",
+        "The dog is small and lost in the mist beside the handler's legs, so it reads as a vague shape.",
+        "The rescuers are murky silhouettes. The one at far left is hard to read, and the 'wiping eyes' gesture is not clear.",
+        "The mother is cropped at the right edge. Her body is bulky and her rear leg and foot are a little awkward, but her arms and legs still connect to her body."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.794,
-        "lit_share": 0.794
+        "lit_before": 0.535,
+        "lit_share": 0.535
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-11.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-12.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 149463,
-      "output_tokens": 18120,
+      "input_tokens": 155173,
+      "output_tokens": 17835,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 16393,
-      "output_tokens": 7987,
+      "input_tokens": 14433,
+      "output_tokens": 7686,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0729
+    "estimated_usd": 1.0831
   }
 }
