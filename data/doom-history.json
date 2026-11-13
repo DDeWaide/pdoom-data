@@ -34298,5 +34298,400 @@
       },
       "estimated_usd": 1.0831
     }
+  },
+  {
+    "date": "2026-11-13",
+    "generated_at": "2026-11-13T10:43:26.497819+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 63.6,
+      "raw_percentage": 61.9,
+      "blind_scores": [
+        60.7,
+        60.9,
+        61.1,
+        63.6,
+        63.8
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.54,
+        "min": 60.7,
+        "max": 63.8,
+        "se": 1.08
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 60.9,
+        "2": 63.6,
+        "3": 60.7,
+        "4": 63.8,
+        "5": 61.1
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "high": 2
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 4,
+            "medium": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Its headline best matches the formal, grand newsreel form without the exclamation-mark tabloid shape already used on 10-16. Its summary leads with the concrete Baltic strike and closes on a fresh 'skipping the safety lap' line rather than the recycled 'Meanwhile'/'At least' cadence and Nvidia-soap f",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 24.0,
+            "scores": [
+              22.0,
+              22.0,
+              24.0,
+              26.0,
+              26.0
+            ]
+          },
+          "Alignment": {
+            "value": 22.0,
+            "scores": [
+              21.0,
+              22.0,
+              22.0,
+              22.0,
+              26.0
+            ]
+          },
+          "Governance": {
+            "value": 31.7,
+            "scores": [
+              27.0,
+              31.0,
+              31.0,
+              33.0,
+              33.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 59.0,
+            "scores": [
+              58.0,
+              58.0,
+              58.0,
+              61.0,
+              61.0
+            ]
+          },
+          "Nuclear": {
+            "value": 9.3,
+            "scores": [
+              9.0,
+              9.0,
+              9.0,
+              10.0,
+              10.0
+            ]
+          },
+          "Biotech": {
+            "value": 13.0,
+            "scores": [
+              11.0,
+              13.0,
+              13.0,
+              13.0,
+              14.0
+            ]
+          },
+          "Cyber": {
+            "value": 27.7,
+            "scores": [
+              27.0,
+              27.0,
+              27.0,
+              29.0,
+              30.0
+            ]
+          },
+          "Climate": {
+            "value": 22.3,
+            "scores": [
+              21.0,
+              21.0,
+              23.0,
+              23.0,
+              26.0
+            ]
+          },
+          "Wild Card": {
+            "value": 19.0,
+            "scores": [
+              16.0,
+              19.0,
+              19.0,
+              19.0,
+              21.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 61.9,
+            "sd": 1.54,
+            "se": 1.08,
+            "scores": [
+              60.7,
+              60.9,
+              61.1,
+              63.6,
+              63.8
+            ]
+          },
+          "power": {
+            "value": 35.8,
+            "sd": 0.75,
+            "se": 0.45,
+            "scores": [
+              35.2,
+              35.3,
+              35.7,
+              36.5,
+              36.9
+            ]
+          },
+          "mean": {
+            "value": 25.3,
+            "sd": 0.55,
+            "se": 0.23,
+            "scores": [
+              24.8,
+              25.0,
+              25.4,
+              25.6,
+              26.2
+            ]
+          },
+          "max": {
+            "value": 59.0,
+            "sd": 1.64,
+            "se": 1.22,
+            "scores": [
+              58.0,
+              58.0,
+              58.0,
+              61.0,
+              61.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 61.9,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 61.9,
+        "se": 1.08,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 7.8,
+        "K": 0.364,
+        "shock_p": 0.006,
+        "innovation": -2.7,
+        "prev": 64.6,
+        "noise_sd": 4.63,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Russian warship hit by Ukrainian drone in Gulf of Finland. The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "category": "Geopolitics",
+      "blurb": "UPON THE BALTIC, A WARSHIP TAKES THE BLOW",
+      "summary": "The war has found a new body of water: a Ukrainian drone hit a Russian warship in the open Baltic, a short swim from NATO's front porch, while Starshield throttling and a US officer arrested for spying for Russia sour the Kremlin peace talks. Elsewhere, the chip king abdicated amid spy-flavored scandal, and Microsoft spent the day unable to answer its own email. Gemini 4 Hydrogen rolled out without the careful release its siblings got, because nothing says 'stable civilization' like skipping the safety lap.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Gemini 4 Hydrogen launches, AI proves a quantum computing limit, and Anthropic heads for the public markets."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Huang and Lutnick are summoned to testify, while Nvidia quietly concedes that chip tracking is doable."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "Ukraine's drone war reaches the open Baltic as peace envoys shuttle between Moscow and Ireland."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "A 'suicide coach' lawsuit and chatbots routing users to scam sites show models misbehaving in the wild."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A $1.6 trillion Nvidia slide and Italian bomb hoaxes add ambient jitter without a single detonation."
+        }
+      ],
+      "mood": [
+        "seaborne",
+        "scandalized",
+        "offline",
+        "uneasy"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide night view of the Narva-J\u00f5esuu beach on the Estonian shore of the Gulf of Finland, the morning after the drone raids. The beach is flat and wide, with pale sand, patches of gray slush, and broken shelf ice along the waterline. Pine and birch forest stands behind the dunes. The sea is a steely pewter-green and reflects the sky in long red-orange streaks. The whole sky glows a hellish blood red and furnace orange along the far horizon, where the burning Ust-Luga oil terminal lights the underside of a thick smoke bank. It fades upward into a bright bruised violet and deep blue. Heavy red-orange glare floods the scene from the horizon and from below. Sand, ice, and every surface are plainly lit. Shadows are violet and navy, never black. Foreground: a wooden promenade lined with old pastel Art Nouveau resort villas, their windows lit warm amber. Cast-iron street lamps throw wide pools of orange light across the boards. In the nearest pool, a municipal worker in a hi-vis jacket and wool hat, shown whole, sweeps drifted sand and slush off the planks with a long broom. A yellow sand-and-salt cart stands beside him. On the beach below, a taped-off cordon of red-and-white tape encloses the gray, snapped, delta-winged wreck of a small drone, half buried in sand. A tripod floodlight blazes white-orange over it. Two Estonian border guards in green winter uniforms, both shown whole, stand beside it, looking out to sea at the burning glow. Far out on the water, the narrow strait is empty except for a thin line of black smoke drifting east toward St Petersburg. The mood is quiet, hostile, and wrong: a calm cleanup under a malevolent red sky.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The sand reads as warm orange-brown rather than the pale sand in the prompt, because of the heavy color grade.",
+          "The two border guards are seen from behind and are small, so they read as dark green silhouettes. They are still clearly two whole people.",
+          "A small dark lump sits next to the drone wreck inside the cordon. It is probably debris, but it is slightly ambiguous.",
+          "The thin line of black smoke over the strait is not visible. The burning shoreline and smoke bank at the horizon are visible.",
+          "A second stick in the yellow cart, probably a shovel handle, is a little hard to read."
+        ],
+        "tone": {
+          "gain": 1.9,
+          "lit_before": 0.312,
+          "lit_share": 0.511
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 36.4,
+      "driver": "Fed up with the healthcare industry, this red state capped insulin prices for patients. Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients.",
+      "category": "Cooperation",
+      "blurb": "NORTH DAKOTA, SENSIBLY, CAPS INSULIN",
+      "summary": "People with diabetes in North Dakota will now pay less for the insulin they need to live, after Republicans and Democrats sat down together and capped the price. The state joins a growing bipartisan movement putting patients first. Further afield, NASA's Perseverance rover confirmed complex organic carbon preserved in ancient Martian rocks, and a Canadian mom became the first woman ever to run 100 continuous miles in Antarctica.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Perseverance confirmed complex organic carbon tucked just beneath the surface of ancient Mars rocks, a key building block in the search for life beyond Earth."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Lawmakers from both parties in North Dakota joined forces to cap what patients pay for insulin."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A Canadian ultramarathoner and mother became the first woman to run 100 continuous miles across Antarctica's ice."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Brown University researchers solved the 'dead layer' problem in ultra-thin magnetic materials, opening a path to AI chips that sip far less energy."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Scientists in T\u00fcbingen clocked crows making visual decisions twice as fast as humans, at about 235 milliseconds with impressive accuracy."
+        }
+      ],
+      "mood": [
+        "sensible",
+        "neighborly",
+        "relieved",
+        "curious",
+        "enduring"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 wears the understatement directive in a fresh 'NORTH DAKOTA, SENSIBLY, CAPS INSULIN' shape, unlike the 'A BRISK\u2026' blurbs that echo recent 'A FAIRLY HOPEFUL\u2026' and 'A HELPFUL LITTLE\u2026' cards, and its plain summary opening avoids the 'Number: \u2026' colon lead that recent cards have used; it is ",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-13.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from between the rows of a sugar beet field on the Kritzberger family farm in the Red River Valley of North Dakota, on a clean, clear fall morning. Low amber sun rakes across the perfectly flat land, and the huge pale-gold sky fills the upper half of the frame with soft wisps of cloud. In the foreground, deep green, purple-tinged sugar beet leaves rise like a canopy at the camera's edge, and golden soybean stalks and ripened grain sway beyond them. Far behind, a century-old red barn and a weathered grain bin stand small on the low horizon, and a faint, thin ground mist burns off in the warm light.\n\nTwo whole figures stand in the middle distance, seen from below so they tower against the sky. Ang, a farmer mother in a worn denim jacket and work boots, stands beside her daughter Nina, a teenage girl in a soft blue jacket. Ang's arm rests around Nina's shoulders. Nina's small insulin pump clip and Dexcom sensor patch on her upper arm are visible but unremarkable. Both look out over the fields with relaxed, unburdened faces, their shoulders loose, as if they can finally breathe. At their feet on the packed dirt sits a canvas satchel with a bright orange Gatorade bottle poking out, a glucose tube, and a spare pump case, a mother's checklist packed and calm.\n\nWarm amber light, soft green leaves, and clean morning clarity, with long gentle shadows lifting off the field. Small red accents, the barn and Ang's scarf, balance the blue of Nina's jacket without any political symbols.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The daughter's feet are hidden behind the satchel and are hard to read, so she looks slightly cut off at the ankles.",
+          "The satchel, tubing, Gatorade bottle and blue cloth at the bottom center are busy and a bit muddled at phone size.",
+          "The pump clip at the daughter's hip is a small blue-gray blob that is hard to identify.",
+          "The soybean stalks on the right are oversized compared with the barn and silo, which exaggerates the depth."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.613,
+          "lit_share": 0.613
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 158485,
+        "output_tokens": 17883,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17288,
+        "output_tokens": 8773,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.1139
+    }
   }
 ]
