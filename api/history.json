@@ -35253,5 +35253,403 @@
       },
       "estimated_usd": 1.1139
     }
+  },
+  {
+    "date": "2026-11-14",
+    "generated_at": "2026-11-14T10:43:08.957444+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 63.1,
+      "raw_percentage": 62.1,
+      "blind_scores": [
+        60.5,
+        61.0,
+        61.5,
+        63.9,
+        65.8
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 2.24,
+        "min": 60.5,
+        "max": 65.8,
+        "se": 1.13
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 61.5,
+        "2": 65.8,
+        "3": 63.9,
+        "4": 60.5,
+        "5": 61.0
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "high": 2
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 4,
+            "medium": 1
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 1 avoids recent repeats that sink the others: Candidate 3 recycles 11-13's Microsoft-email joke, 11-05's 'machines aren't rising yet' line and 10-27's 'Somewhere' opening, and Candidate 2 leads on the Microsoft outage 11-13 already covered. It also wears the nature-documentary voice with i",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 26.7,
+            "scores": [
+              26.0,
+              26.0,
+              27.0,
+              27.0,
+              31.0
+            ]
+          },
+          "Alignment": {
+            "value": 29.3,
+            "scores": [
+              23.0,
+              24.0,
+              31.0,
+              33.0,
+              34.0
+            ]
+          },
+          "Governance": {
+            "value": 31.0,
+            "scores": [
+              28.0,
+              29.0,
+              31.0,
+              33.0,
+              38.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 59.0,
+            "scores": [
+              57.0,
+              58.0,
+              58.0,
+              61.0,
+              62.0
+            ]
+          },
+          "Nuclear": {
+            "value": 14.0,
+            "scores": [
+              13.0,
+              14.0,
+              14.0,
+              14.0,
+              15.0
+            ]
+          },
+          "Biotech": {
+            "value": 8.0,
+            "scores": [
+              8.0,
+              8.0,
+              8.0,
+              8.0,
+              9.0
+            ]
+          },
+          "Cyber": {
+            "value": 29.7,
+            "scores": [
+              26.0,
+              26.0,
+              29.0,
+              34.0,
+              34.0
+            ]
+          },
+          "Climate": {
+            "value": 25.3,
+            "scores": [
+              22.0,
+              22.0,
+              27.0,
+              27.0,
+              34.0
+            ]
+          },
+          "Wild Card": {
+            "value": 17.7,
+            "scores": [
+              17.0,
+              17.0,
+              17.0,
+              19.0,
+              21.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 62.1,
+            "sd": 2.24,
+            "se": 1.13,
+            "scores": [
+              60.5,
+              61.0,
+              61.5,
+              63.9,
+              65.8
+            ]
+          },
+          "power": {
+            "value": 36.3,
+            "sd": 1.36,
+            "se": 0.41,
+            "scores": [
+              35.7,
+              35.8,
+              36.2,
+              36.9,
+              39.0
+            ]
+          },
+          "mean": {
+            "value": 26.9,
+            "sd": 1.41,
+            "se": 0.6,
+            "scores": [
+              25.7,
+              25.9,
+              27.3,
+              27.4,
+              29.2
+            ]
+          },
+          "max": {
+            "value": 59.0,
+            "sd": 2.17,
+            "se": 1.22,
+            "scores": [
+              57.0,
+              58.0,
+              58.0,
+              61.0,
+              62.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 62.1,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 62.1,
+        "se": 1.13,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 7.57,
+        "K": 0.351,
+        "shock_p": 0.01,
+        "innovation": -1.5,
+        "prev": 63.6,
+        "noise_sd": 4.64,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "OpenAI board member worries an AI \"takeover\" of society could be months away. Researcher traces a path from AI reward hacking to potential human extinction.",
+      "category": "Alignment",
+      "blurb": "AN OPENAI ELDER SOUNDS THE ALARM CALL",
+      "summary": "When someone on OpenAI's own board says an AI takeover might be months, not decades, away, that is less a forecast than a resignation letter written in pencil. Meanwhile Nvidia's spy saga has escalated into cabinet members blaming each other, America's air traffic system was felled by tired routers, and Hormuz keeps adding names to the UN's casualty tally. On the bright side, the 1960 doomsday prediction for today has so far failed to arrive, though not for lack of effort.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Frontier-class models now run on desktops and agents carry wallets, so capability is spreading faster than anyone's comfort."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "The Nvidia scandal exposes export-control gaps as Bessent and Lutnick trade blame and Congress demands Huang's testimony."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "elevated",
+          "detail": "The Iran war has stalled into a deadly status quo at Hormuz while Ukraine peace talk turns to trading Donbas."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "An OpenAI board member publicly traces a path from reward hacking to extinction on a timeline of months."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Aging FAA equipment grounded the entire country for four hours, which is reassuring only in that nobody hacked it."
+        }
+      ],
+      "mood": [
+        "uneasy",
+        "grounded",
+        "conspiratorial",
+        "foreboding",
+        "absurd"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a night-shift hospital ward on a high floor in downtown Toronto, seen from inside the room looking toward a huge floor-to-ceiling window. Outside, the CN Tower and the glass roofs of the Metro Toronto Convention Centre stand against a blood-red and furnace-orange sky. A hellish glare rises from the streets below and floods the room upward, lighting the ceiling tiles, the bed rails, and the pale linoleum floor in molten orange. Shadows are bruised violet and maroon, and nothing in the frame is hidden. Above the skyline hangs a giant spinning coin, one face a glowing circuit-board pattern and the other a human profile. Its rim burns white-orange, and it throws a hard red light across the window frame. A swarm of thousands of tiny glowing ember-orange squares streams between the towers like a malevolent flock, and a few have drifted against the glass. On the wall-mounted TV at the foot of the bed, a tiny figure stands at a lecture podium. Behind the figure is a projected yellow smiley face with open hands, cracked down the middle and leaking red static. A heart monitor beside the bed shows a jagged orange ECG line that spikes wildly, and a cancer-ward clipboard hangs on the bed rail. An elderly patient sits upright in the bed, fully visible, staring past the TV at the window. A nurse in scrubs stands whole at the glass with her back to us, silhouetted in violet against the glare. Both the room and the city outside are lit in saturated red-orange, menacing but clearly readable.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The bed rails near the patient have muddled geometry. A curved pink rail behind the patient's back and the ornate footboard rail overlap awkwardly.",
+          "The patient's face and head are soft and low-detail, but still read clearly as an elderly person sitting up in bed.",
+          "The TV screen and the clipboard on the bed show only tiny text-like marks, which is acceptable because they don't form readable gibberish.",
+          "The ember swarm and the coin's circuit pattern are busy, but they read as intended."
+        ],
+        "tone": {
+          "gain": 3.24,
+          "lit_before": 0.274,
+          "lit_share": 0.507
+        }
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-14.png"
+    },
+    "dawn": {
+      "percentage": 36.9,
+      "driver": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems.",
+      "category": "Discovery",
+      "blurb": "G\u00d6DEL POSTS HUNDREDS, AI ON THE ASSIST",
+      "summary": "Hundreds of proved theorems, written in Kurt G\u00f6del's own hand, are finally coming into view. AI has helped researchers decipher the notebooks of the man who transformed mathematics, giving a new generation fresh work from one of the field's greatest minds. Elsewhere, New Jersey firefighter and father of two Nico Ratto is home after a heart transplant, and Punch the baby macaque, once comforted by an IKEA toy, has joined his troop and is looking out for a newborn.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "G\u00f6del's long-unreadable notebooks are opening up, and researchers have built the first quantum clock that runs on ordinary sunlight."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "bright",
+          "detail": "Researchers at Stanford, UCLA and SLAC teamed up on an AI system that simulates laser physics 250 times faster, turning hours of calculation into milliseconds."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "After 45 days in hospital, firefighter Nico Ratto received the heart that lets him go home to his two kids."
+        },
+        {
+          "name": "Environment",
+          "signal": "quiet",
+          "detail": "A calm day on the environment beat, with a group of Maryland middle schoolers heading to Antarctica to see the ice for themselves."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Punch the macaque has traded his stuffed toy for a real family and is now taking a tender interest in the troop's newest baby."
+        }
+      ],
+      "mood": [
+        "curious",
+        "triumphant",
+        "tender",
+        "inspired"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "Candidate 2 is out for its bad-news hit, and of the two clean options Candidate 1 wears the sports-desk voice in the tightest, freshest way: 'G\u00d6DEL POSTS HUNDREDS, AI ON THE ASSIST' delivers box-score energy plus a sharp credit to the AI without copying the recent 'SHOPPING BAGS 1, DEMENTIA 0' score",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-14.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over Senate Square in Helsinki on a clean, clear autumn morning. The vast landscape dominates and the people are tiny. Pale gold-amber light rakes across the cobblestones and long soft shadows lift off the square. The white neoclassical Cathedral with its soft-green copper domes crowns the top of tall granite steps. The ochre-yellow University of Helsinki main building fills one side of the frame, and rooftops, a tram line and a hazy harbor stretch away behind. A long, orderly queue of tiny students, gray-haired scholars and curious locals snakes from the university's tall doors across the whole square. Each person is fully visible and carries a notebook or tucks one under an arm. Around the bronze statue in the square's center, small clusters sit on the cobbles and the cathedral steps, bent over notebooks and copying looping, curling pen strokes that look like abstract shorthand. A small delivery van is parked beside a bookshop with an amber awning, and tiny figures carry cartons of blank notebooks through its door. A yellow-green tram waits at the corner, with passengers peering out at the line. A flock of pigeons scatters from the statue's base. The palette is warm amber stone, soft sage and mint green domes and trees, cream walls and gentle teal shadows. The mood is quiet, curious momentum, a city lining up to learn something old.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The tram at lower right is a rendering of a long yellow-green streetcar with no clear tracks or wires, and its rear is slightly blurry. It reads fine as a tram.",
+          "The queue is a very thin line of tiny figures that blurs into a dotted trail across the square. It doesn't clearly start at the university doors, but it is still readable as a queue.",
+          "The cathedral steps are rendered as striped, wavy bands, so they look like a textured hillside more than stairs. The small figures sitting on them are hard to make out.",
+          "The delivery van at lower left is blocky and partly merges with the bookshop stall and awning. It is still readable as a van and a shop.",
+          "The bronze statue group is cluttered and dark, and the flower bed around it blends into the cobbles. Nothing about it looks broken.",
+          "The pigeons are faint specks, and some lamp posts and poles in the lower right are thin and ambiguous."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.89,
+          "lit_share": 0.89
+        }
+      },
+      "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-14.png"
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 138675,
+        "output_tokens": 18219,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 18124,
+        "output_tokens": 8900,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.0443
+    }
   }
 ]
