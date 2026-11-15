@@ -1,63 +1,64 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T10:43:08.957444+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:42:28.457855+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 63.1,
-    "raw_percentage": 62.1,
+    "percentage": 65.0,
+    "raw_percentage": 66.4,
     "blind_scores": [
-      60.5,
-      61.0,
-      61.5,
-      63.9,
-      65.8
+      65.7,
+      66.0,
+      66.2,
+      67.1,
+      69.1
     ],
     "spread": {
       "n": 5,
-      "sd": 2.24,
-      "min": 60.5,
-      "max": 65.8,
-      "se": 1.13
+      "sd": 1.38,
+      "min": 65.7,
+      "max": 69.1,
+      "se": 0.43
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 61.5,
-      "2": 65.8,
-      "3": 63.9,
-      "4": 60.5,
-      "5": 61.0
+      "1": 69.1,
+      "2": 66.0,
+      "3": 66.2,
+      "4": 67.1,
+      "5": 65.7
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "medium",
-        "votes": {
-          "medium": 5
-        }
-      },
-      "Governance": {
-        "signal": "medium",
-        "votes": {
-          "medium": 5
-        }
-      },
-      "Geopolitics": {
-        "signal": "elevated",
-        "votes": {
-          "elevated": 3,
-          "high": 2
-        }
-      },
-      "Alignment": {
-        "signal": "medium",
-        "votes": {
-          "medium": 5
-        }
-      },
-      "Wild Card": {
         "signal": "low",
         "votes": {
           "low": 4,
           "medium": 1
+        }
+      },
+      "Governance": {
+        "signal": "low",
+        "votes": {
+          "low": 4,
+          "medium": 1
+        }
+      },
+      "Geopolitics": {
+        "signal": "high",
+        "votes": {
+          "high": 5
+        }
+      },
+      "Alignment": {
+        "signal": "low",
+        "votes": {
+          "low": 5
+        }
+      },
+      "Wild Card": {
+        "signal": "medium",
+        "votes": {
+          "medium": 4,
+          "low": 1
         }
       }
     },
@@ -65,8 +66,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "Candidate 1 avoids recent repeats that sink the others: Candidate 3 recycles 11-13's Microsoft-email joke, 11-05's 'machines aren't rising yet' line and 10-27's 'Somewhere' opening, and Candidate 2 leads on the Microsoft outage 11-13 already covered. It also wears the nature-documentary voice with i",
+      "pick": 2,
+      "why": "Candidate 2's blurb 'BAHRAIN RADAR SITE, INTERCEPTORS FIRING' is clipped field-note form, and its summary avoids yesterday's 'less a X than a Y' shape and the recent 'at least something' closer that Candidates 1 and 3 reuse, ending instead on a fresher line about the planet still dropping things.",
       "fallback": false
     },
     "shadow": {
@@ -74,6 +75,66 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
+          "value": 16.3,
+          "scores": [
+            14.0,
+            16.0,
+            16.0,
+            17.0,
+            22.0
+          ]
+        },
+        "Alignment": {
+          "value": 15.3,
+          "scores": [
+            13.0,
+            15.0,
+            15.0,
+            16.0,
+            17.0
+          ]
+        },
+        "Governance": {
+          "value": 19.0,
+          "scores": [
+            17.0,
+            19.0,
+            19.0,
+            19.0,
+            21.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 63.7,
+          "scores": [
+            63.0,
+            63.0,
+            64.0,
+            64.0,
+            66.0
+          ]
+        },
+        "Nuclear": {
+          "value": 11.3,
+          "scores": [
+            9.0,
+            10.0,
+            11.0,
+            13.0,
+            14.0
+          ]
+        },
+        "Biotech": {
+          "value": 23.0,
+          "scores": [
+            21.0,
+            23.0,
+            23.0,
+            23.0,
+            23.0
+          ]
+        },
+        "Cyber": {
           "value": 26.7,
           "scores": [
             26.0,
@@ -83,134 +144,74 @@
             31.0
           ]
         },
-        "Alignment": {
-          "value": 29.3,
+        "Climate": {
+          "value": 35.7,
           "scores": [
-            23.0,
-            24.0,
-            31.0,
-            33.0,
-            34.0
-          ]
-        },
-        "Governance": {
-          "value": 31.0,
-          "scores": [
-            28.0,
             29.0,
             31.0,
-            33.0,
+            38.0,
+            38.0,
             38.0
           ]
         },
-        "Geopolitics": {
-          "value": 59.0,
-          "scores": [
-            57.0,
-            58.0,
-            58.0,
-            61.0,
-            62.0
-          ]
-        },
-        "Nuclear": {
-          "value": 14.0,
-          "scores": [
-            13.0,
-            14.0,
-            14.0,
-            14.0,
-            15.0
-          ]
-        },
-        "Biotech": {
-          "value": 8.0,
-          "scores": [
-            8.0,
-            8.0,
-            8.0,
-            8.0,
-            9.0
-          ]
-        },
-        "Cyber": {
-          "value": 29.7,
-          "scores": [
-            26.0,
-            26.0,
-            29.0,
-            34.0,
-            34.0
-          ]
-        },
-        "Climate": {
-          "value": 25.3,
-          "scores": [
-            22.0,
-            22.0,
-            27.0,
-            27.0,
-            34.0
-          ]
-        },
         "Wild Card": {
-          "value": 17.7,
+          "value": 21.7,
           "scores": [
-            17.0,
-            17.0,
-            17.0,
             19.0,
-            21.0
+            21.0,
+            22.0,
+            22.0,
+            27.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 62.1,
-          "sd": 2.24,
-          "se": 1.13,
+          "value": 66.4,
+          "sd": 1.38,
+          "se": 0.43,
           "scores": [
-            60.5,
-            61.0,
-            61.5,
-            63.9,
-            65.8
+            65.7,
+            66.0,
+            66.2,
+            67.1,
+            69.1
           ]
         },
         "power": {
-          "value": 36.3,
-          "sd": 1.36,
-          "se": 0.41,
+          "value": 38.3,
+          "sd": 0.97,
+          "se": 0.37,
           "scores": [
-            35.7,
-            35.8,
-            36.2,
-            36.9,
-            39.0
+            37.6,
+            37.8,
+            38.2,
+            38.8,
+            40.0
           ]
         },
         "mean": {
-          "value": 26.9,
-          "sd": 1.41,
+          "value": 26.3,
+          "sd": 1.5,
           "se": 0.6,
           "scores": [
-            25.7,
-            25.9,
-            27.3,
-            27.4,
-            29.2
+            23.6,
+            25.4,
+            26.4,
+            27.0,
+            27.3
           ]
         },
         "max": {
-          "value": 59.0,
-          "sd": 2.17,
-          "se": 1.22,
+          "value": 63.7,
+          "sd": 1.22,
+          "se": 0.41,
           "scores": [
-            57.0,
-            58.0,
-            58.0,
-            61.0,
-            62.0
+            63.0,
+            63.0,
+            64.0,
+            64.0,
+            66.0
           ]
         }
       },
@@ -220,68 +221,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 62.1,
+      "composite": 66.4,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 62.1,
-      "se": 1.13,
+      "input": 66.4,
+      "se": 0.43,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 7.57,
-      "K": 0.351,
-      "shock_p": 0.01,
-      "innovation": -1.5,
-      "prev": 63.6,
-      "noise_sd": 4.64,
+      "P": 11.64,
+      "K": 0.57,
+      "shock_p": 0.064,
+      "innovation": 3.3,
+      "prev": 63.1,
+      "noise_sd": 4.52,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "OpenAI board member worries an AI \"takeover\" of society could be months away. Researcher traces a path from AI reward hacking to potential human extinction.",
-    "category": "Alignment",
-    "blurb": "AN OPENAI ELDER SOUNDS THE ALARM CALL",
-    "summary": "When someone on OpenAI's own board says an AI takeover might be months, not decades, away, that is less a forecast than a resignation letter written in pencil. Meanwhile Nvidia's spy saga has escalated into cabinet members blaming each other, America's air traffic system was felled by tired routers, and Hormuz keeps adding names to the UN's casualty tally. On the bright side, the 1960 doomsday prediction for today has so far failed to arrive, though not for lack of effort.",
+    "driver": "Iran says it targets US radar in Bahrain. What do we know?.",
+    "category": "Geopolitics",
+    "blurb": "BAHRAIN RADAR SITE, INTERCEPTORS FIRING",
+    "summary": "Iran says it went after a US radar in Bahrain, Ukraine has quietly taken a third of Russia's refineries offline, and Sudan is being switched off one power station at a time. Back home, America grounded every plane because someone fiddled with a router, which is less comforting than a cyberattack, not more. SpaceX catching a Starship with chopsticks is lovely, but the planet down here is still dropping things.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "medium",
-        "detail": "Frontier-class models now run on desktops and agents carry wallets, so capability is spreading faster than anyone's comfort."
+        "signal": "low",
+        "detail": "Open-model quantizations and an AI heart-risk detector add up to steady progress, not a jump."
       },
       {
         "name": "Governance",
-        "signal": "medium",
-        "detail": "The Nvidia scandal exposes export-control gaps as Bessent and Lutnick trade blame and Congress demands Huang's testimony."
+        "signal": "low",
+        "detail": "Italy's $887M Meta fine and Nvidia's financing scrutiny are regulators doing ordinary regulator things."
       },
       {
         "name": "Geopolitics",
-        "signal": "elevated",
-        "detail": "The Iran war has stalled into a deadly status quo at Hormuz while Ukraine peace talk turns to trading Donbas."
+        "signal": "high",
+        "detail": "Iranian strikes on a US radar in Bahrain, Ukraine's refinery blitz and drone war in Sudan make for active multi-front conflict."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "An OpenAI board member publicly traces a path from reward hacking to extinction on a timeline of months."
+        "signal": "low",
+        "detail": "Helen Toner's warning about untrustworthy AI CEOs is a governance-of-humans problem more than a rogue-model one."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "Aging FAA equipment grounded the entire country for four hours, which is reassuring only in that nobody hacked it."
+        "signal": "medium",
+        "detail": "A router-induced national ground stop, a defused bomb at an ethanol plant and a capsized cruise ship made for a clumsy, jumpy Saturday."
       }
     ],
     "mood": [
-      "uneasy",
+      "jittery",
       "grounded",
-      "conspiratorial",
-      "foreboding",
-      "absurd"
+      "smoldering",
+      "distracted"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a night-shift hospital ward on a high floor in downtown Toronto, seen from inside the room looking toward a huge floor-to-ceiling window. Outside, the CN Tower and the glass roofs of the Metro Toronto Convention Centre stand against a blood-red and furnace-orange sky. A hellish glare rises from the streets below and floods the room upward, lighting the ceiling tiles, the bed rails, and the pale linoleum floor in molten orange. Shadows are bruised violet and maroon, and nothing in the frame is hidden. Above the skyline hangs a giant spinning coin, one face a glowing circuit-board pattern and the other a human profile. Its rim burns white-orange, and it throws a hard red light across the window frame. A swarm of thousands of tiny glowing ember-orange squares streams between the towers like a malevolent flock, and a few have drifted against the glass. On the wall-mounted TV at the foot of the bed, a tiny figure stands at a lecture podium. Behind the figure is a projected yellow smiley face with open hands, cracked down the middle and leaking red static. A heart monitor beside the bed shows a jagged orange ECG line that spikes wildly, and a cancer-ward clipboard hangs on the bed rail. An elderly patient sits upright in the bed, fully visible, staring past the TV at the window. A nurse in scrubs stands whole at the glass with her back to us, silhouetted in violet against the glare. Both the room and the city outside are lit in saturated red-orange, menacing but clearly readable.",
+    "card_image": "doom-card-2026-11-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A pre-dawn view over Bahrain's flat sand-colored coast near Riffa, the whole scene swallowed by a thick blood-red and furnace-orange dust haze that hangs in heavy layers and turns the sky into a glowing wall of fire-colored fog. Hellish orange glare rises from below, from burning-bright floodlights and a molten glow on the horizon, lighting the underside of the haze and every object in plain view, with shadows in bruised violet and deep maroon, never black. In the middle distance, inside a fenced, sandbagged compound of low tan buildings and a few palms, a large tilted flat-faced phased-array radar stands intact on a pedestal, its pale panel lit orange from below, with generators and cable runs around it. Beside it, a Patriot launcher with angled boxes points up into the haze. A line of small dark arrowhead-shaped delta-wing drones with tiny glowing exhaust points descends through the fog toward the radar, only partly clear of the murk, and bright interceptor streaks curve up to meet them as thin glowing trails. In the foreground, a rooftop siren pole on a flat-roofed building and a slim minaret with a lit green band rise into the haze, with a short chain-link fence in the lower corner. Far behind them, the glittering lights of Manama's towers glow as faint smeared orange blocks in the haze. The mood is malevolent, with nothing safe in the frame, and every part of the scene is bright and readable at small size.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -290,71 +290,76 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The bed rails near the patient have muddled geometry. A curved pink rail behind the patient's back and the ornate footboard rail overlap awkwardly.",
-        "The patient's face and head are soft and low-detail, but still read clearly as an elderly person sitting up in bed.",
-        "The TV screen and the clipboard on the bed show only tiny text-like marks, which is acceptable because they don't form readable gibberish.",
-        "The ember swarm and the coin's circuit pattern are busy, but they read as intended."
+        "The radar panel is a flat, nearly featureless glowing slab, so it reads more like a billboard than a phased-array radar.",
+        "The Patriot launcher is partly fused with the truck and cable clutter, and its boxes are a bit muddled.",
+        "The interceptor streaks mostly stop at glowing orbs instead of clearly reaching the drones. Several of them cross the sky at inconsistent angles.",
+        "The drones are fairly large and clear rather than partly hidden in the haze, and they look like jets.",
+        "The minaret's top finial and its green-lit band are slightly smudged.",
+        "The siren pole has loudspeakers stacked in a slightly odd arrangement.",
+        "The chain-link fence in the lower right is a blurry texture.",
+        "The compound walls and sandbags are a repetitive brown blur at phone size."
       ],
       "tone": {
-        "gain": 3.24,
-        "lit_before": 0.274,
-        "lit_share": 0.507
+        "gain": 1.0,
+        "lit_before": 0.666,
+        "lit_share": 0.666
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-14.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-15.png"
   },
   "dawn": {
-    "percentage": 36.9,
-    "driver": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems.",
-    "category": "Discovery",
-    "blurb": "G\u00d6DEL POSTS HUNDREDS, AI ON THE ASSIST",
-    "summary": "Hundreds of proved theorems, written in Kurt G\u00f6del's own hand, are finally coming into view. AI has helped researchers decipher the notebooks of the man who transformed mathematics, giving a new generation fresh work from one of the field's greatest minds. Elsewhere, New Jersey firefighter and father of two Nico Ratto is home after a heart transplant, and Punch the baby macaque, once comforted by an IKEA toy, has joined his troop and is looking out for a newborn.",
+    "percentage": 35.0,
+    "driver": "SpaceX catches upper stage of Starship rocket in historic first. Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+    "category": "Technology",
+    "blurb": "SPACEX CATCHES STARSHIP UPPER STAGE",
+    "summary": "Two mechanical arms reached out from a Texas launch tower and caught Starship's upper stage as it lowered itself home, a first in spaceflight and a big step toward rockets that fly again and again. Outside Dallas, longtime custodian Marilyn Hampton was surprised with an elementary school bearing her name. In Bangkok, 19-year-old Carmelle carried the Philippines to victory at the first-ever Eurovision Song Contest Asia.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "G\u00f6del's long-unreadable notebooks are opening up, and researchers have built the first quantum clock that runs on ordinary sunlight."
+        "signal": "bright",
+        "detail": "Astronomers spotted 2026 ED138, a large icy world beyond Pluto that could become the solar system's sixth recognized dwarf planet."
       },
       {
         "name": "Cooperation",
-        "signal": "bright",
-        "detail": "Researchers at Stanford, UCLA and SLAC teamed up on an AI system that simulates laser physics 250 times faster, turning hours of calculation into milliseconds."
+        "signal": "glimmer",
+        "detail": "Eurovision staged its first regional edition outside Europe, with Asian nations sharing one stage in Bangkok."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "After 45 days in hospital, firefighter Nico Ratto received the heart that lets him go home to his two kids."
+        "detail": "An Aubrey, Texas school district honored beloved custodian Marilyn Hampton by naming a new elementary school after her."
       },
       {
         "name": "Environment",
-        "signal": "quiet",
-        "detail": "A calm day on the environment beat, with a group of Maryland middle schoolers heading to Antarctica to see the ice for themselves."
+        "signal": "glimmer",
+        "detail": "Scientists found a simple way to turn used coffee grounds into biodiesel, and the leftover material can still feed other renewable fuels."
       },
       {
         "name": "Wild Card",
         "signal": "glimmer",
-        "detail": "Punch the macaque has traded his stuffed toy for a real family and is now taking a tender interest in the troop's newest baby."
+        "detail": "Researchers in China named a new giant fungus, Dianjunus rex, which grows up to 20 inches tall."
       }
     ],
     "mood": [
-      "curious",
-      "triumphant",
-      "tender",
-      "inspired"
+      "awe",
+      "pride",
+      "wonder",
+      "gratitude",
+      "momentum"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
       "pick": 1,
-      "why": "Candidate 2 is out for its bad-news hit, and of the two clean options Candidate 1 wears the sports-desk voice in the tightest, freshest way: 'G\u00d6DEL POSTS HUNDREDS, AI ON THE ASSIST' delivers box-score energy plus a sharp credit to the AI without copying the recent 'SHOPPING BAGS 1, DEMENTIA 0' score",
+      "why": "Candidate 1 is the freshest: it skips the worn 'Elsewhere'/'Farther out' transitions and the beyond-Pluto dwarf-planet beat already used on 10-29, and it matches the wire-service directive with a plain subject-verb-object headline and a clean, specific rundown of the Starship catch, Marilyn Hampton ",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-14.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over Senate Square in Helsinki on a clean, clear autumn morning. The vast landscape dominates and the people are tiny. Pale gold-amber light rakes across the cobblestones and long soft shadows lift off the square. The white neoclassical Cathedral with its soft-green copper domes crowns the top of tall granite steps. The ochre-yellow University of Helsinki main building fills one side of the frame, and rooftops, a tram line and a hazy harbor stretch away behind. A long, orderly queue of tiny students, gray-haired scholars and curious locals snakes from the university's tall doors across the whole square. Each person is fully visible and carries a notebook or tucks one under an arm. Around the bronze statue in the square's center, small clusters sit on the cobbles and the cathedral steps, bent over notebooks and copying looping, curling pen strokes that look like abstract shorthand. A small delivery van is parked beside a bookshop with an amber awning, and tiny figures carry cartons of blank notebooks through its door. A yellow-green tram waits at the corner, with passengers peering out at the line. A flock of pigeons scatters from the statue's base. The palette is warm amber stone, soft sage and mint green domes and trees, cream walls and gentle teal shadows. The mood is quiet, curious momentum, a city lining up to learn something old.",
+    "card_image": "dawn-card-2026-11-15.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a symbolic metaphor: two enormous burnished-steel mechanical gripping arms, shown only as the inner curves of their steel pads, closing gently around a single glowing ember-orange sphere of warm light, like a returning homecoming star cradled in an open pair of hands made of machinery. The environment is implied only through the metal's reflections and the frame edges. The polished steel surfaces mirror a clean Texas Gulf coast morning: a flat green marsh-grass horizon, a thin pale sliver of tidal water, and a lattice tower silhouette stretching up through the reflection. Soft amber sunrise light pours across the steel from the left, lifting the shadows so that the deep crevices between the arm plates turn from murky olive to clear, readable sage green. The sphere is made of stainless-steel tile pixels, with a faint scorched-gold edge of reentry warmth on its underside and a tiny curved reflection of the Earth's blue limb. A single thin line of tiny white-gold pixel lights arcs across the top of the sphere like a delicate orbit necklace. In the lower corner of the arm's polished surface, a minuscule reflected crowd of whole, tiny silhouetted figures stands with raised arms. The palette is warm amber, honey gold, soft moss and sage green, and burnished silver, with crisp pixel dithering on the metal gradients, calm and triumphant, clarity arriving.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -363,36 +368,34 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The tram at lower right is a rendering of a long yellow-green streetcar with no clear tracks or wires, and its rear is slightly blurry. It reads fine as a tram.",
-        "The queue is a very thin line of tiny figures that blurs into a dotted trail across the square. It doesn't clearly start at the university doors, but it is still readable as a queue.",
-        "The cathedral steps are rendered as striped, wavy bands, so they look like a textured hillside more than stairs. The small figures sitting on them are hard to make out.",
-        "The delivery van at lower left is blocky and partly merges with the bookshop stall and awning. It is still readable as a van and a shop.",
-        "The bronze statue group is cluttered and dark, and the flower bed around it blends into the cobbles. Nothing about it looks broken.",
-        "The pigeons are faint specks, and some lamp posts and poles in the lower right are thin and ambiguous."
+        "The tiny reflected crowd in the lower-right steel pad is made of small silhouettes with raised arms. They are very small and read as a distant crowd, so they are acceptable.",
+        "The sphere's tile pattern warps unevenly and its orbit-necklace line of lights is slightly irregular. This fits the style.",
+        "The surrounding steel plates are hard to read as 'gripping arms'. They look more like petal or pod shapes, but this is a stylistic ambiguity and not a broken object.",
+        "The lattice tower is repeated in three of the reflections. This is plausible for mirrored surfaces."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.89,
-        "lit_share": 0.89
+        "lit_before": 0.784,
+        "lit_share": 0.784
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-14.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-15.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 138675,
-      "output_tokens": 18219,
+      "input_tokens": 123103,
+      "output_tokens": 15052,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 18124,
-      "output_tokens": 8900,
+      "input_tokens": 15846,
+      "output_tokens": 6682,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0443
+    "estimated_usd": 0.892
   }
 }
