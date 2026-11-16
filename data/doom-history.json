@@ -35488,5 +35488,401 @@
       },
       "estimated_usd": 0.892
     }
+  },
+  {
+    "date": "2026-11-16",
+    "generated_at": "2026-11-16T10:42:44.055564+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 66.1,
+      "raw_percentage": 67.0,
+      "blind_scores": [
+        66.3,
+        66.6,
+        67.2,
+        67.2,
+        67.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.47,
+        "min": 66.3,
+        "max": 67.4,
+        "se": 0.24
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 67.4,
+        "2": 67.2,
+        "3": 66.3,
+        "4": 66.6,
+        "5": 67.2
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "medium": 3,
+            "low": 2
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 wears the dry-understatement directive best with its quiet 'nobody parks three carriers for the scenery' opening and the precise detail of a chlorine-gassed hotel, while Candidate 2 recycles the 11-12 card's 'tech world is too busy\u2026 to notice' shape and Candidate 1 leans on the overheate",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 22.0,
+            "scores": [
+              22.0,
+              22.0,
+              22.0,
+              22.0,
+              24.0
+            ]
+          },
+          "Alignment": {
+            "value": 10.0,
+            "scores": [
+              9.0,
+              10.0,
+              10.0,
+              10.0,
+              10.0
+            ]
+          },
+          "Governance": {
+            "value": 34.0,
+            "scores": [
+              33.0,
+              34.0,
+              34.0,
+              34.0,
+              38.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 63.7,
+            "scores": [
+              63.0,
+              63.0,
+              64.0,
+              64.0,
+              64.0
+            ]
+          },
+          "Nuclear": {
+            "value": 20.3,
+            "scores": [
+              16.0,
+              19.0,
+              21.0,
+              21.0,
+              21.0
+            ]
+          },
+          "Biotech": {
+            "value": 18.3,
+            "scores": [
+              17.0,
+              17.0,
+              19.0,
+              19.0,
+              21.0
+            ]
+          },
+          "Cyber": {
+            "value": 34.0,
+            "scores": [
+              31.0,
+              33.0,
+              33.0,
+              36.0,
+              38.0
+            ]
+          },
+          "Climate": {
+            "value": 27.0,
+            "scores": [
+              27.0,
+              27.0,
+              27.0,
+              27.0,
+              28.0
+            ]
+          },
+          "Wild Card": {
+            "value": 20.7,
+            "scores": [
+              14.0,
+              19.0,
+              21.0,
+              22.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 67.0,
+            "sd": 0.47,
+            "se": 0.24,
+            "scores": [
+              66.3,
+              66.6,
+              67.2,
+              67.2,
+              67.4
+            ]
+          },
+          "power": {
+            "value": 38.9,
+            "sd": 0.24,
+            "se": 0.11,
+            "scores": [
+              38.5,
+              38.7,
+              38.9,
+              39.0,
+              39.1
+            ]
+          },
+          "mean": {
+            "value": 27.7,
+            "sd": 0.63,
+            "se": 0.34,
+            "scores": [
+              27.1,
+              27.3,
+              27.6,
+              28.2,
+              28.6
+            ]
+          },
+          "max": {
+            "value": 63.7,
+            "sd": 0.55,
+            "se": 0.41,
+            "scores": [
+              63.0,
+              63.0,
+              64.0,
+              64.0,
+              64.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 67.0,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 67.0,
+        "se": 0.24,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 10.98,
+        "K": 0.541,
+        "shock_p": 0.039,
+        "innovation": 2.0,
+        "prev": 65.0,
+        "noise_sd": 4.51,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Third US aircraft carrier arrives in Middle East amid tensions with Iran. Trump shares a message saying: \u2018May God protect our troops\u2019 as the USS Theodore Roosevelt arrives in the Middle East.",
+      "category": "Geopolitics",
+      "blurb": "A THIRD CARRIER, JUST IN CASE",
+      "summary": "Nobody parks three aircraft carriers in one neighborhood for the scenery, and with Russia reportedly feeding Tehran satellite intel and the Houthis now holding the Red Sea's chokepoint, the Gulf is getting crowded. Back home, a Microsoft outage somehow gassed 15 hotel guests with chlorine, which is a sentence the cloud industry never wanted to read. Meanwhile the Nvidia spy saga keeps growing heads, and NASA would like a word about El Ni\u00f1o.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Qwen4-Max arrives just as Anthropic goes public, so the race keeps its pace even as the money gets nervous."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "The Nvidia spy scandal is pushing Congress toward tighter chip export rules and pulling Commerce Secretary Lutnick into the spotlight."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "A third carrier, another tanker hit in Hormuz, and Russian space intel for Iran point to an active war that is still stacking up."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "The only AI misbehavior today was a human using it to ace a tax exam."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "The IMF says the AI money machine is standing on one leg, holding $1 trillion of mostly debt-financed circular deals."
+        }
+      ],
+      "mood": [
+        "crowded",
+        "brittle",
+        "uneasy",
+        "scandalous",
+        "overheated"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide view from the Point Loma headland in San Diego at sunset, looking out over the bay and the Pacific. A huge blood-red and furnace-orange sky fills most of the frame, and a swollen molten sun sits on the horizon. It throws hellish glare up from below across churning bands of bruised-violet cloud. The sea is a sheet of burning copper. The low cliffs, dry scrub and agave in the foreground are rimmed in orange light, with maroon and violet shadows. Across the bay, the Coronado Bridge arcs in violet silhouette. Beside it are the cranes and long empty piers of Naval Base San Diego and North Island, with an open gap of glowing water at the berth where a big ship should be. The Old Point Loma Lighthouse stands on the ridge at the right, a stark silhouette. In the foreground, a young Navy wife in a windbreaker and her small daughter in a puffy jacket stand whole and small, seen from behind and cut as bold violet-maroon silhouettes against the glare. They hold hands at a chain-link fence. The mother's phone glows cold blue-white in her free hand, the only cool color in the scene. Faded yellow ribbons are tied along the fence wire and whip in the hot wind. The child's other hand clutches a stuffed bear. Their hair and ribbon ends are lit to a bright orange edge. Menacing, oppressive and unsafe, with every shape clearly readable at phone size.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The Coronado Bridge reads as a long, low, flat span rather than a distinct arc.",
+          "The yellow ribbons are bright and saturated, not faded.",
+          "The mother and child are dark silhouettes with little interior detail, but their shapes, the phone and the bear still read clearly.",
+          "The naval base cranes and piers are small and murky, and the empty berth is hard to make out."
+        ],
+        "tone": {
+          "gain": 2.23,
+          "lit_before": 0.364,
+          "lit_share": 0.507
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 33.9,
+      "driver": "Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate. Las Vegas Raiders fans stayed seated after Fernando Mendoza's first NFL touchdown so his mother, who battles multiple sclerosis, could watch.",
+      "category": "Human Spirit",
+      "blurb": "A WHOLE STADIUM SITS DOWN FOR MOM",
+      "summary": "Fernando Mendoza scored his first NFL touchdown, and the Las Vegas Raiders fans around his mother stayed in their seats so she could see her son celebrate from her wheelchair. Far beyond the stadium lights, NASA's Voyager 1 is about to reach roughly 16 billion miles from Earth, still the most distant thing humanity has ever sent out. Closer to home, scientists found that an existing osteoporosis drug prevented damaging mineral buildup in zebrafish spines, a promising lead for easing chronic back pain.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "New simulations may finally explain the wildly tilted magnetic fields of Uranus and Neptune, a puzzle that has stood since Voyager 2's flybys in the 1980s."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "NPR's Student Podcast Challenge returns for its ninth year, having already brought more than 90,000 young storytellers from grades four through 12 to the mic."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "blazing",
+          "detail": "A crowd of strangers in Las Vegas chose to stay seated so one proud mother had a clear view of her son's first NFL touchdown."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Researchers report that crows can make decisions faster than humans, another reminder of how brilliant our feathered neighbors are."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Voyager 1 hits a new milestone this week at about 16 billion miles from home, still sailing and still setting records nearly five decades after launch."
+        }
+      ],
+      "mood": [
+        "tender",
+        "generous",
+        "proud",
+        "wondrous",
+        "joyful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 leads with the fresh, specific Raiders story under a bright triumphant headline, avoids the 'Sixteen billion miles: that is\u2026' shape and Voyager-led angle already used on recent cards, skips Candidate 1's 'Farther out' transition and filler 'collective grace' line, and stays strictly good",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-16.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on the empty outer concourse of Allegiant Stadium in Paradise, Nevada, hours after a Sunday game. Deep indigo-black shadows fill most of the frame. The only light comes from artificial sources: warm amber sodium lamps on tall poles, a soft green LED strip glowing along the base of a wall, and the green-white glow of a phone screen. A huge, dark, angular stadium wall rises in the background, its black panels catching thin amber rim light. Wide stone steps and a long metal railing lead off into the shadows, and the plaza is quiet and empty, with no people anywhere.\n\nIn the foreground, a hand-painted poster-board sign is taped to a black steel gate post, lit by a cone of amber lamplight. It carries no letters. It shows a bold silver-and-black pictogram of a wheelchair symbol beside a row of small seated-fan icons, with a big downward arrow, all in hand-brushed strokes with slightly crooked edges. Below it on the concrete sits a cardboard box of more identical signs and a fat black marker lying on top. Leaning against the post is a phone propped on a ledge, its screen glowing soft green. The screen shows a pixel news-article layout with a small football icon and blocks of grey lines in place of text. A crumpled silver-and-black foam finger lies nearby, casting a long amber shadow. Soft green light spills across the wet-looking concrete and mixes with the amber pools, while the corners of the frame sink into deep shadow. The mood is tender, quiet and grassroots, with the lamplight pointing to the signs as the story's quiet hero.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The foam finger in the lower left is a bit muddled. Its decoration is hard to read and the shape is slightly lumpy, but it still reads as a foam finger.",
+          "The marker on top of the box of signs is dark and blends into the shadow, so it is hard to tell it's a marker.",
+          "The seated-fan icons on the sign are simple blobs with chair-like shapes. They are slightly ambiguous but acceptable as pictograms.",
+          "The phone's screen content is tiny and abstract, with a small icon and grey line blocks. This matches the 'no text' intent and is not gibberish lettering.",
+          "The phone is propped against the post base rather than clearly sitting on a ledge. This is a small spatial oddity.",
+          "The stadium's angular wall and the stair railing are somewhat jumbled in the midground, but this is just architectural complexity in shadow."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.18,
+          "lit_share": 0.18
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 121399,
+        "output_tokens": 16815,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 15560,
+        "output_tokens": 8413,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 0.9371
+    }
   }
 ]

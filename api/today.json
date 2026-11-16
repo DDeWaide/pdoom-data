@@ -1,45 +1,43 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T10:42:28.457855+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T10:42:44.055564+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 65.0,
-    "raw_percentage": 66.4,
+    "percentage": 66.1,
+    "raw_percentage": 67.0,
     "blind_scores": [
-      65.7,
-      66.0,
-      66.2,
-      67.1,
-      69.1
+      66.3,
+      66.6,
+      67.2,
+      67.2,
+      67.4
     ],
     "spread": {
       "n": 5,
-      "sd": 1.38,
-      "min": 65.7,
-      "max": 69.1,
-      "se": 0.43
+      "sd": 0.47,
+      "min": 66.3,
+      "max": 67.4,
+      "se": 0.24
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 69.1,
-      "2": 66.0,
-      "3": 66.2,
-      "4": 67.1,
-      "5": 65.7
+      "1": 67.4,
+      "2": 67.2,
+      "3": 66.3,
+      "4": 66.6,
+      "5": 67.2
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "low": 4,
-          "medium": 1
+          "medium": 5
         }
       },
       "Governance": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "low": 4,
-          "medium": 1
+          "medium": 5
         }
       },
       "Geopolitics": {
@@ -57,8 +55,8 @@
       "Wild Card": {
         "signal": "medium",
         "votes": {
-          "medium": 4,
-          "low": 1
+          "medium": 3,
+          "low": 2
         }
       }
     },
@@ -66,8 +64,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 2,
-      "why": "Candidate 2's blurb 'BAHRAIN RADAR SITE, INTERCEPTORS FIRING' is clipped field-note form, and its summary avoids yesterday's 'less a X than a Y' shape and the recent 'at least something' closer that Candidates 1 and 3 reuse, ending instead on a fresher line about the planet still dropping things.",
+      "pick": 3,
+      "why": "Candidate 3 wears the dry-understatement directive best with its quiet 'nobody parks three carriers for the scenery' opening and the precise detail of a chlorine-gassed hotel, while Candidate 2 recycles the 11-12 card's 'tech world is too busy\u2026 to notice' shape and Candidate 1 leans on the overheate",
       "fallback": false
     },
     "shadow": {
@@ -75,33 +73,33 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 16.3,
+          "value": 22.0,
           "scores": [
-            14.0,
-            16.0,
-            16.0,
-            17.0,
-            22.0
+            22.0,
+            22.0,
+            22.0,
+            22.0,
+            24.0
           ]
         },
         "Alignment": {
-          "value": 15.3,
+          "value": 10.0,
           "scores": [
-            13.0,
-            15.0,
-            15.0,
-            16.0,
-            17.0
+            9.0,
+            10.0,
+            10.0,
+            10.0,
+            10.0
           ]
         },
         "Governance": {
-          "value": 19.0,
+          "value": 34.0,
           "scores": [
-            17.0,
-            19.0,
-            19.0,
-            19.0,
-            21.0
+            33.0,
+            34.0,
+            34.0,
+            34.0,
+            38.0
           ]
         },
         "Geopolitics": {
@@ -111,107 +109,107 @@
             63.0,
             64.0,
             64.0,
-            66.0
+            64.0
           ]
         },
         "Nuclear": {
-          "value": 11.3,
+          "value": 20.3,
           "scores": [
-            9.0,
-            10.0,
-            11.0,
-            13.0,
-            14.0
+            16.0,
+            19.0,
+            21.0,
+            21.0,
+            21.0
           ]
         },
         "Biotech": {
-          "value": 23.0,
+          "value": 18.3,
           "scores": [
-            21.0,
-            23.0,
-            23.0,
-            23.0,
-            23.0
+            17.0,
+            17.0,
+            19.0,
+            19.0,
+            21.0
           ]
         },
         "Cyber": {
-          "value": 26.7,
+          "value": 34.0,
           "scores": [
-            26.0,
-            26.0,
-            27.0,
-            27.0,
-            31.0
-          ]
-        },
-        "Climate": {
-          "value": 35.7,
-          "scores": [
-            29.0,
             31.0,
-            38.0,
-            38.0,
+            33.0,
+            33.0,
+            36.0,
             38.0
           ]
         },
-        "Wild Card": {
-          "value": 21.7,
+        "Climate": {
+          "value": 27.0,
           "scores": [
+            27.0,
+            27.0,
+            27.0,
+            27.0,
+            28.0
+          ]
+        },
+        "Wild Card": {
+          "value": 20.7,
+          "scores": [
+            14.0,
             19.0,
             21.0,
             22.0,
-            22.0,
-            27.0
+            23.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 66.4,
-          "sd": 1.38,
-          "se": 0.43,
+          "value": 67.0,
+          "sd": 0.47,
+          "se": 0.24,
           "scores": [
-            65.7,
-            66.0,
-            66.2,
-            67.1,
-            69.1
+            66.3,
+            66.6,
+            67.2,
+            67.2,
+            67.4
           ]
         },
         "power": {
-          "value": 38.3,
-          "sd": 0.97,
-          "se": 0.37,
+          "value": 38.9,
+          "sd": 0.24,
+          "se": 0.11,
           "scores": [
-            37.6,
-            37.8,
-            38.2,
-            38.8,
-            40.0
+            38.5,
+            38.7,
+            38.9,
+            39.0,
+            39.1
           ]
         },
         "mean": {
-          "value": 26.3,
-          "sd": 1.5,
-          "se": 0.6,
+          "value": 27.7,
+          "sd": 0.63,
+          "se": 0.34,
           "scores": [
-            23.6,
-            25.4,
-            26.4,
-            27.0,
-            27.3
+            27.1,
+            27.3,
+            27.6,
+            28.2,
+            28.6
           ]
         },
         "max": {
           "value": 63.7,
-          "sd": 1.22,
+          "sd": 0.55,
           "se": 0.41,
           "scores": [
             63.0,
             63.0,
             64.0,
             64.0,
-            66.0
+            64.0
           ]
         }
       },
@@ -221,67 +219,68 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 66.4,
+      "composite": 67.0,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 66.4,
-      "se": 0.43,
+      "input": 67.0,
+      "se": 0.24,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 11.64,
-      "K": 0.57,
-      "shock_p": 0.064,
-      "innovation": 3.3,
-      "prev": 63.1,
-      "noise_sd": 4.52,
+      "P": 10.98,
+      "K": 0.541,
+      "shock_p": 0.039,
+      "innovation": 2.0,
+      "prev": 65.0,
+      "noise_sd": 4.51,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Iran says it targets US radar in Bahrain. What do we know?.",
+    "driver": "Third US aircraft carrier arrives in Middle East amid tensions with Iran. Trump shares a message saying: \u2018May God protect our troops\u2019 as the USS Theodore Roosevelt arrives in the Middle East.",
     "category": "Geopolitics",
-    "blurb": "BAHRAIN RADAR SITE, INTERCEPTORS FIRING",
-    "summary": "Iran says it went after a US radar in Bahrain, Ukraine has quietly taken a third of Russia's refineries offline, and Sudan is being switched off one power station at a time. Back home, America grounded every plane because someone fiddled with a router, which is less comforting than a cyberattack, not more. SpaceX catching a Starship with chopsticks is lovely, but the planet down here is still dropping things.",
+    "blurb": "A THIRD CARRIER, JUST IN CASE",
+    "summary": "Nobody parks three aircraft carriers in one neighborhood for the scenery, and with Russia reportedly feeding Tehran satellite intel and the Houthis now holding the Red Sea's chokepoint, the Gulf is getting crowded. Back home, a Microsoft outage somehow gassed 15 hotel guests with chlorine, which is a sentence the cloud industry never wanted to read. Meanwhile the Nvidia spy saga keeps growing heads, and NASA would like a word about El Ni\u00f1o.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "low",
-        "detail": "Open-model quantizations and an AI heart-risk detector add up to steady progress, not a jump."
+        "signal": "medium",
+        "detail": "Qwen4-Max arrives just as Anthropic goes public, so the race keeps its pace even as the money gets nervous."
       },
       {
         "name": "Governance",
-        "signal": "low",
-        "detail": "Italy's $887M Meta fine and Nvidia's financing scrutiny are regulators doing ordinary regulator things."
+        "signal": "medium",
+        "detail": "The Nvidia spy scandal is pushing Congress toward tighter chip export rules and pulling Commerce Secretary Lutnick into the spotlight."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iranian strikes on a US radar in Bahrain, Ukraine's refinery blitz and drone war in Sudan make for active multi-front conflict."
+        "detail": "A third carrier, another tanker hit in Hormuz, and Russian space intel for Iran point to an active war that is still stacking up."
       },
       {
         "name": "Alignment",
         "signal": "low",
-        "detail": "Helen Toner's warning about untrustworthy AI CEOs is a governance-of-humans problem more than a rogue-model one."
+        "detail": "The only AI misbehavior today was a human using it to ace a tax exam."
       },
       {
         "name": "Wild Card",
         "signal": "medium",
-        "detail": "A router-induced national ground stop, a defused bomb at an ethanol plant and a capsized cruise ship made for a clumsy, jumpy Saturday."
+        "detail": "The IMF says the AI money machine is standing on one leg, holding $1 trillion of mostly debt-financed circular deals."
       }
     ],
     "mood": [
-      "jittery",
-      "grounded",
-      "smoldering",
-      "distracted"
+      "crowded",
+      "brittle",
+      "uneasy",
+      "scandalous",
+      "overheated"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A pre-dawn view over Bahrain's flat sand-colored coast near Riffa, the whole scene swallowed by a thick blood-red and furnace-orange dust haze that hangs in heavy layers and turns the sky into a glowing wall of fire-colored fog. Hellish orange glare rises from below, from burning-bright floodlights and a molten glow on the horizon, lighting the underside of the haze and every object in plain view, with shadows in bruised violet and deep maroon, never black. In the middle distance, inside a fenced, sandbagged compound of low tan buildings and a few palms, a large tilted flat-faced phased-array radar stands intact on a pedestal, its pale panel lit orange from below, with generators and cable runs around it. Beside it, a Patriot launcher with angled boxes points up into the haze. A line of small dark arrowhead-shaped delta-wing drones with tiny glowing exhaust points descends through the fog toward the radar, only partly clear of the murk, and bright interceptor streaks curve up to meet them as thin glowing trails. In the foreground, a rooftop siren pole on a flat-roofed building and a slim minaret with a lit green band rise into the haze, with a short chain-link fence in the lower corner. Far behind them, the glittering lights of Manama's towers glow as faint smeared orange blocks in the haze. The mood is malevolent, with nothing safe in the frame, and every part of the scene is bright and readable at small size.",
+    "card_image": "doom-card-2026-11-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide view from the Point Loma headland in San Diego at sunset, looking out over the bay and the Pacific. A huge blood-red and furnace-orange sky fills most of the frame, and a swollen molten sun sits on the horizon. It throws hellish glare up from below across churning bands of bruised-violet cloud. The sea is a sheet of burning copper. The low cliffs, dry scrub and agave in the foreground are rimmed in orange light, with maroon and violet shadows. Across the bay, the Coronado Bridge arcs in violet silhouette. Beside it are the cranes and long empty piers of Naval Base San Diego and North Island, with an open gap of glowing water at the berth where a big ship should be. The Old Point Loma Lighthouse stands on the ridge at the right, a stark silhouette. In the foreground, a young Navy wife in a windbreaker and her small daughter in a puffy jacket stand whole and small, seen from behind and cut as bold violet-maroon silhouettes against the glare. They hold hands at a chain-link fence. The mother's phone glows cold blue-white in her free hand, the only cool color in the scene. Faded yellow ribbons are tied along the fence wire and whip in the hot wind. The child's other hand clutches a stuffed bear. Their hair and ribbon ends are lit to a bright orange edge. Menacing, oppressive and unsafe, with every shape clearly readable at phone size.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -290,76 +289,72 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The radar panel is a flat, nearly featureless glowing slab, so it reads more like a billboard than a phased-array radar.",
-        "The Patriot launcher is partly fused with the truck and cable clutter, and its boxes are a bit muddled.",
-        "The interceptor streaks mostly stop at glowing orbs instead of clearly reaching the drones. Several of them cross the sky at inconsistent angles.",
-        "The drones are fairly large and clear rather than partly hidden in the haze, and they look like jets.",
-        "The minaret's top finial and its green-lit band are slightly smudged.",
-        "The siren pole has loudspeakers stacked in a slightly odd arrangement.",
-        "The chain-link fence in the lower right is a blurry texture.",
-        "The compound walls and sandbags are a repetitive brown blur at phone size."
+        "The Coronado Bridge reads as a long, low, flat span rather than a distinct arc.",
+        "The yellow ribbons are bright and saturated, not faded.",
+        "The mother and child are dark silhouettes with little interior detail, but their shapes, the phone and the bear still read clearly.",
+        "The naval base cranes and piers are small and murky, and the empty berth is hard to make out."
       ],
       "tone": {
-        "gain": 1.0,
-        "lit_before": 0.666,
-        "lit_share": 0.666
+        "gain": 2.23,
+        "lit_before": 0.364,
+        "lit_share": 0.507
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-15.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-16.png"
   },
   "dawn": {
-    "percentage": 35.0,
-    "driver": "SpaceX catches upper stage of Starship rocket in historic first. Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
-    "category": "Technology",
-    "blurb": "SPACEX CATCHES STARSHIP UPPER STAGE",
-    "summary": "Two mechanical arms reached out from a Texas launch tower and caught Starship's upper stage as it lowered itself home, a first in spaceflight and a big step toward rockets that fly again and again. Outside Dallas, longtime custodian Marilyn Hampton was surprised with an elementary school bearing her name. In Bangkok, 19-year-old Carmelle carried the Philippines to victory at the first-ever Eurovision Song Contest Asia.",
+    "percentage": 33.9,
+    "driver": "Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate. Las Vegas Raiders fans stayed seated after Fernando Mendoza's first NFL touchdown so his mother, who battles multiple sclerosis, could watch.",
+    "category": "Human Spirit",
+    "blurb": "A WHOLE STADIUM SITS DOWN FOR MOM",
+    "summary": "Fernando Mendoza scored his first NFL touchdown, and the Las Vegas Raiders fans around his mother stayed in their seats so she could see her son celebrate from her wheelchair. Far beyond the stadium lights, NASA's Voyager 1 is about to reach roughly 16 billion miles from Earth, still the most distant thing humanity has ever sent out. Closer to home, scientists found that an existing osteoporosis drug prevented damaging mineral buildup in zebrafish spines, a promising lead for easing chronic back pain.",
     "factors": [
       {
         "name": "Science",
         "signal": "bright",
-        "detail": "Astronomers spotted 2026 ED138, a large icy world beyond Pluto that could become the solar system's sixth recognized dwarf planet."
+        "detail": "New simulations may finally explain the wildly tilted magnetic fields of Uranus and Neptune, a puzzle that has stood since Voyager 2's flybys in the 1980s."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Eurovision staged its first regional edition outside Europe, with Asian nations sharing one stage in Bangkok."
+        "detail": "NPR's Student Podcast Challenge returns for its ninth year, having already brought more than 90,000 young storytellers from grades four through 12 to the mic."
       },
       {
         "name": "Human Spirit",
-        "signal": "bright",
-        "detail": "An Aubrey, Texas school district honored beloved custodian Marilyn Hampton by naming a new elementary school after her."
+        "signal": "blazing",
+        "detail": "A crowd of strangers in Las Vegas chose to stay seated so one proud mother had a clear view of her son's first NFL touchdown."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists found a simple way to turn used coffee grounds into biodiesel, and the leftover material can still feed other renewable fuels."
+        "detail": "Researchers report that crows can make decisions faster than humans, another reminder of how brilliant our feathered neighbors are."
       },
       {
         "name": "Wild Card",
-        "signal": "glimmer",
-        "detail": "Researchers in China named a new giant fungus, Dianjunus rex, which grows up to 20 inches tall."
+        "signal": "bright",
+        "detail": "Voyager 1 hits a new milestone this week at about 16 billion miles from home, still sailing and still setting records nearly five decades after launch."
       }
     ],
     "mood": [
-      "awe",
-      "pride",
-      "wonder",
-      "gratitude",
-      "momentum"
+      "tender",
+      "generous",
+      "proud",
+      "wondrous",
+      "joyful"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "Candidate 1 is the freshest: it skips the worn 'Elsewhere'/'Farther out' transitions and the beyond-Pluto dwarf-planet beat already used on 10-29, and it matches the wire-service directive with a plain subject-verb-object headline and a clean, specific rundown of the Starship catch, Marilyn Hampton ",
+      "pick": 2,
+      "why": "Candidate 2 leads with the fresh, specific Raiders story under a bright triumphant headline, avoids the 'Sixteen billion miles: that is\u2026' shape and Voyager-led angle already used on recent cards, skips Candidate 1's 'Farther out' transition and filler 'collective grace' line, and stays strictly good",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-15.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a symbolic metaphor: two enormous burnished-steel mechanical gripping arms, shown only as the inner curves of their steel pads, closing gently around a single glowing ember-orange sphere of warm light, like a returning homecoming star cradled in an open pair of hands made of machinery. The environment is implied only through the metal's reflections and the frame edges. The polished steel surfaces mirror a clean Texas Gulf coast morning: a flat green marsh-grass horizon, a thin pale sliver of tidal water, and a lattice tower silhouette stretching up through the reflection. Soft amber sunrise light pours across the steel from the left, lifting the shadows so that the deep crevices between the arm plates turn from murky olive to clear, readable sage green. The sphere is made of stainless-steel tile pixels, with a faint scorched-gold edge of reentry warmth on its underside and a tiny curved reflection of the Earth's blue limb. A single thin line of tiny white-gold pixel lights arcs across the top of the sphere like a delicate orbit necklace. In the lower corner of the arm's polished surface, a minuscule reflected crowd of whole, tiny silhouetted figures stands with raised arms. The palette is warm amber, honey gold, soft moss and sage green, and burnished silver, with crisp pixel dithering on the metal gradients, calm and triumphant, clarity arriving.",
+    "card_image": "dawn-card-2026-11-16.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on the empty outer concourse of Allegiant Stadium in Paradise, Nevada, hours after a Sunday game. Deep indigo-black shadows fill most of the frame. The only light comes from artificial sources: warm amber sodium lamps on tall poles, a soft green LED strip glowing along the base of a wall, and the green-white glow of a phone screen. A huge, dark, angular stadium wall rises in the background, its black panels catching thin amber rim light. Wide stone steps and a long metal railing lead off into the shadows, and the plaza is quiet and empty, with no people anywhere.\n\nIn the foreground, a hand-painted poster-board sign is taped to a black steel gate post, lit by a cone of amber lamplight. It carries no letters. It shows a bold silver-and-black pictogram of a wheelchair symbol beside a row of small seated-fan icons, with a big downward arrow, all in hand-brushed strokes with slightly crooked edges. Below it on the concrete sits a cardboard box of more identical signs and a fat black marker lying on top. Leaning against the post is a phone propped on a ledge, its screen glowing soft green. The screen shows a pixel news-article layout with a small football icon and blocks of grey lines in place of text. A crumpled silver-and-black foam finger lies nearby, casting a long amber shadow. Soft green light spills across the wet-looking concrete and mixes with the amber pools, while the corners of the frame sink into deep shadow. The mood is tender, quiet and grassroots, with the lamplight pointing to the signs as the story's quiet hero.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -368,34 +363,36 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The tiny reflected crowd in the lower-right steel pad is made of small silhouettes with raised arms. They are very small and read as a distant crowd, so they are acceptable.",
-        "The sphere's tile pattern warps unevenly and its orbit-necklace line of lights is slightly irregular. This fits the style.",
-        "The surrounding steel plates are hard to read as 'gripping arms'. They look more like petal or pod shapes, but this is a stylistic ambiguity and not a broken object.",
-        "The lattice tower is repeated in three of the reflections. This is plausible for mirrored surfaces."
+        "The foam finger in the lower left is a bit muddled. Its decoration is hard to read and the shape is slightly lumpy, but it still reads as a foam finger.",
+        "The marker on top of the box of signs is dark and blends into the shadow, so it is hard to tell it's a marker.",
+        "The seated-fan icons on the sign are simple blobs with chair-like shapes. They are slightly ambiguous but acceptable as pictograms.",
+        "The phone's screen content is tiny and abstract, with a small icon and grey line blocks. This matches the 'no text' intent and is not gibberish lettering.",
+        "The phone is propped against the post base rather than clearly sitting on a ledge. This is a small spatial oddity.",
+        "The stadium's angular wall and the stair railing are somewhat jumbled in the midground, but this is just architectural complexity in shadow."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.784,
-        "lit_share": 0.784
+        "lit_before": 0.18,
+        "lit_share": 0.18
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-15.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-16.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 123103,
-      "output_tokens": 15052,
+      "input_tokens": 121399,
+      "output_tokens": 16815,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 15846,
-      "output_tokens": 6682,
+      "input_tokens": 15560,
+      "output_tokens": 8413,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 0.892
+    "estimated_usd": 0.9371
   }
 }
