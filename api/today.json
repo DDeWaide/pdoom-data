@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T10:43:18.258834+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T10:43:37.528982+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 68.1,
+    "percentage": 67.6,
     "raw_percentage": 66.7,
     "blind_scores": [
-      66.0,
-      66.1,
-      67.0,
-      67.1,
-      67.2
+      66.3,
+      66.5,
+      66.7,
+      66.8,
+      68.8
     ],
     "spread": {
       "n": 5,
-      "sd": 0.58,
-      "min": 66.0,
-      "max": 67.2,
-      "se": 0.4
+      "sd": 1.01,
+      "min": 66.3,
+      "max": 68.8,
+      "se": 0.11
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 67.2,
-      "2": 66.1,
-      "3": 66.0,
-      "4": 67.1,
-      "5": 67.0
+      "1": 66.7,
+      "2": 66.8,
+      "3": 66.3,
+      "4": 66.5,
+      "5": 68.8
     },
     "factor_consensus": {
       "AI Capability": {
@@ -47,16 +47,15 @@
         }
       },
       "Alignment": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 5
+          "low": 5
         }
       },
       "Wild Card": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "medium": 1,
-          "low": 4
+          "medium": 5
         }
       }
     },
@@ -64,8 +63,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "Its 'KREMLIN PLOTS A POLISH FRAME-UP' blurb is the shortest and punchiest take on the tabloid directive, and it is the only summary that skips the 'Meanwhile' crutch the recent cards lean on, closing with a sharp photo-op-versus-everything-else line.",
+      "pick": 2,
+      "why": "Candidate 2 best wears the 1940s newsreel voice, with the grand 'FALL BENEATH THE KREMLIN'S WRATH' headline and the 'Barely had the ink dried' opening, and it avoids yesterday's Trump-Xi-Putin Shenzhen opening and diplomacy-vs-everything closer, which Candidates 1 and 3 both echo.",
       "fallback": false
     },
     "shadow": {
@@ -73,143 +72,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 33.7,
+          "value": 24.0,
           "scores": [
-            33.0,
-            33.0,
-            34.0,
-            34.0,
-            34.0
+            21.0,
+            22.0,
+            24.0,
+            26.0,
+            26.0
           ]
         },
         "Alignment": {
-          "value": 28.3,
+          "value": 17.0,
           "scores": [
-            27.0,
-            27.0,
-            29.0,
-            29.0,
-            31.0
+            15.0,
+            17.0,
+            17.0,
+            17.0,
+            19.0
           ]
         },
         "Governance": {
-          "value": 27.7,
+          "value": 31.0,
           "scores": [
-            26.0,
             27.0,
-            27.0,
-            29.0,
+            31.0,
+            31.0,
+            31.0,
             31.0
           ]
         },
         "Geopolitics": {
-          "value": 62.7,
+          "value": 64.0,
           "scores": [
-            62.0,
-            62.0,
-            63.0,
-            63.0,
-            63.0
+            64.0,
+            64.0,
+            64.0,
+            64.0,
+            66.0
           ]
         },
         "Nuclear": {
-          "value": 25.3,
+          "value": 15.7,
           "scores": [
-            23.0,
-            24.0,
-            26.0,
-            26.0,
-            27.0
+            14.0,
+            14.0,
+            16.0,
+            17.0,
+            22.0
           ]
         },
         "Biotech": {
-          "value": 20.0,
+          "value": 8.0,
           "scores": [
-            19.0,
-            19.0,
-            20.0,
-            21.0,
-            22.0
+            7.0,
+            8.0,
+            8.0,
+            8.0,
+            8.0
           ]
         },
         "Cyber": {
-          "value": 36.7,
+          "value": 16.0,
           "scores": [
-            34.0,
-            34.0,
-            38.0,
-            38.0,
-            38.0
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            19.0
           ]
         },
         "Climate": {
-          "value": 22.0,
+          "value": 23.0,
           "scores": [
-            19.0,
-            22.0,
-            22.0,
-            22.0,
-            24.0
+            23.0,
+            23.0,
+            23.0,
+            23.0,
+            26.0
           ]
         },
         "Wild Card": {
-          "value": 15.3,
+          "value": 27.0,
           "scores": [
-            13.0,
-            14.0,
-            16.0,
-            16.0,
-            22.0
+            23.0,
+            27.0,
+            27.0,
+            27.0,
+            27.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
           "value": 66.7,
-          "sd": 0.58,
-          "se": 0.4,
+          "sd": 1.01,
+          "se": 0.11,
           "scores": [
-            66.0,
-            66.1,
-            67.0,
-            67.1,
-            67.2
+            66.3,
+            66.5,
+            66.7,
+            66.8,
+            68.8
           ]
         },
         "power": {
-          "value": 38.9,
-          "sd": 0.46,
-          "se": 0.33,
+          "value": 38.2,
+          "sd": 0.57,
+          "se": 0.04,
           "scores": [
-            38.4,
-            38.4,
-            39.2,
-            39.2,
+            37.8,
+            38.1,
+            38.2,
+            38.2,
             39.3
           ]
         },
         "mean": {
-          "value": 30.2,
-          "sd": 0.27,
-          "se": 0.08,
+          "value": 25.2,
+          "sd": 0.83,
+          "se": 0.42,
           "scores": [
-            30.0,
-            30.1,
-            30.3,
-            30.3,
-            30.7
+            23.9,
+            24.6,
+            25.4,
+            25.7,
+            25.9
           ]
         },
         "max": {
-          "value": 62.7,
-          "sd": 0.55,
-          "se": 0.41,
+          "value": 64.0,
+          "sd": 0.89,
+          "se": 0.0,
           "scores": [
-            62.0,
-            62.0,
-            63.0,
-            63.0,
-            63.0
+            64.0,
+            64.0,
+            64.0,
+            64.0,
+            66.0
           ]
         }
       },
@@ -224,62 +223,63 @@
       "start": "2026-10-29",
       "days": 5,
       "input": 66.7,
-      "se": 0.4,
+      "se": 0.11,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 8.53,
-      "K": 0.418,
-      "shock_p": 0.007,
-      "innovation": -2.4,
-      "prev": 69.1,
-      "noise_sd": 4.52,
+      "P": 7.74,
+      "K": 0.382,
+      "shock_p": 0.01,
+      "innovation": -1.4,
+      "prev": 68.1,
+      "noise_sd": 4.5,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine.",
+    "driver": "Three Kyiv bridges hit during major Russian missile attack. Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
     "category": "Geopolitics",
-    "blurb": "KREMLIN PLOTS A POLISH FRAME-UP",
-    "summary": "While Trump, Xi and Putin swapped 'my friend' handshakes in Shenzhen, reports surfaced that Moscow had sketched a mass-casualty attack in Poland with Ukraine's name pre-printed on the blame. Iran is lobbing missiles at Kuwait and Bahrain again, Nginx has a hole big enough to drive the internet through, and Anthropic just raised $81 billion, presumably to buy a very large fire extinguisher. Diplomacy is having a lovely photo op. Everything else is not.",
+    "blurb": "KYIV'S BRIDGES FALL BENEATH THE KREMLIN'S WRATH",
+    "summary": "Barely had the ink dried on the Shenzhen 'peace declaration', which somehow didn't mention either war, when Russian missiles took out three Kyiv bridges as payback for Crimea. Meanwhile Iran is escalating in Hormuz, and Anthropic's record IPO arrived just in time to watch global markets have their worst week since 2020. Peace was declared, and nobody told the missiles or the Nasdaq.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Gemini 4 Neon, Microsoft's seven new models and a 385x efficiency claim made it a crowded day at the frontier."
+        "detail": "Gemini can now drive your Mac, Apple is building its own agent, and Anthropic went public at a trillion-and-a-half valuation."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "Nvidia's China chip scandal reached the White House just as Trump declared America the superintelligence champ."
+        "detail": "California subpoenas Nvidia while Congress learns 879,000 AI chips were cleared for Chinese buyers."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Iran is striking Gulf states after a US hit on Qeshm, Houthis are aiming at Riyadh, and a Russian false-flag plot targeted Poland."
+        "detail": "Russia smashes Kyiv's bridges in retaliation for Crimea, and Iran escalates its attacks on Hormuz shipping."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "The frontier AI pause is quietly gone, and Meta's Muse is hallucinating people's bank balances."
+        "signal": "low",
+        "detail": "Chatbots fold on climate facts when users push back, and a school's AI gun detector mistook a Doritos bag for a weapon."
       },
       {
         "name": "Wild Card",
-        "signal": "low",
-        "detail": "Battlefield lasers and a Musk-Zelenskyy spat add flavor, not catastrophe."
+        "signal": "medium",
+        "detail": "The AI sell-off is driving the worst week for markets since 2020, and a teenage founder is optimizing missiles for 'cost per kill.'"
       }
     ],
     "mood": [
-      "duplicitous",
-      "tense",
-      "smiling-through-it",
-      "combustible"
+      "ironic",
+      "rattled",
+      "volatile",
+      "grim",
+      "jittery"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Extreme close-up on a single paper poster pasted to a weathered red-brick Gothic gable wall in a Warmian-Masurian border town. The poster fills the frame. Only the edges show the setting: the brick courses with white lime mortar, and at the lower right a red-and-white striped border post. At the lower left, coils of razor wire glint on a steel fence. A furnace-orange floodlight on the ground blasts hard light up the wall, so every brick glows rust-red and the cast shadows are bruised violet. A thick blood-red fog hangs behind the wire. The poster is a lurid theatrical illustration: heavy crimson stage curtains drawn apart on a cramped toy stage. The tall pale wooden Gleiwitz radio tower stands on the stage, a lattice of slats drawn in glowing orange, with its shadow stretching across the painted floor. A blue-and-yellow cloth patch hangs on a tiny hook in the center of the stage, the one clean saturated blue-yellow spot in the picture, shining like bait. Painted strings run from above the stage to the patch and to a row of small flat cut-out figures in Polish-style uniforms. The figures are drawn whole, in a line, like stage props. The poster is torn and curling at its corners, its lower half peeling away from the brick. A glossy wet streak of rain runs down it, mirroring a flicker of blue police light in the puddled ground at the bottom edge. The scene is bright, hellish and malevolent, with crisp pixel clusters, dithered orange glow and clear shapes readable at phone size.",
+    "card_image": "doom-card-2026-11-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide night view of the Dnipro River in Kyiv in the hours after the strikes, seen from the low left-bank embankment. The vast river is a sheet of molten orange and blood-red reflections under a deep violet sky, with drifting smoke and river mist glowing furnace-orange from fires below. Across the water, the high right-bank hills rise with golden-domed Lavra churches lit hellish red from underneath, and the silver Motherland Monument stands tall on the ridge, her sword catching the glare. Dominating the middle distance is a long steel-and-concrete cable-stayed bridge with tall pylons, its deck broken. A jagged gap hangs open in the roadway, twisted guardrails dangle toward the water, and smoke curls up from the wound. Orange cables fan out against the violet sky. In the foreground, wide pools of light from sodium streetlamps and a parked State Emergency Service fire engine with its red and white body and flashing beacons fall on the wet embankment promenade. Police barrier sawhorses with glowing amber lamps block the bridge approach ramp. Two whole rescue workers in orange helmets and reflective vests stand beside the engine, coiling a hose. A neat row of candles and a few bouquets of flowers glow on the low granite parapet beside them. Everything is lit in blood red, furnace orange and bruised violet shadows, with a malevolent glare from below. Every area of the frame is clearly visible and readable at small size.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -288,75 +288,75 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The six cut-out figures are nearly identical and their faces are small and indistinct, as expected for flat stage props.",
-        "The strings above the figures are faint and do not clearly attach to each figure or to the flag.",
-        "The razor wire at the lower left is mostly a dark silhouette and reads as an odd trident or fork shape.",
-        "The blue-yellow flag has no visible hook except a small bracket, and the hanging strings look a little tangled.",
-        "The poster edge and the torn bottom corners blend into the brick, so the paper reads as slightly fused with the wall.",
-        "The floodlight at the lower left is a blurry glowing block.",
-        "The blue rain streak at the bottom is faint, and no blue police light is clearly visible."
+        "The two rescue workers are small and blocky, and their hose or coil is a muddy tangle at their feet. Their faces are hidden, so they read as simple figures, not as defects.",
+        "The fire engine's cab and body are a little muddled where the front meets the side panel, and the beacons are smeared pink-magenta. It still reads clearly as a fire truck.",
+        "The bridge gap is small and the deck ends look jagged. The fire and smoke at the break are readable, but the dangling guardrails are hard to make out.",
+        "The police sawhorse barriers on the left ramp are small and blurry, with only a hint of amber lamps.",
+        "The candles and flower bouquets on the parapet are clumpy and abstract, but they are recognizable.",
+        "The reflections on the river and the wet promenade are streaky and noisy, a side effect of the pixel and color-grade style.",
+        "The Motherland Monument and the Lavra domes are simplified and bright. The monument looks gold-pink rather than silver."
       ],
       "tone": {
-        "gain": 1.85,
-        "lit_before": 0.389,
-        "lit_share": 0.507
+        "gain": 4.36,
+        "lit_before": 0.194,
+        "lit_share": 0.514
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-19.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-20.png"
   },
   "dawn": {
-    "percentage": 31.9,
-    "driver": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details.",
-    "category": "Discovery",
-    "blurb": "ONE LIGHT-DAY OUT, STILL CARRYING SONGS",
-    "summary": "Forty-nine years after leaving Earth with a golden record of music and greetings, Voyager 1 is now so far away that its signals take a full day to reach us. It is the most distant object humans have ever made, and a historian is revisiting the record's forgotten details, which its makers expect to last a very long time. Closer to home, researchers found that a rare inflammatory disorder in infants may respond to medicines that already exist, and one baby is already improving.",
+    "percentage": 32.4,
+    "driver": "A human liver has been kept alive outside the body for a record seven weeks.",
+    "category": "Medicine",
+    "blurb": "SEVEN WEEKS SOLO, THE LIVER IS FINE",
+    "summary": "In Sydney, a team led by surgeon and inventor Carlo Pulitano kept a human liver alive on life support outside the body for a record seven weeks, a feat that could reshape how organs are studied, repaired and one day transplanted. Out past Venus, the BepiColombo spacecraft is finally settling into orbit around Mercury after an eight-year journey. And in a smaller, sweeter story, a man in South Carolina is holding his cat again after three and a half years, thanks to a kind stranger in Oregon.",
     "factors": [
       {
         "name": "Science",
-        "signal": "bright",
-        "detail": "Physicists found that electrons can form stable pairs at room temperature, a key step toward electricity that flows without resistance."
+        "signal": "blazing",
+        "detail": "A human liver kept working outside the body for seven weeks opens new possibilities for organ preservation and biomedical engineering."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "New Scientist celebrates 70 years of bringing discoveries from labs around the world to curious readers."
+        "signal": "bright",
+        "detail": "The UK and EU are expected to agree a youth mobility scheme at their summit, opening doors for young people to live and work across the Channel."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "A family dog in England kept nudging at a baby boy, which led his mother to discover a heart condition early enough to get him care."
+        "detail": "A woman in Oregon helped reunite a long-lost cat with its owner in South Carolina after three and a half years apart."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Scientists built a rechargeable battery around vitamin B12 that lasted 250 charging cycles, pointing toward greener alternatives to lithium-ion."
+        "detail": "Conservationists in South Africa are working to replant five centuries-old baobabs and return them to home soil."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Researchers filmed the rare barreleye fish in 4K, showing its see-through head and rotating eyes nearly 2,000 feet down."
+        "signal": "glimmer",
+        "detail": "After eight years of travel, BepiColombo is entering orbit around Mercury to begin exploring the solar system's smallest planet."
       }
     ],
     "mood": [
-      "wonder",
-      "patience",
-      "reach",
-      "tenderness",
-      "awe"
+      "astonished",
+      "hopeful",
+      "patient",
+      "tender",
+      "curious"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 1,
-      "why": "All three reuse the Voyager light-day story from recent cards, but Candidate 1 avoids the most direct repeats (Candidate 3's 'still sending word back' from 11-04, and the '16 billion miles' figure from 11-16 in Candidates 2 and 3), and its 'STILL CARRYING SONGS' headline gives the field-notes form a",
+      "pick": 3,
+      "why": "Candidate 3 keeps the understated voice ('THE LIVER IS FINE') and avoids the recent cards' 'Closer to home' / 'Far from\u2026' transitions and colon-led openers, swapping in a fresh 'Out past Venus' and a warm cat reunion, all good news with no doom framing.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-19.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION in the deep interstellar dark one light-day from home. The environment fills the frame: a vast vertical gradient sky glows like clean morning light, with soft sage green at the top melting into warm amber and pale honey-gold at the horizon-like center. The effect is dawn at the edge of the solar system, shadows lifting and clarity arriving. A tiny, blazing Sun sits low on the left as a bright cream-white pixel cluster with a few stepped, dithered rings of amber and pale green haze. Sparse stars glint through the upper green, and a few faint dust bands drift across the glow. VOYAGER 1 floats in the lower right third as a crisp, near-black silhouette against the light. It has a large round high-gain dish antenna in profile, a long thin magnetometer boom stretching diagonally, the angular bus with a scan platform, and a skeletal RTG boom. The Golden Record cover is mounted on the bus and turned half toward us. Its gold-plated face catches the backlight with a bright burnished-gold rim and a few warm highlight pixels, and tiny etched pulsar-map lines and hieroglyph-style marks glint on its surface, with a second pristine set of engravings just visible along the inner edge of the open cover. A thin dotted line of amber signal pixels runs from the dish back across the glow toward a minuscule blue-green Earth dot near the Sun. The scene is calm, patient and tender, with strong contrast between the dark probe and the luminous sky, and no people or text.",
+    "card_image": "dawn-card-2026-11-20.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from the dewy grass verge of a quiet suburban Sydney street on a clean, clear morning. The environment dominates the frame. A colossal Moreton Bay fig towers overhead, its buttress roots and canopy of broad soft-green leaves filling the upper half of the image. Pale amber sunrise light filters through the leaves and spills in warm gold shafts, while the last blue-grey shadows lift from the lawn and the weatherboard front of a Federation-style house. The camera is low among blades of grass and a cracked terracotta garden edge. A short stone path rises toward a raised front porch. On the porch stand a man in his fifties in a loose cardigan, his skin faintly sallow, and his wife in a green sweater. They hold each other, whole figures seen from below. She presses a phone to her ear with her eyes closed and her face crumpling into relief, and he looks up toward the sky with his shoulders finally dropping. A packed navy hospital duffel sits on the top step beside them, and a mug steams on the railing. Seven faded yellow ribbons hang from a low fig branch above the porch, one for each week of waiting, and the newest is still bright. A letterbox in the foreground grass and a sleepy cat on the path add small domestic details. The palette is warm amber, honey gold and soft leaf green, with gentle cream highlights and clarity arriving through the light.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -365,34 +365,35 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The Voyager silhouette is a bit jumbled around the bus. The golden record disc and a second round disc behind it overlap, and the legs and struts beneath are tangled. It still reads as a probe.",
-        "The boom on the right ends in clustered blobs that don't clearly match real instruments. Most viewers will take it as stylized detail.",
-        "The dotted signal line starts at the dish edge, not clearly from the dish center. It also fades out before reaching the tiny Earth dot, so the link is faint.",
-        "The golden record's etched marks are only vague smudges at phone size. This is acceptable given the pixelation."
+        "The yellow ribbons hanging from the branch look stiff, like clothespins or tiny hanging figures, and there are six instead of seven. They read as odd shapes but not as a clear defect.",
+        "The couple are small and slightly merged together, so the woman's face, phone and raised hand are hard to read. Nothing looks clearly broken at phone size.",
+        "The letterbox has an oddly open front and sits right against the tree trunk, which makes it look a little flat.",
+        "The mug on the railing from the prompt is not visible.",
+        "Foliage and light shafts are busy, and a few leaf edges look jagged, but this fits the pixel-art style."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.653,
-        "lit_share": 0.653
+        "lit_before": 0.759,
+        "lit_share": 0.759
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-19.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-20.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 154380,
-      "output_tokens": 17548,
+      "input_tokens": 143482,
+      "output_tokens": 17984,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 17558,
-      "output_tokens": 8272,
+      "input_tokens": 16225,
+      "output_tokens": 7614,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0863
+    "estimated_usd": 1.0422
   }
 }
