@@ -37473,5 +37473,402 @@
       },
       "estimated_usd": 1.0422
     }
+  },
+  {
+    "date": "2026-11-21",
+    "generated_at": "2026-11-21T10:43:03.543030+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 67.3,
+      "raw_percentage": 66.8,
+      "blind_scores": [
+        65.7,
+        66.4,
+        66.6,
+        67.5,
+        67.7
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.82,
+        "min": 65.7,
+        "max": 67.7,
+        "se": 0.43
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 67.5,
+        "2": 65.7,
+        "3": 67.7,
+        "4": 66.4,
+        "5": 66.6
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 5
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 is the freshest: it avoids Candidate 2's recycled 'nothing says X like' and 'plumbing' lines and Candidate 1's 'politely scheduled' and Nasdaq echoes, wears the predator-and-prey framing in its headline, and closes on a sharp, original line about bright tools and flimsy guardrails.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 48.0,
+            "scores": [
+              46.0,
+              46.0,
+              47.0,
+              51.0,
+              52.0
+            ]
+          },
+          "Alignment": {
+            "value": 26.0,
+            "scores": [
+              22.0,
+              24.0,
+              27.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Governance": {
+            "value": 32.3,
+            "scores": [
+              29.0,
+              31.0,
+              33.0,
+              33.0,
+              33.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 62.3,
+            "scores": [
+              61.0,
+              62.0,
+              62.0,
+              63.0,
+              63.0
+            ]
+          },
+          "Nuclear": {
+            "value": 12.3,
+            "scores": [
+              9.0,
+              11.0,
+              13.0,
+              13.0,
+              13.0
+            ]
+          },
+          "Biotech": {
+            "value": 7.7,
+            "scores": [
+              7.0,
+              7.0,
+              8.0,
+              8.0,
+              8.0
+            ]
+          },
+          "Cyber": {
+            "value": 41.0,
+            "scores": [
+              38.0,
+              41.0,
+              41.0,
+              41.0,
+              41.0
+            ]
+          },
+          "Climate": {
+            "value": 26.3,
+            "scores": [
+              26.0,
+              26.0,
+              26.0,
+              27.0,
+              27.0
+            ]
+          },
+          "Wild Card": {
+            "value": 32.3,
+            "scores": [
+              29.0,
+              31.0,
+              33.0,
+              33.0,
+              34.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.8,
+            "sd": 0.82,
+            "se": 0.43,
+            "scores": [
+              65.7,
+              66.4,
+              66.6,
+              67.5,
+              67.7
+            ]
+          },
+          "power": {
+            "value": 41.1,
+            "sd": 0.62,
+            "se": 0.16,
+            "scores": [
+              40.9,
+              41.0,
+              41.0,
+              41.4,
+              42.4
+            ]
+          },
+          "mean": {
+            "value": 31.8,
+            "sd": 0.33,
+            "se": 0.16,
+            "scores": [
+              31.3,
+              31.7,
+              31.7,
+              32.1,
+              32.1
+            ]
+          },
+          "max": {
+            "value": 62.3,
+            "sd": 0.84,
+            "se": 0.41,
+            "scores": [
+              61.0,
+              62.0,
+              62.0,
+              63.0,
+              63.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 66.8,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 66.8,
+        "se": 0.43,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 7.76,
+        "K": 0.38,
+        "shock_p": 0.013,
+        "innovation": -0.8,
+        "prev": 67.6,
+        "noise_sd": 4.52,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "category": "AI Capability",
+      "blurb": "A YOUNG MIND BRINGS DOWN THE OLDEST PREY",
+      "summary": "A 167-year-old math problem may have just been solved with Claude's help, which is thrilling right up until you remember the same week brought AI-designed CPUs and a paper on models rewriting their own weights. Meanwhile the markets punished the AI boom, the killer-robot ban got kicked to 2028, and someone apparently walked into the FBI's criminal database. Humanity's brightest tools and flimsiest guardrails, sharing one news cycle.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "A claimed AI-assisted Riemann proof, an AI-designed CPU and METR's still-exponential curve add up to a real capability jump, verification pending."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "UN killer-robot talks punted for two years while Trump improvised a tax threat on overseas data centers that his own team was hearing about for the first time."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The Iran war continues with a US drone downed over Hormuz, and Russia keeps hammering Ukraine with double-tap strikes on emergency crews."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Anthropic's safety promises face their first earnings-season stress test, as researchers show private data leaking straight through the AI supply chain."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "medium",
+          "detail": "AI stocks pulled the S&P into correction, raising fears that the buildout bubble could take the wider economy down with it."
+        }
+      ],
+      "mood": [
+        "awestruck",
+        "jittery",
+        "unverified",
+        "brittle",
+        "restless"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a cramped university mathematics office on a high floor in Greenwich Village, New York, a different city and a different room from where the proof claim began. The camera stands inside, looking across the room at a tall arched window. Outside, the Washington Square Arch and the bare winter trees of the park are lit from below by a furnace-orange glare. A blood-red sky churns with bruised-violet clouds, and the red light pours across the floorboards. The room is bright with hellish orange and red light, and its shadows are violet and maroon. On the left, a big green-black chalkboard is crowded with chalk diagrams. A vertical line is crossed by a long column of glowing white dots, and curling zeta-function squiggles surround it. A rolling ladder leans against it. In the center foreground, a cluttered oak desk holds an open laptop. Its screen shows a split-pane code editor with a small terracotta-orange starburst mark, and it throws a hot orange glow up onto the ceiling. Beside it lies a yellowed 19th-century manuscript with brown ink and a smartphone with a lit, unanswered message bubble. On a shelf to the right, seven cream envelopes sit in a row. Six are sealed with red wax. The seventh is torn open and leaks molten orange light. A lone professor in a rumpled sweater stands whole and small, seen from behind, at the window with shoulders hunched. Their long violet-edged silhouette is cut by the red glare, and they watch the menacing sky. Hard red light comes up from the street and the screen, so every object in the room is clearly visible.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The chalkboard scribbles, the framed certificates and the laptop screen show only pixel-noise squiggles, with no readable words. This is acceptable as tiny marks standing in for writing.",
+          "The seven envelopes on the right shelf are small and blurry. Their count and the torn-open one that leaks light are hard to make out, and they look like a row of cards with a lamp-like glow at the end.",
+          "The Washington Square Arch is stylized and sits low among the buildings. The bare winter trees are barely visible and the park reads as a glowing crowd or lights.",
+          "The professor is a small silhouette seen from behind, with a plain, slightly blocky build. The anatomy is simple but coherent.",
+          "The yellow manuscript in the foreground is a blown-out, noisy rectangle, and the desk clutter on the right merges a bit into a mass of books.",
+          "The laptop screen is split into a gray pane and a bright pane. The starburst mark is not clearly visible."
+        ],
+        "tone": {
+          "gain": 6.0,
+          "lit_before": 0.153,
+          "lit_share": 0.44
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 32.7,
+      "driver": "Mathematicians are amazed by \u2018holy grail\u2019 proof of Riemann hypothesis",
+      "category": "Discovery",
+      "blurb": "BIG SCORE ON RIEMANN, NOW TO THE REPLAY BOOTH",
+      "summary": "Anthropic mathematician Levent Alp\u00f6ge says he has proved the Riemann hypothesis with help from Claude. The problem has stood for 167 years, and mathematicians are reacting with awe as careful verification begins. Elsewhere, CERN physicists caught a particle decay they had hunted for 40 years, and a new pill combination shrank tumors in most patients with pancreatic cancer.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "A claimed AI-assisted proof of the Riemann hypothesis has mathematicians buzzing, and CERN found first evidence of a one-in-ten-billion particle decay."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Norway felled Oslo's annual Christmas tree for Trafalgar Square, keeping alive a decades-long tradition of friendship with Britain."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Rob Lowe revealed he spent years praying for Charlie Sheen while working on his own sobriety, calling him 'my guy' in recovery."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "China pledged at Cop31 to electrify its economy with low-carbon energy and to help other countries do the same."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Daraxonrasib paired with chemotherapy shrank pancreatic tumors in 60.7% of patients, and in 8.2% the tumors vanished on scans."
+        }
+      ],
+      "mood": [
+        "awestruck",
+        "electric",
+        "triumphant",
+        "curious",
+        "hopeful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 leads with the day's biggest real story, the claimed Riemann proof; its 'replay booth' headline delivers the sports-desk directive with a sharp, honest nod to pending verification, avoids Candidate 1's bad-news hit, and stays clear of the recent pancreatic-cancer card that Candidate 2 wo",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-21.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sprawling English university campus on a clean, clear morning, the morning after a rumored mathematical proof of the Riemann hypothesis. The vast landscape dominates: rolling soft-green lawns, red-brick lecture halls with amber slate roofs, a small lake, and hedge-lined gravel paths, all washed in warm amber morning light with long gentle shadows lifting off the grass and dew sparkling in soft green highlights. The second-order effect is shown through the scene, not the event itself. A long winding queue of tiny, fully visible mathematicians and students with satchels and coffee cups snakes from the mathematics building across the quad to the campus library doors. In the foreground, a delivery lorry is parked on the main path with its back open, and pallets of paper reams and cardboard boxes are stacked in towers taller than the workers hauling them toward the department entrance. Scattered across the central lawn, small circles of figures sit on the grass over open notebooks and laptops, with a few wheeled-out chalkboards covered in dense handwritten scribbles. A single flowerbed is planted in a dotted pattern of bright golden blooms, like a scatter of prime points. The mood is hushed, patient and hopeful: people settling in to read and check slowly, together.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The delivery truck is a cab-less trailer sitting on the grass edge rather than clearly on the path. Its open side and the boxes inside look a bit muddled.",
+          "The workers at the bottom center blend into the cardboard boxes they carry, so a few people and boxes look slightly merged. This is only noticeable on close inspection.",
+          "A small tree on a boxy trunk or post near the center-left lawn looks odd.",
+          "A grey statue-like figure sits by the hedge at the lower center and could be mistaken for a person.",
+          "The queue and the lawn groups are dense, tiny and repetitive, with some figures blurring together. Because they are small and distant, this reads as a crowd and not as a defect.",
+          "The chalkboards carry only tiny scribble marks and no readable text, which is acceptable."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.754,
+          "lit_share": 0.754
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 148117,
+        "output_tokens": 18296,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17536,
+        "output_tokens": 8990,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.0834
+    }
   }
 ]
