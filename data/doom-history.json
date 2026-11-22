@@ -37870,5 +37870,403 @@
       },
       "estimated_usd": 1.0834
     }
+  },
+  {
+    "date": "2026-11-22",
+    "generated_at": "2026-11-22T10:42:54.189271+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 66.9,
+      "raw_percentage": 66.1,
+      "blind_scores": [
+        63.9,
+        64.2,
+        66.6,
+        67.4,
+        67.5
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.75,
+        "min": 63.9,
+        "max": 67.5,
+        "se": 1.22
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 66.6,
+        "2": 67.5,
+        "3": 67.4,
+        "4": 64.2,
+        "5": 63.9
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "elevated": 1,
+            "medium": 4
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "medium": 1,
+            "low": 4
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 wears the field-notes directive with a clipped, wry blurb ('VISITORS UNKNOWN'), skips the overused 'Meanwhile' list shape, and lands one sharp joke about the killer robots, while Candidate 3 echoes the 11-13 Baltic drone card's 'short swim' framing and the 11-21 theorem line, and Candida",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 38.0,
+            "scores": [
+              33.0,
+              38.0,
+              38.0,
+              38.0,
+              41.0
+            ]
+          },
+          "Alignment": {
+            "value": 15.7,
+            "scores": [
+              14.0,
+              15.0,
+              16.0,
+              16.0,
+              16.0
+            ]
+          },
+          "Governance": {
+            "value": 30.3,
+            "scores": [
+              26.0,
+              29.0,
+              31.0,
+              31.0,
+              31.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 62.7,
+            "scores": [
+              61.0,
+              61.0,
+              63.0,
+              64.0,
+              64.0
+            ]
+          },
+          "Nuclear": {
+            "value": 10.3,
+            "scores": [
+              9.0,
+              10.0,
+              10.0,
+              11.0,
+              11.0
+            ]
+          },
+          "Biotech": {
+            "value": 7.0,
+            "scores": [
+              7.0,
+              7.0,
+              7.0,
+              7.0,
+              8.0
+            ]
+          },
+          "Cyber": {
+            "value": 40.7,
+            "scores": [
+              38.0,
+              39.0,
+              41.0,
+              42.0,
+              43.0
+            ]
+          },
+          "Climate": {
+            "value": 25.3,
+            "scores": [
+              22.0,
+              23.0,
+              26.0,
+              27.0,
+              29.0
+            ]
+          },
+          "Wild Card": {
+            "value": 17.0,
+            "scores": [
+              14.0,
+              17.0,
+              17.0,
+              17.0,
+              21.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.1,
+            "sd": 1.75,
+            "se": 1.22,
+            "scores": [
+              63.9,
+              64.2,
+              66.6,
+              67.4,
+              67.5
+            ]
+          },
+          "power": {
+            "value": 39.6,
+            "sd": 1.21,
+            "se": 0.64,
+            "scores": [
+              37.6,
+              38.6,
+              39.8,
+              40.3,
+              40.4
+            ]
+          },
+          "mean": {
+            "value": 27.6,
+            "sd": 1.14,
+            "se": 0.56,
+            "scores": [
+              25.6,
+              26.7,
+              28.0,
+              28.1,
+              28.2
+            ]
+          },
+          "max": {
+            "value": 62.7,
+            "sd": 1.52,
+            "se": 1.13,
+            "scores": [
+              61.0,
+              61.0,
+              63.0,
+              64.0,
+              64.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 66.1,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 66.1,
+        "se": 1.22,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 7.73,
+        "K": 0.355,
+        "shock_p": 0.011,
+        "innovation": -1.2,
+        "prev": 67.3,
+        "noise_sd": 4.66,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "FBI's national crime database targeted in hack, Trump says. President Donald Trump confirmed on Saturday that the FBI\u2019s National Crime Information Center database was targeted in a hack.",
+      "category": "Cyber",
+      "blurb": "FBI CRIME FILES, VISITORS UNKNOWN",
+      "summary": "Somebody went rummaging through the FBI's National Crime Information Center, and the confirmation came from the president at a Saturday presser rather than a quiet incident report. Wired helpfully notes that the outages are 'just getting started' as AI speeds up exploit-hunting. In Geneva, diplomats spent a week on killer robots and emerged agreeing to maybe talk about talking, which is reassuring if you are a killer robot.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "A Claude-assisted Riemann proof is heading for Lean verification while capable models shrink to fit in 5.4 GB."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "UN autonomous-weapons talks fizzled, and AI exam cheating cost South Korea's education minister his job."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "Missiles on Lviv, drones in the Gulf of Finland and a US blockade of Iran keep two wars running hot."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "Pundits ask whether Anthropic's safety pitch survives Wall Street, though no misbehavior was reported today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A cartel kingpin's capture sparked deadly firefights, and an Indonesian factory blaze left dozens missing."
+        }
+      ],
+      "mood": [
+        "breached",
+        "uneasy",
+        "stalled",
+        "wired",
+        "smoldering"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide street-level view of Pennsylvania Avenue NW in Washington, D.C., swallowed by a thick blood-red and furnace-orange fog that rolls between the buildings and fills the whole frame with glowing haze. The J. Edgar Hoover Building looms across the street, a monumental Brutalist block of heavy precast concrete with stepped inverted-ziggurat massing and rows of narrow slit windows. Its concrete face is lit hellishly from below by a furnace-orange glare coming off the wet pavement, and the slit windows glow molten amber. The haze fades the upper floors into a burning orange sky, with bruised violet shadows pooled in the recesses of the stepped facade. Heavy rain streaks diagonally through the scene, and every puddle on the avenue mirrors the red glow. In the foreground, a lone state trooper in a wide-brimmed campaign hat and rain cape stands whole and clearly visible beside a parked patrol cruiser, its light bar flashing red and amber into the fog. The cruiser's dashboard laptop glows with a cracked screen and a jagged red alert glyph, and the glow lights the trooper's face from below. Above the building, thin glowing red data lines and fiber-like strands arc out of the fog toward the horizon, some of them snapped and sparking, as if the national network is being breached. A faceless, abstract violet silhouette made of static pixels hovers in the haze over the entrance seal. Wanted-poster and missing-person flyers, plastered along a lamppost and soaked by the rain, are torn loose and drifting in the wind, lit orange. The mood is menacing and hostile, with everything in plain view under a bright, glaring red-orange light.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The trooper is seen from behind in a purple cape, so no face is visible and the laptop glow on the face from the prompt doesn't appear. This reads as a composition choice, not a defect.",
+          "The cruiser's dashboard laptop screen is small and its red alert glyph is hard to make out. The cruiser's door and window geometry is a little jumbled where the open door overlaps the interior.",
+          "The violet silhouette on the building is a faint static-pixel figure. It reads as a ghostly mural, but it is abstract and easy to miss.",
+          "The scene is very orange and saturated, with low contrast in the building's recesses. The trooper, cruiser and building are all still clearly readable.",
+          "The wanted posters are tiny, with face-like marks standing in for writing. They are scattered and drifting, and some float oddly in mid-air, which fits the prompt.",
+          "The red data lines in the sky are thin and sparse, so they read more like lightning or sparks than network cables.",
+          "The street light and the traffic signal are somewhat fused with the background haze, which is acceptable."
+        ],
+        "tone": {
+          "gain": 1.76,
+          "lit_before": 0.341,
+          "lit_share": 0.514
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 33.1,
+      "driver": "Scientists Tried to Kill This Dirt, but It Wouldn\u2019t Die. Biologically important chemical reactions persisted in the sterilized soil for six years\u2014offering clues to how life on Earth may have gotten its start.",
+      "category": "Science",
+      "blurb": "STERILIZED SOIL KEEPS ITS CHEMISTRY FOR SIX YEARS",
+      "summary": "Scientists stripped a patch of soil of everything living, and for six years its biologically important chemical reactions just kept going, a stubborn clue to how the first sparks of life may have caught on early Earth. Elsewhere, Westminster Abbey's 150-year-old riddle of the skeleton in a Roman coffin may finally be answered: a high-ranking medieval abbot laid to rest in recycled grandeur. And in Kansas City, the Current lifted their first-ever NWSL trophy after a hard-fought 2-1 final.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "Soil chemistry that carried on for six years after sterilization gives researchers fresh insight into how life on Earth may have begun."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Toyota, Nissan and Honda plan to standardize car parts together, a rivals-turned-partners move aimed at lowering costs for everyone."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "The Kansas City Current won their first NWSL championship, with goals from DiBernardo and Debinha sealing a 2-1 victory."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Quantum computing firms are testing their machines on energy-grid optimization, solar materials and hydrogen catalysts, pointing toward a cleaner-energy payoff."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "New dating evidence suggests the skeleton in Westminster Abbey's Roman sarcophagus belonged to a medieval abbot, closing a mystery more than 150 years old."
+        }
+      ],
+      "mood": [
+        "resilient",
+        "curious",
+        "wonder",
+        "jubilant"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 leads with a real discovery story in a plain wire-style headline, is tighter and wittier ('recycled grandeur') than Candidate 2, avoids that candidate's recently used 'Closer to home' transition, and beats Candidate 1, whose driver is a wealth-breakdown explainer.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-22.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a symbolic metaphor: a single dark crumb of soil cracked open like a tiny hearth, with a small green seedling-shaped curl of vapor rising from the crack. The environment is implied only through edges and reflections. The ground fills the frame, a rich field of granular umber and ochre earth in chunky dithered pixel clusters, lit by clean, clear morning light that makes the shadows lift and clarity arrive. In the center, a fist-sized clod of sterile-looking soil has split along a jagged fissure. From the fissure pours a soft, luminous warm amber glow, like breath, and the glow rises in curling wisps of pale gold and soft green pixels. The wisps shape into a fine, thread-like sprout that bends upward but is clearly made of light and vapor, not a living plant. Around the clod, scorched and flattened soil shows the marks of failed attempts to destroy it: a ring of pale gamma-white scorch pixels, a faint heat-cracked crust, and a hairline pressure-crushed groove. All of these stop at the clod's edge, as if the dirt refused them. Along the top edge of the frame, the curved rim of a sealed glass jar catches reflections: a tiny pixel-art window of dawn light in soft teal and cream, and a hint of a distant barren early-Earth horizon of rock and shallow pools mirrored in the glass. Along the bottom edge, a few scattered crystalline mineral grains glint gold. The palette is warm amber, honey gold, and soft sage green over deep umber browns, with small pale teal highlights. The mood is quiet awe and stubborn endurance, with a clear morning glow. Dithering and crisp pixel clusters give the soil texture, with no people, no text, and no microbes.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The glass jar rim at the top is a bit confusing spatially. The ground inside seems to continue up into the jar's reflection, so the scene reads as both inside and outside the jar.",
+          "The glowing sprout is partly a solid-looking leaf and curl rather than clearly vapor. This is acceptable as a symbolic element.",
+          "The dithering is heavy, which gives the soil a checkerboard look. The 'scorch ring' is faint and reads more like pale tile or paving lines.",
+          "The clod looks like two rocks or a heart shape split down the middle, not one clod, but it is still readable.",
+          "The gold crystals at the bottom edge look like cubes or dice. They are a little odd but harmless."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.466,
+          "lit_share": 0.466
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 115147,
+        "output_tokens": 16660,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17120,
+        "output_tokens": 7064,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 0.8987
+    }
   }
 ]

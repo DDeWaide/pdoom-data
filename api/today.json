@@ -1,37 +1,38 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T10:43:03.543030+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T10:42:54.189271+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 67.3,
-    "raw_percentage": 66.8,
+    "percentage": 66.9,
+    "raw_percentage": 66.1,
     "blind_scores": [
-      65.7,
-      66.4,
+      63.9,
+      64.2,
       66.6,
-      67.5,
-      67.7
+      67.4,
+      67.5
     ],
     "spread": {
       "n": 5,
-      "sd": 0.82,
-      "min": 65.7,
-      "max": 67.7,
-      "se": 0.43
+      "sd": 1.75,
+      "min": 63.9,
+      "max": 67.5,
+      "se": 1.22
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 67.5,
-      "2": 65.7,
-      "3": 67.7,
-      "4": 66.4,
-      "5": 66.6
+      "1": 66.6,
+      "2": 67.5,
+      "3": 67.4,
+      "4": 64.2,
+      "5": 63.9
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "elevated",
+        "signal": "medium",
         "votes": {
-          "elevated": 5
+          "elevated": 1,
+          "medium": 4
         }
       },
       "Governance": {
@@ -47,15 +48,16 @@
         }
       },
       "Alignment": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 5
+          "low": 5
         }
       },
       "Wild Card": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 5
+          "medium": 1,
+          "low": 4
         }
       }
     },
@@ -63,8 +65,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 3,
-      "why": "Candidate 3 is the freshest: it avoids Candidate 2's recycled 'nothing says X like' and 'plumbing' lines and Candidate 1's 'politely scheduled' and Nasdaq echoes, wears the predator-and-prey framing in its headline, and closes on a sharp, original line about bright tools and flimsy guardrails.",
+      "pick": 2,
+      "why": "Candidate 2 wears the field-notes directive with a clipped, wry blurb ('VISITORS UNKNOWN'), skips the overused 'Meanwhile' list shape, and lands one sharp joke about the killer robots, while Candidate 3 echoes the 11-13 Baltic drone card's 'short swim' framing and the 11-21 theorem line, and Candida",
       "fallback": false
     },
     "shadow": {
@@ -72,143 +74,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 48.0,
+          "value": 38.0,
           "scores": [
-            46.0,
-            46.0,
-            47.0,
-            51.0,
-            52.0
+            33.0,
+            38.0,
+            38.0,
+            38.0,
+            41.0
           ]
         },
         "Alignment": {
-          "value": 26.0,
+          "value": 15.7,
           "scores": [
-            22.0,
-            24.0,
-            27.0,
-            27.0,
-            27.0
+            14.0,
+            15.0,
+            16.0,
+            16.0,
+            16.0
           ]
         },
         "Governance": {
-          "value": 32.3,
+          "value": 30.3,
           "scores": [
+            26.0,
             29.0,
             31.0,
-            33.0,
-            33.0,
-            33.0
+            31.0,
+            31.0
           ]
         },
         "Geopolitics": {
-          "value": 62.3,
+          "value": 62.7,
           "scores": [
             61.0,
-            62.0,
-            62.0,
+            61.0,
             63.0,
-            63.0
+            64.0,
+            64.0
           ]
         },
         "Nuclear": {
-          "value": 12.3,
+          "value": 10.3,
           "scores": [
             9.0,
+            10.0,
+            10.0,
             11.0,
-            13.0,
-            13.0,
-            13.0
+            11.0
           ]
         },
         "Biotech": {
-          "value": 7.7,
+          "value": 7.0,
           "scores": [
             7.0,
             7.0,
-            8.0,
-            8.0,
+            7.0,
+            7.0,
             8.0
           ]
         },
         "Cyber": {
-          "value": 41.0,
+          "value": 40.7,
           "scores": [
             38.0,
+            39.0,
             41.0,
-            41.0,
-            41.0,
-            41.0
+            42.0,
+            43.0
           ]
         },
         "Climate": {
-          "value": 26.3,
+          "value": 25.3,
           "scores": [
-            26.0,
-            26.0,
+            22.0,
+            23.0,
             26.0,
             27.0,
-            27.0
+            29.0
           ]
         },
         "Wild Card": {
-          "value": 32.3,
+          "value": 17.0,
           "scores": [
-            29.0,
-            31.0,
-            33.0,
-            33.0,
-            34.0
+            14.0,
+            17.0,
+            17.0,
+            17.0,
+            21.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 66.8,
-          "sd": 0.82,
-          "se": 0.43,
+          "value": 66.1,
+          "sd": 1.75,
+          "se": 1.22,
           "scores": [
-            65.7,
-            66.4,
+            63.9,
+            64.2,
             66.6,
-            67.5,
-            67.7
+            67.4,
+            67.5
           ]
         },
         "power": {
-          "value": 41.1,
-          "sd": 0.62,
-          "se": 0.16,
+          "value": 39.6,
+          "sd": 1.21,
+          "se": 0.64,
           "scores": [
-            40.9,
-            41.0,
-            41.0,
-            41.4,
-            42.4
+            37.6,
+            38.6,
+            39.8,
+            40.3,
+            40.4
           ]
         },
         "mean": {
-          "value": 31.8,
-          "sd": 0.33,
-          "se": 0.16,
+          "value": 27.6,
+          "sd": 1.14,
+          "se": 0.56,
           "scores": [
-            31.3,
-            31.7,
-            31.7,
-            32.1,
-            32.1
+            25.6,
+            26.7,
+            28.0,
+            28.1,
+            28.2
           ]
         },
         "max": {
-          "value": 62.3,
-          "sd": 0.84,
-          "se": 0.41,
+          "value": 62.7,
+          "sd": 1.52,
+          "se": 1.13,
           "scores": [
             61.0,
-            62.0,
-            62.0,
+            61.0,
             63.0,
-            63.0
+            64.0,
+            64.0
           ]
         }
       },
@@ -218,68 +220,68 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 66.8,
+      "composite": 66.1,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 66.8,
-      "se": 0.43,
+      "input": 66.1,
+      "se": 1.22,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 7.76,
-      "K": 0.38,
-      "shock_p": 0.013,
-      "innovation": -0.8,
-      "prev": 67.6,
-      "noise_sd": 4.52,
+      "P": 7.73,
+      "K": 0.355,
+      "shock_p": 0.011,
+      "innovation": -1.2,
+      "prev": 67.3,
+      "noise_sd": 4.66,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "category": "AI Capability",
-    "blurb": "A YOUNG MIND BRINGS DOWN THE OLDEST PREY",
-    "summary": "A 167-year-old math problem may have just been solved with Claude's help, which is thrilling right up until you remember the same week brought AI-designed CPUs and a paper on models rewriting their own weights. Meanwhile the markets punished the AI boom, the killer-robot ban got kicked to 2028, and someone apparently walked into the FBI's criminal database. Humanity's brightest tools and flimsiest guardrails, sharing one news cycle.",
+    "driver": "FBI's national crime database targeted in hack, Trump says. President Donald Trump confirmed on Saturday that the FBI\u2019s National Crime Information Center database was targeted in a hack.",
+    "category": "Cyber",
+    "blurb": "FBI CRIME FILES, VISITORS UNKNOWN",
+    "summary": "Somebody went rummaging through the FBI's National Crime Information Center, and the confirmation came from the president at a Saturday presser rather than a quiet incident report. Wired helpfully notes that the outages are 'just getting started' as AI speeds up exploit-hunting. In Geneva, diplomats spent a week on killer robots and emerged agreeing to maybe talk about talking, which is reassuring if you are a killer robot.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "A claimed AI-assisted Riemann proof, an AI-designed CPU and METR's still-exponential curve add up to a real capability jump, verification pending."
+        "signal": "medium",
+        "detail": "A Claude-assisted Riemann proof is heading for Lean verification while capable models shrink to fit in 5.4 GB."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "UN killer-robot talks punted for two years while Trump improvised a tax threat on overseas data centers that his own team was hearing about for the first time."
+        "detail": "UN autonomous-weapons talks fizzled, and AI exam cheating cost South Korea's education minister his job."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "The Iran war continues with a US drone downed over Hormuz, and Russia keeps hammering Ukraine with double-tap strikes on emergency crews."
+        "detail": "Missiles on Lviv, drones in the Gulf of Finland and a US blockade of Iran keep two wars running hot."
       },
       {
         "name": "Alignment",
-        "signal": "medium",
-        "detail": "Anthropic's safety promises face their first earnings-season stress test, as researchers show private data leaking straight through the AI supply chain."
+        "signal": "low",
+        "detail": "Pundits ask whether Anthropic's safety pitch survives Wall Street, though no misbehavior was reported today."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "AI stocks pulled the S&P into correction, raising fears that the buildout bubble could take the wider economy down with it."
+        "signal": "low",
+        "detail": "A cartel kingpin's capture sparked deadly firefights, and an Indonesian factory blaze left dozens missing."
       }
     ],
     "mood": [
-      "awestruck",
-      "jittery",
-      "unverified",
-      "brittle",
-      "restless"
+      "breached",
+      "uneasy",
+      "stalled",
+      "wired",
+      "smoldering"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-21.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. Interior of a cramped university mathematics office on a high floor in Greenwich Village, New York, a different city and a different room from where the proof claim began. The camera stands inside, looking across the room at a tall arched window. Outside, the Washington Square Arch and the bare winter trees of the park are lit from below by a furnace-orange glare. A blood-red sky churns with bruised-violet clouds, and the red light pours across the floorboards. The room is bright with hellish orange and red light, and its shadows are violet and maroon. On the left, a big green-black chalkboard is crowded with chalk diagrams. A vertical line is crossed by a long column of glowing white dots, and curling zeta-function squiggles surround it. A rolling ladder leans against it. In the center foreground, a cluttered oak desk holds an open laptop. Its screen shows a split-pane code editor with a small terracotta-orange starburst mark, and it throws a hot orange glow up onto the ceiling. Beside it lies a yellowed 19th-century manuscript with brown ink and a smartphone with a lit, unanswered message bubble. On a shelf to the right, seven cream envelopes sit in a row. Six are sealed with red wax. The seventh is torn open and leaks molten orange light. A lone professor in a rumpled sweater stands whole and small, seen from behind, at the window with shoulders hunched. Their long violet-edged silhouette is cut by the red glare, and they watch the menacing sky. Hard red light comes up from the street and the screen, so every object in the room is clearly visible.",
+    "card_image": "doom-card-2026-11-22.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide street-level view of Pennsylvania Avenue NW in Washington, D.C., swallowed by a thick blood-red and furnace-orange fog that rolls between the buildings and fills the whole frame with glowing haze. The J. Edgar Hoover Building looms across the street, a monumental Brutalist block of heavy precast concrete with stepped inverted-ziggurat massing and rows of narrow slit windows. Its concrete face is lit hellishly from below by a furnace-orange glare coming off the wet pavement, and the slit windows glow molten amber. The haze fades the upper floors into a burning orange sky, with bruised violet shadows pooled in the recesses of the stepped facade. Heavy rain streaks diagonally through the scene, and every puddle on the avenue mirrors the red glow. In the foreground, a lone state trooper in a wide-brimmed campaign hat and rain cape stands whole and clearly visible beside a parked patrol cruiser, its light bar flashing red and amber into the fog. The cruiser's dashboard laptop glows with a cracked screen and a jagged red alert glyph, and the glow lights the trooper's face from below. Above the building, thin glowing red data lines and fiber-like strands arc out of the fog toward the horizon, some of them snapped and sparking, as if the national network is being breached. A faceless, abstract violet silhouette made of static pixels hovers in the haze over the entrance seal. Wanted-poster and missing-person flyers, plastered along a lamppost and soaked by the rain, are torn loose and drifting in the wind, lit orange. The mood is menacing and hostile, with everything in plain view under a bright, glaring red-orange light.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -288,74 +290,74 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The chalkboard scribbles, the framed certificates and the laptop screen show only pixel-noise squiggles, with no readable words. This is acceptable as tiny marks standing in for writing.",
-        "The seven envelopes on the right shelf are small and blurry. Their count and the torn-open one that leaks light are hard to make out, and they look like a row of cards with a lamp-like glow at the end.",
-        "The Washington Square Arch is stylized and sits low among the buildings. The bare winter trees are barely visible and the park reads as a glowing crowd or lights.",
-        "The professor is a small silhouette seen from behind, with a plain, slightly blocky build. The anatomy is simple but coherent.",
-        "The yellow manuscript in the foreground is a blown-out, noisy rectangle, and the desk clutter on the right merges a bit into a mass of books.",
-        "The laptop screen is split into a gray pane and a bright pane. The starburst mark is not clearly visible."
+        "The trooper is seen from behind in a purple cape, so no face is visible and the laptop glow on the face from the prompt doesn't appear. This reads as a composition choice, not a defect.",
+        "The cruiser's dashboard laptop screen is small and its red alert glyph is hard to make out. The cruiser's door and window geometry is a little jumbled where the open door overlaps the interior.",
+        "The violet silhouette on the building is a faint static-pixel figure. It reads as a ghostly mural, but it is abstract and easy to miss.",
+        "The scene is very orange and saturated, with low contrast in the building's recesses. The trooper, cruiser and building are all still clearly readable.",
+        "The wanted posters are tiny, with face-like marks standing in for writing. They are scattered and drifting, and some float oddly in mid-air, which fits the prompt.",
+        "The red data lines in the sky are thin and sparse, so they read more like lightning or sparks than network cables.",
+        "The street light and the traffic signal are somewhat fused with the background haze, which is acceptable."
       ],
       "tone": {
-        "gain": 6.0,
-        "lit_before": 0.153,
-        "lit_share": 0.44
+        "gain": 1.76,
+        "lit_before": 0.341,
+        "lit_share": 0.514
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-21.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-22.png"
   },
   "dawn": {
-    "percentage": 32.7,
-    "driver": "Mathematicians are amazed by \u2018holy grail\u2019 proof of Riemann hypothesis",
-    "category": "Discovery",
-    "blurb": "BIG SCORE ON RIEMANN, NOW TO THE REPLAY BOOTH",
-    "summary": "Anthropic mathematician Levent Alp\u00f6ge says he has proved the Riemann hypothesis with help from Claude. The problem has stood for 167 years, and mathematicians are reacting with awe as careful verification begins. Elsewhere, CERN physicists caught a particle decay they had hunted for 40 years, and a new pill combination shrank tumors in most patients with pancreatic cancer.",
+    "percentage": 33.1,
+    "driver": "Scientists Tried to Kill This Dirt, but It Wouldn\u2019t Die. Biologically important chemical reactions persisted in the sterilized soil for six years\u2014offering clues to how life on Earth may have gotten its start.",
+    "category": "Science",
+    "blurb": "STERILIZED SOIL KEEPS ITS CHEMISTRY FOR SIX YEARS",
+    "summary": "Scientists stripped a patch of soil of everything living, and for six years its biologically important chemical reactions just kept going, a stubborn clue to how the first sparks of life may have caught on early Earth. Elsewhere, Westminster Abbey's 150-year-old riddle of the skeleton in a Roman coffin may finally be answered: a high-ranking medieval abbot laid to rest in recycled grandeur. And in Kansas City, the Current lifted their first-ever NWSL trophy after a hard-fought 2-1 final.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "A claimed AI-assisted proof of the Riemann hypothesis has mathematicians buzzing, and CERN found first evidence of a one-in-ten-billion particle decay."
+        "signal": "bright",
+        "detail": "Soil chemistry that carried on for six years after sterilization gives researchers fresh insight into how life on Earth may have begun."
       },
       {
         "name": "Cooperation",
         "signal": "glimmer",
-        "detail": "Norway felled Oslo's annual Christmas tree for Trafalgar Square, keeping alive a decades-long tradition of friendship with Britain."
+        "detail": "Toyota, Nissan and Honda plan to standardize car parts together, a rivals-turned-partners move aimed at lowering costs for everyone."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Rob Lowe revealed he spent years praying for Charlie Sheen while working on his own sobriety, calling him 'my guy' in recovery."
+        "detail": "The Kansas City Current won their first NWSL championship, with goals from DiBernardo and Debinha sealing a 2-1 victory."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "China pledged at Cop31 to electrify its economy with low-carbon energy and to help other countries do the same."
+        "detail": "Quantum computing firms are testing their machines on energy-grid optimization, solar materials and hydrogen catalysts, pointing toward a cleaner-energy payoff."
       },
       {
         "name": "Wild Card",
         "signal": "bright",
-        "detail": "Daraxonrasib paired with chemotherapy shrank pancreatic tumors in 60.7% of patients, and in 8.2% the tumors vanished on scans."
+        "detail": "New dating evidence suggests the skeleton in Westminster Abbey's Roman sarcophagus belonged to a medieval abbot, closing a mystery more than 150 years old."
       }
     ],
     "mood": [
-      "awestruck",
-      "electric",
-      "triumphant",
+      "resilient",
       "curious",
-      "hopeful"
+      "wonder",
+      "jubilant"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
       "pick": 3,
-      "why": "Candidate 3 leads with the day's biggest real story, the claimed Riemann proof; its 'replay booth' headline delivers the sports-desk directive with a sharp, honest nod to pending verification, avoids Candidate 1's bad-news hit, and stays clear of the recent pancreatic-cancer card that Candidate 2 wo",
+      "why": "Candidate 3 leads with a real discovery story in a plain wire-style headline, is tighter and wittier ('recycled grandeur') than Candidate 2, avoids that candidate's recently used 'Closer to home' transition, and beats Candidate 1, whose driver is a wealth-breakdown explainer.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-21.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a sprawling English university campus on a clean, clear morning, the morning after a rumored mathematical proof of the Riemann hypothesis. The vast landscape dominates: rolling soft-green lawns, red-brick lecture halls with amber slate roofs, a small lake, and hedge-lined gravel paths, all washed in warm amber morning light with long gentle shadows lifting off the grass and dew sparkling in soft green highlights. The second-order effect is shown through the scene, not the event itself. A long winding queue of tiny, fully visible mathematicians and students with satchels and coffee cups snakes from the mathematics building across the quad to the campus library doors. In the foreground, a delivery lorry is parked on the main path with its back open, and pallets of paper reams and cardboard boxes are stacked in towers taller than the workers hauling them toward the department entrance. Scattered across the central lawn, small circles of figures sit on the grass over open notebooks and laptops, with a few wheeled-out chalkboards covered in dense handwritten scribbles. A single flowerbed is planted in a dotted pattern of bright golden blooms, like a scatter of prime points. The mood is hushed, patient and hopeful: people settling in to read and check slowly, together.",
+    "card_image": "dawn-card-2026-11-22.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. EXTREME CLOSE-UP filling the entire frame on a symbolic metaphor: a single dark crumb of soil cracked open like a tiny hearth, with a small green seedling-shaped curl of vapor rising from the crack. The environment is implied only through edges and reflections. The ground fills the frame, a rich field of granular umber and ochre earth in chunky dithered pixel clusters, lit by clean, clear morning light that makes the shadows lift and clarity arrive. In the center, a fist-sized clod of sterile-looking soil has split along a jagged fissure. From the fissure pours a soft, luminous warm amber glow, like breath, and the glow rises in curling wisps of pale gold and soft green pixels. The wisps shape into a fine, thread-like sprout that bends upward but is clearly made of light and vapor, not a living plant. Around the clod, scorched and flattened soil shows the marks of failed attempts to destroy it: a ring of pale gamma-white scorch pixels, a faint heat-cracked crust, and a hairline pressure-crushed groove. All of these stop at the clod's edge, as if the dirt refused them. Along the top edge of the frame, the curved rim of a sealed glass jar catches reflections: a tiny pixel-art window of dawn light in soft teal and cream, and a hint of a distant barren early-Earth horizon of rock and shallow pools mirrored in the glass. Along the bottom edge, a few scattered crystalline mineral grains glint gold. The palette is warm amber, honey gold, and soft sage green over deep umber browns, with small pale teal highlights. The mood is quiet awe and stubborn endurance, with a clear morning glow. Dithering and crisp pixel clusters give the soil texture, with no people, no text, and no microbes.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -364,36 +366,35 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The delivery truck is a cab-less trailer sitting on the grass edge rather than clearly on the path. Its open side and the boxes inside look a bit muddled.",
-        "The workers at the bottom center blend into the cardboard boxes they carry, so a few people and boxes look slightly merged. This is only noticeable on close inspection.",
-        "A small tree on a boxy trunk or post near the center-left lawn looks odd.",
-        "A grey statue-like figure sits by the hedge at the lower center and could be mistaken for a person.",
-        "The queue and the lawn groups are dense, tiny and repetitive, with some figures blurring together. Because they are small and distant, this reads as a crowd and not as a defect.",
-        "The chalkboards carry only tiny scribble marks and no readable text, which is acceptable."
+        "The glass jar rim at the top is a bit confusing spatially. The ground inside seems to continue up into the jar's reflection, so the scene reads as both inside and outside the jar.",
+        "The glowing sprout is partly a solid-looking leaf and curl rather than clearly vapor. This is acceptable as a symbolic element.",
+        "The dithering is heavy, which gives the soil a checkerboard look. The 'scorch ring' is faint and reads more like pale tile or paving lines.",
+        "The clod looks like two rocks or a heart shape split down the middle, not one clod, but it is still readable.",
+        "The gold crystals at the bottom edge look like cubes or dice. They are a little odd but harmless."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.754,
-        "lit_share": 0.754
+        "lit_before": 0.466,
+        "lit_share": 0.466
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-21.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-22.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 148117,
-      "output_tokens": 18296,
+      "input_tokens": 115147,
+      "output_tokens": 16660,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 17536,
-      "output_tokens": 8990,
+      "input_tokens": 17120,
+      "output_tokens": 7064,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0834
+    "estimated_usd": 0.8987
   }
 }
