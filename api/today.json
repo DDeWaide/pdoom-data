@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T10:43:30.382047+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T10:43:42.648470+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 68.3,
-    "raw_percentage": 69.5,
+    "percentage": 68.1,
+    "raw_percentage": 67.8,
     "blind_scores": [
-      67.6,
-      68.5,
-      69.8,
-      70.2,
-      70.2
+      66.7,
+      67.0,
+      67.5,
+      68.9,
+      68.9
     ],
     "spread": {
       "n": 5,
-      "sd": 1.16,
-      "min": 67.6,
-      "max": 70.2,
-      "se": 0.65
+      "sd": 1.04,
+      "min": 66.7,
+      "max": 68.9,
+      "se": 0.72
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 67.6,
-      "2": 68.5,
-      "3": 70.2,
-      "4": 70.2,
-      "5": 69.8
+      "1": 68.9,
+      "2": 68.9,
+      "3": 66.7,
+      "4": 67.0,
+      "5": 67.5
     },
     "factor_consensus": {
       "AI Capability": {
@@ -47,16 +47,16 @@
         }
       },
       "Alignment": {
-        "signal": "low",
+        "signal": "medium",
         "votes": {
-          "low": 3,
-          "medium": 2
+          "medium": 4,
+          "low": 1
         }
       },
       "Wild Card": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "medium": 5
+          "low": 5
         }
       }
     },
@@ -64,8 +64,8 @@
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 3,
-      "why": "Candidate 3 wears the dry-understatement directive best: 'an unrequested delivery,' 'using their yard,' 'pack a paper map.' It also avoids the recent cards' recycled 'Add\u2026' construction, yesterday's FBI-breach beat and the delayed-train joke, and keeps the focus tightly on the Poland strike.",
+      "pick": 1,
+      "why": "It avoids the 'Back home' and 'While\u2026' shapes that recent cards keep reusing, carries the sports-desk voice through the roster headline, the 'ground games' opener and the 'full slate' sign-off, and names the orbital nuke story clearly, while Candidate 2 leans on the stale 'Meanwhile\u2026Back home' struc",
       "fallback": false
     },
     "shadow": {
@@ -73,143 +73,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 29.7,
+          "value": 34.3,
           "scores": [
-            26.0,
-            27.0,
             31.0,
             31.0,
-            31.0
-          ]
-        },
-        "Alignment": {
-          "value": 19.0,
-          "scores": [
-            14.0,
-            17.0,
-            19.0,
-            21.0,
-            22.0
-          ]
-        },
-        "Governance": {
-          "value": 27.0,
-          "scores": [
-            26.0,
-            27.0,
-            27.0,
-            27.0,
-            31.0
-          ]
-        },
-        "Geopolitics": {
-          "value": 65.3,
-          "scores": [
-            64.0,
-            64.0,
-            66.0,
-            66.0,
-            66.0
-          ]
-        },
-        "Nuclear": {
-          "value": 15.3,
-          "scores": [
-            9.0,
-            14.0,
-            16.0,
-            16.0,
-            17.0
-          ]
-        },
-        "Biotech": {
-          "value": 7.7,
-          "scores": [
-            7.0,
-            7.0,
-            8.0,
-            8.0,
-            8.0
-          ]
-        },
-        "Cyber": {
-          "value": 46.0,
-          "scores": [
-            44.0,
-            46.0,
-            46.0,
-            46.0,
-            47.0
-          ]
-        },
-        "Climate": {
-          "value": 38.0,
-          "scores": [
             34.0,
-            38.0,
-            38.0,
             38.0,
             38.0
           ]
         },
-        "Wild Card": {
-          "value": 25.7,
+        "Alignment": {
+          "value": 21.7,
           "scores": [
+            19.0,
             21.0,
             22.0,
-            26.0,
-            29.0,
+            22.0,
+            22.0
+          ]
+        },
+        "Governance": {
+          "value": 30.3,
+          "scores": [
+            27.0,
+            27.0,
+            31.0,
+            33.0,
             33.0
+          ]
+        },
+        "Geopolitics": {
+          "value": 63.3,
+          "scores": [
+            63.0,
+            63.0,
+            63.0,
+            64.0,
+            64.0
+          ]
+        },
+        "Nuclear": {
+          "value": 45.3,
+          "scores": [
+            42.0,
+            43.0,
+            46.0,
+            47.0,
+            48.0
+          ]
+        },
+        "Biotech": {
+          "value": 21.7,
+          "scores": [
+            17.0,
+            19.0,
+            22.0,
+            24.0,
+            24.0
+          ]
+        },
+        "Cyber": {
+          "value": 25.3,
+          "scores": [
+            22.0,
+            24.0,
+            25.0,
+            27.0,
+            27.0
+          ]
+        },
+        "Climate": {
+          "value": 30.7,
+          "scores": [
+            29.0,
+            29.0,
+            31.0,
+            32.0,
+            33.0
+          ]
+        },
+        "Wild Card": {
+          "value": 12.3,
+          "scores": [
+            9.0,
+            11.0,
+            13.0,
+            13.0,
+            14.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 69.5,
-          "sd": 1.16,
-          "se": 0.65,
+          "value": 67.8,
+          "sd": 1.04,
+          "se": 0.72,
           "scores": [
-            67.6,
-            68.5,
-            69.8,
-            70.2,
-            70.2
+            66.7,
+            67.0,
+            67.5,
+            68.9,
+            68.9
           ]
         },
         "power": {
-          "value": 41.5,
-          "sd": 0.47,
-          "se": 0.15,
+          "value": 40.6,
+          "sd": 1.12,
+          "se": 0.71,
           "scores": [
-            40.7,
-            41.3,
-            41.6,
-            41.7,
-            41.9
+            39.3,
+            39.6,
+            40.8,
+            41.5,
+            41.8
           ]
         },
         "mean": {
-          "value": 30.3,
-          "sd": 1.37,
-          "se": 0.64,
+          "value": 31.7,
+          "sd": 1.97,
+          "se": 1.27,
           "scores": [
-            28.3,
-            29.3,
-            30.8,
-            30.9,
-            31.7
+            29.0,
+            29.9,
+            31.9,
+            33.3,
+            33.3
           ]
         },
         "max": {
-          "value": 65.3,
-          "sd": 1.1,
-          "se": 0.82,
+          "value": 63.3,
+          "sd": 0.55,
+          "se": 0.41,
           "scores": [
+            63.0,
+            63.0,
+            63.0,
             64.0,
-            64.0,
-            66.0,
-            66.0,
-            66.0
+            64.0
           ]
         }
       },
@@ -219,68 +219,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 69.5,
+      "composite": 67.8,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 69.5,
-      "se": 0.65,
+      "input": 67.8,
+      "se": 0.72,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 10.87,
-      "K": 0.526,
-      "shock_p": 0.049,
-      "innovation": 2.6,
-      "prev": 66.9,
-      "noise_sd": 4.55,
+      "P": 9.08,
+      "K": 0.437,
+      "shock_p": 0.015,
+      "innovation": -0.5,
+      "prev": 68.3,
+      "noise_sd": 4.56,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Ukraine war spilling into NATO territory. The war between Russia and Ukraine once again creeps onto European territory \u2013 from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-    "category": "Geopolitics",
-    "blurb": "POLAND RECEIVES AN UNREQUESTED DELIVERY",
-    "summary": "Russian missiles landed in Poland and NATO is convening, which is what alliances do when the neighbor's war starts using their yard. Meanwhile Ukraine sank a Russian warship that had only stopped in Libya for fuel. Back home, COP31 ended in the longest stalemate in UN climate history, and the DNI is warning Americans to expect more outages over Thanksgiving, so pack a paper map.",
+    "driver": "Reports: Russia may launch nuclear weapon into orbit as soon as next month. A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+    "category": "Nuclear",
+    "blurb": "RUSSIA SIGNS A NUKE TO THE ORBITAL ROSTER",
+    "summary": "Ground games are apparently too small now. Ukraine is sinking Russian corvettes off Libya, Russian drones keep straying into Poland, and Moscow's reported response is to put a nuclear warhead in orbit, where it could wipe out thousands of satellites at once. Meanwhile COP31 ended in a walkout, Trump personally rehired Nvidia's CEO over spy concerns, and Claude can now approve its own pull requests, so it was a full slate everywhere.",
     "factors": [
       {
         "name": "AI Capability",
         "signal": "medium",
-        "detail": "Meta's AI chief says superintelligence is 'arriving' just as the Nasdaq has its worst week since 2020."
+        "detail": "GLM-5.4's loop transformer, Claude shipping its own code fixes, and METR's exponential curves all landed on the same day."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "The Nvidia chip scandal now reportedly runs through China's spy agency, and an AI cheating scandal toppled South Korea's education minister."
+        "detail": "The White House brags it got Jensen Huang reinstated despite national security red flags, and Trump held at least $12 million in Nvidia stock at the end of 2025."
       },
       {
         "name": "Geopolitics",
         "signal": "high",
-        "detail": "Missiles in Poland, a Russian warship sunk in a Libyan port, strikes killing at least 15 near Kyiv, and Houthi attacks on Saudi oil."
+        "detail": "The war now reaches from Libya's ports to Polish airspace, while South Korea sends island residents to shelter as Russian jets approach."
       },
       {
         "name": "Alignment",
         "signal": "medium",
-        "detail": "Banks are blocking AI agents from customer accounts and safety experts question Tesla's self-driving claims, while Wang says the next year carries 'great consequence'."
+        "detail": "State attorneys general say Grok is still generating CSAM despite X's claims that every output is screened."
       },
       {
         "name": "Wild Card",
-        "signal": "medium",
-        "detail": "Asian regulators are scrambling to support their markets as fears grow that the AI boom is turning into a bust."
+        "signal": "low",
+        "detail": "An 80-pound delivery drone on a Detroit roof is the strangest entry on an otherwise quiet card."
       }
     ],
     "mood": [
-      "uneasy",
-      "spillover",
-      "brittle",
-      "deadlocked",
-      "overheated"
+      "orbital",
+      "sprawling",
+      "brazen",
+      "jittery"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. The interior of Copenhagen Airport's Terminal 3 departure hall, after a night of closed airspace. The whole back wall is a floor-to-ceiling glass curtain wall, and it is filled by a huge blood-red and furnace-orange sky. A hellish glare rises from below the horizon and floods the room. Beyond the glass the apron is bathed in furnace-orange light. Grounded white-tailed passenger jets sit nose-in at their gates, and the Kastrup control tower stands as a tall bold silhouette. A Danish flag, a white cross on red, hangs limp from a pole beside the apron. Bruised violet shadows pool on the polished floor, which reflects long streaks of orange. In the foreground, a tired woman in a long winter coat and a small child in a puffy jacket stand whole and small, hand in hand, facing the glass. They are cut into bold flat silhouettes against the blazing sky, and their long shadows stretch back toward the camera. Behind them, rows of stranded travelers slump asleep on benches among rolling suitcases and strollers, all rimmed in orange light. A single abandoned luggage cart stands in the middle of the hall. The mood is menacing and wrong: a busy airport frozen and emptied under a sky that looks like the gates of hell. Everything is clearly visible, with large shapes and strong contrast that read at phone size.",
+    "card_image": "doom-card-2026-11-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. The camera sits on the wet asphalt of a German Autobahn service area at night and looks steeply upward. A huge blood-red and furnace-orange artificial aurora fills the sky, with rippling curtains of crimson and violet light and a few streaks of burning orange where dying satellites fall. The glow comes from a molten orange band along the horizon behind the buildings and washes the whole scene in hellish light. It paints the rain-slick tarmac, which reflects it in long orange streaks, and it lights the undersides of everything above. A tall overhead road gantry looms in the foreground. Its big electronic sign panels are blank grey-violet, with no navigation or traffic data. Beside it, a towering fuel-price pylon has a dead, unlit display. Behind it, the huge flat canopy of a powerless filling station is lit from below by the orange horizon glow, and its underside shows rows of dead tube lights. A stalled line of freight lorries fills the middle distance. Their amber hazard lights blink, and their cabs are lit orange. A lattice cell tower rises into the aurora with its antenna arrays hanging dead. A few small, whole truckers and travelers stand on the tarmac in bright orange rim light. They hold dead phones and paper road maps up toward the sky and look up at the red glow. The shadows are bruised violet and maroon. Everything on screen is clearly visible, and the mood is malevolent and wrong.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -289,73 +288,73 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The Danish flag's cross is nearly centered and the flag is washed in orange, so it reads less clearly as a Danish flag.",
-        "The seated travelers on both sides are murky, and their limbs blend into the benches and luggage. This is acceptable because it reads as a distant, shadowed crowd.",
-        "The jets on the apron are somewhat muddled, with tail fins and fuselages blending into the glare. They are still recognizable as parked planes.",
-        "The woman and child are mostly flat dark silhouettes with little detail. They stay clear against the bright sky, and their clasped hands read correctly.",
-        "The glass mullions pass in front of the tower and sky in a slightly irregular way. This does not hurt readability."
+        "The overhead gantry's right end stops in mid-air with no support, close to the separate price pylon.",
+        "The pink blob in the central traveler's hands, probably a map or phone, is hard to identify.",
+        "The faces of the travelers are tiny and faint, though they read fine as silhouettes looking up.",
+        "The fuel-price pylon's dead display is a column of dark boxes with red panels, which is slightly cluttered but has no readable text.",
+        "The trucks in the middle distance blend into each other in the orange glow."
       ],
       "tone": {
-        "gain": 1.24,
-        "lit_before": 0.475,
-        "lit_share": 0.505
+        "gain": 2.45,
+        "lit_before": 0.283,
+        "lit_share": 0.51
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-23.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-24.png"
   },
   "dawn": {
-    "percentage": 31.7,
-    "driver": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
-    "category": "Science",
-    "blurb": "JONATHAN, 194, UNLOCKS THE LONG-LIFE CODE",
-    "summary": "Jonathan the giant tortoise, at 194 the oldest living land animal on Earth, has let researchers read his genome, and they found 287 unique variants tied to DNA repair and inflammation control that may explain his remarkable lifespan. In medicine, a new AI tool spotted hidden signs of bladder cancer up to five years before diagnosis, catching 85% of cases across nearly 70,000 patients. On the track and the court, Marc Marquez drew level with Giacomo Agostini by winning his eighth premier-class title, and Carlos Alcaraz claimed his first ATP Finals crown.",
+    "percentage": 31.9,
+    "driver": "Pakistan\u2019s Zeeshan Ali set for historic flight to China\u2019s space station. The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China\u2019s crew.",
+    "category": "Cooperation",
+    "blurb": "A PAKISTANI PILOT RISES TO THE HEAVENLY PALACE",
+    "summary": "Zeeshan Ali, a Pakistan Air Force pilot, is bound for China's Tiangong station, where he will spend about a week running experiments alongside the Chinese crew in a historic first for his country. Back on the ground, volunteers high in the Colombian Andes are planting the fuzzy frailej\u00f3n one seedling at a time, protecting a plant that helps supply water to millions. And in Japan, researchers have built a gum disease treatment from egg yolk antibodies and near-infrared light that clears out harmful bacteria while leaving the good ones in peace.",
     "factors": [
       {
         "name": "Science",
-        "signal": "blazing",
-        "detail": "Brown University chemists showed that Einstein's relativity reshapes how heavy atoms form triple bonds, rewriting a textbook rule, while another team found DNA may carry its own built-in sunscreen that helped early life flourish."
+        "signal": "bright",
+        "detail": "Japanese researchers unveiled a gum treatment that uses egg yolk antibodies and near-infrared light to target harmful bacteria while preserving the mouth's healthy microbes."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "Kenya and DR Congo agreed to restore diplomatic ties, with both leaders pledging mutual respect for sovereignty."
+        "signal": "blazing",
+        "detail": "Pakistan's Zeeshan Ali will join China's crew aboard Tiangong for a week of shared experiments, a historic partnership in orbit."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "Parents surveyed by Sesame Workshop say their kids are growing kinder than a decade ago, and Alcaraz joined an exclusive four-man club by adding the ATP Finals to all four majors."
+        "detail": "Bengals receiver Tee Higgins traded designer clothes for a Fiona the Hippo shirt, a sweet tribute that delighted all of Cincinnati."
       },
       {
         "name": "Environment",
-        "signal": "glimmer",
-        "detail": "Researchers estimate GLP-1 drugs could reduce food demand enough to free up farmland larger than Italy for nature."
+        "signal": "bright",
+        "detail": "A growing band of volunteers in the Colombian Andes is replanting frailejones, the fuzzy water guardians that help supply water to millions."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "An AI model that reads subtle patterns in patient records could give doctors a five-year head start on bladder cancer."
+        "signal": "glimmer",
+        "detail": "Archaeologists found evidence that Verica, the Iron Age ruler who shaped Britain's history, may have been a woman, restoring a remarkable leader to the record."
       }
     ],
     "mood": [
-      "wonder",
-      "longevity",
-      "triumph",
-      "curiosity",
-      "warmth"
+      "soaring",
+      "collaborative",
+      "hopeful",
+      "tender",
+      "wonder-struck"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
-      "pick": 3,
-      "why": "Candidate 3 best wears the front-page-triumph directive, with one strong verb in 'JONATHAN, 194, UNLOCKS THE LONG-LIFE CODE'; it avoids the overused 'Elsewhere' transition and names specific, purely good stories.",
+      "pick": 1,
+      "why": "Candidate 1 has the freshest structure, skipping the overused 'Elsewhere' pivot and the 'patient' echoes of recent cards, and its grand newsreel blurb slyly translates Tiangong as the 'Heavenly Palace' to name a real, historic first without any bad-news framing.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-23.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. NIGHT SCENE on the narrow main street of Jamestown, St. Helena, in the small hours before dawn. Steep dark volcanic cliffs rise on both sides under a deep teal-black sky of tiny stars, and a sliver of South Atlantic shows at the far end of the street. Deep shadows dominate. All light comes from artificial sources: two amber cast-iron streetlamps and the glowing windows of a whitewashed Georgian pub with green shutters. In the pub's big front window, an old CRT television glows soft green. On its screen is a huge domed Aldabra tortoise on a sunlit lawn, with a thin golden double helix of tiny light points rising above its shell. Inside, a single elderly islander in a flat cap sits whole on a bar stool, seen from behind and watching the screen, with a warm amber pendant lamp over the bar. Outside on a small iron caf\u00e9 table under the nearest streetlamp lies a folded newspaper. Its front page is a large pixel photo of the same tortoise with scribbled gray lines in place of text. Beside it sits a steaming enamel mug. A child's crayon drawing of a green-brown tortoise with a gold spiral shell is taped inside the window glass, catching the amber light. Wet cobblestones reflect pools of amber and green, and the sky at the horizon holds the faintest pale gold. The whole scene feels hushed, warm and quietly hopeful, as though the island is waiting for clarity to arrive.",
+    "card_image": "dawn-card-2026-11-24.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. INTERIOR SCENE inside a modest family living room in Islamabad on the clean, clear morning after Pakistan's first astronaut flew to China's Tiangong space station. We look from inside the room toward a wide open balcony doorway and window, which frame the outside world. Beyond them, soft green Margalla Hills rise over rooftops, water tanks and neem trees, under a pale apricot sky with a fading crescent moon. Warm amber morning light slants across a worn woven rug, and the last shadows are lifting from the corners. A low wooden table in the foreground holds a tray of empty chai cups and a plate with a few leftover sweets from the night-long watch. The dark TV is off, and cushions are pushed about where the family sat. Green-and-white paper bunting droops from the curtain rod, and a few crescent-and-star paper cutouts lie scattered on the floor. A cardboard model rocket and a child's crayon drawing of an astronaut with a green flag patch stand propped on the windowsill. Beside them sits a glass jar of vivid blue-green cyanobacteria, a school science project catching the sun. A grandfather in a cream shalwar kameez and white cap sweeps paper scraps toward the balcony door with a straw broom. A small girl in a school uniform stands whole at the window and gazes up at the empty sky. Calm, proud and hopeful mood, palette of warm amber, soft sage green and cream with gentle teal accents.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -364,34 +363,35 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The newspaper masthead has small letter-like marks that read as pseudo-text. They are tiny and look like scribbles at phone size.",
-        "The photo on the newspaper looks more like a green mound or hill with a helix than a clear tortoise.",
-        "The elderly man in the window is dark and blends into the bar and chair behind him. He still reads as one seated figure seen from behind.",
-        "The tortoise on the TV and the crayon tortoise are simple and a little blobby, but they are recognizable."
+        "The girl's legs and feet show in front of the low wall under the window, while her hands rest on the sill behind her. Her position relative to the wall is a little unclear.",
+        "The bottom-right corner has a striped, keyboard-like pattern where the sofa or rug edge should be, which is hard to read.",
+        "The scattered crescent cutouts on the rug are tiny and blend into the rug pattern.",
+        "The bunting flags are slightly uneven and some crescent shapes are muddy, but they read as bunting.",
+        "The objects on the windowsill (rocket model, bottle, drawing) are small and a bit crowded, but they are recognizable."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.13,
-        "lit_share": 0.13
+        "lit_before": 0.572,
+        "lit_share": 0.572
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-23.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-24.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 107522,
-      "output_tokens": 17408,
+      "input_tokens": 152776,
+      "output_tokens": 17377,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 15679,
-      "output_tokens": 8840,
+      "input_tokens": 17978,
+      "output_tokens": 9258,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 0.898
+    "estimated_usd": 1.0872
   }
 }
