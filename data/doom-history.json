@@ -39058,5 +39058,405 @@
       },
       "estimated_usd": 1.0872
     }
+  },
+  {
+    "date": "2026-11-25",
+    "generated_at": "2026-11-25T10:43:00.871321+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 66.7,
+      "raw_percentage": 64.1,
+      "blind_scores": [
+        62.2,
+        62.4,
+        64.6,
+        65.2,
+        66.0
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 1.7,
+        "min": 62.2,
+        "max": 66.0,
+        "se": 1.08
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 65.2,
+        "2": 66.0,
+        "3": 62.2,
+        "4": 62.4,
+        "5": 64.6
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "elevated",
+          "votes": {
+            "elevated": 3,
+            "medium": 2
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 3,
+            "elevated": 2
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 3,
+            "medium": 2
+          }
+        },
+        "Wild Card": {
+          "signal": "medium",
+          "votes": {
+            "low": 2,
+            "medium": 3
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 pairs a plain one-verb wire headline with the freshest summary: its 'found the hole, wrote the exploit and walked through it' opener is new, whereas Candidate 3 reuses the 'Somewhere a\u2026' opening and Candidate 1 echoes the 'homework' joke, the 'Meanwhile' lead-in and the machines-versus-h",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 43.0,
+            "scores": [
+              38.0,
+              38.0,
+              44.0,
+              47.0,
+              47.0
+            ]
+          },
+          "Alignment": {
+            "value": 18.7,
+            "scores": [
+              16.0,
+              16.0,
+              19.0,
+              21.0,
+              22.0
+            ]
+          },
+          "Governance": {
+            "value": 31.0,
+            "scores": [
+              27.0,
+              31.0,
+              31.0,
+              31.0,
+              33.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 60.0,
+            "scores": [
+              58.0,
+              58.0,
+              61.0,
+              61.0,
+              62.0
+            ]
+          },
+          "Nuclear": {
+            "value": 11.7,
+            "scores": [
+              11.0,
+              11.0,
+              11.0,
+              13.0,
+              13.0
+            ]
+          },
+          "Biotech": {
+            "value": 20.7,
+            "scores": [
+              19.0,
+              20.0,
+              21.0,
+              21.0,
+              23.0
+            ]
+          },
+          "Cyber": {
+            "value": 48.0,
+            "scores": [
+              44.0,
+              46.0,
+              47.0,
+              51.0,
+              53.0
+            ]
+          },
+          "Climate": {
+            "value": 17.3,
+            "scores": [
+              16.0,
+              17.0,
+              17.0,
+              18.0,
+              19.0
+            ]
+          },
+          "Wild Card": {
+            "value": 21.3,
+            "scores": [
+              17.0,
+              19.0,
+              22.0,
+              23.0,
+              23.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 64.1,
+            "sd": 1.7,
+            "se": 1.08,
+            "scores": [
+              62.2,
+              62.4,
+              64.6,
+              65.2,
+              66.0
+            ]
+          },
+          "power": {
+            "value": 39.9,
+            "sd": 1.07,
+            "se": 0.27,
+            "scores": [
+              39.3,
+              39.5,
+              40.1,
+              40.2,
+              42.0
+            ]
+          },
+          "mean": {
+            "value": 30.3,
+            "sd": 0.96,
+            "se": 0.26,
+            "scores": [
+              28.6,
+              30.0,
+              30.3,
+              30.7,
+              31.1
+            ]
+          },
+          "max": {
+            "value": 60.0,
+            "sd": 1.87,
+            "se": 1.22,
+            "scores": [
+              58.0,
+              58.0,
+              61.0,
+              61.0,
+              62.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 64.1,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 64.1,
+        "se": 1.08,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 7.33,
+        "K": 0.342,
+        "shock_p": 0.004,
+        "innovation": -4.0,
+        "prev": 68.1,
+        "noise_sd": 4.63,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Amazon says hackers' AI agents found and exploited 0-day with little human input. The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "category": "Cyber",
+      "blurb": "HACKER AGENTS EXPLOIT A ZERO-DAY",
+      "summary": "The machines found the hole, wrote the exploit and walked through it while the humans were presumably at lunch. Amazon calls that a boon for defenders too, which is cold comfort on the same day Iran is suspected of hacking 50 commercial ships and OpenAI shaved the matrix multiplication exponent down to 2.25. Washington, meanwhile, is busy pardon-proofing a chip CEO and watching the Houthis use a Saudi skyscraper for target practice.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "elevated",
+          "detail": "AI labs are posting landmark maths proofs, and AI agents are finding exploitable zero-days with little human input."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "The Huang reinstatement saga, with presidential pressure, a floated pardon and ignored intelligence warnings, shows Nvidia may be too big to police."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The Iran war grinds into month eight, Houthis are hitting Saudi targets, and Putin is promising retaliation over refinery strikes."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "There are essays and conferences about whose side AI agents are on, but no actual incident today."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A tech-stock rout and Anthropic's slide below its IPO price rattle markets without breaking anything."
+        }
+      ],
+      "mood": [
+        "uneasy",
+        "wired",
+        "exposed",
+        "jittery"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over an endless cracked basalt plain, laid out like a vast grid of square iron hatches that stretches to a hazy horizon. Molten furnace-orange light floods up from the seams between the hatches and floods the whole scene from below. The sky is a glowing bruised-violet and blood-red haze with orange smoke banks, so every part of the frame is clearly visible. Thousands of closed hatches, each fastened with a small red padlock, sit in neat rows. Glowing orange lines of lava run between them like a network of nodes and edges. In the center rises a tall, precarious cairn of stacked dark stones, a trail-marker tower, lit hot orange from below and casting long violet shadows across the grid. From its base, long disciplined streams of identical tiny insect-like mechanical workers march in rigid lines. They fan out across the plain and swarm over the hatches, each one pressing at a padlock. Far off at the edge of the grid, one hatch stands open with its padlock snapped in two. A tall column of white-hot orange light blasts out of it into the red sky, and the nearest workers pour toward it. On a low basalt ridge in the foreground, a single tiny whole human figure in a dark coat stands with arms hanging at their sides, back to the viewer, small and passive, watching the swarm do the work. The vast landscape dominates, and the mood is malevolent and relentless like a 16-bit boss stage.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The central cairn reads more like a dark spike or tower with streams fanning from its base than a stack of stones, and the insect-like workers are so small they look like dotted texture rather than marching bugs.",
+          "The padlocks on the hatches are not readable at phone size; the hatches look like glowing grid tiles.",
+          "The distant open hatch with its light column is clear, but the broken padlock and the workers pouring toward it can't be made out.",
+          "The foreground figure is small and dark against the ridge, but it still reads as a single person in a coat seen from behind, with no anatomy problems.",
+          "There is a purple-red smudge to the left of the cairn base, probably the violet shadow, that looks a bit like a stain.",
+          "The orange-red palette is very saturated and the grid is busy and noisy, but the scene stays readable."
+        ],
+        "tone": {
+          "gain": 1.54,
+          "lit_before": 0.417,
+          "lit_share": 0.509
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 33.3,
+      "driver": "Severe eczema healed by novel immune-calming pill in clinical trial",
+      "category": "Medicine",
+      "blurb": "THE RED SKIN SOFTENS, ONE PILL A DAY",
+      "summary": "People with moderate to severe eczema saw their skin heal on an experimental immune-calming drug. The trial found it highly effective and safe, and because it is a pill, patients could skip the injections that current advanced treatments require. In the lab, mRNA-style nose drops restored youthful learning and memory in aging mice, and IBM and University of Chicago researchers showed a quantum computer finishing in 15 minutes a calculation beyond practical classical reach.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "An IBM quantum computer solved a problem beyond the practical reach of classical methods, and a new preprint claims matrix multiplication can be done in n to the 2.25 time."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "The Solomon Islands signed a new security treaty with Australia, which its leader said would bring the country steadiness in the region."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "NFL teams, including the Lions and the Cowboys, who are marking 30 years of the tradition, are serving Thanksgiving meals to their communities."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Conservationists are working to protect the 300-mile migration of Wyoming's mule deer, one of the longest land journeys in the lower 48 states."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "bright",
+          "detail": "Route 66's Ariston Cafe has been feeding travelers since 1924, and it is still serving classic road fare nearly a century later."
+        }
+      ],
+      "mood": [
+        "relieved",
+        "hopeful",
+        "soothed",
+        "curious",
+        "grateful"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 has the freshest blurb, with no 'ONE/A..., AND...' opener and no recycled 'Elsewhere'; it wears the nature-documentary voice as a quiet close-up ('THE RED SKIN SOFTENS'), and its summary stays concrete and all-good, with the nose-drop and 15-minute quantum results.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-25.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene: a soft drizzle and low amber-lit haze fill a quiet row-house street in a different city, on the morning after a breakthrough eczema pill trial reported its results. Rain slants in fine pixel streaks through thick golden mist. Wet slate roofs, brick stoops and dripping maple trees dissolve into layers of warm amber and soft sage green. The shadows are lifting, and a pale clean light is breaking through the cloud ceiling. In the foreground a middle-aged man in a short-sleeved cotton shirt stands whole on a brick front stoop, his bare forearms held out into the gentle rain. He looks down at his smooth, clear skin with quiet wonder, and the raindrops bead on it. On the iron stoop railing beside him sit a glass of water and one small pale tablet, glowing faintly. Across the street, a corner pharmacy window shines warm amber with a green cross sign (no letters), and a discarded injector pen lies faded and half-buried in a wet gutter leaf pile. In the glassy puddle at his feet, tangled red-orange signal threads in the reflection unravel into calm blue-green ripples, a stylized nod to an overactive immune pathway being quieted. The mood is a hopeful exhale, dawn rather than noon, with a limited palette of warm amber, honey gold, soft sage and misty aqua.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The glass of water sits on the brick pillar rather than the iron railing, and the glowing tablet the prompt asked for is barely visible or missing.",
+          "The man's hands are small and a little soft in the pixel detail, but they connect to his arms and read fine.",
+          "The puddle reflection shows orange threads and trees but no clear reflection of the man.",
+          "The traffic signal or lamp post across the street is a bit ambiguous.",
+          "The pharmacy window has tiny squiggles standing in for writing, which is acceptable.",
+          "The discarded injector pen in the gutter is small and easy to mistake for litter."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.639,
+          "lit_share": 0.639
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 151911,
+        "output_tokens": 18332,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 17748,
+        "output_tokens": 8261,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 1.0924
+    }
   }
 ]
