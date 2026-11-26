@@ -1,38 +1,37 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T10:43:00.871321+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T10:43:09.078802+00:00",
   "prompt_version": "v4-factors",
   "doom": {
-    "percentage": 66.7,
-    "raw_percentage": 64.1,
+    "percentage": 69.6,
+    "raw_percentage": 71.3,
     "blind_scores": [
-      62.2,
-      62.4,
-      64.6,
-      65.2,
-      66.0
+      68.5,
+      69.3,
+      71.8,
+      72.8,
+      76.1
     ],
     "spread": {
       "n": 5,
-      "sd": 1.7,
-      "min": 62.2,
-      "max": 66.0,
-      "se": 1.08
+      "sd": 3.02,
+      "min": 68.5,
+      "max": 76.1,
+      "se": 1.33
     },
     "aggregate": "trimmed",
     "sample_scores": {
-      "1": 65.2,
-      "2": 66.0,
-      "3": 62.2,
-      "4": 62.4,
-      "5": 64.6
+      "1": 68.5,
+      "2": 72.8,
+      "3": 76.1,
+      "4": 71.8,
+      "5": 69.3
     },
     "factor_consensus": {
       "AI Capability": {
-        "signal": "elevated",
+        "signal": "high",
         "votes": {
-          "elevated": 3,
-          "medium": 2
+          "high": 5
         }
       },
       "Governance": {
@@ -42,24 +41,23 @@
         }
       },
       "Geopolitics": {
-        "signal": "high",
+        "signal": "elevated",
         "votes": {
-          "high": 3,
-          "elevated": 2
+          "elevated": 5
         }
       },
       "Alignment": {
         "signal": "low",
         "votes": {
-          "low": 3,
-          "medium": 2
+          "low": 4,
+          "medium": 1
         }
       },
       "Wild Card": {
-        "signal": "medium",
+        "signal": "low",
         "votes": {
-          "low": 2,
-          "medium": 3
+          "low": 4,
+          "medium": 1
         }
       }
     },
@@ -68,7 +66,7 @@
       "candidates": 3,
       "lookback_days": 30,
       "pick": 2,
-      "why": "Candidate 2 pairs a plain one-verb wire headline with the freshest summary: its 'found the hole, wrote the exploit and walked through it' opener is new, whereas Candidate 3 reuses the 'Somewhere a\u2026' opening and Candidate 1 echoes the 'homework' joke, the 'Meanwhile' lead-in and the machines-versus-h",
+      "why": "Candidate 2 is the only one that skips the 'Somewhere...' opener and stock 'Meanwhile' pivot from recent cards, and it avoids the rehashed supermarket-freezer gag; its tabloid blurb 'MATH BOTS RATTLE EVERY PADLOCK' and fresh 1Password kicker land the encryption story sharply.",
       "fallback": false
     },
     "shadow": {
@@ -76,143 +74,143 @@
       "samples": 5,
       "fronts": {
         "AI Capability": {
-          "value": 43.0,
+          "value": 65.3,
           "scores": [
-            38.0,
-            38.0,
-            44.0,
-            47.0,
-            47.0
+            63.0,
+            63.0,
+            66.0,
+            67.0,
+            71.0
           ]
         },
         "Alignment": {
-          "value": 18.7,
+          "value": 14.0,
           "scores": [
-            16.0,
-            16.0,
-            19.0,
-            21.0,
-            22.0
+            12.0,
+            14.0,
+            14.0,
+            14.0,
+            23.0
           ]
         },
         "Governance": {
-          "value": 31.0,
+          "value": 27.0,
           "scores": [
+            25.0,
+            26.0,
             27.0,
-            31.0,
-            31.0,
-            31.0,
-            33.0
+            28.0,
+            29.0
           ]
         },
         "Geopolitics": {
-          "value": 60.0,
+          "value": 57.3,
           "scores": [
+            57.0,
+            57.0,
+            57.0,
             58.0,
-            58.0,
-            61.0,
-            61.0,
-            62.0
+            58.0
           ]
         },
         "Nuclear": {
-          "value": 11.7,
+          "value": 31.7,
           "scores": [
-            11.0,
-            11.0,
-            11.0,
-            13.0,
-            13.0
+            23.0,
+            31.0,
+            31.0,
+            33.0,
+            34.0
           ]
         },
         "Biotech": {
-          "value": 20.7,
+          "value": 46.0,
           "scores": [
-            19.0,
-            20.0,
-            21.0,
-            21.0,
-            23.0
+            38.0,
+            43.0,
+            46.0,
+            49.0,
+            57.0
           ]
         },
         "Cyber": {
-          "value": 48.0,
+          "value": 46.7,
           "scores": [
+            43.0,
             44.0,
-            46.0,
             47.0,
-            51.0,
-            53.0
+            49.0,
+            51.0
           ]
         },
         "Climate": {
-          "value": 17.3,
+          "value": 20.7,
           "scores": [
-            16.0,
-            17.0,
-            17.0,
-            18.0,
-            19.0
+            19.0,
+            19.0,
+            21.0,
+            22.0,
+            23.0
           ]
         },
         "Wild Card": {
-          "value": 21.3,
+          "value": 17.3,
           "scores": [
+            15.0,
+            16.0,
             17.0,
             19.0,
-            22.0,
-            23.0,
-            23.0
+            21.0
           ]
         }
       },
       "composites": {
         "max_breadth": {
-          "value": 64.1,
-          "sd": 1.7,
-          "se": 1.08,
+          "value": 71.3,
+          "sd": 3.02,
+          "se": 1.33,
           "scores": [
-            62.2,
-            62.4,
-            64.6,
-            65.2,
-            66.0
+            68.5,
+            69.3,
+            71.8,
+            72.8,
+            76.1
           ]
         },
         "power": {
-          "value": 39.9,
-          "sd": 1.07,
-          "se": 0.27,
+          "value": 46.5,
+          "sd": 1.04,
+          "se": 0.43,
           "scores": [
-            39.3,
-            39.5,
-            40.1,
-            40.2,
-            42.0
+            45.1,
+            46.1,
+            46.3,
+            47.2,
+            47.8
           ]
         },
         "mean": {
-          "value": 30.3,
-          "sd": 0.96,
-          "se": 0.26,
+          "value": 36.4,
+          "sd": 1.38,
+          "se": 0.6,
           "scores": [
-            28.6,
-            30.0,
-            30.3,
-            30.7,
-            31.1
+            34.8,
+            35.4,
+            36.8,
+            36.9,
+            38.3
           ]
         },
         "max": {
-          "value": 60.0,
-          "sd": 1.87,
-          "se": 1.22,
+          "value": 65.3,
+          "sd": 3.32,
+          "se": 1.53,
           "scores": [
-            58.0,
-            58.0,
-            61.0,
-            61.0,
-            62.0
+            63.0,
+            63.0,
+            66.0,
+            67.0,
+            71.0
           ]
         }
       },
@@ -222,67 +220,67 @@
       "weight": 1.0,
       "method": "max_breadth",
       "legacy": null,
-      "composite": 64.1,
+      "composite": 71.3,
       "source": "blend",
       "start": "2026-10-29",
       "days": 5,
-      "input": 64.1,
-      "se": 1.08,
+      "input": 71.3,
+      "se": 1.33,
       "mode": "factors",
       "scorer": "factors"
     },
     "sober_retry": false,
     "filter": {
-      "P": 7.33,
-      "K": 0.342,
-      "shock_p": 0.004,
-      "innovation": -4.0,
-      "prev": 68.1,
-      "noise_sd": 4.63,
+      "P": 13.96,
+      "K": 0.634,
+      "shock_p": 0.103,
+      "innovation": 4.6,
+      "prev": 66.7,
+      "noise_sd": 4.69,
       "mode": "adaptive"
     },
     "scoring_model": "claude-opus-5-5",
-    "driver": "Amazon says hackers' AI agents found and exploited 0-day with little human input. The Cairn AI framework is proving to be a boon for defenders and attackers.",
-    "category": "Cyber",
-    "blurb": "HACKER AGENTS EXPLOIT A ZERO-DAY",
-    "summary": "The machines found the hole, wrote the exploit and walked through it while the humans were presumably at lunch. Amazon calls that a boon for defenders too, which is cold comfort on the same day Iran is suspected of hacking 50 commercial ships and OpenAI shaved the matrix multiplication exponent down to 2.25. Washington, meanwhile, is busy pardon-proofing a chip CEO and watching the Houthis use a Saudi skyscraper for target practice.",
+    "driver": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "category": "AI Capability",
+    "blurb": "MATH BOTS RATTLE EVERY PADLOCK",
+    "summary": "Integer factorization and discrete logs are the two quiet pillars holding up basically all of internet encryption, and Google just dropped AI research papers on both while Reddit whispers about factoring in P. Add OpenAI pinning down the matrix-multiplication limit and a Hacker News thread that is just 'holy shit' four times, and the machines are having a better Thanksgiving than your passwords. Speaking of which, 1Password picked this week for a security incident. Impeccable timing.",
     "factors": [
       {
         "name": "AI Capability",
-        "signal": "elevated",
-        "detail": "AI labs are posting landmark maths proofs, and AI agents are finding exploitable zero-days with little human input."
+        "signal": "high",
+        "detail": "AI is now landing hits on factorization, matrix multiplication and the Riemann family of problems faster than anyone can read the PDFs."
       },
       {
         "name": "Governance",
         "signal": "medium",
-        "detail": "The Huang reinstatement saga, with presidential pressure, a floated pardon and ignored intelligence warnings, shows Nvidia may be too big to police."
+        "detail": "Regulators waved through a million orbiting AI data centers while Washington tightened chip curbs and grilled Nvidia's returning CEO."
       },
       {
         "name": "Geopolitics",
-        "signal": "high",
-        "detail": "The Iran war grinds into month eight, Houthis are hitting Saudi targets, and Putin is promising retaliation over refinery strikes."
+        "signal": "elevated",
+        "detail": "Missiles on Kyiv, jets burning at a Russian airfield, strikes in Gaza and a fresh tariff barrage keep the map hot."
       },
       {
         "name": "Alignment",
-        "signal": "low",
-        "detail": "There are essays and conferences about whose side AI agents are on, but no actual incident today."
+        "signal": "medium",
+        "detail": "Experts concede they can't predict where AI's capabilities will jump next, which is not the reassurance anyone wanted."
       },
       {
         "name": "Wild Card",
         "signal": "low",
-        "detail": "A tech-stock rout and Anthropic's slide below its IPO price rattle markets without breaking anything."
+        "detail": "An explosive plume over Iowa and a Bangkok depot blast are unsettling but contained."
       }
     ],
     "mood": [
-      "uneasy",
-      "wired",
+      "vertiginous",
       "exposed",
-      "jittery"
+      "giddy",
+      "uneasy"
     ],
     "tier": 7,
     "tier_name": "Red Alert",
-    "card_image": "doom-card-2026-11-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide aerial view looking down at a 45-degree angle over an endless cracked basalt plain, laid out like a vast grid of square iron hatches that stretches to a hazy horizon. Molten furnace-orange light floods up from the seams between the hatches and floods the whole scene from below. The sky is a glowing bruised-violet and blood-red haze with orange smoke banks, so every part of the frame is clearly visible. Thousands of closed hatches, each fastened with a small red padlock, sit in neat rows. Glowing orange lines of lava run between them like a network of nodes and edges. In the center rises a tall, precarious cairn of stacked dark stones, a trail-marker tower, lit hot orange from below and casting long violet shadows across the grid. From its base, long disciplined streams of identical tiny insect-like mechanical workers march in rigid lines. They fan out across the plain and swarm over the hatches, each one pressing at a padlock. Far off at the edge of the grid, one hatch stands open with its padlock snapped in two. A tall column of white-hot orange light blasts out of it into the red sky, and the nearest workers pour toward it. On a low basalt ridge in the foreground, a single tiny whole human figure in a dark coat stands with arms hanging at their sides, back to the viewer, small and passive, watching the swarm do the work. The vast landscape dominates, and the mood is malevolent and relentless like a 16-bit boss stage.",
+    "card_image": "doom-card-2026-11-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. An extreme close-up on a single cracked laptop screen filling the entire frame, seen straight on, with the edges of a rain-streaked caf\u00e9 window and a sliver of a wet cobblestone street reflected in the glass border. The screen shows a pale, bureaucratic file-listing web page, rendered as chunky pixel blocks: a bold heading bar, ten rows of tiny blue underlined link blobs each ending in a small \"PDF\" document icon, and a thin gray disclaimer strip at the bottom. The page is lit by a furnace-orange and blood-red glare that pours up from below the frame, as if the laptop sits on a hearth of embers, so every row of links glows brightly and the white page turns molten orange. A huge jagged crack runs diagonally across the screen, and through it bleeds searing red-orange light. Rising out of the crack is a giant padlock made of pixel iron, its shackle split clean in two, with a glowing composite number breaking into two halves like a cleaved stone block. Around it float small ghostly icons of a two-by-two payoff grid, a black-and-white checker matrix, and a node-and-line graph with one edge missing. All are drawn in hot orange and crimson outlines. Shadows and the screen bezel are bruised violet, never black, and the whole frame is bright and legible at phone size. A tiny pixel cursor arrow hovers over the top link, a malevolent, quietly ordinary doorway to ruin.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -291,74 +289,73 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The central cairn reads more like a dark spike or tower with streams fanning from its base than a stack of stones, and the insect-like workers are so small they look like dotted texture rather than marching bugs.",
-        "The padlocks on the hatches are not readable at phone size; the hatches look like glowing grid tiles.",
-        "The distant open hatch with its light column is clear, but the broken padlock and the workers pouring toward it can't be made out.",
-        "The foreground figure is small and dark against the ridge, but it still reads as a single person in a coat seen from behind, with no anatomy problems.",
-        "There is a purple-red smudge to the left of the cairn base, probably the violet shadow, that looks a bit like a stain.",
-        "The orange-red palette is very saturated and the grid is busy and noisy, but the scene stays readable."
+        "The padlock carries a legible \"37 42\" in the art. The prompt asked for a composite number, but the card adds its own numbers, so this could duplicate or clash with them.",
+        "The payoff-grid icon at upper right has tiny \"$\" and \"$$\" marks. They read as stand-ins for writing and are acceptable.",
+        "The link rows, heading bar and footer strip use pixel squiggles in place of text. This is fine at phone size.",
+        "The glass-border reflections of the caf\u00e9 window and wet street at the top are murky and hard to read, but they are only background.",
+        "The crack and glow overlap the lock and the right-hand icons, so the checker matrix and node graph are somewhat cluttered. Both are still recognizable."
       ],
       "tone": {
-        "gain": 1.54,
-        "lit_before": 0.417,
-        "lit_share": 0.509
+        "gain": 1.0,
+        "lit_before": 0.524,
+        "lit_share": 0.524
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-25.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/doom-card-2026-11-26.png"
   },
   "dawn": {
-    "percentage": 33.3,
-    "driver": "Severe eczema healed by novel immune-calming pill in clinical trial",
+    "percentage": 30.4,
+    "driver": "The next generation of bionic hands is here\u2014and they can feel. Avi Davidson lost his left hand as a teenager. Since then, he\u2019s cycled through a few prosthetics. But his latest is different\u2014it\u2019s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects\u2026",
     "category": "Medicine",
-    "blurb": "THE RED SKIN SOFTENS, ONE PILL A DAY",
-    "summary": "People with moderate to severe eczema saw their skin heal on an experimental immune-calming drug. The trial found it highly effective and safe, and because it is a pill, patients could skip the injections that current advanced treatments require. In the lab, mRNA-style nose drops restored youthful learning and memory in aging mice, and IBM and University of Chicago researchers showed a quantum computer finishing in 15 minutes a calculation beyond practical classical reach.",
+    "blurb": "AVI'S LEFT HAND, FEELING AGAIN",
+    "summary": "Avi Davidson can feel pressure through his left hand again. His new bionic prosthetic is wired into the nerves of his forearm, so for the first time in years he can pick up delicate objects with it, one of a new generation of hands that can sense. Elsewhere, physicists cooled a single positron to near absolute zero for the most precise matter-antimatter comparison yet, and in Austin a Little Free Bakery is giving away pastries and drawing neighbors together.",
     "factors": [
       {
         "name": "Science",
         "signal": "blazing",
-        "detail": "An IBM quantum computer solved a problem beyond the practical reach of classical methods, and a new preprint claims matrix multiplication can be done in n to the 2.25 time."
+        "detail": "Physicists trapped a single positron in a wall-free trap and cooled it to near absolute zero, which sets up the most precise comparison yet between matter and antimatter."
       },
       {
         "name": "Cooperation",
-        "signal": "glimmer",
-        "detail": "The Solomon Islands signed a new security treaty with Australia, which its leader said would bring the country steadiness in the region."
+        "signal": "bright",
+        "detail": "DoorDash aims to deliver two million meals to food banks for free, and its drivers' routes will help keep pantries stocked through the holidays."
       },
       {
         "name": "Human Spirit",
         "signal": "bright",
-        "detail": "NFL teams, including the Lions and the Cowboys, who are marking 30 years of the tradition, are serving Thanksgiving meals to their communities."
+        "detail": "Ultra cyclist Jack Thompson rode almost 10,000 miles through all 48 contiguous US states in just 60 days."
       },
       {
         "name": "Environment",
         "signal": "glimmer",
-        "detail": "Conservationists are working to protect the 300-mile migration of Wyoming's mule deer, one of the longest land journeys in the lower 48 states."
+        "detail": "A trial starting in Peru in 2027 will give Indigenous Amazon communities no-strings cash payments to test whether basic income helps keep the rainforest standing."
       },
       {
         "name": "Wild Card",
-        "signal": "bright",
-        "detail": "Route 66's Ariston Cafe has been feeding travelers since 1924, and it is still serving classic road fare nearly a century later."
+        "signal": "glimmer",
+        "detail": "ESA's Euclid telescope, built to map dark matter, found its first new comet, an icy wanderer on an orbit that takes thousands of years to complete."
       }
     ],
     "mood": [
-      "relieved",
-      "hopeful",
-      "soothed",
+      "tender",
+      "restorative",
       "curious",
-      "grateful"
+      "neighborly",
+      "wondrous"
     ],
     "copy_pick": {
       "model": "claude-opus-5-5",
       "candidates": 3,
       "lookback_days": 30,
       "pick": 2,
-      "why": "Candidate 2 has the freshest blurb, with no 'ONE/A..., AND...' opener and no recycled 'Elsewhere'; it wears the nature-documentary voice as a quiet close-up ('THE RED SKIN SOFTENS'), and its summary stays concrete and all-good, with the nose-drop and 15-minute quantum results.",
+      "why": "Candidate 2's blurb 'AVI'S LEFT HAND, FEELING AGAIN' best fits today's terse two-beat field-notes form, its summary avoids recent openings and signature phrases, and it stays strictly on good news with the real bionic-hand story as driver.",
       "fallback": false
     },
     "sober_retry": false,
     "tier": 4,
     "tier_name": "Rays Breaking",
-    "card_image": "dawn-card-2026-11-25.png",
-    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WEATHER-DOMINATED scene: a soft drizzle and low amber-lit haze fill a quiet row-house street in a different city, on the morning after a breakthrough eczema pill trial reported its results. Rain slants in fine pixel streaks through thick golden mist. Wet slate roofs, brick stoops and dripping maple trees dissolve into layers of warm amber and soft sage green. The shadows are lifting, and a pale clean light is breaking through the cloud ceiling. In the foreground a middle-aged man in a short-sleeved cotton shirt stands whole on a brick front stoop, his bare forearms held out into the gentle rain. He looks down at his smooth, clear skin with quiet wonder, and the raindrops bead on it. On the iron stoop railing beside him sit a glass of water and one small pale tablet, glowing faintly. Across the street, a corner pharmacy window shines warm amber with a green cross sign (no letters), and a discarded injector pen lies faded and half-buried in a wet gutter leaf pile. In the glassy puddle at his feet, tangled red-orange signal threads in the reflection unravel into calm blue-green ripples, a stylized nod to an overactive immune pathway being quieted. The mood is a hopeful exhale, dawn rather than noon, with a limited palette of warm amber, honey gold, soft sage and misty aqua.",
+    "card_image": "dawn-card-2026-11-26.png",
+    "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. SILHOUETTE COMPOSITION in a backyard garden on a clean, clear morning. A vast sky behind the scene glows from honey-amber at the horizon to pale soft green overhead, with the low sun just clearing a far line of rooftops. A wooden pergola draped in grapevines arches across the upper frame. Its leaves are dark green silhouettes edged in gold, and a few grape clusters hang backlit like small amber-green lanterns. In the middle distance, a lone wooden telephone pole stands empty against the glow, a quiet echo of the past. In the foreground, a small round patio table is set with a bowl of grapes and a single cream-colored egg in an egg cup. Avi Davidson, a whole figure seated at the table, is a dark silhouette in profile. His left forearm is extended, and the bionic hand pinches one grape between its fingertips with great care. Fine soft-green luminous filaments run from his upper forearm into the hand, glowing against the dark shape as the feeling of touch. Across the table sits a second, smaller whole silhouette, a loved one with no identifying features, leaning in and smiling toward him. A narrow open back doorway of the home stands behind them, a threshold the device has crossed. Dewy grass catches rim light along the bottom edge. Shadows are lifting, and the palette is warm amber, soft green and deep umber silhouettes. Chunky dithered gradients in the sky, crisp pixel clusters on the leaves.",
     "image_check": {
       "model": "claude-sonnet-5-5",
       "verdict": "pass",
@@ -367,36 +364,34 @@
       "rejected": [],
       "major": [],
       "minor": [
-        "The glass of water sits on the brick pillar rather than the iron railing, and the glowing tablet the prompt asked for is barely visible or missing.",
-        "The man's hands are small and a little soft in the pixel detail, but they connect to his arms and read fine.",
-        "The puddle reflection shows orange threads and trees but no clear reflection of the man.",
-        "The traffic signal or lamp post across the street is a bit ambiguous.",
-        "The pharmacy window has tiny squiggles standing in for writing, which is acceptable.",
-        "The discarded injector pen in the gutter is small and easy to mistake for litter."
+        "The man's extended bionic forearm is long and thin compared with his torso, and the glowing green filaments read more as a green sleeve. It is still clearly attached at his elbow and shoulder.",
+        "The silhouettes of both figures merge with their chairs and with the table legs, so lower bodies and legs are hard to separate. This is expected in a silhouette composition.",
+        "The woman's face and smile are not readable. Her hand-on-chin pose is only a dark blob.",
+        "The egg cup and grape bowl on the table are small and dark, so they are hard to make out on a phone."
       ],
       "tone": {
         "gain": 1.0,
-        "lit_before": 0.639,
-        "lit_share": 0.639
+        "lit_before": 0.275,
+        "lit_share": 0.275
       }
     },
-    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-25.png"
+    "card_url": "https://ddewaide.github.io/pdoom-data/cards/dawn-card-2026-11-26.png"
   },
   "usage": {
     "claude-opus-5-5": {
       "calls": 10,
-      "input_tokens": 151911,
-      "output_tokens": 18332,
+      "input_tokens": 150792,
+      "output_tokens": 16972,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
     "claude-sonnet-5-5": {
       "calls": 6,
-      "input_tokens": 17748,
-      "output_tokens": 8261,
+      "input_tokens": 16306,
+      "output_tokens": 7358,
       "cache_read_input_tokens": 0,
       "cache_creation_input_tokens": 0
     },
-    "estimated_usd": 1.0924
+    "estimated_usd": 1.0488
   }
 }
