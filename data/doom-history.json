@@ -39853,5 +39853,401 @@
       },
       "estimated_usd": 1.0488
     }
+  },
+  {
+    "date": "2026-11-27",
+    "generated_at": "2026-11-27T10:43:00.687154+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 68.2,
+      "raw_percentage": 66.4,
+      "blind_scores": [
+        66.2,
+        66.3,
+        66.5,
+        66.5,
+        67.5
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 0.52,
+        "min": 66.2,
+        "max": 67.5,
+        "se": 0.08
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 66.2,
+        "2": 66.3,
+        "3": 67.5,
+        "4": 66.5,
+        "5": 66.5
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "low": 1,
+            "medium": 4
+          }
+        },
+        "Governance": {
+          "signal": "low",
+          "votes": {
+            "medium": 2,
+            "low": 3
+          }
+        },
+        "Geopolitics": {
+          "signal": "high",
+          "votes": {
+            "high": 5
+          }
+        },
+        "Alignment": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 opens directly on the story with 'Twelve thousand Ebola cases' instead of reusing the 'While America...' opening from recent cards, keeps the strong newsreel blurb, and closes on a fresh, pointed Eagles-comeback line rather than a stock punchline.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 21.3,
+            "scores": [
+              14.0,
+              21.0,
+              21.0,
+              22.0,
+              22.0
+            ]
+          },
+          "Alignment": {
+            "value": 8.7,
+            "scores": [
+              8.0,
+              8.0,
+              9.0,
+              9.0,
+              9.0
+            ]
+          },
+          "Governance": {
+            "value": 19.7,
+            "scores": [
+              17.0,
+              19.0,
+              19.0,
+              21.0,
+              21.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 63.0,
+            "scores": [
+              63.0,
+              63.0,
+              63.0,
+              63.0,
+              64.0
+            ]
+          },
+          "Nuclear": {
+            "value": 29.0,
+            "scores": [
+              27.0,
+              29.0,
+              29.0,
+              29.0,
+              31.0
+            ]
+          },
+          "Biotech": {
+            "value": 59.0,
+            "scores": [
+              57.0,
+              58.0,
+              58.0,
+              61.0,
+              61.0
+            ]
+          },
+          "Cyber": {
+            "value": 7.7,
+            "scores": [
+              7.0,
+              7.0,
+              8.0,
+              8.0,
+              9.0
+            ]
+          },
+          "Climate": {
+            "value": 26.3,
+            "scores": [
+              26.0,
+              26.0,
+              26.0,
+              27.0,
+              28.0
+            ]
+          },
+          "Wild Card": {
+            "value": 14.7,
+            "scores": [
+              13.0,
+              14.0,
+              14.0,
+              16.0,
+              16.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 66.4,
+            "sd": 0.52,
+            "se": 0.08,
+            "scores": [
+              66.2,
+              66.3,
+              66.5,
+              66.5,
+              67.5
+            ]
+          },
+          "power": {
+            "value": 42.5,
+            "sd": 0.66,
+            "se": 0.41,
+            "scores": [
+              42.1,
+              42.2,
+              42.2,
+              43.2,
+              43.5
+            ]
+          },
+          "mean": {
+            "value": 27.7,
+            "sd": 0.69,
+            "se": 0.4,
+            "scores": [
+              26.6,
+              27.1,
+              28.0,
+              28.1,
+              28.1
+            ]
+          },
+          "max": {
+            "value": 63.0,
+            "sd": 0.45,
+            "se": 0.0,
+            "scores": [
+              63.0,
+              63.0,
+              63.0,
+              63.0,
+              64.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 66.4,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 66.4,
+        "se": 0.08,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 9.07,
+        "K": 0.448,
+        "shock_p": 0.005,
+        "innovation": -3.2,
+        "prev": 69.6,
+        "noise_sd": 4.5,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate. As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+      "category": "Biotech",
+      "blurb": "IN THE CONGO, THE FEVER MARCHES ON",
+      "summary": "Twelve thousand Ebola cases, and the people trained to stop it are packing up because a civil war keeps wandering into the treatment zone. Meanwhile two Rheinmetall technicians died in Kuwait, Trump says the Iran war ends whenever he feels like it, and Kim Jong Un spent the holiday shopping for plutonium. America mostly spent Thanksgiving without power, watching the Eagles stage a comeback the rest of the planet could use.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "The FCC blessed a million orbital data centres, and photonic chips promise to make AI cheaper to run."
+        },
+        {
+          "name": "Governance",
+          "signal": "low",
+          "detail": "Forty-two attorneys general are fighting to keep Character.AI's 21 million chat logs off the bankruptcy auction block."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "high",
+          "detail": "The Iran war claims European casualties in Kuwait, Russia readies a fresh grid assault on Ukraine, and tariff threats ripple out to Beijing and Bras\u00edlia."
+        },
+        {
+          "name": "Alignment",
+          "signal": "low",
+          "detail": "No new reports of models misbehaving."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "A leaderless UN, a junta extending its own deadline, and a Manhattan manhole mystery round out the oddities."
+        }
+      ],
+      "mood": [
+        "feverish",
+        "storm-battered",
+        "uneasy",
+        "smoldering",
+        "grim"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. A wide night view of a hillside cemetery on the edge of Beni, North Kivu, the morning-after calm of an Ebola burial ground, lit entirely by artificial light under a deep violet-blue sky. Rows of freshly mounded red laterite graves climb a rain-slicked slope, each mound topped with a small wooden cross or a plank marker and a plastic jerrycan of chlorine water. Banana palms and tin-roofed houses ring the hill. Far off, the Rwenzori foothills show as bruised violet silhouettes. Puddles across the churned red mud mirror the glow. Three tall floodlight poles of the response team stand among the graves, each throwing a wide furnace-orange pool of light that covers the whole slope, so every grave, tool and figure is in plain view. Low blood-red glare rises from burning waste barrels at the cemetery's lower edge and lights the underside of heavy clouds in orange and crimson. In the foreground, a white sealed coffin rests beside a freshly filled grave. Shovels, a pickaxe and a wheelbarrow of red earth are laid out neatly beside it. A backpack chlorine sprayer and a hand-washing station with a spigot bucket stand nearby. Two whole burial workers in white hooded PPE, goggles and tall rubber boots stand at the grave, one spraying down the other's suit, both stained rust-red to the knee. A small group of relatives in bright wax-print cloth stands apart at a rope line, faces uncovered and turned toward the grave, each fully visible. A white WHO-style Land Cruiser sits mud-splashed on the track behind them, headlights blazing. Orange plastic mesh fencing snakes along the edge of the plot. The mood is malevolent and hostile, with glowing red-orange light from below, violet shadows and nothing hidden.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The relatives at the rope line are a bit muddled. The figure in the yellow-green dress overlaps the orange-patterned figure beside it, and the faded orange figure near the right blends into the muddy background. Faces are small and soft, but the group still reads as a crowd of mourners.",
+          "The prompt asked for a coffin beside a freshly filled grave, but the coffin sits next to an open pit. Readers would not notice this.",
+          "The spray wand and hose between the two workers is small and hard to read at phone size. The gesture still reads as one worker spraying down the other.",
+          "The graves in the middle distance blur into a repetitive texture of crosses and jerrycans. This is acceptable as pixel-art background detail.",
+          "The highly saturated orange and purple color grade is heavy, but every subject stays clearly visible."
+        ],
+        "tone": {
+          "gain": 2.49,
+          "lit_before": 0.254,
+          "lit_share": 0.51
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 31.8,
+      "driver": "Hope for millions as cheaper HIV prevention jab reaches Africa. Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "category": "Medicine",
+      "blurb": "A NOT-UNHELPFUL JAB REACHES AFRICA",
+      "summary": "Two shots a year, nearly complete protection against HIV, and now a price that clinics across Africa can actually pay: lenacapavir is arriving where it can do the most good. In Virginia, chemists found a way to turn stubborn PVC waste into high-grade engine lubricant in three hours. And in California, firefighters followed a cat's AirTag, drilled through concrete, and handed a very relieved feline back to its owner.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "blazing",
+          "detail": "Physicists working with a quantum simulator have observed particles that fit neither the boson nor the fermion category, offering evidence for a long-debated third class."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Asked what they're thankful for, Democrats and Republicans on Capitol Hill gave the same answer: family."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "A New York doctor is twisting balloon art to pay off $400,000 in student loans, one cheerful creation at a time."
+        },
+        {
+          "name": "Environment",
+          "signal": "bright",
+          "detail": "Virginia Tech researchers can now convert discarded PVC, one of the hardest plastics to recycle, into a valuable ingredient for high-performance engine oil."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "X-ray imaging shows the narwhal's tusk holds two microscopic spirals twisting in opposite directions, a quiet piece of natural engineering."
+        }
+      ],
+      "mood": [
+        "hopeful",
+        "protected",
+        "inventive",
+        "grateful",
+        "warm"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 1,
+        "why": "The litotes 'NOT-UNHELPFUL' wears the understatement directive most sharply without copying the recent 'mildly/fairly' hedges or 2's frequency-count shape that echoes 'ONE PILL A DAY', and its summary is the tightest and wittiest, with no bad news.",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-27.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. GROUND-LEVEL VIEW looking steeply upward from the dusty red-earth path outside a small community health clinic in rural Zambia, on a clean, clear morning. The whitewashed clinic wall with a corrugated tin roof rises overhead, and a tall green jacaranda-style tree and a wide sky stretch above. The sky glows honey-amber at the horizon and fades to soft pale green-blue at the top, with long clean shafts of morning light lifting the last shadows off the ground. In the open doorway, framed from below, stands a young woman in her late teens in a simple yellow-ochre dress, seen whole. She presses a small cotton bandage to her upper arm, her chin lifted and a calm, open smile on her face as she looks out toward the horizon, relieved and unburdened. A few steps behind her, a woman in a green nurse's tunic, also fully visible, smiles and waves from the threshold. On the whitewashed wall beside the door hangs a paper wall calendar with exactly two dates circled in red, a quiet sign of the twice-a-year protection. A single small red ribbon is painted on the clinic's signboard, the only red accent in the scene. High above in the amber sky, a tiny cargo plane trails a thin white line toward the horizon, a quiet echo of the shipment that arrived. Warm amber, terracotta and soft leafy green palette, crisp dithered pixel clouds, no pill bottles, and a hopeful stillness of a long burden lifting.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The cargo plane high in the sky is a small, vague cross-shaped blob, but it reads as a distant aircraft with a contrail.",
+          "The calendar's red circles look a bit like a blobby 'OO', but they pass as tiny marks standing in for dates.",
+          "The nurse in the dark doorway is somewhat muddy and low in contrast, though her body, waving hand and legs all connect properly.",
+          "The roofline and the lower annex roof on the right are slightly awkward in perspective, but nothing is visibly fused or broken."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.795,
+          "lit_share": 0.795
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 134576,
+        "output_tokens": 15624,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 16261,
+        "output_tokens": 7447,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 0.9578
+    }
   }
 ]
