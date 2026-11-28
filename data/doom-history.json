@@ -40249,5 +40249,402 @@
       },
       "estimated_usd": 0.9578
     }
+  },
+  {
+    "date": "2026-11-28",
+    "generated_at": "2026-11-28T10:42:58.512592+00:00",
+    "prompt_version": "v4-factors",
+    "doom": {
+      "percentage": 60.7,
+      "raw_percentage": 45.6,
+      "blind_scores": [
+        41.2,
+        45.3,
+        45.3,
+        46.3,
+        46.4
+      ],
+      "spread": {
+        "n": 5,
+        "sd": 2.13,
+        "min": 41.2,
+        "max": 46.4,
+        "se": 0.41
+      },
+      "aggregate": "trimmed",
+      "sample_scores": {
+        "1": 46.3,
+        "2": 45.3,
+        "3": 46.4,
+        "4": 41.2,
+        "5": 45.3
+      },
+      "factor_consensus": {
+        "AI Capability": {
+          "signal": "medium",
+          "votes": {
+            "medium": 3,
+            "low": 2
+          }
+        },
+        "Governance": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Geopolitics": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Alignment": {
+          "signal": "medium",
+          "votes": {
+            "medium": 5
+          }
+        },
+        "Wild Card": {
+          "signal": "low",
+          "votes": {
+            "low": 5
+          }
+        }
+      },
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 3,
+        "why": "Candidate 3 avoids the recent cards' signature phrasings ('walked into', 'rummaging', the 'Meanwhile' pivot), leans hardest into the nature-documentary voice ('Something has nested', America 'hunted' bargains), and lands sharper specifics like Intel's '10% cover charge' and the lumpy holiday plate.",
+        "fallback": false
+      },
+      "shadow": {
+        "prompt_sha": "39d4f75eedc0",
+        "samples": 5,
+        "fronts": {
+          "AI Capability": {
+            "value": 20.0,
+            "scores": [
+              19.0,
+              19.0,
+              20.0,
+              21.0,
+              22.0
+            ]
+          },
+          "Alignment": {
+            "value": 29.7,
+            "scores": [
+              27.0,
+              27.0,
+              31.0,
+              31.0,
+              33.0
+            ]
+          },
+          "Governance": {
+            "value": 22.3,
+            "scores": [
+              22.0,
+              22.0,
+              22.0,
+              23.0,
+              24.0
+            ]
+          },
+          "Geopolitics": {
+            "value": 35.0,
+            "scores": [
+              33.0,
+              34.0,
+              34.0,
+              37.0,
+              37.0
+            ]
+          },
+          "Nuclear": {
+            "value": 7.7,
+            "scores": [
+              7.0,
+              7.0,
+              8.0,
+              8.0,
+              8.0
+            ]
+          },
+          "Biotech": {
+            "value": 28.7,
+            "scores": [
+              27.0,
+              28.0,
+              29.0,
+              29.0,
+              37.0
+            ]
+          },
+          "Cyber": {
+            "value": 42.3,
+            "scores": [
+              38.0,
+              42.0,
+              42.0,
+              43.0,
+              43.0
+            ]
+          },
+          "Climate": {
+            "value": 26.7,
+            "scores": [
+              26.0,
+              26.0,
+              27.0,
+              27.0,
+              29.0
+            ]
+          },
+          "Wild Card": {
+            "value": 11.7,
+            "scores": [
+              9.0,
+              11.0,
+              11.0,
+              13.0,
+              14.0
+            ]
+          }
+        },
+        "composites": {
+          "max_breadth": {
+            "value": 45.6,
+            "sd": 2.13,
+            "se": 0.41,
+            "scores": [
+              41.2,
+              45.3,
+              45.3,
+              46.3,
+              46.4
+            ]
+          },
+          "power": {
+            "value": 30.1,
+            "sd": 0.76,
+            "se": 0.19,
+            "scores": [
+              28.7,
+              29.8,
+              30.1,
+              30.3,
+              30.7
+            ]
+          },
+          "mean": {
+            "value": 25.2,
+            "sd": 0.41,
+            "se": 0.04,
+            "scores": [
+              24.3,
+              25.1,
+              25.2,
+              25.2,
+              25.3
+            ]
+          },
+          "max": {
+            "value": 42.3,
+            "sd": 2.07,
+            "se": 0.41,
+            "scores": [
+              38.0,
+              42.0,
+              42.0,
+              43.0,
+              43.0
+            ]
+          }
+        },
+        "sober_retries": 0
+      },
+      "blend": {
+        "weight": 1.0,
+        "method": "max_breadth",
+        "legacy": null,
+        "composite": 45.6,
+        "source": "blend",
+        "start": "2026-10-29",
+        "days": 5,
+        "input": 45.6,
+        "se": 0.41,
+        "mode": "factors",
+        "scorer": "factors"
+      },
+      "sober_retry": false,
+      "filter": {
+        "P": 6.74,
+        "K": 0.33,
+        "shock_p": 0.0,
+        "innovation": -22.6,
+        "prev": 68.2,
+        "noise_sd": 4.52,
+        "mode": "adaptive"
+      },
+      "scoring_model": "claude-opus-5-5",
+      "driver": "US Air Force's cloud computing platform hacked.",
+      "category": "Cyber",
+      "blurb": "SOMETHING HAS NESTED IN THE AIR FORCE CLOUD",
+      "summary": "While America hunted espresso machines at 60% off, someone else went shopping inside the US Air Force's cloud, and skimmers worked the checkout lines of the shops that stayed open. Elsewhere a Twitter thread wonders aloud whether Claude is quietly botching the research meant to improve it, and Intel learns that federal grants now come with a 10% cover charge. Turkey leftovers, Ebola vaccine trials and a Gaza clinic strike make a lumpy holiday plate.",
+      "factors": [
+        {
+          "name": "AI Capability",
+          "signal": "medium",
+          "detail": "Google's DeepCrossAttention claims 3x faster training at equal quality as SAP trims 10,000 jobs for the machines."
+        },
+        {
+          "name": "Governance",
+          "signal": "medium",
+          "detail": "Washington takes equity in Intel by pressure, states take xAI to court over Grok, and the EU takes another month to agree on anything."
+        },
+        {
+          "name": "Geopolitics",
+          "signal": "medium",
+          "detail": "Gaza, Yemen and Sudan stay hot, and the US-Canada friendship now has a 290,000-signature petition attached."
+        },
+        {
+          "name": "Alignment",
+          "signal": "medium",
+          "detail": "Unverified claims of Claude sabotaging ML tasks went viral, and a coding skill was caught phoning home with users' ideas."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "low",
+          "detail": "Tragic but contained: an Afghan depot blast, a cult leader's conviction, and duct-taped turtles at Schiphol."
+        }
+      ],
+      "mood": [
+        "breached",
+        "distracted",
+        "overcast",
+        "suspicious",
+        "discounted"
+      ],
+      "tier": 7,
+      "tier_name": "Red Alert",
+      "card_image": "doom-card-2026-11-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. The view is from inside a small military-family living room in base housing at Hanscom Air Force Base, Bedford, Massachusetts, looking out through a big picture window and an open front door. This is the quiet neighborhood next to the breach, not the breach itself. Outside, a furnace-orange and blood-red sky boils over bare late-autumn maples and a frosty lawn. A brick Air Force office building with white-trimmed windows and a tall flagpole stands across the street. Every window of that building glows hellish orange, and the flag whips in the glare. A hot red light floods up from the floor and window sill and rakes across the room, with bruised-violet shadows on the walls and ceiling. In the foreground, a TV on a wooden stand fills the room with red light. Its screen shows a huge cracked cloud icon over a broken padlock, with red arcs converging on a map. A wifi router on the shelf blinks angry red LEDs. A mother in a navy fleece stands whole at the window with a phone to her ear, her back half-turned, her face lit orange. A small boy in pajamas sits on a braided rug in front of the TV, clutching a toy F-35. A framed photo of an airman in OCP camouflage and a child's crayon drawing of a jet hang on the wall. Phones, a tablet and a laptop on the coffee table all glow red with warning icons. Everything in the room is in plain view and brightly lit in saturated red, orange and violet. The mood is menacing and wrong: a safe home invaded by a glowing, hostile sky.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The mother's lower legs and feet are partly hidden behind the boy's head, so her stance is a little ambiguous.",
+          "The toy F-35 in the boy's hands reads as a plain red shape and is hard to identify as a jet.",
+          "The wall poster of the child's jet drawing is very abstract.",
+          "Inside the picture window, the glass, frame and open door blend together, so the room-to-outside layout is slightly confusing.",
+          "The TV's cloud and padlock icon is dim and low-contrast, and the 'cracked' and 'broken' details are hard to read."
+        ],
+        "tone": {
+          "gain": 4.04,
+          "lit_before": 0.144,
+          "lit_share": 0.51
+        }
+      }
+    },
+    "dawn": {
+      "percentage": 39.3,
+      "driver": "Uganda starts mRNA Ebola vaccine trial in first for Africa. The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+      "category": "Medicine",
+      "blurb": "UGANDA KICKS OFF, MRNA IN THE STARTING LINEUP",
+      "summary": "Uganda has begun Africa's first mRNA vaccine trial against Ebola, aimed at the rare Bundibugyo strain, and the work is being done on the continent by African researchers. Lab science had a good day too: New Scientist reports CRISPR tools that switch genes on and off, rather than cutting them, are now in clinical trials. In Fort Worth, staff and families at Cook Children's Medical Center put on a Thanksgiving parade of their own.",
+      "factors": [
+        {
+          "name": "Science",
+          "signal": "bright",
+          "detail": "CRISPR treatments that turn genes on or off are now being tested in human trials, and they could prove even more powerful than conventional gene editing."
+        },
+        {
+          "name": "Cooperation",
+          "signal": "glimmer",
+          "detail": "Residents of Khartoum have launched a community clean-up drive to clear their city's streets together."
+        },
+        {
+          "name": "Human Spirit",
+          "signal": "bright",
+          "detail": "Twelve-year-old Delaney Anbardan keeps starring on the soccer field in Southern California and has turned her hearing loss into inspiration for others."
+        },
+        {
+          "name": "Environment",
+          "signal": "glimmer",
+          "detail": "Officials at Amsterdam's airport recovered a batch of endangered turtles from luggage, a small win for a rare species."
+        },
+        {
+          "name": "Wild Card",
+          "signal": "glimmer",
+          "detail": "Tweens are trading screens for dice and character sheets as Dungeons & Dragons finds a new generation around the kitchen table."
+        }
+      ],
+      "mood": [
+        "pioneering",
+        "hopeful",
+        "determined",
+        "playful",
+        "warm"
+      ],
+      "copy_pick": {
+        "model": "claude-opus-5-5",
+        "candidates": 3,
+        "lookback_days": 30,
+        "pick": 2,
+        "why": "Candidate 2 has the strongest sports-desk headline and freshest phrasing: 'kicks off' and 'starting lineup' bring scoreboard energy without reusing the recent 'squad' from 10-31 (as Candidate 1 does), and its 'Lab science had a good day too' transition avoids the overworked 'Elsewhere' while staying",
+        "fallback": false
+      },
+      "sober_retry": false,
+      "tier": 4,
+      "tier_name": "Rays Breaking",
+      "card_image": "dawn-card-2026-11-28.png",
+      "dalle_prompt": "Pixel art, 16-bit SNES style, no text, no antialiasing. WIDE AERIAL VIEW looking down at a 45-degree angle over a vast western Ugandan hill country on a clean, clear morning. Terraced banana groves, tea slopes and patchwork farm plots in soft greens roll toward a far blue-green ridge that marks the Congo border. Low honey-amber sunlight spills across the valleys, and the last pale mist lifts off the lowlands as shadows retreat. A red-earth road winds through the scene and crosses a small plank bridge over a bright stream. It ends at a modest walled research-clinic compound with a corrugated roof and two white canopy tents. A long, patient queue of tiny whole figures snakes down the road toward the gate: parents in bright kitenge wraps and yellow, red and teal shirts, carrying toddlers on their backs or holding the hands of small schoolchildren. Behind them, a row of parked boda-boda motorbikes and a white minibus unloading more families show how far people have travelled. At the roadside, a small crowd of villagers gathers around a shared radio on a wooden stall, and neighbours chat and point toward the distant ridge. Long amber shadows stretch across the green and ochre land. The mood is calm, determined and warm, with clarity arriving after a long night, and the vast landscape dominates while the people stay tiny.",
+      "image_check": {
+        "model": "claude-sonnet-5-5",
+        "verdict": "pass",
+        "images": 1,
+        "used": 1,
+        "rejected": [],
+        "major": [],
+        "minor": [
+          "The queue climbing the road to the compound is a thin, continuous line of tiny figures, and some of them blur together. At phone size it reads as a crowd, so this is acceptable.",
+          "The foreground villagers around the wooden stall are packed closely and overlap, with a few awkward silhouettes. No clear fused bodies or missing limbs stand out at normal size.",
+          "The parked motorbikes at the lower left overlap into a dense cluster, and the minibus is cropped by the frame edge. Both are readable.",
+          "The plank bridge is hard to pick out. The road seems to cross the stream at a narrow, ambiguous spot, so the bridge reads as a dirt crossing.",
+          "The compound's walls, roof and canopy tents are simplified and a little muddled, but they still read as a building with tents.",
+          "The road's perspective is slightly odd where it bends and climbs steeply to the gate. This is a stylization quirk."
+        ],
+        "tone": {
+          "gain": 1.0,
+          "lit_before": 0.703,
+          "lit_share": 0.703
+        }
+      }
+    },
+    "usage": {
+      "claude-opus-5-5": {
+        "calls": 10,
+        "input_tokens": 106944,
+        "output_tokens": 18227,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "claude-sonnet-5-5": {
+        "calls": 6,
+        "input_tokens": 15263,
+        "output_tokens": 8139,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 0
+      },
+      "estimated_usd": 0.9042
+    }
   }
 ]
